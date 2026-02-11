@@ -296,7 +296,7 @@ Eye Care Clinic in Jharkhand
                                 <a href="../contact.php"
                                     class="w-full bg-primary-500 text-white py-3 rounded-lg hover:bg-primary-600 transition-colors font-medium flex items-center justify-center space-x-2 mb-2"><i
                                         data-feather="calendar" class="w-4 h-4"></i><span>Book Appointment</span></a>
-                                <a href="../doctors.php"
+                                <a href="../doctors/abid-akhtar.php"
                                     class="w-full bg-white text-primary-600 py-2 rounded-lg border border-primary-600 hover:bg-primary-50 transition-colors font-medium flex items-center justify-center space-x-2"><i
                                         data-feather="user" class="w-4 h-4"></i><span>View Profile</span></a>
                             </div>

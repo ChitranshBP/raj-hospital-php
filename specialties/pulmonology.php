@@ -366,7 +366,7 @@ Pulmonary Care Hospital in Jharkhand
                                     <i data-feather="calendar" class="w-4 h-4"></i>
                                     <span>Book Appointment</span>
                                 </a>
-                                <a href="../doctors.php"
+                                <a href="../doctors/suprova-chakraborty.php"
                                     class="w-full bg-white text-primary-600 py-2 rounded-lg border border-primary-600 hover:bg-primary-50 transition-colors font-medium flex items-center justify-center space-x-2">
                                     <i data-feather="user" class="w-4 h-4"></i>
                                     <span>View Profile</span>
