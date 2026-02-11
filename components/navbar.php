@@ -170,14 +170,15 @@ function getSpecialtySlug($name, $category) {
                         <a href="<?php echo $base_url; ?>about.php" class="<?php echo $active_page == 'about.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">About Raj</a>
                         
                         <!-- Specialties Dropdown trigger -->
-                        <div class="relative group cursor-pointer" id="specialties-trigger">
-                            <div class="flex items-center space-x-1 <?php echo strpos($active_page, 'specialties') !== false ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">
+                        <div class=" group cursor-pointer" id="specialties-trigger">
+                            <div class="flex items-center space-x-1 pb-2 <?php echo strpos($active_page, 'specialties') !== false ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">
                                 <span>Specialities</span>
                                 <i data-feather="chevron-down" class="w-3 h-3 group-hover:rotate-180 transition-transform"></i>
                             </div>
-                            
+
                             <!-- Mega Menu -->
-                            <div class="absolute top-full right-0 w-[800px] bg-white rounded-2xl shadow-2xl border border-gray-100 p-6 hidden group-hover:block fade-in-visible z-50" style="margin-top: 10px;">
+                            <div id="mega-menu" class="absolute top-full right-0 hidden z-50">
+                            <div class="w-[800px] bg-white rounded-2xl shadow-2xl border border-gray-100 p-6 fade-in-visible">
                                 <div class="grid grid-cols-3 gap-6">
                                     <?php foreach ($specialties as $categoryData): ?>
                                     <div class="flex flex-col">
@@ -198,6 +199,7 @@ function getSpecialtySlug($name, $category) {
                                     </div>
                                     <?php endforeach; ?>
                                 </div>
+                            </div>
                             </div>
                         </div>
 
@@ -282,12 +284,12 @@ function getSpecialtySlug($name, $category) {
 
             // Mobile Category Dropdowns
             const categoryBtns = document.querySelectorAll('.mobile-category-btn');
-            
+
             categoryBtns.forEach(btn => {
                 btn.addEventListener('click', () => {
                     const items = btn.nextElementSibling;
                     const chevron = btn.querySelector('.category-chevron');
-                    
+
                     if (items) {
                         items.classList.toggle('hidden');
                     }
@@ -296,5 +298,22 @@ function getSpecialtySlug($name, $category) {
                     }
                 });
             });
+
+            // Desktop Mega Menu with delay
+            const trigger = document.getElementById('specialties-trigger');
+            const megaMenu = document.getElementById('mega-menu');
+            let hideTimeout = null;
+
+            if (trigger && megaMenu) {
+                trigger.addEventListener('mouseenter', () => {
+                    clearTimeout(hideTimeout);
+                    megaMenu.classList.remove('hidden');
+                });
+                trigger.addEventListener('mouseleave', () => {
+                    hideTimeout = setTimeout(() => {
+                        megaMenu.classList.add('hidden');
+                    }, 200);
+                });
+            }
         });
     </script>
