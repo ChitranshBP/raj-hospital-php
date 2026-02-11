@@ -7,13 +7,6 @@
   from = "/*"
   to = "/:splat.html"
   status = 200
-  conditions = {Role = ["admin"]}
-
-# Fallback to index.html
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
 
 # Security Headers
 [[headers]]
