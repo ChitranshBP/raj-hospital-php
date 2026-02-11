@@ -42,8 +42,9 @@ function copyDir($src, $dst) {
 
 // Helper: render a PHP file to HTML string using a subprocess
 function renderPhp($filePath) {
+    $dir = escapeshellarg(dirname($filePath));
     $escaped = escapeshellarg($filePath);
-    $html = shell_exec("php $escaped 2>&1");
+    $html = shell_exec("cd $dir && php $escaped 2>&1");
     return $html;
 }
 
