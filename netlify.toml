@@ -2,7 +2,7 @@
   command = "php build.php"
   publish = "dist"
 
-# Redirect /page to /page.html (clean URLs)
+# Clean URLs without extension (e.g. /about -> /about.html)
 [[redirects]]
   from = "/*"
   to = "/:splat.html"

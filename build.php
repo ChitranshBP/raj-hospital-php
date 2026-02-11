@@ -85,6 +85,9 @@ foreach ($pages as $page) {
     $relPath = ($page['subdir'] ? $page['subdir'] . '/' : '') . basename($page['file']);
     try {
         $html = renderPhp($page['file']);
+        // Replace .php links with .html for static hosting
+        $html = str_replace('.php"', '.html"', $html);
+        $html = str_replace(".php'", ".html'", $html);
         file_put_contents($page['output'], $html);
         echo "  OK: $relPath\n";
         $success++;
