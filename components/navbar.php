@@ -171,7 +171,7 @@ function getSpecialtySlug($name, $category) {
                         
                         <!-- Specialties Dropdown trigger -->
                         <div class=" group cursor-pointer" id="specialties-trigger">
-                            <div class="flex items-center space-x-1 pb-2 <?php echo strpos($active_page, 'specialties') !== false ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">
+                            <div class="flex items-center space-x-1 <?php echo strpos($active_page, 'specialties') !== false ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">
                                 <span>Specialities</span>
                                 <i data-feather="chevron-down" class="w-3 h-3 group-hover:rotate-180 transition-transform"></i>
                             </div>
