@@ -173,7 +173,6 @@
                 { id: 'vivek-raj', name: 'Dr. Vivek Raj', qualifications: 'MBBS, DNB', specialty: 'Neurosciences', experience: '9+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Neurosurgeon - Dr. Vivek-Raj.webp', hasStaticPage: true },
                 { id: 'pk-raina', name: 'Dr. P K Raina', qualifications: 'MBBS, MS', specialty: 'Oncology (Cancer Care)', experience: '20+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Oncologist - Dr. P-K-Raina.webp', hasStaticPage: true },
                 { id: 'deepak-verma', name: 'Dr. Deepak Verma', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '25+ Years', image: 'assets/Doc-Side/Orthopedic Surgeon - Dr. Deepak Verma.webp', hasStaticPage: true },
-                { id: 'abhijit-kumar', name: 'Dr. Abhijit Kumar', qualifications: 'MBBS, MS, PDCC', specialty: 'ENT', experience: '16+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
                 { id: 'mozammil-pheroz', name: 'Dr. Mozammil Pheroz', qualifications: 'MBBS, MS, DNB, Dip.Sports Medicine', specialty: 'Orthopaedics & Joint Replacement', experience: '11+ Years', image: 'assets/Doc-Side/dr-pheroz-raj-removebg-preview.png', hasStaticPage: true },
                 { id: 'ujjwal-sinha', name: 'Dr. Ujjwal Sinha', qualifications: 'MBBS, MS, DNB', specialty: 'Orthopaedics & Joint Replacement', experience: '15+ Years', image: 'assets/Doc-Side/ujjwal_sinha_ortho.webp', hasStaticPage: true },
                 { id: 'abhishek-roy', name: 'Dr. Abhishek Roy', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '6+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp', hasStaticPage: true },
@@ -189,17 +188,18 @@
                 { id: 'tgn-sinha', name: 'Dr. T.G.N. Sinha', qualifications: 'MBBS, MS, FICS', specialty: 'ENT', experience: '45+ Years', image: 'assets/Doc-Side/Dr T G N Sinha ( ENT).webp', hasStaticPage: true },
                 { id: 'ranajan-jha', name: 'Dr. Ranajan Kumar Jha', qualifications: 'MBBS, MS, FESS', specialty: 'ENT', experience: '15+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
                 { id: 'abhay-pandey', name: 'Dr. Abhay Kumar Pandey', qualifications: 'BPT, MPT, PGDYT', specialty: 'Physiotherapy & Rehabilitation', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Physiotherapist - Dr. Abhay-Kumar-Pandey.webp', hasStaticPage: true },
-                { id: 'shaista-huma', name: 'Dr. Shaista Huma', qualifications: 'MBBS, MD, ACS', specialty: 'Dermatology', experience: '10+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
+
                 { id: 'ahmad-hussain', name: 'Dr. Ahmad Hussain', qualifications: 'MBBS, MD, DrNB', specialty: 'Neurosciences', experience: '5+ Years', image: 'assets/Doc-Side/Dr Ahmad Hussain.webp', hasStaticPage: true },
                 { id: 'abhishek-bhattacharjee', name: 'Dr. Abhishek Bhattacharjee', qualifications: 'MBBS, MDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Maxillofacial Surgeon - Dr. Abhishek-Bhattacharjee.webp', hasStaticPage: true },
+                { id: 'saurabh-kumar', name: 'Dr. Saurabh Kumar', qualifications: 'MBBS, MD', specialty: 'Critical Care', experience: '26+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
                 { id: 'mohib-ahmed', name: 'Dr. Mohib Ahmed', qualifications: 'MBBS, MD, IDCCM', specialty: 'Critical Care', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Mohib-Ahmed.webp', hasStaticPage: true },
                 { id: 'pradeep-prasad', name: 'Dr. Pradeep Prasad', qualifications: 'MBBS, MD', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '10+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
                 { id: 'jitendra-prasad', name: 'Dr. Jitendra Prasad', qualifications: 'MBBS, MD', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '9+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
                 { id: 'kriti-kaira', name: 'Dr. Kriti Kaira', qualifications: 'MBBS, MD, PDF', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '3+ Years', image: 'assets/Doc-Side/Dr kirti_kaira_lab.webp', hasStaticPage: true },
-                { id: 'ajeet-singh', name: 'Dr. Ajeet Singh', qualifications: 'MBBS, PGD', specialty: 'Administration', experience: '38 Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
-                { id: 'sanjeev-kumar-ravi', name: 'Dr. Sanjeev Kumar Ravi', qualifications: 'MBBS, DFM', specialty: 'Family Medicine', experience: '20 Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
+
+
                 { id: 'B-kumar', name: 'Dr. B Kumar', qualifications: 'MBBS, MS', specialty: 'Minimal Access Surgery', experience: '12 Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
-                { id: 'shubham-shekhar', name: 'Dr. Shubham Shekhar', qualifications: 'ACLS, BLS', specialty: 'Emergency', experience: '2 Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
+
                 { id: 'anup-kumar-jha', name: 'Dr. Anup Kumar Jha', qualifications: 'MBBS, Cardio-Physician', specialty: 'Cardiology', experience: '30+ Years', image: 'assets/Doc-Side/Dr Anup Kumar Jha_.webp', hasStaticPage: true },
                 { id: 'shweta-sushmita', name: 'Dr. Shweta Sushmita', qualifications: 'MBBS, MD', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '10+ Years', image: 'assets/Doc-Side/Lab - Dr. Sweta Sushmita.webp', hasStaticPage: true },
                 { id: 'praveen-kumar', name: 'Dr. Praveen Kumar', qualifications: 'MBBS, DCP', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '8+ Years', image: 'assets/Doc-Side/Dr Praveen Kumar (Lab).webp', hasStaticPage: true },
@@ -211,6 +211,7 @@
                 { id: 'shekhar-sharma', name: 'Dr. Shekhar Sharma', qualifications: 'MBBS, DMRD', specialty: 'Radiology', experience: '20+ Years', image: 'assets/Doc-Side/Dr Shekhar Sharma (Radiologist).webp', hasStaticPage: true },
                 { id: 'awnindra-singh', name: 'Dr. Awnindra Kumar Singh', qualifications: 'MBBS, MD, DM', specialty: 'Cardiology', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/-Dr. Awnindra-Kumar-Singh-Cardiologist.webp', hasStaticPage: true },
                 { id: 'ravi-shekhar-singh', name: 'Dr. Ravi Shekhar Singh', qualifications: 'MBBS, DCH', specialty: 'Pediatrics & Neonatology', experience: '10+ Years', image: 'assets/specialties/PAEDIATRICS/dr-ravi-shekhar-singh.webp', hasStaticPage: true },
+                { id: 'ashish-basant', name: 'Dr. Ashish Basant', qualifications: 'MBBS, MD', specialty: 'Pediatrics & Neonatology', experience: '8+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
                 { id: 'prakash-chandra', name: 'Dr. Prakash Chandra', qualifications: 'MBBS, MS, MCH', specialty: 'Neurosciences', experience: '18+ Years', image: 'assets/Doc-Side/Dr. Prakash Chandra (Neuro Surgeon).webp', hasStaticPage: true },
                 { id: 'vijay-raj', name: 'Dr. Vijay Raj', qualifications: 'MBBS, MD, DM', specialty: 'Neurosciences', experience: '15+ Years', image: 'assets/Doc-Side/vijayraj.webp', hasStaticPage: true }
             ];

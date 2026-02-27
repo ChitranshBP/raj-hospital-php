@@ -1,11 +1,10 @@
-<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Abhijit Kumar | Raj Hospitals</title>
+    <title>Dr. Ashish Basant | Raj Hospitals</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -63,14 +62,20 @@
 
 <body class="bg-gray-50">
 
-    <?php include $base_url . 'components/navbar.php'; ?>
+    
+Warning: include(../components/navbar.php): Failed to open stream: No such file or directory in C:\Users\GCV\Desktop\raj-hospital-php\doctors\rahul-roy.php on line 66
+
+Warning: include(): Failed opening '../components/navbar.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\GCV\Desktop\raj-hospital-php\doctors\rahul-roy.php on line 66
 
     <div id="profile-container">
         <!-- Content injected via JS -->
     </div>
 
     <!-- Footer -->
-    <?php include $base_url . 'components/footer.php'; ?>
+    
+Warning: include(../components/footer.php): Failed to open stream: No such file or directory in C:\Users\GCV\Desktop\raj-hospital-php\doctors\rahul-roy.php on line 73
+
+Warning: include(): Failed opening '../components/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\GCV\Desktop\raj-hospital-php\doctors\rahul-roy.php on line 73
 
     <!-- Booking Modal -->
     <div id="booking-modal"
@@ -124,41 +129,27 @@
     <script>
         // DATA: Only the specific doctor for this page
         const doctorData = {
-            id: 'abhijit-kumar',
-            name: 'Dr. Abhijit Kumar',
-            qualifications: 'MBBS, MS (Otolaryngology), PDCC (Head and Neck Oncology)',
-            specialty: 'ENT',
-            experience: '16+ Years',
+            id: 'ashish-basant',
+            name: 'Dr. Ashish Basant',
+            qualifications: 'MBBS, MD',
+            specialty: 'Pediatrics and Neonatology',
+            experience: '8 Years',
             image: '../assets/doc-dummy/male-dummy-raj.webp',
-            description: 'Dr. Abhijit Kumar is a Consultant Otolaryngologist and Head & Neck Surgeon with over 16 years of experience across premier surgical centers in India. His special interest includes endoscopic skull base surgery, head and neck cancer surgeries, cochlear implants, and implantable hearing aids. He has extensive academic and clinical experience, along with numerous research publications in national and international journals.',
+            description: 'Dr. Ashish Basant is an experienced Pediatrician with a background in childhood and developmental pediatrics, childhood nutrition, and neurodevelopmental pediatrics.',
             expertise: [
-                'Endoscopic Skull Base Surgery',
-                'Head & Neck Cancer Surgery',
-                'Cochlear Implant',
-                'Implantable Hearing Aids',
-                'Otolaryngology Procedures',
-                'Laser Surgery in ENT'
+                'Childhood and Developmental Pediatrics',
+                'Childhood Nutrition',
+                'Neurodevelopmental Pediatrics',
+                'Preterm and Low Birth Weight Baby Care'
             ],
             education: [
-                { degree: 'PDCC (Head and Neck Oncology)', institution: 'Tata Memorial Centre, Mumbai', year: '2010-11' },
-                { degree: 'MS (Otolaryngology)', institution: 'Kasturba Medical College, Mangalore, Manipal University', year: '2004-2006' },
-                { degree: 'MBBS', institution: 'Government Medical College, Thiruvananthapuram, Kerala University', year: '2000-2001' }
+                { degree: 'MBBS', institution: '', year: '' },
+                { degree: 'MD (Pediatrics)', institution: 'JLNMCH Bhagalpur, AKU Patna', year: '' }
             ],
             memberships: [
-                'Indian Medical Association (IMA)',
-                'Association of Otolaryngologists of India (AOI)',
-                'Indian Society of Otology'
-            ],
-            publications: [
-                { title: 'Myoparasitism: A Rare Differential in a Case of Parotid Swelling', journal: 'J Head Neck Spine Surg', year: '2021' },
-                { title: 'Aggressive Invasive Fungal Sinusitis with MDR Pseudomonas co-infection', journal: 'Int J Otorhinolaryngol Head Neck Surg', year: '2021' },
-                { title: 'Bilateral Central Retinal Artery Occlusion in Post-COVID Mucormycosis', journal: 'Cureus', year: '2021' },
-                { title: 'Berry-Treacher Collins Syndrome with Congenital Bells Palsy', journal: 'Cureus', year: '2021' },
-                // ... truncated list, keeping important ones
-                { title: 'The Role of Oral Vitamin D3 in Chronic Rhinosinusitis', journal: 'J Family Med Prim Care', year: '2020' },
-                { title: 'Sphenopalatine Ganglion Block in Endoscopic Sinus Surgery: A Comparative Study', journal: 'J Allergy Ther', year: '2020' },
-                { title: 'Osteomyelitis of the Temporal Bone: Terminology, Diagnosis, and Management', journal: 'J Neurol Surg B Skull Base', year: '2014' },
-                { title: 'Management of Head and Neck Trauma in a Developing Country', journal: 'Indian J Otolaryngol Head Neck Surg', year: '2009' }
+                'MIAP',
+                'MIMA',
+                'PGPN BOSTON (USA)'
             ],
             contact: {
                 phone: '+919263630500'
@@ -207,7 +198,7 @@
                                 <!-- Expertise -->
                                 ${doctor.expertise && doctor.expertise.length > 0 ? `
                                 <div class="bg-white p-8 rounded-2xl shadow-sm border border-gray-100">
-                                    <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b border-gray-100 pb-2">Areas of Expertise</h2>
+                                    <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b border-gray-100 pb-2">Areas of Interest</h2>
                                     <div class="grid md:grid-cols-2 gap-4">
                                         ${doctor.expertise.map(skill => `
                                             <div class="flex items-center space-x-3">
@@ -236,26 +227,16 @@
                                 <!-- Memberships -->
                                 ${doctor.memberships && doctor.memberships.length > 0 ? `
                                 <div class="bg-white p-8 rounded-2xl shadow-sm border border-gray-100">
-                                    <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b border-gray-100 pb-2">Professional Memberships</h2>
-                                    <ul class="list-disc list-inside space-y-2 text-gray-700">
-                                        ${doctor.memberships.map(member => `<li>${member}</li>`).join('')}
-                                    </ul>
-                                </div>` : ''}
-
-                                <!-- Publications -->
-                                ${doctor.publications && doctor.publications.length > 0 ? `
-                                <div class="bg-white p-8 rounded-2xl shadow-sm border border-gray-100">
-                                    <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b border-gray-100 pb-2">Research & Publications</h2>
-                                    <div class="space-y-4">
-                                        ${doctor.publications.map(pub => `
-                                            <div class="p-4 bg-gray-50 rounded-lg">
-                                                <h4 class="font-bold text-gray-900">${pub.title}</h4>
-                                                ${pub.journal ? `<p class="text-primary-600 text-sm mt-1">${pub.journal} ${pub.year ? `(${pub.year})` : ''}</p>` : ''}
+                                    <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b border-gray-100 pb-2">Awards / Memberships / Positions</h2>
+                                    <div class="space-y-3">
+                                        ${doctor.memberships.map(membership => `
+                                            <div class="flex items-start space-x-3">
+                                                <i data-feather="award" class="w-5 h-5 text-primary-500 mt-0.5"></i>
+                                                <span class="text-gray-700">${membership}</span>
                                             </div>
                                         `).join('')}
                                     </div>
                                 </div>` : ''}
-
                              </div>
 
                              <!-- Right: Contact Form -->
