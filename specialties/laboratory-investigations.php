@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
@@ -307,7 +308,7 @@ Blood Test Lab in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
                             style="min-height: 500px;">
                             <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/Doc-Side/Dr Praveen Kumar (Lab).webp" alt="Dr. Praveen Kumar"
+                                <img src="../assets/new-doctors-side/praveen kumar.webp" alt="Dr. Praveen Kumar"
                                     class="w-full h-full object-cover object-top">
                             </div>
                             <div class="p-6">

@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Critical Care - Best ICU Hospital in Ranchi | Raj Hospitals</title>
@@ -348,7 +349,7 @@ Emergency Critical Care in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
                             style="min-height: 500px;">
                             <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/doc-dummy/male-dummy-raj.webp"
+                                <img src="../assets/new-doctors-side/Dr. Saurabh Kumar.webp"
                                     alt="Dr. Saurabh Kumar" class="w-full h-full object-cover object-top">
                             </div>
                             <div class="p-6">

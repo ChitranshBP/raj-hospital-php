@@ -133,6 +133,7 @@ function getSpecialtySlug($name, $category) {
 
     <!-- Main Header -->
     <header id="main-header" class="fixed w-full z-40 bg-white top-[48px] sm:top-6 transition-all duration-300 border-b border-gray-100">
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
         <div class="max-w-7xl mx-auto px-4">
             <div class="flex relative items-center justify-between h-16 md:h-20 lg:h-24">
                 <!-- Logo -->

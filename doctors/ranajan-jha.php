@@ -6,7 +6,7 @@ $doctor = [
     'specialty' => 'ENT',
     'experience' => '15+ Years',
     'regNo' => '',
-    'image' => '../assets/doc-dummy/male-dummy-raj.webp',
+    'image' => '../assets/new-doctors-side/ranajan kumar jha.webp',
     'description' => "Dr. Ranajan Kumar Jha is an experienced ENT specialist at Raj Hospital, Ranchi, with expertise in functional endoscopic sinus surgery (FESS) and comprehensive treatment of ear, nose, and throat conditions. He is recognized for his patient-centric approach and advanced surgical skills.",
     'expertise' => [
         'Functional Endoscopic Sinus Surgery (FESS)',

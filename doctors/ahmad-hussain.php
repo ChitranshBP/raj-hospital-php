@@ -6,7 +6,7 @@ $doctor = [
     'specialty' => 'Neurosciences',
     'experience' => '5+ Years',
     'regNo' => '',
-    'image' => '../assets/Doc-Side/Dr Ahmad Hussain.webp',
+    'image' => '../assets/new-doctors-side/ahmad hussain.webp',
     'description' => "Dr. Ahmad Hussain is a neurologist with over 5 years of experience in managing complex neurological conditions including stroke, epilepsy, dementias, movement disorders, and neuro-infectious diseases.",
     'expertise' => [
         'Stroke (Ischemic & Haemorrhagic)',

@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Ved Prakash Verma | Raj Hospitals</title>
@@ -129,7 +130,7 @@
             qualifications: 'MBBS, MS (General Surgery), MCh (Urology)',
             specialty: 'Urology',
             experience: '18+ Years',
-            image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Urologist - Dr. Ved-Prakash-Verma.webp',
+            image: '../assets/new-doctors-side/ved prakash.webp',
             description: 'Dr. Ved Prakash is a urologist with over 18 years of experience specializing in endourology, reconstructive urology, uro-oncology, laparoscopic surgery, and andrology including male infertility.',
             expertise: [
                 'Endourology',

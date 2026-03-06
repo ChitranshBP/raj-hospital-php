@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Vivek Raj | Raj Hospitals</title>
@@ -129,7 +130,7 @@
             qualifications: 'MBBS, ECFMG Certified (USA) Neurosurgery, DNB Neurosurgery (Brain & Spine Surgery)',
             specialty: 'Neurosciences',
             experience: '9+ Years',
-            image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Neurosurgeon - Dr. Vivek-Raj.webp',
+            image: '../assets/new-doctors-side/vivek raj.webp',
             description: 'Dr. Vivek Raj is a skilled neurosurgeon with expertise in brain and spine tumor surgery, pediatric brain surgery, and emergency spine trauma. He is committed to providing advanced surgical care including awake brain surgery for better patient outcomes.',
             expertise: [
                 'Headache',

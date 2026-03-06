@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
@@ -357,7 +358,7 @@ Orthopedic Surgeon in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
                             style="min-height: 500px;">
                             <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/Doc-Side/Orthopedic Surgeon - Dr. Deepak Verma.webp"
+                                <img src="../assets/new-doctors-side/deepak verma.webp"
                                     alt="Dr. Deepak Verma" class="w-full h-full object-cover object-top">
                             </div>
                             <div class="p-6">

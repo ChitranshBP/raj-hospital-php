@@ -6,7 +6,7 @@ $doctor = [
     'specialty' => 'Dietetics & Nutrition',
     'experience' => '6+ Years',
     'regNo' => '', // Optional
-    'image' => '../assets/Doc-Side/Mr. Parijat Sarkar (Dietetian).webp',
+    'image' => '../assets/new-doctors-side/parijat sarkar.webp',
     'description' => "Mr. Parijat Sarkar is a specialized Clinical Dietician and Sports Nutritionist. He provides personalized nutrition plans for managing metabolic disorders, lifestyle diseases, and body recomposition. His approach focuses on preventive healthcare through balanced nutrition.",
     'expertise' => [
         'Clinical Dietetics & Nutrition',

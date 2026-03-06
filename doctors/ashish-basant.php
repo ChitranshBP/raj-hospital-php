@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Ashish Basant | Raj Hospitals</title>
@@ -129,7 +130,7 @@
             qualifications: 'MBBS, MD',
             specialty: 'Pediatrics and Neonatology',
             experience: '8 Years',
-            image: '../assets/doc-dummy/male-dummy-raj.webp',
+            image: '../assets/new-doctors-side/ashish basant.webp',
             description: 'Dr. Ashish Basant is an experienced Pediatrician with a background in childhood and developmental pediatrics, childhood nutrition, and neurodevelopmental pediatrics.',
             expertise: [
                 'Childhood and Developmental Pediatrics',

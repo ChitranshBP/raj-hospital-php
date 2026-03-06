@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Neurosciences - Best Neurologist Hospital in Ranchi | Raj Hospitals</title>
@@ -368,7 +369,7 @@ Nervous System Care in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
                             style="min-height: 500px;">
                             <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/Doc-Side/Dr Ahmad Hussain.webp" alt="Dr. Ahmad Hussain"
+                                <img src="../assets/new-doctors-side/ahmad hussain.webp" alt="Dr. Ahmad Hussain"
                                     class="w-full h-full object-cover object-top">
                             </div>
                             <div class="p-6">
@@ -396,7 +397,7 @@ Nervous System Care in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
                             style="min-height: 500px;">
                             <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Neurosurgeon - Dr. Vivek-Raj.webp"
+                                <img src="../assets/new-doctors-side/vivek raj.webp"
                                     alt="Dr. Vivek Raj" class="w-full h-full object-cover object-top">
                             </div>
                             <div class="p-6">

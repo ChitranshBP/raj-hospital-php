@@ -6,7 +6,7 @@ $doctor = [
     'specialty' => 'FNAC, Biopsy, Blood & Laboratory Investigations',
     'experience' => '10+ Years',
     'regNo' => '',
-    'image' => '../assets/doc-dummy/male-dummy-raj.webp',
+    'image' => '../assets/new-doctors-side/pradeep prasad.webp',
     'description' => "Dr. Pradeep Prasad is a specialist in laboratory medicine with expertise in molecular and genomic testing.",
     'expertise' => [
         'Molecular Testing',

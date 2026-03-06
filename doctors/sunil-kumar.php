@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Sunil Kumar | Raj Hospitals</title>
@@ -129,7 +130,7 @@
             qualifications: 'MBBS, MS (General Surgery), MCh (Urology)',
             specialty: 'Urology',
             experience: '18+ Years',
-            image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Urologist - Dr. Sunil-Kumar.webp',
+            image: '../assets/new-doctors-side/sunil kumar.webp',
             description: 'Dr. Sunil Kumar is a senior urologist with over 18 years of experience. He specializes in robotic surgery, renal transplantation, laparoscopic procedures, endourology, uro-oncology, male infertility, and vascular access for hemodialysis.',
             expertise: [
                 'Robotic Surgery',

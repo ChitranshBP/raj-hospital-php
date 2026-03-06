@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
@@ -800,7 +801,7 @@ Best Hospital in Jharkhand
                 <div
                     class="group bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-orange-500/40 fade-in">
                     <div class="relative w-full h-48 bg-gray-50 overflow-hidden">
-                        <img src="assets/home-img/Picture1.webp" alt="Rooftop Helipad"
+                        <img src="assets/About-img/final clean image.png" alt="Rooftop Helipad"
                             class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
                     </div>
@@ -1554,7 +1555,7 @@ Best Hospital in Jharkhand
                 { id: 'anup-kumar-jha', name: 'Dr. Anup Kumar Jha', qualifications: 'MBBS, Cardio-Physician (NI), IGNOU', specialty: 'Cardiology', experience: '30+ Years', image: 'assets/Doc-Side/Dr Anup Kumar Jha_.webp', profileUrl: 'doctors/anup-kumar-jha.php' },
 
                 // Critical Care (4 doctors)
-                { id: 'saurabh-kumar', name: 'Dr. Saurabh Kumar', qualifications: 'MBBS, MD', specialty: 'Critical Care', experience: '26+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', profileUrl: 'doctors/saurabh-kumar.php' },
+                { id: 'saurabh-kumar', name: 'Dr. Saurabh Kumar', qualifications: 'MBBS, MD', specialty: 'Critical Care', experience: '26+ Years', image: 'assets/new-doctors-side/Dr. Saurabh Kumar.webp', profileUrl: 'doctors/saurabh-kumar.php' },
                 { id: 'mohib-ahmed', name: 'Dr. Mohib Ahmed', qualifications: 'MBBS, MD, IDCCM', specialty: 'Critical Care', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Mohib-Ahmed.webp', profileUrl: 'doctors/mohib-ahmed.php' },
                 { id: 'rahul-roy', name: 'Dr. Rahul Roy', qualifications: 'MBBS, DA, IDCCM', specialty: 'Critical Care', experience: '20+ Years', image: 'assets/Doc-Side/Dr Rahul Roy(CCT).webp', profileUrl: 'doctors/rahul-roy.php' },
                 { id: 'fuzail-sarwer', name: 'Dr. Fuzail Sarwer', qualifications: 'MBBS, MD, PDCC', specialty: 'Critical Care', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp', profileUrl: 'doctors/fuzail-sarwer.php' },
@@ -1578,8 +1579,8 @@ Best Hospital in Jharkhand
                 { id: 'avinash-dubey', name: 'Dr. Avinash Kumar Dubey', qualifications: 'MD, DM', specialty: 'Nephrology', experience: '15+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Nephrologist - Dr. Avinas- Kumar-Dubey.webp', profileUrl: 'doctors/avinash-dubey.php' },
 
                 // Neurosciences (4 doctors)
-                { id: 'ahmad-hussain', name: 'Dr. Ahmad Hussain', qualifications: 'MBBS, MD, DrNB', specialty: 'Neurosciences', experience: '5+ Years', image: 'assets/Doc-Side/Dr Ahmad Hussain.webp', profileUrl: 'doctors/ahmad-hussain.php' },
-                { id: 'vivek-raj', name: 'Dr. Vivek Raj', qualifications: 'MBBS, DNB', specialty: 'Neurosciences', experience: '9+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Neurosurgeon - Dr. Vivek-Raj.webp', profileUrl: 'doctors/vivek-raj.php' },
+                { id: 'ahmad-hussain', name: 'Dr. Ahmad Hussain', qualifications: 'MBBS, MD, DrNB', specialty: 'Neurosciences', experience: '5+ Years', image: 'assets/new-doctors-side/ahmad hussain.webp', profileUrl: 'doctors/ahmad-hussain.php' },
+                { id: 'vivek-raj', name: 'Dr. Vivek Raj', qualifications: 'MBBS, DNB', specialty: 'Neurosciences', experience: '9+ Years', image: 'assets/new-doctors-side/vivek raj.webp', profileUrl: 'doctors/vivek-raj.php' },
                 { id: 'vijay-raj', name: 'Dr. Vijay Raj', qualifications: 'MBBS, MD, DM', specialty: 'Neurosciences', experience: '15+ Years', image: 'assets/Doc-Side/vijayraj.webp', profileUrl: 'doctors/vijay-raj.php' },
                 { id: 'prakash-chandra', name: 'Dr. Prakash Chandra', qualifications: 'MBBS, MS, MCH', specialty: 'Neurosciences', experience: '18+ Years', image: 'assets/Doc-Side/Dr. Prakash Chandra (Neuro Surgeon).webp', profileUrl: 'doctors/prakash-chandra.php' },
 
@@ -1588,13 +1589,13 @@ Best Hospital in Jharkhand
                 { id: 'anamika-kumari', name: 'Dr. Anamika Kumari', qualifications: 'MBBS, DNB', specialty: 'Oncology (Cancer Care)', experience: '11+ Years', image: 'assets/Doc-Side/Dr Anamika Onco photo.webp', profileUrl: 'doctors/anamika-kumari.php' },
 
                 // Orthopaedics (3 doctors)
-                { id: 'deepak-verma', name: 'Dr. Deepak Verma', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '25+ Years', image: 'assets/Doc-Side/Orthopedic Surgeon - Dr. Deepak Verma.webp', profileUrl: 'doctors/deepak-verma.php' },
+                { id: 'deepak-verma', name: 'Dr. Deepak Verma', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '25+ Years', image: 'assets/new-doctors-side/deepak verma.webp', profileUrl: 'doctors/deepak-verma.php' },
                 { id: 'ujjwal-sinha', name: 'Dr. Ujjwal Sinha', qualifications: 'MBBS, MS, DNB', specialty: 'Orthopaedics & Joint Replacement', experience: '15+ Years', image: 'assets/Doc-Side/ujjwal_sinha_ortho.webp', profileUrl: 'doctors/ujjwal-sinha.php' },
                 { id: 'abhishek-roy', name: 'Dr. Abhishek Roy', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '6+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp', profileUrl: 'doctors/abhishek-roy.php' },
 
                 // Urology (2 doctors)
-                { id: 'sunil-kumar', name: 'Dr. Sunil Kumar', qualifications: 'MBBS, MS, MCh', specialty: 'Urology', experience: '18+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Urologist - Dr. Sunil-Kumar.webp', profileUrl: 'doctors/sunil-kumar.php' },
-                { id: 'ved-prakash', name: 'Dr. Ved Prakash Verma', qualifications: 'MBBS, MS, MCh', specialty: 'Urology', experience: '18+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Urologist - Dr. Ved-Prakash-Verma.webp', profileUrl: 'doctors/ved-prakash.php' },
+                { id: 'sunil-kumar', name: 'Dr. Sunil Kumar', qualifications: 'MBBS, MS, MCh', specialty: 'Urology', experience: '18+ Years', image: 'assets/new-doctors-side/sunil kumar.webp', profileUrl: 'doctors/sunil-kumar.php' },
+                { id: 'ved-prakash', name: 'Dr. Ved Prakash Verma', qualifications: 'MBBS, MS, MCh', specialty: 'Urology', experience: '18+ Years', image: 'assets/new-doctors-side/ved prakash.webp', profileUrl: 'doctors/ved-prakash.php' },
 
                 // Obstetrics & Gynaecology (3 doctors)
                 { id: 'anupama-mahli', name: 'Dr. Anupama Mahli', qualifications: 'MBBS, MS, DNB', specialty: 'Obstetrics & Gynaecology', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Gyanecologist - Dr. Anupama-Mahli.webp', profileUrl: 'doctors/anupama-mahli.php' },
@@ -1605,8 +1606,8 @@ Best Hospital in Jharkhand
                 { id: 'suprova-chakraborty', name: 'Dr. Suprova Chakraborty', qualifications: 'DNB Respiratory Medicine', specialty: 'Pulmonology', experience: '12+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Pulmonologist - Dr. Suprova-Chakraborty.webp', profileUrl: 'doctors/suprova-chakraborty.php' },
 
                 // ENT (2 doctors)
-                { id: 'tgn-sinha', name: 'Dr. T.G.N. Sinha', qualifications: 'MBBS, MS, FICS', specialty: 'ENT', experience: '45+ Years', image: 'assets/Doc-Side/Dr T G N Sinha ( ENT).webp', profileUrl: 'doctors/tgn-sinha.php' },
-                { id: 'ranajan-jha', name: 'Dr. Ranajan Kumar Jha', qualifications: 'MBBS, MS, FESS', specialty: 'ENT', experience: '15+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', profileUrl: 'doctors/ranajan-jha.php' },
+                { id: 'tgn-sinha', name: 'Dr. T.G.N. Sinha', qualifications: 'MBBS, MS, FICS', specialty: 'ENT', experience: '45+ Years', image: 'assets/new-doctors-side/tgn sinha.webp', profileUrl: 'doctors/tgn-sinha.php' },
+                { id: 'ranajan-jha', name: 'Dr. Ranajan Kumar Jha', qualifications: 'MBBS, MS, FESS', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp', profileUrl: 'doctors/ranajan-jha.php' },
 
                 // Dental (2 doctors)
                 { id: 'suraj-mani-bhattacharjee', name: 'Dr. Suraj Mani Bhattacharjee', qualifications: 'BDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp', profileUrl: 'doctors/suraj-mani-bhattacharjee.php' },
@@ -1624,7 +1625,7 @@ Best Hospital in Jharkhand
 
                 // Laboratory (3 doctors)
                 { id: 'shweta-sushmita', name: 'Dr. Shweta Sushmita', qualifications: 'MBBS, MD', specialty: 'Laboratory Investigations', experience: '10+ Years', image: 'assets/Doc-Side/Lab - Dr. Sweta Sushmita.webp', profileUrl: 'doctors/shweta-sushmita.php' },
-                { id: 'praveen-kumar', name: 'Dr. Praveen Kumar', qualifications: 'MBBS, DCP', specialty: 'Laboratory Investigations', experience: '8+ Years', image: 'assets/Doc-Side/Dr Praveen Kumar (Lab).webp', profileUrl: 'doctors/praveen-kumar.php' },
+                { id: 'praveen-kumar', name: 'Dr. Praveen Kumar', qualifications: 'MBBS, DCP', specialty: 'Laboratory Investigations', experience: '8+ Years', image: 'assets/new-doctors-side/praveen kumar.webp', profileUrl: 'doctors/praveen-kumar.php' },
                 { id: 'kriti-kaira', name: 'Dr. Kriti Kaira', qualifications: 'MBBS, MD, PDF', specialty: 'Laboratory Investigations', experience: '3+ Years', image: 'assets/Doc-Side/Dr kirti_kaira_lab.webp', profileUrl: 'doctors/kriti-kaira.php' },
 
                 // Psychiatry (1 doctor)
@@ -1641,10 +1642,10 @@ Best Hospital in Jharkhand
                 { id: 'b-kumar', name: 'Dr. B Kumar', qualifications: 'MBBS, MS (General Surgery)', specialty: 'Minimal Access Surgery', experience: '12 Years', image: 'assets/doc-dummy/male-dummy-raj.webp', profileUrl: 'doctors/b-kumar.php' },
                 { id: 'jitendra-prasad', name: 'Dr. Jitendra Prasad', qualifications: 'MBBS, MD (Microbiology)', specialty: 'FNAC, Biopsy, Blood & Laboratory Investigations', experience: '9+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', profileUrl: 'doctors/jitendra-prasad.php' },
                 { id: 'mozammil-pheroz', name: 'Dr. Mozammil Pheroz', qualifications: 'MBBS, MS, DNB (Ortho), Dip. Sports Medicine', specialty: 'Orthopaedics & Joint Replacement', experience: '11+ Years', image: 'assets/Doc-Side/dr-pheroz-raj-removebg-preview.png', profileUrl: 'doctors/mozammil-pheroz.php' },
-                { id: 'parijat-sarkar', name: 'Mr. Parijat Sarkar', qualifications: 'M.Sc (Sports Nutrition), B.Sc (Dietetics)', specialty: 'Dietetics & Nutrition', experience: '6+ Years', image: 'assets/Doc-Side/Mr. Parijat Sarkar (Dietetian).webp', profileUrl: 'doctors/parijat-sarkar.php' },
-                { id: 'pradeep-prasad', name: 'Dr. Pradeep Prasad', qualifications: 'MBBS, MD (Biochemistry)', specialty: 'FNAC, Biopsy, Blood & Laboratory Investigations', experience: '10+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', profileUrl: 'doctors/pradeep-prasad.php' },
+                { id: 'parijat-sarkar', name: 'Mr. Parijat Sarkar', qualifications: 'M.Sc (Sports Nutrition), B.Sc (Dietetics)', specialty: 'Dietetics & Nutrition', experience: '6+ Years', image: 'assets/new-doctors-side/parijat sarkar.webp', profileUrl: 'doctors/parijat-sarkar.php' },
+                { id: 'pradeep-prasad', name: 'Dr. Pradeep Prasad', qualifications: 'MBBS, MD (Biochemistry)', specialty: 'FNAC, Biopsy, Blood & Laboratory Investigations', experience: '10+ Years', image: 'assets/new-doctors-side/pradeep prasad.webp', profileUrl: 'doctors/pradeep-prasad.php' },
                 { id: 'ravi-shekhar-singh', name: 'Dr. Ravi Shekhar Singh', qualifications: 'MBBS, DCH', specialty: 'Pediatrics & Neonatology', experience: '10+ Years', image: 'assets/specialties/PAEDIATRICS/dr-ravi-shekhar-singh.webp', profileUrl: 'doctors/ravi-shekhar-singh.php' },
-                { id: 'ashish-basant', name: 'Dr. Ashish Basant', qualifications: 'MBBS, MD', specialty: 'Pediatrics & Neonatology', experience: '8+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', profileUrl: 'doctors/ashish-basant.php' },
+                { id: 'ashish-basant', name: 'Dr. Ashish Basant', qualifications: 'MBBS, MD', specialty: 'Pediatrics & Neonatology', experience: '8+ Years', image: 'assets/new-doctors-side/ashish basant.webp', profileUrl: 'doctors/ashish-basant.php' },
 
 
             ];
