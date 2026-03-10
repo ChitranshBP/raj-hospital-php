@@ -130,7 +130,7 @@
             qualifications: 'MBBS, MS (General Surgery), MCh (Urology)',
             specialty: 'Urology',
             experience: '18+ Years',
-            image: '../assets/new-doctors-side/sunil kumar.webp',
+            image: '../assets/doctor-latest/sunil kumar.webp',
             description: 'Dr. Sunil Kumar is a senior urologist with over 18 years of experience. He specializes in robotic surgery, renal transplantation, laparoscopic procedures, endourology, uro-oncology, male infertility, and vascular access for hemodialysis.',
             expertise: [
                 'Robotic Surgery',

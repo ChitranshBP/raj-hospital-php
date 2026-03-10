@@ -6,7 +6,7 @@ $doctor = [
     'specialty' => 'FNAC, Biopsy, Blood & Laboratory Investigations',
     'experience' => '8+ Years',
     'regNo' => '',
-    'image' => '../assets/new-doctors-side/praveen kumar.webp',
+    'image' => '../assets/doctor-latest/praveen kumar.webp',
     'description' => "Dr. Praveen Kumar is a pathologist specializing in clinical hematology, cell cytology, and histopathology.",
     'expertise' => [
         'Clinical Hematology',

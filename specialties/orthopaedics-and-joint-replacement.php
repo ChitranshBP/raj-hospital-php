@@ -358,7 +358,7 @@ Orthopedic Surgeon in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
                             style="min-height: 500px;">
                             <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/new-doctors-side/deepak verma.webp"
+                                <img src="../assets/doctor-latest/deepak verma.webp"
                                     alt="Dr. Deepak Verma" class="w-full h-full object-cover object-top">
                             </div>
                             <div class="p-6">

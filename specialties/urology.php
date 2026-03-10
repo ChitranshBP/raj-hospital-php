@@ -359,7 +359,7 @@ Urinary Disorder Specialist in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
                             style="min-height: 500px;">
                             <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/new-doctors-side/sunil kumar.webp"
+                                <img src="../assets/doctor-latest/sunil kumar.webp"
                                     alt="Dr. Sunil Kumar" class="w-full h-full object-cover object-top">
                             </div>
                             <div class="p-6">
@@ -387,7 +387,7 @@ Urinary Disorder Specialist in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
                             style="min-height: 500px;">
                             <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/new-doctors-side/ved prakash.webp"
+                                <img src="../assets/doctor-latest/ved prakash.webp"
                                     alt="Dr. Ved Prakash Verma" class="w-full h-full object-cover object-top">
                             </div>
                             <div class="p-6">

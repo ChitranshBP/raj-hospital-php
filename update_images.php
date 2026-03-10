@@ -1,16 +1,16 @@
 <?php
 $map = [
-    'ahmad-hussain' => 'assets/new-doctors-side/ahmad hussain.webp',
+    'ahmad-hussain' => 'assets/doctor-latest/ahmad hussain.webp',
     'ashish-basant' => 'assets/new-doctors-side/ashish basant.webp',
-    'deepak-verma' => 'assets/new-doctors-side/deepak verma.webp',
+    'deepak-verma' => 'assets/doctor-latest/deepak verma.webp',
     'parijat-sarkar' => 'assets/new-doctors-side/parijat sarkar.webp',
     'pradeep-prasad' => 'assets/new-doctors-side/pradeep prasad.webp',
-    'praveen-kumar' => 'assets/new-doctors-side/praveen kumar.webp',
+    'praveen-kumar' => 'assets/doctor-latest/praveen kumar.webp',
     'ranajan-jha' => 'assets/new-doctors-side/ranajan kumar jha.webp',
     'saurabh-kumar' => 'assets/new-doctors-side/Dr. Saurabh Kumar.webp',
-    'sunil-kumar' => 'assets/new-doctors-side/sunil kumar.webp',
-    'tgn-sinha' => 'assets/new-doctors-side/tgn sinha.webp',
-    'ved-prakash' => 'assets/new-doctors-side/ved prakash.webp',
+    'sunil-kumar' => 'assets/doctor-latest/sunil kumar.webp',
+    'tgn-sinha' => 'assets/doctor-latest/tgn sinha.webp',
+    'ved-prakash' => 'assets/doctor-latest/ved prakash.webp',
     'vivek-raj' => 'assets/new-doctors-side/vivek raj.webp',
 ];
 
