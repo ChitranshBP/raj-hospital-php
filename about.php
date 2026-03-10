@@ -276,7 +276,7 @@
                              </div>
                         </div>
                         <div class="hidden md:block w-5/12 pr-8">
-                             <div class="h-64 bg-gray-200 rounded-xl overflow-hidden shadow-md"><img src="assets/About-img/2003-05-about.webp" class="w-full h-full object-cover"></div>
+                             <div class="h-64 bg-gray-200 rounded-xl overflow-hidden shadow-md"><img src="assets/About-img/2003-05-about-final.webp" class="w-full h-full object-cover"></div>
                         </div>
                     </div>
 
