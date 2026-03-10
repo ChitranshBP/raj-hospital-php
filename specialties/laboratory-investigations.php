@@ -361,6 +361,33 @@ Blood Test Lab in Jharkhand
                                 </a>
                             </div>
                         </div>
+                        <!-- Doctor 4 -->
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                            style="min-height: 500px;">
+                            <div class="relative h-48 overflow-hidden">
+                                <img src="../assets/doctor-latest/dr-jitendra-lab.webp" alt="Dr. Jitendra Prasad"
+                                    class="w-full h-full object-cover object-top">
+                            </div>
+                            <div class="p-6">
+                                <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Jitendra Prasad</h3>
+                                <p class="text-primary-600 font-medium mb-2">MBBS, MD (Microbiology)</p>
+                                <p class="text-secondary-600 text-sm mb-3">FNAC, Biopsy, Blood & Laboratory Investigations</p>
+                                <div class="flex items-center text-sm text-gray-500 mb-4">
+                                    <i data-feather="award" class="w-4 h-4 mr-2"></i>
+                                    <span>9+ Years Experience</span>
+                                </div>
+                                <a href="../contact.php"
+                                    class="w-full bg-primary-500 text-white py-3 rounded-lg hover:bg-primary-600 transition-colors font-medium flex items-center justify-center space-x-2 mb-2">
+                                    <i data-feather="calendar" class="w-4 h-4"></i>
+                                    <span>Book Appointment</span>
+                                </a>
+                                <a href="../doctors/jitendra-prasad.php"
+                                    class="w-full bg-white text-primary-600 py-2 rounded-lg border border-primary-600 hover:bg-primary-50 transition-colors font-medium flex items-center justify-center space-x-2">
+                                    <i data-feather="user" class="w-4 h-4"></i>
+                                    <span>View Profile</span>
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

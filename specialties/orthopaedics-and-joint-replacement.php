@@ -415,7 +415,7 @@ Orthopedic Surgeon in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
                             style="min-height: 500px;">
                             <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/Doc-Side/ujjwal_sinha_ortho.webp" alt="Dr. Ujjwal Sinha"
+                                <img src="../assets/doctor-latest/Orthopedic Surgeon - Dr. Ujjwal Sinha.webp" alt="Dr. Ujjwal Sinha"
                                     class="w-full h-full object-cover object-top">
                             </div>
                             <div class="p-6">

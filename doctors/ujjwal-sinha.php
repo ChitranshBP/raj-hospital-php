@@ -130,7 +130,7 @@
             qualifications: 'MBBS, MS, DNB (Ortho), MNAMS, Fellowship in Sports Medicine',
             specialty: 'Orthopaedics & Joint Replacement',
             experience: '15+ Years',
-            image: '../assets/Doc-Side/ujjwal_sinha_ortho.webp',
+            image: '../assets/doctor-latest/Orthopedic Surgeon - Dr. Ujjwal Sinha.webp',
             description: 'Dr. Ujjwal Sinha is a highly qualified Orthopaedic Surgeon specializing in sports medicine, joint replacement, and complex trauma. With prestigious fellowships and over 15 years of experience, he offers advanced care for musculoskeletal conditions.',
             expertise: [
                 'Arthroscopy Knee, Shoulder, Ankle',

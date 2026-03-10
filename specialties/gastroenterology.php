@@ -370,7 +370,7 @@ Liver Specialist in Ranchi
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
                             style="min-height: 500px;">
                             <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/Doc-Side/Gastroenterologist - Dr. Ravish Ranjan.webp"
+                                <img src="../assets/doctor-latest/Gastroenterologist - Dr. Ravish Ranjan.webp"
                                     alt="Dr. Ravish Ranjan" class="w-full h-full object-cover object-top">
                             </div>
                             <div class="p-6">

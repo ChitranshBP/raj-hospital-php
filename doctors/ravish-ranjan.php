@@ -130,7 +130,7 @@
             qualifications: 'MBBS, MD (Internal Medicine), DNB Super Specialty',
             specialty: 'Gastroenterology',
             experience: '12 Years',
-            image: '../assets/Doc-Side/Gastroenterologist - Dr. Ravish Ranjan.webp',
+            image: '../assets/doctor-latest/Gastroenterologist - Dr. Ravish Ranjan.webp',
             description: 'Dr. Ravish Ranjan is an experienced gastroenterologist specializing in advanced diagnostic and therapeutic endoscopy with 12 years of expertise. He is dedicated to providing personalized and comprehensive care for complex gastrointestinal conditions.',
             expertise: [
                 'Therapeutic and Diagnostic Advance Upper GI Endoscopy',

@@ -107,7 +107,7 @@ $page_title = 'Dr. Ashish Kumar Modi | Raj Hospitals';
                 qualifications: 'MBBS, MS (General Surgery)',
                 specialty: 'Minimal Access Surgery',
                 experience: '12+ Years',
-                image: '../assets/Doc-Side/General Surgeon - Dr. Ashish Kumar Modi.webp',
+                image: '../assets/doctor-latest/General Surgeon - Dr. Ashish Kumar Modi.webp',
                 description: 'Dr. Ashish Kumar Modi is a highly skilled bariatric and laparoscopic surgeon with over 12 years of experience. He specializes in advanced laparoscopic procedures, laser surgery for proctology, and diagnostic and therapeutic endoscopy, known for his precise surgical skills and compassionate patient care.',
                 expertise: [
                   'Laparoscopy Surgery',

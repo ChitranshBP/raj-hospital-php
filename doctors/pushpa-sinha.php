@@ -14,7 +14,7 @@ include($base_url . 'header.php');
                 <div class="w-full md:w-1/3 flex justify-center md:justify-end">
                     <div
                         class="relative w-64 h-80 md:w-80 md:h-96 rounded-2xl overflow-hidden border-4 border-white/20 shadow-2xl transform hover:scale-105 transition-transform duration-300">
-                        <img src="../assets/Doc-Side/Gyanecologist - Dr. Pushpa Sinha.webp" alt="Dr. Pushpa Sinha"
+                        <img src="../assets/doctor-latest/Gyanecologist - Dr. Pushpa Sinha.webp" alt="Dr. Pushpa Sinha"
                             class="w-full h-full object-cover">
                     </div>
                 </div>

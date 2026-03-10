@@ -130,7 +130,7 @@
             qualifications: 'MBBS, MD, DM',
             specialty: 'Cardiology',
             experience: '16+ Years',
-            image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Cardiologist - Dr. Rajesh-Kumar Jha.webp',
+            image: '../assets/doctor-latest/Cardiologist - Dr. Rajesh Kumar Jha.webp',
             description: 'Dr. Rajesh Kumar Jha is a Cardiologist with over 16 years of experience specializing in interventional cardiology.',
             expertise: ['Interventional Cardiology'],
             education: [

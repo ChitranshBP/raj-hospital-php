@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Doctor Profile | Raj Hospitals</title>
@@ -102,10 +102,11 @@
 
     <!-- Main Header -->
     <header id="main-header" class="fixed w-full z-40 bg-white top-[48px] sm:top-6 transition-all duration-300 border-b border-gray-100">
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
         <div class="max-w-7xl mx-auto px-4">
             <div class="flex relative items-center justify-between h-16 md:h-20 lg:h-24">
                 <!-- Logo -->
-                <a href="./index.php" class="flex items-center group">
+                <a href="./index.html" class="flex items-center group">
                     <div id="logo-container" class="flex items-center space-x-2 sm:space-x-4 md:space-x-5 lg:space-x-6 transition-all duration-300">
                         <img id="main-logo" src="./assets/Header/main-logo_ranchi.webp" alt="Main Logo" class="object-contain transition-all duration-300 w-[80px] h-[80px] sm:w-[110px] sm:h-[110px] md:w-[130px] md:h-[130px] lg:w-[160px] lg:h-[160px]">
                         <div id="nabh-logos" class="flex space-x-1 sm:space-x-3 md:space-x-2 lg:space-x-2 transition-all duration-300">
@@ -127,68 +128,69 @@
 
                     <!-- First Row (Collapsible) -->
                     <nav id="nav-top-row" class="flex items-center space-x-3 md:space-x-4 lg:space-x-6 overflow-hidden transition-all duration-300 h-auto opacity-100 origin-top">
-                        <a href="./index.php" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Home</a>
-                        <a href="./testimonials.php" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Testimonials</a>
-                        <a href="./careers.php" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Careers</a>
-                        <a href="./news-media.php" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">News & Media</a>
-                        <a href="./blogs.php" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Blogs</a>
+                        <a href="./index.html" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Home</a>
+                        <a href="./testimonials.html" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Testimonials</a>
+                        <a href="./careers.html" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Careers</a>
+                        <a href="./news-media.html" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">News & Media</a>
+                        <a href="./blogs.html" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Blogs</a>
                     </nav>
 
                     <!-- Second Row (Always Visible) -->
                     <nav class="flex items-center space-x-3 md:space-x-4 lg:space-x-6">
-                        <a href="./about.php" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">About Raj</a>
+                        <a href="./about.html" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">About Raj</a>
                         
                         <!-- Specialties Dropdown trigger -->
-                        <div class="relative group cursor-pointer" id="specialties-trigger">
+                        <div class=" group cursor-pointer" id="specialties-trigger">
                             <div class="flex items-center space-x-1 text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">
                                 <span>Specialities</span>
                                 <i data-feather="chevron-down" class="w-3 h-3 group-hover:rotate-180 transition-transform"></i>
                             </div>
-                            
+
                             <!-- Mega Menu -->
-                            <div class="absolute top-full right-0 w-[800px] bg-white rounded-2xl shadow-2xl border border-gray-100 p-6 hidden group-hover:block fade-in-visible z-50" style="margin-top: 10px;">
+                            <div id="mega-menu" class="absolute top-full right-0 hidden z-50">
+                            <div class="w-[800px] bg-white rounded-2xl shadow-2xl border border-gray-100 p-6 fade-in-visible">
                                 <div class="grid grid-cols-3 gap-6">
                                                                         <div class="flex flex-col">
                                         <h4 class="font-semibold text-orange-600 uppercase tracking-wide mb-3 border-b border-gray-200 pb-2 text-sm">
                                             Centres of Excellence                                        </h4>
                                         <div class="flex flex-col gap-1">
-                                                                                        <a href="./specialties/cardiology.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/cardiology.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="heart" class="w-4 h-4 text-orange-500"></i> 
                                                 Cardiology                                            </a>
-                                                                                        <a href="./specialties/critical-care.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/critical-care.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="activity" class="w-4 h-4 text-orange-500"></i> 
                                                 Critical Care                                             </a>
-                                                                                        <a href="./specialties/emergency.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/emergency.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="alert-circle" class="w-4 h-4 text-orange-500"></i> 
                                                 Emergency                                            </a>
-                                                                                        <a href="./specialties/gastroenterology.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/gastroenterology.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="aperture" class="w-4 h-4 text-orange-500"></i> 
                                                 Gastroenterology                                            </a>
-                                                                                        <a href="./specialties/minimal-access-surgery.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/minimal-access-surgery.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="target" class="w-4 h-4 text-orange-500"></i> 
                                                 Minimal Access Surgery                                            </a>
-                                                                                        <a href="./specialties/nephrology.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/nephrology.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="droplet" class="w-4 h-4 text-orange-500"></i> 
                                                 Nephrology                                            </a>
-                                                                                        <a href="./specialties/neurosciences.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/neurosciences.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="coffee" class="w-4 h-4 text-orange-500"></i> 
                                                 Neurosciences                                            </a>
-                                                                                        <a href="./specialties/oncology-cancer-care.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/oncology-cancer-care.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="shield" class="w-4 h-4 text-orange-500"></i> 
                                                 Oncology (Cancer Care)                                            </a>
-                                                                                        <a href="./specialties/orthopaedics-and-joint-replacement.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/orthopaedics-and-joint-replacement.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="users" class="w-4 h-4 text-orange-500"></i> 
                                                 Orthopaedics &amp; Joint Replacement                                            </a>
-                                                                                        <a href="./specialties/pulmonology.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/pulmonology.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="wind" class="w-4 h-4 text-orange-500"></i> 
                                                 Pulmonology                                            </a>
-                                                                                        <a href="./specialties/internal-medicine.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/internal-medicine.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="crosshair" class="w-4 h-4 text-orange-500"></i> 
                                                 Internal Medicine                                            </a>
-                                                                                        <a href="./specialties/urology.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/urology.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="zap" class="w-4 h-4 text-orange-500"></i> 
                                                 Urology                                            </a>
-                                                                                        <a href="./specialties/obstetrics-and-gynaecology.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/obstetrics-and-gynaecology.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="trending-up" class="w-4 h-4 text-orange-500"></i> 
                                                 Obstetrics &amp; Gynaecology                                            </a>
                                                                                     </div>
@@ -197,34 +199,34 @@
                                         <h4 class="font-semibold text-orange-600 uppercase tracking-wide mb-3 border-b border-gray-200 pb-2 text-sm">
                                             Allied Specialties                                        </h4>
                                         <div class="flex flex-col gap-1">
-                                                                                        <a href="./specialties/aesthetic-and-reconstructive-surgery.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/aesthetic-and-reconstructive-surgery.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="scissors" class="w-4 h-4 text-orange-500"></i> 
                                                 Aesthetic &amp; Reconstructive Surgery                                            </a>
-                                                                                        <a href="./specialties/dental.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/dental.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="smile" class="w-4 h-4 text-orange-500"></i> 
                                                 Dental                                            </a>
-                                                                                        <a href="./specialties/dermatology.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/dermatology.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="feather" class="w-4 h-4 text-orange-500"></i> 
                                                 Dermatology                                            </a>
-                                                                                        <a href="./specialties/ent.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/ent.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="mic" class="w-4 h-4 text-orange-500"></i> 
                                                 ENT                                            </a>
-                                                                                        <a href="./specialties/eye-care.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/eye-care.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="eye" class="w-4 h-4 text-orange-500"></i> 
                                                 Eye Care                                            </a>
-                                                                                        <a href="./specialties/nutrition-and-dietetics.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/nutrition-and-dietetics.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="coffee" class="w-4 h-4 text-orange-500"></i> 
                                                 Nutrition &amp; Dietetics                                            </a>
-                                                                                        <a href="./specialties/pediatrics-and-neonatology.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/pediatrics-and-neonatology.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="coffee" class="w-4 h-4 text-orange-500"></i> 
                                                 Pediatrics &amp; Neonatology                                            </a>
-                                                                                        <a href="./specialties/physiotherapy-and-rehabilitation.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/physiotherapy-and-rehabilitation.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="move" class="w-4 h-4 text-orange-500"></i> 
                                                 Physiotherapy &amp; Rehabilitation                                            </a>
-                                                                                        <a href="./specialties/psychiatry-and-mental-health.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/psychiatry-and-mental-health.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="message-circle" class="w-4 h-4 text-orange-500"></i> 
                                                 Psychiatry &amp; Mental Health                                            </a>
-                                                                                        <a href="./specialties/oral-maxillofacial-surgery-ad.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/oral-maxillofacial-surgery-ad.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="scissors" class="w-4 h-4 text-orange-500"></i> 
                                                 Oral &amp; Maxillofacial Surgery                                            </a>
                                                                                     </div>
@@ -233,24 +235,25 @@
                                         <h4 class="font-semibold text-orange-600 uppercase tracking-wide mb-3 border-b border-gray-200 pb-2 text-sm">
                                             Advanced Diagnostics                                        </h4>
                                         <div class="flex flex-col gap-1">
-                                                                                        <a href="./specialties/radiology.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/radiology.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="camera" class="w-4 h-4 text-orange-500"></i> 
                                                 Radiology                                            </a>
-                                                                                        <a href="./specialties/neurology-ad.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/neurology-ad.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="moon" class="w-4 h-4 text-orange-500"></i> 
                                                 Neurology                                            </a>
-                                                                                        <a href="./specialties/laboratory-investigations.php" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
+                                                                                        <a href="./specialties/laboratory-investigations.html" class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                 <i data-feather="file" class="w-4 h-4 text-orange-500"></i> 
                                                 FNAC, Biopsy, Blood &amp; Laboratory Investigations                                            </a>
                                                                                     </div>
                                     </div>
                                                                     </div>
                             </div>
+                            </div>
                         </div>
 
-                        <a href="./doctors.php" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Find a Doctor</a>
+                        <a href="./doctors.html" class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Find a Doctor</a>
                         <div class="flex items-center space-x-3 ml-2 lg:ml-4">
-                            <a href="./contact.php" class="bg-orange-500 hover:bg-orange-600 text-white px-4 lg:px-7 py-2 lg:py-2.5 rounded-full transition-colors font-semibold text-sm lg:text-base shadow-md">Book Appointment</a>
+                            <a href="./contact.html" class="bg-orange-500 hover:bg-orange-600 text-white px-4 lg:px-7 py-2 lg:py-2.5 rounded-full transition-colors font-semibold text-sm lg:text-base shadow-md">Book Appointment</a>
                         </div>
                     </nav>
                 </div>
@@ -260,8 +263,8 @@
         <!-- Mobile Menu (Hidden by default, visible on mobile when toggled) -->
         <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-gray-100 max-h-[80vh] overflow-y-auto absolute w-full left-0 shadow-lg">
              <div class="px-4 py-4 space-y-1">
-                <a href="./index.php" class="block py-3 text-gray-700 font-medium border-b border-gray-100">Home</a>
-                <a href="./about.php" class="block py-3 text-gray-700 font-medium border-b border-gray-100">About Raj</a>
+                <a href="./index.html" class="block py-3 text-gray-700 font-medium border-b border-gray-100">Home</a>
+                <a href="./about.html" class="block py-3 text-gray-700 font-medium border-b border-gray-100">About Raj</a>
 
                 <!-- Mobile Specialties Accordion -->
                 <div class="border-b border-gray-100">
@@ -276,19 +279,19 @@
                                 <i data-feather="chevron-down" class="w-3 h-3 transition-transform category-chevron"></i>
                             </button>
                             <div class="pl-4 mt-1 space-y-1 max-h-48 overflow-y-auto hidden mobile-category-items scrollbar-thin">
-                                                                <a href="./specialties/cardiology.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Cardiology</a>
-                                                                <a href="./specialties/critical-care.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Critical Care </a>
-                                                                <a href="./specialties/emergency.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Emergency</a>
-                                                                <a href="./specialties/gastroenterology.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Gastroenterology</a>
-                                                                <a href="./specialties/minimal-access-surgery.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Minimal Access Surgery</a>
-                                                                <a href="./specialties/nephrology.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Nephrology</a>
-                                                                <a href="./specialties/neurosciences.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Neurosciences</a>
-                                                                <a href="./specialties/oncology-cancer-care.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Oncology (Cancer Care)</a>
-                                                                <a href="./specialties/orthopaedics-and-joint-replacement.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Orthopaedics &amp; Joint Replacement</a>
-                                                                <a href="./specialties/pulmonology.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Pulmonology</a>
-                                                                <a href="./specialties/internal-medicine.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Internal Medicine</a>
-                                                                <a href="./specialties/urology.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Urology</a>
-                                                                <a href="./specialties/obstetrics-and-gynaecology.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Obstetrics &amp; Gynaecology</a>
+                                                                <a href="./specialties/cardiology.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Cardiology</a>
+                                                                <a href="./specialties/critical-care.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Critical Care </a>
+                                                                <a href="./specialties/emergency.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Emergency</a>
+                                                                <a href="./specialties/gastroenterology.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Gastroenterology</a>
+                                                                <a href="./specialties/minimal-access-surgery.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Minimal Access Surgery</a>
+                                                                <a href="./specialties/nephrology.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Nephrology</a>
+                                                                <a href="./specialties/neurosciences.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Neurosciences</a>
+                                                                <a href="./specialties/oncology-cancer-care.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Oncology (Cancer Care)</a>
+                                                                <a href="./specialties/orthopaedics-and-joint-replacement.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Orthopaedics &amp; Joint Replacement</a>
+                                                                <a href="./specialties/pulmonology.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Pulmonology</a>
+                                                                <a href="./specialties/internal-medicine.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Internal Medicine</a>
+                                                                <a href="./specialties/urology.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Urology</a>
+                                                                <a href="./specialties/obstetrics-and-gynaecology.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Obstetrics &amp; Gynaecology</a>
                                                             </div>
                         </div>
                                                 <div class="border-b border-gray-100 pb-2">
@@ -297,16 +300,16 @@
                                 <i data-feather="chevron-down" class="w-3 h-3 transition-transform category-chevron"></i>
                             </button>
                             <div class="pl-4 mt-1 space-y-1 max-h-48 overflow-y-auto hidden mobile-category-items scrollbar-thin">
-                                                                <a href="./specialties/aesthetic-and-reconstructive-surgery.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Aesthetic &amp; Reconstructive Surgery</a>
-                                                                <a href="./specialties/dental.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Dental</a>
-                                                                <a href="./specialties/dermatology.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Dermatology</a>
-                                                                <a href="./specialties/ent.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">ENT</a>
-                                                                <a href="./specialties/eye-care.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Eye Care</a>
-                                                                <a href="./specialties/nutrition-and-dietetics.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Nutrition &amp; Dietetics</a>
-                                                                <a href="./specialties/pediatrics-and-neonatology.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Pediatrics &amp; Neonatology</a>
-                                                                <a href="./specialties/physiotherapy-and-rehabilitation.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Physiotherapy &amp; Rehabilitation</a>
-                                                                <a href="./specialties/psychiatry-and-mental-health.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Psychiatry &amp; Mental Health</a>
-                                                                <a href="./specialties/oral-maxillofacial-surgery-ad.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Oral &amp; Maxillofacial Surgery</a>
+                                                                <a href="./specialties/aesthetic-and-reconstructive-surgery.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Aesthetic &amp; Reconstructive Surgery</a>
+                                                                <a href="./specialties/dental.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Dental</a>
+                                                                <a href="./specialties/dermatology.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Dermatology</a>
+                                                                <a href="./specialties/ent.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">ENT</a>
+                                                                <a href="./specialties/eye-care.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Eye Care</a>
+                                                                <a href="./specialties/nutrition-and-dietetics.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Nutrition &amp; Dietetics</a>
+                                                                <a href="./specialties/pediatrics-and-neonatology.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Pediatrics &amp; Neonatology</a>
+                                                                <a href="./specialties/physiotherapy-and-rehabilitation.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Physiotherapy &amp; Rehabilitation</a>
+                                                                <a href="./specialties/psychiatry-and-mental-health.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Psychiatry &amp; Mental Health</a>
+                                                                <a href="./specialties/oral-maxillofacial-surgery-ad.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Oral &amp; Maxillofacial Surgery</a>
                                                             </div>
                         </div>
                                                 <div class="border-b border-gray-100 pb-2">
@@ -315,19 +318,19 @@
                                 <i data-feather="chevron-down" class="w-3 h-3 transition-transform category-chevron"></i>
                             </button>
                             <div class="pl-4 mt-1 space-y-1 max-h-48 overflow-y-auto hidden mobile-category-items scrollbar-thin">
-                                                                <a href="./specialties/radiology.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Radiology</a>
-                                                                <a href="./specialties/neurology-ad.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Neurology</a>
-                                                                <a href="./specialties/laboratory-investigations.php" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">FNAC, Biopsy, Blood &amp; Laboratory Investigations</a>
+                                                                <a href="./specialties/radiology.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Radiology</a>
+                                                                <a href="./specialties/neurology-ad.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">Neurology</a>
+                                                                <a href="./specialties/laboratory-investigations.html" class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">FNAC, Biopsy, Blood &amp; Laboratory Investigations</a>
                                                             </div>
                         </div>
                                             </div>
                 </div>
 
-                <a href="./doctors.php" class="block py-3 text-gray-700 font-medium border-b border-gray-100">Find a Doctor</a>
-                <a href="./testimonials.php" class="block py-3 text-gray-700 font-medium border-b border-gray-100">Testimonials</a>
-                <a href="./news-media.php" class="block py-3 text-gray-700 font-medium border-b border-gray-100">News & Media</a>
-                <a href="./careers.php" class="block py-3 text-gray-700 font-medium border-b border-gray-100">Careers</a>
-                <a href="./contact.php" class="block w-full bg-orange-500 text-white py-3 rounded-lg font-medium text-center mt-4">Book Appointment</a>
+                <a href="./doctors.html" class="block py-3 text-gray-700 font-medium border-b border-gray-100">Find a Doctor</a>
+                <a href="./testimonials.html" class="block py-3 text-gray-700 font-medium border-b border-gray-100">Testimonials</a>
+                <a href="./news-media.html" class="block py-3 text-gray-700 font-medium border-b border-gray-100">News & Media</a>
+                <a href="./careers.html" class="block py-3 text-gray-700 font-medium border-b border-gray-100">Careers</a>
+                <a href="./contact.html" class="block w-full bg-orange-500 text-white py-3 rounded-lg font-medium text-center mt-4">Book Appointment</a>
              </div>
         </div>
     </header>
@@ -364,12 +367,12 @@
 
             // Mobile Category Dropdowns
             const categoryBtns = document.querySelectorAll('.mobile-category-btn');
-            
+
             categoryBtns.forEach(btn => {
                 btn.addEventListener('click', () => {
                     const items = btn.nextElementSibling;
                     const chevron = btn.querySelector('.category-chevron');
-                    
+
                     if (items) {
                         items.classList.toggle('hidden');
                     }
@@ -378,6 +381,23 @@
                     }
                 });
             });
+
+            // Desktop Mega Menu with delay
+            const trigger = document.getElementById('specialties-trigger');
+            const megaMenu = document.getElementById('mega-menu');
+            let hideTimeout = null;
+
+            if (trigger && megaMenu) {
+                trigger.addEventListener('mouseenter', () => {
+                    clearTimeout(hideTimeout);
+                    megaMenu.classList.remove('hidden');
+                });
+                trigger.addEventListener('mouseleave', () => {
+                    hideTimeout = setTimeout(() => {
+                        megaMenu.classList.add('hidden');
+                    }, 200);
+                });
+            }
         });
     </script>
 
@@ -437,13 +457,13 @@
                          <div>
                             <h4 class="text-lg font-bold mb-6 text-white uppercase tracking-wide">Quick Links</h4>
                             <ul class="space-y-2.5">
-                                <li><a href="./about.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>About Raj Hospitals</span></a></li>
-                                <li><a href="./doctors.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Find a Doctor</span></a></li>
-                                <li><a href="./specialties.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Specialties</span></a></li>
-                                <li><a href="./careers.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Careers</span></a></li>
-                                <li><a href="./news-media.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>News & Media</span></a></li>
-                                <li><a href="./blogs.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Blogs</span></a></li>
-                                <li><a href="./biomedical-waste-reports.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>BioMedical Waste Reports</span></a></li>
+                                <li><a href="./about.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>About Raj Hospitals</span></a></li>
+                                <li><a href="./doctors.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Find a Doctor</span></a></li>
+                                <li><a href="./specialties.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Specialties</span></a></li>
+                                <li><a href="./careers.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Careers</span></a></li>
+                                <li><a href="./news-media.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>News & Media</span></a></li>
+                                <li><a href="./blogs.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Blogs</span></a></li>
+                                <li><a href="./biomedical-waste-reports.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>BioMedical Waste Reports</span></a></li>
                             </ul>
                          </div>
 
@@ -451,14 +471,14 @@
                          <div>
                             <h4 class="text-lg font-bold mb-6 text-white uppercase tracking-wide">Centres of Excellence</h4>
                             <ul class="space-y-2.5">
-                                <li><a href="./specialties/cardiology.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Cardiology</span></a></li>
-                                <li><a href="./specialties/critical-care.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Critical Care</span></a></li>
-                                <li><a href="./specialties/emergency.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Emergency</span></a></li>
-                                <li><a href="./specialties/gastroenterology.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Gastroenterology</span></a></li>
-                                <li><a href="./specialties/minimal-access-surgery.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Minimal Access Surgery</span></a></li>
-                                <li><a href="./specialties/nephrology.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Nephrology</span></a></li>
-                                <li><a href="./specialties/neurosciences.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Neurosciences</span></a></li>
-                                <li><a href="./specialties/oncology-cancer-care.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Oncology (Cancer Care)</span></a></li>
+                                <li><a href="./specialties/cardiology.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Cardiology</span></a></li>
+                                <li><a href="./specialties/critical-care.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Critical Care</span></a></li>
+                                <li><a href="./specialties/emergency.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Emergency</span></a></li>
+                                <li><a href="./specialties/gastroenterology.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Gastroenterology</span></a></li>
+                                <li><a href="./specialties/minimal-access-surgery.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Minimal Access Surgery</span></a></li>
+                                <li><a href="./specialties/nephrology.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Nephrology</span></a></li>
+                                <li><a href="./specialties/neurosciences.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Neurosciences</span></a></li>
+                                <li><a href="./specialties/oncology-cancer-care.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Oncology (Cancer Care)</span></a></li>
                             </ul>
                          </div>
                          
@@ -466,12 +486,12 @@
                          <div>
                             <h4 class="text-lg font-bold mb-6 text-white uppercase tracking-wide">Allied Specialties</h4>
                              <ul class="space-y-2.5">
-                                <li><a href="./specialties/aesthetic-and-reconstructive-surgery.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Aesthetic & Surg</span></a></li>
-                                <li><a href="./specialties/dental.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Dental</span></a></li>
-                                <li><a href="./specialties/dermatology.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Dermatology</span></a></li>
-                                <li><a href="./specialties/ent.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>ENT</span></a></li>
-                                <li><a href="./specialties/eye-care.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Eye Care</span></a></li>
-                                <li><a href="./specialties/pediatrics-and-neonatology.php" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Pediatrics</span></a></li>
+                                <li><a href="./specialties/aesthetic-and-reconstructive-surgery.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Aesthetic & Surg</span></a></li>
+                                <li><a href="./specialties/dental.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Dental</span></a></li>
+                                <li><a href="./specialties/dermatology.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Dermatology</span></a></li>
+                                <li><a href="./specialties/ent.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>ENT</span></a></li>
+                                <li><a href="./specialties/eye-care.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Eye Care</span></a></li>
+                                <li><a href="./specialties/pediatrics-and-neonatology.html" class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i data-feather="chevron-right" class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i> <span>Pediatrics</span></a></li>
                             </ul>
                          </div>
                     </div>
@@ -496,11 +516,11 @@
                              <p class="text-gray-500 text-xs">Established 1991 • NABH Accredited • Leading Healthcare Provider in Jharkhand</p>
                         </div>
                          <div class="flex flex-wrap justify-center gap-4 text-xs">
-                            <a href="./privacy-policy.php" class="text-gray-400 hover:text-orange-400 transition-colors">Privacy Policy</a>
+                            <a href="./privacy-policy.html" class="text-gray-400 hover:text-orange-400 transition-colors">Privacy Policy</a>
                             <span class="text-gray-700">•</span>
-                            <a href="./terms-and-conditions.php" class="text-gray-400 hover:text-orange-400 transition-colors">Terms & Conditions</a>
+                            <a href="./terms-and-conditions.html" class="text-gray-400 hover:text-orange-400 transition-colors">Terms & Conditions</a>
                             <span class="text-gray-700">•</span>
-                            <a href="./biomedical-waste-reports.php" class="text-gray-400 hover:text-orange-400 transition-colors">BMW Reports</a>
+                            <a href="./biomedical-waste-reports.html" class="text-gray-400 hover:text-orange-400 transition-colors">BMW Reports</a>
                           </div>
                     </div>
                 </div>
@@ -579,12 +599,12 @@
                 publications: [],
                 contact: { phone: '+919263630500' }
             },
-            { id: 'rajesh-jha', name: 'Dr. Rajesh Kumar Jha', qualifications: 'MBBS, MD, DM', specialty: 'Cardiology', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Cardiologist - Dr. Rajesh-Kumar Jha.webp' },
+            { id: 'rajesh-jha', name: 'Dr. Rajesh Kumar Jha', qualifications: 'MBBS, MD, DM', specialty: 'Cardiology', experience: '16+ Years', image: 'assets/doctor-latest/Cardiologist - Dr. Rajesh Kumar Jha.webp' },
             { id: 'fuzail-sarwer', name: 'Dr. Fuzail Sarwer', qualifications: 'MBBS, MD, PDCC', specialty: 'Critical Care', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp' },
             { id: 'rahul-roy', name: 'Dr. Rahul Roy', qualifications: 'MBBS, DA, IDCCM', specialty: 'Critical Care', experience: '20+ Years', image: 'assets/Doc-Side/Dr Rahul Roy(CCT).webp' },
             { id: 'shyam-prasad', name: 'Dr. Shyam Prasad', qualifications: 'MBBS, MD MEM', specialty: 'Emergency', experience: '12+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Emergency - Dr. Shyam-Prasad.webp' },
-            { id: 'ravish-ranjan', name: 'Dr. Ravish Ranjan', qualifications: 'MBBS, MD, DNB', specialty: 'Gastroenterology', experience: '12 Years', image: 'assets/Doc-Side/Gastroenterologist - Dr. Ravish Ranjan.webp' },
-            { id: 'ashish-modi', name: 'Dr. Ashish Kumar Modi', qualifications: 'MBBS, MS', specialty: 'Minimal Access Surgery', experience: '12+ Years', image: 'assets/Doc-Side/General Surgeon - Dr. Ashish Kumar Modi.webp', hasStaticPage: true },
+            { id: 'ravish-ranjan', name: 'Dr. Ravish Ranjan', qualifications: 'MBBS, MD, DNB', specialty: 'Gastroenterology', experience: '12 Years', image: 'assets/doctor-latest/Gastroenterologist - Dr. Ravish Ranjan.webp' },
+            { id: 'ashish-modi', name: 'Dr. Ashish Kumar Modi', qualifications: 'MBBS, MS', specialty: 'Minimal Access Surgery', experience: '12+ Years', image: 'assets/doctor-latest/General Surgeon - Dr. Ashish Kumar Modi.webp', hasStaticPage: true },
             { id: 'ak-agarwal', name: 'Dr. A K Agarwal', qualifications: 'MBBS, MD', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Agrawal.webp', hasStaticPage: true },
             { id: 'ak-sinha', name: 'Dr. A K Sinha', qualifications: 'MBBS, MD', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Sinha.webp', hasStaticPage: true },
             { id: 'neelam-kumari', name: 'Dr. Neelam Kumari', qualifications: 'MBBS, MD, DNB', specialty: 'Internal Medicine', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp', hasStaticPage: true },
@@ -593,13 +613,13 @@
             { id: 'pk-raina', name: 'Dr. P K Raina', qualifications: 'MBBS, MS', specialty: 'Oncology (Cancer Care)', experience: '20+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Oncologist - Dr. P-K-Raina.webp' },
             { id: 'deepak-verma', name: 'Dr. Deepak Verma', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '25+ Years', image: 'assets/new-doctors-side/deepak verma.webp' },
             { id: 'mozammil-pheroz', name: 'Dr. Mozammil Pheroz', qualifications: 'MBBS, MS, DNB, Dip.Sports Medicine', specialty: 'Orthopaedics & Joint Replacement', experience: '11+ Years', image: 'assets/Doc-Side/dr-pheroz-raj-removebg-preview.png' },
-            { id: 'ujjwal-sinha', name: 'Dr. Ujjwal Sinha', qualifications: 'MBBS, MS, DNB', specialty: 'Orthopaedics & Joint Replacement', experience: '15+ Years', image: 'assets/Doc-Side/ujjwal_sinha_ortho.webp' },
+            { id: 'ujjwal-sinha', name: 'Dr. Ujjwal Sinha', qualifications: 'MBBS, MS, DNB', specialty: 'Orthopaedics & Joint Replacement', experience: '15+ Years', image: 'assets/doctor-latest/Orthopedic Surgeon - Dr. Ujjwal Sinha.webp' },
             { id: 'abhishek-roy', name: 'Dr. Abhishek Roy', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '6+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp' },
             { id: 'suprova-chakraborty', name: 'Dr. Suprova Chakraborty', qualifications: 'DNB Respiratory Medicine', specialty: 'Pulmonology', experience: '12+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Pulmonologist - Dr. Suprova-Chakraborty.webp' },
             { id: 'sunil-kumar', name: 'Dr. Sunil Kumar', qualifications: 'MBBS, MS, MCh', specialty: 'Urology', experience: '18+ Years', image: 'assets/new-doctors-side/sunil kumar.webp' },
             { id: 'ved-prakash', name: 'Dr. Ved Prakash Verma', qualifications: 'MBBS, MS, MCh', specialty: 'Urology', experience: '18+ Years', image: 'assets/new-doctors-side/ved prakash.webp' },
             { id: 'anupama-mahli', name: 'Dr. Anupama Mahli', qualifications: 'MBBS, MS, DNB', specialty: 'Obstetrics & Gynaecology', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Gyanecologist - Dr. Anupama-Mahli.webp' },
-            { id: 'pushpa-sinha', name: 'Dr. Pushpa Sinha', qualifications: 'MBBS, MD, DGO', specialty: 'Obstetrics & Gynaecology', experience: '15+ Years', image: 'assets/Doc-Side/Gyanecologist - Dr. Pushpa Sinha.webp' },
+            { id: 'pushpa-sinha', name: 'Dr. Pushpa Sinha', qualifications: 'MBBS, MD, DGO', specialty: 'Obstetrics & Gynaecology', experience: '15+ Years', image: 'assets/doctor-latest/Gyanecologist - Dr. Pushpa Sinha.webp' },
             { id: 'pankaj-kumar', name: 'Dr. Pankaj Kumar', qualifications: 'MBBS, MS, MCh', specialty: 'Aesthetic & Reconstructive Surgery', experience: '12+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp' },
             { id: 'tanushree-chakroborty', name: 'Dr. Tanushree Chakroborty', qualifications: 'MBBS, DGO', specialty: 'Obstetrics & Gynaecology', experience: '15+ Years', image: 'assets/Doc-Side/tanushree_gyane.webp' },
             { id: 'suraj-mani-bhattacharjee', name: 'Dr. Suraj Mani Bhattacharjee', qualifications: 'BDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp' },
@@ -607,16 +627,19 @@
             { id: 'tgn-sinha', name: 'Dr. T.G.N. Sinha', qualifications: 'MBBS, MS, FICS', specialty: 'ENT', experience: '45+ Years', image: 'assets/new-doctors-side/tgn sinha.webp' },
             { id: 'ranajan-jha', name: 'Dr. Ranajan Kumar Jha', qualifications: 'MBBS, MS, FESS', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp' },
             { id: 'abhay-pandey', name: 'Dr. Abhay Kumar Pandey', qualifications: 'BPT, MPT, PGDYT', specialty: 'Physiotherapy & Rehabilitation', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Physiotherapist - Dr. Abhay-Kumar-Pandey.webp' },
+
             { id: 'ahmad-hussain', name: 'Dr. Ahmad Hussain', qualifications: 'MBBS, MD, DrNB', specialty: 'Neurosciences', experience: '5+ Years', image: 'assets/new-doctors-side/ahmad hussain.webp' },
             { id: 'abhishek-bhattacharjee', name: 'Dr. Abhishek Bhattacharjee', qualifications: 'MBBS, MDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Maxillofacial Surgeon - Dr. Abhishek-Bhattacharjee.webp' },
             // Critical Care (4 doctors)
             { id: 'saurabh-kumar', name: 'Dr. Saurabh Kumar', qualifications: 'MBBS, MD', specialty: 'Critical Care', experience: '26+ Years', image: 'assets/new-doctors-side/Dr. Saurabh Kumar.webp' },
             { id: 'mohib-ahmed', name: 'Dr. Mohib Ahmed', qualifications: 'MBBS, MD, IDCCM', specialty: 'Critical Care', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Mohib-Ahmed.webp' },
             { id: 'pradeep-prasad', name: 'Dr. Pradeep Prasad', qualifications: 'MBBS, MD', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '10+ Years', image: 'assets/new-doctors-side/pradeep prasad.webp' },
-            { id: 'jitendra-prasad', name: 'Dr. Jitendra Prasad', qualifications: 'MBBS, MD', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '9+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp' },
+            { id: 'jitendra-prasad', name: 'Dr. Jitendra Prasad', qualifications: 'MBBS, MD', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '9+ Years', image: 'assets/doctor-latest/dr-jitendra-lab.webp' },
             { id: 'kriti-kaira', name: 'Dr. Kriti Kaira', qualifications: 'MBBS, MD, PDF', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '3+ Years', image: 'assets/Doc-Side/Dr kirti_kaira_lab.webp' },
 
+
             { id: 'B-kumar', name: 'Dr. B Kumar', qualifications: 'MBBS, MS', specialty: 'Minimal Access Surgery', experience: '12 Years', image: 'assets/doc-dummy/male-dummy-raj.webp' },
+
             { id: 'anup-kumar-jha', name: 'Dr. Anup Kumar Jha', qualifications: 'MBBS, Cardio-Physician', specialty: 'Cardiology', experience: '30+ Years', image: 'assets/Doc-Side/Dr Anup Kumar Jha_.webp' },
             { id: 'shweta-sushmita', name: 'Dr. Shweta Sushmita', qualifications: 'MBBS, MD', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '10+ Years', image: 'assets/Doc-Side/Lab - Dr. Sweta Sushmita.webp' },
             { id: 'praveen-kumar', name: 'Dr. Praveen Kumar', qualifications: 'MBBS, DCP', specialty: 'FNAC, Biopsy, Blood & Laboratory', experience: '8+ Years', image: 'assets/new-doctors-side/praveen kumar.webp' },
