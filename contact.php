@@ -126,30 +126,30 @@
                         <i data-feather="message-square" class="w-6 h-6 text-[#ea5234]"></i>
                         <h2 class="text-2xl font-bold text-gray-900">Send us a Message</h2>
                     </div>
-                    <form onsubmit="handleContactSubmit(event)" class="space-y-6">
+                    <form accept-charset='UTF-8' action='https://app.formester.com/forms/kIewn1CO8/submissions' method='POST' class="space-y-6">
                         <div class="grid md:grid-cols-2 gap-6">
                             <div>
                                 <label class="block text-sm font-medium text-gray-700 mb-2">First Name *</label>
-                                <input type="text" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your first name">
+                                <input type="text" name="first_name" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your first name">
                             </div>
                             <div>
                                 <label class="block text-sm font-medium text-gray-700 mb-2">Last Name *</label>
-                                <input type="text" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your last name">
+                                <input type="text" name="last_name" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your last name">
                             </div>
                         </div>
                         <div class="grid md:grid-cols-2 gap-6">
                             <div>
                                 <label class="block text-sm font-medium text-gray-700 mb-2">Email Address *</label>
-                                <input type="email" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your email">
+                                <input type="email" name="email" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your email">
                             </div>
                             <div>
                                 <label class="block text-sm font-medium text-gray-700 mb-2">Phone Number *</label>
-                                <input type="tel" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your phone number">
+                                <input type="tel" name="phone" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your phone number">
                             </div>
                         </div>
                         <div>
                             <label class="block text-sm font-medium text-gray-700 mb-2">Subject *</label>
-                            <select required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none bg-white">
+                            <select name="subject" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none bg-white">
                                 <option value="">Select a subject</option>
                                 <option value="Book Appointment">Book Appointment</option>
                                 <option value="Second Opinion">Second Opinion</option>
@@ -163,7 +163,7 @@
                         </div>
                         <div>
                             <label class="block text-sm font-medium text-gray-700 mb-2">Message *</label>
-                            <textarea rows="5" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your message here..."></textarea>
+                            <textarea name="message" rows="5" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your message here..."></textarea>
                         </div>
                         <button type="submit" class="w-full bg-[#ea5234] text-white py-4 rounded-lg hover:bg-[#d64528] transition-colors font-semibold text-lg flex items-center justify-center space-x-2">
                             <i data-feather="send" class="w-5 h-5"></i>
@@ -245,22 +245,6 @@
             }
         });
 
-        // Form Submit
-        function handleContactSubmit(e) {
-            e.preventDefault();
-            const btn = e.target.querySelector('button[type="submit"]');
-            const originalText = btn.innerHTML;
-            
-            btn.innerHTML = '<span class="animate-pulse">Sending...</span>';
-            btn.disabled = true;
-
-            setTimeout(() => {
-                alert('Thank you for contacting Raj Hospitals! We have received your message and will get back to you shortly.');
-                e.target.reset();
-                btn.innerHTML = originalText;
-                btn.disabled = false;
-            }, 1500);
-        }
 
         // Intersection Observer for Animations
         const observer = new IntersectionObserver((entries) => {
