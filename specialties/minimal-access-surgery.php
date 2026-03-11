@@ -361,11 +361,11 @@ Minimally Invasive Surgery in Jharkhand
                         style="max-height: 1000px; max-width: 340px; margin: 0 auto;">
 
                         <!-- Doctor 1 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
-                                <img src="../assets/doctor-latest/General Surgeon - Dr. Ashish Kumar Modi.webp"
-                                    alt="Dr. Ashish Kumar Modi" class="w-full h-full object-cover object-top">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
+                                <img src="../assets/new-doctors-side/Dr. Ashish Kumar Modi-new.png"
+                                    alt="Dr. Ashish Kumar Modi" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Ashish Kumar Modi</h3>

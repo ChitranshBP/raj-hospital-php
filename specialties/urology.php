@@ -356,11 +356,11 @@ Urinary Disorder Specialist in Jharkhand
                         style="max-height: 1000px; max-width: 340px; margin: 0 auto;">
 
                         <!-- Doctor 1 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/doctor-latest/sunil kumar.webp"
-                                    alt="Dr. Sunil Kumar" class="w-full h-full object-cover object-top">
+                                    alt="Dr. Sunil Kumar" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Sunil Kumar</h3>
@@ -384,11 +384,11 @@ Urinary Disorder Specialist in Jharkhand
                         </div>
 
                         <!-- Doctor 2 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/doctor-latest/ved prakash.webp"
-                                    alt="Dr. Ved Prakash Verma" class="w-full h-full object-cover object-top">
+                                    alt="Dr. Ved Prakash Verma" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Ved Prakash Verma</h3>

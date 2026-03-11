@@ -277,11 +277,11 @@ Child Specialist in Jharkhand
                         Specialists</h3>
                     <div class="flex flex-col gap-8 overflow-y-auto"
                         style="max-height: 1000px; max-width: 340px; margin: 0 auto;">
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden"><img
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0"><img
                                     src="../assets/specialties/PAEDIATRICS/dr-ravi-shekhar-singh.webp" alt="Dr. Ravi Shekhar Singh"
-                                    class="w-full h-full object-cover object-top"></div>
+                                    class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300"></div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Ravi Shekhar Singh</h3>
                                 <p class="text-primary-600 font-medium mb-2">MBBS, DCH</p>
@@ -297,11 +297,11 @@ Child Specialist in Jharkhand
                             </div>
                         </div>
 
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden"><img
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0"><img
                                     src="../assets/new-doctors-side/ashish basant.webp" alt="Dr. Ashish Basant"
-                                    class="w-full h-full object-cover object-top"></div>
+                                    class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300"></div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Ashish Basant</h3>
                                 <p class="text-primary-600 font-medium mb-2">MBBS, MD</p>

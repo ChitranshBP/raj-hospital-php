@@ -355,11 +355,11 @@ Orthopedic Surgeon in Jharkhand
                         style="max-height: 1000px; max-width: 340px; margin: 0 auto;">
 
                         <!-- Doctor 1 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/doctor-latest/deepak verma.webp"
-                                    alt="Dr. Deepak Verma" class="w-full h-full object-cover object-top">
+                                    alt="Dr. Deepak Verma" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Deepak Verma</h3>
@@ -384,11 +384,11 @@ Orthopedic Surgeon in Jharkhand
                         </div>
 
                         <!-- Doctor 2 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/Doc-Side/dr-pheroz-raj-removebg-preview.png"
-                                    alt="Dr Mozammil Pheroz" class="w-full h-full object-cover object-top">
+                                    alt="Dr Mozammil Pheroz" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr Mozammil Pheroz</h3>
@@ -412,11 +412,11 @@ Orthopedic Surgeon in Jharkhand
                         </div>
 
                         <!-- Doctor 3 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/doctor-latest/Orthopedic Surgeon - Dr. Ujjwal Sinha.webp" alt="Dr. Ujjwal Sinha"
-                                    class="w-full h-full object-cover object-top">
+                                    class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Ujjwal Sinha</h3>
@@ -440,11 +440,11 @@ Orthopedic Surgeon in Jharkhand
                         </div>
 
                         <!-- Doctor 4 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp"
-                                    alt="Dr. Abhishek Roy" class="w-full h-full object-cover object-top">
+                                    alt="Dr. Abhishek Roy" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Abhishek Roy</h3>

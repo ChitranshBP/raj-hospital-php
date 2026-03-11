@@ -347,11 +347,11 @@ Dental Care Hospital in Jharkhand
                     <div class="flex flex-col gap-8 overflow-y-auto"
                         style="max-height: 1000px; max-width: 340px; margin: 0 auto;">
                         <!-- Doctor 1 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp"
-                                    alt="Dr. Suraj Mani Bhattacharjee" class="w-full h-full object-cover object-top">
+                                    alt="Dr. Suraj Mani Bhattacharjee" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Suraj Mani Bhattacharjee</h3>
@@ -376,11 +376,11 @@ Dental Care Hospital in Jharkhand
                         </div>
 
                         <!-- Doctor 2 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Maxillofacial Surgeon - Dr. Abhishek-Bhattacharjee.webp"
-                                    alt="Dr. Abhishek Bhattacharjee" class="w-full h-full object-cover object-top">
+                                    alt="Dr. Abhishek Bhattacharjee" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Abhishek Bhattacharjee</h3>

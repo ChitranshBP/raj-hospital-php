@@ -373,11 +373,11 @@ Cardiac Care Hospital in Jharkhand
                         style="max-height: 1000px; max-width: 340px; margin: 0 auto;">
 
                         <!-- Doctor 1 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/doctor-latest/Cardiologist - Dr. Rajesh Kumar Jha.webp"
-                                    alt="Dr. Rajesh Kr. Jha" class="w-full h-full object-cover object-top">
+                                    alt="Dr. Rajesh Kr. Jha" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Rajesh Kr. Jha</h3>
@@ -401,11 +401,11 @@ Cardiac Care Hospital in Jharkhand
                         </div>
 
                         <!-- Doctor 2 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/-Dr. Awnindra-Kumar-Singh-Cardiologist.webp"
-                                    alt="Dr. Awnindra Kumar Singh" class="w-full h-full object-cover object-top">
+                                    alt="Dr. Awnindra Kumar Singh" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Awnindra Kumar Singh</h3>
@@ -429,11 +429,11 @@ Cardiac Care Hospital in Jharkhand
                         </div>
 
                         <!-- Doctor 3 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full"
+                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
-                            <div class="relative h-48 overflow-hidden">
+                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
                                 <img src="../assets/Doc-Side/Dr Anup Kumar Jha_.webp" alt="Dr. Anup Kumar Jha"
-                                    class="w-full h-full object-cover object-top">
+                                    class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Anup Kumar Jha</h3>
