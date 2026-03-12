@@ -1152,7 +1152,7 @@ Best Hospital in Jharkhand
         <div class="max-w-7xl mx-auto px-4">
             <div class="flex justify-between items-center mb-2">
                 <h2 class="text-2xl font-bold text-orange-500">Our Blogs</h2>
-                <a href="blogs.php"
+                <a href="https://rajhospitals.com/blog/"
                     class="text-[#0191C7] hover:text-orange-500 font-semibold text-sm flex items-center gap-2 transition-colors">
                     View All <i data-feather="arrow-right" class="w-4 h-4"></i>
                 </a>
