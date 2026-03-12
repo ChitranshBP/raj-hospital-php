@@ -222,7 +222,7 @@ function getSpecialtySlug($name, $category)
                     <a href="<?php echo $base_url; ?>news-media.php"
                         class="<?php echo $active_page == 'news-media.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">News
                         & Media</a>
-                    <a href="https://rajhospitals.com/blog/"
+                    <a href="#"
                         class="text-gray-700 hover:text-gray-900 transition-colors font-medium text-sm lg:text-base">Blogs</a>
                 </nav>
 
