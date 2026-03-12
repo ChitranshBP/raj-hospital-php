@@ -18,7 +18,7 @@ RewriteRule ^ %1 [R=302,L,NE]
 RedirectMatch 301 ^/search-doctor/(.*)$ 'https://rajhospitals.com/'
 
 
-Redirect 301 '/cardiologist-and-heart-specialist-ranchi.php' 'https://rajhospitals.com/specialties/cardiology'
+Redirect 301 'cardiologist-and-heart-specialist-ranchi.php' 'https://rajhospitals.com/specialties/cardiology'
 Redirect 301 '/critical-care.php' 'https://rajhospitals.com/specialties/critical-care'
 Redirect 301 '/dental-surgeon-ranchi.php' 'https://rajhospitals.com/specialties/dental'
 Redirect 301 '/dermatologist-ranchi.php' 'https://rajhospitals.com/specialties/dermatology'
@@ -601,53 +601,4 @@ Redirect 301 '/aids' 'https://rajhospitals.com/'
 Redirect 301 '/causes-of-insomnia' 'https://rajhospitals.com/'
 
 
-
-
-# END WordPress
-RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
-RewriteRule ^index\.php$ "https\:\/\/rajhospitals\.com\/" [R=301,L]
-
-RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
-RewriteRule ^index\.html$ "https\:\/\/rajhospitals\.com\/" [R=301,L]
-RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
-RewriteRule ^search\-doctor\/author\/bpadmin\/feed\/$ "https\:\/\/rajhospitals\.com\/" [R=301,L]
-RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
-RewriteRule ^search\-doctor\/doctor\/abhishek\-kr\-ramadhin\/feed\/$ "https\:\/\/rajhospitals\.com\/search\-doctor\/doctor\/abhishek\-kr\-ramadhin\/" [R=301,L]
-
-
 Redirect 301 '/uric-acid-symptoms-in-hindi.php' 'https://rajhospitals.com/blog/uric-acid-symptom-in-hindi/'
-
-Redirect 301 '/ent.php' '/ent-specialist.php'
-
-Redirect 301 '/dental-care.php' '/dental-surgeon-ranchi.php'
-
-Redirect 301 '/neurosciences.php' '/neurologist-ranchi.php'
-
-Redirect 301 '/oncology.php' '/oncologist-and-cancer-specialist-ranchi.php'
-
-Redirect 301 '/paediatrics.php' '/pediatrician-specialists-ranchi.php'
-
-Redirect 301 '/urology.php' '/urologist-ranchi.php'
-
-
-
-Redirect 301 '/dermatology.php' '/dermatologist-ranchi.php'
-
-Redirect 301 '/eye-care.php' '/eye-specialist-ranchi.php'
-
-Redirect 301 '/nephrology.php' '/nephrologist-ranchi.php'
-
-Redirect 301 '/obstetrics-and-gynaecology.php' '/maternity-and-gynecologist-ranchi.php'
-
-Redirect 301 '/pulmonology.php' '/pulmonology-specialists-ranchi.php'
-
-Redirect 301 '/gastroenterology.php' '/gastroenterology-ranchi.php'
-
-Redirect 301 '/general-surgery.php' '/general-and-laparoscopic-surgery-ranchi.php'
-
-
-
