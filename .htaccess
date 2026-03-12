@@ -618,7 +618,6 @@ Redirect 301 '/heart-pain' 'https://rajhospitals.com/'
 Redirect 301 '/महिलाओं-में-हृदय-रोग' 'https://rajhospitals.com/'
 Redirect 301 '/aids' 'https://rajhospitals.com/'
 Redirect 301 '/causes-of-insomnia' 'https://rajhospitals.com/'
-Redirect 301 '/doctors/' 'https://rajhospitals.com/find-a-doctor.php'
 Redirect 301 '/find-a-doctor/' 'https://rajhospitals.com/find-a-doctor.php'
 
 
@@ -704,8 +703,6 @@ Redirect 301 '/neurosciences.php' '/neurologist-ranchi.php'
 
 Redirect 301 '/oncology.php' '/oncologist-and-cancer-specialist-ranchi.php'
 
-Redirect 301 '/orthopedics-&-joint-replacement-surgery.php' '/orthopedic-and-joint-replacement-surgery-ranchi.php'
-
 Redirect 301 '/paediatrics.php' '/pediatrician-specialists-ranchi.php'
 
 Redirect 301 '/urology.php' '/urologist-ranchi.php'
@@ -738,7 +735,6 @@ Redirect 301 '/general-surgery.php' '/general-and-laparoscopic-surgery-ranchi.ph
 
 
 
-Redirect 301 '/aesthetic-&-reconstructive-surgery.php' 'https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery'
 Redirect 301 '/cardiologist-and-heart-specialist-ranchi.php' 'https://rajhospitals.com/specialties/cardiology'
 Redirect 301 '/critical-care.php' 'https://rajhospitals.com/specialties/critical-care'
 Redirect 301 '/dental-surgeon-ranchi.php' 'https://rajhospitals.com/specialties/dental'
@@ -751,7 +747,6 @@ Redirect 301 '/internal-medicine.php' 'https://rajhospitals.com/specialties/inte
 Redirect 301 '/nephrologist-ranchi.php' 'https://rajhospitals.com/specialties/nephrology'
 Redirect 301 '/neurologist-ranchi.php' 'https://rajhospitals.com/specialties/neurosciences'
 Redirect 301 '/maternity-and-gynecologist-ranchi.php' 'https://rajhospitals.com/specialties/obstetrics-and-gynaecology'
-Redirect 301 '/oral-&-maxillofacial-surgery.php' 'https://rajhospitals.com/specialties/oral-maxillofacial-surgery-ad'
 Redirect 301 '/emergency-medicine.php' 'https://rajhospitals.com/specialties/emergency'
 Redirect 301 '/oncologist-and-cancer-specialist-ranchi.php' 'https://rajhospitals.com/specialties/oncology-cancer-care'
 Redirect 301 '/orthopedic-and-joint-replacement-surgery-ranchi.php' 'https://rajhospitals.com/specialties/orthopaedics-and-joint-replacement'
