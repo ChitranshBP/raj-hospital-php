@@ -705,7 +705,7 @@ Redirect 301 '/paediatrics.php' '/pediatrician-specialists-ranchi.php'
 
 Redirect 301 '/urology.php' '/urologist-ranchi.php'
 
-Redirect 301 '/cardiac-sciences.php' '/cardiologist-and-heart-specialist-ranchi.php'
+
 
 Redirect 301 '/dermatology.php' '/dermatologist-ranchi.php'
 
