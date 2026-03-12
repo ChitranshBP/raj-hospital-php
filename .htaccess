@@ -603,23 +603,6 @@ Redirect 301 '/causes-of-insomnia' 'https://rajhospitals.com/'
 
 
 
-
-# END WordPress
-RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
-RewriteRule ^index\.php$ "https\:\/\/rajhospitals\.com\/" [R=301,L]
-
-RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
-RewriteRule ^index\.html$ "https\:\/\/rajhospitals\.com\/" [R=301,L]
-RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
-RewriteRule ^search\-doctor\/author\/bpadmin\/feed\/$ "https\:\/\/rajhospitals\.com\/" [R=301,L]
-RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
-RewriteRule ^search\-doctor\/doctor\/abhishek\-kr\-ramadhin\/feed\/$ "https\:\/\/rajhospitals\.com\/search\-doctor\/doctor\/abhishek\-kr\-ramadhin\/" [R=301,L]
-
-
 Redirect 301 'uric-acid-symptoms-in-hindi.php' 'https://rajhospitals.com/blog/uric-acid-symptom-in-hindi/'
 
 Redirect 301 'ent.php' '/ent-specialist.php'
