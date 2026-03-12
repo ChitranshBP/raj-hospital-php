@@ -1,40 +1,42 @@
-RewriteEngine on 
-RewriteCond %{REQUEST_FILENAME} !-d 
-RewriteCond %{REQUEST_FILENAME}\.php -f 
-RewriteRule ^(.*)$ $1.php
+Options -MultiViews
+RewriteEngine On
+RewriteBase /
 
-# To externally redirect /dir/foo.php to /dir/foo
-RewriteCond %{REQUEST_METHOD} !POST
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
-RewriteRule ^ %1 [R=302,L,NE]
+# 1. External Redirect: /filename.php -> /filename
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/+(.+)\.php[\s?] [NC]
+RewriteRule ^ /%1 [R=301,L]
 
+# 2. Internal Rewrite: /filename -> /filename.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^.]+)/?$ $1.php [L]
 
+# Specific Page Redirects
+Redirect 301 /about.php https://rajhospitals.com/about
+Redirect 301 /find-a-doctor.php https://rajhospitals.com/find-a-doctor
 
-Redirect 301 '/about.php' 'https://rajhospitals.com/about'
-Redirect 301 '/find-a-doctor.php' 'https://rajhospitals.com/doctors'
+Redirect 301 /aesthetic-&-reconstructive-surgery.php https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery
+Redirect 301 /cardiologist-and-heart-specialist-ranchi.php https://rajhospitals.com/specialties/cardiology
+Redirect 301 /critical-care.php https://rajhospitals.com/specialties/critical-care
+Redirect 301 /dental-surgeon-ranchi.php https://rajhospitals.com/specialties/dental
+Redirect 301 /dermatologist-ranchi.php https://rajhospitals.com/specialties/dermatology
+Redirect 301 /general-and-laparoscopic-surgery-ranchi.php https://rajhospitals.com/specialties/minimal-access-surgery
+Redirect 301 /gastroenterology-ranchi.php https://rajhospitals.com/specialties/gastroenterology
+Redirect 301 /eye-hospital-ranchi.php https://rajhospitals.com/specialties/eye-care
+Redirect 301 /ent-specialist.php https://rajhospitals.com/specialties/ent
+Redirect 301 /internal-medicine.php https://rajhospitals.com/specialties/internal-medicine
+Redirect 301 /nephrologist-ranchi.php https://rajhospitals.com/specialties/nephrology
+Redirect 301 /neurologist-ranchi.php https://rajhospitals.com/specialties/neurosciences
+Redirect 301 /maternity-and-gynecologist-ranchi.php https://rajhospitals.com/specialties/obstetrics-and-gynaecology
+Redirect 301 "/oral-&-maxillofacial-surgery.php" https://rajhospitals.com/specialties/oral-maxillofacial-surgery-ad
+Redirect 301 /emergency-medicine.php https://rajhospitals.com/specialties/emergency
+Redirect 301 /oncologist-and-cancer-specialist-ranchi.php https://rajhospitals.com/specialties/oncology-cancer-care
+Redirect 301 /orthopedic-and-joint-replacement-surgery-ranchi.php https://rajhospitals.com/specialties/orthopaedics-and-joint-replacement
+Redirect 301 /pediatrician-specialists-ranchi.php https://rajhospitals.com/specialties/pediatrics-and-neonatology
+Redirect 301 /pulmonology-specialists-ranchi.php https://rajhospitals.com/specialties/pulmonology
+Redirect 301 /physiotherapy-department.php https://rajhospitals.com/specialties/physiotherapy-and-rehabilitation
+Redirect 301 /urologist-ranchi.php https://rajhospitals.com/specialties/urology
 
-Redirect 301 '/aesthetic-&-reconstructive-surgery.php' 'https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery'
-Redirect 301 '/cardiologist-and-heart-specialist-ranchi.php' 'https://rajhospitals.com/specialties/cardiology'
-Redirect 301 '/critical-care.php' 'https://rajhospitals.com/specialties/critical-care'
-Redirect 301 '/dental-surgeon-ranchi.php' 'https://rajhospitals.com/specialties/dental'
-Redirect 301 '/dermatologist-ranchi.php' 'https://rajhospitals.com/specialties/dermatology'
-Redirect 301 '/general-and-laparoscopic-surgery-ranchi.php' 'https://rajhospitals.com/specialties/minimal-access-surgery'
-Redirect 301 '/gastroenterology-ranchi.php' 'https://rajhospitals.com/specialties/gastroenterology'
-Redirect 301 '/eye-hospital-ranchi.php' 'https://rajhospitals.com/specialties/eye-care'
-Redirect 301 '/ent-specialist.php' 'https://rajhospitals.com/specialties/ent'
-Redirect 301 '/internal-medicine.php' 'https://rajhospitals.com/specialties/internal-medicine'
-Redirect 301 '/nephrologist-ranchi.php' 'https://rajhospitals.com/specialties/nephrology'
-Redirect 301 '/neurologist-ranchi.php' 'https://rajhospitals.com/specialties/neurosciences'
-Redirect 301 '/maternity-and-gynecologist-ranchi.php' 'https://rajhospitals.com/specialties/obstetrics-and-gynaecology'
-Redirect 301 '/oral-&-maxillofacial-surgery.php' 'https://rajhospitals.com/specialties/oral-maxillofacial-surgery-ad'
-Redirect 301 '/emergency-medicine.php' 'https://rajhospitals.com/specialties/emergency'
-Redirect 301 '/oncologist-and-cancer-specialist-ranchi.php' 'https://rajhospitals.com/specialties/oncology-cancer-care'
-Redirect 301 '/orthopedic-and-joint-replacement-surgery-ranchi.php' 'https://rajhospitals.com/specialties/orthopaedics-and-joint-replacement'
-Redirect 301 '/pediatrician-specialists-ranchi.php' 'https://rajhospitals.com/specialties/pediatrics-and-neonatology'
-Redirect 301 '/pulmonology-specialists-ranchi.php' 'https://rajhospitals.com/specialties/pulmonology'
-Redirect 301 '/physiotherapy-department.php' 'https://rajhospitals.com/specialties/physiotherapy-and-rehabilitation'
-Redirect 301 '/urologist-ranchi.php' 'https://rajhospitals.com/specialties/urology'
-
-Redirect 301 '/testimonials.php' 'https://rajhospitals.com/testimonials'
-Redirect 301 '/career.php' 'https://rajhospitals.com/careers'
-Redirect 301 '/contact.php' 'https://rajhospitals.com/contact'
+Redirect 301 /testimonials.php https://rajhospitals.com/testimonials
+Redirect 301 /career.php https://rajhospitals.com/careers
+Redirect 301 /contact.php https://rajhospitals.com/contact
