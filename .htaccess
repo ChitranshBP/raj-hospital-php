@@ -1,0 +1,765 @@
+# BEGIN WordPress
+
+# RewriteEngine On
+# RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+# RewriteBase /
+# RewriteRule ^index\.php$ - [L]
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule . /index.php [L]
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.rajhospitals.com [NC]
+RewriteRule ^(.*)$ https://rajhospitals.com/$1 [L,R=301]
+
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php
+
+# To externally redirect /dir/foo.php to /dir/foo
+RewriteCond %{REQUEST_METHOD} !POST
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R=302,L,NE]
+
+
+
+RedirectMatch 301 ^/search-doctor/(.*)$ 'https://rajhospitals.com/'
+
+
+
+Redirect 301 '/blog/what-is-systolic-and-diastolic-blood-pressure-key-facts-you-need-to-know/dental-care.php' 'https://rajhospitals.com/'
+
+Redirect 301 '/blog/what-is-the-best-treatment-for-typhoid-fever/dental-care.php' 'https://rajhospitals.com/'
+Redirect 301 '/Heart-Attack' 'https://rajhospitals.com/'
+Redirect 301 '/blog/what-is-systolic-and-diastolic-blood-pressure-key-facts-you-need-to-know/dermatology.php' 'https://rajhospitals.com/'
+Redirect 301 '/mouth-cancer' 'https://rajhospitals.com/'
+Redirect 301 '/blog/त्वचा-कैंसर-के-उन्नत-चरण-म/dental-care.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/typhoid-bar-bar-kyu-hota-hai/dental-care.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/immunity-kaise-badhaye/pulmonology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/immunity-kaise-badhaye/dermatology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/what-is-systolic-and-diastolic-blood-pressure-key-facts-you-need-to-know/pulmonology.php' 'https://rajhospitals.com/'
+
+Redirect 301 '/blog/hiv-symptoms-in-men-in-hindi/dental-care.php' 'https://rajhospitals.com/'
+Redirect 301 'https://rajhospitals.com/हार्ट-अटैक' 'https://rajhospitals.com/'
+Redirect 301 '/blog/hiv-symptoms-in-men-in-hindi/dermatology.php' 'https://rajhospitals.com/'
+
+Redirect 301 '/blog/what-is-the-best-treatment-for-dengue-fever/dermatology.php' 'https://rajhospitals.com/'
+
+
+
+
+
+
+
+
+
+
+
+
+
+Redirect 301 '/blog/acidity-symptoms-in-hindi/pulmonology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/asthma-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/asthma-symptoms-in-hindi/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/best-hospital-for-paralysis-treatment-in-ranchi/dermatology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/best-ways-to-take-moringa-for-managing-diabetes/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/best-ways-to-take-moringa-for-managing-diabetes/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/blog/' 'https://rajhospitals.com/'
+Redirect 301 '/blog/blood-infection-kaise-hota-hai/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/bone-hydrogel-treatment/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/brain-tumor-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/breast-cancer-news/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/breast-cancer-news/pulmonology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/breast-cancer-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/career.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/cervical-cancer-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/chicken-pox-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/chikungunya-ke-lakshan-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/chikungunya-ke-lakshan-in-hindi/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/dermatology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/food-poisoning-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/food-poisoning-symptoms-in-hindi/pulmonology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/green-tea-benefits-in-hindi/dermatology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/green-tea-benefits-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/green-tea-benefits-in-hindi/pulmonology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/heart-attack-symptoms-in-hindi/dermatology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/heart-attack-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/heart-attack-symptoms-in-hindi/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/heart-cancer-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/labour-pain-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/labour-pain-symptoms-in-hindi/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/migraine-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/pcod-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/pcod-symptoms-in-hindi/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/pregnancy-symptoms-in-hindi/contact.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/pregnancy-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/pregnancy-symptoms-in-hindi/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/revolutionary-50-cent-dna-sensor/pulmonology.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/saans-lene-mein-dikkat-ho-to-kya-kare/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/sugar-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/throat-cancer-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/thyroid-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/thyroid-symptoms-in-hindi/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/typhoid-bar-bar-kyu-hota-hai/contact.php' 'https://rajhospitals.com/'
+Redirect 301 '/blog/typhoid-bar-bar-kyu-hota-hai/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/uric-acid-symptom-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/uric-acid-symptom-in-hindi/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/viral-fever-symptoms-in-hindi/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/what-are-foods-that-reduce-blood-sugar-levels/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/what-are-the-best-treatment-options-for-prostate-cancer-effective-ways/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/what-are-the-best-treatment-options-for-prostate-cancer-effective-ways/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/what-is-systolic-and-diastolic-blood-pressure-key-facts-you-need-to-know/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/what-is-systolic-and-diastolic-blood-pressure-key-facts-you-need-to-know/img/oncology-icon.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/what-is-the-best-treatment-for-typhoid-fever/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/which-hospital-is-best-for-heart-treatment-in-india/img/logo-mobile.png' 'https://rajhospitals.com/'
+Redirect 301 '/blog/wp-content/plugins/kk-star-ratings/src/core/public/svg/inactive.svg' 'https://rajhospitals.com/'
+Redirect 301 '/blog/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-20-at-11.28.03-150x150.jpeg' 'https://rajhospitals.com/'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Redirect 301 '/search-doctor/' 'https://rajhospitals.com/find-a-doctor.php'
+
+Redirect 301 '/blog/acidity-symptoms-in-hindi/dental-care.php' 'https://rajhospitals.com/'
+Redirect 301 '/typhoid-bar-bar-kyu-hota-hai.php' 'https://rajhospitals.com/blog/typhoid-bar-bar-kyu-hota-hai/'
+
+Redirect 301 '/blog.php?qb-b=टाइफाइड-बार-बार-क्यों-होता-है' 'https://rajhospitals.com/'
+
+Redirect 301 '/caesthetic-&-reconstructive-surgery.php' '/aesthetic-&-reconstructive-surgery.php' 
+Redirect 301 '/eye-specialist-ranchi.php' 'https://rajhospitals.com/eye-hospital-ranchi.php'
+Redirect 301 '/fallopian-tube-blockage-symptoms-in-hindi.php' 'https://rajhospitals.com/blog/fallopian-tube-blockage-symptoms-in-hindi/'
+
+
+#gambling url Redirection 
+
+
+
+
+ # Redirect 301 '/search-doctor/price-table/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/doctor/dr-rajesh-kumar-jha/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/doctor/dr-ravish-ranjan/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/06/online-spielautomaten-die-besten-echtgeld-slot/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/doctor/dr-vikash-sharma/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/doctor-category/urology/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/doctor-category/pulmonologist/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/doctor-category/psychiatry/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/doctor-category/neurology/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/doctor-category/general-surgery/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/doctor-category/gastroenterology/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/コニベット/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/コニベット/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/vulkanvegas-poland/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/vulkanvegas-poland/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/vulkan-vegas-germany/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/vulkan-vegas-germany/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/vulkan-vegas-de/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/vulkan-vegas-de/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/vulkan-vegas-de-login/page/2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/vulkan-vegas-de-login/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/vulkan-vegas-de-login/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/uz-most-bet/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/uz-most-bet/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/pinup-brazil/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/pinup-brazil/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/pin-up-peru/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/pin-up-peru/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/pagbet-brazil/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/pagbet-brazil/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/novosti-kriptovaljut/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-uzbekistan/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-uzbekistan/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-uz/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-uz/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-uz-kirish/page/2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-uz-kirish/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-uz-kirish/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-royxatga-olish/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-royxatga-olish/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-india/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-india/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-giris/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-giris/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-azerbaycan/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-azerbaycan/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-az-90/page/2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-az-90/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-az-90/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-apk/page/2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-apk/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/mostbet-apk/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/lucky8-france/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/india-mostbet/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/india-mostbet/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/beebet/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/beebet/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/b1bet-apostas/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/b1bet-apostas/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/azerbajany-mostbet/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/azerbajany-mostbet/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/az-most-bet/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/az-most-bet/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-russian/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-russian/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-qeydiyyat/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-qeydiyyat/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-kazahstan/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-giris/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-giris/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-brazil/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-brazil/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-azerbaydjan/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-azerbaydjan/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-azerbajan/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-apk/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1xbet-apk/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1winrussia/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1winrussia/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1win-turkiye/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1win-official-in-russia/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1win-official-in-russia/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1win-india/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1win-brazil/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1win-brasil/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1win-brasil/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1win-azerbajany/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1win-azerbajany/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/category/1w/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2024/06/26/mostbeti-kesfetmek-daha-once-hic-olmadigi-gibi-bahis-yapma-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2024/06/25/mostbet-turkiye-cevrimici-kumarhane-mostbet-casin-reyhan-online-sipari/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2024/06/24/sayfa-bulunamadi-resmi-web-sitesi-online-magaza/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2024/06/24/binions-wagering-hall-and-resort-wikipedia-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2024/06/12/pin-up-online-casino-aviator-pin-up-apostas-esportiva/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/12/06/pin-up-casino-brasil-ᐈ-jogue-online-e-ganhe-dinheiro-real-com-bonus-de-boas-vinda/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/12/06/1xbеt-аltеrnаtiv-link-2022-1xbеt-bukmеkеr-kоntоrunа-аltеrnаtiv-giri/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/25/sayfa-bulunamadi-resmi-internet-sitesi-online-magaz/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/25/sayfa-bulunamadi-resmi-internet-sitesi-online-magaz/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/22/how-to-try-out-roulette-regulations-bets-odds-as-well-as-payout/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/18/tuerkiye-resmi-net-sites/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/18/official-site-do-cassino-online-flag-up-login-electronic-registr/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/15/mostbet-bahistsisi-sobre-iyi-oranlar-empieza-tsevrimitsi-canl-bahis-deneyim/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/15/mostbet-bahiscisi-sobre-i̇yi-oranlar-empieza-cevrimici-canli-bahis-deneyim/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/11/mostbet-tr-ile-spor-bahisleri-ᐉ-turkiyedeki-mostbet-bahis-sirket/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/11/guencel-giris-adresi-hosgeldin-bonus-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/10/mostbet-bedava-reward-elmatelekom-yeni-nesil-fiber-interne/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/08/dont-know-what-to-put-on-to-an-online-casino-heres-3-succeeding-outfit/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/08/dont-know-what-to-put-on-to-an-online-casino-heres-3-succeeding-outfit-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/05/online-spor-bahisleri-sirketi-ve-casin/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/05/online-spor-bahisleri-sirketi-ve-casin/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/05/online-spor-bahisleri-sirketi-ve-casin-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/03/the-22-best-casino-sites-british-in-2024-updated-lis/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/06/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/31/best-online-casino-canada-2022-leading-canadian-casino-site/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/31/best-online-casino-canada-2022-leading-canadian-casino-site-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/30/popular-games-to-be-able-to-play-in-online-casinos/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/30/popular-games-to-be-able-to-play-in-online-casinos-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/30/popular-games-to-be-able-to-play-in-online-casinos-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/27/turkiye-mostbet-bahiscisinin-inceleme-3/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/27/turkiye-mostbet-bahiscisinin-inceleme-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/25/the-easiest-way-to-make-money/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/24/binions-wagering-hall-and-resort-wikipedia/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/17/is-french-open-up-on-tv-station-streaming-and-how-to-watch-roland-garros-online/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/11/mostbet-tuerkiye-tsevrimitsi-kumarhane-mostbet-casin-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/11/1xbet-app-1xbet-mobile-ᐉ-get-the-1xbet-apk-android-i-phone-ᐉ-1xsports-co/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/10/pin-up-apk-download-android-və-iphone/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/06/no-deposit-casino-bonus-retain-what-you-succeed/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/06/no-deposit-casino-bonus-retain-what-you-succeed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/05/05/india-mostbe-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/28/estou-no-lugar-certo-simply-no-momento-certo-diz-embaixadora-dos-eua-no-brasil/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/23/betting-company-mostbet-app-online-wagering-41/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/22/mostbet-tr-ile-spor-bahisleri-tuerkiyedeki-mostbet-bahis-sirket-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/18/registratsija-1win-vojdite-v-sistemu-1win-a-otkrojte-schet-i-etoj-globalnoj-bukmekerskoj-kontor/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/17/aviator-1xbet-لعبة-الطيارة-1xbet-استراتيجية-1xbet-aviator-للفو/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/14/mostbet-tr-ile-spor-bahisleri-ᐉ-turkiyedeki-mostbet-bahis-sirket-5/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/11/turkiyenin-en-i̇yi-online-bahis-sirket/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/11/tuerkiyenin-en-iyi-online-bahis-sirket/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/11/tuerkiyenin-en-iyi-online-bahis-sirket/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/09/mostbet-online-casinoya-giris-t-4/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/09/mostbet-online-casinoya-giris-t-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/02/turkiye-resmi-web-sites/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/04/01/pinup-cassino-online-no-brasil-slots-licenciado/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/31/online-casino-and-wagering-company-mostbet-poultry-play-and-win/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/31/online-casino-and-wagering-company-mostbet-poultry-play-and-win-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/29/sayfa-bulunamadi-resmi-web-sitesi-on-line-magaz/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/29/5-of-the-biggest-gambling-dens-in-the-people-you-can-perform-at-toda/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/27/1win-cote-divoire-paris-au-niveau-des-sports-et-les-casinos-le-terme-conseille-sur-internet-1win-c/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/26/mostbeti-kesfetmek-daha-once-hic-olmadigi-gibi-bahis-yapma/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/20/pin-up-tuerkiye-para-tsekme-ve-bonus-avantajlar-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/18/mostbet-turkey-resmi-sitesi-mostbet-casino-202/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/18/en-iyi-slot-oyunlar-uecretsiz-casino-oyunlar/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/16/how-to-earn-at-roulette-the-best-strategies-regarding-winning-a-different-roulette-games-gam/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/16/how-to-earn-at-roulette-the-best-strategies-regarding-winning-a-different-roulette-games-gam-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/13/reward-125-250-f/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/09/pin-up-casino-site-oficial-simply-no-brasil-ganhe-r1500-de-bonus-logi-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/08/best-online-casinos-regarding-cash-app-us-friendly-cash-app-casino/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/07/sayfa-bulunamadi-sah-web-sitesi-online-magaz/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/01/mostbet-online-casinoya-giris-t/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/03/01/mostbet-online-casinoya-giris-t-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/28/vyherni-automaty-onlin/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/26/roulette-payouts-as-well-as-bets-explained-different-roulette-games-odds-payout/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/24/mostbet-tr-resmi-web-sitesinde-giris-ve-kayt-olm-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/22/the-7-greatest-roulette-strategies-2024-expert-guid/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/18/mostbet-tr-ile-spor-bahisleri-ᐉ-turkiyedeki-mostbet-bahis-sirket-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/16/mostbet-giris-kahramanmaras-ticaret-ve-sanayi-odas/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/16/how-to-perform-slots-and-earn-big-learn-to-be-able-to-play-online-slot/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/16/how-to-perform-slots-and-earn-big-learn-to-be-able-to-play-online-slot-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/15/mostbet-giris-mostbet-tuerkiye-canl-bahis-sitesi-bilgiler/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/14/mostbet-bahistsisi-en-iyi-oranlar-ve-tsevrimitsi-canl-bahis-deneyim-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/14/mostbet-bahiscisi-en-i̇yi-oranlar-ve-cevrimici-canli-bahis-deneyim-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/12/what-is-the-best-time-of-calendar-month-to-play-slot-machine-machine-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/12/what-is-the-best-time-of-calendar-month-to-play-slot-machine-machine-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/12/mostbet-giris-mostbet-tuerkiye-canl-bahis-sitesi-bilgileri-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/07/tuerkiye-resmi-web-sites-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/05/tuerkiye-sah-web-sites/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/05/tuerkiye-sah-web-sites/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/02/online-casino-and-wagering-company-mostbet-turkey-play-and-win/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/02/online-casino-and-wagering-company-mostbet-turkey-play-and-win-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/02/01/skachat-prilozhenie-onlajn-kazino-pin-ap-pippardom-ofitsialnogo-sajt/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/31/the-way-to-play-russian-roulette-casino-history-plus-rule-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/29/mostbet-bahistsisi-en-iyi-oranlar-ve-tsevrimitsi-canl-bahis-deneyim-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/27/mostbet-azerbaijan-reklam-alanlari-olan-oturma-bank/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/27/mostbet-azerbaijan-reklam-alanlari-olan-oturma-bank-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/26/online-spor-bahisleri-sirketi-ve-casin-7/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/26/najlepszy-dostawca-zakadow-on-the-internet-na-sport-i-e-spor/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/26/najlepszy-dostawca-zakadow-on-the-internet-na-sport-i-e-spor-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/26/how-to-perform-online-slot-machines-7-tips-and-trick/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/26/how-to-perform-online-slot-machines-7-tips-and-trick/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/25/mostbet-casino-resmi-internet-site-casino-mostbet-pra-itsin-mostbet-tsalsma-aynasnda-tsevrimitsi-oynayn-kayt-olun-540-arsivler/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/24/bukmacher-mostbet-najlepsze-kursy-i-zakady-na-ywo-w-interneci/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/16/mostbet-tr-resmi-web-sitesinde-giris-ve-kayit-olm-reyhan-on-the-internet-sipari/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/14/mostbet-bahistsisi-en-iyi-oranlar-ve-tsevrimitsi-canl-bahis-deneyim/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/14/mostbet-bahiscisi-en-i̇yi-oranlar-ve-cevrimici-canli-bahis-deneyim/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/11/jogos-de-desenhar-e-pintar-simply-no-jogos-36/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/11/jogos-de-desenhar-e-pintar-simply-no-jogos-36-4/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/08/pin-ap-kazino-pin-up-ofitsialnomu-sajt-i-rabochee-zerkal/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/07/free-of-charge-no-deposit-online-casino-bonus-codes-06-202/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/07/free-of-charge-no-deposit-online-casino-bonus-codes-06-202-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/07/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/06/pin-ap-zerkalo-registratsija-a-pin-up-kazino-onlajn-ofitsialnyj-saj/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/06/mostbet-online-casino-turkiye-️-resmi-net-sitesi-bonus-2300-tl-250-f/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/06/mostbet-online-casino-turkiye-️-resmi-net-sitesi-bonus-2300-tl-250-f/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/06/mostbet-online-casino-tuerkiye-resmi-net-sitesi-bonus-2300-tl-250-f/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/04/mostbet-in-chicken-page/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/04/download-mostbet-app-play-and-win-big/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/page/33/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/page/26/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/30/mostbet-i̇ncelemesi-2024-spor-bahisleri-giris-oyunla/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/30/mostbet-i̇ncelemesi-2024-spor-bahisleri-giris-oyunla-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/29/turkiye-mostbet-bahiscisinin-inceleme-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/29/skachat-pin-up-v-android-ofitsialnoe-prilozhenie-pin-a/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/29/kazino-joycasino-spetsialno-sozdano-ddja-ljubitelej-azarta2c-krupnyh-vyigryshej-i-kachestvennyh-igr/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/27/a-melhor-escolha-de-jogos-online-do-mund/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/27/a-melhor-escolha-de-jogos-online-do-mund/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/23/tuerkiyedeki-resmi-web-sites/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/21/tgaviator-oyunu-kazandryor-nasl-oynanr-hilesi-taktikler-haar1tg/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/20/mostbet-kazino-i-bukmekerskaja-kontora-mostbet-kz-igrat-onlaj/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/20/mostbet-kazino-i-bukmekerskaja-kontora-mostbet-kz-igrat-onlaj/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/19/skachat-onlajn-kazino-na-realnye-dengi-na-android-2024-prilozhenija-na-telefon-s-vyvodom-besplatno-i-bez-registratsi/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/19/skachat-onlajn-kazino-na-realnye-dengi-na-android-2024-prilozhenija-na-telefon-s-vyvodom-besplatno-i-bez-registratsi/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/17/stavki-na-sport-onlajn-bukmekerskaja-kompanija-1xbet-1-x-bet-com-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/17/stavki-na-sport-onlajn-bukmekerskaja-kompanija-1xbet-1-x-bet-com-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/15/wskazowki-dotyczace-automatow-jak-zwiekszyc-szanse-na-wygrana-blog-o-e-sporcie-i-grach-komputerowyc/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/15/wskazowki-dotyczace-automatow-jak-zwiekszyc-szanse-na-wygrana-blog-o-e-sporcie-i-grach-komputerowyc-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/15/wskazowki-dotyczace-automatow-jak-zwiekszyc-szanse-na-wygrana-blog-o-e-sporcie-i-grach-komputerowyc-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/15/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/12/mostbet-bk-mostbet-bukmekerskaja-kontora-ofitsialnyj-sajt-registratsija-bonu-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/10/ofitsialnyj-sajt-mostbet-stavki-na-sport-mostbe-11/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/08/dman-mrclri-v-onlayn-kazino-500-bonus-qazann-giri-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/08/bukmekerskaja-kontora-winline-onlajn-stavki-na-sport/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/07/mostbet-mobil-dasturi-ilovasi-android-ios-apk-yuklash-yuklab-olish-skachat-mobilnyj-soft-tarjima-kinolar-2023-media-olam-tarjima-kinolar-2023-uzbek-tilida-kinolar-premyeralar-2019-2021-2022-2023-filmy/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/05/online-casino-game-titles-play-now-and-win-bi/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/04/glory-casinoda-oedeme-yoentemler/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/04/1xbet-mobile-apk-smartfon-proqramn-yuekly-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/03/pinup-tyyar-oyunu-pin-up-aviato/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/03/pin-up-casino-brasil-jogue-online-e-ganhe-dinheiro-real-com-bonus-de-boas-vinda/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/02/mostbet-prilozhenie-ustanovit-prilozhenie-mostbet-mostbet-dlja-ios-i-androi/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/01/pin-up-casino-rsmi-sayt-slot-manlar-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/01/pin-up-casino-rsmi-sayt-slot-manlar-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/01/mostbet-bonusy-na-pervyj-depozit-i-luchshie-stavki-na-spor/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/01/mostbet-bonusy-na-pervyj-depozit-i-luchshie-stavki-na-spor/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/01/explora-una-diversion-en-apasionado-casino-juega-sumado-a-gana-hoy/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/30/vulkan-vegas-online-casino-jetzt-registrieren-und-bonus-sicher/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/30/vulkan-vegas-online-casino-jetzt-registrieren-und-bonus-sicher-5/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/30/vulkan-vegas-online-casino-jetzt-registrieren-und-bonus-sicher-5/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/30/vulkan-vegas-online-casino-jetzt-registrieren-und-bonus-sicher-4/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/30/vulkan-vegas-online-casino-jetzt-registrieren-und-bonus-sicher-4/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/30/vulkan-vegas-online-casino-jetzt-registrieren-und-bonus-sicher-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/30/vulkan-vegas-online-casino-jetzt-registrieren-und-bonus-sicher-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/30/dman-mrclri-v-onlayn-kazino-500-bonus-qazann-giri-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/30/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/28/vulkan-vegas-free-spins-150-freispiele-im-dezember-202/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/28/mostbet-azrbaycanda-n-yax-onlayn-kazinolardan-bir-5/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/24/mostbet-tuerkiyede-guevenilir-spor-bahisleri-giris-online-casino-guencel-adre/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/21/prilozhenie-mostbet-uz-skachat-na-android-apk-ajfon-ios-teyes-uzbekist/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/21/igrovye-avtomaty-onlajn-igrat-besplatno-i-bez-registratsi/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/17/sussexs-bid-with-regard-to-opening-championship-succeed-cut-short-right-after-floodlights-were-considered-very-costly/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/13/vulkan-vegas-pl-kod-promocyjny-2023-bonus-cod-do-vulcan-vegas-on-line-casino-bez-depozyt/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/13/pin-ap-kazino-ofitsialnomu-sajt-pin-ap-igrat-onlaj/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/12/mostbet-india-in-login-to-official-website-mostbet-onlin/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/11/stavki-na-sport-onlajn-bukmekerskaja-kompanija-1xbet-my1xbetco/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/11/1xbet-cartao-usar-cartaes-1xbet-mastercard-e-vis/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/09/skachat-prilozhenie-mostbet-dlja-android-apk-i-ios-v-1-klik-20/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/09/skachat-prilozhenie-mostbet-dlja-android-apk-i-ios-v-1-klik-20/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/09/aviator-oyna-v-qazan-rsmi-sayti-aviator-azerbayca/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/09/arr-download-etoraz-az-toraz-android-v-ios-mobil-versiyas/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/07/pin-up-casino-online-az-azerbaijan-pin-ap-kazino-pinup-rsmi-sayt-pin-ap-bet-30/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/06/skachat-1xbet-kz-na-android-mobilnaja-versija-kazahstan-k/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/06/skachat-1xbet-kz-na-android-mobilnaja-versija-kazahstan-k/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/06/mostbet-prilozhenie-ustanovit-prilozhenie-mostbet-mostbet-dlja-ios-i-androi-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/06/mostbet-azerbaycan-onlayn-casino-oynayn-mostbet-az-sayt/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/06/mostbet-azerbaycan-onlayn-casino-oynayn-mostbet-az-sayt/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/04/pin-up-bet-rsmi-bukmeyker-irkt/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/01/pinup-codigo-promocional-2023-para-apostas-e-cassino-bonus-r-1-50/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/01/1win-ofitsialnyj-saj/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/01/1win-ofitsialnyj-saj/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/30/mostbet-uzbekistan-ofitsialnyj-sajt-sportivnyh-stavok-i-onlajn-kazino-uz-202-3/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/30/mostbet-uzbekistan-ofitsialnyj-sajt-sportivnyh-stavok-i-onlajn-kazino-uz-202-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/29/schnelle-online-registrierung-bei-zetcasin/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/29/prilozhenija-mostbet-dlja-android-ios-i-window/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/29/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/28/skachat-mostbet-na-android-ofitsialnyj-saj/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/25/uscherb-ot-nezakonnoj-vyemki-peska-i-gravija-iz-reki-chirchik-sostavil-minimum-347-mlrd-sumov-novosti-uzbekistana-gazeta-u/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/24/42-pin-up-hairstyles-that-scream-retro-chic-tutorials-include/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/23/1win-kazino-onlajn-i-bk-ofitsialnyj-sajt-1vin/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/18/1xbet-giris-yeni-adresi-2023-1xbahis-guencel-adres-1x-bet-mobil-casin/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/17/1xbet-azerbaycan-idman-uezr-onlayn-mrclr-bukmeker-sirkti-1xbet-giris-aze-1xbet-co/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/17/1xbet-azerbaycan-idman-uezr-onlayn-mrclr-bukmeker-sirkti-1xbet-giris-aze-1xbet-co/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/15/mostbet-az91-azrbaycanda-bukmeker-v-kazino-bonus-550250f-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/15/1xbet-casa-sobre-apuestas-en-colombia-resena-y-bonos-2024/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/13/mostbet-az90-bukmeker-v-kazino-azrbaycanda-bonus-550250f-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/13/azmostbet-aze45-xtti-v-live-at-azerbaijan-bukmekerrulinija-mostbet-aze45-i-live-v-bukmekerskoj-kontore-azerbajdzhan-fairtrade-network-of-asia-pacific-produce/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/12/skachat-mostbet-uz-na-android-apk-i-ios-obzor-bukmeker/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/12/skachat-mostbet-uz-na-android-apk-i-ios-obzor-bukmeker/' 'https://rajhospitals.com/'
+
+
+Redirect 301 '/search-doctor/2022/10/12/skachat-mostbet-uz-na-android-apk-i-ios-obzor-bukmeker-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/12/1xbet-giris-guezgue-1-xbet-azrbaycanda-rsmi-sayt-breaking-news-in-hindi-latest-hindi-new/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/12/1xbet-giris-guezgue-1-xbet-azrbaycanda-rsmi-sayt-breaking-news-in-hindi-latest-hindi-new/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/11/zgarnij-najlepsze-bonusy-bez-depozytu-w-polsce-w-202/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/11/bonus-1xbet-2023-como-funciona-e-como-ganhar-ate-r120/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/09/mostbet-tr-resmi-web-sitesinde-giris-ve-kayt-olm/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/09/mostbet-azrbaycanda-n-yax-onlayn-kazinolardan-bir-7/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/09/mostbet-azrbaycanda-n-yax-onlayn-kazinolardan-bir-7/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/04/added-bonus-125-two-hundred-and-fifty-f/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/03/ofitsialnyj-sajt-registratsija-i-vhod-v-lichnyj-kabinet-1hbe/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/02/mostbet-india-review-bonus-up-to-inr25000-nov-202/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/30/po-standartu-uefa-esche-tri-novyh-futbolnyh-polja-v-regionah-postroila-kff-29-nojabrja-2023-160/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/29/mostbet-india-official-online-website-register-logi/ ' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/29/kasyna-bez-depozytu-dla-polakow-nowe-kasyna-z-bonusem-bez-depozyt/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/27/mostbet-promo-code-2023-mostcode-up-to-30000-inr-bonus-tech-guest-posts-tech-guest-posts-it-training-technical-certification-courses-onlin/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/25/prilozhenija-mostbet-dlja-android-ios-i-window-5/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/25/prilozhenija-mostbet-dlja-android-ios-i-window-4/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/25/prilozhenija-mostbet-dlja-android-ios-i-window-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/24/rsmi-pin-up-casino-azerbaycan-bukmeker-kontor/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/24/rsmi-pin-up-casino-azerbaycan-bukmeker-kontor/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/22/mostbet-uzbekistan-ofitsialnyj-sajt-sportivnyh-stavok-i-onlajn-kazino-uz-202-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/22/dman-mrclri-v-onlayn-kazino-500-bonus-qazann-giri/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/22/1xbet-mobile-apk-smartfon-proqramn-yueklyin-my-blo/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/22/1xbet-mobile-apk-smartfon-proqramn-yueklyin-my-blo/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/21/vulkan-las-vegas-kasyno-recenzja-fifty-free-spinow-bez-depozytu/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/21/azrbaycan-tuerkiy-is-adamlar-birliy/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/14/mostbet-mobil-ttbiq-azrbaycandan-olan-oyuntsular-uetsuen-icmal-202/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/13/registro-en-el-casino-pin-up-con-licencia-de-per/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/13/pin-up-qeydiyyat-oyun-hesabn-nec-qeydiyyatdan-ketsirmk-ola/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/13/pin-up-qeydiyyat-oyun-hesabn-nec-qeydiyyatdan-ketsirmk-ola/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/13/pin-up-casino-online-slots-revie/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/13/1xbet-azerbaycan-yuekle-mobil-az-indir-android-i/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/13/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/12/1xbet-alternativ-link-2022-1xbet-bukmeker-kontoruna-alternativ-giri/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/10/stakes-casino-bewertung-20-freispiele-ohne-einzahlun/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/10/stakes-casino-bewertung-20-freispiele-ohne-einzahlun/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/08/mostbet-az-most-bet-casino-qeydiyyat-yukle-android-app-dr-birkan-taha-oezkan-uzman-dis-hekimi-ve-tsene-cerrah/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/08/mostbet-az-most-bet-casino-qeydiyyat-yukle-android-app-dr-birkan-taha-oezkan-uzman-dis-hekimi-ve-tsene-cerrah/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/02/pin-up-casino-online-az-azerbaijan-pin-ap-kazino-pinup-rsmi-sayt-pin-ap-bet-30-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/01/mostbet-az-cmal-2023-azrbaycanda-mrc-v-onlayn-kazin/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/31/1xbet-az-bukmeker-sirkti-rsmi-sayt-1xbet-azrbaycan-xbet-azerbaijan-1-x-bet-dr-birkan-taha-oezkan-uzman-dis-hekimi-ve-tsene-cerrah-gorakhpur-web-develope-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/29/azerbaycanda-etibarl-bukmeker-kontor/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/29/azerbaycanda-etibarl-bukmeker-kontor/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/27/1xbet-azerbaycan-idman-uezr-onlayn-mrclr-bukmeker-sirkti-1xbet-giris-aze-1xbetco-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/26/odkryj-emocje-zwizane-z-grami-onlin/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/26/odkryj-emocje-zwizane-z-grami-onlin/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/26/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/25/mostbet-azrbaycan-ttbiqinin-icmal-android-apk-iphone-yueklm-a/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/24/rsmi-1xbet-mobi-versiya-girisi-1xbet-mobile-versiyas-azrbaycan-uets/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/24/rsmi-1xbet-mobi-versiya-girisi-1xbet-mobile-versiyas-azrbaycan-uets-4/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/24/pin-up-casino-rsmi-sayt-slot-manlar/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/23/aviator-oyunu-pin-up-casino-415-azerbayca/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/21/mostbet-uz-uzbekistan-bukmeker-kazino-prilozheni-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/21/1xbet-az-bukmeker-irkti-rsmi-sayt-1xbet-azrbaycan-xbet-azerbaijan-1-x-be/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/20/skachat-mostbet-na-android-ofitsialnyj-saj-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/20/1xbet-azrbaycan-rsmi-saytn-nzrdn-ketsirilms/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/20/1xbet-azrbaycan-rsmi-saytn-nzrdn-ketsirilms/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/18/mostbet-bonusy-na-pervyj-depozit-i-luchshie-stavki-na-spor-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/18/1xbet-mobile-vebsayt-v-1x-bet-mobil-uygulama-indir-202/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/17/ofitsialnyj-sajt-mostbet-stavki-na-sport-mostbe-8/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/17/httpskingdom-concommhttpskingdom-concomohttpskingdom-concomshttpskingdom-concomthttpskingdom-concombhttpskingdom-concomehttpskingdom-concomthttpskingdom-concom-httpskingdom-concomuhttpskingdom-concomz/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/17/1xbet-azerbaycan-mrc-sayti-gr-1xbet-azerbaycan-mobil-uygulama-yukl-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/16/ofitsialnyj-sajt-mostbet-stavki-na-sport-mostbe-5/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/16/ofitsialnyj-sajt-mostbet-stavki-na-sport-mostbe-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/15/mostbet-uzbekistan-ofitsialnyj-sajt-sportivnyh-stavok-i-onlajn-kazino-uz-202/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/13/pin-up-apostas-esportivas-e-cassino-online-login-no-site-oficial-no-brasi/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/13/pin-up-apostas-esportivas-e-cassino-online-login-no-site-oficial-no-brasi/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/11/vulkan-vegas-promo-code-dezember-2023-125-freispiele-und-bis-zu-1000-bonu/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/07/online-spielothek-online-spielhall/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/06/vulkan-vegas-kasyno-vulkanvegas-vulcanvega/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/06/1win-ofitsialnyj-sajt-razvlechenija-na-dengi-1vin-ot-bukmekerskoj-kontor/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/06/1win-ofitsialnyj-sajt-razvlechenija-na-dengi-1vin-ot-bukmekerskoj-kontor/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/06/1win-ofitsialnyj-sajt-razvlechenija-na-dengi-1vin-ot-bukmekerskoj-kontor-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/06/1win-ofitsialnyj-sajt-razvlechenija-na-dengi-1vin-ot-bukmekerskoj-kontor-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/06/1win-ofitsialnyj-sajt-razvlechenija-na-dengi-1vin-ot-bukmekerskoj-kontor-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/02/1xbet-mobile-yukle-1xbet-apk-app-android-iphone-il-idman-mrclri-uetsuen-mobil-proqramlar-1xbet-azrbaycan-aze-1xbetco-4/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/02/1xbet-mobile-yukle-1xbet-apk-app-android-iphone-il-idman-mrclri-uetsuen-mobil-proqramlar-1xbet-azrbaycan-aze-1xbetco-4/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/01/vulkan-vegas-recenzja-2023-6000-z-i-150-darmowych-spino/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/01/ofitsialnyj-sajt-mostbet-stavki-na-sport-mostbe-10/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/01/mostbet-az90-bukmeker-v-kazino-azrbaycanda-bonus-550250f/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/08/01/mostbet-az90-bukmeker-v-kazino-azrbaycanda-bonus-550250f/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/31/1xbet-azerbaycan-yuekle-mobil-az-indir-android-i-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/31/1xbet-azerbaycan-yuekle-mobil-az-indir-android-i-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/29/ofitsialnyj-sajt-mostbet-stavki-na-sport-mostbe-6/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/28/stakes-casino-erhalten-sie-50-freispiel/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/28/mostbet-az-90-azrbaycanda-bukmeker-v-casino-bonus-550250f/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/28/mostbet-az-90-azrbaycanda-bukmeker-v-casino-bonus-550250f/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/28/mostbet-apk-skachat-na-android-202-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/28/mostbet-apk-skachat-na-android-202-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/28/mostbet-314-casino-azrbaycanda-bukmeker-kontor/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/28/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/27/mostbet-ofitsialnyj-sajt-sajt-kontory-mostbet-stavki-na-sport-onlajn-mostbet-bukmekerskaja-kompanija-i-kazino-ofitsialnyj-saj/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/27/mostbet-luchshee-kazino-v-uzbekistan/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/27/mostbet-luchshee-kazino-v-uzbekistan-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/26/mostbet-uz-uzbekistan-bukmeker-kazino-prilozheni/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/26/mostbet-uz-uzbekistan-bukmeker-kazino-prilozheni/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/24/mostbet-prilozhenie-ustanovit-prilozhenie-mostbet-mostbet-dlja-ios-i-androi-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/24/mostbet-prilozhenie-ustanovit-prilozhenie-mostbet-mostbet-dlja-ios-i-androi-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/23/mostbet-az-90-kazino-azerbaycan-n-yax-bukmeyker-rsmi-say' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/23/1xbet-azrbaycan-rsmi-saytn-nzrdn-ketsirilms-3' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/23/1hbet-kz-bukmekerskaja-kontora-1xbet-v-kazahstan/feed' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/23/1hbet-kz-bukmekerskaja-kontora-1xbet-v-kazahstan' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/22/1xbet-mobile-yukle-1xbet-apk-software-android-iphone-il-idman-mrclri-uetsuen-mobil-proqramlar-1xbet-azrbaycan-aze-1xbet-co' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/22/1xbet-azerbaycan-mrc-sayti-gr-1xbet-azerbaycan-mobil-uygulama-yukl' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/19/pin-up-online-casino-azerbaycan-onlayn-kazino-pinup-rsmi-sayt-2' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/17/prilozhenija-mostbet-dlja-android-ios-i-window-6' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/17/mostbet-casino-da-oynamaq-uetsuen-cashback-cashback-i-indi-ld-edi' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/17/genkonsulstvo-rf-prokommentirovalo-dannye-ob-ubijstve-dvuh-rossijanok-v-bodrume-rossijskaja-gazet' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/15/15-bonus-ohne-einzahlung-fuer-book-of-gold-plus-720-freispiel' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/15' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/14/vulkan-vegas-anmeldung-gutscheincode-ohne-einzahlung-fuer-deutsche-spiele' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/12/rsmi-veb-sayt-baglayn-suertli-oednislr-guendlik-bonuslar-buetuen-bunlar-sizi-pin-up-casinoda-goezlyi-2' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/12/mostbet-official-site-in-india-25000-for-free-bets-login-registratio' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/12/1xbet-tuerkiye-bahistsinin-resmi-web-sitesi-1xbet-1xbetbookmakers-co' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/07/prilozhenie-mostbet-uz-skachat-na-android-apk-ajfon-io-2' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/07/b1bet-apostas-esportivas-e-cassino-on-line-no-brasil-entra' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/06/online-spielautomaten-die-besten-echtgeld-slot/feed' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/06/online-spielautomaten-die-besten-echtgeld-slot' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/03/site-oficial-no-brasil-bonus-de-ate-r3000' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/03/50-freispiele-ohne-einzahlung-im-vulkan-vegas-casino-300' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/02/skachat-mostbet-na-android-ofitsialnyj-saj-2' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/02/pin-up-casino-online-az-azerbaijan-pin-ap-kazino-pinup-rsmi-sayt-pin-ap-bet-30-2' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/29/vulkan-vegas-promotion-code-dezember-2023-125-freispiele-und-bis-zu-one-thousand-bonu' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/29/mostbet-azrbaycanda-n-yax-onlayn-kazinolardan-bir-2' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/29/1xbet-promosyon-kodu-azerbaycan-v-ilk-depozitiniz-1xbet-promosyon-kodlar-pannaga-nextech-private-limite' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/26/mostbet-azrbaycanda-n-yax-onlayn-kazinolardan-bir' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/25/pin-up-casino-az-1000-azn-bonus-pinup-kazino-mind-body-soul-berlin-c/feed' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/25/pin-up-casino-az-1000-azn-bonus-pinup-kazino-mind-body-soul-berlin-c' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/24/glory-casino-review-honest-review-by-casino-gur' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/23/1xbet-mobile-yukle-1xbet-apk-app-android-iphone-il-idman-mrclri-uetsuen-mobil-proqramlar-1xbet-azrbaycan-aze-1xbetco' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/22/servidores-da-antt-lantsam-livro-direto-infraestrutura-e-regulatsao-na-conferencia-nacional-da-advocacia-agencia-nacional-de-transportes-terrestres-ant/feed' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/22/servidores-da-antt-lantsam-livro-direito-infraestrutura-e-regulatsao-na-conferencia-nacional-da-advocacia-agencia-nacional-de-transportes-terrestres-ant/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/22/codigo-promocional-1xbet-use-o-cupom-vipxbr-e-ganhe-r1-20/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/20/vulkan-vegas-casino/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/19/mostbet-official-site-in-india-25000-for-free-bets-login-registratio-2/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/19/mostbet-official-site-in-india-25000-for-free-bets-login-registratio-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/19/mostbet-az90-bukmeker-v-kazino-azrbaycanda-bonus-550250f-3/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/19/mostbet-az90-bukmeker-v-kazino-azrbaycanda-bonus-550250f-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/19/mostbet-az-90-kazino-azerbaycan-n-yax-bukmeyker-rsmi-sayt-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/19/1xbet-ofitsialnyj-sajt-stavki-na-sport-v-bukmekerskoj-kontore-1hbe/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/17/pin-up-306-casino-giri-qeydiyyat-bonuslar-yukl/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/17/pin-up-306-casino-giri-qeydiyyat-bonuslar-yukl/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/16/pin-up-casino-online-slots-revie-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/16/pin-ap-ofitsialnyj-sajt-pin-up-kazino-zerkalo-raboche/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/15/rsmi-veb-sayt-baglayn-suertli-oednislr-guendlik-bonuslar-buetuen-bunlar-sizi-pin-up-casinoda-goezlyi/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/15/mostbet-proqram-android-v-ios-uetsuen-bonus-125/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/14/httpskingdom-concomshttpskingdom-concomkhttpskingdom-concomahttpskingdom-concomchhttpskingdom-concomahttpskingdom-concomthttpskingdom-concomhttpskingdom-concom-httpskingdom-concomphttpskingdom-concomr/feed/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/14/httpskingdom-concomshttpskingdom-concomkhttpskingdom-concomahttpskingdom-concomchhttpskingdom-concomahttpskingdom-concomthttpskingdom-concomhttpskingdom-concom-httpskingdom-concomphttpskingdom-concomr/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/12/azrbaycanda-mrc-oyunlar-irkti-bax-v-ryl/feed/' 'https://rajhospitals.com'
+Redirect 301 '/search-doctor/2022/07/22/1xbet-azerbaycan-mrc-sayti-gr-1xbet-azerbaycan-mobil-uygulama-yukl/' 'https://rajhospitals.com'
+Redirect 301 '/feed/' 'https://rajhospitals.com'
+Redirect 301 '/search-doctor/2022/09/29/mostbet-india-official-online-website-register-logi/' 'https://rajhospitals.com'
+Redirect 301 '/search-doctor/2023/05/13/official-website-for-sports-betting-with-bdt-25000-bonus/' 'https://rajhospitals.com/'
+
+
+Redirect 301 '/search-doctor/2023/04/12/roulette-strategies-how-you-can-win-in-the-long-ru-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/12/03/pinup-tyyar-oyunu-pin-up-aviato/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2023/01/10/fortuna-poradnik-yak-grac-i-jak-stawiac-pieniadz-2/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/09/21/azrbaycan-tuerkiy-is-adamlar-birliy/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/27/giris-v-qeydiyyat-bonuslar-bukmeker-veb-saytnda-mosbe-3/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/07/06/1xbet-azerbaycan-mrc-sayti-giris-1xbet-azerbaycan-mobil-uygulama-yukle-dr-birkan-taha-oezkan-uzman-dis-hekimi-ve-tsene-cerrah/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/11/28/vulkan-vegas-free-spins-150-freispiele-im-dezember-202/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/06/15/rsmi-veb-sayt-baglayn-suertli-oednislr-guendlik-bonuslar-buetuen-bunlar-sizi-pin-up-casinoda-goezlyi/' 'https://rajhospitals.com/'
+Redirect 301 '/search-doctor/2022/10/' 'https://rajhospitals.com/'
+Redirect 301 '/Thyroid-Problems' 'https://rajhospitals.com/'
+Redirect 301 '/UTI-की-समस्या' 'https://rajhospitals.com/'
+Redirect 301 '/सर्वाइकल-पेन' 'https://rajhospitals.com/'
+Redirect 301 '/UTI' 'https://rajhospitals.com/'
+Redirect 301 '/food-poisoning-in-pregnancy' 'https://rajhospitals.com/'
+Redirect 301 '/lung-cancer' 'https://rajhospitals.com/'
+Redirect 301 '/down-syndrome' 'https://rajhospitals.com/'
+Redirect 301 '/planning-a-healthy-' 'https://rajhospitals.com/'
+Redirect 301 '/caesthetic-&-reconstructive-surgery.php' 'https://rajhospitals.com/'
+Redirect 301 '/heart-pain' 'https://rajhospitals.com/'
+Redirect 301 '/महिलाओं-में-हृदय-रोग' 'https://rajhospitals.com/'
+Redirect 301 '/aids' 'https://rajhospitals.com/'
+Redirect 301 '/causes-of-insomnia' 'https://rajhospitals.com/'
+Redirect 301 '/doctors/' 'https://rajhospitals.com/find-a-doctor.php'
+Redirect 301 '/find-a-doctor/' 'https://rajhospitals.com/find-a-doctor.php'
+
+
+
+
+#end redirection 
+
+# END WordPress
+RewriteOptions inherit
+ErrorDocument 404 /404.php
+
+# END WordPress
+RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
+RewriteRule ^index\.php$ "https\:\/\/rajhospitals\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
+RewriteRule ^index\.html$ "https\:\/\/rajhospitals\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
+RewriteRule ^search\-doctor\/author\/bpadmin\/feed\/$ "https\:\/\/rajhospitals\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^rajhospitals\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.rajhospitals\.com$
+RewriteRule ^search\-doctor\/doctor\/abhishek\-kr\-ramadhin\/feed\/$ "https\:\/\/rajhospitals\.com\/search\-doctor\/doctor\/abhishek\-kr\-ramadhin\/" [R=301,L]
+
+<IfModule mod_deflate.c>
+         AddOutputFilterByType DEFLATE application/javascript
+         AddOutputFilterByType DEFLATE application/rss+xml
+         AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+         AddOutputFilterByType DEFLATE application/x-font
+         AddOutputFilterByType DEFLATE application/x-font-opentype
+         AddOutputFilterByType DEFLATE application/x-font-otf
+         AddOutputFilterByType DEFLATE application/x-font-truetype
+         AddOutputFilterByType DEFLATE application/x-font-ttf
+         AddOutputFilterByType DEFLATE application/x-javascript
+         AddOutputFilterByType DEFLATE application/xhtml+xml
+         AddOutputFilterByType DEFLATE application/xml
+         AddOutputFilterByType DEFLATE font/opentype
+         AddOutputFilterByType DEFLATE font/otf
+         AddOutputFilterByType DEFLATE font/ttf
+         AddOutputFilterByType DEFLATE image/svg+xml
+         AddOutputFilterByType DEFLATE image/x-icon
+         AddOutputFilterByType DEFLATE text/css
+         AddOutputFilterByType DEFLATE text/html
+         AddOutputFilterByType DEFLATE text/javascript
+         AddOutputFilterByType DEFLATE text/plain
+          AddOutputFilterByType DEFLATE text/xml
+</IfModule>
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType text/css "access 1 month"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType application/javascript "access 1 month"
+ExpiresByType application/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresDefault "access 2 days"
+</IfModule>
+## EXPIRES CACHING
+
+
+# Redirects
+
+
+
+Redirect 301 '/blog.php?qb-b=%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A4%B2%20%E0%A4%AA%E0%A5%87%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3,%20%E0%A4%89%E0%A4%AA%E0%A4%9A%E0%A4%BE%E0%A4%B0,%20%E0%A4%A6%E0%A4%B5%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%9C '/ent-specialist.php'   
+
+
+
+Redirect 301 '/uric-acid-symptoms-in-hindi.php' 'https://rajhospitals.com/blog/uric-acid-symptom-in-hindi/'
+
+Redirect 301 '/ent.php' '/ent-specialist.php'
+
+Redirect 301 '/dental-care.php' '/dental-surgeon-ranchi.php'
+
+Redirect 301 '/neurosciences.php' '/neurologist-ranchi.php'
+
+Redirect 301 '/oncology.php' '/oncologist-and-cancer-specialist-ranchi.php'
+
+Redirect 301 '/orthopedics-&-joint-replacement-surgery.php' '/orthopedic-and-joint-replacement-surgery-ranchi.php'
+
+Redirect 301 '/paediatrics.php' '/pediatrician-specialists-ranchi.php'
+
+Redirect 301 '/urology.php' '/urologist-ranchi.php'
+
+Redirect 301 '/cardiac-sciences.php' '/cardiologist-and-heart-specialist-ranchi.php'
+
+Redirect 301 '/dermatology.php' '/dermatologist-ranchi.php'
+
+Redirect 301 '/eye-care.php' '/eye-specialist-ranchi.php'
+
+Redirect 301 '/nephrology.php' '/nephrologist-ranchi.php'
+
+Redirect 301 '/obstetrics-and-gynaecology.php' '/maternity-and-gynecologist-ranchi.php'
+
+Redirect 301 '/pulmonology.php' '/pulmonology-specialists-ranchi.php'
+
+Redirect 301 '/gastroenterology.php' '/gastroenterology-ranchi.php'
+
+Redirect 301 '/general-surgery.php' '/general-and-laparoscopic-surgery-ranchi.php'
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php56” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php56___lsphp .php .php5 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
+
+
+
+Redirect 301 '/about.php' 'https://rajhospitals.com/about'
+Redirect 301 '/find-a-doctor.php' 'https://rajhospitals.com/doctors'
+
+Redirect 301 '/aesthetic-&-reconstructive-surgery.php' 'https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery'
+Redirect 301 '/cardiologist-and-heart-specialist-ranchi.php' 'https://rajhospitals.com/specialties/cardiology'
+Redirect 301 '/critical-care.php' 'https://rajhospitals.com/specialties/critical-care'
+Redirect 301 '/dental-surgeon-ranchi.php' 'https://rajhospitals.com/specialties/dental'
+Redirect 301 '/dermatologist-ranchi.php' 'https://rajhospitals.com/specialties/dermatology'
+Redirect 301 '/general-and-laparoscopic-surgery-ranchi.php' 'https://rajhospitals.com/specialties/minimal-access-surgery'
+Redirect 301 '/gastroenterology-ranchi.php' 'https://rajhospitals.com/specialties/gastroenterology'
+Redirect 301 '/eye-hospital-ranchi.php' 'https://rajhospitals.com/specialties/eye-care'
+Redirect 301 '/ent-specialist.php' 'https://rajhospitals.com/specialties/ent'
+Redirect 301 '/internal-medicine.php' 'https://rajhospitals.com/specialties/internal-medicine'
+Redirect 301 '/nephrologist-ranchi.php' 'https://rajhospitals.com/specialties/nephrology'
+Redirect 301 '/neurologist-ranchi.php' 'https://rajhospitals.com/specialties/neurosciences'
+Redirect 301 '/maternity-and-gynecologist-ranchi.php' 'https://rajhospitals.com/specialties/obstetrics-and-gynaecology'
+Redirect 301 '/oral-&-maxillofacial-surgery.php' 'https://rajhospitals.com/specialties/oral-maxillofacial-surgery-ad'
+Redirect 301 '/emergency-medicine.php' 'https://rajhospitals.com/specialties/emergency'
+Redirect 301 '/oncologist-and-cancer-specialist-ranchi.php' 'https://rajhospitals.com/specialties/oncology-cancer-care'
+Redirect 301 '/orthopedic-and-joint-replacement-surgery-ranchi.php' 'https://rajhospitals.com/specialties/orthopaedics-and-joint-replacement'
+Redirect 301 '/pediatrician-specialists-ranchi.php' 'https://rajhospitals.com/specialties/pediatrics-and-neonatology'
+Redirect 301 '/pulmonology-specialists-ranchi.php' 'https://rajhospitals.com/specialties/pulmonology'
+Redirect 301 '/physiotherapy-department.php' 'https://rajhospitals.com/specialties/physiotherapy-and-rehabilitation'
+Redirect 301 '/urologist-ranchi.php' 'https://rajhospitals.com/specialties/urology'
+
+Redirect 301 '/testimonials.php' 'https://rajhospitals.com/testimonials'
+Redirect 301 '/career.php' 'https://rajhospitals.com/careers'
+Redirect 301 '/contact.php' 'https://rajhospitals.com/contact'
