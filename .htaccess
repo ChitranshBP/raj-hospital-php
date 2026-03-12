@@ -687,9 +687,6 @@ ExpiresDefault "access 2 days"
 
 
 
-Redirect 301 '/blog.php?qb-b=%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%95%E0%A4%B2%20%E0%A4%AA%E0%A5%87%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3,%20%E0%A4%89%E0%A4%AA%E0%A4%9A%E0%A4%BE%E0%A4%B0,%20%E0%A4%A6%E0%A4%B5%E0%A4%BE%20%E0%A4%94%E0%A4%B0%20%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%9C '/ent-specialist.php'   
-
-
 
 Redirect 301 '/uric-acid-symptoms-in-hindi.php' 'https://rajhospitals.com/blog/uric-acid-symptom-in-hindi/'
 
