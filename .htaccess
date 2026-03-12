@@ -13,7 +13,7 @@ RewriteRule ^([^.]+)/?$ $1.php [L]
 
 # Specific Page Redirects
 Redirect 301 '/about.php' 'https://rajhospitals.com/about'
-Redirect 301 '/find-a-doctor.php' 'https://rajhospitals.com/find-a-doctor'
+
 
 Redirect 301 '/aesthetic-&-reconstructive-surgery.php' 'https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery'
 Redirect 301 '/cardiologist-and-heart-specialist-ranchi.php' 'https://rajhospitals.com/specialties/cardiology'
