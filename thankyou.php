@@ -63,7 +63,7 @@
                     <i data-feather="home" class="w-5 h-5"></i>
                     <span>Back to Home</span>
                 </a>
-                <a href="doctors.php" class="w-full sm:w-auto bg-white text-gray-700 border-2 border-gray-200 px-8 py-4 rounded-lg font-bold text-lg hover:border-[#ea5234] hover:text-[#ea5234] transition-all transform hover:scale-105 shadow-sm flex items-center justify-center space-x-2">
+                <a href="find-a-doctor.php" class="w-full sm:w-auto bg-white text-gray-700 border-2 border-gray-200 px-8 py-4 rounded-lg font-bold text-lg hover:border-[#ea5234] hover:text-[#ea5234] transition-all transform hover:scale-105 shadow-sm flex items-center justify-center space-x-2">
                     <i data-feather="user" class="w-5 h-5"></i>
                     <span>Find a Doctor</span>
                 </a>

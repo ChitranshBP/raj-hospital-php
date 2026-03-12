@@ -34,7 +34,7 @@ function processFile($filepath) {
     $content = file_get_contents($filepath);
     $original = $content;
     
-    // JS Object replacements in index.php, doctors.php, doctor-profile.php, etc.
+    // JS Object replacements in index.php, find-a-doctor.php, doctor-profile.php, etc.
     foreach ($map as $id => $image) {
         $imgPath = $image;
         if (strpos($filepath, 'doctors\\') !== false || strpos($filepath, 'specialties\\') !== false) {

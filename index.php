@@ -1825,7 +1825,7 @@ Best Hospital in Jharkhand
                         e.preventDefault();
                         const query = searchInput.value.trim();
                         if (query) {
-                            window.location.href = `doctors.php?search=${encodeURIComponent(query)}`;
+                            window.location.href = `find-a-doctor.php?search=${encodeURIComponent(query)}`;
                         }
                     });
                 }

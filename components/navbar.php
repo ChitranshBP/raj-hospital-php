@@ -204,7 +204,7 @@ function getSpecialtySlug($name, $category) {
                             </div>
                         </div>
 
-                        <a href="<?php echo $base_url; ?>doctors.php" class="<?php echo $active_page == 'doctors.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">Find a Doctor</a>
+                        <a href="<?php echo $base_url; ?>find-a-doctor.php" class="<?php echo $active_page == 'find-a-doctor.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">Find a Doctor</a>
                         <div class="flex items-center space-x-3 ml-2 lg:ml-4">
                             <a href="<?php echo $base_url; ?>contact.php" class="<?php echo $active_page == 'contact.php' ? 'bg-orange-600 shadow-inner' : 'bg-orange-500 hover:bg-orange-600'; ?> text-white px-4 lg:px-7 py-2 lg:py-2.5 rounded-full transition-colors font-semibold text-sm lg:text-base shadow-md">Book Appointment</a>
                         </div>
@@ -244,7 +244,7 @@ function getSpecialtySlug($name, $category) {
                     </div>
                 </div>
 
-                <a href="<?php echo $base_url; ?>doctors.php" class="block py-3 <?php echo $active_page == 'doctors.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Find a Doctor</a>
+                <a href="<?php echo $base_url; ?>find-a-doctor.php" class="block py-3 <?php echo $active_page == 'find-a-doctor.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Find a Doctor</a>
                 <a href="<?php echo $base_url; ?>testimonials.php" class="block py-3 <?php echo $active_page == 'testimonials.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Testimonials</a>
                 <a href="<?php echo $base_url; ?>news-media.php" class="block py-3 <?php echo $active_page == 'news-media.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">News & Media</a>
                 <a href="<?php echo $base_url; ?>careers.php" class="block py-3 <?php echo $active_page == 'careers.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Careers</a>
