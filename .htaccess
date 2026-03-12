@@ -12,7 +12,7 @@ RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^([^.]+)/?$ $1.php [L]
 
 # Specific Page Redirects
-Redirect 301 '/about.php' 'https://rajhospitals.com/about'
+Redirect 301 '/about' 'https://rajhospitals.com/about'
 
 
 Redirect 301 '/aesthetic-&-reconstructive-surgery' 'https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery'
@@ -36,7 +36,4 @@ Redirect 301 '/pediatrician-specialists-ranchi' 'https://rajhospitals.com/specia
 Redirect 301 '/pulmonology-specialists-ranchi' 'https://rajhospitals.com/specialties/pulmonology'
 Redirect 301 '/physiotherapy-department' 'https://rajhospitals.com/specialties/physiotherapy-and-rehabilitation'
 Redirect 301 '/urologist-ranchi' 'https://rajhospitals.com/specialties/urology'
-
-Redirect 301 '/testimonials' 'https://rajhospitals.com/testimonials'
 Redirect 301 '/career' 'https://rajhospitals.com/careers'
-Redirect 301 '/contact' 'https://rajhospitals.com/contact'
