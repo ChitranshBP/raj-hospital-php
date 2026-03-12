@@ -109,7 +109,7 @@
                 <div class="max-w-7xl mx-auto px-4">
                     <div class="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
                         <div class="text-gray-400 text-sm text-center md:text-left">
-                            <p class="mb-1">© 2025 <span class="text-white font-semibold">Raj Hospitals</span>. All rights reserved.</p>
+                            <p class="mb-1">© <?php echo date("Y");  ?><span class="text-white font-semibold">Raj Hospitals</span>. All rights reserved.</p>
                              <p class="text-gray-500 text-xs">Established 1991 • NABH Accredited • Leading Healthcare Provider in Jharkhand</p>
                         </div>
                          <div class="flex flex-wrap justify-center gap-4 text-xs">
