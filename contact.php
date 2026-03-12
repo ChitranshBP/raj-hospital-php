@@ -153,7 +153,7 @@
                                 <option value="">Select a subject</option>
                                 <option value="Book Appointment">Book Appointment</option>
                                 <option value="Second Opinion">Second Opinion</option>
-                                <option value="Corporate/TPA Query">Corporate/TPA Query</option>
+                                <!-- <option value="Corporate/TPA Query">Corporate/TPA Query</option> -->
                                 <option value="Book a Test">Book a Test</option>
                                 <option value="General Inquiry">General Inquiry</option>
                                 <option value="Emergency">Emergency</option>

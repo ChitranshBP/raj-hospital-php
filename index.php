@@ -252,7 +252,7 @@ Best Hospital in Jharkhand
                     <i data-feather="users" class="w-5 h-5"></i>
                     <span>Second Opinion</span>
                 </a>
-                <a href="contact.php"
+                <a href="corporate-tpa.php"
                     class="bg-white text-gray-700 hover:bg-gray-50 border border-gray-200 px-5 py-3 rounded-lg font-medium text-sm transition-all duration-300 flex items-center gap-2 shadow-sm hover:shadow-md">
                     <i data-feather="activity" class="w-5 h-5"></i>
                     <span>Corporate/TPA Query</span>
