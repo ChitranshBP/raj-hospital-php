@@ -618,8 +618,6 @@ Redirect 301 '/heart-pain' 'https://rajhospitals.com/'
 Redirect 301 '/महिलाओं-में-हृदय-रोग' 'https://rajhospitals.com/'
 Redirect 301 '/aids' 'https://rajhospitals.com/'
 Redirect 301 '/causes-of-insomnia' 'https://rajhospitals.com/'
-Redirect 301 '/find-a-doctor/' 'https://rajhospitals.com/find-a-doctor.php'
-
 
 
 
