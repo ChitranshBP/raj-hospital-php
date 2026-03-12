@@ -601,34 +601,3 @@ Redirect 301 '/महिलाओं-में-हृदय-रोग' 'https://
 Redirect 301 '/aids' 'https://rajhospitals.com/'
 Redirect 301 '/causes-of-insomnia' 'https://rajhospitals.com/'
 
-
-
-Redirect 301 'uric-acid-symptoms-in-hindi.php' 'https://rajhospitals.com/blog/uric-acid-symptom-in-hindi/'
-
-Redirect 301 'ent.php' '/ent-specialist.php'
-
-Redirect 301 'dental-care.php' '/dental-surgeon-ranchi.php'
-
-Redirect 301 'neurosciences.php' '/neurologist-ranchi.php'
-
-Redirect 301 'oncology.php' '/oncologist-and-cancer-specialist-ranchi.php'
-
-Redirect 301 'paediatrics.php' '/pediatrician-specialists-ranchi.php'
-
-Redirect 301 'urology.php' '/urologist-ranchi.php'
-
-Redirect 301 'dermatology.php' '/dermatologist-ranchi.php'
-
-Redirect 301 'eye-care.php' '/eye-specialist-ranchi.php'
-
-Redirect 301 'nephrology.php' '/nephrologist-ranchi.php'
-
-Redirect 301 'obstetrics-and-gynaecology.php' '/maternity-and-gynecologist-ranchi.php'
-
-Redirect 301 'pulmonology.php' '/pulmonology-specialists-ranchi.php'
-
-Redirect 301 'gastroenterology.php' '/gastroenterology-ranchi.php'
-
-Redirect 301 'general-surgery.php' '/general-and-laparoscopic-surgery-ranchi.php'
-
-
