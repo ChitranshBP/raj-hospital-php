@@ -19,7 +19,7 @@ Redirect 301 '/aesthetic-&-reconstructive-surgery.php' 'https://rajhospitals.com
 Redirect 301 '/cardiologist-and-heart-specialist-ranchi.php' 'https://rajhospitals.com/specialties/cardiology'
 Redirect 301 '/critical-care.php' 'https://rajhospitals.com/specialties/critical-care'
 Redirect 301 '/dental-surgeon-ranchi.php' 'https://rajhospitals.com/specialties/dental'
-Redirect 301 '/dermatologist-ranchi.php' 'https://rajhospitals.com/specialties/dermatology'
+Redirect 301 '/dermatologist-ranchi' 'https://rajhospitals.com/specialties/dermatology'
 Redirect 301 '/general-and-laparoscopic-surgery-ranchi.php' 'https://rajhospitals.com/specialties/minimal-access-surgery'
 Redirect 301 '/gastroenterology-ranchi.php' 'https://rajhospitals.com/specialties/gastroenterology'
 Redirect 301 '/eye-hospital-ranchi.php' 'https://rajhospitals.com/specialties/eye-care'
