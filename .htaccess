@@ -735,8 +735,8 @@ Redirect 301 '/general-surgery.php' '/general-and-laparoscopic-surgery-ranchi.ph
 
 
 
-Redirect 301 '/about.php' 'https://rajhospitals.com/about'
-Redirect 301 '/find-a-doctor.php' 'https://rajhospitals.com/doctors'
+
+
 
 Redirect 301 '/aesthetic-&-reconstructive-surgery.php' 'https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery'
 Redirect 301 '/cardiologist-and-heart-specialist-ranchi.php' 'https://rajhospitals.com/specialties/cardiology'
@@ -759,7 +759,3 @@ Redirect 301 '/pediatrician-specialists-ranchi.php' 'https://rajhospitals.com/sp
 Redirect 301 '/pulmonology-specialists-ranchi.php' 'https://rajhospitals.com/specialties/pulmonology'
 Redirect 301 '/physiotherapy-department.php' 'https://rajhospitals.com/specialties/physiotherapy-and-rehabilitation'
 Redirect 301 '/urologist-ranchi.php' 'https://rajhospitals.com/specialties/urology'
-
-Redirect 301 '/testimonials.php' 'https://rajhospitals.com/testimonials'
-Redirect 301 '/career.php' 'https://rajhospitals.com/careers'
-Redirect 301 '/contact.php' 'https://rajhospitals.com/contact'
