@@ -12,7 +12,7 @@ RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^([^.]+)/?$ $1.php [L]
 
 # Specific Page Redirects
-Redirect 301 '/about' 'https://rajhospitals.com/about'
+
 
 
 Redirect 301 '/aesthetic-&-reconstructive-surgery' 'https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery'
