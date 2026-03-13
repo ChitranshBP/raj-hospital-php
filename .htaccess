@@ -51,6 +51,8 @@ Redirect 301 '/dr-ved-prakash.php' 'https://rajhospitals.com/doctor-profile?id=v
 
 
 
+
+
 Redirect 301 '/aesthetic-&-reconstructive-surgery' 'https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery'
 Redirect 301 '/cardiologist-and-heart-specialist-ranchi' 'https://rajhospitals.com/specialties/cardiology'
 Redirect 301 '/critical-care' 'https://rajhospitals.com/specialties/critical-care'
