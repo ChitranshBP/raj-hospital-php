@@ -339,6 +339,7 @@ function getSpecialtySlug($name, $category)
                 & Media</a>
             <a href="<?php echo $base_url; ?>careers.php"
                 class="block py-3 <?php echo $active_page == 'careers.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Careers</a>
+            <a href="https://rajhospitals.com/blog/" class="block py-3 text-gray-700 font-medium border-b border-gray-100">Blogs</a>
             <a href="<?php echo $base_url; ?>contact.php"
                 class="block w-full bg-orange-500 text-white py-3 rounded-lg font-medium text-center mt-4">Book
                 Appointment</a>
