@@ -44,13 +44,28 @@ Redirect 301 '/dr-p-k-raina' 'https://rajhospitals.com/doctors/pk-raina'
 Redirect 301 '/dr-neelam' 'https://rajhospitals.com/doctors/neelam-kumari'
 Redirect 301 '/dr-piyali-banerjee' 'https://rajhospitals.com/doctors/piyali-banerjee'
 Redirect 301 '/dr-mohib-ahmed' 'https://rajhospitals.com/doctors/mohib-ahmed'
-Redirect 301 '/dr-ved-prakash.php' 'https://rajhospitals.com/doctor-profile?id=ved-prakash'
+
+
+Redirect 301 '/dr-fuzail-sarwer.php' 'https://rajhospitals.com/doctors/fuzail-sarwer'
+Redirect 301 '/dr-shyam-prasad.php' 'https://rajhospitals.com/doctors/shyam-prasad'
+Redirect 301 '/dr-vivek-raj.php' 'https://rajhospitals.com/doctors/vivek-raj'
+Redirect 301 '/dr-piyali-banerjee.php' 'https://rajhospitals.com/doctors/piyali-banerjee'
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+
+
 
 
 # Specific Page Redirects
-
-
-
 
 
 Redirect 301 '/aesthetic-&-reconstructive-surgery' 'https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery'
