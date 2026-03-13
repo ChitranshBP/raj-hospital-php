@@ -1160,7 +1160,7 @@ Best Hospital in Jharkhand
             <p class="text-gray-700 mb-8">Insights, health tips, and hospital updates.</p>
 
             <div class="overflow-x-auto md:overflow-visible scrollbar-hide -mx-4 md:mx-0 px-4 md:px-0">
-                <div class="flex md:grid md:grid-cols-4 gap-6 md:gap-8 snap-x snap-mandatory md:snap-none">
+                <div id="blogs-container" class="flex md:grid md:grid-cols-4 gap-6 md:gap-8 snap-x snap-mandatory md:snap-none">
                     <!-- Blog 1 -->
                     <a href="#"
                         class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl overflow-hidden flex flex-col shadow hover:shadow-lg transition group">
@@ -1837,6 +1837,38 @@ Best Hospital in Jharkhand
                         searchInput.blur();
                     }
                 });
+            }
+
+            // --- Dynamic Blogs Fetch ---
+            const blogsContainer = document.getElementById('blogs-container');
+            if (blogsContainer) {
+                fetch("https://rajhospitals.com/blog/wp-json/wp/v2/posts?_embed&per_page=4")
+                    .then(res => res.json())
+                    .then(posts => {
+                        let html = '';
+                        posts.forEach(post => {
+                            const title = post.title.rendered;
+                            const img = post._embedded?.['wp:featuredmedia']?.[0]?.source_url || 'assets/home-img/blogs/default-blog.webp';
+                            const excerpt = post.excerpt.rendered.replace(/<[^>]*>/g, '').substring(0, 100) + '...';
+                            const url = post.link;
+                            
+                            html += `
+                                <a href="${url}" class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl overflow-hidden flex flex-col shadow hover:shadow-lg transition group">
+                                    <img src="${img}" alt="${title}" class="w-full h-36 object-cover group-hover:opacity-90 transition">
+                                    <div class="p-4 flex-1 flex flex-col">
+                                        <div class="font-bold text-[#0191C7] mb-1">${title}</div>
+                                        <div class="text-gray-600 text-sm mb-2 flex-1">${excerpt}</div>
+                                        <span class="text-orange-500 text-sm mt-auto hover:underline">Read More</span>
+                                    </div>
+                                </a>
+                            `;
+                        });
+                        blogsContainer.innerHTML = html;
+                    })
+                    .catch(error => {
+                        console.error('Error fetching blogs:', error);
+                        // Fallback leaves the static blogs intact
+                    });
             }
         });
     </script>
