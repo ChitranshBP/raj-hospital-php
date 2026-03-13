@@ -12,6 +12,9 @@ RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^([^.]+)/?$ $1.php [L]
 
 
+
+
+
 # Dr Profile Redirection 
 Redirect 301 'dr-abhay-kr-pandey' 'https://rajhospitals.com/doctors/abhay-pandey'
 Redirect 301 '/dr-abhishek-bhattacharjee' 'https://rajhospitals.com/doctors/abhishek-bhattacharjee'
