@@ -92,7 +92,7 @@
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>News & Media</span></a></li>
-                            <li><a href="#"
+                            <li><a href="https://rajhospitals.com/blog/"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
