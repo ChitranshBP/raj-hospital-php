@@ -309,10 +309,10 @@ ENT Care Hospital in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
                             <div class="relative overflow-hidden h-48 sm:h-56 shrink-0"><img
-                                    src="../assets/doc-dummy/male-dummy-raj.webp" alt="Dr. Ranjan Kumar Jha"
+                                    src="../assets/new-doctors-side/ranajan kumar jha.webp" alt="Dr. Ranajan Kumar Jha"
                                     class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300"></div>
                             <div class="p-6">
-                                <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Ranjan Kumar Jha</h3>
+                                <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Ranajan Kumar Jha</h3>
                                 <p class="text-primary-600 font-medium mb-2">MBBS, MS, FESS</p>
                                 <p class="text-secondary-600 text-sm mb-3">ENT Surgery</p>
                                 <div class="flex items-center text-sm text-gray-500 mb-4"><i data-feather="award"

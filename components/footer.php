@@ -229,6 +229,9 @@
                         <a href="<?php echo $base_url; ?>biomedical-waste-reports.php"
                             class="text-gray-400 hover:text-orange-400 transition-colors">BMW Reports</a>
                     </div>
+                    <div class="text-gray-500 text-xs text-center mt-4 md:mt-0">
+                        Made &amp; Designed by <a href="https://brandingpioneers.com/" target="_blank" class="text-orange-400 hover:text-orange-300 transition-colors font-medium">Branding Pioneers</a>
+                    </div>
                 </div>
             </div>
         </div>
