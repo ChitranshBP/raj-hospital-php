@@ -11,8 +11,61 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^([^.]+)/?$ $1.php [L]
 
-# Specific Page Redirects
 
+
+
+
+# Dr Profile Redirection 
+Redirect 301 'dr-abhay-kr-pandey' 'https://rajhospitals.com/doctors/abhay-pandey'
+Redirect 301 '/dr-abhishek-bhattacharjee' 'https://rajhospitals.com/doctors/abhishek-bhattacharjee'
+Redirect 301 '/dr-abhishek-roy' 'https://rajhospitals.com/doctors/abhishek-roy'
+Redirect 301 '/dr-a-k-agarwal' 'https://rajhospitals.com/doctors/ak-agarwal'
+Redirect 301 '/dr-a-k-sinha' 'https://rajhospitals.com/doctors/ak-sinha'
+Redirect 301 '/bio-medical-waste-report' 'https://rajhospitals.com/biomedical-waste-reports'
+Redirect 301 '/news' 'https://rajhospitals.com/news-media'
+Redirect 301 '/rachi-news' 'https://rajhospitals.com/news-media'
+Redirect 301 '/general-and-laparoscopic-surgery-ranchi' 'https://rajhospitals.com/specialties/minimal-access-surgery'
+Redirect 301 '/dr-ahmad-hussain' 'https://rajhospitals.com/doctors/ahmad-hussain'
+Redirect 301 '/dr-pushpa-sinha' 'https://rajhospitals.com/doctors/pushpa-sinha'
+Redirect 301 '/dr-mozammil-pheroz' 'https://rajhospitals.com/doctors/mozammil-pheroz'
+Redirect 301 '/dr-sunil-kumar' 'https://rajhospitals.com/doctor-profile?id=sunil-kumar'
+Redirect 301 '/dr-vivek-raj' 'https://rajhospitals.com/doctors/vivek-raj'
+Redirect 301 '/dr-rajesh-kumar-jha' 'https://rajhospitals.com/doctors/rajesh-jha'
+Redirect 301 '/dr-ravish-ranjan' 'https://rajhospitals.com/doctors/ravish-ranjan'
+Redirect 301 '/dr-prakash-chandra' 'https://rajhospitals.com/doctors/prakash-chandra'
+Redirect 301 '/dr-ravish-ranjan' 'https://rajhospitals.com/doctors/ravish-ranjan'
+Redirect 301 '/dr-rajesh-kumar-jha' 'https://rajhospitals.com/doctors/rajesh-jha'
+Redirect 301 '/dr-vivek-raj' 'https://rajhospitals.com/doctors/vivek-raj'
+Redirect 301 '/dr-ashish-kumar' 'https://rajhospitals.com/doctors/ashish-modi'
+Redirect 301 '/dr-a-k-sinha' 'https://rajhospitals.com/doctors/ak-sinha'
+Redirect 301 '/dr-mozammil-pheroz' 'https://rajhospitals.com/doctors/mozammil-pheroz'
+Redirect 301 'https://rajhospitals.com/dr-suprova-chakraborty' 'https://rajhospitals.com/doctors/suprova-chakraborty'
+Redirect 301 '/dr-p-k-raina' 'https://rajhospitals.com/doctors/pk-raina'
+Redirect 301 '/dr-neelam' 'https://rajhospitals.com/doctors/neelam-kumari'
+Redirect 301 '/dr-piyali-banerjee' 'https://rajhospitals.com/doctors/piyali-banerjee'
+Redirect 301 '/dr-mohib-ahmed' 'https://rajhospitals.com/doctors/mohib-ahmed'
+
+
+Redirect 301 '/dr-fuzail-sarwer.php' 'https://rajhospitals.com/doctors/fuzail-sarwer'
+Redirect 301 '/dr-shyam-prasad.php' 'https://rajhospitals.com/doctors/shyam-prasad'
+Redirect 301 '/dr-vivek-raj.php' 'https://rajhospitals.com/doctors/vivek-raj'
+Redirect 301 '/dr-piyali-banerjee.php' 'https://rajhospitals.com/doctors/piyali-banerjee'
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+#Redirect 301 '' ''
+
+
+
+
+# Specific Page Redirects
 
 
 Redirect 301 '/aesthetic-&-reconstructive-surgery' 'https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery'
