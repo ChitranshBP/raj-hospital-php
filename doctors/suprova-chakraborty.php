@@ -6,11 +6,11 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Suprova Chakraborty - Pulmonologist in Ranchi | Raj Hospital</title>
+    <title>Dr. Suprova Chakraborty – Pulmonology in Ranchi</title>
     <meta name="description" content="Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi with 12+ years in respiratory medicine. Expert in asthma, COPD & lung care. Book now.">
     <meta name="keywords" content="Dr. Suprova Chakraborty, Pulmonology in Ranchi, Best Pulmonologist in Ranchi, Dr. Suprova Chakraborty Raj Hospital Ranchi, pulmonology doctor Ranchi">
     <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/suprova-chakraborty">
-    <meta property="og:title" content="Dr. Suprova Chakraborty - Pulmonologist in Ranchi | Raj Hospital">
+    <meta property="og:title" content="Dr. Suprova Chakraborty – Pulmonology in Ranchi">
     <meta property="og:description" content="Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi with 12+ years in respiratory medicine. Expert in asthma, COPD & lung care. Book now.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/suprova-chakraborty">

@@ -6,11 +6,11 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Vivek Raj - Neurosurgeon in Ranchi | Raj Hospital</title>
+    <title>Dr. Vivek Raj – Neurosciences in Ranchi</title>
     <meta name="description" content="Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi with 9+ years in brain & spine surgery. Book an appointment today.">
     <meta name="keywords" content="Dr. Vivek Raj, Neurosciences in Ranchi, Best Neurosurgeon in Ranchi, Dr. Vivek Raj Raj Hospital Ranchi, neurosurgeon doctor Ranchi">
     <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/vivek-raj">
-    <meta property="og:title" content="Dr. Vivek Raj - Neurosurgeon in Ranchi | Raj Hospital">
+    <meta property="og:title" content="Dr. Vivek Raj – Neurosciences in Ranchi">
     <meta property="og:description" content="Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi with 9+ years in brain & spine surgery. Book an appointment today.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/vivek-raj">

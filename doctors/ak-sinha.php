@@ -6,11 +6,11 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. A K Sinha - Internal Medicine in Ranchi | Raj Hospital</title>
+    <title>Dr. A K Sinha – Internal Medicine in Ranchi</title>
     <meta name="description" content="Dr. A K Sinha is a highly experienced Internal Medicine specialist at Raj Hospital Ranchi with 25+ years expertise in chronic diseases and metabolic disorders.">
     <meta name="keywords" content="Dr. A K Sinha, Internal Medicine in Ranchi, Best Internal Medicine in Ranchi, Dr. A K Sinha Raj Hospital Ranchi, internal medicine doctor Ranchi">
     <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ak-sinha">
-    <meta property="og:title" content="Dr. A K Sinha - Internal Medicine in Ranchi | Raj Hospital">
+    <meta property="og:title" content="Dr. A K Sinha – Internal Medicine in Ranchi">
     <meta property="og:description" content="Dr. A K Sinha is a highly experienced Internal Medicine specialist at Raj Hospital Ranchi with 25+ years expertise in chronic diseases and metabolic disorders.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ak-sinha">

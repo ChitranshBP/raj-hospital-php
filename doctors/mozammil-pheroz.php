@@ -6,11 +6,11 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Mozammil Pheroz - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital</title>
+    <title>Dr. Mozammil Pheroz – Orthopaedics & Joint Replacement in Ranchi</title>
     <meta name="description" content="Dr. Mozammil Pheroz is an Orthopaedic Surgeon & Sports Medicine specialist at Raj Hospital Ranchi with 11+ years experience. Book appointment today.">
     <meta name="keywords" content="Dr. Mozammil Pheroz, Orthopaedics in Ranchi, Best Orthopaedics in Ranchi, Dr. Mozammil Pheroz Raj Hospital Ranchi, orthopaedics doctor Ranchi">
     <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/mozammil-pheroz">
-    <meta property="og:title" content="Dr. Mozammil Pheroz - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital">
+    <meta property="og:title" content="Dr. Mozammil Pheroz – Orthopaedics & Joint Replacement in Ranchi">
     <meta property="og:description" content="Dr. Mozammil Pheroz is an Orthopaedic Surgeon & Sports Medicine specialist at Raj Hospital Ranchi with 11+ years experience. Book appointment today.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/mozammil-pheroz">

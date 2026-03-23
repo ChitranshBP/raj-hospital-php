@@ -14,9 +14,9 @@ $specialty = $doctor['specialty'];
 $experience = $doctor['experience'];
 $qualifications = $doctor['qualifications'];
 
-// Page Title: "Dr [Name] - [Specialty] in Ranchi | Raj Hospital"
+// Page Title: "Dr [Name] – [Specialization] in Ranchi"
 if (!isset($pageTitle)) {
-    $pageTitle = $doctorName . ' - ' . $specialty . ' in Ranchi | Raj Hospital';
+    $pageTitle = $doctorName . ' – ' . $specialty . ' in Ranchi';
 }
 
 // Meta Description: compelling, 140-160 chars with CTA

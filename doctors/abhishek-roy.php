@@ -6,11 +6,11 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Abhishek Roy - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital</title>
+    <title>Dr. Abhishek Roy – Orthopaedics & Joint Replacement in Ranchi</title>
     <meta name="description" content="Dr. Abhishek Roy is a specialist Orthopedic Surgeon at Raj Hospital Ranchi with 6+ years expertise in joint replacement and sports injury. Book appointment now.">
     <meta name="keywords" content="Dr. Abhishek Roy, Orthopaedics in Ranchi, Best Orthopaedics in Ranchi, Dr. Abhishek Roy Raj Hospital Ranchi, orthopaedics doctor Ranchi">
     <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/abhishek-roy">
-    <meta property="og:title" content="Dr. Abhishek Roy - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital">
+    <meta property="og:title" content="Dr. Abhishek Roy – Orthopaedics & Joint Replacement in Ranchi">
     <meta property="og:description" content="Dr. Abhishek Roy is a specialist Orthopedic Surgeon at Raj Hospital Ranchi with 6+ years expertise in joint replacement and sports injury. Book appointment now.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/abhishek-roy">

@@ -6,11 +6,11 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. P K Raina - Oncology/Cancer Care Specialist in Ranchi | Raj Hospital</title>
+    <title>Dr. P K Raina – Oncology (Cancer Care) in Ranchi</title>
     <meta name="description" content="Dr. P K Raina is a senior Surgical Oncologist at Raj Hospital Ranchi with 20+ years experience in cancer surgery and tumour management. Book appointment now.">
     <meta name="keywords" content="Dr. P K Raina, Oncology in Ranchi, Best Oncology in Ranchi, Dr. P K Raina Raj Hospital Ranchi, cancer doctor Ranchi">
     <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/pk-raina">
-    <meta property="og:title" content="Dr. P K Raina - Oncology/Cancer Care Specialist in Ranchi | Raj Hospital">
+    <meta property="og:title" content="Dr. P K Raina – Oncology (Cancer Care) in Ranchi">
     <meta property="og:description" content="Dr. P K Raina is a senior Surgical Oncologist at Raj Hospital Ranchi with 20+ years experience in cancer surgery and tumour management. Book appointment now.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/pk-raina">

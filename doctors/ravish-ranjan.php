@@ -6,11 +6,11 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Ravish Ranjan - Gastroenterologist in Ranchi | Raj Hospital</title>
+    <title>Dr. Ravish Ranjan – Gastroenterology in Ranchi</title>
     <meta name="description" content="Dr. Ravish Ranjan is a skilled Gastroenterologist at Raj Hospital Ranchi with 12 years experience in endoscopy and liver disease management. Book appointment now.">
     <meta name="keywords" content="Dr. Ravish Ranjan, Gastroenterology in Ranchi, Best Gastroenterologist in Ranchi, Dr. Ravish Ranjan Raj Hospital Ranchi, gastroenterology doctor Ranchi">
     <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ravish-ranjan">
-    <meta property="og:title" content="Dr. Ravish Ranjan - Gastroenterologist in Ranchi | Raj Hospital">
+    <meta property="og:title" content="Dr. Ravish Ranjan – Gastroenterology in Ranchi">
     <meta property="og:description" content="Dr. Ravish Ranjan is a skilled Gastroenterologist at Raj Hospital Ranchi with 12 years experience in endoscopy and liver disease management. Book appointment now.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ravish-ranjan">

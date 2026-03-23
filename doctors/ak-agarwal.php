@@ -1,6 +1,6 @@
 <?php
 $base_url = '../';
-$page_title = 'Dr. A K Agarwal - Internal Medicine in Ranchi | Raj Hospital';
+$page_title = 'Dr. A K Agarwal – Internal Medicine in Ranchi';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -12,7 +12,7 @@ $page_title = 'Dr. A K Agarwal - Internal Medicine in Ranchi | Raj Hospital';
     <meta name="description" content="Dr. A K Agarwal is a veteran Internal Medicine specialist at Raj Hospital Ranchi with 25+ years experience in diabetes, hypertension & multi-system disorders.">
     <meta name="keywords" content="Dr. A K Agarwal, Internal Medicine in Ranchi, Best Internal Medicine in Ranchi, Dr. A K Agarwal Raj Hospital Ranchi, internal medicine doctor Ranchi">
     <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ak-agarwal">
-    <meta property="og:title" content="Dr. A K Agarwal - Internal Medicine in Ranchi | Raj Hospital">
+    <meta property="og:title" content="Dr. A K Agarwal – Internal Medicine in Ranchi">
     <meta property="og:description" content="Dr. A K Agarwal is a veteran Internal Medicine specialist at Raj Hospital Ranchi with 25+ years experience in diabetes, hypertension & multi-system disorders.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ak-agarwal">

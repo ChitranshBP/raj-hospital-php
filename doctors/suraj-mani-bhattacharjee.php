@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Dr. Suraj Mani Bhattacharjee - Dentist in Ranchi | Raj Hospital";
+$pageTitle = "Dr. Suraj Mani Bhattacharjee – Dental in Ranchi";
 $pageDescription = "Dr. Suraj Mani Bhattacharjee is an experienced Dental Surgeon at Raj Hospital, Ranchi with 10+ years expertise in dental implants & root canal. Book now.";
 $pageKeywords = "Dr. Suraj Mani Bhattacharjee, Dentist in Ranchi, Best Dental Surgeon Ranchi, dental implants Ranchi, Dr. Suraj Mani Raj Hospital";
 $canonicalUrl = "https://www.rajhospitalranchi.com/doctors/suraj-mani-bhattacharjee";
