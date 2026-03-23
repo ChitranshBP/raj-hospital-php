@@ -214,8 +214,10 @@
             <div class="max-w-7xl mx-auto px-4">
                 <div class="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
                     <div class="text-gray-400 text-sm text-center md:text-left">
-                        <p class="mb-1">© <?php echo date("Y"); ?><span class="text-white font-semibold">Raj
-                                Hospitals</span>. All rights reserved.</p>
+                        <p class="mb-1">©
+                            <?php echo date("Y"); ?><span class="text-white font-semibold">Raj
+                                Hospitals</span>. All rights reserved.
+                        </p>
                         <p class="text-gray-500 text-xs">Established 1991 • NABH Accredited • Leading Healthcare
                             Provider in Jharkhand</p>
                     </div>
@@ -230,7 +232,9 @@
                             class="text-gray-400 hover:text-orange-400 transition-colors">BMW Reports</a>
                     </div>
                     <div class="text-gray-500 text-xs text-center mt-4 md:mt-0">
-                        Made &amp; Designed by <a href="https://brandingpioneers.com/" target="_blank" class="text-orange-400 hover:text-orange-300 transition-colors font-medium">Branding Pioneers</a>
+                        Made &amp; Designed by <a href="https://brandingpioneers.com/" target="_blank"
+                            class="text-orange-400 hover:text-orange-300 transition-colors font-medium">Branding
+                            Pioneers</a>
                     </div>
                 </div>
             </div>
@@ -246,3 +250,8 @@
 
     });
 </script>
+
+
+
+
+<script defer src="https://app.wacrs.com/install-widget/bundle.js?key=12f8832c-df69-4eb0-a8c6-2a2815aef3b0"></script>
