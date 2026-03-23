@@ -17,6 +17,9 @@ $page_title = 'Dr. Avinash Kumar Dubey – Nephrology in Ranchi';
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/avinash-dubey">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Raj Hospital, Ranchi">
+    <meta name="publisher" content="Raj Hospital, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -64,6 +67,45 @@ $page_title = 'Dr. Avinash Kumar Dubey – Nephrology in Ranchi';
     </script>
 </head>
 <body class="bg-gray-50">
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Avinash Kumar Dubey",
+    "description": "Dr. Avinash Dubey is an experienced Nephrologist at Raj Hospital, Ranchi, with over 15 years of expertise in kidney disease management. He specializes in dialysis, kidney transplant evaluation, and treatment of chronic kidney disease and renal disorders.",
+    "medicalSpecialty": "Nephrology",
+    "qualifications": "MD (Internal Medicine), DM (Nephrology)",
+    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Nephrologist - Dr. Avinas- Kumar-Dubey.webp",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bariatu Road",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834009",
+            "addressCountry": "IN"
+        },
+        "telephone": "+919263630500",
+        "url": "https://www.rajhospitalranchi.com"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bariatu Road",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "postalCode": "834009",
+        "addressCountry": "IN"
+    },
+    "telephone": "+919263630500",
+    "url": "https://www.rajhospitalranchi.com/doctors/avinash-dubey",
+    "memberOf": {
+        "@type": "MedicalOrganization",
+        "name": "Raj Hospital, Ranchi"
+    }
+}
+</script>
 
     <?php include $base_url . 'components/navbar.php'; ?>
 

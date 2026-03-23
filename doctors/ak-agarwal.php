@@ -17,6 +17,9 @@ $page_title = 'Dr. A K Agarwal – Internal Medicine in Ranchi';
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ak-agarwal">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Raj Hospital, Ranchi">
+    <meta name="publisher" content="Raj Hospital, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -64,6 +67,45 @@ $page_title = 'Dr. A K Agarwal – Internal Medicine in Ranchi';
     </script>
 </head>
 <body class="bg-gray-50">
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. A K Agarwal",
+    "description": "Dr. A.K. Agarwal is a veteran Internal Medicine specialist at Raj Hospital, Ranchi, with over 25 years of experience in general medicine. He provides comprehensive medical care for diabetes, hypertension, infectious diseases, and complex multi-system disorders.",
+    "medicalSpecialty": "Internal Medicine",
+    "qualifications": "MBBS, MD (Medicine)",
+    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Agrawal.webp",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bariatu Road",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834009",
+            "addressCountry": "IN"
+        },
+        "telephone": "+919263630500",
+        "url": "https://www.rajhospitalranchi.com"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bariatu Road",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "postalCode": "834009",
+        "addressCountry": "IN"
+    },
+    "telephone": "+919263630500",
+    "url": "https://www.rajhospitalranchi.com/doctors/ak-agarwal",
+    "memberOf": {
+        "@type": "MedicalOrganization",
+        "name": "Raj Hospital, Ranchi"
+    }
+}
+</script>
 
     <?php include $base_url . 'components/navbar.php'; ?>
 

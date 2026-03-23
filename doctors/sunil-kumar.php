@@ -15,6 +15,9 @@
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/sunil-kumar">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Raj Hospital, Ranchi">
+    <meta name="publisher" content="Raj Hospital, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -71,6 +74,45 @@
 </head>
 
 <body class="bg-gray-50">
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Sunil Kumar",
+    "description": "Dr. Sunil Kumar is an experienced Urologist at Raj Hospital, Ranchi, with over 18 years of expertise in urological procedures. He specializes in kidney stone treatment, prostate surgery, and advanced urological interventions including laser lithotripsy.",
+    "medicalSpecialty": "Urology",
+    "qualifications": "MBBS, MS (General Surgery), MCh (Urology)",
+    "image": "https://www.rajhospitalranchi.com/assets/doctor-latest/sunil kumar.webp",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bariatu Road",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834009",
+            "addressCountry": "IN"
+        },
+        "telephone": "+919263630500",
+        "url": "https://www.rajhospitalranchi.com"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bariatu Road",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "postalCode": "834009",
+        "addressCountry": "IN"
+    },
+    "telephone": "+919263630500",
+    "url": "https://www.rajhospitalranchi.com/doctors/sunil-kumar",
+    "memberOf": {
+        "@type": "MedicalOrganization",
+        "name": "Raj Hospital, Ranchi"
+    }
+}
+</script>
 
     <?php include $base_url . 'components/navbar.php'; ?>
 

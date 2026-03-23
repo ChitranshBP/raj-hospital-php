@@ -8,6 +8,47 @@ $base_url = "../";
 include($base_url . 'header.php');
 ?>
 
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Suraj Mani Bhattacharjee",
+    "description": "Dr. Suraj Mani Bhattacharjee is an experienced Dental Surgeon at Raj Hospital, Ranchi with 10+ years expertise in dental implants & root canal. Book now.",
+    "medicalSpecialty": "Dental",
+    "qualifications": "BDS",
+    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bariatu Road",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834009",
+            "addressCountry": "IN"
+        },
+        "telephone": "+919263630500",
+        "url": "https://www.rajhospitalranchi.com"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bariatu Road",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "postalCode": "834009",
+        "addressCountry": "IN"
+    },
+    "telephone": "+919263630500",
+    "url": "https://www.rajhospitalranchi.com/doctors/suraj-mani-bhattacharjee",
+    "memberOf": {
+        "@type": "MedicalOrganization",
+        "name": "Raj Hospital, Ranchi"
+    }
+}
+</script>
+
 <div class="doctor-profile-page font-outfit">
     <!-- Hero Section -->
     <section class="relative py-20 bg-gradient-to-r from-[#1A3C8E] to-[#122A63] text-white overflow-hidden">

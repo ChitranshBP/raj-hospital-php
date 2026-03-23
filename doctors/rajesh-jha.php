@@ -15,6 +15,9 @@
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/rajesh-jha">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Raj Hospital, Ranchi">
+    <meta name="publisher" content="Raj Hospital, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -71,6 +74,45 @@
 </head>
 
 <body class="bg-gray-50">
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Rajesh Kumar Jha",
+    "description": "Dr. Rajesh Jha is an experienced Interventional Cardiologist at Raj Hospital, Ranchi, with over 16 years of expertise in heart disease management. He specializes in coronary angioplasty, cardiac stenting, and advanced interventional cardiac procedures.",
+    "medicalSpecialty": "Cardiology",
+    "qualifications": "MBBS, MD, DM",
+    "image": "https://www.rajhospitalranchi.com/assets/doctor-latest/Cardiologist - Dr. Rajesh Kumar Jha.webp",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bariatu Road",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834009",
+            "addressCountry": "IN"
+        },
+        "telephone": "+919263630500",
+        "url": "https://www.rajhospitalranchi.com"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bariatu Road",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "postalCode": "834009",
+        "addressCountry": "IN"
+    },
+    "telephone": "+919263630500",
+    "url": "https://www.rajhospitalranchi.com/doctors/rajesh-jha",
+    "memberOf": {
+        "@type": "MedicalOrganization",
+        "name": "Raj Hospital, Ranchi"
+    }
+}
+</script>
 
     <?php include $base_url . 'components/navbar.php'; ?>
 

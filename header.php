@@ -10,6 +10,9 @@
     </title>
     <meta name="description"
         content="<?php echo isset($pageDescription) ? $pageDescription : "Raj Hospitals - Best Multi Specialty Hospital in Ranchi"; ?>">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Raj Hospital, Ranchi">
+    <meta name="publisher" content="Raj Hospital, Ranchi">
     <?php if (isset($pageKeywords)): ?>
         <meta name="keywords" content="<?php echo htmlspecialchars($pageKeywords); ?>">
     <?php endif; ?>

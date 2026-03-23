@@ -8,6 +8,47 @@ $base_url = "../";
 include($base_url . 'header.php');
 ?>
 
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Anupama Mahli",
+    "description": "Dr. Anupama Mahli is an experienced Obstetrician & Gynaecologist at Raj Hospital, Ranchi, with over 10 years of expertise in women's healthcare. Book appointment now.",
+    "medicalSpecialty": "Obstetrics & Gynaecology",
+    "qualifications": "MBBS, MS (Obstetrics), DNB (Obs & Gyn), D.MAS",
+    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Gyanecologist - Dr. Anupama-Mahli.webp",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bariatu Road",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834009",
+            "addressCountry": "IN"
+        },
+        "telephone": "+919263630500",
+        "url": "https://www.rajhospitalranchi.com"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bariatu Road",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "postalCode": "834009",
+        "addressCountry": "IN"
+    },
+    "telephone": "+919263630500",
+    "url": "https://www.rajhospitalranchi.com/doctors/anupama-mahli",
+    "memberOf": {
+        "@type": "MedicalOrganization",
+        "name": "Raj Hospital, Ranchi"
+    }
+}
+</script>
+
 <div class="doctor-profile-page font-outfit">
     <!-- Hero Section -->
     <section class="relative py-20 bg-gradient-to-r from-[#1A3C8E] to-[#122A63] text-white overflow-hidden">

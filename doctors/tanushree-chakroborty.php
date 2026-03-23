@@ -8,6 +8,47 @@ $base_url = "../";
 include($base_url . 'header.php');
 ?>
 
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Tanushree Chakroborty",
+    "description": "Dr. Tanushree Chakroborty is a senior Gynaecologist at Raj Hospital, Ranchi with 15+ years experience in obstetric care & colposcopy. Book appointment now.",
+    "medicalSpecialty": "Obstetrics & Gynaecology",
+    "qualifications": "MBBS, DGO",
+    "image": "https://www.rajhospitalranchi.com/assets/Doc-Side/tanushree_gyane.webp",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bariatu Road",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834009",
+            "addressCountry": "IN"
+        },
+        "telephone": "+919263630500",
+        "url": "https://www.rajhospitalranchi.com"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bariatu Road",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "postalCode": "834009",
+        "addressCountry": "IN"
+    },
+    "telephone": "+919263630500",
+    "url": "https://www.rajhospitalranchi.com/doctors/tanushree-chakroborty",
+    "memberOf": {
+        "@type": "MedicalOrganization",
+        "name": "Raj Hospital, Ranchi"
+    }
+}
+</script>
+
 <div class="doctor-profile-page font-outfit">
     <!-- Hero Section -->
     <section class="relative py-20 bg-gradient-to-r from-[#1A3C8E] to-[#122A63] text-white overflow-hidden">

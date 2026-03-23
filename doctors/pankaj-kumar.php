@@ -8,6 +8,47 @@ $base_url = "../";
 include($base_url . 'header.php');
 ?>
 
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Pankaj Kumar",
+    "description": "Dr. Pankaj Kumar is a skilled Plastic & Reconstructive Surgeon at Raj Hospital, Ranchi with 12+ years of experience. Book appointment for cosmetic surgery now.",
+    "medicalSpecialty": "Aesthetic & Reconstructive Surgery",
+    "qualifications": "MBBS, MS (General Surgery), MCh (Plastic Surgery)",
+    "image": "https://www.rajhospitalranchi.com/assets/doc-dummy/male-dummy-raj.webp",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bariatu Road",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834009",
+            "addressCountry": "IN"
+        },
+        "telephone": "+919263630500",
+        "url": "https://www.rajhospitalranchi.com"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bariatu Road",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "postalCode": "834009",
+        "addressCountry": "IN"
+    },
+    "telephone": "+919263630500",
+    "url": "https://www.rajhospitalranchi.com/doctors/pankaj-kumar",
+    "memberOf": {
+        "@type": "MedicalOrganization",
+        "name": "Raj Hospital, Ranchi"
+    }
+}
+</script>
+
 <div class="doctor-profile-page font-outfit">
     <!-- Hero Section -->
     <section class="relative py-20 bg-gradient-to-r from-[#1A3C8E] to-[#122A63] text-white overflow-hidden">
