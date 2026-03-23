@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. P K Raina | Raj Hospitals</title>
+    <title>Dr. P K Raina - Oncology/Cancer Care Specialist in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. P K Raina is a senior Surgical Oncologist at Raj Hospital Ranchi with 20+ years experience in cancer surgery and tumour management. Book appointment now.">
+    <meta name="keywords" content="Dr. P K Raina, Oncology in Ranchi, Best Oncology in Ranchi, Dr. P K Raina Raj Hospital Ranchi, cancer doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/pk-raina">
+    <meta property="og:title" content="Dr. P K Raina - Oncology/Cancer Care Specialist in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. P K Raina is a senior Surgical Oncologist at Raj Hospital Ranchi with 20+ years experience in cancer surgery and tumour management. Book appointment now.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/pk-raina">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Oncology (Cancer Care)',
             experience: '20+ Years',
             image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Oncologist - Dr. P-K-Raina.webp',
-            description: 'Dr. P K Raina is a skilled oncologist and surgeon with over 20 years of experience. His areas of interest include Head & Neck Cancer, Breast Cancer, and Gynae Oncology, focusing on comprehensive cancer care and surgical oncology.',
+            description: 'Dr. P.K. Raina is a senior Surgical Oncologist at Raj Hospital, Ranchi, with over 20 years of experience in cancer surgery. He provides expert surgical treatment for various cancers with a focus on comprehensive oncological care and tumor management.',
             expertise: [
                 'Head & Neck Cancer',
                 'Breast Cancer',

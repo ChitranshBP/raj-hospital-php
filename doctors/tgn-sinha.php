@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '45+ Years',
     'regNo' => '',
     'image' => '../assets/doctor-latest/tgn sinha.webp',
-    'description' => "Dr. T.G.N. Sinha is a highly experienced ENT specialist with over 45 years of practice.",
+    'description' => "Dr. T.G.N. Sinha is a highly experienced ENT specialist at Raj Hospital, Ranchi, with over 45 years of distinguished practice in ear, nose, and throat care. He provides expert treatment for hearing disorders, sinusitis, and complex ENT conditions.",
     'expertise' => [],
     'education' => [
         [

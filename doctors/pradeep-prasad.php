@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '10+ Years',
     'regNo' => '',
     'image' => '../assets/new-doctors-side/pradeep prasad.webp',
-    'description' => "Dr. Pradeep Prasad is a specialist in laboratory medicine with expertise in molecular and genomic testing.",
+    'description' => "Dr. Pradeep Prasad is a skilled Pathologist and Biochemist at Raj Hospital, Ranchi, with over 10 years of experience in laboratory medicine. He specializes in clinical biochemistry, diagnostic pathology, and comprehensive laboratory investigations.",
     'expertise' => [
         'Molecular Testing',
         'Genomic Testing'

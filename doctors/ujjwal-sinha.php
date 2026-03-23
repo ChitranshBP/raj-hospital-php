@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Ujjwal Sinha | Raj Hospitals</title>
+    <title>Dr. Ujjwal Sinha - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Ujjwal Sinha is an Orthopedic Surgeon at Raj Hospital, Ranchi with 15+ years in joint replacement & sports medicine. Book an appointment today.">
+    <meta name="keywords" content="Dr. Ujjwal Sinha, Orthopaedics in Ranchi, Best Orthopaedic Surgeon in Ranchi, Dr. Ujjwal Sinha Raj Hospital Ranchi, joint replacement doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ujjwal-sinha">
+    <meta property="og:title" content="Dr. Ujjwal Sinha - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Ujjwal Sinha is an Orthopedic Surgeon at Raj Hospital, Ranchi with 15+ years in joint replacement & sports medicine. Book an appointment today.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ujjwal-sinha">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Orthopaedics & Joint Replacement',
             experience: '15+ Years',
             image: '../assets/doctor-latest/Orthopedic Surgeon - Dr. Ujjwal Sinha.webp',
-            description: 'Dr. Ujjwal Sinha is a highly qualified Orthopaedic Surgeon specializing in sports medicine, joint replacement, and complex trauma. With prestigious fellowships and over 15 years of experience, he offers advanced care for musculoskeletal conditions.',
+            description: 'Dr. Ujjwal Sinha is an experienced Orthopedic Surgeon at Raj Hospital, Ranchi, with over 15 years of expertise in joint replacement and sports medicine. He specializes in total knee and hip replacement, arthroscopy, and sports injury rehabilitation.',
             expertise: [
                 'Arthroscopy Knee, Shoulder, Ankle',
                 'Sports Medicine',

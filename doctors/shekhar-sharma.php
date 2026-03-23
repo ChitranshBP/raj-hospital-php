@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '20+ Years',
     'regNo' => '',
     'image' => '../assets/Doc-Side/Dr Shekhar Sharma (Radiologist).webp',
-    'description' => "Dr. Shekhar Sharma is an experienced radiologist with over 20 years of expertise in MRI, CT, and conventional radiology.",
+    'description' => "Dr. Shekhar Sharma is a senior Radiologist at Raj Hospital, Ranchi, with over 20 years of experience in diagnostic imaging. He specializes in CT scan, MRI, ultrasound, and X-ray interpretation for accurate diagnosis and treatment planning.",
     'expertise' => [
         'MRI, CT & Conventional Radiology'
     ],

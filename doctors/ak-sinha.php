@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. A K Sinha | Raj Hospitals</title>
+    <title>Dr. A K Sinha - Internal Medicine in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. A K Sinha is a highly experienced Internal Medicine specialist at Raj Hospital Ranchi with 25+ years expertise in chronic diseases and metabolic disorders.">
+    <meta name="keywords" content="Dr. A K Sinha, Internal Medicine in Ranchi, Best Internal Medicine in Ranchi, Dr. A K Sinha Raj Hospital Ranchi, internal medicine doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ak-sinha">
+    <meta property="og:title" content="Dr. A K Sinha - Internal Medicine in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. A K Sinha is a highly experienced Internal Medicine specialist at Raj Hospital Ranchi with 25+ years expertise in chronic diseases and metabolic disorders.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ak-sinha">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Internal Medicine',
             experience: '25+ Years',
             image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Sinha.webp',
-            description: 'Dr. A K Sinha is a highly experienced Internal Medicine specialist with over 25 years of practice, focusing on cardiology, heart problems, and chest-related issues.',
+            description: 'Dr. A.K. Sinha is a highly experienced Internal Medicine specialist at Raj Hospital, Ranchi, with over 25 years of expertise. He provides expert diagnosis and treatment for chronic diseases, metabolic disorders, and comprehensive health management.',
             expertise: [
                 'Cardiology',
                 'Heart problems',

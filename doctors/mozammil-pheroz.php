@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Mozammil Pheroz | Raj Hospitals</title>
+    <title>Dr. Mozammil Pheroz - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Mozammil Pheroz is an Orthopaedic Surgeon & Sports Medicine specialist at Raj Hospital Ranchi with 11+ years experience. Book appointment today.">
+    <meta name="keywords" content="Dr. Mozammil Pheroz, Orthopaedics in Ranchi, Best Orthopaedics in Ranchi, Dr. Mozammil Pheroz Raj Hospital Ranchi, orthopaedics doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/mozammil-pheroz">
+    <meta property="og:title" content="Dr. Mozammil Pheroz - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Mozammil Pheroz is an Orthopaedic Surgeon & Sports Medicine specialist at Raj Hospital Ranchi with 11+ years experience. Book appointment today.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/mozammil-pheroz">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Orthopaedics & Joint Replacement',
             experience: '11+ Years',
             image: '../assets/Doc-Side/dr-pheroz-raj-removebg-preview.png',
-            description: 'Dr. Mozammil Pheroz is a distinguished Orthopaedic Surgeon at Raj Hospitals Ranchi, with years of dedicated experience and an impressive array of qualifications. His advanced training equips him with strong expertise in joint replacement surgery, arthroscopy, and complex trauma management. He is known for his patient-centred approach, deep understanding of musculoskeletal disorders, and commitment to innovative treatment methodologies and research aimed at improving surgical outcomes.',
+            description: 'Dr. Mozammil Pheroz is a skilled Orthopedic Surgeon and Sports Medicine specialist at Raj Hospital, Ranchi, with over 11 years of experience. He specializes in arthroscopy, sports injury treatment, joint replacement, and trauma surgery.',
             expertise: [
                 'Knee & Hip Total Joint Replacement',
                 'Arthroscopic Surgery – Knee & Shoulder Ligament Reconstruction',

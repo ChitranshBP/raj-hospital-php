@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Saurabh Kumar | Raj Hospitals</title>
+    <title>Dr. Saurabh Kumar - Critical Care Specialist in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Saurabh Kumar is a Critical Care specialist at Raj Hospital, Ranchi with 26 years of ICU expertise. Book an appointment today.">
+    <meta name="keywords" content="Dr. Saurabh Kumar, Critical Care in Ranchi, Best Critical Care in Ranchi, Dr. Saurabh Kumar Raj Hospital Ranchi, critical care doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/saurabh-kumar">
+    <meta property="og:title" content="Dr. Saurabh Kumar - Critical Care Specialist in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Saurabh Kumar is a Critical Care specialist at Raj Hospital, Ranchi with 26 years of ICU expertise. Book an appointment today.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/saurabh-kumar">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Critical Care',
             experience: '26 Years',
             image: '../assets/new-doctors-side/Dr. Saurabh Kumar.webp',
-            description: 'Dr. Saurabh Kumar is a highly experienced specialist in Critical Care and Anaesthesiology with over 26 years of experience.',
+            description: 'Dr. Saurabh Kumar is a highly experienced Critical Care specialist at Raj Hospital, Ranchi, with 26 years of expertise in intensive care medicine. He provides advanced ICU management, ventilator care, and treatment for critically ill patients.',
             expertise: [
                 'ECMO',
                 'Cardiac Anaesthesiology',

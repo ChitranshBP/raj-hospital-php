@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '10+ Years',
     'regNo' => '',
     'image' => '../assets/Doc-Side/Lab - Dr. Sweta Sushmita.webp',
-    'description' => "Dr. Shweta Sushmita is a pathologist with expertise in histopathology, cytopathology, and hematology.",
+    'description' => "Dr. Shweta Sushmita is a skilled Pathologist at Raj Hospital, Ranchi, with over 10 years of experience in laboratory diagnostics. She specializes in clinical pathology, histopathology, and comprehensive blood investigations for accurate disease diagnosis.",
     'expertise' => [
         'Histopathology',
         'Cytopathology',

@@ -10,6 +10,23 @@
     </title>
     <meta name="description"
         content="<?php echo isset($pageDescription) ? $pageDescription : "Raj Hospitals - Best Multi Specialty Hospital in Ranchi"; ?>">
+    <?php if (isset($pageKeywords)): ?>
+        <meta name="keywords" content="<?php echo htmlspecialchars($pageKeywords); ?>">
+    <?php endif; ?>
+    <?php if (isset($canonicalUrl)): ?>
+        <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
+    <?php endif; ?>
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="<?php echo isset($pageTitle) ? htmlspecialchars($pageTitle) : 'Raj Hospitals'; ?>">
+    <meta property="og:description" content="<?php echo isset($pageDescription) ? htmlspecialchars($pageDescription) : 'Raj Hospitals - Best Multi Specialty Hospital in Ranchi'; ?>">
+    <meta property="og:type" content="<?php echo isset($ogType) ? $ogType : 'website'; ?>">
+    <?php if (isset($ogImage)): ?>
+        <meta property="og:image" content="<?php echo htmlspecialchars($ogImage); ?>">
+    <?php endif; ?>
+    <?php if (isset($canonicalUrl)): ?>
+        <meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>">
+    <?php endif; ?>
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {

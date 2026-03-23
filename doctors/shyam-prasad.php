@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Shyam Prasad | Raj Hospitals</title>
+    <title>Dr. Shyam Prasad - Emergency Medicine Specialist in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Shyam Prasad is an Emergency Medicine specialist at Raj Hospital, Ranchi with 12+ years in trauma & emergency care. Book an appointment today.">
+    <meta name="keywords" content="Dr. Shyam Prasad, Emergency in Ranchi, Best Emergency in Ranchi, Dr. Shyam Prasad Raj Hospital Ranchi, emergency doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/shyam-prasad">
+    <meta property="og:title" content="Dr. Shyam Prasad - Emergency Medicine Specialist in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Shyam Prasad is an Emergency Medicine specialist at Raj Hospital, Ranchi with 12+ years in trauma & emergency care. Book an appointment today.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/shyam-prasad">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Emergency',
             experience: '12+ Years',
             image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Emergency - Dr. Shyam-Prasad.webp',
-            description: 'Dr. Shyam Prasad is an experienced emergency medicine specialist with over 12 years of practice. He serves as the Consultant Head of the Department of Emergency at Raj Hospital and is affiliated with SEMI. He is dedicated to handling all kinds of emergency medical situations and trauma care.',
+            description: 'Dr. Shyam Prasad is a dedicated Emergency Medicine specialist at Raj Hospital, Ranchi, with over 12 years of experience in trauma and emergency care. He provides rapid assessment and life-saving treatment for medical emergencies and critical injuries.',
             expertise: [
                 'Emergency Medical Care',
                 'All Types of Trauma'

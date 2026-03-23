@@ -1,6 +1,6 @@
 <?php
 $base_url = '../';
-$page_title = 'Dr. Avinash Kumar Dubey | Raj Hospitals';
+$page_title = 'Dr. Avinash Kumar Dubey - Nephrology in Ranchi | Raj Hospital';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -9,6 +9,14 @@ $page_title = 'Dr. Avinash Kumar Dubey | Raj Hospitals';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $page_title; ?></title>
+    <meta name="description" content="Dr. Avinash Kumar Dubey is an experienced Nephrologist at Raj Hospital Ranchi with 15+ years expertise in kidney disease, dialysis & kidney transplant evaluation.">
+    <meta name="keywords" content="Dr. Avinash Kumar Dubey, Nephrology in Ranchi, Best Nephrology in Ranchi, Dr. Avinash Kumar Dubey Raj Hospital Ranchi, nephrologist Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/avinash-dubey">
+    <meta property="og:title" content="Dr. Avinash Kumar Dubey - Nephrology in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Avinash Kumar Dubey is an experienced Nephrologist at Raj Hospital Ranchi with 15+ years expertise in kidney disease, dialysis & kidney transplant evaluation.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/avinash-dubey">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -108,7 +116,7 @@ $page_title = 'Dr. Avinash Kumar Dubey | Raj Hospitals';
                 specialty: 'Nephrology',
                 experience: '15+ Years',
                 image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Nephrologist - Dr. Avinas- Kumar-Dubey.webp',
-                description: 'Dr. Avinash Kumar Dubey is a distinguished Nephrologist with over 15 years of experience, specializing in kidney transplantation, chronic kidney disease, and preventive nephrology. He is recognized for his thorough diagnostic approach and compassionate patient care.',
+                description: 'Dr. Avinash Dubey is an experienced Nephrologist at Raj Hospital, Ranchi, with over 15 years of expertise in kidney disease management. He specializes in dialysis, kidney transplant evaluation, and treatment of chronic kidney disease and renal disorders.',
                 expertise: [
                   'Kidney transplantation',
                   'Chronic Kidney Disease (CKD)',

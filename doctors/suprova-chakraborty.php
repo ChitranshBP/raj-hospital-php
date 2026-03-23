@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Suprova Chakraborty | Raj Hospitals</title>
+    <title>Dr. Suprova Chakraborty - Pulmonologist in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi with 12+ years in respiratory medicine. Expert in asthma, COPD & lung care. Book now.">
+    <meta name="keywords" content="Dr. Suprova Chakraborty, Pulmonology in Ranchi, Best Pulmonologist in Ranchi, Dr. Suprova Chakraborty Raj Hospital Ranchi, pulmonology doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/suprova-chakraborty">
+    <meta property="og:title" content="Dr. Suprova Chakraborty - Pulmonologist in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi with 12+ years in respiratory medicine. Expert in asthma, COPD & lung care. Book now.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/suprova-chakraborty">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Pulmonology',
             experience: '12+ Years',
             image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Pulmonologist - Dr. Suprova-Chakraborty.webp',
-            description: 'Dr. Suprova Chakraborty is an experienced pulmonologist with over 12 years specializing in respiratory medicine. She has worked as Senior Resident at IPGMER-SSKM Hospital Kolkata and AIIMS Deoghar, and as Consultant at Hayat Hospital & Down Town Hospital in Guwahati.',
+            description: 'Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi, with over 12 years of experience in respiratory medicine. She specializes in the treatment of asthma, COPD, tuberculosis, and other lung diseases with advanced pulmonary care.',
             expertise: [
                 'Allergies',
                 'Asthma and Lung Disease Treatment',

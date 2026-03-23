@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Rajesh Kumar Jha | Raj Hospitals</title>
+    <title>Dr. Rajesh Kumar Jha - Cardiologist in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Rajesh Jha is an Interventional Cardiologist at Raj Hospital Ranchi with 16+ years expertise in angioplasty and cardiac stenting. Book appointment now.">
+    <meta name="keywords" content="Dr. Rajesh Kumar Jha, Cardiology in Ranchi, Best Cardiologist in Ranchi, Dr. Rajesh Jha Raj Hospital Ranchi, cardiology doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/rajesh-jha">
+    <meta property="og:title" content="Dr. Rajesh Kumar Jha - Cardiologist in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Rajesh Jha is an Interventional Cardiologist at Raj Hospital Ranchi with 16+ years expertise in angioplasty and cardiac stenting. Book appointment now.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/rajesh-jha">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Cardiology',
             experience: '16+ Years',
             image: '../assets/doctor-latest/Cardiologist - Dr. Rajesh Kumar Jha.webp',
-            description: 'Dr. Rajesh Kumar Jha is a Cardiologist with over 16 years of experience specializing in interventional cardiology.',
+            description: 'Dr. Rajesh Jha is an experienced Interventional Cardiologist at Raj Hospital, Ranchi, with over 16 years of expertise in heart disease management. He specializes in coronary angioplasty, cardiac stenting, and advanced interventional cardiac procedures.',
             expertise: ['Interventional Cardiology'],
             education: [
                 { degree: 'DM (Cardiology)', institution: 'Safdarjung Hospital, New Delhi' },

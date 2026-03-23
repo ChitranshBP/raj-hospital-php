@@ -5,7 +5,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Deepak Verma | Raj Hospitals</title>
+    <title>Dr. Deepak Verma - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital Ranchi with 25+ years experience in joint replacement, trauma surgery & fracture management.">
+    <meta name="keywords" content="Dr. Deepak Verma, Orthopaedics in Ranchi, Best Orthopaedics in Ranchi, Dr. Deepak Verma Raj Hospital Ranchi, orthopaedics doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/deepak-verma">
+    <meta property="og:title" content="Dr. Deepak Verma - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital Ranchi with 25+ years experience in joint replacement, trauma surgery & fracture management.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/deepak-verma">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -106,7 +114,7 @@
                 specialty: 'Orthopaedics & Joint Replacement',
                 experience: '25+ Years',
                 image: '../assets/doctor-latest/deepak verma.webp',
-                description: 'Dr. Deepak Verma is an experienced Orthopaedic Surgeon with over 25 years of practice, specializing in difficult trauma cases and joint replacements.',
+                description: 'Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital, Ranchi, with over 25 years of experience in joint replacement and trauma surgery. He provides expert care for total knee and hip replacement, fracture management, and musculoskeletal disorders.',
                 expertise: [
                   'Fractures; Old Neglected Fractures',
                   'Difficult Trauma',

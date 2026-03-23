@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '12+ Years',
     'regNo' => '',
     'image' => '../assets/Doc-Side/Dr Piyali Banerjee(Derma).webp',
-    'description' => "Dr. Piyali Banerjee is a skilled dermatologist and cosmetologist with over 12 years of experience, specializing in hair disorders, acne, and cosmetology. She has held advisory roles and received multiple awards for her academic and clinical excellence.",
+    'description' => "Dr. Piyali Banerjee is an experienced Dermatologist at Raj Hospital, Ranchi, with over 12 years of expertise in skin disorders and dermatological treatments. She specializes in medical dermatology, cosmetic procedures, and management of chronic skin conditions.",
     'expertise' => [
         'Hair Disorder',
         'Acne',

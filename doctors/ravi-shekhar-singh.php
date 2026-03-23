@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '10+ Years',
     'regNo' => '',
     'image' => '../assets/specialties/PAEDIATRICS/dr-ravi-shekhar-singh.webp',
-    'description' => "Dr. Ravi Shekhar Singh is a skilled Pediatrician specializing in Pediatric Medicine and Critical Care for infants and children.",
+    'description' => "Dr. Ravi Shekhar Singh is an experienced Pediatrician at Raj Hospital, Ranchi, with over 10 years of expertise in newborn and child healthcare. He specializes in neonatal care, childhood immunization, and management of pediatric illnesses.",
     'expertise' => [
         'Pediatric Medicine',
         'Pediatric Critical Care',

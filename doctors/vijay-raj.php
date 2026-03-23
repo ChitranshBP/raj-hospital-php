@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '15+ Years',
     'regNo' => '',
     'image' => '../assets/Doc-Side/vijayraj.webp',
-    'description' => "Dr. Vijay Raj is a skilled Neurologist specializing in Neurodiagnostics and Stroke Management with extensive experience.",
+    'description' => "Dr. Vijay Raj is a skilled Neurologist at Raj Hospital, Ranchi, with over 15 years of experience in neurodiagnostics and stroke management. He provides expert care for neurological disorders including epilepsy, headache, and nervous system conditions.",
     'expertise' => [
         'Neurodiagnostics',
         'Stroke Management',

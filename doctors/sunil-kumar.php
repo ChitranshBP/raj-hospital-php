@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Sunil Kumar | Raj Hospitals</title>
+    <title>Dr. Sunil Kumar - Urologist in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Sunil Kumar is an experienced Urologist at Raj Hospital, Ranchi with 18+ years of expertise in kidney stone treatment & prostate surgery. Book now.">
+    <meta name="keywords" content="Dr. Sunil Kumar, Urology in Ranchi, Best Urologist in Ranchi, Dr. Sunil Kumar Raj Hospital Ranchi, urology doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/sunil-kumar">
+    <meta property="og:title" content="Dr. Sunil Kumar - Urologist in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Sunil Kumar is an experienced Urologist at Raj Hospital, Ranchi with 18+ years of expertise in kidney stone treatment & prostate surgery. Book now.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/sunil-kumar">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Urology',
             experience: '18+ Years',
             image: '../assets/doctor-latest/sunil kumar.webp',
-            description: 'Dr. Sunil Kumar is a senior urologist with over 18 years of experience. He specializes in robotic surgery, renal transplantation, laparoscopic procedures, endourology, uro-oncology, male infertility, and vascular access for hemodialysis.',
+            description: 'Dr. Sunil Kumar is an experienced Urologist at Raj Hospital, Ranchi, with over 18 years of expertise in urological procedures. He specializes in kidney stone treatment, prostate surgery, and advanced urological interventions including laser lithotripsy.',
             expertise: [
                 'Robotic Surgery',
                 'Renal Transplantation',

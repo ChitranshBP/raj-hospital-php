@@ -1,6 +1,9 @@
 <?php
-$pageTitle = "Dr. Pankaj Kumar - Aesthetic & Reconstructive Surgery | Raj Hospitals";
-$pageDescription = "Dr. Pankaj Kumar is a renowned Plastic, Cosmetic, and Reconstructive Surgeon based in Ranchi with over 10 years of experience.";
+$pageTitle = "Dr. Pankaj Kumar - Plastic & Reconstructive Surgeon in Ranchi | Raj Hospital";
+$pageDescription = "Dr. Pankaj Kumar is a skilled Plastic & Reconstructive Surgeon at Raj Hospital, Ranchi with 12+ years of experience. Book appointment for cosmetic surgery now.";
+$pageKeywords = "Dr. Pankaj Kumar, Plastic Surgeon in Ranchi, Best Cosmetic Surgeon Ranchi, Reconstructive Surgery Ranchi, Dr. Pankaj Kumar Raj Hospital";
+$canonicalUrl = "https://www.rajhospitalranchi.com/doctors/pankaj-kumar";
+$ogType = "profile";
 $base_url = "../";
 include($base_url . 'header.php');
 ?>

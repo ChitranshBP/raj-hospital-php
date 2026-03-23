@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '20+ Years',
     'regNo' => '', // Optional
     'image' => '../assets/Doc-Side/Dr. Abid Akhtar (Opthal).webp',
-    'description' => "Dr. Abid Akhtar is a highly experienced Ophthalmologist specializing in eye care surgeries and treatments. With over 20 years of experience, he is an expert in cataract and refractive surgeries, and treating corneal and external eye diseases.",
+    'description' => "Dr. Abid Akhtar is a senior Ophthalmologist at Raj Hospital, Ranchi, with over 20 years of experience in cataract surgery, refractive surgery, and comprehensive eye care. He specializes in advanced ophthalmic procedures including phacoemulsification and glaucoma management.",
     'expertise' => [
         'Cataract Surgery',
         'Refractive Surgery',

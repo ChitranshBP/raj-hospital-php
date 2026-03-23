@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '9+ Years',
     'regNo' => '',
     'image' => '../assets/doctor-latest/dr-jitendra-lab.webp',
-    'description' => "Dr. Jitendra Prasad is a specialist in microbiology and laboratory investigations.",
+    'description' => "Dr. Jitendra Prasad is an experienced Pathologist and Microbiologist at Raj Hospital, Ranchi, with over 9 years of expertise in laboratory diagnostics. He specializes in microbiology, clinical pathology, and infection control management.",
     'expertise' => [],
     'education' => [
         [

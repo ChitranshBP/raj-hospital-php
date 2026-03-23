@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '4+ Years',
     'regNo' => '', // Optional
     'image' => '../assets/Doc-Side/Dr Sony (Interventional Pain Medicine).webp',
-    'description' => "Dr. Sony is a dedicated specialist in Interventional Pain Medicine and Critical Care. She has advanced training in managing chronic pain syndromes and uses minimally invasive techniques to improve patients' quality of life. Her expertise includes regenerative therapy and spine interventions.",
+    'description' => "Dr. Sony is a trained Pain Management and Critical Care specialist at Raj Hospital, Ranchi, with expertise in interventional pain medicine. She provides advanced pain relief procedures and critical care management for acute and chronic pain conditions.",
     'expertise' => [
         'Regenerative Therapy (GFC / PRP)',
         'Chronic Joint Pain Management',

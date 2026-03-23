@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Abhishek Roy | Raj Hospitals</title>
+    <title>Dr. Abhishek Roy - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Abhishek Roy is a specialist Orthopedic Surgeon at Raj Hospital Ranchi with 6+ years expertise in joint replacement and sports injury. Book appointment now.">
+    <meta name="keywords" content="Dr. Abhishek Roy, Orthopaedics in Ranchi, Best Orthopaedics in Ranchi, Dr. Abhishek Roy Raj Hospital Ranchi, orthopaedics doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/abhishek-roy">
+    <meta property="og:title" content="Dr. Abhishek Roy - Orthopaedics & Joint Replacement in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Abhishek Roy is a specialist Orthopedic Surgeon at Raj Hospital Ranchi with 6+ years expertise in joint replacement and sports injury. Book appointment now.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/abhishek-roy">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Orthopaedics & Joint Replacement',
             experience: '6+ Years',
             image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp',
-            description: 'Dr. Abhishek Roy specializes in orthopaedics with a focus on sports injury and joint replacement. He has over 6 years of experience and expertise in managing complex trauma, arthritis, and autoimmune neurological disorders.',
+            description: 'Dr. Abhishek Roy is a specialized Orthopedic Surgeon at Raj Hospital, Ranchi, with over 6 years of expertise in joint replacement and sports injury management. He provides advanced treatment for fractures, arthroscopy, and total knee and hip replacement surgeries.',
             expertise: [
                 'Joint Replacement',
                 'Sports Injury',

@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '3+ Years',
     'regNo' => '',
     'image' => '../assets/Doc-Side/Dr kirti_kaira_lab.webp',
-    'description' => "Dr. Kriti Kaira is a pathologist specializing in histopathology, cytology, hematology, and clinical pathology.",
+    'description' => "Dr. Kriti Kaira is a specialist Pathologist at Raj Hospital, Ranchi, with expertise in histopathology, cytology, hematology, and oncopathology. She provides accurate diagnostic services including FNAC, biopsy analysis, and comprehensive laboratory investigations.",
     'expertise' => [
         'Histopathology',
         'Cytology',

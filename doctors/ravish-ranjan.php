@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Ravish Ranjan | Raj Hospitals</title>
+    <title>Dr. Ravish Ranjan - Gastroenterologist in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Ravish Ranjan is a skilled Gastroenterologist at Raj Hospital Ranchi with 12 years experience in endoscopy and liver disease management. Book appointment now.">
+    <meta name="keywords" content="Dr. Ravish Ranjan, Gastroenterology in Ranchi, Best Gastroenterologist in Ranchi, Dr. Ravish Ranjan Raj Hospital Ranchi, gastroenterology doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ravish-ranjan">
+    <meta property="og:title" content="Dr. Ravish Ranjan - Gastroenterologist in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Ravish Ranjan is a skilled Gastroenterologist at Raj Hospital Ranchi with 12 years experience in endoscopy and liver disease management. Book appointment now.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ravish-ranjan">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Gastroenterology',
             experience: '12 Years',
             image: '../assets/doctor-latest/Gastroenterologist - Dr. Ravish Ranjan.webp',
-            description: 'Dr. Ravish Ranjan is an experienced gastroenterologist specializing in advanced diagnostic and therapeutic endoscopy with 12 years of expertise. He is dedicated to providing personalized and comprehensive care for complex gastrointestinal conditions.',
+            description: 'Dr. Ravish Ranjan is a skilled Gastroenterologist at Raj Hospital, Ranchi, with 12 years of experience in digestive health. He specializes in upper and lower GI endoscopy, liver disease management, and treatment of gastrointestinal disorders.',
             expertise: [
                 'Therapeutic and Diagnostic Advance Upper GI Endoscopy',
                 'Therapeutic and Diagnostic Advance Lower GI Endoscopy (Colonoscopy)',

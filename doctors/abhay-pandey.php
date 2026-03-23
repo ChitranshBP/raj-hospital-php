@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '16+ Years',
     'regNo' => '',
     'image' => '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Physiotherapist - Dr. Abhay-Kumar-Pandey.webp',
-    'description' => "Dr. Abhay Kr Pandey is a senior physiotherapist at Raj Hospital, Ranchi, with over 16 years of experience specializing in orthopedic and traumatology physiotherapy, yoga therapy, and manual therapy. His interests include cardiology, heart problems, and chest-related issues.",
+    'description' => "Dr. Abhay Kumar Pandey is a senior physiotherapist at Raj Hospital, Ranchi, with over 16 years of experience in orthopedic and traumatology physiotherapy, yoga therapy, and manual therapy. He provides specialized rehabilitation care for musculoskeletal injuries, post-surgical recovery, and cardiopulmonary conditions.",
     'expertise' => [
         'Orthopedic & Traumatology Physiotherapy',
         'Yoga Therapy',

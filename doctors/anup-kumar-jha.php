@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '30+ Years',
     'regNo' => '',
     'image' => '../assets/Doc-Side/Dr Anup Kumar Jha_.webp',
-    'description' => "Dr. Anup Kumar Jha is an experienced cardiologist with over 30 years of expertise in cardiac care.",
+    'description' => "Dr. Anup Kumar Jha is a veteran Cardiologist at Raj Hospital, Ranchi, with over 30 years of experience in heart disease diagnosis and management. He specializes in preventive cardiology, ECG interpretation, and cardiac risk assessment for comprehensive cardiovascular care.",
     'expertise' => [],
     'education' => [
         [

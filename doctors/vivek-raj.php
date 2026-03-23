@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Vivek Raj | Raj Hospitals</title>
+    <title>Dr. Vivek Raj - Neurosurgeon in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi with 9+ years in brain & spine surgery. Book an appointment today.">
+    <meta name="keywords" content="Dr. Vivek Raj, Neurosciences in Ranchi, Best Neurosurgeon in Ranchi, Dr. Vivek Raj Raj Hospital Ranchi, neurosurgeon doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/vivek-raj">
+    <meta property="og:title" content="Dr. Vivek Raj - Neurosurgeon in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi with 9+ years in brain & spine surgery. Book an appointment today.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/vivek-raj">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Neurosciences',
             experience: '9+ Years',
             image: '../assets/new-doctors-side/vivek raj.webp',
-            description: 'Dr. Vivek Raj is a skilled neurosurgeon with expertise in brain and spine tumor surgery, pediatric brain surgery, and emergency spine trauma. He is committed to providing advanced surgical care including awake brain surgery for better patient outcomes.',
+            description: 'Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi, with over 9 years of experience in brain and spine surgery. He specializes in craniotomy, spinal fusion, and advanced neurosurgical procedures for complex neurological conditions.',
             expertise: [
                 'Headache',
                 'Backache & Stroke',

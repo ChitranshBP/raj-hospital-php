@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Rahul Roy | Raj Hospitals</title>
+    <title>Dr. Rahul Roy - Critical Care Specialist in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Rahul Roy is a senior Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 20+ years experience in ICU and patient safety. Book now.">
+    <meta name="keywords" content="Dr. Rahul Roy, Critical Care in Ranchi, Best Critical Care in Ranchi, Dr. Rahul Roy Raj Hospital Ranchi, critical care doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/rahul-roy">
+    <meta property="og:title" content="Dr. Rahul Roy - Critical Care Specialist in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Rahul Roy is a senior Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 20+ years experience in ICU and patient safety. Book now.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/rahul-roy">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Critical Care',
             experience: '20+ Years',
             image: '../assets/Doc-Side/Dr Rahul Roy(CCT).webp',
-            description: 'Dr. Rahul Roy is a highly experienced Anesthesiologist and Critical Care specialist with over 20 years of expertise. He specializes in critical care medicine, anesthesia, pain management, and end of life care, providing comprehensive and compassionate patient care.',
+            description: 'Dr. Rahul Roy is a senior Critical Care and Anesthesiology specialist at Raj Hospital, Ranchi, with over 20 years of experience. He provides expert ICU management, anesthesia services, and hospital administration with a focus on patient safety.',
             expertise: [
                 'Critical Care',
                 'Anesthesia',

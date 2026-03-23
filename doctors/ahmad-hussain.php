@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '5+ Years',
     'regNo' => '',
     'image' => '../assets/doctor-latest/ahmad hussain.webp',
-    'description' => "Dr. Ahmad Hussain is a neurologist with over 5 years of experience in managing complex neurological conditions including stroke, epilepsy, dementias, movement disorders, and neuro-infectious diseases.",
+    'description' => "Dr. Ahmad Hussain is a skilled Neurologist at Raj Hospital, Ranchi, specializing in the diagnosis and treatment of neurological disorders. He provides expert care for stroke, epilepsy, headache disorders, and neuromuscular conditions.",
     'expertise' => [
         'Stroke (Ischemic & Haemorrhagic)',
         'Epilepsy',

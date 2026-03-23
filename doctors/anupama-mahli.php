@@ -1,6 +1,9 @@
 <?php
-$pageTitle = "Dr. Anupama Mahli - Obstetrics & Gynaecology | Raj Hospitals";
-$pageDescription = "Dr. Anupama Mahli has over 10 years of experience in obstetrics and gynaecology with expertise in laparoscopy, hysteroscopy, infertility treatment, and sonology.";
+$pageTitle = "Dr. Anupama Mahli - Obstetrics & Gynaecology in Ranchi | Raj Hospital";
+$pageDescription = "Dr. Anupama Mahli is an experienced Obstetrician & Gynaecologist at Raj Hospital, Ranchi, with over 10 years of expertise in women's healthcare. Book appointment now.";
+$pageKeywords = "Dr. Anupama Mahli, Gynaecologist in Ranchi, Best Obstetrician in Ranchi, Dr. Anupama Mahli Raj Hospital, women's health specialist Ranchi";
+$canonicalUrl = "https://www.rajhospitalranchi.com/doctors/anupama-mahli";
+$ogType = "profile";
 $base_url = "../";
 include($base_url . 'header.php');
 ?>

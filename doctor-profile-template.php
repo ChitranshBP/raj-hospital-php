@@ -7,8 +7,86 @@ if (!isset($doctor)) {
 if (!isset($base_url)) {
     $base_url = '../';
 }
+
+// === AUTO-GENERATE SEO META TAGS ===
+$doctorName = $doctor['name'];
+$specialty = $doctor['specialty'];
+$experience = $doctor['experience'];
+$qualifications = $doctor['qualifications'];
+
+// Page Title: "Dr [Name] - [Specialty] in Ranchi | Raj Hospital"
+if (!isset($pageTitle)) {
+    $pageTitle = $doctorName . ' - ' . $specialty . ' in Ranchi | Raj Hospital';
+}
+
+// Meta Description: compelling, 140-160 chars with CTA
+if (!isset($pageDescription)) {
+    $pageDescription = $doctorName . ' (' . $qualifications . ') is a ' . $specialty . ' specialist at Raj Hospital, Ranchi with ' . $experience . ' experience. Book appointment now.';
+    // Trim to 160 chars if needed
+    if (strlen($pageDescription) > 160) {
+        $pageDescription = $doctorName . ' - ' . $specialty . ' at Raj Hospital, Ranchi. ' . $experience . ' experience. Consult now!';
+    }
+}
+
+// Keywords
+if (!isset($pageKeywords)) {
+    $pageKeywords = $doctorName . ', ' . $specialty . ' in Ranchi, Best ' . $specialty . ' in Ranchi, ' . $doctorName . ' ' . $specialty . ', ' . $doctorName . ' Raj Hospital Ranchi, ' . $specialty . ' doctor Ranchi';
+}
+
+// OG Type
+$ogType = 'profile';
+
+// Canonical URL
+$slug = basename($_SERVER['SCRIPT_NAME'], '.php');
+$canonicalUrl = 'https://www.rajhospitalranchi.com/doctors/' . $slug;
+
 include($base_url . 'header.php');
 ?>
+
+<!-- JSON-LD Structured Data for Doctor -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "<?php echo htmlspecialchars($doctorName); ?>",
+    "description": "<?php echo htmlspecialchars($doctor['description']); ?>",
+    "medicalSpecialty": "<?php echo htmlspecialchars($specialty); ?>",
+    "qualifications": "<?php echo htmlspecialchars($qualifications); ?>",
+    <?php if (!empty($doctor['image'])): ?>
+    "image": "https://www.rajhospitalranchi.com/<?php echo htmlspecialchars(ltrim(str_replace('../', '', $doctor['image']), '/')); ?>",
+    <?php endif; ?>
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bariatu Road",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834009",
+            "addressCountry": "IN"
+        },
+        "telephone": "+919263630500",
+        "url": "https://www.rajhospitalranchi.com"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bariatu Road",
+        "addressLocality": "Ranchi",
+        "addressRegion": "Jharkhand",
+        "postalCode": "834009",
+        "addressCountry": "IN"
+    },
+    <?php if (!empty($doctor['contact']['phone'])): ?>
+    "telephone": "<?php echo htmlspecialchars($doctor['contact']['phone']); ?>",
+    <?php endif; ?>
+    "url": "<?php echo htmlspecialchars($canonicalUrl); ?>",
+    "memberOf": {
+        "@type": "MedicalOrganization",
+        "name": "Raj Hospital, Ranchi"
+    }
+}
+</script>
 
 <div id="profile-container">
     <section class="bg-gradient-to-br from-primary-50 to-secondary-50 mt-28 py-12 fade-in">
@@ -21,7 +99,7 @@ include($base_url . 'header.php');
                         <div
                             class="relative w-48 h-48 md:w-64 md:h-60 rounded-full overflow-hidden border-4 border-white shadow-xl flex-shrink-0">
                             <img src="<?php echo htmlspecialchars($doctor['image']); ?>"
-                                alt="<?php echo htmlspecialchars($doctor['name']); ?>"
+                                alt="<?php echo htmlspecialchars($doctor['name'] . ' - ' . $doctor['specialty'] . ' at Raj Hospital Ranchi'); ?>"
                                 class="w-full h-full object-cover object-top"
                                 onerror="this.src='https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=400&q=80'">
                         </div>

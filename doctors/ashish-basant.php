@@ -6,7 +6,15 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Ashish Basant | Raj Hospitals</title>
+    <title>Dr. Ashish Basant - Pediatrics and Neonatology in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Dr. Ashish Basant is a dedicated Pediatrician & Neonatologist at Raj Hospital Ranchi with 8 years experience in neonatal care and developmental pediatrics.">
+    <meta name="keywords" content="Dr. Ashish Basant, Pediatrics in Ranchi, Best Pediatrics in Ranchi, Dr. Ashish Basant Raj Hospital Ranchi, pediatrics doctor Ranchi">
+    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ashish-basant">
+    <meta property="og:title" content="Dr. Ashish Basant - Pediatrics and Neonatology in Ranchi | Raj Hospital">
+    <meta property="og:description" content="Dr. Ashish Basant is a dedicated Pediatrician & Neonatologist at Raj Hospital Ranchi with 8 years experience in neonatal care and developmental pediatrics.">
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ashish-basant">
+    <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -131,7 +139,7 @@
             specialty: 'Pediatrics and Neonatology',
             experience: '8 Years',
             image: '../assets/new-doctors-side/ashish basant.webp',
-            description: 'Dr. Ashish Basant is an experienced Pediatrician with a background in childhood and developmental pediatrics, childhood nutrition, and neurodevelopmental pediatrics.',
+            description: 'Dr. Ashish Basant is a dedicated Pediatrician and Neonatologist at Raj Hospital, Ranchi, with 8 years of experience in child and newborn care. He specializes in neonatal intensive care, childhood infections, and developmental pediatrics.',
             expertise: [
                 'Childhood and Developmental Pediatrics',
                 'Childhood Nutrition',

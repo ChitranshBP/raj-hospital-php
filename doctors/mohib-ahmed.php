@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '16+ Years',
     'regNo' => '',
     'image' => '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Mohib-Ahmed.webp',
-    'description' => "Dr. Mohib Ahmed is an experienced Critical Care specialist with over 16 years of expertise in managing acute and complex conditions. He is proficient in Neuro Critical Care, Airway Management, and Ultrasound in ICU (POCUS), dedicated to providing evidence-based and compassionate care.",
+    'description' => "Dr. Mohib Ahmed is a skilled Critical Care specialist at Raj Hospital, Ranchi, with over 16 years of experience in intensive care and emergency medicine. He provides expert management of critically ill patients, sepsis, and multi-organ support in the ICU.",
     'expertise' => [
         'Critical Care',
         'Neuro Critical Care',

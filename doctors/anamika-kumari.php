@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '11+ Years',
     'regNo' => '',
     'image' => '../assets/Doc-Side/Dr Anamika Onco photo.webp',
-    'description' => "Dr. Anamika Kumari is a dedicated Oncologist with expertise in radiation therapy for Head & Neck and Breast cancers.",
+    'description' => "Dr. Anamika Kumari is a dedicated Radiation Oncologist at Raj Hospital, Ranchi, with over 11 years of experience in cancer treatment and radiotherapy. She specializes in precision radiation therapy for various cancers, offering comprehensive oncological care.",
     'expertise' => [
         'Head & Neck Oncology',
         'Breast Oncology',

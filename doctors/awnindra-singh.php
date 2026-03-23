@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '16+ Years',
     'regNo' => '',
     'image' => '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/-Dr. Awnindra-Kumar-Singh-Cardiologist.webp',
-    'description' => "Dr. Awnindra Kumar Singh is an experienced Interventional Cardiologist with over 16 years of expertise in advanced cardiac procedures.",
+    'description' => "Dr. Awnindra Singh is an experienced Interventional Cardiologist at Raj Hospital, Ranchi, with over 16 years of expertise in complex cardiac procedures. He specializes in coronary angioplasty, cardiac catheterization, and advanced heart disease management.",
     'expertise' => [
         'Interventional Cardiology',
         'Angioplasty & Stenting',
