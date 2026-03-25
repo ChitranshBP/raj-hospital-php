@@ -51,6 +51,9 @@
             }
         }
     </script>
+        <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/doctor-profile" />
 </head>
 <body class="bg-gray-50">
 

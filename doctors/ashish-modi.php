@@ -11,15 +11,12 @@ $page_title = 'Dr. Ashish Kumar Modi – Minimal Access Surgery in Ranchi';
     <title><?php echo $page_title; ?></title>
     <meta name="description" content="Dr. Ashish Kumar Modi is an expert Minimal Access Surgeon at Raj Hospital Ranchi with 12+ years experience in laparoscopic surgery and diagnostic endoscopy.">
     <meta name="keywords" content="Dr. Ashish Kumar Modi, Minimal Access Surgery in Ranchi, Best Minimal Access Surgery in Ranchi, Dr. Ashish Kumar Modi Raj Hospital Ranchi, laparoscopic surgeon Ranchi">
-    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ashish-modi">
     <meta property="og:title" content="Dr. Ashish Kumar Modi – Minimal Access Surgery in Ranchi">
     <meta property="og:description" content="Dr. Ashish Kumar Modi is an expert Minimal Access Surgeon at Raj Hospital Ranchi with 12+ years experience in laparoscopic surgery and diagnostic endoscopy.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ashish-modi">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="Raj Hospital, Ranchi">
-    <meta name="publisher" content="Raj Hospital, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -65,6 +62,9 @@ $page_title = 'Dr. Ashish Kumar Modi – Minimal Access Surgery in Ranchi';
             }
         }
     </script>
+        <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/doctors/ashish-modi" />
 </head>
 <body class="bg-gray-50">
 <script type="application/ld+json">

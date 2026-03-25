@@ -33,6 +33,9 @@
             }
         }
     </style>
+        <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/thankyou" />
 </head>
 
 <body class="bg-gray-50 flex flex-col min-h-screen">

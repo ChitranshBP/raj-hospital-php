@@ -159,6 +159,9 @@ Liver Specialist in Ranchi
             transform: translateY(0);
         }
     </style>
+        <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/specialties/gastroenterology" />
 </head>
 
 <body class="bg-white">

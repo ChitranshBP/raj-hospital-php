@@ -8,15 +8,12 @@
     <title>Dr. Deepak Verma – Orthopaedics & Joint Replacement in Ranchi</title>
     <meta name="description" content="Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital Ranchi with 25+ years experience in joint replacement, trauma surgery & fracture management.">
     <meta name="keywords" content="Dr. Deepak Verma, Orthopaedics in Ranchi, Best Orthopaedics in Ranchi, Dr. Deepak Verma Raj Hospital Ranchi, orthopaedics doctor Ranchi">
-    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/deepak-verma">
     <meta property="og:title" content="Dr. Deepak Verma – Orthopaedics & Joint Replacement in Ranchi">
     <meta property="og:description" content="Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital Ranchi with 25+ years experience in joint replacement, trauma surgery & fracture management.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/deepak-verma">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="Raj Hospital, Ranchi">
-    <meta name="publisher" content="Raj Hospital, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -62,6 +59,9 @@
             }
         }
     </script>
+        <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/doctors/deepak-verma" />
 </head>
 <body class="bg-gray-50">
 <script type="application/ld+json">

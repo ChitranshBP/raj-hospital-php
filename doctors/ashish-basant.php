@@ -9,15 +9,12 @@
     <title>Dr. Ashish Basant – Pediatrics and Neonatology in Ranchi</title>
     <meta name="description" content="Dr. Ashish Basant is a dedicated Pediatrician & Neonatologist at Raj Hospital Ranchi with 8 years experience in neonatal care and developmental pediatrics.">
     <meta name="keywords" content="Dr. Ashish Basant, Pediatrics in Ranchi, Best Pediatrics in Ranchi, Dr. Ashish Basant Raj Hospital Ranchi, pediatrics doctor Ranchi">
-    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ashish-basant">
     <meta property="og:title" content="Dr. Ashish Basant – Pediatrics and Neonatology in Ranchi">
     <meta property="og:description" content="Dr. Ashish Basant is a dedicated Pediatrician & Neonatologist at Raj Hospital Ranchi with 8 years experience in neonatal care and developmental pediatrics.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ashish-basant">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="Raj Hospital, Ranchi">
-    <meta name="publisher" content="Raj Hospital, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -71,6 +68,9 @@
             }
         }
     </script>
+        <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/doctors/ashish-basant" />
 </head>
 
 <body class="bg-gray-50">

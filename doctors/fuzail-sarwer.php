@@ -11,15 +11,12 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
     <title><?php echo $page_title; ?></title>
     <meta name="description" content="Dr. Fuzail Sarwer is a Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 8+ years experience in ICU management. Book appointment now.">
     <meta name="keywords" content="Dr. Fuzail Sarwer, Critical Care in Ranchi, Best Critical Care in Ranchi, Dr. Fuzail Sarwer Raj Hospital Ranchi, critical care doctor Ranchi">
-    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/fuzail-sarwer">
     <meta property="og:title" content="Dr. Fuzail Sarwer – Critical Care in Ranchi">
     <meta property="og:description" content="Dr. Fuzail Sarwer is a Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 8+ years experience in ICU management. Book appointment now.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/fuzail-sarwer">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="Raj Hospital, Ranchi">
-    <meta name="publisher" content="Raj Hospital, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -65,6 +62,9 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
             }
         }
     </script>
+        <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/doctors/fuzail-sarwer" />
 </head>
 <body class="bg-gray-50">
 <script type="application/ld+json">

@@ -9,15 +9,12 @@
     <title>Dr. Ved Prakash Verma – Urology in Ranchi</title>
     <meta name="description" content="Dr. Ved Prakash Verma is a senior Urologist at Raj Hospital, Ranchi with 18+ years in advanced urological surgery & kidney stone management. Book now.">
     <meta name="keywords" content="Dr. Ved Prakash Verma, Urology in Ranchi, Best Urologist in Ranchi, Dr. Ved Prakash Verma Raj Hospital Ranchi, urology doctor Ranchi">
-    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ved-prakash">
     <meta property="og:title" content="Dr. Ved Prakash Verma – Urology in Ranchi">
     <meta property="og:description" content="Dr. Ved Prakash Verma is a senior Urologist at Raj Hospital, Ranchi with 18+ years in advanced urological surgery & kidney stone management. Book now.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ved-prakash">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="Raj Hospital, Ranchi">
-    <meta name="publisher" content="Raj Hospital, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -71,6 +68,9 @@
             }
         }
     </script>
+        <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/doctors/ved-prakash" />
 </head>
 
 <body class="bg-gray-50">

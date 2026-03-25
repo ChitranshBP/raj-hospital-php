@@ -9,15 +9,12 @@
     <title>Dr. Ujjwal Sinha – Orthopaedics & Joint Replacement in Ranchi</title>
     <meta name="description" content="Dr. Ujjwal Sinha is an Orthopedic Surgeon at Raj Hospital, Ranchi with 15+ years in joint replacement & sports medicine. Book an appointment today.">
     <meta name="keywords" content="Dr. Ujjwal Sinha, Orthopaedics in Ranchi, Best Orthopaedic Surgeon in Ranchi, Dr. Ujjwal Sinha Raj Hospital Ranchi, joint replacement doctor Ranchi">
-    <link rel="canonical" href="https://www.rajhospitalranchi.com/doctors/ujjwal-sinha">
     <meta property="og:title" content="Dr. Ujjwal Sinha – Orthopaedics & Joint Replacement in Ranchi">
     <meta property="og:description" content="Dr. Ujjwal Sinha is an Orthopedic Surgeon at Raj Hospital, Ranchi with 15+ years in joint replacement & sports medicine. Book an appointment today.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ujjwal-sinha">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="Raj Hospital, Ranchi">
-    <meta name="publisher" content="Raj Hospital, Ranchi">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -71,6 +68,9 @@
             }
         }
     </script>
+        <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/doctors/ujjwal-sinha" />
 </head>
 
 <body class="bg-gray-50">

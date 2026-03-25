@@ -17,8 +17,6 @@
 
     <!-- ================= CANONICAL ================= -->
 
-    <link rel="canonical" href="https://rajhospitals.com/" />
-
     <!-- ================= GEO TAGS ================= -->
 
     <meta name="geo.region" content="IN-JH" />
@@ -134,6 +132,9 @@ Best Hospital in Jharkhand
             color: #F9771B;
         }
     </style>
+        <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/" />
 </head>
 
 <body class="bg-white">
