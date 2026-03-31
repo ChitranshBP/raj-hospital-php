@@ -432,34 +432,6 @@ Cardiac Care Hospital in Jharkhand
                             </div>
                         </div>
 
-                        <!-- Doctor 3 -->
-                        <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
-                            style="min-height: 500px;">
-                            <div class="relative overflow-hidden h-48 sm:h-56 shrink-0">
-                                <img src="../assets/Doc-Side/Dr Anup Kumar Jha_.webp" alt="Dr. Anup Kumar Jha"
-                                    class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300">
-                            </div>
-                            <div class="p-6">
-                                <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Anup Kumar Jha</h3>
-                                <p class="text-primary-600 font-medium mb-2">MBBS, Cardio-Physician (NI), IGNOU</p>
-                                <p class="text-secondary-600 text-sm mb-3">Non-Invasive Cardiology</p>
-                                <div class="flex items-center text-sm text-gray-500 mb-4">
-                                    <i data-feather="award" class="w-4 h-4 mr-2"></i>
-                                    <span>30+ Years Experience</span>
-                                </div>
-                                <a href="../contact.php"
-                                    class="w-full bg-primary-500 text-white py-3 rounded-lg hover:bg-primary-600 transition-colors font-medium flex items-center justify-center space-x-2 mb-2">
-                                    <i data-feather="calendar" class="w-4 h-4"></i>
-                                    <span>Book Appointment</span>
-                                </a>
-                                <a href="../doctors/anup-kumar-jha.php"
-                                    class="w-full bg-white text-primary-600 py-2 rounded-lg border border-primary-600 hover:bg-primary-50 transition-colors font-medium flex items-center justify-center space-x-2">
-                                    <i data-feather="user" class="w-4 h-4"></i>
-                                    <span>View Profile</span>
-                                </a>
-                            </div>
-                        </div>
-
                     </div>
                 </div>
             </div>

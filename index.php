@@ -1592,14 +1592,12 @@ Best Hospital in Jharkhand
             const searchForm = searchInput ? searchInput.closest('form') : null;
 
             const doctors = [
-                // Cardiology (3 doctors)
+                // Cardiology (2 doctors)
                 { id: 'rajesh-jha', name: 'Dr. Rajesh Kr. Jha', qualifications: 'MBBS, MD, DM (Cardiology)', specialty: 'Cardiology', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Cardiologist - Dr. Rajesh-Kumar Jha.webp', profileUrl: 'doctors/rajesh-jha.php' },
                 { id: 'awnindra-singh', name: 'Dr. Awnindra Kumar Singh', qualifications: 'MBBS, MD, DM', specialty: 'Cardiology', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/-Dr. Awnindra-Kumar-Singh-Cardiologist.webp', profileUrl: 'doctors/awnindra-singh.php' },
-                { id: 'anup-kumar-jha', name: 'Dr. Anup Kumar Jha', qualifications: 'MBBS, Cardio-Physician (NI), IGNOU', specialty: 'Cardiology', experience: '30+ Years', image: 'assets/Doc-Side/Dr Anup Kumar Jha_.webp', profileUrl: 'doctors/anup-kumar-jha.php' },
 
-                // Critical Care (4 doctors)
+                // Critical Care (3 doctors)
                 { id: 'saurabh-kumar', name: 'Dr. Saurabh Kumar', qualifications: 'MBBS, MD', specialty: 'Critical Care', experience: '26+ Years', image: 'assets/new-doctors-side/Dr. Saurabh Kumar.webp', profileUrl: 'doctors/saurabh-kumar.php' },
-                { id: 'mohib-ahmed', name: 'Dr. Mohib Ahmed', qualifications: 'MBBS, MD, IDCCM', specialty: 'Critical Care', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Mohib-Ahmed.webp', profileUrl: 'doctors/mohib-ahmed.php' },
                 { id: 'rahul-roy', name: 'Dr. Rahul Roy', qualifications: 'MBBS, DA, IDCCM', specialty: 'Critical Care', experience: '20+ Years', image: 'assets/Doc-Side/Dr Rahul Roy(CCT).webp', profileUrl: 'doctors/rahul-roy.php' },
                 { id: 'fuzail-sarwer', name: 'Dr. Fuzail Sarwer', qualifications: 'MBBS, MD, PDCC', specialty: 'Critical Care', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp', profileUrl: 'doctors/fuzail-sarwer.php' },
 
@@ -1612,11 +1610,10 @@ Best Hospital in Jharkhand
                 // Minimal Access Surgery (1 doctor)
                 { id: 'ashish-modi', name: 'Dr. Ashish Kumar Modi', qualifications: 'MBBS, MS', specialty: 'Minimal Access Surgery', experience: '12+ Years', image: 'assets/new-doctors-side/Dr. Ashish Kumar Modi-new.png', profileUrl: 'doctors/ashish-modi.php' },
 
-                // Internal Medicine (4 doctors)
+                // Internal Medicine (3 doctors)
                 { id: 'ak-agarwal', name: 'Dr. A K Agarwal', qualifications: 'MBBS, MD', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Agrawal.webp', profileUrl: 'doctors/ak-agarwal.php' },
                 { id: 'ak-sinha', name: 'Dr. A K Sinha', qualifications: 'MBBS, MD', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Sinha.webp', profileUrl: 'doctors/ak-sinha.php' },
                 { id: 'neelam-kumari', name: 'Dr. Neelam Kumari', qualifications: 'MBBS, MD, DNB', specialty: 'Internal Medicine', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp', profileUrl: 'doctors/neelam-kumari.php' },
-                { id: 'sony', name: 'Dr. Sony', qualifications: 'MBBS, DNB, PDCC', specialty: 'Internal Medicine', experience: '4+ Years', image: 'assets/Doc-Side/Dr Sony (Interventional Pain Medicine).webp', profileUrl: 'doctors/sony.php' },
 
                 // Nephrology (1 doctor)
                 { id: 'avinash-dubey', name: 'Dr. Avinash Kumar Dubey', qualifications: 'MD, DM', specialty: 'Nephrology', experience: '15+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Nephrologist - Dr. Avinas- Kumar-Dubey.webp', profileUrl: 'doctors/avinash-dubey.php' },
@@ -1656,8 +1653,7 @@ Best Hospital in Jharkhand
                 { id: 'suraj-mani-bhattacharjee', name: 'Dr. Suraj Mani Bhattacharjee', qualifications: 'BDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp', profileUrl: 'doctors/suraj-mani-bhattacharjee.php' },
                 { id: 'abhishek-bhattacharjee', name: 'Dr. Abhishek Bhattacharjee', qualifications: 'MBBS, MDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Maxillofacial Surgeon - Dr. Abhishek-Bhattacharjee.webp', profileUrl: 'doctors/abhishek-bhattacharjee.php' },
 
-                // Dermatology (2 doctors)
-                { id: 'piyali-banerjee', name: 'Dr. Piyali Banerjee', qualifications: 'MBBS, DVDL', specialty: 'Dermatology', experience: '12+ Years', image: 'assets/Doc-Side/Dr Piyali Banerjee(Derma).webp', profileUrl: 'doctors/piyali-banerjee.php' },
+                // Dermatology (1 doctor)
 
 
                 // Eye Care (1 doctor)
@@ -1687,7 +1683,7 @@ Best Hospital in Jharkhand
                 { id: 'mozammil-pheroz', name: 'Dr. Mozammil Pheroz', qualifications: 'MBBS, MS, DNB (Ortho), Dip. Sports Medicine', specialty: 'Orthopaedics & Joint Replacement', experience: '11+ Years', image: 'assets/Doc-Side/dr-pheroz-raj-removebg-preview.png', profileUrl: 'doctors/mozammil-pheroz.php' },
                 { id: 'parijat-sarkar', name: 'Mr. Parijat Sarkar', qualifications: 'M.Sc (Sports Nutrition), B.Sc (Dietetics)', specialty: 'Dietetics & Nutrition', experience: '6+ Years', image: 'assets/new-doctors-side/parijat sarkar.webp', profileUrl: 'doctors/parijat-sarkar.php' },
                 { id: 'pradeep-prasad', name: 'Dr. Pradeep Prasad', qualifications: 'MBBS, MD (Biochemistry)', specialty: 'FNAC, Biopsy, Blood & Laboratory Investigations', experience: '10+ Years', image: 'assets/new-doctors-side/pradeep prasad.webp', profileUrl: 'doctors/pradeep-prasad.php' },
-                { id: 'ravi-shekhar-singh', name: 'Dr. Ravi Shekhar Singh', qualifications: 'MBBS, DCH', specialty: 'Pediatrics & Neonatology', experience: '10+ Years', image: 'assets/specialties/PAEDIATRICS/dr-ravi-shekhar-singh.webp', profileUrl: 'doctors/ravi-shekhar-singh.php' },
+                { id: 'ravi-shekhar-singh', name: 'Dr. Ravi Shekhar Singh', qualifications: 'MBBS, DCH', specialty: 'Pediatrics & Neonatology', experience: '10+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', profileUrl: 'doctors/ravi-shekhar-singh.php' },
                 { id: 'ashish-basant', name: 'Dr. Ashish Basant', qualifications: 'MBBS, MD', specialty: 'Pediatrics & Neonatology', experience: '8+ Years', image: 'assets/new-doctors-side/ashish basant.webp', profileUrl: 'doctors/ashish-basant.php' },
 
 
