@@ -1674,7 +1674,7 @@ Best Hospital in Jharkhand
                 { id: 'abhay-pandey', name: 'Dr. Abhay Kumar Pandey', qualifications: 'BPT, MPT, PGDYT', specialty: 'Physiotherapy & Rehabilitation', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Physiotherapist - Dr. Abhay-Kumar-Pandey.webp', profileUrl: 'doctors/abhay-pandey.php' },
 
                 // Aesthetic & Reconstructive Surgery (1 doctor)
-                { id: 'pankaj-kumar', name: 'Dr. Pankaj Kumar', qualifications: 'MBBS, MS, MCh', specialty: 'Aesthetic & Reconstructive Surgery', experience: '12+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', profileUrl: 'doctors/pankaj-kumar.php' },
+                { id: 'pankaj-kumar', name: 'Dr. Pankaj Kumar', qualifications: 'MBBS, MS, MCh', specialty: 'Aesthetic & Reconstructive Surgery', experience: '12+ Years', image: 'assets/doctor-latest/pankaj-kumar-raj.webp', profileUrl: 'doctors/pankaj-kumar.php' },
 
                 // Additional doctors from doctors/*.php
 
