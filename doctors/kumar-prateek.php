@@ -1,13 +1,13 @@
 <?php
 $base_url = '../';
 $doctor = [
-    'name' => 'Dr. Prateek Kumar',
+    'name' => 'Dr. Kumar Prateek',
     'qualifications' => 'MBBS, MD - Dermatology',
     'specialty' => 'Dermatologist, Trichologist & Cosmetologist',
     'experience' => '',
     'regNo' => '',
     'image' => '../assets/doctor-latest/kumar-pathik.webp',
-    'description' => "Dr. Prateek Kumar is a consultant dermatologist, trichologist, and cosmetologist at Raj Hospitals, Ranchi. He specializes in advanced skin, hair, and aesthetic treatments using modern technologies and procedures.",
+    'description' => "Dr. Kumar Prateek is a consultant dermatologist, trichologist, and cosmetologist at Raj Hospitals, Ranchi. He specializes in advanced skin, hair, and aesthetic treatments using modern technologies and procedures.",
     'expertise' => [
         'Laser Scar Removal',
         'Laser Hair Removal',

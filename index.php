@@ -1654,7 +1654,7 @@ Best Hospital in Jharkhand
                 { id: 'abhishek-bhattacharjee', name: 'Dr. Abhishek Bhattacharjee', qualifications: 'MBBS, MDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Maxillofacial Surgeon - Dr. Abhishek-Bhattacharjee.webp', profileUrl: 'doctors/abhishek-bhattacharjee.php' },
 
                 // Dermatology (1 doctor)
-                { id: 'prateek-kumar', name: 'Dr. Prateek Kumar', qualifications: 'MBBS, MD - Dermatology', specialty: 'Dermatology', experience: '', image: 'assets/doctor-latest/kumar-pathik.webp', profileUrl: 'doctors/prateek-kumar.php' },
+                { id: 'kumar-prateek', name: 'Dr. Kumar Prateek', qualifications: 'MBBS, MD - Dermatology', specialty: 'Dermatology', experience: '', image: 'assets/doctor-latest/kumar-pathik.webp', profileUrl: 'doctors/kumar-prateek.php' },
 
                 // Eye Care (1 doctor)
                 { id: 'abid-akhtar', name: 'Dr. Abid Akhtar', qualifications: 'MBBS, MS', specialty: 'Eye Care', experience: '20+ Years', image: 'assets/Doc-Side/Dr. Abid Akhtar (Opthal).webp', profileUrl: 'doctors/abid-akhtar.php' },
