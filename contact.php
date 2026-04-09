@@ -7,6 +7,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us | Raj Hospitals</title>
+    <meta name="description" content="Contact Raj Hospital Ranchi for appointments, enquiries, and emergency services. Call +91-9771488888 or visit us at Mahatma Gandhi Main Road, Ranchi, Jharkhand." />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/contact" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Contact Us | Raj Hospitals" />
+    <meta property="og:description" content="Contact Raj Hospital Ranchi for appointments, enquiries, and emergency services. Call +91-9771488888 or visit us at Mahatma Gandhi Main Road, Ranchi." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rajhospitals.com/contact" />
+    <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
+    <meta property="og:site_name" content="Raj Hospitals" />
+
+    <!-- ContactPage Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ContactPage",
+      "name": "Contact Raj Hospital",
+      "url": "https://rajhospitals.com/contact",
+      "description": "Contact Raj Hospital Ranchi for appointments, enquiries, and emergency services.",
+      "mainEntity": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "url": "https://rajhospitals.com/",
+        "telephone": "+91-9771488888",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Mahatma Gandhi Main Road",
+          "addressLocality": "Ranchi",
+          "addressRegion": "Jharkhand",
+          "postalCode": "834001",
+          "addressCountry": "IN"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "23.3441",
+          "longitude": "85.3096"
+        },
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      }
+    }
+    </script>
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>

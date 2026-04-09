@@ -7,6 +7,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy | Raj Hospitals</title>
+    <meta name="description" content="Read the privacy policy of Raj Hospital Ranchi. Learn how we collect, use, and protect your personal and health information." />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/privacy-policy" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>

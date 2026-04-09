@@ -6,7 +6,9 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us | Raj Hospitals</title>
+    <title>Careers | Raj Hospitals</title>
+    <meta name="description" content="Explore career opportunities at Raj Hospital Ranchi. Join our team of 100+ healthcare professionals. Apply for doctor, nursing, and medical staff positions in Jharkhand." />
+    <meta name="robots" content="index, follow" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -18,6 +20,14 @@
         <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/careers" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Careers | Raj Hospitals" />
+    <meta property="og:description" content="Explore career opportunities at Raj Hospital Ranchi. Join our team of 100+ healthcare professionals in Jharkhand." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rajhospitals.com/careers" />
+    <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
+    <meta property="og:site_name" content="Raj Hospitals" />
 </head>
 <body class="bg-white">
 

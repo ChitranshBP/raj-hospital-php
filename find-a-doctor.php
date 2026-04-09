@@ -8,6 +8,41 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Find a Doctor | Raj Hospitals</title>
+    <meta name="description" content="Find the best doctors at Raj Hospital Ranchi. Browse our team of 100+ specialist doctors across cardiology, neurology, orthopaedics, and 25+ specialties. Book an appointment today." />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/find-a-doctor" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Find a Doctor | Raj Hospitals" />
+    <meta property="og:description" content="Find the best doctors at Raj Hospital Ranchi. Browse 100+ specialist doctors across 25+ specialties. Book an appointment today." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rajhospitals.com/find-a-doctor" />
+    <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
+    <meta property="og:site_name" content="Raj Hospitals" />
+
+    <!-- CollectionPage Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Find a Doctor at Raj Hospital",
+      "url": "https://rajhospitals.com/find-a-doctor",
+      "description": "Browse 100+ specialist doctors across 25+ specialties at Raj Hospital Ranchi.",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Raj Hospitals",
+        "url": "https://rajhospitals.com/"
+      },
+      "provider": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "url": "https://rajhospitals.com/"
+      }
+    }
+    </script>
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>

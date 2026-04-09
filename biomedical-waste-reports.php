@@ -7,6 +7,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biomedical Waste Reports | Raj Hospitals</title>
+    <meta name="description" content="View biomedical waste management reports of Raj Hospital Ranchi. Transparency in healthcare waste disposal as per CPCB and Jharkhand pollution control guidelines." />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/biomedical-waste-reports" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Biomedical Waste Reports | Raj Hospitals" />
+    <meta property="og:description" content="Biomedical waste management reports of Raj Hospital Ranchi." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rajhospitals.com/biomedical-waste-reports" />
+    <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
+    <meta property="og:site_name" content="Raj Hospitals" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>

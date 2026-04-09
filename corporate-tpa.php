@@ -7,6 +7,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Corporate & TPA Services | Raj Hospitals</title>
+    <meta name="description" content="Raj Hospital Ranchi offers corporate health checkups and TPA tie-ups with major insurance companies. Cashless treatment available for employees and families." />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="Raj Hospital" />
+    <meta name="publisher" content="Raj Hospital" />
+    <link rel="canonical" href="https://rajhospitals.com/corporate-tpa" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Corporate & TPA Services | Raj Hospitals" />
+    <meta property="og:description" content="Corporate health checkups and TPA tie-ups with major insurance companies. Cashless treatment at Raj Hospital Ranchi." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rajhospitals.com/corporate-tpa" />
+    <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
+    <meta property="og:site_name" content="Raj Hospitals" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>

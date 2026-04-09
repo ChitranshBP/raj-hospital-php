@@ -1,0 +1,68 @@
+# Raj Hospital
+
+> Raj Hospital is a leading multispeciality hospital in Ranchi, Jharkhand, offering advanced medical care, experienced doctors, emergency services, and modern facilities.
+
+## About
+
+Raj Hospital provides comprehensive healthcare services across major medical specialties in Ranchi. The hospital is equipped with modern infrastructure, experienced medical professionals, and 24/7 emergency care.
+
+- Location: Ranchi, Jharkhand, India
+- Website: https://rajhospitals.com
+
+## Main Pages
+
+- [Home](https://rajhospitals.com/)
+- [About Us](https://rajhospitals.com/about)
+- [Find a Doctor](https://rajhospitals.com/find-a-doctor)
+- [Contact](https://rajhospitals.com/contact)
+- [Careers](https://rajhospitals.com/careers)
+- [Testimonials](https://rajhospitals.com/testimonials)
+- [News & Media](https://rajhospitals.com/news-media)
+- [Corporate & TPA](https://rajhospitals.com/corporate-tpa)
+- [Biomedical Waste Reports](https://rajhospitals.com/biomedical-waste-reports)
+
+## Specialties
+
+- [Neurosciences](https://rajhospitals.com/specialties/neurosciences)
+- [Cardiology](https://rajhospitals.com/specialties/cardiology)
+- [Orthopaedics & Joint Replacement](https://rajhospitals.com/specialties/orthopaedics-and-joint-replacement)
+- [Oncology & Cancer Care](https://rajhospitals.com/specialties/oncology-cancer-care)
+- [Gastroenterology](https://rajhospitals.com/specialties/gastroenterology)
+- [Urology](https://rajhospitals.com/specialties/urology)
+- [Nephrology](https://rajhospitals.com/specialties/nephrology)
+- [Pulmonology](https://rajhospitals.com/specialties/pulmonology)
+- [Pediatrics & Neonatology](https://rajhospitals.com/specialties/pediatrics-and-neonatology)
+- [Obstetrics & Gynaecology](https://rajhospitals.com/specialties/obstetrics-and-gynaecology)
+- [Critical Care](https://rajhospitals.com/specialties/critical-care)
+- [Emergency](https://rajhospitals.com/specialties/emergency)
+- [Internal Medicine](https://rajhospitals.com/specialties/internal-medicine)
+- [Dermatology](https://rajhospitals.com/specialties/dermatology)
+- [Psychiatry & Mental Health](https://rajhospitals.com/specialties/psychiatry-and-mental-health)
+- [ENT](https://rajhospitals.com/specialties/ent)
+- [Eye Care](https://rajhospitals.com/specialties/eye-care)
+- [Dental](https://rajhospitals.com/specialties/dental)
+- [Radiology](https://rajhospitals.com/specialties/radiology)
+- [Physiotherapy & Rehabilitation](https://rajhospitals.com/specialties/physiotherapy-and-rehabilitation)
+- [Nutrition & Dietetics](https://rajhospitals.com/specialties/nutrition-and-dietetics)
+- [Aesthetic & Reconstructive Surgery](https://rajhospitals.com/specialties/aesthetic-and-reconstructive-surgery)
+- [Minimal Access Surgery](https://rajhospitals.com/specialties/minimal-access-surgery)
+- [Oral & Maxillofacial Surgery](https://rajhospitals.com/specialties/oral-maxillofacial-surgery-ad)
+- [Laboratory Investigations](https://rajhospitals.com/specialties/laboratory-investigations)
+
+## Neurology Condition Pages
+
+- [Alzheimer's & Dementia Treatment in Ranchi](https://rajhospitals.com/alzheimers-and-dementia-treatment-in-ranchi)
+- [Back Pain & Sciatica Treatment in Ranchi](https://rajhospitals.com/back-pain-and-sciatica-treatment-in-ranchi)
+- [Brain Tumor Treatment in Ranchi](https://rajhospitals.com/brain-tumor-treatment-in-ranchi)
+- [Epilepsy & Seizures Treatment in Ranchi](https://rajhospitals.com/epilepsy-and-seizures-treatment-in-ranchi)
+- [Head Injury Treatment in Ranchi](https://rajhospitals.com/head-injury-treatment-in-ranchi)
+- [Migraine & Headaches Treatment in Ranchi](https://rajhospitals.com/migraine-and-headaches-treatment-in-ranchi)
+- [Motor Neuron Disease Treatment in Ranchi](https://rajhospitals.com/motor-neuron-disease-treatment-in-ranchi)
+- [Movement Disorders Treatment in Ranchi](https://rajhospitals.com/movement-disorders-treatment-in-ranchi)
+- [Multiple Sclerosis Treatment in Ranchi](https://rajhospitals.com/multiple-sclerosis-treatment-in-ranchi)
+- [Myasthenia Gravis Treatment in Ranchi](https://rajhospitals.com/myasthenia-gravis-treatment-in-ranchi)
+- [Neuropathy Treatment in Ranchi](https://rajhospitals.com/neuropathy-treatment-in-ranchi)
+- [Parkinson's Disease Treatment in Ranchi](https://rajhospitals.com/parkinsons-disease-treatment-in-ranchi)
+- [Spinal Cord Injury Treatment in Ranchi](https://rajhospitals.com/spinal-cord-injury-treatment-in-ranchi)
+- [Spinal Cord Tumor Treatment in Ranchi](https://rajhospitals.com/spinal-cord-tumor-treatment-in-ranchi)
+- [Stroke & TIA Treatment in Ranchi](https://rajhospitals.com/stroke-and-tia-treatment-in-ranchi)

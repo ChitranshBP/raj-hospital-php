@@ -7,6 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us | Raj Hospitals</title>
+    <meta name="description" content="Learn about Raj Hospital Ranchi — a NABH-accredited multispeciality hospital with 100+ experienced doctors, advanced infrastructure, and 24/7 emergency care in Jharkhand." />
+    <meta name="robots" content="index, follow" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -18,6 +20,44 @@
         <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/about" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="About Us | Raj Hospitals" />
+    <meta property="og:description" content="Learn about Raj Hospital Ranchi — a NABH-accredited multispeciality hospital with 100+ experienced doctors, advanced infrastructure, and 24/7 emergency care in Jharkhand." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rajhospitals.com/about" />
+    <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
+    <meta property="og:site_name" content="Raj Hospitals" />
+
+    <!-- AboutPage Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      "name": "About Raj Hospital",
+      "url": "https://rajhospitals.com/about",
+      "description": "Learn about Raj Hospital Ranchi — a NABH-accredited multispeciality hospital with 100+ experienced doctors, advanced infrastructure, and 24/7 emergency care in Jharkhand.",
+      "mainEntity": {
+        "@type": "Hospital",
+        "name": "Raj Hospital",
+        "url": "https://rajhospitals.com/",
+        "telephone": "+91-9771488888",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Mahatma Gandhi Main Road",
+          "addressLocality": "Ranchi",
+          "addressRegion": "Jharkhand",
+          "postalCode": "834001",
+          "addressCountry": "IN"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "23.3441",
+          "longitude": "85.3096"
+        }
+      }
+    }
+    </script>
 </head>
 <body class="bg-white">
 

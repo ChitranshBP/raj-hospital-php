@@ -17,6 +17,15 @@
     <meta name="robots" content="index, follow" />
 
     <!-- ================= CANONICAL ================= -->
+    <link rel="canonical" href="https://rajhospitals.com/" />
+
+    <!-- ================= OPEN GRAPH ================= -->
+    <meta property="og:title" content="Best Multispeciality Hospital in Ranchi | Raj Hospital Jharkhand" />
+    <meta property="og:description" content="Raj Hospital is a leading multispeciality hospital in Ranchi offering advanced medical care, experienced doctors, emergency services and modern facilities." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rajhospitals.com/" />
+    <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
+    <meta property="og:site_name" content="Raj Hospitals" />
 
     <!-- ================= GEO TAGS ================= -->
 
