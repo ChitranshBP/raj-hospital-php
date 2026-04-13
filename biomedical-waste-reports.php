@@ -132,6 +132,11 @@
     <script>
         // DATA
         const reports = {
+             2026: [
+              { month: 'January', year: '2026', status: 'completed', pdfUrl: 'assets/bmw/BMW-JAN-2026.pdf' },
+              { month: 'February', year: '2026', status: 'completed', pdfUrl: 'assets/bmw/BMW Report Feb 26.pdf' },
+              { month: 'March', year: '2026', status: 'completed', pdfUrl: 'assets/bmw/BMW report March 26.pdf' }
+            ],
              2025: [
               { month: 'January', year: '2025', status: 'completed', pdfUrl: 'assets/bmw/BMW-January-2025.pdf' },
               { month: 'February', year: '2025', status: 'completed', pdfUrl: 'assets/bmw/FEB-2025.pdf' },
