@@ -178,7 +178,7 @@
         const doctorData = {
             id: 'ravish-ranjan',
             name: 'Dr. Ravish Ranjan',
-            qualifications: 'MBBS, MD (Internal Medicine), DNB Super Specialty',
+            qualifications: 'MBBS, MD, DNB (Gastroenterology)',
             specialty: 'Gastroenterology',
             experience: '12 Years',
             image: '../assets/doctor-latest/Gastroenterologist - Dr. Ravish Ranjan.webp',

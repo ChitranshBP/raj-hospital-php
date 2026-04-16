@@ -380,7 +380,7 @@ Liver Specialist in Ranchi
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Ravish Ranjan</h3>
                                 <p class="text-primary-600 font-medium mb-2">MBBS, MD, DNB (Gastroenterology)</p>
-                                <p class="text-secondary-600 text-sm mb-3">Gastroenterology & Endoscopy</p>
+                                <p class="text-secondary-600 text-sm mb-3">Gastroenterology</p>
                                 <div class="flex items-center text-sm text-gray-500 mb-4">
                                     <i data-feather="award" class="w-4 h-4 mr-2"></i>
                                     <span>15+ Years Experience</span>
