@@ -2,33 +2,35 @@
 $base_url = '../';
 $doctor = [
     'name' => 'Mr. Parijat Sarkar',
-    'qualifications' => 'M.Sc (Sports Nutrition), B.Sc (Dietetics)',
+    'qualifications' => 'B.Sc, M.Sc (Clinical Dietetics), Sports Nutrition Specialist (ISSA), B.ED',
     'specialty' => 'Dietetics & Nutrition',
     'experience' => '6+ Years',
     'regNo' => '', // Optional
     'image' => '../assets/new-doctors-side/parijat sarkar.webp',
-    'description' => "Dr. Parijat Sarkar is a qualified Dietitian and Nutritionist at Raj Hospital, Ranchi, with over 6 years of experience in clinical nutrition. She specializes in sports nutrition, therapeutic diet planning, and nutritional management for chronic diseases.",
+    'description' => "Mr. Parijat Sarkar is a qualified Dietitian and Nutritionist at Raj Hospital, Ranchi, with over 6 years of experience in clinical nutrition. He specializes in sports nutrition, therapeutic diet planning, and nutritional management for chronic diseases.",
     'expertise' => [
+        'Preventive Healthcare Nutrition (from DM, HTN etc)',
+        'MNT of Lifestyle Disorder (Diabetics, Hypertension, PCOD, PCOS etc)',
+        'Body Recomposition (Fat loss, Muscle Gain)' ,
         'Clinical Dietetics & Nutrition',
         'Sports Dietetics',
-        'Preventive Healthcare Nutrition',
         'Metabolic Disorder Management',
-        'MNT of Lifestyle Disorder',
-        'Body Recomposition'
+       
+        
     ],
     'education' => [
         [
-            'degree' => 'M.Sc (Sports Nutrition Specialist)',
-            'institution' => '',
-            'year' => ''
-        ],
-        [
-            'degree' => 'B.Sc (Dietetics & Nutrition)',
+            'degree' => 'B. Sc. , M. Sc. (Dietetics & Nutrition)',
             'institution' => 'NSHM Knowledge Campus, Durgapur',
             'year' => ''
         ],
         [
-            'degree' => 'ISSA (Life Science)',
+            'degree' => 'ISSA (Sports Nutrition Specialist)',
+            'institution' => '',
+            'year' => ''
+        ],
+        [
+            'degree' => 'B.Ed',
             'institution' => '',
             'year' => ''
         ]
