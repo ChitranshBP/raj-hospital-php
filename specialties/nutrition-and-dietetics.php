@@ -284,7 +284,7 @@ Nutrition Care Hospital in Jharkhand
                         <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden border border-gray-100 w-full group"
                             style="min-height: 500px;">
                             <div class="relative overflow-hidden h-48 sm:h-56 shrink-0"><img
-                                    src="../assets/new-doctors-side/parijat sarkar.webp"
+                                    src="../assets/doctor-latest/prajit-sarkar.webp"
                                     alt="Mr. Parijat Sarkar" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-300"></div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Mr. Parijat Sarkar</h3>

@@ -162,7 +162,8 @@
             { id: 33, image: 'assets/press/IMG-20250222-WA0005.webp', title: 'आपातकालीन विभाग को एनएबीएच मान्यता' },
             { id: 34, image: 'assets/press/IMG-20250222-WA0006.webp', title: 'आपातकालीन विभाग को एनएबीएच मान्यता' },
             { id: 35, image: 'assets/press/IMG-20250222-WA0007.webp', title: 'आपातकालीन विभाग को एनएबीएच मान्यता' },
-            { id: 36, image: 'assets/press/raj-news.webp', title: 'राज हॉस्पिटल ने प्रभात खबर कर्मियों के लिए लगाया कैंप, 113 को मिला परामर्श' }
+            { id: 36, image: 'assets/press/raj-news.webp', title: 'राज हॉस्पिटल ने प्रभात खबर कर्मियों के लिए लगाया कैंप, 113 को मिला परामर्श' },
+            { id: 37, image: 'assets/press/raj-hospital-04-2025.webp', title: 'राज हॉस्पिटल्स का अंगदान जागरूकता शिविर' }
         ];
 
         // Navbar scroll effect

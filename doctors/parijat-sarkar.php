@@ -6,7 +6,7 @@ $doctor = [
     'specialty' => 'Dietetics & Nutrition',
     'experience' => '6+ Years',
     'regNo' => '', // Optional
-    'image' => '../assets/new-doctors-side/parijat sarkar.webp',
+    'image' => '../assets/doctor-latest/prajit-sarkar.webp',
     'description' => "Mr. Parijat Sarkar is a qualified Dietitian and Nutritionist at Raj Hospital, Ranchi, with over 6 years of experience in clinical nutrition. He specializes in sports nutrition, therapeutic diet planning, and nutritional management for chronic diseases.",
     'expertise' => [
         'Preventive Healthcare Nutrition (from DM, HTN etc)',
