@@ -3,7 +3,9 @@
     "allow": [
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(echo \"Exit: $?\")"
+      "Bash(echo \"Exit: $?\")",
+      "Bash(python -c ' *)",
+      "Bash(pip install *)"
     ]
   }
 }

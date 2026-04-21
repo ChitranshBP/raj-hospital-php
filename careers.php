@@ -272,9 +272,9 @@
                 department: "Support Staff",
                 location: "Ranchi, Jharkhand",
                 type: "Full-time",
-                positions: "8",
+                positions: "10",
                 description: "We are seeking dedicated General Duty Assistants to support our healthcare team in providing quality patient care and maintaining hospital operations.",
-                requirements: ["GDA qualification", "0-1 year of experience", "Good communication skills"],
+                requirements: ["GDA Certification Course required", "0-1 year of experience", "Good communication skills"],
                 responsibilities: ["Assist nursing staff", "Maintain cleanliness", "Transport patients"]
             },
             {
@@ -285,7 +285,7 @@
                 type: "Full-time",
                 positions: "10",
                 description: "Join our team as a Ward Boy to assist in patient care and hospital maintenance. We are looking for dedicated individuals to support our healthcare services.",
-                requirements: ["Matriculation (10th pass)", "0-1 year of experience", "Physical fitness"],
+                requirements: ["No minimum qualification required", "0-1 year of experience", "Physical fitness"],
                 responsibilities: ["Assist in patient care", "Maintain ward hygiene", "Transport equipment"]
             },
             {
@@ -296,7 +296,7 @@
                 type: "Full-time",
                 positions: "6",
                 description: "We are looking for dedicated Ward Girls to provide support in patient care and maintain cleanliness in hospital wards.",
-                requirements: ["Matriculation (10th pass)", "0-1 year of experience", "Caring attitude"],
+                requirements: ["No minimum qualification required", "0-1 year of experience", "Caring attitude"],
                 responsibilities: ["Assist female patients", "Maintain cleanliness", "Support nursing staff"]
             },
             {
@@ -312,80 +312,58 @@
             },
             {
                 id: 5,
-                title: "Assistant Nurse Supervisor",
+                title: "Assistant Nurse Superintendent",
                 department: "Nursing",
                 location: "Ranchi, Jharkhand",
                 type: "Full-time",
                 positions: "1",
-                description: "Join our nursing leadership team as Assistant Nurse Supervisor. Lead and mentor nursing staff to deliver exceptional patient care.",
+                description: "Join our nursing leadership team as Assistant Nurse Superintendent. Lead and mentor nursing staff to deliver exceptional patient care.",
                 requirements: ["B.Sc/M.Sc in Nursing", "5-8 years experience", "Leadership skills"],
                 responsibilities: ["Supervise nursing staff", "Ensure quality care", "Staff training"]
             },
             {
                 id: 6,
-                title: "Executive Accountant",
-                department: "Accounts",
-                location: "Ranchi, Jharkhand",
-                type: "Full-time",
-                positions: "1",
-                description: "We are seeking an experienced Executive Accountant to manage financial operations and ensure accurate accounting for our hospital.",
-                requirements: ["B.Com/M.Com degree", "1-2 years experience", "Accounting software knowledge"],
-                responsibilities: ["Financial records", "Billing processing", "Compliance"]
-            },
-             {
-                id: 7,
-                title: "Multi Organ Transplant Coordinator",
-                department: "Medical",
-                location: "Ranchi, Jharkhand",
-                type: "Full-time",
-                positions: "1",
-                description: "Join our specialized transplant team as a coordinator to facilitate and manage multi-organ transplant procedures and donor coordination.",
-                requirements: ["BSW/MSW degree", "1 year experience", "Transplant protocol knowledge"],
-                responsibilities: ["Coordinate transplants", "Liaise with families", "Maintain documentation"]
-            },
-            {
-                id: 8,
-                title: "Consultant Radiology",
-                department: "Radiology",
-                location: "Ranchi, Jharkhand",
-                type: "Full-time",
-                positions: "1",
-                description: "We are seeking a qualified Radiology Consultant to provide expert diagnostic imaging services and interpretation.",
-                requirements: ["DMRD/MD/MD Radiology", "0-3 years experience", "Interventional skills"],
-                responsibilities: ["Interpret imaging", "Perform procedures", "Consult with teams"]
-            },
-            {
-                id: 9,
                 title: "Executive Operations",
                 department: "Operations",
                 location: "Ranchi, Jharkhand",
                 type: "Full-time",
-                positions: "5",
+                positions: "2",
                 description: "Join our operations team to support smooth functioning of hospital services and patient care operations.",
                 requirements: ["Any Graduate", "0-3 years experience", "Organizational skills"],
                 responsibilities: ["Coordinate operations", "Patient admission/discharge", "Documentation"]
             },
             {
-                id: 10,
-                title: "Executive Billing",
-                department: "Billing",
+                id: 7,
+                title: "Sales Executive",
+                department: "Sales & Marketing",
                 location: "Ranchi, Jharkhand",
                 type: "Full-time",
-                positions: "3",
-                description: "We are looking for billing executives to manage patient billing, insurance claims, and financial documentation.",
-                requirements: ["B.Com/M.Com", "0-3 years experience", "Billing knowledge"],
-                responsibilities: ["Process billing", "Insurance claims", "Resolve queries"]
+                positions: "6",
+                description: "Join our Marketing team to manage field-based responsibilities efficiently and be a part of healthcare organization to make a difference.",
+                requirements: ["Any Graduate", "0-3 years experience", "Good communication skills"],
+                responsibilities: ["Field-based marketing", "Client & doctor relationship building", "Promote hospital services"]
             },
-             {
-                id: 11,
-                title: "Clinical Pharmacologist",
-                department: "Pharmacy",
+            {
+                id: 8,
+                title: "Quality Nurse",
+                department: "Quality & Nursing",
                 location: "Ranchi, Jharkhand",
                 type: "Full-time",
                 positions: "1",
-                description: "Join our pharmacy team as a Clinical Pharmacologist to provide expert pharmaceutical care and medication management.",
-                requirements: ["Pharm.D", "0-1 year experience", "Pharmacology knowledge"],
-                responsibilities: ["Monitor medication", "Provide drug info", "Counseling"]
+                description: "Join our Nursing team to manage Quality Indicators, NABH implementation and Educator role, and be a part of healthcare organization to make a difference.",
+                requirements: ["B.Sc/M.Sc in Nursing", "Experience in NABH / Quality", "Educator skills"],
+                responsibilities: ["Manage Quality Indicators", "NABH implementation", "Nursing education & training"]
+            },
+            {
+                id: 9,
+                title: "Deputy Medical Superintendent",
+                department: "Medical Services",
+                location: "Ranchi, Jharkhand",
+                type: "Full-time",
+                positions: "1",
+                description: "Join our Medical Services team and be a part of healthcare organization to make a difference.",
+                requirements: ["MBBS / MD", "Hospital administration experience", "Strong leadership skills"],
+                responsibilities: ["Assist Medical Superintendent", "Oversee clinical operations", "Coordinate across departments"]
             }
         ];
 
