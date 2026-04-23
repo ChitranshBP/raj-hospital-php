@@ -224,6 +224,24 @@
                 patient: "Stomach cancer treatment | Patient Testimonial",
                 desc: "Meet Mr. Anil Prasad Sahu, who came to us with advanced stomach cancer and a heart full of questions.",
                 thumbnail: "https://img.youtube.com/vi/DOSuZZjZiZ8/maxresdefault.jpg",
+            },
+            {
+                videoId: "Z1upwLku59Q",
+                patient: "I walked on the 4th day! | Knee Surgery Success Story",
+                desc: "A success story of knee surgery under the care of Dr. Abhishek Roy at Raj Hospitals.",
+                thumbnail: "https://img.youtube.com/vi/Z1upwLku59Q/maxresdefault.jpg",
+            },
+            {
+                videoId: "1-h4RF4NhpQ",
+                patient: "What Happens Inside a Hospital? Real Patient Journey!",
+                desc: "In this video, we take you inside Raj Hospital to understand the real patient treatment process.",
+                thumbnail: "https://img.youtube.com/vi/1-h4RF4NhpQ/maxresdefault.jpg",
+            },
+            {
+                videoId: "U-xuZbaK01Y",
+                patient: "Hospital Treatment Process Explained | Patient Testimonial",
+                desc: "Watch the real patient journey inside Raj Hospitals—from diagnosis to treatment and recovery.",
+                thumbnail: "https://img.youtube.com/vi/U-xuZbaK01Y/maxresdefault.jpg",
             }
         ];
 
