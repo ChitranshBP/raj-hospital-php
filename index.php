@@ -1355,7 +1355,7 @@ Best Hospital in Jharkhand
     <?php include $base_url . 'components/footer.php'; ?>
 
     <!-- Homepage Popup Modal -->
-    <div id="homepage-popup" class="fixed inset-0 z-[60] flex items-center justify-center bg-black/70 backdrop-blur-sm px-4 hidden transition-opacity duration-300">
+    <!-- <div id="homepage-popup" class="fixed inset-0 z-[60] flex items-center justify-center bg-black/70 backdrop-blur-sm px-4 hidden transition-opacity duration-300">
         <div class="relative w-fit max-w-[95vw] md:max-w-[80vw] lg:max-w-[1000px] mx-auto rounded-xl shadow-2xl bg-transparent overflow-hidden transform transition-all duration-300 scale-95 opacity-0 inline-block align-middle leading-none" id="popup-content">
             <button id="close-popup" class="absolute top-2 right-2 md:top-3 md:right-3 z-10 w-8 h-8 md:w-9 md:h-9 bg-black/40 hover:bg-black/70 rounded-full flex items-center justify-center transition-all duration-300 text-white cursor-pointer shadow-lg outline-none">
                 <i data-feather="x" class="w-4 h-4 md:w-5 md:h-5"></i>
@@ -1364,7 +1364,7 @@ Best Hospital in Jharkhand
                 <img src="assets/popup/popup-april-26.webp" alt="Raj Hospital Announcement" class="w-auto h-auto max-w-full max-h-[85vh] object-contain block mx-auto">
             </a>
         </div>
-    </div>
+    </div> -->
 
     <!-- Video Modal -->
     <div id="video-modal"
