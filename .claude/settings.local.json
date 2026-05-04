@@ -5,7 +5,8 @@
       "Bash(git push:*)",
       "Bash(echo \"Exit: $?\")",
       "Bash(python -c ' *)",
-      "Bash(pip install *)"
+      "Bash(pip install *)",
+      "Bash(gs -dBATCH -dNOPAUSE -sDEVICE=txtwrite -sOutputFile=- \"c:\\\\Users\\\\GCV\\\\Desktop\\\\raj-hospital-php\\\\assets\\\\a69535f2-0677-4ec7-b08e-77c957ae6220.pdf\")"
     ]
   }
 }
