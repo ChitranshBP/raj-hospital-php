@@ -385,7 +385,7 @@ Cardiac Care Hospital in Jharkhand
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Rajesh Kr. Jha</h3>
-                                <p class="text-primary-600 font-medium mb-2">MBBS, MD, DM (Cardiology)</p>
+                                <p class="text-primary-600 font-medium mb-2">MBBS, MD, DM, AFFCS</p>
                                 <p class="text-secondary-600 text-sm mb-3">Interventional Cardiology</p>
                                 <div class="flex items-center text-sm text-gray-500 mb-4">
                                     <i data-feather="award" class="w-4 h-4 mr-2"></i>
@@ -413,7 +413,7 @@ Cardiac Care Hospital in Jharkhand
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Awnindra Kumar Singh</h3>
-                                <p class="text-primary-600 font-medium mb-2">MBBS, MD, DM</p>
+                                <p class="text-primary-600 font-medium mb-2">MBBS, MD, PGDCC</p>
                                 <p class="text-secondary-600 text-sm mb-3">Interventional Cardiology</p>
                                 <div class="flex items-center text-sm text-gray-500 mb-4">
                                     <i data-feather="award" class="w-4 h-4 mr-2"></i>

@@ -32,6 +32,7 @@ $specialties = [
             'Dermatology',
             'ENT',
             'Eye Care',
+            'Haematology',
             'Nutrition & Dietetics',
             'Pediatrics & Neonatology',
             'Physiotherapy & Rehabilitation',
@@ -59,6 +60,7 @@ $specialtyIcons = [
     'Nephrology' => 'droplet',
     'Neurosciences' => 'coffee', // Matching React version placeholder
     'Oncology (Cancer Care)' => 'shield',
+    'Haematology' => 'droplet',
     'Orthopaedics & Joint Replacement' => 'users',
     'Pulmonology' => 'wind',
     'Internal Medicine' => 'crosshair',

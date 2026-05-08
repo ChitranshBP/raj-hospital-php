@@ -82,7 +82,7 @@
     "name": "Dr. Rajesh Kumar Jha",
     "description": "Dr. Rajesh Jha is an experienced Interventional Cardiologist at Raj Hospital, Ranchi, with over 16 years of expertise in heart disease management. He specializes in coronary angioplasty, cardiac stenting, and advanced interventional cardiac procedures.",
     "medicalSpecialty": "Cardiology",
-    "qualifications": "MBBS, MD, DM",
+    "qualifications": "MBBS, MD, DM, AFFCS",
     "image": "https://www.rajhospitalranchi.com/assets/doctor-latest/Cardiologist - Dr. Rajesh Kumar Jha.webp",
     "worksFor": {
         "@type": "Hospital",
@@ -178,7 +178,7 @@
         const doctorData = {
             id: 'rajesh-jha',
             name: 'Dr. Rajesh Kumar Jha',
-            qualifications: 'MBBS, MD, DM',
+            qualifications: 'MBBS, MD, DM, AFFCS',
             specialty: 'Cardiology',
             experience: '16+ Years',
             image: '../assets/doctor-latest/Cardiologist - Dr. Rajesh Kumar Jha.webp',

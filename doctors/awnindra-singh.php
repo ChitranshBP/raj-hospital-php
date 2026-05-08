@@ -2,7 +2,7 @@
 $base_url = '../';
 $doctor = [
     'name' => 'Dr. Awnindra Kumar Singh',
-    'qualifications' => 'MBBS, MD, DM',
+    'qualifications' => 'MBBS, MD, PGDCC',
     'specialty' => 'Cardiology',
     'experience' => '16+ Years',
     'regNo' => '',

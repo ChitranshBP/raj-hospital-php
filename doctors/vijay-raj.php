@@ -2,26 +2,26 @@
 $base_url = '../';
 $doctor = [
     'name' => 'Dr. Vijay Raj',
-    'qualifications' => 'MBBS, MD, DM (Neurology)',
+    'qualifications' => 'MBBS, MS, MCH',
     'specialty' => 'Neurosciences',
     'experience' => '15+ Years',
     'regNo' => '',
     'image' => '../assets/Doc-Side/vijayraj.webp',
-    'description' => "Dr. Vijay Raj is a skilled Neurologist at Raj Hospital, Ranchi, with over 15 years of experience in neurodiagnostics and stroke management. He provides expert care for neurological disorders including epilepsy, headache, and nervous system conditions.",
+    'description' => "Dr. Vijay Raj is a skilled Neuro Surgeon at Raj Hospital, Ranchi, with over 15 years of experience in brain and spine surgery. He provides expert care for neurological conditions including brain tumors, spinal disorders, and complex neurosurgical procedures.",
     'expertise' => [
-        'Neurodiagnostics',
-        'Stroke Management',
-        'Neurological Disorders',
-        'Brain & Nervous System Care'
+        'Brain Tumor Surgery',
+        'Spinal Surgery',
+        'Neurosurgical Procedures',
+        'Stroke Surgery'
     ],
     'education' => [
         [
-            'degree' => 'DM (Neurology)',
+            'degree' => 'MCH (Neurosurgery)',
             'institution' => '',
             'year' => ''
         ],
         [
-            'degree' => 'MD',
+            'degree' => 'MS',
             'institution' => '',
             'year' => ''
         ],
