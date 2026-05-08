@@ -1374,7 +1374,7 @@ Best Hospital in Jharkhand
             </button>
             <img src="assets/popup/registration-popup.jpeg" alt="NCLS Training Program - Raj Hospital" class="w-auto h-auto max-w-full max-h-[70vh] object-contain block mx-auto">
             <div class="bg-gradient-to-r from-orange-500 to-orange-600 p-4 md:p-6 text-center">
-                <p class="text-white text-sm md:text-base mb-3">📞 For Further Details: <strong>9771466641</strong></p>
+                <p class="text-white text-sm md:text-base mb-3">📞 For Further Details: <a href="tel:9771466641" class="underline hover:text-orange-200 transition-colors"><strong>9771466641</strong></a></p>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJky8BKDL2IFl0O3jaTIqrln3JF0nhx4IkZodlRmT7LiL5-g/viewform?usp=header" target="_blank" class="inline-flex items-center justify-center gap-2 bg-white text-orange-600 font-bold px-8 py-3 rounded-lg hover:bg-orange-50 transition-colors shadow-lg text-base md:text-lg">
                     <i data-feather="edit-3" class="w-5 h-5"></i>
                     Register Now - Fill Form
