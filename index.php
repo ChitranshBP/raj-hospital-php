@@ -1698,7 +1698,7 @@ Best Hospital in Jharkhand
 
                 // Critical Care (3 doctors)
                 { id: 'saurabh-kumar', name: 'Dr. Saurabh Kumar', qualifications: 'MBBS, MD', specialty: 'Critical Care', experience: '26+ Years', image: 'assets/new-doctors-side/Dr. Saurabh Kumar.webp', profileUrl: 'doctors/saurabh-kumar.php' },
-                { id: 'rahul-roy', name: 'Dr. Rahul Roy', qualifications: 'MBBS, DA, IDCCM', specialty: 'Critical Care', experience: '20+ Years', image: 'assets/Doc-Side/Dr Rahul Roy(CCT).webp', profileUrl: 'doctors/rahul-roy.php' },
+                { id: 'rahul-roy', name: 'Dr. Rahul Roy', qualifications: 'MBBS, DA, IDCCM, EDAIC, MBA', specialty: 'Critical Care', experience: '20+ Years', image: 'assets/Doc-Side/Dr Rahul Roy(CCT).webp', profileUrl: 'doctors/rahul-roy.php' },
                 { id: 'fuzail-sarwer', name: 'Dr. Fuzail Sarwer', qualifications: 'MBBS, MD, PDCC', specialty: 'Critical Care', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp', profileUrl: 'doctors/fuzail-sarwer.php' },
 
                 // Emergency (1 doctor)
@@ -1726,7 +1726,7 @@ Best Hospital in Jharkhand
 
                 // Oncology (2 doctors)
                 { id: 'pk-raina', name: 'Dr. P K Raina', qualifications: 'MBBS, MS', specialty: 'Oncology (Cancer Care)', experience: '20+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Oncologist - Dr. P-K-Raina.webp', profileUrl: 'doctors/pk-raina.php' },
-                { id: 'anamika-kumari', name: 'Dr. Anamika Kumari', qualifications: 'MBBS, DNB', specialty: 'Oncology (Cancer Care)', experience: '11+ Years', image: 'assets/Doc-Side/Dr Anamika Onco photo.webp', profileUrl: 'doctors/anamika-kumari.php' },
+                { id: 'anamika-kumari', name: 'Dr. Anamika Kumari', qualifications: 'MBBS, MS, DNB', specialty: 'Oncology (Cancer Care)', experience: '11+ Years', image: 'assets/Doc-Side/Dr Anamika Onco photo.webp', profileUrl: 'doctors/anamika-kumari.php' },
 
                 // Orthopaedics (3 doctors)
                 { id: 'deepak-verma', name: 'Dr. Deepak Verma', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '25+ Years', image: 'assets/doctor-latest/deepak verma.webp', profileUrl: 'doctors/deepak-verma.php' },
@@ -1743,7 +1743,7 @@ Best Hospital in Jharkhand
                 { id: 'tanushree-chakroborty', name: 'Dr. Tanushree Chakroborty', qualifications: 'MBBS, DGO', specialty: 'Obstetrics & Gynaecology', experience: '15+ Years', image: 'assets/Doc-Side/tanushree_gyane.webp', profileUrl: 'doctors/tanushree-chakroborty.php' },
 
                 // Pulmonology (1 doctor)
-                { id: 'suprova-chakraborty', name: 'Dr. Suprova Chakraborty', qualifications: 'DNB Respiratory Medicine', specialty: 'Pulmonology', experience: '12+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Pulmonologist - Dr. Suprova-Chakraborty.webp', profileUrl: 'doctors/suprova-chakraborty.php' },
+                { id: 'suprova-chakraborty', name: 'Dr. Suprova Chakraborty', qualifications: 'MBBS, DNB, EDARM (Cert.), AAAI', specialty: 'Pulmonology', experience: '12+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Pulmonologist - Dr. Suprova-Chakraborty.webp', profileUrl: 'doctors/suprova-chakraborty.php' },
 
                 // ENT (2 doctors)
                 { id: 'tgn-sinha', name: 'Dr. T.G.N. Sinha', qualifications: 'MBBS, MS, FICS', specialty: 'ENT', experience: '45+ Years', image: 'assets/doctor-latest/tgn sinha.webp', profileUrl: 'doctors/tgn-sinha.php' },

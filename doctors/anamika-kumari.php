@@ -2,7 +2,7 @@
 $base_url = '../';
 $doctor = [
     'name' => 'Dr. Anamika Kumari',
-    'qualifications' => 'MBBS, DNB (Radiotherapy)',
+    'qualifications' => 'MBBS, MS, DNB',
     'specialty' => 'Oncology (Cancer Care)',
     'experience' => '11+ Years',
     'regNo' => '',
