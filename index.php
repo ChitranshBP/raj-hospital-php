@@ -1710,10 +1710,11 @@ Best Hospital in Jharkhand
                 // Minimal Access Surgery (1 doctor)
                 { id: 'ashish-modi', name: 'Dr. Ashish Kumar Modi', qualifications: 'MBBS, MS', specialty: 'Minimal Access Surgery', experience: '12+ Years', image: 'assets/new-doctors-side/Dr. Ashish Kumar Modi-new.png', profileUrl: 'doctors/ashish-modi.php' },
 
-                // Internal Medicine (3 doctors)
+                // Internal Medicine (4 doctors)
                 { id: 'ak-agarwal', name: 'Dr. A K Agarwal', qualifications: 'MBBS, MD', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Agrawal.webp', profileUrl: 'doctors/ak-agarwal.php' },
                 { id: 'ak-sinha', name: 'Dr. A K Sinha', qualifications: 'MBBS, MD', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Sinha.webp', profileUrl: 'doctors/ak-sinha.php' },
                 { id: 'neelam-kumari', name: 'Dr. Neelam Kumari', qualifications: 'MBBS, MD, DNB', specialty: 'Internal Medicine', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp', profileUrl: 'doctors/neelam-kumari.php' },
+                { id: 'himalaya-jha', name: 'Dr. Himalaya Jha', qualifications: 'MBBS, MD, Certification in Diabetes & Metabolic Disorder (R.C.G.P)', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/doctor-latest/dr-hmy-jha.webp', profileUrl: 'doctors/himalaya-jha.php' },
 
                 // Nephrology (1 doctor)
                 { id: 'avinash-dubey', name: 'Dr. Avinash Kumar Dubey', qualifications: 'MD, DM', specialty: 'Nephrology', experience: '15+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Nephrologist - Dr. Avinas- Kumar-Dubey.webp', profileUrl: 'doctors/avinash-dubey.php' },
@@ -1747,7 +1748,7 @@ Best Hospital in Jharkhand
 
                 // ENT (2 doctors)
                 { id: 'tgn-sinha', name: 'Dr. T.G.N. Sinha', qualifications: 'MBBS, MS, FICS', specialty: 'ENT', experience: '45+ Years', image: 'assets/doctor-latest/tgn sinha.webp', profileUrl: 'doctors/tgn-sinha.php' },
-                { id: 'ranajan-jha', name: 'Dr. Ranajan Kumar Jha', qualifications: 'MBBS, MS, FESS', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp', profileUrl: 'doctors/ranajan-jha.php' },
+                { id: 'ranajan-jha', name: 'Dr. R K Jha', qualifications: 'MBBS, MS, FESS', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp', profileUrl: 'doctors/ranajan-jha.php' },
 
                 // Dental (2 doctors)
                 { id: 'suraj-mani-bhattacharjee', name: 'Dr. Suraj Mani Bhattacharjee', qualifications: 'BDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp', profileUrl: 'doctors/suraj-mani-bhattacharjee.php' },
