@@ -2,7 +2,7 @@
 $base_url = '../';
 $doctor = [
     'name' => 'Dr. R K Jha',
-    'qualifications' => 'MBBS, MS, FESS',
+    'qualifications' => 'MBBS, MS (ENT)',
     'specialty' => 'ENT',
     'experience' => '15+ Years',
     'regNo' => '',
