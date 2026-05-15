@@ -227,7 +227,7 @@
                 { id: 'suraj-mani-bhattacharjee', name: 'Dr. Suraj Mani Bhattacharjee', qualifications: 'BDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp', hasStaticPage: true },
                 { id: 'kumar-prateek', name: 'Dr. Kumar Prateek', qualifications: 'MBBS, MD - Dermatology', specialty: 'Dermatology', experience: '', image: 'assets/doctor-latest/kumar-pathik.webp', hasStaticPage: true },
                 { id: 'tgn-sinha', name: 'Dr. T.G.N. Sinha', qualifications: 'MBBS, MS, FICS', specialty: 'ENT', experience: '45+ Years', image: 'assets/doctor-latest/tgn sinha.webp', hasStaticPage: true },
-                { id: 'ranajan-jha', name: 'Dr. R K Jha', qualifications: 'MBBS, MS, FESS', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp', hasStaticPage: true },
+                { id: 'ranajan-jha', name: 'Dr. R K Jha', qualifications: 'MBBS, MS (ENT)', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp', hasStaticPage: true },
                 { id: 'abhay-pandey', name: 'Dr. Abhay Kumar Pandey', qualifications: 'BPT, MPT, PGDYT', specialty: 'Physiotherapy & Rehabilitation', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Physiotherapist - Dr. Abhay-Kumar-Pandey.webp', hasStaticPage: true },
 
                 { id: 'ahmad-hussain', name: 'Dr. Ahmad Hussain', qualifications: 'MBBS, MD, DrNB', specialty: 'Neurosciences', experience: '5+ Years', image: 'assets/doctor-latest/ahmad hussain.webp', hasStaticPage: true },

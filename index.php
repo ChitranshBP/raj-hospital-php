@@ -1748,7 +1748,7 @@ Best Hospital in Jharkhand
 
                 // ENT (2 doctors)
                 { id: 'tgn-sinha', name: 'Dr. T.G.N. Sinha', qualifications: 'MBBS, MS, FICS', specialty: 'ENT', experience: '45+ Years', image: 'assets/doctor-latest/tgn sinha.webp', profileUrl: 'doctors/tgn-sinha.php' },
-                { id: 'ranajan-jha', name: 'Dr. R K Jha', qualifications: 'MBBS, MS, FESS', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp', profileUrl: 'doctors/ranajan-jha.php' },
+                { id: 'ranajan-jha', name: 'Dr. R K Jha', qualifications: 'MBBS, MS (ENT)', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp', profileUrl: 'doctors/ranajan-jha.php' },
 
                 // Dental (2 doctors)
                 { id: 'suraj-mani-bhattacharjee', name: 'Dr. Suraj Mani Bhattacharjee', qualifications: 'BDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp', profileUrl: 'doctors/suraj-mani-bhattacharjee.php' },
