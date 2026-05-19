@@ -1721,8 +1721,8 @@ Best Hospital in Jharkhand
 
                 // Neurosciences (4 doctors)
                 { id: 'ahmad-hussain', name: 'Dr. Ahmad Hussain', qualifications: 'MBBS, MD, DrNB', specialty: 'Neurosciences', experience: '5+ Years', image: 'assets/doctor-latest/ahmad hussain.webp', profileUrl: 'doctors/ahmad-hussain.php' },
-                { id: 'vivek-raj', name: 'Dr. Vivek Raj', qualifications: 'MBBS, DNB', specialty: 'Neurosciences', experience: '9+ Years', image: 'assets/new-doctors-side/vivek raj.webp', profileUrl: 'doctors/vivek-raj.php' },
-                { id: 'vijay-raj', name: 'Dr. Vijay Raj', qualifications: 'MBBS, MS, MCH', specialty: 'Neurosciences', experience: '15+ Years', image: 'assets/Doc-Side/vijayraj.webp', profileUrl: 'doctors/vijay-raj.php' },
+                { id: 'vivek-raj', name: 'Dr. Vivek Raj', qualifications: 'MBBS, MS, DNB', specialty: 'Neuro & Spine Surgery', experience: '9+ Years', image: 'assets/new-doctors-side/vivek raj.webp', profileUrl: 'doctors/vivek-raj.php' },
+                { id: 'vijay-raj', name: 'Dr. Vijay Raj', qualifications: 'MBBS, MS, MCH', specialty: 'Neuro & Spine Surgery', experience: '15+ Years', image: 'assets/Doc-Side/vijayraj.webp', profileUrl: 'doctors/vijay-raj.php' },
                 { id: 'prakash-chandra', name: 'Dr. Prakash Chandra', qualifications: 'MBBS, MS, MCH', specialty: 'Neurosciences', experience: '18+ Years', image: 'assets/Doc-Side/Dr. Prakash Chandra (Neuro Surgeon).webp', profileUrl: 'doctors/prakash-chandra.php' },
 
                 // Oncology (2 doctors)
@@ -1748,7 +1748,7 @@ Best Hospital in Jharkhand
 
                 // ENT (2 doctors)
                 { id: 'tgn-sinha', name: 'Dr. T.G.N. Sinha', qualifications: 'MBBS, MS, FICS', specialty: 'ENT', experience: '45+ Years', image: 'assets/doctor-latest/tgn sinha.webp', profileUrl: 'doctors/tgn-sinha.php' },
-                { id: 'ranajan-jha', name: 'Dr. R K Jha', qualifications: 'MBBS, MS (ENT)', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp', profileUrl: 'doctors/ranajan-jha.php' },
+                { id: 'ranajan-jha', name: 'Dr. R. K. Jha', qualifications: 'MBBS, MS', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp', profileUrl: 'doctors/ranajan-jha.php' },
 
                 // Dental (2 doctors)
                 { id: 'suraj-mani-bhattacharjee', name: 'Dr. Suraj Mani Bhattacharjee', qualifications: 'BDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp', profileUrl: 'doctors/suraj-mani-bhattacharjee.php' },

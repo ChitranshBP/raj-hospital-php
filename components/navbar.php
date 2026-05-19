@@ -15,13 +15,12 @@ $specialties = [
             'Gastroenterology',
             'Minimal Access Surgery',
             'Nephrology',
-            'Neurosciences',
+            'Neuro & Spine Surgery',
+            'Neurology',
             'Oncology (Cancer Care)',
             'Orthopaedics & Joint Replacement',
             'Pulmonology',
-            'Internal Medicine',
-            'Urology',
-            'Obstetrics & Gynaecology'
+            'Urology'
         ]
     ],
     [
@@ -33,11 +32,13 @@ $specialties = [
             'ENT',
             'Eye Care',
             'Haematology',
+            'Internal Medicine',
             'Nutrition & Dietetics',
+            'Obstetrics & Gynaecology',
+            'Oral & Maxillofacial Surgery',
             'Pediatrics & Neonatology',
             'Physiotherapy & Rehabilitation',
-            'Psychiatry & Mental Health',
-            'Oral & Maxillofacial Surgery'
+            'Psychiatry & Mental Health'
         ]
     ],
     [
@@ -58,7 +59,9 @@ $specialtyIcons = [
     'Gastroenterology' => 'aperture',
     'Minimal Access Surgery' => 'target',
     'Nephrology' => 'droplet',
-    'Neurosciences' => 'coffee', // Matching React version placeholder
+    'Neurosciences' => 'coffee',
+    'Neurology' => 'activity',
+    'Neuro & Spine Surgery' => 'aperture',
     'Oncology (Cancer Care)' => 'shield',
     'Haematology' => 'droplet',
     'Orthopaedics & Joint Replacement' => 'users',
@@ -77,7 +80,6 @@ $specialtyIcons = [
     'Physiotherapy & Rehabilitation' => 'move',
     'Psychiatry & Mental Health' => 'message-circle',
     'Radiology' => 'camera',
-    'Neurology' => 'moon',
     'FNAC, Biopsy, Blood & Laboratory Investigations' => 'file'
 ];
 
@@ -85,9 +87,10 @@ function getSpecialtySlug($name, $category)
 {
     $specialtyUrlMap = [
         'Cardiology' => ['Advanced Diagnostics' => 'cardiology-ad'],
-        'Neurology' => ['Advanced Diagnostics' => 'neurology-ad'],
         'FNAC, Biopsy, Blood & Laboratory Investigations' => ['Advanced Diagnostics' => 'laboratory-investigations'],
         'Oral & Maxillofacial Surgery' => ['Allied Specialties' => 'oral-maxillofacial-surgery-ad'],
+        'Neurology' => ['Centres of Excellence' => 'neurology'],
+        'Neuro & Spine Surgery' => ['Centres of Excellence' => 'neuro-spine-surgery'],
     ];
 
     if (isset($specialtyUrlMap[$name][$category])) {

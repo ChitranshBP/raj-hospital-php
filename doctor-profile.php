@@ -140,7 +140,7 @@
             { id: 'neelam-kumari', name: 'Dr. Neelam Kumari', qualifications: 'MBBS, MD, DNB', specialty: 'Internal Medicine', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp', hasStaticPage: true },
             { id: 'himalaya-jha', name: 'Dr. Himalaya Jha', qualifications: 'MBBS, MD, Certification in Diabetes & Metabolic Disorder (R.C.G.P)', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/doctor-latest/dr-hmy-jha.webp', hasStaticPage: true },
             { id: 'avinash-dubey', name: 'Dr. Avinash Kumar Dubey', qualifications: 'MD, DM', specialty: 'Nephrology', experience: '15+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Nephrologist - Dr. Avinas- Kumar-Dubey.webp', hasStaticPage: true },
-            { id: 'vivek-raj', name: 'Dr. Vivek Raj', qualifications: 'MBBS, DNB', specialty: 'Neurosciences', experience: '9+ Years', image: 'assets/new-doctors-side/vivek raj.webp' },
+            { id: 'vivek-raj', name: 'Dr. Vivek Raj', qualifications: 'MBBS, MS, DNB', specialty: 'Neuro & Spine Surgery', experience: '9+ Years', image: 'assets/new-doctors-side/vivek raj.webp' },
             { id: 'pk-raina', name: 'Dr. P K Raina', qualifications: 'MBBS, MS', specialty: 'Oncology (Cancer Care)', experience: '20+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Oncologist - Dr. P-K-Raina.webp' },
             { id: 'deepak-verma', name: 'Dr. Deepak Verma', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '25+ Years', image: 'assets/doctor-latest/deepak verma.webp' },
             { id: 'mozammil-pheroz', name: 'Dr. Mozammil Pheroz', qualifications: 'MBBS, MS, DNB, Dip.Sports Medicine', specialty: 'Orthopaedics & Joint Replacement', experience: '11+ Years', image: 'assets/Doc-Side/dr-pheroz-raj-removebg-preview.png' },
@@ -156,7 +156,7 @@
             { id: 'suraj-mani-bhattacharjee', name: 'Dr. Suraj Mani Bhattacharjee', qualifications: 'BDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp' },
             { id: 'kumar-prateek', name: 'Dr. Kumar Prateek', qualifications: 'MBBS, MD - Dermatology', specialty: 'Dermatology', experience: '', image: 'assets/doctor-latest/kumar-pathik.webp' },
             { id: 'tgn-sinha', name: 'Dr. T.G.N. Sinha', qualifications: 'MBBS, MS, FICS', specialty: 'ENT', experience: '45+ Years', image: 'assets/doctor-latest/tgn sinha.webp' },
-            { id: 'ranajan-jha', name: 'Dr. R K Jha', qualifications: 'MBBS, MS (ENT)', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp' },
+            { id: 'ranajan-jha', name: 'Dr. R. K. Jha', qualifications: 'MBBS, MS', specialty: 'ENT', experience: '15+ Years', image: 'assets/new-doctors-side/ranajan kumar jha.webp' },
             { id: 'abhay-pandey', name: 'Dr. Abhay Kumar Pandey', qualifications: 'BPT, MPT, PGDYT', specialty: 'Physiotherapy & Rehabilitation', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Physiotherapist - Dr. Abhay-Kumar-Pandey.webp' },
 
             { id: 'ahmad-hussain', name: 'Dr. Ahmad Hussain', qualifications: 'MBBS, MD, DrNB', specialty: 'Neurosciences', experience: '5+ Years', image: 'assets/doctor-latest/ahmad hussain.webp' },
@@ -181,7 +181,7 @@
             { id: 'ravi-shekhar-singh', name: 'Dr. Ravi Shekhar Singh', qualifications: 'MBBS, DCH', specialty: 'Pediatrics & Neonatology', experience: '10+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp' },
             { id: 'ashish-basant', name: 'Dr. Ashish Basant', qualifications: 'MBBS, MD', specialty: 'Pediatrics & Neonatology', experience: '8+ Years', image: 'assets/new-doctors-side/ashish basant.webp' },
             { id: 'prakash-chandra', name: 'Dr. Prakash Chandra', qualifications: 'MBBS, MS, MCH', specialty: 'Neurosciences', experience: '18+ Years', image: 'assets/Doc-Side/Dr. Prakash Chandra (Neuro Surgeon).webp' },
-            { id: 'vijay-raj', name: 'Dr. Vijay Raj', qualifications: 'MBBS, MD, DM', specialty: 'Neurosciences', experience: '15+ Years', image: 'assets/Doc-Side/vijayraj.webp' },
+            { id: 'vijay-raj', name: 'Dr. Vijay Raj', qualifications: 'MBBS, MS, MCH', specialty: 'Neuro & Spine Surgery', experience: '15+ Years', image: 'assets/Doc-Side/vijayraj.webp' },
             { id: 'bharti-sahni', name: 'Dr. Bharti Sahni', qualifications: 'MBBS, MD, DM', specialty: 'Haematology & Bone Marrow Transplant', experience: '', image: 'assets/doctor-latest/dr-bharti-onco.webp', hasStaticPage: true }
         ];
 
