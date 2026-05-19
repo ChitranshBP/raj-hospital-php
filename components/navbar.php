@@ -51,36 +51,35 @@ $specialties = [
     ]
 ];
 
-// Icon Mapping (React Fi... -> Feather name)
+// SVG Icon Mapping (specialty name -> icon filename)
 $specialtyIcons = [
-    'Cardiology' => 'heart',
-    'Critical Care ' => 'activity',
-    'Emergency' => 'alert-circle',
-    'Gastroenterology' => 'aperture',
-    'Minimal Access Surgery' => 'target',
-    'Nephrology' => 'droplet',
-    'Neurosciences' => 'coffee',
-    'Neurology' => 'activity',
-    'Neuro & Spine Surgery' => 'aperture',
-    'Oncology (Cancer Care)' => 'shield',
-    'Haematology' => 'droplet',
-    'Orthopaedics & Joint Replacement' => 'users',
-    'Pulmonology' => 'wind',
-    'Internal Medicine' => 'crosshair',
-    'Urology' => 'zap',
-    'Obstetrics & Gynaecology' => 'trending-up',
-    'Oral & Maxillofacial Surgery' => 'scissors',
-    'Aesthetic & Reconstructive Surgery' => 'scissors',
-    'Dental' => 'smile',
-    'Dermatology' => 'feather',
-    'ENT' => 'mic',
-    'Eye Care' => 'eye',
-    'Nutrition & Dietetics' => 'coffee',
-    'Pediatrics & Neonatology' => 'coffee',
-    'Physiotherapy & Rehabilitation' => 'move',
-    'Psychiatry & Mental Health' => 'message-circle',
-    'Radiology' => 'camera',
-    'FNAC, Biopsy, Blood & Laboratory Investigations' => 'file'
+    'Cardiology' => 'cardiac-sciences.svg',
+    'Critical Care ' => 'critical-care.svg',
+    'Emergency' => 'emergency.svg',
+    'Gastroenterology' => 'gastroenterology.svg',
+    'Minimal Access Surgery' => 'minimal-access-surgery.svg',
+    'Nephrology' => 'nephrology.svg',
+    'Neuro & Spine Surgery' => 'neurosurgery.svg',
+    'Neurology' => 'neurology.svg',
+    'Oncology (Cancer Care)' => 'oncology.svg',
+    'Orthopaedics & Joint Replacement' => 'orthopaedics.svg',
+    'Pulmonology' => 'pulmonology.svg',
+    'Urology' => 'urology.svg',
+    'Aesthetic & Reconstructive Surgery' => 'plastic-surgery.svg',
+    'Dental' => 'dental.svg',
+    'Dermatology' => 'dermatology.svg',
+    'ENT' => 'ent.svg',
+    'Eye Care' => 'ophthalmology.svg',
+    'Haematology' => 'haematology.svg',
+    'Internal Medicine' => 'internal-medicine.svg',
+    'Nutrition & Dietetics' => 'dietetics.svg',
+    'Obstetrics & Gynaecology' => 'obstetrics-gynaecology.svg',
+    'Oral & Maxillofacial Surgery' => 'dental.svg',
+    'Pediatrics & Neonatology' => 'paediatrics.svg',
+    'Physiotherapy & Rehabilitation' => 'physiotherapy.svg',
+    'Psychiatry & Mental Health' => 'psychiatry.svg',
+    'Radiology' => 'radiology.svg',
+    'FNAC, Biopsy, Blood & Laboratory Investigations' => 'laboratory.svg'
 ];
 
 function getSpecialtySlug($name, $category)
@@ -261,11 +260,11 @@ function getSpecialtySlug($name, $category)
                                                 <?php foreach ($categoryData['items'] as $item):
                                                     $icon = $specialtyIcons[$item] ?? 'circle';
                                                     $slug = getSpecialtySlug($item, $categoryData['category']);
+                                                    $iconPath = $base_url . 'assets/icons/specialties/' . $icon . '?v=' . time();
                                                     ?>
                                                     <a href="<?php echo $base_url; ?>specialties/<?php echo $slug; ?>.php"
                                                         class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
-                                                        <i data-feather="<?php echo $icon; ?>"
-                                                            class="w-4 h-4 text-orange-500"></i>
+                                                        <img src="<?php echo $iconPath; ?>" alt="" class="w-5 h-5 object-contain">
                                                         <?php echo htmlspecialchars($item); ?>
                                                     </a>
                                                 <?php endforeach; ?>
@@ -324,9 +323,14 @@ function getSpecialtySlug($name, $category)
                                 class="pl-4 mt-1 space-y-1 max-h-48 overflow-y-auto hidden mobile-category-items scrollbar-thin">
                                 <?php foreach ($categoryData['items'] as $item):
                                     $slug = getSpecialtySlug($item, $categoryData['category']);
+                                    $icon = $specialtyIcons[$item] ?? 'circle';
+                                    $iconPath = $base_url . 'assets/icons/specialties/' . $icon . '?v=' . time();
                                     ?>
                                     <a href="<?php echo $base_url; ?>specialties/<?php echo $slug; ?>.php"
-                                        class="block py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors"><?php echo htmlspecialchars($item); ?></a>
+                                        class="flex items-center gap-2 py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">
+                                        <img src="<?php echo $iconPath; ?>" alt="" class="w-4 h-4 object-contain">
+                                        <?php echo htmlspecialchars($item); ?>
+                                    </a>
                                 <?php endforeach; ?>
                             </div>
                         </div>
