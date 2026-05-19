@@ -1361,7 +1361,7 @@ Best Hospital in Jharkhand
                 <i data-feather="x" class="w-4 h-4 md:w-5 md:h-5"></i>
             </button>
             <a href="contact.php" class="block w-full h-full">
-                <img src="assets/popup/ahit-may-popup.webp" alt="Raj Hospital - Ahit May Announcement" class="w-auto h-auto max-w-full max-h-[85vh] object-contain block mx-auto">
+                <img src="assets/popup/dr-ajit-may-popup.webp" alt="Raj Hospital - Dr. Ajit May Announcement" class="w-auto h-auto max-w-full max-h-[85vh] object-contain block mx-auto">
             </a>
         </div>
     </div>
