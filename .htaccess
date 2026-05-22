@@ -92,3 +92,17 @@ Redirect 301 '/urologist-ranchi' 'https://rajhospitals.com/specialties/urology'
 Redirect 301 '/career' 'https://rajhospitals.com/careers'
 Redirect 301 '/skin-specialist-doctor-ranchi' 'https://rajhospitals.com/specialties/dermatology'
 Redirect 301 '/cervical-pain-symptoms-in-hindi' 'https://rajhospitals.com/blog/cervical-pain-symptoms-in-hindi/'
+
+
+
+
+RewriteEngine On
+
+# Remove trailing slash after /blog/
+RewriteCond %{REQUEST_URI} ^/blog/.+/$
+RewriteRule ^(.*)/$ /$1 [R=301,L]
+
+# Internally load .php file without showing .php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L]
