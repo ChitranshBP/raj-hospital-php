@@ -3,16 +3,17 @@ $base_url = '../';
 $doctor = [
     'name' => 'Dr. Prakash Chandra',
     'qualifications' => 'MBBS, MS, MCH',
-    'specialty' => 'Neurosciences',
-    'experience' => '18+ Years',
+    'specialty' => 'Neuro & Spine Surgery',
+    'experience' => '50+ Years',
     'regNo' => '',
     'image' => '../assets/Doc-Side/Dr. Prakash Chandra (Neuro Surgeon).webp',
-    'description' => "Dr. Prakash Chandra is a skilled Neurosurgeon at Raj Hospital, Ranchi, with over 18 years of experience in brain and spine surgery. He specializes in cranial surgeries, spinal procedures, and advanced neurosurgical interventions for complex neurological conditions.",
+    'description' => "Dr. Prakash Chandra is a highly experienced Neurosurgeon at Raj Hospital, Ranchi, with over 50 years of experience in brain and spine surgery. He specializes in cranial surgeries, spinal procedures, and advanced neurosurgical interventions for complex neurological conditions.",
     'expertise' => [
         'Neurosurgery',
-        'Epileptology',
-        'Neurophysiology',
-        'Complex Brain Surgeries'
+        'Spine Surgery',
+        'Complex Brain Surgeries',
+        'Cranial Procedures',
+        'Spinal Procedures'
     ],
     'education' => [
         [

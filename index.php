@@ -1723,7 +1723,7 @@ Best Hospital in Jharkhand
                 { id: 'ahmad-hussain', name: 'Dr. Ahmad Hussain', qualifications: 'MBBS, MD, DrNB', specialty: 'Neurosciences', experience: '5+ Years', image: 'assets/doctor-latest/ahmad hussain.webp', profileUrl: 'doctors/ahmad-hussain.php' },
                 { id: 'vivek-raj', name: 'Dr. Vivek Raj', qualifications: 'MBBS, MS, DNB', specialty: 'Neuro & Spine Surgery', experience: '9+ Years', image: 'assets/new-doctors-side/vivek raj.webp', profileUrl: 'doctors/vivek-raj.php' },
                 { id: 'vijay-raj', name: 'Dr. Vijay Raj', qualifications: 'MBBS, MS, MCH', specialty: 'Neuro & Spine Surgery', experience: '15+ Years', image: 'assets/Doc-Side/vijayraj.webp', profileUrl: 'doctors/vijay-raj.php' },
-                { id: 'prakash-chandra', name: 'Dr. Prakash Chandra', qualifications: 'MBBS, MS, MCH', specialty: 'Neurosciences', experience: '18+ Years', image: 'assets/Doc-Side/Dr. Prakash Chandra (Neuro Surgeon).webp', profileUrl: 'doctors/prakash-chandra.php' },
+                { id: 'prakash-chandra', name: 'Dr. Prakash Chandra', qualifications: 'MBBS, MS, MCH', specialty: 'Neuro & Spine Surgery', experience: '50+ Years', image: 'assets/Doc-Side/Dr. Prakash Chandra (Neuro Surgeon).webp', profileUrl: 'doctors/prakash-chandra.php' },
 
                 // Oncology (2 doctors)
                 { id: 'pk-raina', name: 'Dr. P K Raina', qualifications: 'MBBS, MS', specialty: 'Oncology (Cancer Care)', experience: '20+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Oncologist - Dr. P-K-Raina.webp', profileUrl: 'doctors/pk-raina.php' },

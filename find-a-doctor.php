@@ -250,7 +250,7 @@
                 { id: 'awnindra-singh', name: 'Dr. Awnindra Kumar Singh', qualifications: 'MBBS, MD, PGDCC', specialty: 'Cardiology', experience: '16+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/-Dr. Awnindra-Kumar-Singh-Cardiologist.webp', hasStaticPage: true },
                 { id: 'ravi-shekhar-singh', name: 'Dr. Ravi Shekhar Singh', qualifications: 'MBBS, DCH', specialty: 'Pediatrics & Neonatology', experience: '10+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', hasStaticPage: true },
                 { id: 'ashish-basant', name: 'Dr. Ashish Basant', qualifications: 'MBBS, MD', specialty: 'Pediatrics & Neonatology', experience: '8+ Years', image: 'assets/new-doctors-side/ashish basant.webp', hasStaticPage: true },
-                { id: 'prakash-chandra', name: 'Dr. Prakash Chandra', qualifications: 'MBBS, MS, MCH', specialty: 'Neurosciences', experience: '18+ Years', image: 'assets/Doc-Side/Dr. Prakash Chandra (Neuro Surgeon).webp', hasStaticPage: true },
+                { id: 'prakash-chandra', name: 'Dr. Prakash Chandra', qualifications: 'MBBS, MS, MCH', specialty: 'Neuro & Spine Surgery', experience: '50+ Years', image: 'assets/Doc-Side/Dr. Prakash Chandra (Neuro Surgeon).webp', hasStaticPage: true },
                 { id: 'vijay-raj', name: 'Dr. Vijay Raj', qualifications: 'MBBS, MS, MCH', specialty: 'Neuro & Spine Surgery', experience: '15+ Years', image: 'assets/Doc-Side/vijayraj.webp', hasStaticPage: true },
                 { id: 'bharti-sahni', name: 'Dr. Bharti Sahni', qualifications: 'MBBS, MD, DM (Clinical Haematology)', specialty: 'Haematology & Bone Marrow Transplant', experience: '', image: 'assets/doctor-latest/dr-bharti-onco.webp', hasStaticPage: true }
             ];
