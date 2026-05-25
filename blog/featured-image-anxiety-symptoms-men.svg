@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF7F2"/>
+      <stop offset="50%" stop-color="#F5F0E8"/>
+      <stop offset="100%" stop-color="#E8DCCB"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C8A96B"/>
+      <stop offset="100%" stop-color="#D4B87A"/>
+    </linearGradient>
+    <linearGradient id="beigeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8DCCB"/>
+      <stop offset="100%" stop-color="#D4C9B5"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="60"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="675" fill="url(#bgGrad)"/>
+
+  <!-- Abstract curved shapes -->
+  <ellipse cx="950" cy="50" rx="350" ry="280" fill="url(#goldGrad)" opacity="0.15" filter="url(#blur)"/>
+  <ellipse cx="200" cy="620" rx="280" ry="200" fill="url(#beigeGrad)" opacity="0.3" filter="url(#blur)"/>
+  <ellipse cx="850" cy="350" rx="150" ry="120" fill="url(#goldGrad)" opacity="0.1" filter="url(#blur)"/>
+  <ellipse cx="1050" cy="520" rx="100" ry="80" fill="#C8A96B" opacity="0.08" filter="url(#blur)"/>
+
+  <!-- Bottom wave -->
+  <path d="M-50 600 Q300 520 600 600 Q900 680 1250 580 V700 H-50 Z" fill="url(#goldGrad)" opacity="0.08"/>
+
+  <!-- Geometric accents -->
+  <circle cx="120" cy="120" r="50" fill="none" stroke="#C8A96B" stroke-width="1.5" opacity="0.3"/>
+  <circle cx="180" cy="200" r="30" fill="none" stroke="#C8A96B" stroke-width="1" opacity="0.25"/>
+  <circle cx="200" cy="160" r="18" fill="#C8A96B" opacity="0.08"/>
+
+  <!-- Premium badge -->
+  <g transform="translate(980, 35)">
+    <rect x="0" y="0" width="170" height="45" rx="22" fill="#1A1A1A" opacity="0.9"/>
+    <path d="M25 22 L30 12 L35 22 M30 12 L30 32" stroke="#C8A96B" stroke-width="2" fill="none" transform="translate(0,2)"/>
+    <path d="M30 22 L30 32 M22 27 L38 27" stroke="#C8A96B" stroke-width="2"/>
+    <text x="55" y="28" font-family="Arial, sans-serif" font-size="13" fill="#C8A96B" font-weight="600" letter-spacing="2">RAJ HOSPITAL</text>
+  </g>
+
+  <!-- Left side content -->
+  <g transform="translate(60, 180)">
+    <!-- Hindi headline -->
+    <text x="0" y="60" font-family="Arial, 'Noto Sans Devanagari', sans-serif" font-size="68" font-weight="900" fill="#1A1A1A">पुरुषों में</text>
+    <text x="0" y="140" font-family="Arial, 'Noto Sans Devanagari', sans-serif" font-size="68" font-weight="900" fill="#C8A96B">चिंता के लक्षण</text>
+
+    <!-- Subheadline -->
+    <rect x="4" y="170" width="4" height="50" fill="#C8A96B"/>
+    <text x="24" y="195" font-family="Arial, 'Noto Sans Devanagari', sans-serif" font-size="22" fill="#4A4A4A" font-weight="500">तनाव और मानसिक स्वास्थ्य</text>
+    <text x="24" y="225" font-family="Arial, 'Noto Sans Devanagari', sans-serif" font-size="22" fill="#4A4A4A" font-weight="500">समस्याओं के सामान्य संकेत</text>
+
+    <!-- CTA Button -->
+    <g transform="translate(0, 260)">
+      <rect width="220" height="55" rx="27" fill="#1A1A1A" filter="url(#glow)"/>
+      <text x="30" y="35" font-family="Arial, sans-serif" font-size="18" fill="#FFFFFF" font-weight="600">पूरा लेख पढ़ें</text>
+      <path d="M185 27 L195 27 M190 22 L195 27 L190 32" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+    </g>
+  </g>
+
+  <!-- Right side visual -->
+  <g transform="translate(720, 120)">
+    <!-- Glow effect -->
+    <ellipse cx="220" cy="220" rx="150" ry="150" fill="url(#goldGrad)" opacity="0.12" filter="url(#blur)"/>
+
+    <!-- Frame -->
+    <rect x="0" y="0" width="400" height="430" rx="24" fill="url(#goldGrad)" opacity="0.2"/>
+    <rect x="4" y="4" width="392" height="422" rx="22" fill="none" stroke="url(#goldGrad)" stroke-width="2" opacity="0.4"/>
+
+    <!-- Inner frame -->
+    <rect x="20" y="20" width="360" height="390" rx="20" fill="#FFFFFF"/>
+    <rect x="20" y="20" width="360" height="390" rx="20" fill="url(#beigeGrad)" opacity="0.2"/>
+
+    <!-- Doctor illustration -->
+    <circle cx="200" cy="140" r="80" fill="url(#beigeGrad)"/>
+
+    <!-- Head -->
+    <ellipse cx="200" cy="130" rx="55" ry="65" fill="#4A4A4A"/>
+
+    <!-- Body/Shoulders -->
+    <path d="M80 380 Q80 280 200 280 Q320 280 320 380" fill="#1A1A1A"/>
+
+    <!-- Stethoscope -->
+    <path d="M130 290 Q110 330 140 365" stroke="#C8A96B" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <circle cx="140" cy="370" r="12" fill="#C8A96B"/>
+    <path d="M270 290 Q290 330 260 365" stroke="#C8A96B" stroke-width="5" fill="none" stroke-linecap="round"/>
+
+    <!-- Medical cross on coat -->
+    <rect x="175" y="300" width="50" height="12" rx="3" fill="#FFFFFF"/>
+    <rect x="194" y="281" width="12" height="50" rx="3" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Floating medical plus icons -->
+  <g transform="translate(680, 140)" opacity="0.7">
+    <rect x="-2" y="-15" width="4" height="30" rx="2" fill="#C8A96B"/>
+    <rect x="-15" y="-2" width="30" height="4" rx="2" fill="#C8A96B"/>
+  </g>
+  <g transform="translate(620, 380)" opacity="0.6">
+    <rect x="-2" y="-12" width="4" height="24" rx="2" fill="#C8A96B"/>
+    <rect x="-12" y="-2" width="24" height="4" rx="2" fill="#C8A96B"/>
+  </g>
+  <g transform="translate(850, 220)" opacity="0.5">
+    <rect x="-2" y="-10" width="4" height="20" rx="2" fill="#C8A96B"/>
+    <rect x="-10" y="-2" width="20" height="4" rx="2" fill="#C8A96B"/>
+  </g>
+
+  <!-- Logo area -->
+  <g transform="translate(60, 600)">
+    <rect width="55" height="55" rx="12" fill="#1A1A1A"/>
+    <path d="M27.5 15 L27.5 40 M15 27.5 L40 27.5" stroke="#C8A96B" stroke-width="3"/>
+    <text x="70" y="37" font-family="Arial, sans-serif" font-size="16" fill="#1A1A1A" font-weight="700" letter-spacing="1">RAJ HOSPITAL</text>
+  </g>
+</svg>
