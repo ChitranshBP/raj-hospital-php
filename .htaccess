@@ -11,6 +11,15 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^([^.]+)/?$ $1.php [L]
 
+
+
+
+RewriteEngine On
+
+# Remove .php extension
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
+RewriteRule ^ %1/ [R=301,L]
+
 # Add trailing slash only for /blog/ URLs
 RewriteCond %{REQUEST_URI} ^/blog/ [NC]
 RewriteCond %{REQUEST_URI} !/$
@@ -20,6 +29,8 @@ RewriteRule ^(.*)$ /$1/ [R=301,L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.+)/$ $1.php [L]
+
+
 
 
 
