@@ -1366,23 +1366,6 @@ Best Hospital in Jharkhand
         </div>
     </div>
 
-    <!-- Homepage Popup Modal - NCLS Training Program -->
-    <div id="ncls-popup" class="fixed inset-0 z-[60] flex items-center justify-center bg-black/70 backdrop-blur-sm px-4 hidden transition-opacity duration-300">
-        <div class="relative w-fit max-w-[95vw] md:max-w-[80vw] lg:max-w-[900px] mx-auto rounded-xl shadow-2xl bg-white overflow-hidden transform transition-all duration-300 scale-95 opacity-0 inline-block align-middle leading-none" id="ncls-popup-content">
-            <button id="close-ncls-popup" class="absolute top-2 right-2 md:top-3 md:right-3 z-20 w-8 h-8 md:w-9 md:h-9 bg-black/40 hover:bg-black/70 rounded-full flex items-center justify-center transition-all duration-300 text-white cursor-pointer shadow-lg outline-none">
-                <i data-feather="x" class="w-4 h-4 md:w-5 md:h-5"></i>
-            </button>
-            <img src="assets/popup/registration-popup.jpeg" alt="NCLS Training Program - Raj Hospital" class="w-auto h-auto max-w-full max-h-[70vh] object-contain block mx-auto">
-            <div class="bg-gradient-to-r from-orange-500 to-orange-600 p-4 md:p-6 text-center">
-                <p class="text-white text-sm md:text-base mb-3">📞 For Further Details: <a href="tel:9771466641" class="underline hover:text-orange-200 transition-colors"><strong>9771466641</strong></a></p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJky8BKDL2IFl0O3jaTIqrln3JF0nhx4IkZodlRmT7LiL5-g/viewform?usp=header" target="_blank" class="inline-flex items-center justify-center gap-2 bg-white text-orange-600 font-bold px-8 py-3 rounded-lg hover:bg-orange-50 transition-colors shadow-lg text-base md:text-lg">
-                    <i data-feather="edit-3" class="w-5 h-5"></i>
-                    Register Now - Fill Form
-                </a>
-            </div>
-        </div>
-    </div>
-
     <!-- Video Modal -->
     <div id="video-modal"
         class="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm px-4 hidden">
@@ -1410,12 +1393,7 @@ Best Hospital in Jharkhand
             const popupContent = document.getElementById('popup-content');
             const closePopupBtn = document.getElementById('close-popup');
 
-            // NCLS Popup elements
-            const nclsPopup = document.getElementById('ncls-popup');
-            const nclsPopupContent = document.getElementById('ncls-popup-content');
-            const closeNclsPopupBtn = document.getElementById('close-ncls-popup');
-
-            // Show first popup on page load
+            // Show popup on page load
             if (popup && popupContent) {
                 setTimeout(() => {
                     popup.classList.remove('hidden');
@@ -1425,20 +1403,11 @@ Best Hospital in Jharkhand
                 }, 500);
             }
 
-            const showNclsPopup = () => {
-                nclsPopup.classList.remove('hidden');
-                void nclsPopup.offsetWidth;
-                nclsPopupContent.classList.remove('scale-95', 'opacity-0');
-                nclsPopupContent.classList.add('scale-100', 'opacity-100');
-            };
-
             const closePopup = () => {
                 popupContent.classList.remove('scale-100', 'opacity-100');
                 popupContent.classList.add('scale-95', 'opacity-0');
                 setTimeout(() => {
                     popup.classList.add('hidden');
-                    // Show NCLS popup after closing the first popup
-                    showNclsPopup();
                 }, 300);
             };
 
@@ -1447,24 +1416,6 @@ Best Hospital in Jharkhand
                 popup.addEventListener('click', (e) => {
                     if (e.target === popup) closePopup();
                 });
-            }
-
-            // NCLS Popup Logic
-            if (nclsPopup && nclsPopupContent) {
-                const closeNclsPopup = () => {
-                    nclsPopupContent.classList.remove('scale-100', 'opacity-100');
-                    nclsPopupContent.classList.add('scale-95', 'opacity-0');
-                    setTimeout(() => {
-                        nclsPopup.classList.add('hidden');
-                    }, 300);
-                };
-
-                if (closeNclsPopupBtn) {
-                    closeNclsPopupBtn.addEventListener('click', closeNclsPopup);
-                    nclsPopup.addEventListener('click', (e) => {
-                        if (e.target === nclsPopup) closeNclsPopup();
-                    });
-                }
             }
 
             // --- Scroll Animation Observer ---
