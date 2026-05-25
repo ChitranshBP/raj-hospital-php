@@ -1,31 +1,13 @@
-
-Options -MultiViews
-RewriteEngine On
-RewriteBase /
-
-# 1. External Redirect: /filename.php -> /filename
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/+(.+)\.php[\s?] [NC]
-RewriteRule ^ /%1 [R=301,L]
-
-# 2. Internal Rewrite: /filename -> /filename.php
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.php -f
-RewriteRule ^([^.]+)/?$ $1.php [L]
-
-
-
-
-
-
 RewriteEngine On
 
-# Remove .php extension from blog URLs
-RewriteCond %{THE_REQUEST} \s/+blog/([^.]+)\.php[\s?] [NC]
+# Remove .php extension from all blog URLs
+RewriteCond %{THE_REQUEST} \s/+blog/(.+?)\.php[\s?] [NC]
 RewriteRule ^blog/(.+)\.php$ /blog/$1/ [R=301,L]
 
 # Add trailing slash to blog URLs
 RewriteCond %{REQUEST_URI} ^/blog/ [NC]
 RewriteCond %{REQUEST_URI} !/$
+RewriteCond %{REQUEST_URI} !\.[a-zA-Z0-9]{1,5}$ 
 RewriteRule ^blog/(.+)$ /blog/$1/ [R=301,L]
 
 # Internally rewrite clean blog URL to .php file
