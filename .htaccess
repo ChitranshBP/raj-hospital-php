@@ -16,19 +16,18 @@ RewriteRule ^([^.]+)/?$ $1.php [L]
 
 RewriteEngine On
 
-# Remove .php extension
-RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
-RewriteRule ^ %1/ [R=301,L]
+# Remove .php extension from blog URLs
+RewriteCond %{THE_REQUEST} \s/+blog/([^.]+)\.php[\s?] [NC]
+RewriteRule ^blog/(.+)\.php$ /blog/$1/ [R=301,L]
 
-# Add trailing slash only for /blog/ URLs
+# Add trailing slash to blog URLs
 RewriteCond %{REQUEST_URI} ^/blog/ [NC]
 RewriteCond %{REQUEST_URI} !/$
-RewriteRule ^(.*)$ /$1/ [R=301,L]
+RewriteRule ^blog/(.+)$ /blog/$1/ [R=301,L]
 
-# Internally load .php files
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^(.+)/$ $1.php [L]
+# Internally rewrite clean blog URL to .php file
+RewriteCond %{DOCUMENT_ROOT}/blog/$1.php -f
+RewriteRule ^blog/(.+)/$ /blog/$1.php [L]
 
 
 
