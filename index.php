@@ -993,8 +993,8 @@ Best Hospital in Jharkhand
                     <div
                         class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl shadow-md flex flex-col overflow-hidden">
                         <button class="relative group w-full text-left cursor-pointer video-trigger"
-                            data-video-id="x6fgmqLUabI">
-                            <img src="https://img.youtube.com/vi/x6fgmqLUabI/maxresdefault.jpg" alt="Black Fungus"
+                            data-video-id="NL9S7z4LJUY">
+                            <img src="https://img.youtube.com/vi/NL9S7z4LJUY/maxresdefault.jpg" alt="Black Fungus"
                                 class="w-full h-48 object-cover">
                             <div
                                 class="absolute inset-0 flex items-center justify-center bg-black/20 group-hover:bg-black/30 transition-all">
@@ -1005,8 +1005,7 @@ Best Hospital in Jharkhand
                             </div>
                         </button>
                         <div class="p-4 flex-1 flex flex-col">
-                            <div class="font-semibold text-[#0191C7] leading-tight">What is Black Fungus? | All You Need
-                                to Know About Black Fungus | Dr. Mohon Ahmed</div>
+                            <div class="font-semibold text-[#0191C7] leading-tight">Hypertension। Blood Pressure क्यों बढ़ जाता है, बढ़ने के लक्षण, कैसे करें कंट्रोल?</div>
                         </div>
                     </div>
                     <!-- Video 2 -->
