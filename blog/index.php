@@ -86,7 +86,7 @@
                     'excerpt' => 'Learn about anxiety symptoms in men, stress symptoms, anxiety attack symptoms, and mental health issues. Complete guide on high anxiety symptoms.',
                     'category' => 'Mental Health',
                     'date' => 'May 22, 2026',
-                    'image' => 'assets/img/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues:.jpeg.jpeg'
+                    'image' => 'assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png'
                 ],
                 'acidity-symptoms-in-hindi' => [
                     'title' => 'Acidity ke Lakshan | Acidity Symptoms in Hindi',
