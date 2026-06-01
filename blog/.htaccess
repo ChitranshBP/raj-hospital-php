@@ -1,6 +1,9 @@
 RewriteEngine On
 RewriteBase /blog/
 
+# Redirect index or index/ to /blog/
+RewriteRule ^index/?$ /blog/ [R=301,L]
+
 # Remove .php and redirect to clean URL with trailing slash
 RewriteCond %{REQUEST_URI} ^/blog/.+\.php$
 RewriteRule ^(.+)\.php$ /blog/$1/ [R=301,L]
