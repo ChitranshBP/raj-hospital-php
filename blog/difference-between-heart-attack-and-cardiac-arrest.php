@@ -162,7 +162,7 @@
 </head>
 
 <body class="bg-gray-50 font-sans">
-    <?php include $base_url . 'components/header.php'; ?>
+    <?php include $base_url . 'components/navbar.php'; ?>
 
     <main class="max-w-4xl mx-auto px-4 py-8">
         <article class="bg-white rounded-xl shadow-lg overflow-hidden">
