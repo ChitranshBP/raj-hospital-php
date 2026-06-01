@@ -213,6 +213,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital",
+        "description": "पुरुषों में HIV के लक्षण 1 साल बाद कैसे दिखते हैं। जानें HIV infection के 1 साल बाद कौन से symptoms appear होते हैं, कब testing करनी चाहिए, और treatment options। Complete Hindi guide।",
+        "url": "https://rajhospitals.com/blog/hiv-symptoms-in-men-after-1-year",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/hiv-symptoms-in-men-after-1-year.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/hiv-symptoms-in-men-after-1-year",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -325,7 +432,7 @@
                     1 साल बाद HIV testing बहुत important है, especially अगर आपको पता है कि आप risky situation में थे:
                 </p>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Testing कब करवानी चाहिए:</strong>
                     <ul class="text-gray-700 mt-2 space-y-1 list-disc list-inside">
                         <li>Unprotected sexual contact के 3 months बाद</li>
@@ -454,7 +561,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital में डॉक्टर को कब दिखाना चाहिए?</h3>
@@ -489,7 +596,7 @@
                 </div>
 
                 <!-- Disclaimer -->
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mt-8 text-sm">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Disclaimer:</strong>
                     <span class="text-gray-700"> यह information केवल educational purposes के लिए है। यह medical advice का replacement नहीं है। किसी भी health concern के लिए qualified healthcare professional से जरूर consultation करें।</span>
                 </div>

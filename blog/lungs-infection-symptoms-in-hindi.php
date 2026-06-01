@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "फेफड़ों में इन्फेक्शन के लक्षण - कारण और इलाज | RAJ Hospital Ranchi",
+        "description": "फेफड़ों में इन्फेक्शन के प्रमुख लक्षण, कारण और घरेलू उपाय जानें। Pneumonia और bronchitis में अंतर। जानें कब अस्पताल जाना है।",
+        "url": "https://rajhospitals.com/blog/lungs-infection-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/lungs-infection-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/lungs-infection-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "फेफड़ों में इन्फेक्शन के लक्षण - कारण और इलाज | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,19 +231,19 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">फेफड़ों में इन्फेक्शन क्या है?</h2>
+                <h2 class="raj-h2">फेफड़ों में इन्फेक्शन क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     जब फेफड़ों में <strong>वायरस, बैक्टीरिया या फंगस</strong> के कारण संक्रमण होता है, तो इसे फेफड़ों का इन्फेक्शन कहते हैं। इससे फेफड़ों की small air sacs (alveoli) में सूजन और fluid भर जाता है, जिससे सांस लेने में कठिनाई होती है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> फेफड़ों का इन्फेक्शन अगर समय पर इलाज नहीं किया गया तो <strong>श्वसन विफलता</strong> या <strong>sepsis</strong> जैसी गंभीर समस्या हो सकती है।</span>
                 </div>
 
                 <!-- Section 2: Types -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">फेफड़ों के इन्फेक्शन के प्रकार</h2>
+                <h2 class="raj-h2">फेफड़ों के इन्फेक्शन के प्रकार</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -154,7 +261,7 @@
                 </div>
 
                 <!-- Section 3: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">फेफड़ों में इन्फेक्शन के लक्षण</h2>
+                <h2 class="raj-h2">फेफड़ों में इन्फेक्शन के लक्षण</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -184,7 +291,7 @@
                 </div>
 
                 <!-- Section 4: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">फेफड़ों के इन्फेक्शन के कारण</h2>
+                <h2 class="raj-h2">फेफड़ों के इन्फेक्शन के कारण</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>वायरस:</strong> Influenza, RSV, Rhinovirus - सबसे आम कारण</li>
@@ -196,23 +303,23 @@
                 </ul>
 
                 <!-- Section 5: Home Care -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">घरेलू देखभाल और राहत</h2>
+                <h2 class="raj-h2">घरेलू देखभाल और राहत</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🛏️ आराम</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="moon" class="raj-icon raj-icon-md raj-icon-gray" aria-hidden="true"></i>️ आराम</h4>
                         <p class="text-sm text-gray-600">पर्याप्त आराम करें और भारी Physical activity से बचें।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">💧 fluids लें</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i> fluids लें</h4>
                         <p class="text-sm text-gray-600">गर्म पानी, soups और herbal teas पिएं। कफ पतला करने में मदद।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🌡️ बुखार पर नियंत्रण</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="thermometer" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i>️ बुखार पर नियंत्रण</h4>
                         <p class="text-sm text-gray-600">पैरासिटामोल लें। ठंडी स्पंजिंग करें।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🍯 गर्म पानी और शहद</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i> गर्म पानी और शहद</h4>
                         <p class="text-sm text-gray-600">गर्म पानी में शहद और नींबू मिलाकर पिएं। गले और खांसी में राहत।</p>
                     </div>
                 </div>
@@ -225,10 +332,10 @@
                 </div>
 
                 <!-- Section 6: When to see doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">डॉक्टर को कब दिखाएं?</h2>
+                <h2 class="raj-h2">डॉक्टर को कब दिखाएं?</h2>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ तुरंत डॉक्टर से मिलें अगर:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> तुरंत डॉक्टर से मिलें अगर:</strong>
                     <ul class="list-disc list-inside space-y-1 text-gray-700 mt-2">
                         <li>सांस लेने में गंभीर तकलीफ हो</li>
                         <li>बुखार 103°F+ हो और न घटे</li>
@@ -241,7 +348,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -286,7 +393,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">फेफड़ों में इन्फेक्शन के लक्षण - कारण और इलाज में डॉक्टर को कब दिखाना चाहिए?</h3>

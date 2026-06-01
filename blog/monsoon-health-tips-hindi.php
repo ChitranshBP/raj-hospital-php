@@ -117,6 +117,31 @@ $base_url = '../';
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -148,8 +173,10 @@ $base_url = '../';
         ]
     }
     </script>
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
+    <?php include $base_url . 'components/navbar.php'; ?>
     <?php include '../nav.php'; ?>
 
     <!-- Breadcrumb -->
@@ -469,7 +496,7 @@ $base_url = '../';
                     <li><strong>भारी थकान</strong> और कमज़ोरी</li>
                     <li><strong>मतली और उल्टी</strong></li>
                 </ul>
-                <p class="text-red-700 text-sm font-semibold mt-3">⚠️ अगर ये लक्षण हों तो तुरंत ब्लड टेस्ट कराएँ और डॉक्टर से मिलें!</p>
+                <p class="text-red-700 text-sm font-semibold mt-3"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> अगर ये लक्षण हों तो तुरंत ब्लड टेस्ट कराएँ और डॉक्टर से मिलें!</p>
             </div>
 
             <!-- CTA Box 2 -->
@@ -596,5 +623,6 @@ $base_url = '../';
     <script>
         feather.replace();
     </script>
+    <?php include $base_url . 'components/footer.php'; ?>
 </body>
 </html>

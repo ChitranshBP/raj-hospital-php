@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital",
+        "description": "Stroke symptoms in men in Hindi - पहचानें, पहचानें और बचें। Early warning signs, FAST test, causes aur prevention tips। Time is brain - जानें कब emergency help लें।",
+        "url": "https://rajhospitals.com/blog/stroke-symptoms-in-men-in-hindi",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/stroke-symptoms-in-men-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/stroke-symptoms-in-men-in-hindi",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: What is Stroke -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Stroke Kya Hai?</h2>
+                <h2 class="raj-h2">Stroke Kya Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Stroke</strong> तब होता है जब brain में blood supply suddenly stop हो जाती है या कम हो जाती है। इससे brain cells oxygen की कमी में मरने लगते हैं।
@@ -140,13 +247,13 @@
                     </div>
                 </div>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Fact:</strong>
                     <span class="text-gray-700"> Men में stroke women की तुलना में younger age में ज्यादा होता है। 45-65 साल के बीच men का risk significantly higher है।</span>
                 </div>
 
                 <!-- Section 2: FAST Test -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAST Test - Stroke को पहचानें</h2>
+                <h2 class="raj-h2">FAST Test - Stroke को पहचानें</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>FAST</strong> एक simple test है जो आपको stroke के symptoms को quickly पहचानने में मदद करता है:
@@ -175,13 +282,13 @@
                     </div>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Emergency!</strong>
                     <span class="text-gray-700"> अगर कोई भी FAST sign दिखे, तुरंत 108 या local emergency number पर call करें। Every minute counts!</span>
                 </div>
 
                 <!-- Section 3: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Stroke Symptoms in Men - Warning Signs</h2>
+                <h2 class="raj-h2">Stroke Symptoms in Men - Warning Signs</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Stroke ke symptoms</strong> कई तरह के हो सकते हैं। इन्हें जानना important है:
@@ -219,7 +326,7 @@
                 </ul>
 
                 <!-- Section 4: Men Specific -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Men में Stroke Symptoms - Gender Differences</h2>
+                <h2 class="raj-h2">Men में Stroke Symptoms - Gender Differences</h2>
 
                 <p class="text-gray-700 mb-4">
                     Research shows कि <strong>men और women में stroke symptoms</strong> कुछ different हो सकते हैं। Men में कुछ unique symptoms भी होती हैं:
@@ -229,27 +336,27 @@
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Common in Men</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Sudden numbness या weakness especially एक side</li>
-                            <li>• Trouble walking, loss of balance</li>
-                            <li>• Heavy feeling in limbs</li>
-                            <li>• Fatigue और weakness</li>
-                            <li>• Stubborn headache</li>
+                            <li>Sudden numbness या weakness especially एक side</li>
+                            <li>Trouble walking, loss of balance</li>
+                            <li>Heavy feeling in limbs</li>
+                            <li>Fatigue और weakness</li>
+                            <li>Stubborn headache</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Risk Factors Unique to Men</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Higher alcohol consumption</li>
-                            <li>• Smoking history</li>
-                            <li>• Illegal drug use</li>
-                            <li>• Physical inactivity</li>
-                            <li>• High stress jobs</li>
+                            <li>Higher alcohol consumption</li>
+                            <li>Smoking history</li>
+                            <li>Illegal drug use</li>
+                            <li>Physical inactivity</li>
+                            <li>High stress jobs</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 5: Risk Factors -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Stroke Ke Risk Factors</h2>
+                <h2 class="raj-h2">Stroke Ke Risk Factors</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Stroke ke karan</strong> (causes) aur risk factors को जानना prevention के लिए important है:
@@ -259,45 +366,45 @@
                     <div class="bg-red-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-700">Controllable Factors</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• <strong>High BP</strong> - सबसे important risk factor</li>
-                            <li>• <strong>Diabetes</strong> - blood sugar control</li>
-                            <li>• <strong>High cholesterol</strong></li>
-                            <li>• <strong>Obesity</strong></li>
-                            <li>• <strong>Smoking</strong></li>
-                            <li>• <strong>Alcohol</strong></li>
+                            <li><strong>High BP</strong> - सबसे important risk factor</li>
+                            <li><strong>Diabetes</strong> - blood sugar control</li>
+                            <li><strong>High cholesterol</strong></li>
+                            <li><strong>Obesity</strong></li>
+                            <li><strong>Smoking</strong></li>
+                            <li><strong>Alcohol</strong></li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">Non-Controllable Factors</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Age (risk बढ़ती है after 55)</li>
-                            <li>• Family history</li>
-                            <li>• Previous stroke/TIA</li>
-                            <li>• Race/ethnicity</li>
-                            <li>• Gender (men higher risk)</li>
+                            <li>Age (risk बढ़ती है after 55)</li>
+                            <li>Family history</li>
+                            <li>Previous stroke/TIA</li>
+                            <li>Race/ethnicity</li>
+                            <li>Gender (men higher risk)</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Prevention Tip:</strong>
                     <span class="text-gray-700"> <a href="<?php echo $base_url; ?>remedies-for-high-bp.php" class="text-secondary-600 hover:underline">High BP control करना</a> stroke prevention का सबसे effective तरीका है। Regular BP check aur medicines लें।</span>
                 </div>
 
                 <!-- Section 6: TIA -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Mini-Stroke (TIA) - Warning Sign</h2>
+                <h2 class="raj-h2">Mini-Stroke (TIA) - Warning Sign</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>TIA (Transient Ischemic Attack)</strong> या "mini-stroke" एक temporary period होता है जब brain में blood flow briefly रुक जाती है। Symptoms几分钟內消失 BUT यह एक serious warning sign है!
                 </p>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Important:</strong>
                     <span class="text-gray-700"> TIA के बाद stroke का risk 10-15% बढ़ जाती है, especially पहले 48 hours में। अगर TIA symptoms हों तो भी immediately medical help लें।</span>
                 </div>
 
                 <!-- Section 7: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Stroke Ka Treatment</h2>
+                <h2 class="raj-h2">Stroke Ka Treatment</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Stroke treatment</strong> type aur timing पर depend करती है:
@@ -307,17 +414,17 @@
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Ischemic Stroke (Clot-Based)</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• <strong>tPA (Clot buster)</strong> - symptoms शुरू होने के 4.5 hours के अंदर</li>
-                            <li>• <strong>Mechanical thrombectomy</strong> - large clots remove करने की procedure</li>
-                            <li>• <strong>Blood thinners</strong> - prevent future clots</li>
+                            <li><strong>tPA (Clot buster)</strong> - symptoms शुरू होने के 4.5 hours के अंदर</li>
+                            <li><strong>Mechanical thrombectomy</strong> - large clots remove करने की procedure</li>
+                            <li><strong>Blood thinners</strong> - prevent future clots</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Hemorrhagic Stroke (Bleeding)</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Surgery to repair blood vessel</li>
-                            <li>• Blood pressure control</li>
-                            <li>• Medication to reduce swelling</li>
+                            <li>Surgery to repair blood vessel</li>
+                            <li>Blood pressure control</li>
+                            <li>Medication to reduce swelling</li>
                         </ul>
                     </div>
                 </div>
@@ -334,7 +441,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Stroke Symptoms in Men</h2>
+                <h2 class="raj-h2">FAQs - Stroke Symptoms in Men</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -383,7 +490,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs में डॉक्टर को कब दिखाना चाहिए?</h3>

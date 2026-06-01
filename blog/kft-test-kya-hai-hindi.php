@@ -92,6 +92,112 @@
 }
 </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "KFT Test Kya Hota Hai | KFT Test in Hindi - Complete Guide | RAJ Hospital",
+        "description": "KFT test kya hota hai in Hindi जानें। Kidney Function Test की पूरी जानकारी, normal values, test procedure, cost, aur interpretation। KFT test ke baare mein full details।",
+        "url": "https://rajhospitals.com/blog/kft-test-kya-hai-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/kft-test-kya-hai-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/kft-test-kya-hai-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "KFT Test Kya Hota Hai | KFT Test in Hindi - Complete Guide | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
     <!-- RAJ SEO HOWTO SCHEMA -->
     <script type="application/ld+json">
 {
@@ -128,6 +234,7 @@
     ]
 }
 </script>
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -203,14 +310,14 @@
                     जब kidney सही से काम नहीं करते, तो खून में कुछ waste products (जैसे <strong>creatinine</strong> और <strong>urea</strong>) की level बढ़ जाती है। <strong>KFT test</strong> इन levels को measure करके बताता है कि kidney कितनी healthy हैं।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-4">
+                <div class="raj-callout raj-callout-info">
                     <h3 class="font-semibold text-gray-800 mb-2">KFT Test Kya Hai - Quick Summary</h3>
                     <ul class="text-gray-600 space-y-1 text-sm">
-                        <li>• <strong>Full Name:</strong> Kidney Function Test (Renal Function Test)</li>
-                        <li>• <strong>Sample:</strong> Blood (blood test)</li>
-                        <li>• <strong>Time:</strong> 5-10 minutes for sample collection</li>
-                        <li>• <strong>Reports:</strong> 2-4 hours to next day</li>
-                        <li>• <strong>Pain:</strong> Minimal (just needle prick)</li>
+                        <li><strong>Full Name:</strong> Kidney Function Test (Renal Function Test)</li>
+                        <li><strong>Sample:</strong> Blood (blood test)</li>
+                        <li><strong>Time:</strong> 5-10 minutes for sample collection</li>
+                        <li><strong>Reports:</strong> 2-4 hours to next day</li>
+                        <li><strong>Pain:</strong> Minimal (just needle prick)</li>
                     </ul>
                 </div>
             </section>
@@ -402,7 +509,7 @@
                     </table>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r-lg">
+                <div class="raj-callout raj-callout-warning">
                     <p class="text-gray-700">
                         <strong>Note:</strong> Normal values lab aur age के according thoda change ho sakti hain। Reports पर hamesha reference range check करें।
                     </p>
@@ -512,7 +619,7 @@
                     </div>
                 </div>
 
-                <div class="bg-orange-100 border-l-4 border-orange-500 p-4 rounded-r-lg">
+                <div class="raj-callout raj-callout-warning">
                     <p class="text-gray-700 text-sm">
                         <strong>Pro Tip:</strong> कई labs <strong>health packages</strong> offer करते हैं जिनमें <strong>KFT</strong>, <strong>LFT</strong>, aur कई और tests <strong>economical price</strong> पर मिलते हैं। <strong>RAJ Hospital</strong> में competitive rates aur quality testing available hai।
                     </p>
@@ -529,21 +636,21 @@
                 </p>
 
                 <div class="space-y-4">
-                    <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg">
+                    <div class="raj-callout raj-callout-success">
                         <h3 class="font-semibold text-green-800 mb-2">Normal KFT Results</h3>
                         <p class="text-gray-700 text-sm">
                             सभी values normal range में hain। यह indicates करता है कि kidney properly काम कर रही हैं। फिर भी annual checkups continue रखें especially अगर risk factors hain।
                         </p>
                     </div>
 
-                    <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg">
+                    <div class="raj-callout raj-callout-warning">
                         <h3 class="font-semibold text-yellow-800 mb-2">Mildly Abnormal KFT</h3>
                         <p class="text-gray-700 text-sm">
                             Values thode high ya low hain। Ye dehydration, infection, ya early kidney disease का sign ho सकता है। Doctor further tests ya lifestyle changes recommend कर सकते hain।
                         </p>
                     </div>
 
-                    <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg">
+                    <div class="raj-callout raj-callout-danger">
                         <h3 class="font-semibold text-red-800 mb-2">Significantly Abnormal KFT</h3>
                         <p class="text-gray-700 text-sm">
                             Values साफ बिगड़े हुए hain। यह serious kidney problem का indication ho सकता है। Additional tests (ultrasound, biopsy) aur immediate treatment ki zarurat हो सकती है।
@@ -613,46 +720,46 @@
                     <div class="bg-white border rounded-xl p-5 shadow-sm">
                         <h3 class="font-semibold text-red-600 mb-3">High Creatinine/BUN Ke Karan</h3>
                         <ul class="text-gray-600 space-y-1 text-sm">
-                            <li>• Kidney failure ya kidney disease</li>
-                            <li>• Dehydration</li>
-                            <li>• Heart failure</li>
-                            <li>• Urinary tract obstruction</li>
-                            <li>• High protein diet</li>
-                            <li>• Certain medicines (NSAIDs)</li>
+                            <li>Kidney failure ya kidney disease</li>
+                            <li>Dehydration</li>
+                            <li>Heart failure</li>
+                            <li>Urinary tract obstruction</li>
+                            <li>High protein diet</li>
+                            <li>Certain medicines (NSAIDs)</li>
                         </ul>
                     </div>
 
                     <div class="bg-white border rounded-xl p-5 shadow-sm">
                         <h3 class="font-semibold text-blue-600 mb-3">High Potassium Ke Karan</h3>
                         <ul class="text-gray-600 space-y-1 text-sm">
-                            <li>• Kidney failure</li>
-                            <li>• Certain blood pressure medicines</li>
-                            <li>• Addison's disease</li>
-                            <li>• Severe burns ya injuries</li>
-                            <li>• Metabolic acidosis</li>
+                            <li>Kidney failure</li>
+                            <li>Certain blood pressure medicines</li>
+                            <li>Addison's disease</li>
+                            <li>Severe burns ya injuries</li>
+                            <li>Metabolic acidosis</li>
                         </ul>
                     </div>
 
                     <div class="bg-white border rounded-xl p-5 shadow-sm">
                         <h3 class="font-semibold text-orange-600 mb-3">Low Sodium Ke Karan</h3>
                         <ul class="text-gray-600 space-y-1 text-sm">
-                            <li>• Heart failure</li>
-                            <li>• Liver cirrhosis</li>
-                            <li>• Thyroid problems</li>
-                            <li>• Dehydration</li>
-                            <li>• Overhydration</li>
+                            <li>Heart failure</li>
+                            <li>Liver cirrhosis</li>
+                            <li>Thyroid problems</li>
+                            <li>Dehydration</li>
+                            <li>Overhydration</li>
                         </ul>
                     </div>
 
                     <div class="bg-white border rounded-xl p-5 shadow-sm">
                         <h3 class="font-semibold text-purple-600 mb-3">High Uric Acid Ke Karan</h3>
                         <ul class="text-gray-600 space-y-1 text-sm">
-                            <li>• Gout</li>
-                            <li>• Kidney stones</li>
-                            <li>• Purine-rich diet</li>
-                            <li>• Alcohol consumption</li>
-                            <li>• Chemotherapy</li>
-                            <li>• Thyroid problems</li>
+                            <li>Gout</li>
+                            <li>Kidney stones</li>
+                            <li>Purine-rich diet</li>
+                            <li>Alcohol consumption</li>
+                            <li>Chemotherapy</li>
+                            <li>Thyroid problems</li>
                         </ul>
                     </div>
                 </div>
@@ -682,21 +789,21 @@
                         <div>
                             <h3 class="font-semibold mb-3">Diet Tips</h3>
                             <ul class="space-y-2 text-sm">
-                                <li>✓ <strong>Paani ज्यादा पिएं</strong> - 8-10 glasses daily</li>
-                                <li>✓ <strong>Less salt</strong> - high sodium se blood pressure बढ़ता है</li>
-                                <li>✓ <strong>Protein limit करें</strong> - excess protein kidney पर burden डालता है</li>
-                                <li>✓ <strong>Fresh fruits aur vegetables</strong> खाएं</li>
-                                <li>✓ <strong>Processed food se बचें</strong></li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Paani ज्यादा पिएं</strong> - 8-10 glasses daily</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Less salt</strong> - high sodium se blood pressure बढ़ता है</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Protein limit करें</strong> - excess protein kidney पर burden डालता है</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Fresh fruits aur vegetables</strong> खाएं</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Processed food se बचें</strong></li>
                             </ul>
                         </div>
                         <div>
                             <h3 class="font-semibold mb-3">Lifestyle Tips</h3>
                             <ul class="space-y-2 text-sm">
-                                <li>✓ <strong>Regular exercise</strong> - 30 minutes daily</li>
-                                <li>✓ <strong>Weight control</strong> - obesity kidney को affect करती है</li>
-                                <li>✓ <strong>Smoking band karein</strong> - smoking kidney damage करती है</li>
-                                <li>✓ <strong>Pain killers se बचें</strong> - OTC medicines kidney को harm कर सकते hain</li>
-                                <li>✓ <strong>Regular checkups</strong> - especially diabetes aur BP patients</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Regular exercise</strong> - 30 minutes daily</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Weight control</strong> - obesity kidney को affect करती है</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Smoking band karein</strong> - smoking kidney damage करती है</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Pain killers se बचें</strong> - OTC medicines kidney को harm कर सकते hain</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Regular checkups</strong> - especially diabetes aur BP patients</li>
                             </ul>
                         </div>
                     </div>

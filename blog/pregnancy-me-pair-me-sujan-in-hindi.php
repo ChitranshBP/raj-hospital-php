@@ -117,6 +117,31 @@ $base_url = '../';
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -148,8 +173,10 @@ $base_url = '../';
         ]
     }
     </script>
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
+    <?php include $base_url . 'components/navbar.php'; ?>
     <?php include '../nav.php'; ?>
 
     <!-- Breadcrumb -->
@@ -280,7 +307,7 @@ $base_url = '../';
                 </div>
             </div>
 
-            <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+            <div class="raj-callout raj-callout-success">
                 <p class="text-gray-700 text-sm"><strong>Normal है:</strong> दिन के अंत में पैरों में सूजन जो सुबह कम हो जाती है। दोनों पैरों में symmetric सूजन।</p>
             </div>
 
@@ -305,7 +332,7 @@ $base_url = '../';
                 </ul>
             </div>
 
-            <div class="bg-orange-50 border-l-4 border-orange-500 p-4 rounded-r-lg mb-6">
+            <div class="raj-callout raj-callout-warning">
                 <h4 class="font-bold text-orange-700 mb-2">प्रीक्लेम्पसिया (Preeclampsia) के लक्षण:</h4>
                 <p class="text-gray-700 text-sm">उच्च रक्तचाप + protein in urine + swelling = preeclampsia का खतरा। यह माँ और बच्चे दोनों के लिए खतरनाक है। अगर BP 140/90 से ऊपर हो तो तुरंत संपर्क करें।</p>
             </div>
@@ -532,5 +559,6 @@ $base_url = '../';
     <script>
         feather.replace();
     </script>
+    <?php include $base_url . 'components/footer.php'; ?>
 </body>
 </html>

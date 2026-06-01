@@ -117,6 +117,31 @@ $base_url = '../';
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -148,8 +173,10 @@ $base_url = '../';
         ]
     }
     </script>
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
+    <?php include $base_url . 'components/navbar.php'; ?>
     <?php include '../nav.php'; ?>
 
     <!-- Breadcrumb -->
@@ -196,7 +223,7 @@ $base_url = '../';
         <div class="bg-white rounded-xl shadow-lg p-6 md:p-8">
 
             <!-- Warning Box -->
-            <div class="bg-pink-50 border-l-4 border-pink-500 p-4 rounded-r-lg mb-6">
+            <div class="raj-callout raj-callout-info">
                 <div class="flex">
                     <i data-feather="alert-circle" class="w-5 h-5 text-pink-500 mt-0.5"></i>
                     <div class="ml-3">
@@ -544,5 +571,6 @@ $base_url = '../';
     <script>
         feather.replace();
     </script>
+    <?php include $base_url . 'components/footer.php'; ?>
 </body>
 </html>

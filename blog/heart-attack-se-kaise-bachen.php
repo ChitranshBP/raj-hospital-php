@@ -211,6 +211,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -256,7 +282,7 @@
                 </div>
 
                 <!-- Section 1: Understanding Heart Attack -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Heart Attack Kya Hai? Samjhein Apne Dil Ko</h2>
+                <h2 class="raj-h2-secondary">Heart Attack Kya Hai? Samjhein Apne Dil Ko</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Heart attack</strong> tab hota hai jab heart muscle mein blood flow rok jata hai, usually kisi blockage ki wajah se. Is blockage ka cause 대부분 cholesterol deposits hain jo coronary arteries mein accumulate hote hain. Jab yeh arteries completely block ho jate hain, to heart muscle ko oxygen nahi milta aur woh damaged hone lagta hai.
@@ -267,7 +293,7 @@
                 </p>
 
                 <!-- Section 2: Risk Factors -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Heart Attack Ke Risk Factors Ko Pehchanein</h2>
+                <h2 class="raj-h2-secondary">Heart Attack Ke Risk Factors Ko Pehchanein</h2>
 
                 <p class="text-gray-700 mb-4">
                     Heart attack ke kai risk factors hain jo aap control kar sakte hain aur kuch jo aapke control mein nahi hain:
@@ -277,34 +303,34 @@
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Controllable Risk Factors</h4>
                         <ul class="text-sm text-gray-600 mt-2 space-y-1">
-                            <li>• Smoking aur tobacco use</li>
-                            <li>• High blood pressure</li>
-                            <li>• High cholesterol</li>
-                            <li>• Diabetes</li>
-                            <li>• Obesity</li>
-                            <li>• Sedentary lifestyle</li>
-                            <li>• Excessive alcohol</li>
-                            <li>• Chronic stress</li>
+                            <li>Smoking aur tobacco use</li>
+                            <li>High blood pressure</li>
+                            <li>High cholesterol</li>
+                            <li>Diabetes</li>
+                            <li>Obesity</li>
+                            <li>Sedentary lifestyle</li>
+                            <li>Excessive alcohol</li>
+                            <li>Chronic stress</li>
                         </ul>
                     </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-gray-400">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-gray-700">Non-Controllable Risk Factors</h4>
                         <ul class="text-sm text-gray-600 mt-2 space-y-1">
-                            <li>• Age (45+ for men, 55+ for women)</li>
-                            <li>• Family history of heart disease</li>
-                            <li>• Gender (men at higher risk)</li>
-                            <li>• Previous heart attack or stroke</li>
+                            <li>Age (45+ for men, 55+ for women)</li>
+                            <li>Family history of heart disease</li>
+                            <li>Gender (men at higher risk)</li>
+                            <li>Previous heart attack or stroke</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Statistics:</strong>
                     <span class="text-gray-700"> WHO ke anusar, heart disease duniya bhar mein sabse bada murder reason hai. India mein har saal 17 million+ log heart-related problems se marte hain. Prevention is always better than cure - heart attack se bachein is tarike se.</span>
                 </div>
 
                 <!-- Section 3: 15 Prevention Tips -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">15 Powerful Tips: Heart Attack Se Kaise Bachen</h2>
+                <h2 class="raj-h2-secondary">15 Powerful Tips: Heart Attack Se Kaise Bachen</h2>
 
                 <p class="text-gray-700 mb-4">
                     RAJ Hospital Ranchi ke <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline">heart specialists</a> ne ye 15 proven tips diye hain jinhe follow karke aap apne heart ko healthy rakh sakte hain aur heart attack se bachein:
@@ -495,7 +521,7 @@
                 </div>
 
                 <!-- Section 4: Golden Hour -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Heart Attack Ka Golden Hour: Har Minute Mahatvapurna Hai</h2>
+                <h2 class="raj-h2-secondary">Heart Attack Ka Golden Hour: Har Minute Mahatvapurna Hai</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Heart attack</strong> ke baad first 90 minutes ko "golden hour" kaha jata hai. Is critical time ke andar treatment shuru karne se heart muscle ka damage limited hota hai aur survival chance significantly badhta hai. Research shows ki golden hour ke andar treatment se death risk 50% tak kam ho sakta hai.
@@ -517,29 +543,29 @@
                 </p>
 
                 <!-- Section 5: Myths vs Reality -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Heart Attack Ke Myths vs Reality</h2>
+                <h2 class="raj-h2-secondary">Heart Attack Ke Myths vs Reality</h2>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-gray-400">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-gray-800">MYTH: "Heart attack sirf older logon ko hota hai"</h4>
                         <p class="text-gray-700"><strong>REALITY:</strong> Heart attack kisi bhi age mein ho sakta hai. 20-30 saal ki umr mein bhi heart attack ho sakte hain, especially smoking, diabetes, ya family history wale logon mein. Young Indians mein heart disease increasing hai.</p>
                     </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-gray-400">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-gray-800">MYTH: "Mere heart mein dard nahi hai, to heart healthy hai"</h4>
                         <p class="text-gray-700"><strong>REALITY:</strong> Heart disease often silent hota hai - koi symptoms dikhte nahi jab tak major event na ho. High blood pressure, high cholesterol ko normally symptoms nahi hote. <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">Regular checkups</a> se hi pata chalta hai.</p>
                     </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-gray-400">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-gray-800">MYTH: "Exercise se heart ko nuksan ho sakta hai"</h4>
                         <p class="text-gray-700"><strong>REALITY:</strong> Bilkul galat. Regular moderate exercise heart ko strengthen karta hai. Sirf agar already heart condition hai to doctor se consult zaroor karein before strenuous exercise start karein. Sedentary lifestyle se heart ko zyada nuksan hota hai.</p>
                     </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-gray-400">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-gray-800">MYTH: "Men ko sirf heart attack hota hai, women nahi"</h4>
                         <p class="text-gray-700"><strong>REALITY:</strong> Women ko bhi heart attack hota hai, aur actually yeh women ka #1 killer bhi hai. Women ke symptoms alag ho sakte hain - fatigue, nausea, back pain, jo often ignore hote hain. Women ko prevention par focus zyada karna chahiye.</p>
                     </div>
                 </div>
 
                 <!-- Section 6: When to See Doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Kab Doctor Se Milein?</h2>
+                <h2 class="raj-h2-secondary">Kab Doctor Se Milein?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Heart specialist (cardiologist)</strong> se milein agar:
@@ -560,7 +586,7 @@
                 </p>
 
                 <!-- Section 7: RAJ Hospital Services -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Why Choose RAJ Hospital Ranchi for Heart Care?</h2>
+                <h2 class="raj-h2-secondary">Why Choose RAJ Hospital Ranchi for Heart Care?</h2>
 
                 <p class="text-gray-700 mb-4">
                     RAJ Hospital Ranchi <strong>Jharkhand ka leading neuro and cardiac care center</strong> hai. Heart attack prevention aur treatment ke liye hum comprehensive services offer karte hain:
@@ -593,7 +619,7 @@
                 </div>
 
                 <!-- Related Conditions -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Related Health Topics</h2>
+                <h2 class="raj-h2-secondary">Related Health Topics</h2>
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
                     <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
@@ -640,7 +666,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart में डॉक्टर को कब दिखाना चाहिए?</h3>

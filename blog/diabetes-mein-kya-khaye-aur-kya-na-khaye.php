@@ -117,6 +117,31 @@ $base_url = '../';
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -148,8 +173,10 @@ $base_url = '../';
         ]
     }
     </script>
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
+    <?php include $base_url . 'components/navbar.php'; ?>
     <?php include '../nav.php'; ?>
 
     <!-- Breadcrumb -->
@@ -420,7 +447,7 @@ $base_url = '../';
                 </table>
             </div>
 
-            <div class="bg-orange-50 border-l-4 border-orange-500 p-4 rounded-r-lg mb-6">
+            <div class="raj-callout raj-callout-warning">
                 <p class="text-gray-700 text-sm"><strong>टिप:</strong> फल को छीलकर न खाएं - छिलके में फाइबर होता है जो शुगर को धीरे-धीरे छोड़ता है। दही के साथ न खाएं (दही में लैक्टोज होता है)।</p>
             </div>
 
@@ -677,5 +704,6 @@ $base_url = '../';
     <script>
         feather.replace();
     </script>
+    <?php include $base_url . 'components/footer.php'; ?>
 </body>
 </html>

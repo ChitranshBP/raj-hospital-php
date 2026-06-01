@@ -233,6 +233,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -340,23 +366,23 @@
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Dietary Causes</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Beans और legumes</li>
-                            <li>• Cabbage, broccoli, cauliflower</li>
-                            <li>• Carbonated drinks</li>
-                            <li>• Fried और fatty foods</li>
-                            <li>• Dairy products (lactose intolerance)</li>
-                            <li>• Artificial sweeteners</li>
+                            <li>Beans और legumes</li>
+                            <li>Cabbage, broccoli, cauliflower</li>
+                            <li>Carbonated drinks</li>
+                            <li>Fried और fatty foods</li>
+                            <li>Dairy products (lactose intolerance)</li>
+                            <li>Artificial sweeteners</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Lifestyle Causes</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• जल्दी खाना खाना (swallowing air)</li>
-                            <li>• chewing gum</li>
-                            <li>• smoking</li>
-                            <li>• stress और anxiety</li>
-                            <li>• sedentary lifestyle</li>
-                            <li>• खाने के बाद lying down</li>
+                            <li>जल्दी खाना खाना (swallowing air)</li>
+                            <li>chewing gum</li>
+                            <li>smoking</li>
+                            <li>stress और anxiety</li>
+                            <li>sedentary lifestyle</li>
+                            <li>खाने के बाद lying down</li>
                         </ul>
                     </div>
                 </div>
@@ -364,11 +390,11 @@
                 <div class="bg-blue-50 p-4 rounded-lg mb-6">
                     <h4 class="font-bold text-secondary-600 mb-2">Medical Conditions जो Gas कराते हैं:</h4>
                     <ul class="text-sm text-gray-600 space-y-1">
-                        <li>• <strong>IBS (Irritable Bowel Syndrome)</strong> - आंत की chronic condition</li>
-                        <li>• <strong>GERD</strong> - acid reflux disease</li>
-                        <li>• <strong>Food intolerances</strong> - lactose, gluten intolerance</li>
-                        <li>• <strong>Constipation</strong> - जिससे gas trapped हो जाती है</li>
-                        <li>• <strong>Small Intestinal Bacterial Overgrowth (SIBO)</strong></li>
+                        <li><strong>IBS (Irritable Bowel Syndrome)</strong> - आंत की chronic condition</li>
+                        <li><strong>GERD</strong> - acid reflux disease</li>
+                        <li><strong>Food intolerances</strong> - lactose, gluten intolerance</li>
+                        <li><strong>Constipation</strong> - जिससे gas trapped हो जाती है</li>
+                        <li><strong>Small Intestinal Bacterial Overgrowth (SIBO)</strong></li>
                     </ul>
                 </div>
 
@@ -600,7 +626,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms &amp; Treatment में डॉक्टर को कब दिखाना चाहिए?</h3>

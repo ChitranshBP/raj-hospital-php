@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण | RAJ Hospital Ranchi",
+        "description": "Pregnancy Symptoms in Hindi - गर्भावस्था (Pregnancy) के सभी early symptoms, signs और detection methods जानें। Complete guide for expecting mothers।",
+        "url": "https://rajhospitals.com/blog/pregnancy-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/pregnancy-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-30",
+        "dateModified": "2026-05-30",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pregnancy-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,7 +236,7 @@
                 </p>
 
                 <!-- Section 1: Early Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Early Pregnancy Symptoms (प्रारंभिक लक्षण)</h2>
+                <h2 class="raj-h2">Early Pregnancy Symptoms (प्रारंभिक लक्षण)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>गर्भधारण (conception)</strong> के बाद 1-2 weeks के भीतर ही कई <strong>early pregnancy symptoms</strong> दिखना शुरू हो जाते हैं। हालांकि, हर woman को symptoms अलग-अलग time पर और अलग-अलग intensity के साथ अनुभव होते हैं।
@@ -163,7 +270,7 @@
                 </div>
 
                 <!-- Section 2: Other Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">अन्य Pregnancy Symptoms</h2>
+                <h2 class="raj-h2">अन्य Pregnancy Symptoms</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -192,13 +299,13 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ याद रखें:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> याद रखें:</strong>
                     <span class="text-gray-700"> इनमें से कोई भी symptom, यहां तक कि missed period, pregnancy की guaranteed sign नहीं है। Pregnancy test और doctor consultation जरूर करें।</span>
                 </div>
 
                 <!-- Section 3: Trimesters -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">तिमाहीवार Pregnancy Symptoms</h2>
+                <h2 class="raj-h2">तिमाहीवार Pregnancy Symptoms</h2>
 
                 <div class="overflow-x-auto mb-6">
                     <table class="w-full text-sm">
@@ -226,7 +333,7 @@
                 </div>
 
                 <!-- Section 4: When to Test -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">कब Pregnancy Test करें?</h2>
+                <h2 class="raj-h2">कब Pregnancy Test करें?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Pregnancy test</strong> आपके urine में hCG hormone को detect करता है। सही समय पर test करना important है:
@@ -247,7 +354,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -288,7 +395,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण में डॉक्टर को कब दिखाना चाहिए?</h3>

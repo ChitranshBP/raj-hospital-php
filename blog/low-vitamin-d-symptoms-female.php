@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज | RAJ Hospital Ranchi",
+        "description": "विटामिन D की कमी के लक्षण महिलाओं में, कारण और घरेलू उपाय जानें। जानें कब supplements लेनी चाहिए। Ranchi की best gynecologists और nutritionists की advice।",
+        "url": "https://rajhospitals.com/blog/low-vitamin-d-symptoms-female.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/low-vitamin-d-symptoms-female.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/low-vitamin-d-symptoms-female.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,19 +231,19 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">विटामिन D क्या है और यह क्यों जरूरी है?</h2>
+                <h2 class="raj-h2">विटामिन D क्या है और यह क्यों जरूरी है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>विटामिन D</strong> एक fat-soluble vitamin है जो सूर्य की किरणों से त्वचा में बनता है। यह <strong>calcium और phosphorus</strong> के absorption में मदद करता है और हड्डियों, दांतों और muscles को здоровый रखता है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> महिलाओं में विटामिन D की कमी besonders concerning है क्योंकि यह <strong>osteoporosis, pregnancy complications</strong> और <strong>immune system weakness</strong> का कारण बन सकती है।</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">विटामिन D की कमी के लक्षण महिलाओं में</h2>
+                <h2 class="raj-h2">विटामिन D की कमी के लक्षण महिलाओं में</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -170,7 +277,7 @@
                 </div>
 
                 <!-- Section 3: Causes in Women -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">महिलाओं में विटामिन D कम होने के कारण</h2>
+                <h2 class="raj-h2">महिलाओं में विटामिन D कम होने के कारण</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -192,28 +299,28 @@
                 </div>
 
                 <!-- Section 4: Sources -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">विटामिन D के स्रोत</h2>
+                <h2 class="raj-h2">विटामिन D के स्रोत</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">☀️</div>
+                        <div class="text-3xl mb-2"><i data-feather="sun" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-green-700">सूर्य की किरणें</h4>
                         <p class="text-sm text-gray-600">सुबह 10-11 बजे 15-20 मिनट धूप।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🐟</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-green-700">खाद्य स्रोत</h4>
                         <p class="text-sm text-gray-600">फैटी मछली, अंडा, दूध, cheese, mushrooms।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">💊</div>
+                        <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-green-700">Supplements</h4>
                         <p class="text-sm text-gray-600">Doctor की सलाह से Vitamin D3 supplements।</p>
                     </div>
                 </div>
 
                 <!-- Section 5: Effects on Women Health -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">महिलाओं की सेहत पर असर</h2>
+                <h2 class="raj-h2">महिलाओं की सेहत पर असर</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Osteoporosis:</strong> हड्डियां कमज़ोर और भंगुर होना, हड्डी तोड़ने का खतरा ज्यादा।</li>
@@ -230,7 +337,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -275,7 +382,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज में डॉक्टर को कब दिखाना चाहिए?</h3>

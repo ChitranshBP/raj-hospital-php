@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "गर्भाशय ग्रीवा कैंसर के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "description": "गर्भाशय ग्रीवा कैंसर (Cervical Cancer) के प्रमुख लक्षण, कारण और बचाव के उपाय जानें। Early detection के लिए जरूरी जानकारी। Ranchi के best gynecologists की advice।",
+        "url": "https://rajhospitals.com/blog/cervical-cancer-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/cervical-cancer-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-15",
+        "dateModified": "2026-05-15",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/cervical-cancer-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "गर्भाशय ग्रीवा कैंसर के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,19 +236,19 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">गर्भाशय ग्रीवा कैंसर क्या है?</h2>
+                <h2 class="raj-h2">गर्भाशय ग्रीवा कैंसर क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>गर्भाशय ग्रीवा कैंसर</strong> तब होता है जब गर्भाशय की निचली भाग (ग्रीवा) की कोशिकाएं असामान्य रूप से बढ़ने लगती हैं। यह धीरे-धीरे विकसित होता है और शुरुआती चरण में कोई लक्षण नहीं दिखता, जिससे इसे <strong>silent killer</strong> भी कहा जाता है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> अगर <strong>HPV (Human Papillomavirus)</strong> का संक्रमण है और यह लंबे समय तक बना रहे, तो cervical cancer का खतरा बढ़ सकता है।</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">गर्भाशय ग्रीवा कैंसर के लक्षण</h2>
+                <h2 class="raj-h2">गर्भाशय ग्रीवा कैंसर के लक्षण</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -166,13 +273,13 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ ध्यान दें:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> ध्यान दें:</strong>
                     <span class="text-gray-700"> शुरुआती चरण में अक्सर कोई लक्षण नहीं दिखते। इसलिए नियमित जांच (Pap smear test) बहुत जरूरी है।</span>
                 </div>
 
                 <!-- Section 3: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">गर्भाशय ग्रीवा कैंसर के कारण</h2>
+                <h2 class="raj-h2">गर्भाशय ग्रीवा कैंसर के कारण</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>HPV संक्रमण</strong> - Human Papillomavirus इसका प्रमुख कारण है</li>
@@ -183,23 +290,23 @@
                 </ul>
 
                 <!-- Section 4: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">गर्भाशय ग्रीवा कैंसर से बचाव</h2>
+                <h2 class="raj-h2">गर्भाशय ग्रीवा कैंसर से बचाव</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">💉</div>
+                        <div class="text-3xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-green-700">HPV Vaccine</div>
                         <p class="text-sm text-gray-600">9-26 वर्ष की महिलाओं को vaccine लगवाना चाहिए</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🔬</div>
+                        <div class="text-3xl mb-2"><i data-feather="search" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-green-700">Pap Smear Test</div>
                         <p class="text-sm text-gray-600">21 वर्ष से ऊपर हर 3 साल में जांच करवाएं</p>
                     </div>
                 </div>
 
                 <!-- Section 5: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">गर्भाशय ग्रीवा कैंसर का इलाज</h2>
+                <h2 class="raj-h2">गर्भाशय ग्रीवा कैंसर का इलाज</h2>
 
                 <p class="text-gray-700 mb-4">
                     इलाज कैंसर के चरण पर निर्भर करता है। <strong>Early stage</strong> में surgery से पूरी तरह ठीक होने की संभावना बहुत अधिक होती है। Advanced cases में radiotherapy, chemotherapy या targeted therapy का उपयोग किया जाता है।
@@ -213,7 +320,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -254,7 +361,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">गर्भाशय ग्रीवा कैंसर के लक्षण में डॉक्टर को कब दिखाना चाहिए?</h3>

@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Best Maternity Hospital in Ranchi | RAJ Hospital - Top Women's Care",
+        "description": "Ranchi में best maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।",
+        "url": "https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/best-maternity-hospital-in-ranchi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Best Maternity Hospital in Ranchi | RAJ Hospital - Top Women's Care"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: What Makes Best Maternity Hospital -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">What Makes the Best Maternity Hospital?</h2>
+                <h2 class="raj-h2">What Makes the Best Maternity Hospital?</h2>
 
                 <p class="text-gray-700 mb-4">
                     Not all maternity hospitals are created equal. The <strong>best maternity hospital</strong> combines skilled healthcare professionals, advanced medical equipment, comprehensive services, and a nurturing environment. Here are the key factors that set apart exceptional maternity care:
@@ -148,13 +255,13 @@
                     </div>
                 </div>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Did You Know?</strong>
                     <span class="text-gray-700"> According to the National Health Portal, institutional deliveries in India have increased from 39% in 2005 to over 88% in 2022, significantly reducing maternal and neonatal mortality rates.</span>
                 </div>
 
                 <!-- Section 2: Services Offered -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Comprehensive Maternity Services at RAJ Hospital</h2>
+                <h2 class="raj-h2">Comprehensive Maternity Services at RAJ Hospital</h2>
 
                 <p class="text-gray-700 mb-4">
                     At <strong>RAJ Hospital Ranchi</strong>, we offer complete <strong>maternity care services</strong> from preconception counseling to postnatal care:
@@ -211,7 +318,7 @@
                 </ul>
 
                 <!-- Section 3: Choosing Right Hospital -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">How to Choose the Right Maternity Hospital in Ranchi</h2>
+                <h2 class="raj-h2">How to Choose the Right Maternity Hospital in Ranchi</h2>
 
                 <p class="text-gray-700 mb-4">
                     Use this checklist when evaluating <strong>maternity hospitals in Ranchi</strong>:
@@ -245,7 +352,7 @@
                 </div>
 
                 <!-- Section 4: High Risk Pregnancy -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">High-Risk Pregnancy Management</h2>
+                <h2 class="raj-h2">High-Risk Pregnancy Management</h2>
 
                 <p class="text-gray-700 mb-4">
                     Some pregnancies require special attention due to higher risk of complications. At <strong>RAJ Hospital</strong>, we have expertise in managing high-risk pregnancies:
@@ -271,20 +378,20 @@
                 </div>
 
                 <!-- Section 5: Preparing for Delivery -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Preparing for Delivery: What to Expect</h2>
+                <h2 class="raj-h2">Preparing for Delivery: What to Expect</h2>
 
                 <p class="text-gray-700 mb-4">
                     As your <strong>due date approaches</strong>, it's normal to feel both excited and anxious. Here's how to prepare:
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">During Pregnancy</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Regular checkups:</strong> Don't miss any prenatal appointments</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Healthy diet:</strong> Follow your doctor's nutrition advice</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Exercise:</strong> Gentle exercises like walking and prenatal yoga</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Education:</strong> Attend childbirth classes offered at our hospital</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Hospital tour:</strong> Visit the hospital beforehand to familiarize yourself</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular checkups:</strong> Don't miss any prenatal appointments</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Healthy diet:</strong> Follow your doctor's nutrition advice</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Exercise:</strong> Gentle exercises like walking and prenatal yoga</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Education:</strong> Attend childbirth classes offered at our hospital</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Hospital tour:</strong> Visit the hospital beforehand to familiarize yourself</li>
                     </ul>
                 </div>
 
@@ -293,27 +400,27 @@
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">For Mother</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Hospital documents and ID</li>
-                            <li>• Comfortable clothes and slippers</li>
-                            <li>• Nursing bras and pads</li>
-                            <li>• Toiletries and personal items</li>
-                            <li>• Phone and charger</li>
+                            <li>Hospital documents and ID</li>
+                            <li>Comfortable clothes and slippers</li>
+                            <li>Nursing bras and pads</li>
+                            <li>Toiletries and personal items</li>
+                            <li>Phone and charger</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">For Baby</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Onesies and baby clothes</li>
-                            <li>• Swaddling blankets</li>
-                            <li>• Diapers and wipes</li>
-                            <li>• Baby hat and socks</li>
-                            <li>• Car seat for discharge</li>
+                            <li>Onesies and baby clothes</li>
+                            <li>Swaddling blankets</li>
+                            <li>Diapers and wipes</li>
+                            <li>Baby hat and socks</li>
+                            <li>Car seat for discharge</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 6: Breastfeeding -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Breastfeeding Support and Lactation Services</h2>
+                <h2 class="raj-h2">Breastfeeding Support and Lactation Services</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Breastfeeding</strong> is one of the most important things you can do for your newborn. At RAJ Hospital, we provide comprehensive lactation support:
@@ -328,13 +435,13 @@
                     <li>Follow-up lactation consultations after discharge</li>
                 </ul>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Expert Tip:</strong>
                     <span class="text-gray-700"> The WHO recommends exclusive breastfeeding for the first 6 months. Our lactation consultants are available to help you establish a successful breastfeeding routine.</span>
                 </div>
 
                 <!-- Section 7: RAJ Hospital Advantages -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Why Choose RAJ Hospital for Maternity Care in Ranchi?</h2>
+                <h2 class="raj-h2">Why Choose RAJ Hospital for Maternity Care in Ranchi?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>RAJ Hospital Ranchi</strong> has earned the trust of thousands of families in Jharkhand for maternity care:
@@ -371,7 +478,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Maternity Hospital in Ranchi</h2>
+                <h2 class="raj-h2">FAQs - Maternity Hospital in Ranchi</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -420,7 +527,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Best Maternity Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?</h3>

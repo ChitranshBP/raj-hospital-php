@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi",
+        "description": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज जानें। PCOD vs PCOS अंतर, treatment options और lifestyle changes के बारे में विस्तृत जानकारी।",
+        "url": "https://rajhospitals.com/blog/pcod-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/pcod-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-23",
+        "dateModified": "2026-05-23",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pcod-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,19 +236,19 @@
                 </p>
 
                 <!-- Section 1: What is PCOD -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOD क्या है?</h2>
+                <h2 class="raj-h2">PCOD क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>PCOD (Polycystic Ovarian Disease)</strong> एक ऐसी स्थिति है जिसमें महिला की ovaries में कई छोटे cysts बन जाते हैं। यह hormonal imbalance के कारण होता है - विशेषकर <strong>androgens</strong> (पुरुष हार्मोन) की मात्रा बढ़ने से और <strong>insulin resistance</strong> के कारण।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">PCOD vs PCOS:</strong>
                     <span class="text-gray-700"> PCOD एक कम गंभीर रूप है, जबकि <strong>PCOS (Polycystic Ovarian Syndrome)</strong> एक अधिक गंभीर metabolic disorder है। PCOD को lifestyle changes से manage किया जा सकता है।</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOD के लक्षण (PCOD Symptoms in Hindi)</h2>
+                <h2 class="raj-h2">PCOD के लक्षण (PCOD Symptoms in Hindi)</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -174,13 +281,13 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ ध्यान दें:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> ध्यान दें:</strong>
                     <span class="text-gray-700"> सभी महिलाओं में symptoms अलग-अलग होते हैं। कुछ में हल्के symptoms होते हैं जबकि अन्य में गंभीर।</span>
                 </div>
 
                 <!-- Section 3: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOD के कारण</h2>
+                <h2 class="raj-h2">PCOD के कारण</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Genetics</strong> - family history of PCOD/PCOS</li>
@@ -192,7 +299,7 @@
                 </ul>
 
                 <!-- Section 4: Health Effects -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOD से होने वाली Health Problems</h2>
+                <h2 class="raj-h2">PCOD से होने वाली Health Problems</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-red-50 p-4 rounded-lg">
@@ -214,25 +321,25 @@
                 </div>
 
                 <!-- Section 5: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOD का इलाज (PCOD Treatment)</h2>
+                <h2 class="raj-h2">PCOD का इलाज (PCOD Treatment)</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <div class="font-bold text-green-700 mb-2">Lifestyle Changes</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• 5-10% weight loss से hormones restore</li>
-                            <li>• Low glycemic diet</li>
-                            <li>• रोज़ाना 30 मिनट व्यायाम</li>
-                            <li>• पर्याप्त नींद (7-8 hours)</li>
+                            <li>5-10% weight loss से hormones restore</li>
+                            <li>Low glycemic diet</li>
+                            <li>रोज़ाना 30 मिनट व्यायाम</li>
+                            <li>पर्याप्त नींद (7-8 hours)</li>
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <div class="font-bold text-blue-700 mb-2">Medical Treatment</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Birth control pills</li>
-                            <li>• Anti-androgens</li>
-                            <li>• Metformin</li>
-                            <li>• Fertility drugs (pregnancy के लिए)</li>
+                            <li>Birth control pills</li>
+                            <li>Anti-androgens</li>
+                            <li>Metformin</li>
+                            <li>Fertility drugs (pregnancy के लिए)</li>
                         </ul>
                     </div>
                 </div>
@@ -245,7 +352,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -286,7 +393,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज में डॉक्टर को कब दिखाना चाहिए?</h3>

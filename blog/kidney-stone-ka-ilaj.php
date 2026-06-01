@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi",
+        "description": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का complete treatment। ESWL, laser treatment, और surgery options। Ranchi में best kidney stone treatment।",
+        "url": "https://rajhospitals.com/blog/kidney-stone-ka-ilaj.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/kidney-stone-ka-ilaj.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/kidney-stone-ka-ilaj.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,7 +231,7 @@
                     <strong>Kidney Stone Ka Ilaj</strong> (गुर्दे में पथरी का इलाज) एक common problem है। दर्दनाक होने के बावजूद, modern treatment options से kidney stones effectively treat किए जा सकते हैं। जानिए सभी treatment options के बारे में।
                 </p>
 
-                <div class="bg-purple-100 border-l-4 border-purple-600 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-purple-700">Key Point:</strong>
                     <span class="text-gray-700"> आजकल <strong>90% से अधिक kidney stones non-invasive या minimally invasive treatments</strong> से remove किए जा सकते हैं। Surgery की जरूरत rare है।</span>
                 </div>
@@ -200,19 +307,19 @@
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">Dietary Changes</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• 3-4 liters water daily</li>
-                            <li>• Reduce sodium intake</li>
-                            <li>• Limit oxalate-rich foods</li>
-                            <li>• Moderate animal protein</li>
+                            <li>3-4 liters water daily</li>
+                            <li>Reduce sodium intake</li>
+                            <li>Limit oxalate-rich foods</li>
+                            <li>Moderate animal protein</li>
                         </ul>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">Lifestyle</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Regular exercise</li>
-                            <li>• Maintain healthy weight</li>
-                            <li>• Avoid dehydration</li>
-                            <li>• Limit carbonated drinks</li>
+                            <li>Regular exercise</li>
+                            <li>Maintain healthy weight</li>
+                            <li>Avoid dehydration</li>
+                            <li>Limit carbonated drinks</li>
                         </ul>
                     </div>
                 </div>
@@ -266,7 +373,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज में डॉक्टर को कब दिखाना चाहिए?</h3>

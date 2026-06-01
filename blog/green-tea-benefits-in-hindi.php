@@ -202,6 +202,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -242,7 +268,7 @@
                 </p>
 
                 <!-- Quick Benefits Box -->
-                <div class="bg-green-50 border-l-4 border-green-600 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <strong class="text-green-700 text-lg">ग्रीन टी के मुख्य फायदे:</strong>
                     <span class="text-gray-700"> Brain health, heart protection, weight management, anti-aging, diabetes control, और stress reduction।</span>
                 </div>
@@ -302,7 +328,7 @@
                     <li><strong>Stress Reduction:</strong> L-theanine anxiety को कम करके calm feeling देता है</li>
                 </ul>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">चिकित्सक की सलाह:</strong>
                     <span class="text-gray-700"> <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-blue-600 hover:underline">RAJ Hospital के neurologists</a> brain health के लिए balanced diet के साथ ग्रीन टी को daily routine में शामिल करने की सलाह देते हैं।</span>
                 </div>
@@ -398,7 +424,7 @@
                     <li>Before exercise - fat burning बढ़ाने के लिए</li>
                 </ul>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">ध्यान दें:</strong>
                     <span class="text-gray-700"> Empty stomach पर ग्रीन टी न पिएं। साथ ही, bedtime से 2-3 hours पहले पीना बंद कर दें क्योंकि caffeine sleep disturb कर सकती है।</span>
                 </div>
@@ -509,7 +535,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">ग्रीन टी के फायदे | Green Tea Benefits in Hindi में डॉक्टर को कब दिखाना चाहिए?</h3>

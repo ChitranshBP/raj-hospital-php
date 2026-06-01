@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi",
+        "description": "Toothache और Headache का complete guide - causes, treatment और prevention tips। जानें कब dentist से मिलना है और कब self-care काफी है।",
+        "url": "https://rajhospitals.com/blog/can-a-toothache-cause-a-headache-causes-treatment-guide.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/can-a-toothache-cause-a-headache-causes-treatment-guide.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/can-a-toothache-cause-a-headache-causes-treatment-guide.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,7 +231,7 @@
                     <strong>Toothache और Headache</strong> एक साथ होने पर बहुत परेशानी होती है। यह लेख आपको बताएगा कि इन दोनों problems का connection क्या है, causes क्या हैं, और सबसे important - कैसे treatment और prevent करें।
                 </p>
 
-                <div class="bg-teal-100 border-l-4 border-teal-600 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-teal-700">मुख्य बात:</strong>
                     <span class="text-gray-700"> दांत दर्द और सिरदर्द के 70% cases में दांत की समस्या headache का कारण होती है। Early treatment से जटिलताएं avoid की जा सकती हैं।</span>
                 </div>
@@ -136,23 +243,23 @@
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">1. Dental Causes</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Dental Cavities (caries)</li>
-                            <li>• Tooth Abscess</li>
-                            <li>• Cracked or Fractured Tooth</li>
-                            <li>• Infected Gum (Periodontal Disease)</li>
-                            <li>• Impacted Wisdom Teeth</li>
-                            <li>• Pulpitis (nerve inflammation)</li>
+                            <li>Dental Cavities (caries)</li>
+                            <li>Tooth Abscess</li>
+                            <li>Cracked or Fractured Tooth</li>
+                            <li>Infected Gum (Periodontal Disease)</li>
+                            <li>Impacted Wisdom Teeth</li>
+                            <li>Pulpitis (nerve inflammation)</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">2. Related Conditions</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Teeth Grinding (Bruxism)</li>
-                            <li>• TMJ Disorder</li>
-                            <li>• Sinus Infection</li>
-                            <li>• Jaw Clenching</li>
-                            <li>• Malocclusion (bite problems)</li>
-                            <li>• Neuralgia (nerve pain)</li>
+                            <li>Teeth Grinding (Bruxism)</li>
+                            <li>TMJ Disorder</li>
+                            <li>Sinus Infection</li>
+                            <li>Jaw Clenching</li>
+                            <li>Malocclusion (bite problems)</li>
+                            <li>Neuralgia (nerve pain)</li>
                         </ul>
                     </div>
                 </div>
@@ -294,7 +401,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Toothache और Headache - कारण, Treatment और Prevention Guide में डॉक्टर को कब दिखाना चाहिए?</h3>

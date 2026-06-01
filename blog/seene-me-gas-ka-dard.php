@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital",
+        "description": "Seene mein gas ka dard, pet se gas ke karan, symptoms aur treatment। Gas pain in chest ke liye home remedies aur prevention tips।",
+        "url": "https://rajhospitals.com/blog/seene-me-gas-ka-dard",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/seene-me-gas-ka-dard.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/seene-me-gas-ka-dard",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: What is Gas Pain -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Seene Mein Gas Ka Dard Kya Hai?</h2>
+                <h2 class="raj-h2">Seene Mein Gas Ka Dard Kya Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
                     जब <strong>pet में gas</strong> (flatulence) बनती है और यह properly release नहीं हो पाती, तो यह <strong>bloating</strong> aur discomfort का cause बनती है। कभी-कभी यह gas chest तक travel कर जाती है जिससे <strong>gas pain in chest</strong> हो सकती है।
@@ -137,32 +244,32 @@
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700">Gas Pain Ke Symptoms</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Sharp, cramping pain</li>
-                            <li>• Fullness aur pressure</li>
-                            <li>• Bloating aur distension</li>
-                            <li>• Burping ya flatulence se relief</li>
-                            <li>• Pain location change hota hai</li>
+                            <li>Sharp, cramping pain</li>
+                            <li>Fullness aur pressure</li>
+                            <li>Bloating aur distension</li>
+                            <li>Burping ya flatulence se relief</li>
+                            <li>Pain location change hota hai</li>
                         </ul>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-700">Heart Attack Warning Signs</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Pressure ya squeezing in chest</li>
-                            <li>• Pain spreading to arm, jaw</li>
-                            <li>• Shortness of breath</li>
-                            <li>• Cold sweat</li>
-                            <li>• Nausea aur fatigue</li>
+                            <li>Pressure ya squeezing in chest</li>
+                            <li>Pain spreading to arm, jaw</li>
+                            <li>Shortness of breath</li>
+                            <li>Cold sweat</li>
+                            <li>Nausea aur fatigue</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
                     <span class="text-gray-700"> अगर chest pain severe हो, जल्दी बढ़ती हो, या heart attack के signs हों, तो तुरंत emergency medical help लें।</span>
                 </div>
 
                 <!-- Section 2: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Gas Pain Ke Causes</h2>
+                <h2 class="raj-h2">Gas Pain Ke Causes</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Seene में gas</strong> कई reasons से हो सकती है:
@@ -192,7 +299,7 @@
                 </div>
 
                 <!-- Section 3: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Gas Pain Ke Symptoms</h2>
+                <h2 class="raj-h2">Gas Pain Ke Symptoms</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Pet se gas</strong> ke साथ ये symptoms हो सकते हैं:
@@ -208,13 +315,13 @@
                 </ul>
 
                 <!-- Section 4: When to See Doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Kab Doctor Ke Paas Jaina Chahiye?</h2>
+                <h2 class="raj-h2">Kab Doctor Ke Paas Jaina Chahiye?</h2>
 
                 <p class="text-gray-700 mb-4">
                     Usually gas pain home treatment से ठीक हो जाती है, लेकिन कुछ symptoms serious हो सकती हैं:
                 </p>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <ul class="space-y-2 text-gray-700">
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> <strong>Severe abdominal pain</strong> जो steadily बढ़ती है</li>
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> <strong>Blood in stool</strong> ya black, tarry stools</li>
@@ -226,7 +333,7 @@
                 </div>
 
                 <!-- Section 5: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Gas Pain Ka Treatment</h2>
+                <h2 class="raj-h2">Gas Pain Ka Treatment</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Over-the-Counter Medicines</h3>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -249,47 +356,47 @@
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Home Remedies for Gas</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Ginger (Adrak):</strong> Ginger tea ya raw ginger gas aur bloating reduce करती है।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Peppermint (Pudina):</strong> Peppermint tea intestinal muscles को relax करता है।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Fennel Seeds (Saunf):</strong> After meals saunf chew करने से digestion improve होती है।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Warm Water:</strong> Warm water drink करने से gas move करती है।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Ajwain:</strong> Ajwain water gas aur acidity ke liye effective hai।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Walking:</strong> Light walking gas pass करने में मदद करती है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Ginger (Adrak):</strong> Ginger tea ya raw ginger gas aur bloating reduce करती है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Peppermint (Pudina):</strong> Peppermint tea intestinal muscles को relax करता है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Fennel Seeds (Saunf):</strong> After meals saunf chew करने से digestion improve होती है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Warm Water:</strong> Warm water drink करने से gas move करती है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Ajwain:</strong> Ajwain water gas aur acidity ke liye effective hai।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Walking:</strong> Light walking gas pass करने में मदद करती है।</li>
                     </ul>
                 </div>
 
                 <!-- Section 6: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Gas Problem Se Bachav Ke Tips</h2>
+                <h2 class="raj-h2">Gas Problem Se Bachav Ke Tips</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">1. Eating Habits</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Slow से खाएं और अच्छा chew करें</li>
-                            <li>• छोटे-छोटे portions में खाएं</li>
-                            <li>• Drinking with meals से बचें</li>
-                            <li>• Carbonated drinks limit करें</li>
+                            <li>Slow से खाएं और अच्छा chew करें</li>
+                            <li>छोटे-छोटे portions में खाएं</li>
+                            <li>Drinking with meals से बचें</li>
+                            <li>Carbonated drinks limit करें</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Foods to Avoid</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Beans aur lentils</li>
-                            <li>• Cabbage, cauliflower, broccoli</li>
-                            <li>• Onions aur garlic</li>
-                            <li>• Fried aur fatty foods</li>
-                            <li>• Artificial sweeteners</li>
+                            <li>Beans aur lentils</li>
+                            <li>Cabbage, cauliflower, broccoli</li>
+                            <li>Onions aur garlic</li>
+                            <li>Fried aur fatty foods</li>
+                            <li>Artificial sweeteners</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Lifestyle Changes</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Regular exercise</li>
-                            <li>• Weight management</li>
-                            <li>• Stress reduction</li>
-                            <li>• Proper hydration</li>
+                            <li>Regular exercise</li>
+                            <li>Weight management</li>
+                            <li>Stress reduction</li>
+                            <li>Proper hydration</li>
                         </ul>
                     </div>
                 </div>
@@ -302,7 +409,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Seene Me Gas Ka Dard</h2>
+                <h2 class="raj-h2">FAQs - Seene Me Gas Ka Dard</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -351,7 +458,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? में डॉक्टर को कब दिखाना चाहिए?</h3>

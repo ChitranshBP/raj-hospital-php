@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "description": "Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। Ranchi के best neurologists की advice।",
+        "url": "https://rajhospitals.com/blog/brain-stroke-ke-lakshan.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/brain-stroke-ke-lakshan.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/brain-stroke-ke-lakshan.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -125,7 +232,7 @@
                 </p>
 
                 <div class="bg-red-100 border-2 border-red-500 p-4 rounded-lg mb-6">
-                    <strong class="text-red-700 text-lg">⚠️ आपातकालीन चेतावनी:</strong>
+                    <strong class="text-red-700 text-lg"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> आपातकालीन चेतावनी:</strong>
                     <span class="text-gray-700"> अगर stroke के लक्षण दिखें, तुरंत 108 (ambulance) या नजदीकी hospital जाएं। "Time is Brain" - हर मिनट महत्वपूर्ण है।</span>
                 </div>
 
@@ -214,21 +321,21 @@
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">नियंत्रणीय जोखिम कारक</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• High BP</li>
-                            <li>• Diabetes</li>
-                            <li>• High Cholesterol</li>
-                            <li>• मोटापा</li>
-                            <li>• धूम्रपान</li>
-                            <li>• शराब</li>
+                            <li>High BP</li>
+                            <li>Diabetes</li>
+                            <li>High Cholesterol</li>
+                            <li>मोटापा</li>
+                            <li>धूम्रपान</li>
+                            <li>शराब</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">अनियंत्रित जोखिम कारक</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• उम्र (55+ years)</li>
-                            <li>• पारिवारिक इतिहास</li>
-                            <li>• पुरुष होना</li>
-                            <li>• पिछला stroke</li>
+                            <li>उम्र (55+ years)</li>
+                            <li>पारिवारिक इतिहास</li>
+                            <li>पुरुष होना</li>
+                            <li>पिछला stroke</li>
                         </ul>
                     </div>
                 </div>
@@ -294,7 +401,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Brain Stroke के लक्षण में डॉक्टर को कब दिखाना चाहिए?</h3>

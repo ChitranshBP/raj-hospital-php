@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi",
+        "description": "Diabetes ke lakshan aur upchar की complete जानकारी हिंदी में। मधुमेह के प्रकार, लक्षण, कारण, और control करने के तरीके जानें। Ranchi के best hospital में expert consultation।",
+        "url": "https://rajhospitals.com/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,7 +236,7 @@
                 </p>
 
                 <!-- Section 1: Types of Diabetes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">मधुमेह के प्रकार (Types of Diabetes)</h2>
+                <h2 class="raj-h2">मधुमेह के प्रकार (Types of Diabetes)</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -151,7 +258,7 @@
                 </div>
 
                 <!-- Section 2: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">मधुमेह के लक्षण (Diabetes Ke Lakshan)</h2>
+                <h2 class="raj-h2">मधुमेह के लक्षण (Diabetes Ke Lakshan)</h2>
 
                 <p class="text-gray-700 mb-4">
                     मधुमेह के लक्षण धीरे-धीरे विकसित होते हैं और कई बार इन्हें अनदेखा कर दिया जाता है। Type 1 और Type 2 में कुछ अंतर हो सकता है।
@@ -182,13 +289,13 @@
                     <li>जी मिचलाना और उल्टी</li>
                 </ul>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> कई लोगों को Type 2 Diabetes के लक्षण तब तक नहीं दिखते जब तक कि यह किसी गंभीर समस्या का कारण न बन जाए। इसलिए नियमित जांच बहुत जरूरी है।</span>
                 </div>
 
                 <!-- Section 3: Causes and Risk Factors -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">मधुमेह के कारण और जोखिम कारक</h2>
+                <h2 class="raj-h2">मधुमेह के कारण और जोखिम कारक</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -214,7 +321,7 @@
                 </div>
 
                 <!-- Section 4: Diagnosis -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">मधुमेह का निदान (Diagnosis)</h2>
+                <h2 class="raj-h2">मधुमेह का निदान (Diagnosis)</h2>
 
                 <p class="text-gray-700 mb-4">
                     मधुमेह का निदान सरल रक्त परीक्षण से होता है। मुख्य परीक्षण हैं:
@@ -254,7 +361,7 @@
                 </div>
 
                 <!-- Section 5: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">मधुमेह का उपचार (Diabetes Upchar)</h2>
+                <h2 class="raj-h2">मधुमेह का उपचार (Diabetes Upchar)</h2>
 
                 <p class="text-gray-700 mb-4">
                     मधुमेह का उपचार इसे नियंत्रित करने पर केंद्रित है। Type 1 में इंसुलिन थेरेपी अनिवार्य है, जबकि Type 2 में जीवनशैली में बदलाव पहला कदम है।
@@ -271,7 +378,7 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">2. जीवनशैली में बदलाव (सबसे महत्वपूर्ण!)</h3>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <strong class="text-green-700">जीवनशैली में बदलाव मधुमेह नियंत्रण की कुंजी है!</strong>
                     <p class="text-gray-700 mt-2">चाहे आप दवा ले रहे हों या नहीं, जीवनशैली में बदलाव अनिवार्य है। यह दवा की जरूरत को भी कम कर सकता है।</p>
                 </div>
@@ -280,29 +387,29 @@
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">आहार प्रबंधन (Diet Control)</h4>
                         <ul class="text-sm text-gray-600 mt-2 space-y-1">
-                            <li>• जटिल कार्बोहाइड्रेट (दाल, सब्जियां, साबुत अनाज) खाएं</li>
-                            <li>• चीनी और मैदे से परहेज करें</li>
-                            <li>• प्रोटीन (मछली, पनीर, अंडे) शामिल करें</li>
-                            <li>• फाइबर युक्त भोजन अधिक खाएं</li>
-                            <li>• तला हुआ भोजन और जंक फूड से बचें</li>
-                            <li>• छोटे-छोटे भोजन दिन में 4-5 बार करें</li>
+                            <li>जटिल कार्बोहाइड्रेट (दाल, सब्जियां, साबुत अनाज) खाएं</li>
+                            <li>चीनी और मैदे से परहेज करें</li>
+                            <li>प्रोटीन (मछली, पनीर, अंडे) शामिल करें</li>
+                            <li>फाइबर युक्त भोजन अधिक खाएं</li>
+                            <li>तला हुआ भोजन और जंक फूड से बचें</li>
+                            <li>छोटे-छोटे भोजन दिन में 4-5 बार करें</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">व्यायाम (Exercise)</h4>
                         <ul class="text-sm text-gray-600 mt-2 space-y-1">
-                            <li>• रोजाना 30-45 मिनट पैदल चलना या हल्का व्यायाम</li>
-                            <li>• सप्ताह में 5 दिन व्यायाम करें</li>
-                            <li>• व्यायाम से पहले और बाद में शुगर जांचें</li>
-                            <li>• वजन उठाने वाले व्यायाम मांसपेशियों को मजबूत करते हैं</li>
+                            <li>रोजाना 30-45 मिनट पैदल चलना या हल्का व्यायाम</li>
+                            <li>सप्ताह में 5 दिन व्यायाम करें</li>
+                            <li>व्यायाम से पहले और बाद में शुगर जांचें</li>
+                            <li>वजन उठाने वाले व्यायाम मांसपेशियों को मजबूत करते हैं</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">वजन प्रबंधन (Weight Management)</h4>
                         <ul class="text-sm text-gray-600 mt-2 space-y-1">
-                            <li>• 5-7% वजन कम करने से मधुमेह नियंत्रण में सुधार होता है</li>
-                            <li>• नियमित वजन नापना</li>
-                            <li>• व्यायाम और आहार का संतुलन</li>
+                            <li>5-7% वजन कम करने से मधुमेह नियंत्रण में सुधार होता है</li>
+                            <li>नियमित वजन नापना</li>
+                            <li>व्यायाम और आहार का संतुलन</li>
                         </ul>
                     </div>
                 </div>
@@ -316,7 +423,7 @@
                 </ul>
 
                 <!-- Section 6: Complications -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">मधुमेह की जटिलताएं (Complications)</h2>
+                <h2 class="raj-h2">मधुमेह की जटिलताएं (Complications)</h2>
 
                 <p class="text-gray-700 mb-4">
                     अगर मधुमेह को नियंत्रित नहीं किया जाए, तो यह कई गंभीर स्वास्थ्य समस्याओं को जन्म दे सकता है:
@@ -324,19 +431,19 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-red-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-red-600 mb-2">❤️ हृदय रोग</h4>
+                        <h4 class="font-bold text-red-600 mb-2"><i data-feather="heart" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> हृदय रोग</h4>
                         <p class="text-sm text-gray-600">मधुमेह से हृदय रोग, स्ट्रोक, और उच्च रक्तचाप का खतरा 2-4 गुना बढ़ जाता है।</p>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-red-600 mb-2">👁️ आंखों की समस्याएं</h4>
+                        <h4 class="font-bold text-red-600 mb-2"><i data-feather="eye" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i>️ आंखों की समस्याएं</h4>
                         <p class="text-sm text-gray-600">डायबिटिक रेटिनोपैथी, ग्लूकोमा, और मोतियाबिंद का खतरा। समय पर इलाज से अंधापन रोका जा सकता है।</p>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-red-600 mb-2">🫘 किडनी की समस्याएं</h4>
+                        <h4 class="font-bold text-red-600 mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i> किडनी की समस्याएं</h4>
                         <p class="text-sm text-gray-600">डायबिटिक नेफ्रोपैथी किडनी फेलियर का कारण बन सकती है।</p>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-red-600 mb-2">🦶 पैरों की समस्याएं</h4>
+                        <h4 class="font-bold text-red-600 mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> पैरों की समस्याएं</h4>
                         <p class="text-sm text-gray-600">डायबिटिक फुट अल्सर, इन्फेक्शन, और गैंगरीन से अंगूठा काटना पड़ सकता है।</p>
                     </div>
                 </div>
@@ -349,7 +456,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">अक्सर पूछे जाने वाले सवाल (FAQs)</h2>
+                <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल (FAQs)</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -398,7 +505,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार में डॉक्टर को कब दिखाना चाहिए?</h3>

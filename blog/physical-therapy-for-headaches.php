@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Physical Therapy for Headaches - Effective Treatment Options | RAJ Hospital Ranchi",
+        "description": "Physical Therapy for Headaches - Effective treatment options for tension headaches, migraines and cervicogenic headaches. Learn about PT techniques and benefits.",
+        "url": "https://rajhospitals.com/blog/physical-therapy-for-headaches.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/physical-therapy-for-headaches.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-26",
+        "dateModified": "2026-05-26",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/physical-therapy-for-headaches.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Physical Therapy for Headaches - Effective Treatment Options | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,19 +236,19 @@
                 </p>
 
                 <!-- Section 1: Why Physical Therapy -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Why Choose Physical Therapy for Headaches?</h2>
+                <h2 class="raj-h2">Why Choose Physical Therapy for Headaches?</h2>
 
                 <p class="text-gray-700 mb-4">
                     Many headaches, especially <strong>tension-type</strong> and <strong>cervicogenic headaches</strong>, originate from musculoskeletal problems in the neck and upper back. Physical therapy addresses these root causes rather than just masking symptoms with medication.
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Research shows:</strong>
                     <span class="text-gray-700"> Physical therapy is as effective as medication for tension-type headaches, with better long-term outcomes and fewer side effects.</span>
                 </div>
 
                 <!-- Section 2: Who Benefits -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Who Benefits from Physical Therapy?</h2>
+                <h2 class="raj-h2">Who Benefits from Physical Therapy?</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -163,7 +270,7 @@
                 </div>
 
                 <!-- Section 3: Treatment Process -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Physical Therapy Treatment Process</h2>
+                <h2 class="raj-h2">Physical Therapy Treatment Process</h2>
 
                 <div class="relative border-l-4 border-secondary-600 pl-6 space-y-6 mb-6">
                     <div class="relative">
@@ -194,36 +301,36 @@
                 </div>
 
                 <!-- Section 4: Key Techniques -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Key Physical Therapy Techniques</h2>
+                <h2 class="raj-h2">Key Physical Therapy Techniques</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <div class="font-bold text-secondary-600 mb-2">Manual Therapy Techniques</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Cervical spine mobilization</li>
-                            <li>• Myofascial release</li>
-                            <li>• Trigger point release</li>
-                            <li>• Muscle energy techniques</li>
+                            <li>Cervical spine mobilization</li>
+                            <li>Myofascial release</li>
+                            <li>Trigger point release</li>
+                            <li>Muscle energy techniques</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <div class="font-bold text-secondary-600 mb-2">Exercise Techniques</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Cervical stabilization exercises</li>
-                            <li>• Deep neck flexor strengthening</li>
-                            <li>• Upper quarter stretching</li>
-                            <li>• Postural correction exercises</li>
+                            <li>Cervical stabilization exercises</li>
+                            <li>Deep neck flexor strengthening</li>
+                            <li>Upper quarter stretching</li>
+                            <li>Postural correction exercises</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">💡 Home Care:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="info" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i> Home Care:</strong>
                     <span class="text-gray-700"> Your therapist will teach you self-management techniques to use at home, including proper workstation setup and quick-relief exercises.</span>
                 </div>
 
                 <!-- Section 5: Success Rate -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Expected Results</h2>
+                <h2 class="raj-h2">Expected Results</h2>
 
                 <p class="text-gray-700 mb-4">
                     Most patients experience <strong>significant improvement</strong> within the first few sessions. Studies show:
@@ -252,7 +359,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -293,7 +400,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Physical Therapy for Headaches - Effective Treatment Options में डॉक्टर को कब दिखाना चाहिए?</h3>

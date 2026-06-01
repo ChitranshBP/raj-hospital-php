@@ -206,6 +206,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -248,7 +274,7 @@
                 </div>
 
                 <!-- Section 1: Types of Headaches -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Headache ke Different Types (सिरदर्द के प्रकार)</h2>
+                <h2 class="raj-h2-secondary">Headache ke Different Types (सिरदर्द के प्रकार)</h2>
 
                 <p class="text-gray-700 mb-4">
                     Headaches ko mainly do categories mein divide kiya gaya hai: <strong>Primary Headaches</strong> (jo khud ki condition hain) aur <strong>Secondary Headaches</strong> (jo kisi aur problem se hoti hain). Aao details mein samjhein:
@@ -299,7 +325,7 @@
                 </div>
 
                 <!-- Section 2: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Headache ke Common Causes (सिरदर्द के कारण)</h2>
+                <h2 class="raj-h2-secondary">Headache ke Common Causes (सिरदर्द के कारण)</h2>
 
                 <p class="text-gray-700 mb-4">
                     Headaches ke bahut saare causes ho sakte hain. Kuch common triggers ko samjho:
@@ -309,67 +335,67 @@
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Lifestyle Factors</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Stress aur anxiety</li>
-                            <li>• Poor sleep quality</li>
-                            <li>• Skipping meals ya dehydration</li>
-                            <li>• Excessive screen time</li>
-                            <li>• Lack of physical activity</li>
-                            <li>• Alcohol aur caffeine</li>
+                            <li>Stress aur anxiety</li>
+                            <li>Poor sleep quality</li>
+                            <li>Skipping meals ya dehydration</li>
+                            <li>Excessive screen time</li>
+                            <li>Lack of physical activity</li>
+                            <li>Alcohol aur caffeine</li>
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Environmental Triggers</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Strong smells aur perfumes</li>
-                            <li>• Bright lights ya glare</li>
-                            <li>• Loud noises</li>
-                            <li>• Weather changes</li>
-                            <li>• Air pressure changes</li>
-                            <li>• Pollution aur smoke</li>
+                            <li>Strong smells aur perfumes</li>
+                            <li>Bright lights ya glare</li>
+                            <li>Loud noises</li>
+                            <li>Weather changes</li>
+                            <li>Air pressure changes</li>
+                            <li>Pollution aur smoke</li>
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Medical Conditions</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• High blood pressure</li>
-                            <li>• Sinus infections</li>
-                            <li>• Neck/Cervical spine problems</li>
-                            <li>• Eye strain aur vision issues</li>
-                            <li>• Hormonal changes</li>
-                            <li>• Infections aur fever</li>
+                            <li>High blood pressure</li>
+                            <li>Sinus infections</li>
+                            <li>Neck/Cervical spine problems</li>
+                            <li>Eye strain aur vision issues</li>
+                            <li>Hormonal changes</li>
+                            <li>Infections aur fever</li>
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Food Triggers</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Aged cheese aur processed meats</li>
-                            <li>• MSG (Monosodium Glutamate)</li>
-                            <li>• Artificial sweeteners</li>
-                            <li>• Chocolate</li>
-                            <li>• Wine aur alcohol</li>
-                            <li>• Very cold foods/ice cream</li>
+                            <li>Aged cheese aur processed meats</li>
+                            <li>MSG (Monosodium Glutamate)</li>
+                            <li>Artificial sweeteners</li>
+                            <li>Chocolate</li>
+                            <li>Wine aur alcohol</li>
+                            <li>Very cold foods/ice cream</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 3: Warning Signs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Warning Signs - Kabhi Doctor Se Milna Chahiye</h2>
+                <h2 class="raj-h2-secondary">Warning Signs - Kabhi Doctor Se Milna Chahiye</h2>
 
                 <div class="bg-red-50 border border-red-200 p-5 rounded-lg mb-6">
                     <h4 class="font-bold text-red-600 mb-3">Emergency Warning Signs (तुरंत medical help lo)</h4>
                     <ul class="space-y-2 text-gray-700">
-                        <li>• <strong>Sudden severe headache</strong> - jaise koi thunder clap (thunderclap headache)</li>
-                        <li>• <strong>Headache with fever aur stiff neck</strong> - meningitis ka sign ho sakta hai</li>
-                        <li>• <strong>Confusion aur difficulty speaking</strong> - stroke ka sign</li>
-                        <li>• <strong>Vision loss ya double vision</strong></li>
-                        <li>• <strong>Weakness or numbness on one side</strong></li>
-                        <li>• <strong>Seizures ya convulsions</strong></li>
-                        <li>• <strong>Head injury ke baad headache</strong> - <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">head injury treatment</a> ke liye consult karein</li>
+                        <li><strong>Sudden severe headache</strong> - jaise koi thunder clap (thunderclap headache)</li>
+                        <li><strong>Headache with fever aur stiff neck</strong> - meningitis ka sign ho sakta hai</li>
+                        <li><strong>Confusion aur difficulty speaking</strong> - stroke ka sign</li>
+                        <li><strong>Vision loss ya double vision</strong></li>
+                        <li><strong>Weakness or numbness on one side</strong></li>
+                        <li><strong>Seizures ya convulsions</strong></li>
+                        <li><strong>Head injury ke baad headache</strong> - <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">head injury treatment</a> ke liye consult karein</li>
                     </ul>
                 </div>
 
                 <!-- Section 4: Diagnosis -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Diagnosis Process (निदान कैसे होता है)</h2>
+                <h2 class="raj-h2-secondary">Diagnosis Process (निदान कैसे होता है)</h2>
 
                 <p class="text-gray-700 mb-4">
                     RAJ Hospital Ranchi mein neurology experts proper diagnosis ke liye ye steps follow karte hain:
@@ -415,7 +441,7 @@
                 </div>
 
                 <!-- Section 5: Treatment Options -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Treatment Options (इलाज के तरीके)</h2>
+                <h2 class="raj-h2-secondary">Treatment Options (इलाज के तरीके)</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mb-3">Immediate Relief (तुरंत राहत)</h3>
 
@@ -423,20 +449,20 @@
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">1. Over-the-Counter Medicines</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Paracetamol - mild headache ke liye</li>
-                            <li>• Ibuprofen - inflammation reduce karta hai</li>
-                            <li>• Aspirin - adults ke liye</li>
-                            <li>• Naproxen - longer relief ke liye</li>
+                            <li>Paracetamol - mild headache ke liye</li>
+                            <li>Ibuprofen - inflammation reduce karta hai</li>
+                            <li>Aspirin - adults ke liye</li>
+                            <li>Naproxen - longer relief ke liye</li>
                         </ul>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">2. Home Remedies</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Dark, quiet room mein rest karein</li>
-                            <li>• Cold compress on forehead</li>
-                            <li>• Gentle head massage</li>
-                            <li>• Peppermint oil on temples</li>
-                            <li>• Ginger tea for nausea</li>
+                            <li>Dark, quiet room mein rest karein</li>
+                            <li>Cold compress on forehead</li>
+                            <li>Gentle head massage</li>
+                            <li>Peppermint oil on temples</li>
+                            <li>Ginger tea for nausea</li>
                         </ul>
                     </div>
                 </div>
@@ -467,7 +493,7 @@
                 </div>
 
                 <!-- Section 6: Prevention Tips -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Prevention Tips (बचाव के तरीके)</h2>
+                <h2 class="raj-h2-secondary">Prevention Tips (बचाव के तरीके)</h2>
 
                 <p class="text-gray-700 mb-4">
                     Headaches se bachna actually possible hai agar aap apni lifestyle mein kuch changes laayein:
@@ -522,7 +548,7 @@
                 </div>
 
                 <!-- Section 7: Related Conditions -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Related Conditions</h2>
+                <h2 class="raj-h2-secondary">Related Conditions</h2>
 
                 <p class="text-gray-700 mb-4">
                     Headaches often kisi aur health condition se connected hote hain. Kuch related conditions jo aapko pata honi chahiye:
@@ -572,7 +598,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                <h2 class="raj-h2-secondary">अक्सर पूछे जाने वाले सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -635,7 +661,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Headaches Types, Causes aur Treatment Solutions में डॉक्टर को कब दिखाना चाहिए?</h3>

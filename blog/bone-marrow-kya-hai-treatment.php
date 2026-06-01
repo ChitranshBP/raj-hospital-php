@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Bone Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant",
+        "description": "Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में bone marrow transplant और treatment।",
+        "url": "https://rajhospitals.com/blog/bone-marrow-kya-hai-treatment",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/bone-marrow-kya-hai-treatment.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/bone-marrow-kya-hai-treatment",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Bone Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: What is Bone Marrow -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Marrow Kya Hai? (What is Bone Marrow?)</h2>
+                <h2 class="raj-h2">Bone Marrow Kya Hai? (What is Bone Marrow?)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone marrow</strong> हमारी bones के अंदर एक soft, spongy tissue है जो इक्वल कहा जाता है। यह दो प्रकार का होता है:
@@ -144,13 +251,13 @@
                     हर दिन, आपके bone marrow में लगभग <strong>200 billion new blood cells</strong> बनते हैं! यह process hematopoiesis कहलाती है। यही stem cells ही bone marrow transplant का आधार हैं।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Stem Cells ki Power:</strong>
                     <span class="text-gray-700"> एक single stem cell से billion new blood cells produce हो सकते हैं। यही stem cells bone marrow treatment और transplant का आधार हैं।</span>
                 </div>
 
                 <!-- Section 2: Functions -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Marrow Ke Functions</h2>
+                <h2 class="raj-h2">Bone Marrow Ke Functions</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone marrow</strong> कई critical functions perform करता है:
@@ -161,9 +268,9 @@
                         <h4 class="font-bold text-secondary-600">1. Blood Cell Production (Hematopoiesis)</h4>
                         <p class="text-sm text-gray-600">Red marrow stem cells से तीन प्रकार के blood cells बनते हैं:
                         <ul class="text-sm text-gray-600 mt-1 ml-4">
-                            <li>• <strong>RBCs</strong> - Oxygen carry करते हैं पूरे शरीर में</li>
-                            <li>• <strong>WBCs</strong> - Infections से लड़ते हैं (immune system)</li>
-                            <li>• <strong>Platelets</strong> - Blood clotting में मदद करते हैं</li>
+                            <li><strong>RBCs</strong> - Oxygen carry करते हैं पूरे शरीर में</li>
+                            <li><strong>WBCs</strong> - Infections से लड़ते हैं (immune system)</li>
+                            <li><strong>Platelets</strong> - Blood clotting में मदद करते हैं</li>
                         </ul>
                         </p>
                     </div>
@@ -178,7 +285,7 @@
                 </div>
 
                 <!-- Section 3: Diseases -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Marrow Se Related Diseases</h2>
+                <h2 class="raj-h2">Bone Marrow Se Related Diseases</h2>
 
                 <p class="text-gray-700 mb-4">
                     जब bone marrow सही से काम नहीं करता, तो कई serious diseases हो सकती हैं:
@@ -212,7 +319,7 @@
                 </div>
 
                 <!-- Section 4: Bone Marrow Transplant -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Marrow Transplant (Stem Cell Transplant)</h2>
+                <h2 class="raj-h2">Bone Marrow Transplant (Stem Cell Transplant)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone marrow transplant</strong> एक procedure है जिसमें diseased या damaged bone marrow को healthy stem cells से replace किया जाता है। यह एक potentially curative treatment है जो कई life-threatening conditions को cure कर सकता है।
@@ -240,7 +347,7 @@
                 </div>
 
                 <!-- Section 5: Process -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Marrow Transplant Ka Process</h2>
+                <h2 class="raj-h2">Bone Marrow Transplant Ka Process</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone marrow transplant process</strong> कई stages में complete होता है:
@@ -274,40 +381,40 @@
                 </div>
 
                 <!-- Section 6: Risks and Complications -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Risks Aur Complications</h2>
+                <h2 class="raj-h2">Risks Aur Complications</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone marrow transplant</strong> एक major procedure है जिसमें कई risks होते हैं:
                 </p>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Immediate Risks:</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• <strong>Infection:</strong> Immune system suppressed होने से infections ka risk</li>
-                            <li>• <strong>Graft vs Host Disease (GVHD):</strong> Donor cells patient को attack करते हैं (mostly allogeneic transplants में)</li>
-                            <li>• <strong>Bleeding:</strong> Low platelet count se bleeding problems</li>
-                            <li>• <strong>Organ damage:</strong> From high-dose chemotherapy</li>
+                            <li><strong>Infection:</strong> Immune system suppressed होने से infections ka risk</li>
+                            <li><strong>Graft vs Host Disease (GVHD):</strong> Donor cells patient को attack करते हैं (mostly allogeneic transplants में)</li>
+                            <li><strong>Bleeding:</strong> Low platelet count se bleeding problems</li>
+                            <li><strong>Organ damage:</strong> From high-dose chemotherapy</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Long-term Risks:</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• <strong>Relapse:</strong> Original disease वापस आ सकता है</li>
-                            <li>• <strong>Secondary cancer:</strong> Treatment ke side effects se new cancer का risk</li>
-                            <li>• <strong>Cataracts:</strong> Radiation side effect</li>
-                            <li>• <strong>Infertility:</strong> Reproductive system affected हो सकता है</li>
+                            <li><strong>Relapse:</strong> Original disease वापस आ सकता है</li>
+                            <li><strong>Secondary cancer:</strong> Treatment ke side effects se new cancer का risk</li>
+                            <li><strong>Cataracts:</strong> Radiation side effect</li>
+                            <li><strong>Infertility:</strong> Reproductive system affected हो सकता है</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
                     <span class="text-gray-700"> Risks aur benefits को carefully weigh करना जरूरी है। RAJ Hospital में experienced hematology team each case ko individually assess करता है aur patient ko comprehensive guidance deta hai।</span>
                 </div>
 
                 <!-- Section 7: Recovery and Success -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Recovery Aur Success Rates</h2>
+                <h2 class="raj-h2">Recovery Aur Success Rates</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone marrow transplant success rates</strong> कई factors पर depend करते हैं:
@@ -339,24 +446,24 @@
                 </ul>
 
                 <!-- Section 8: Becoming a Donor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Marrow Donor Kaise Banein?</h2>
+                <h2 class="raj-h2">Bone Marrow Donor Kaise Banein?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone marrow donation</strong> एक life-saving act है जो किसी patient की life बचा सकती है। India में bone marrow donor registry बढ़ रही है लेकिन अभी भी ज्यादा donors की जरूरत है।
                 </p>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Eligibility:</strong> 18-60 years age, good health, willing to donate</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Process:</strong> Registration, tissue typing (cheek swab test), join registry</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Donation methods:</strong> Peripheral blood stem cell collection (85% cases) या bone marrow harvest from hip (15% cases)</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Recovery:</strong> Most donors back to normal activities within 1-2 days</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>It's safe:</strong> Serious complications from donation are very rare (<1%)</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Eligibility:</strong> 18-60 years age, good health, willing to donate</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Process:</strong> Registration, tissue typing (cheek swab test), join registry</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Donation methods:</strong> Peripheral blood stem cell collection (85% cases) या bone marrow harvest from hip (15% cases)</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Recovery:</strong> Most donors back to normal activities within 1-2 days</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>It's safe:</strong> Serious complications from donation are very rare (<1%)</li>
                     </ul>
                 </div>
 
                 <!-- Section 9: Cost -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Marrow Treatment Cost</h2>
+                <h2 class="raj-h2">Bone Marrow Treatment Cost</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone marrow transplant cost</strong> India में variable है:
@@ -385,7 +492,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Bone Marrow Treatment</h2>
+                <h2 class="raj-h2">FAQs - Bone Marrow Treatment</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -434,7 +541,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Bone Marrow Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?</h3>

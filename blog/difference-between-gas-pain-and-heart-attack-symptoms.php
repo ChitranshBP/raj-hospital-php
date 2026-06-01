@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi",
+        "description": "Learn to differentiate between gas pain and heart attack symptoms. Understand key warning signs, when to seek emergency care, and how to identify serious cardiac events.",
+        "url": "https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/difference-between-gas-pain-and-heart-attack-symptoms.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -128,13 +235,13 @@
                     The challenge is that gas pain and heart attack symptoms can sometimes feel similar, causing confusion and anxiety. While gas pain is usually harmless and resolves on its own, a heart attack is a medical emergency that requires immediate intervention. Understanding the key differences between these two conditions could quite literally save your life or the life of someone you love.
                 </p>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ Critical Reminder:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> Critical Reminder:</strong>
                     <span class="text-gray-700"> When in doubt, always err on the side of caution. If you suspect you might be having a heart attack, call emergency services immediately. It's always better to be safe than sorry.</span>
                 </div>
 
                 <!-- Section 1: Understanding Gas Pain -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Understanding Gas Pain</h2>
+                <h2 class="raj-h2">Understanding Gas Pain</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Gas pain</strong>, also known as flatulence or bloating, is a normal part of the digestive process. Everyone produces gas - on average, a person passes gas 13-21 times per day. However, when gas builds up in the digestive system, it can cause significant discomfort that sometimes radiates to the chest area, creating confusion with cardiac symptoms.
@@ -167,7 +274,7 @@
                 </div>
 
                 <!-- Section 2: Understanding Heart Attack -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Understanding Heart Attack</h2>
+                <h2 class="raj-h2">Understanding Heart Attack</h2>
 
                 <p class="text-gray-700 mb-4">
                     A <strong>heart attack</strong> (myocardial infarction) occurs when blood flow to a part of the heart muscle is blocked, usually by a blood clot. Without oxygen-rich blood, the heart muscle begins to die. This is a medical emergency - the longer the blockage remains, the more damage occurs to the heart muscle.
@@ -188,13 +295,13 @@
                     <li><strong>Fatigue</strong> - Unusual tiredness, especially in women</li>
                 </ul>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Emergency Signs:</strong>
                     <span class="text-gray-700"> If you experience chest discomfort combined with shortness of breath, pain radiating to the arm/jaw, or cold sweats - call emergency services immediately!</span>
                 </div>
 
                 <!-- Section 3: Key Differences -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Key Differences: Gas Pain vs Heart Attack</h2>
+                <h2 class="raj-h2">Key Differences: Gas Pain vs Heart Attack</h2>
 
                 <div class="overflow-x-auto mb-6">
                     <table class="w-full border-collapse border border-gray-300">
@@ -246,7 +353,7 @@
                 </div>
 
                 <!-- Section 4: Specific Differences -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Detailed Comparison of Symptoms</h2>
+                <h2 class="raj-h2">Detailed Comparison of Symptoms</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Pain Quality</h3>
                 <p class="text-gray-700 mb-4">
@@ -281,7 +388,7 @@
                 </p>
 
                 <!-- Section 5: Special Cases -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Women May Experience Different Symptoms</h2>
+                <h2 class="raj-h2">Women May Experience Different Symptoms</h2>
 
                 <p class="text-gray-700 mb-4">
                     It's crucial to understand that heart attack symptoms in women can be different from the classic "male" symptoms. Women are more likely to experience:
@@ -297,39 +404,39 @@
                     <li>Anxiety or sense of impending doom</li>
                 </ul>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Important:</strong>
                     <span class="text-gray-700"> Women often dismiss their symptoms as indigestion, stress, or normal aging. This leads to delayed treatment and worse outcomes. When something feels "wrong," trust your instincts and seek medical help.</span>
                 </div>
 
                 <!-- Section 6: When to Seek Emergency Care -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">When to Call Emergency Services</h2>
+                <h2 class="raj-h2">When to Call Emergency Services</h2>
 
                 <p class="text-gray-700 mb-4">
                     Don't try to "tough it out" or drive yourself to the hospital if you suspect a heart attack. Call emergency services immediately if you experience:
                 </p>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Chest discomfort that lasts more than 5 minutes</h4>
                         <p class="text-sm text-gray-600">Even if it goes away, this could be a warning sign of an impending heart attack.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Pain radiating to arm, jaw, neck, or back</h4>
                         <p class="text-sm text-gray-600">This is a classic sign of cardiac involvement.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Shortness of breath with or without chest pain</h4>
                         <p class="text-sm text-gray-600">Especially if it comes on suddenly and doesn't have an obvious cause.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Cold sweats, nausea, or lightheadedness</h4>
                         <p class="text-sm text-gray-600">Combined with any chest discomfort, these are serious warning signs.</p>
                     </div>
                 </div>
 
                 <!-- Section 7: Self-Assessment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Quick Self-Assessment Test</h2>
+                <h2 class="raj-h2">Quick Self-Assessment Test</h2>
 
                 <p class="text-gray-700 mb-4">Ask yourself these questions if you're experiencing chest discomfort:</p>
 
@@ -368,7 +475,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -413,7 +520,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Gas Pain vs Heart Attack - How to Tell the Difference में डॉक्टर को कब दिखाना चाहिए?</h3>

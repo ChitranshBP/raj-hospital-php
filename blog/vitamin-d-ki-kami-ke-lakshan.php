@@ -117,6 +117,31 @@ $base_url = '../';
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -148,8 +173,10 @@ $base_url = '../';
         ]
     }
     </script>
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
+    <?php include $base_url . 'components/navbar.php'; ?>
     <?php include '../nav.php'; ?>
 
     <!-- Breadcrumb -->
@@ -196,7 +223,7 @@ $base_url = '../';
         <div class="bg-white rounded-xl shadow-lg p-6 md:p-8">
 
             <!-- Warning Box -->
-            <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+            <div class="raj-callout raj-callout-warning">
                 <div class="flex">
                     <i data-feather="sun" class="w-5 h-5 text-yellow-500 mt-0.5"></i>
                     <div class="ml-3">
@@ -245,7 +272,7 @@ $base_url = '../';
                 विटामिन D की कमी के लक्षण अक्सर subtle होते हैं और कई दूसरी समस्याओं जैसे दिखते हैं। <a href="https://rajhospitals.com/blog/immunity-kaise-badhaye.php" class="text-hospital-blue hover:underline">इम्यूनिटी कैसे बढ़ाएं</a> के बारे में जानने से पहले विटामिन D की कमी के बारे में जानना ज़रूरी है।
             </p>
 
-            <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-4">
+            <div class="raj-callout raj-callout-danger">
                 <h4 class="font-bold text-red-700 mb-2">Common Symptoms:</h4>
                 <ul class="list-disc pl-5 text-gray-700 space-y-1">
                     <li><strong>थकान और कमज़ोरी</strong> - सोने के बाद भी थकान महसूस होना</li>
@@ -429,7 +456,7 @@ $base_url = '../';
                 अगर sun exposure कम है और diet से पर्याप्त नहीं मिल रहा, तो supplements लेने पड़ सकते हैं:
             </p>
 
-            <div class="bg-purple-50 border-l-4 border-purple-500 p-4 rounded-r-lg mb-4">
+            <div class="raj-callout raj-callout-info">
                 <h4 class="font-bold text-purple-700 mb-2">Common Supplements:</h4>
                 <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
                     <li><strong>Vitamin D3 (Cholecalciferol)</strong> - सबसे प्रभावी form</li>
@@ -438,7 +465,7 @@ $base_url = '../';
                 </ul>
             </div>
 
-            <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+            <div class="raj-callout raj-callout-danger">
                 <p class="text-gray-700 text-sm"><strong>Warning:</strong> Supplements डॉक्टर की सलाह से ही लें। ज़्यादा विटामिन D भी हानिकारक है (hypervitaminosis D) जो kidney stones और calcium buildup कर सकता है।</p>
             </div>
 
@@ -607,5 +634,6 @@ $base_url = '../';
     <script>
         feather.replace();
     </script>
+    <?php include $base_url . 'components/footer.php'; ?>
 </body>
 </html>

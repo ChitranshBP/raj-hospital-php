@@ -213,6 +213,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -331,21 +357,21 @@
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Lifestyle Factors</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• अधिक शराब और धूम्रपान</li>
-                            <li>• ज्यादा processed food और fast food</li>
-                            <li>• Exercise की कमी</li>
-                            <li>• अधिक stress (work pressure)</li>
-                            <li>• अनregular sleep patterns</li>
+                            <li>अधिक शराब और धूम्रपान</li>
+                            <li>ज्यादा processed food और fast food</li>
+                            <li>Exercise की कमी</li>
+                            <li>अधिक stress (work pressure)</li>
+                            <li>अनregular sleep patterns</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Biological Factors</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Testosterone hormone का effect</li>
-                            <li>• Higher stress hormones</li>
-                            <li>• Age-related changes</li>
-                            <li>• Genetics और family history</li>
-                            <li>• Higher body mass index</li>
+                            <li>Testosterone hormone का effect</li>
+                            <li>Higher stress hormones</li>
+                            <li>Age-related changes</li>
+                            <li>Genetics और family history</li>
+                            <li>Higher body mass index</li>
                         </ul>
                     </div>
                 </div>
@@ -408,21 +434,21 @@
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">Diet Changes (आहार में बदलाव)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• नमक (sodium) कम करें - daily 1500mg से कम</li>
-                            <li>• Fresh fruits और vegetables ज्यादा खाएं</li>
-                            <li>• Whole grains और lean proteins prefer करें</li>
-                            <li>• Processed foods और junk food कम करें</li>
-                            <li>• <a href="<?php echo $base_url; ?>high-bp-me-kya-khaye.php">High BP diet guide</a> पढ़ें</li>
+                            <li>नमक (sodium) कम करें - daily 1500mg से कम</li>
+                            <li>Fresh fruits और vegetables ज्यादा खाएं</li>
+                            <li>Whole grains और lean proteins prefer करें</li>
+                            <li>Processed foods और junk food कम करें</li>
+                            <li><a href="<?php echo $base_url; ?>high-bp-me-kya-khaye.php">High BP diet guide</a> पढ़ें</li>
                         </ul>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">Lifestyle Changes</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• रोज़ 30 मिनट moderate exercise करें</li>
-                            <li>• Healthy weight maintain करें</li>
-                            <li>• शराब और smoking छोड़ें</li>
-                            <li>• Quality sleep 7-8 hours लें</li>
-                            <li>• Stress management - yoga और meditation</li>
+                            <li>रोज़ 30 मिनट moderate exercise करें</li>
+                            <li>Healthy weight maintain करें</li>
+                            <li>शराब और smoking छोड़ें</li>
+                            <li>Quality sleep 7-8 hours लें</li>
+                            <li>Stress management - yoga और meditation</li>
                         </ul>
                     </div>
                 </div>
@@ -492,7 +518,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण में डॉक्टर को कब दिखाना चाहिए?</h3>

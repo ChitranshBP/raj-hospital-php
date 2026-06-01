@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Best Ways to Take Moringa for Managing Diabetes | RAJ Hospital",
+        "description": "Moringa for diabetes - सही तरीका, dosage, और benefits जानें। Moringa powder, capsules, और tea के through diabetes control करें। Scientific evidence और expert advice।",
+        "url": "https://rajhospitals.com/blog/best-ways-to-take-moringa-for-managing-diabetes",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/best-ways-to-take-moringa-for-managing-diabetes.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/best-ways-to-take-moringa-for-managing-diabetes",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Best Ways to Take Moringa for Managing Diabetes | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: What is Moringa -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">What is Moringa? Understanding the Miracle Tree</h2>
+                <h2 class="raj-h2">What is Moringa? Understanding the Miracle Tree</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Moringa oleifera</strong> is a fast-growing, drought-resistant tree native to parts of India, Pakistan, Bangladesh, and Afghanistan. Every part of the moringa tree - leaves, pods, seeds, roots, and oil - has been used for nutritional and medicinal purposes. The leaves are particularly concentrated with vitamins, minerals, and powerful antioxidants.
@@ -152,13 +259,13 @@
                     </div>
                 </div>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Scientific Recognition:</strong>
                     <span class="text-gray-700"> Moringa has been extensively studied for its anti-diabetic effects. Research published in the Journal of Ethnopharmacology shows that moringa leaf extract can significantly lower blood glucose levels.</span>
                 </div>
 
                 <!-- Section 2: How Moringa Helps Diabetes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">How Moringa Helps Manage Diabetes</h2>
+                <h2 class="raj-h2">How Moringa Helps Manage Diabetes</h2>
 
                 <p class="text-gray-700 mb-4">
                     Moringa's <strong>anti-diabetic properties</strong> work through multiple mechanisms:
@@ -188,7 +295,7 @@
                 </div>
 
                 <!-- Section 3: Scientific Evidence -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Scientific Evidence for Moringa and Diabetes</h2>
+                <h2 class="raj-h2">Scientific Evidence for Moringa and Diabetes</h2>
 
                 <p class="text-gray-700 mb-4">
                     The <strong>anti-diabetic effects of moringa</strong> are well-documented in scientific literature:
@@ -197,20 +304,20 @@
                 <div class="bg-gray-50 p-4 rounded-lg mb-6">
                     <h4 class="font-bold text-secondary-600 mb-2">Key Research Findings:</h4>
                     <ul class="space-y-2 text-gray-700">
-                        <li>• A study in the Journal of Diabetes and Metabolic Disorders found that moringa leaf powder reduced fasting blood glucose by 28.7% in type 2 diabetes patients.</li>
-                        <li>• Research published in Phytotherapy Research showed that moringa improved glycemic control in diabetic rats.</li>
-                        <li>• Clinical trials have demonstrated that moringa supplementation significantly lowers HbA1c levels (a marker of long-term blood sugar control).</li>
-                        <li>• Studies confirm moringa's ability to reduce postprandial (after-meal) blood sugar spikes.</li>
+                        <li>A study in the Journal of Diabetes and Metabolic Disorders found that moringa leaf powder reduced fasting blood glucose by 28.7% in type 2 diabetes patients.</li>
+                        <li>Research published in Phytotherapy Research showed that moringa improved glycemic control in diabetic rats.</li>
+                        <li>Clinical trials have demonstrated that moringa supplementation significantly lowers HbA1c levels (a marker of long-term blood sugar control).</li>
+                        <li>Studies confirm moringa's ability to reduce postprandial (after-meal) blood sugar spikes.</li>
                     </ul>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
                     <span class="text-gray-700"> While moringa shows promising results, it should be used as a complementary therapy alongside prescribed diabetes medications and lifestyle changes. Always consult your doctor before starting any supplement. At RAJ Hospital, our <a href="<?php echo $base_url; ?>find-a-doctor.php" class="text-secondary-600 hover:underline">endocrinology specialists</a> can guide you on integrating moringa into your diabetes management plan.</span>
                 </div>
 
                 <!-- Section 4: Best Ways to Consume -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Best Ways to Take Moringa for Diabetes</h2>
+                <h2 class="raj-h2">Best Ways to Take Moringa for Diabetes</h2>
 
                 <p class="text-gray-700 mb-4">
                     There are several effective ways to incorporate <strong>moringa into your diabetes management routine</strong>:
@@ -272,40 +379,40 @@
                 </div>
 
                 <!-- Section 5: Recipes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Simple Moringa Recipes for Diabetics</h2>
+                <h2 class="raj-h2">Simple Moringa Recipes for Diabetics</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Moringa Diabetes Morning Smoothie</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <p class="font-bold text-gray-800 mb-2">Ingredients:</p>
                     <ul class="text-gray-700 space-y-1 mb-3">
-                        <li>• 1 cup unsweetened almond milk</li>
-                        <li>• 1/2 ripe avocado</li>
-                        <li>• 1/2 teaspoon moringa powder</li>
-                        <li>• 1/2 inch fresh ginger</li>
-                        <li>• Few pieces of frozen spinach</li>
-                        <li>• Stevia or monk fruit sweetener (optional)</li>
+                        <li>1 cup unsweetened almond milk</li>
+                        <li>1/2 ripe avocado</li>
+                        <li>1/2 teaspoon moringa powder</li>
+                        <li>1/2 inch fresh ginger</li>
+                        <li>Few pieces of frozen spinach</li>
+                        <li>Stevia or monk fruit sweetener (optional)</li>
                     </ul>
                     <p class="font-bold text-gray-800 mb-2">Method:</p>
                     <p class="text-gray-700">Blend all ingredients until smooth. Drink within 30 minutes of waking up for maximum benefits.</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Moringa Diabetic-Friendly Sabzi</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <p class="font-bold text-gray-800 mb-2">Ingredients:</p>
                     <ul class="text-gray-700 space-y-1 mb-3">
-                        <li>• 2 cups fresh moringa leaves, chopped</li>
-                        <li>• 1 onion, finely chopped</li>
-                        <li>• 2 green chilies</li>
-                        <li>• 1/2 teaspoon turmeric</li>
-                        <li>• 1 teaspoon mustard seeds</li>
-                        <li>• 1 tablespoon coconut oil</li>
+                        <li>2 cups fresh moringa leaves, chopped</li>
+                        <li>1 onion, finely chopped</li>
+                        <li>2 green chilies</li>
+                        <li>1/2 teaspoon turmeric</li>
+                        <li>1 teaspoon mustard seeds</li>
+                        <li>1 tablespoon coconut oil</li>
                     </ul>
                     <p class="font-bold text-gray-800 mb-2">Method:</p>
                     <p class="text-gray-700">Heat oil, add mustard seeds, sauté onion and chilies, add moringa leaves with turmeric, cover and cook for 10 minutes. Serve with roti or brown rice.</p>
                 </div>
 
                 <!-- Section 6: Dosage Guide -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Moringa Dosage Guide for Diabetes</h2>
+                <h2 class="raj-h2">Moringa Dosage Guide for Diabetes</h2>
 
                 <p class="text-gray-700 mb-4">
                     Finding the <strong>right moringa dosage</strong> is important for optimal benefits:
@@ -326,52 +433,52 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important Notes:</strong>
                     <ul class="space-y-1 text-gray-700 mt-2">
-                        <li>• Start low and go slow to assess tolerance</li>
-                        <li>• Monitor blood sugar regularly when starting moringa</li>
-                        <li>• May need to adjust diabetes medications - consult your doctor</li>
-                        <li>• Take breaks every 3 months (1 week off) to prevent tolerance</li>
+                        <li>Start low and go slow to assess tolerance</li>
+                        <li>Monitor blood sugar regularly when starting moringa</li>
+                        <li>May need to adjust diabetes medications - consult your doctor</li>
+                        <li>Take breaks every 3 months (1 week off) to prevent tolerance</li>
                     </ul>
                 </div>
 
                 <!-- Section 7: Precautions -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Precautions and Side Effects</h2>
+                <h2 class="raj-h2">Precautions and Side Effects</h2>
 
                 <p class="text-gray-700 mb-4">
                     While <strong>moringa is generally safe</strong>, some precautions are necessary:
                 </p>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Medication Interactions</h4>
                         <p class="text-sm text-gray-600">Moringa may enhance the effects of diabetes medications, potentially causing hypoglycemia (low blood sugar). Work with your doctor to adjust medications.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Pregnancy Warning</h4>
                         <p class="text-sm text-gray-600">Moringa in large amounts may not be safe during pregnancy due to potential effects on the uterus.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Thyroid Conditions</h4>
                         <p class="text-sm text-gray-600">Moringa may affect thyroid function. If you have thyroid disorders, consult your doctor first.</p>
                     </div>
                 </div>
 
                 <!-- Section 8: Combining with Other Remedies -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Combining Moringa with Other Natural Remedies</h2>
+                <h2 class="raj-h2">Combining Moringa with Other Natural Remedies</h2>
 
                 <p class="text-gray-700 mb-4">
                     For enhanced <strong>diabetes management</strong>, moringa can be combined with other natural remedies:
                 </p>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Fenugreek (Methi):</strong> Both slow sugar absorption - can be taken together</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Cinnamon (Dalchini):</strong> Improves insulin sensitivity - tea combination works well</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Turmeric (Haldi):</strong> Anti-inflammatory benefits - cook together</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Green Tea:</strong> Antioxidant boost - alternate between moringa and green tea</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Amla:</strong> Rich in vitamin C, supports overall diabetes management</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Fenugreek (Methi):</strong> Both slow sugar absorption - can be taken together</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Cinnamon (Dalchini):</strong> Improves insulin sensitivity - tea combination works well</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Turmeric (Haldi):</strong> Anti-inflammatory benefits - cook together</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Green Tea:</strong> Antioxidant boost - alternate between moringa and green tea</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Amla:</strong> Rich in vitamin C, supports overall diabetes management</li>
                     </ul>
                 </div>
 
@@ -383,7 +490,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Moringa for Diabetes</h2>
+                <h2 class="raj-h2">FAQs - Moringa for Diabetes</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -432,7 +539,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Best Ways to Take Moringa for Managing Diabetes में डॉक्टर को कब दिखाना चाहिए?</h3>

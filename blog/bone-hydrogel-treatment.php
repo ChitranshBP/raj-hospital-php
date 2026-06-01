@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Bone Hydrogel Treatment in Hindi | RAJ Hospital Ranchi - Orthopedic Care",
+        "description": "Bone hydrogel treatment क्या है, यह कैसे काम करता है, इसके benefits, procedure, और cost के बारे में जानें। RAJ Hospital Ranchi में advanced orthopedic treatments।",
+        "url": "https://rajhospitals.com/blog/bone-hydrogel-treatment",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/bone-hydrogel-treatment.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/bone-hydrogel-treatment",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Bone Hydrogel Treatment in Hindi | RAJ Hospital Ranchi - Orthopedic Care"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: What is Bone Hydrogel -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Hydrogel Treatment Kya Hai?</h2>
+                <h2 class="raj-h2">Bone Hydrogel Treatment Kya Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone hydrogel</strong> एक specially designed bio-compatible material है जो water-based polymer network से बना होता है। इसकी structure bone tissue जैसी natural properties रखती है - यह flexible yet strong होता है और body के साथ compatibility maintain करता है।
@@ -133,13 +240,13 @@
                     Treatment में, यह hydrogel damaged bone या cartilage area में inject किया जाता है जहां यह fill करता है और healing process को start करता है। Time के साथ, यह hydrogel gradually absorb होता है जबकि नई bone और cartilage tissue बनती रहती है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Science Behind:</strong>
                     <span class="text-gray-700"> Hydrogels have been used in medicine for decades (contact lenses, wound dressings). Recent advances have made them suitable for bone and cartilage regeneration, making them one of the most promising fields in orthopedic research.</span>
                 </div>
 
                 <!-- Section 2: How It Works -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Hydrogel Kaise Kaam Karta Hai?</h2>
+                <h2 class="raj-h2">Bone Hydrogel Kaise Kaam Karta Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone hydrogel treatment</strong> की mechanism कई stages में काम करती है:
@@ -165,7 +272,7 @@
                 </div>
 
                 <!-- Section 3: Types of Hydrogel -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Hydrogel Treatment Ke Types</h2>
+                <h2 class="raj-h2">Bone Hydrogel Treatment Ke Types</h2>
 
                 <p class="text-gray-700 mb-4">
                     विभिन्न medical conditions के लिए अलग-अलग types of bone hydrogels उपयोग किए जाते हैं:
@@ -191,7 +298,7 @@
                 </div>
 
                 <!-- Section 4: Conditions Treated -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Hydrogel Treatment Se Kaise Conditions Treat Hote Hain?</h2>
+                <h2 class="raj-h2">Bone Hydrogel Treatment Se Kaise Conditions Treat Hote Hain?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone hydrogel treatment</strong> कई orthopedic conditions में effective है:
@@ -221,25 +328,25 @@
                 </div>
 
                 <!-- Section 5: Benefits -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Hydrogel Treatment Ke Fayde</h2>
+                <h2 class="raj-h2">Bone Hydrogel Treatment Ke Fayde</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone hydrogel treatment</strong> के traditional surgery के मुकाबले कई advantages हैं:
                 </p>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Minimally Invasive:</strong> Small injection instead of large surgical incision - less tissue damage and minimal scarring.</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Quick Recovery:</strong> Most patients resume normal activities within days, compared to weeks or months after traditional surgery.</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Reduced Pain:</strong> No major surgical trauma means significantly less post-procedure pain.</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Lower Infection Risk:</strong> No open surgery means much lower risk of surgical site infections.</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Natural Healing:</strong> The body heals itself with its own tissue rather than synthetic implants.</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Outpatient Procedure:</strong> Often done as a day-care procedure without overnight hospital stay.</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Minimally Invasive:</strong> Small injection instead of large surgical incision - less tissue damage and minimal scarring.</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quick Recovery:</strong> Most patients resume normal activities within days, compared to weeks or months after traditional surgery.</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Reduced Pain:</strong> No major surgical trauma means significantly less post-procedure pain.</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Lower Infection Risk:</strong> No open surgery means much lower risk of surgical site infections.</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Natural Healing:</strong> The body heals itself with its own tissue rather than synthetic implants.</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Outpatient Procedure:</strong> Often done as a day-care procedure without overnight hospital stay.</li>
                     </ul>
                 </div>
 
                 <!-- Section 6: Procedure -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Hydrogel Treatment Procedure</h2>
+                <h2 class="raj-h2">Bone Hydrogel Treatment Procedure</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone hydrogel treatment</strong> का procedure generally safe और straightforward है:
@@ -278,35 +385,35 @@
                 </ul>
 
                 <!-- Section 7: Candidates -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Bone Hydrogel Treatment Ke Candidates</h2>
+                <h2 class="raj-h2">Bone Hydrogel Treatment Ke Candidates</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone hydrogel treatment</strong> सभी patients के लिए suitable नहीं है। Ideal candidates हैं:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">Good Candidates</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Early to moderate osteoarthritis</li>
-                            <li>• Small to medium cartilage defects</li>
-                            <li>• Patients who haven't responded to conservative treatment</li>
-                            <li>• Those looking for minimally invasive options</li>
+                            <li>Early to moderate osteoarthritis</li>
+                            <li>Small to medium cartilage defects</li>
+                            <li>Patients who haven't responded to conservative treatment</li>
+                            <li>Those looking for minimally invasive options</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Not Suitable For</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Severe osteoarthritis with bone-on-bone</li>
-                            <li>• Large bone defects requiring structural support</li>
-                            <li>• Active infections at the site</li>
-                            <li>• Some autoimmune conditions affecting bone healing</li>
+                            <li>Severe osteoarthritis with bone-on-bone</li>
+                            <li>Large bone defects requiring structural support</li>
+                            <li>Active infections at the site</li>
+                            <li>Some autoimmune conditions affecting bone healing</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 8: Recovery -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Recovery Aur Rehabilitation</h2>
+                <h2 class="raj-h2">Recovery Aur Rehabilitation</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone hydrogel treatment</strong> के बाद recovery generally fast होती है:
@@ -332,7 +439,7 @@
                 </div>
 
                 <!-- Section 9: Cost and Availability -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Cost Aur Availability</h2>
+                <h2 class="raj-h2">Cost Aur Availability</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone hydrogel treatment cost</strong> various factors पर depend करता है - condition ki severity, type of hydrogel used, और treatment location।
@@ -350,7 +457,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Bone Hydrogel Treatment</h2>
+                <h2 class="raj-h2">FAQs - Bone Hydrogel Treatment</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -399,7 +506,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Bone Hydrogel Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?</h3>

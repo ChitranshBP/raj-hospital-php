@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "चिकनपॉक्स के लक्षण (Chicken Pox Symptoms) - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "description": "चिकनपॉक्स (Chicken Pox) के प्रमुख लक्षण, कारण, इलाज और बचाव के उपाय जानें। बच्चों और बड़ों में चिकनपॉक्स के symptoms और home care tips।",
+        "url": "https://rajhospitals.com/blog/chicken-pox-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/chicken-pox-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-18",
+        "dateModified": "2026-05-18",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/chicken-pox-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "चिकनपॉक्स के लक्षण (Chicken Pox Symptoms) - Complete Hindi Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,19 +236,19 @@
                 </p>
 
                 <!-- Section 1: About -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">चिकनपॉक्स क्या है?</h2>
+                <h2 class="raj-h2">चिकनपॉक्स क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>चिकनपॉक्स</strong> एक छोटे बच्चे के चिकन जैसे दिखने वाले spots (छोटे-छोटे दाने) पैदा करने के कारण इसका नाम पड़ा है। यह air through droplets के द्वारा फैलता है और संक्रमित व्यक्ति के contact से आसानी से पास हो जाता है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> एक बार चिकनपॉक्स होने के बाद आमतौर पर lifelong immunity मिलती है। हालांकि virus शरीर में latent बना रहता है और बाद में <strong>shingles</strong> का कारण बन सकता है।</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">चिकनपॉक्स के लक्षण (Chicken Pox Symptoms)</h2>
+                <h2 class="raj-h2">चिकनपॉक्स के लक्षण (Chicken Pox Symptoms)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Chicken pox symptoms</strong> संक्रमण के बाद 10-21 दिनों के बाद दिखना शुरू होते हैं। आमतौर पर symptoms 7-10 दिनों तक रहते हैं।
@@ -170,13 +277,13 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ ध्यान दें:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> ध्यान दें:</strong>
                     <span class="text-gray-700"> Spots शरीर पर कई जगह simultaneously नहीं, बल्कि अलग-अलग समय पर निकलते हैं। यह चकत्ते चेहरे, धड़, scalp और extremities पर हो सकते हैं।</span>
                 </div>
 
                 <!-- Section 3: Stages -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">चिकनपॉक्स के चरण (Stages)</h2>
+                <h2 class="raj-h2">चिकनपॉक्स के चरण (Stages)</h2>
 
                 <div class="relative border-l-4 border-secondary-600 pl-6 space-y-6 mb-6">
                     <div class="relative">
@@ -202,7 +309,7 @@
                 </div>
 
                 <!-- Section 4: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">चिकनपॉक्स का इलाज और घरेलू देखभाल</h2>
+                <h2 class="raj-h2">चिकनपॉक्स का इलाज और घरेलू देखभाल</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Chicken pox treatment</strong> में मुख्य रूप से symptoms की देखभाल और आराम शामिल है। कोई specific antiviral therapy healthy बच्चों के लिए आमतौर पर जरूरी नहीं होती।
@@ -212,31 +319,31 @@
                     <div class="bg-green-50 p-4 rounded-lg">
                         <div class="font-bold text-green-700 mb-2">घरेलू उपाय</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Calamine lotion (खुजली के लिए)</li>
-                            <li>• Cool bath में baking soda डालें</li>
-                            <li>• नाखून छोटे रखें (scratching से बचें)</li>
-                            <li>• आराम और भरपूर fluids</li>
-                            <li>• हल्का और soft आहार</li>
+                            <li>Calamine lotion (खुजली के लिए)</li>
+                            <li>Cool bath में baking soda डालें</li>
+                            <li>नाखून छोटे रखें (scratching से बचें)</li>
+                            <li>आराम और भरपूर fluids</li>
+                            <li>हल्का और soft आहार</li>
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <div class="font-bold text-blue-700 mb-2">दवाइयां (Doctor consultation के बाद)</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Acetaminophen (बुखार के लिए)</li>
-                            <li>• Antihistamines (खुजली के लिए)</li>
-                            <li>• Antiviral दवाइयां (गंभीर cases में)</li>
-                            <li>• Antibiotics (bacterial infection के लिए)</li>
+                            <li>Acetaminophen (बुखार के लिए)</li>
+                            <li>Antihistamines (खुजली के लिए)</li>
+                            <li>Antiviral दवाइयां (गंभीर cases में)</li>
+                            <li>Antibiotics (bacterial infection के लिए)</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">❌ नहीं करना:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="x-circle" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> नहीं करना:</strong>
                     <span class="text-gray-700"> <strong>Aspirin</strong> न दें - Reye's syndrome का खतरा हो सकता है। <strong>Ibuprofen</strong> भी avoid करें।</span>
                 </div>
 
                 <!-- Section 5: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">चिकनपॉक्स से बचाव</h2>
+                <h2 class="raj-h2">चिकनपॉक्स से बचाव</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Varicella vaccine</strong> सबसे प्रभावी बचाव है। India में यह vaccine अब available है और 12-15 महीने के baby को पहली dose, और 4-6 साल में दूसरी dose दी जा सकती है।
@@ -250,7 +357,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -291,7 +398,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">चिकनपॉक्स के लक्षण (Chicken Pox Symptoms) में डॉक्टर को कब दिखाना चाहिए?</h3>

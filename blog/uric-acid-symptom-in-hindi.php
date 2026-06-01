@@ -105,6 +105,59 @@
         ]
     }
     </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Uric Acid Symptom in Hindi - यूरिक एसिड के लक्षण और इलाज | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -146,7 +199,7 @@
                     <span class="text-gray-700"> Uric acid का normal level 3.5-7.2 mg/dL होता है। अगर यह 7 mg/dL से ऊपर चला जाए, तो इसे hyperuricemia कहते हैं और इसे manage करना जरूरी है।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">यूरिक एसिड क्या है और यह कैसे बनता है?</h2>
+                <h2 class="raj-h2-secondary">यूरिक एसिड क्या है और यह कैसे बनता है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Uric acid</strong> हमारे शरीर में naturally बनने वाला एक waste product है। यह <strong>purines</strong> के metabolize होने से produce होता है। Purines कुछ foods में naturally होते हैं और हमारी cells में भी होते हैं।
@@ -156,7 +209,7 @@
                     Normal circumstances में, uric acid kidneys से filtered होकर <strong>urine में excretion</strong> हो जाता है। लेकिन अगर शरीर ज्यादा uric acid produce कर रहा है या kidneys उसे properly remove नहीं कर पा रहे हैं, तो uric acid level बढ़ जाता है।
                 </p>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">यूरिक एसिड के लक्षण (Uric Acid Symptoms)</h2>
+                <h2 class="raj-h2-secondary">यूरिक एसिड के लक्षण (Uric Acid Symptoms)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Uric acid ke lakshan</strong> अक्सर तब appear होते हैं जब level बहुत ज्यादा हो जाता है। कुछ लोगों में asymptomatic होता है, लेकिन जब symptoms दिखते हैं, तो ये quite noticeable होते हैं:
@@ -173,47 +226,47 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">High Uric Acid के अन्य लक्षण</h2>
+                <h2 class="raj-h2-secondary">High Uric Acid के अन्य लक्षण</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Kidney Stones</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• तेज पीठ दर्द</li>
-                            <li>• पेशाब में दर्द जलन</li>
-                            <li>• Blood in urine</li>
-                            <li>• बार-बार पेशाब</li>
+                            <li>तेज पीठ दर्द</li>
+                            <li>पेशाब में दर्द जलन</li>
+                            <li>Blood in urine</li>
+                            <li>बार-बार पेशाब</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Tophi (गांठ)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Joints के आसपास nodules</li>
-                            <li>• Earlobes पर</li>
-                            <li>• Fingers पर</li>
-                            <li>• Painful हो सकते हैं</li>
+                            <li>Joints के आसपास nodules</li>
+                            <li>Earlobes पर</li>
+                            <li>Fingers पर</li>
+                            <li>Painful हो सकते हैं</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">General Symptoms</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Fatigue</li>
-                            <li>• Weakness</li>
-                            <li>• Weight gain</li>
-                            <li>• High blood pressure</li>
+                            <li>Fatigue</li>
+                            <li>Weakness</li>
+                            <li>Weight gain</li>
+                            <li>High blood pressure</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Kidney Problems</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Kidney damage</li>
-                            <li>• Reduced kidney function</li>
-                            <li>• Frequent infections</li>
+                            <li>Kidney damage</li>
+                            <li>Reduced kidney function</li>
+                            <li>Frequent infections</li>
                         </ul>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">यूरिक एसिड बढ़ने के कारण</h2>
+                <h2 class="raj-h2-secondary">यूरिक एसिड बढ़ने के कारण</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
@@ -242,7 +295,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">यूरिक एसिड कम करने के उपाय</h2>
+                <h2 class="raj-h2-secondary">यूरिक एसिड कम करने के उपाय</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Uric acid कम करने</strong> के लिए lifestyle changes और medications दोनों important हैं:
@@ -251,26 +304,26 @@
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Dietary Changes (आहार में बदलाव):</h3>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-600">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700 mb-2">खाएं (Low Purine Foods)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Cherries और berries</li>
-                            <li>• Low-fat dairy products</li>
-                            <li>• Complex carbohydrates</li>
-                            <li>• Fresh vegetables</li>
-                            <li>• Water (ज्यादा पिएं)</li>
-                            <li>• Coffee (moderate)</li>
+                            <li>Cherries और berries</li>
+                            <li>Low-fat dairy products</li>
+                            <li>Complex carbohydrates</li>
+                            <li>Fresh vegetables</li>
+                            <li>Water (ज्यादा पिएं)</li>
+                            <li>Coffee (moderate)</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700 mb-2">न खाएं (High Purine Foods)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Red meat (beef, lamb)</li>
-                            <li>• Organ meats (liver, kidney)</li>
-                            <li>• Seafood (fish, shellfish)</li>
-                            <li>• Beer और alcohol</li>
-                            <li>• Sugary drinks</li>
-                            <li>• Processed foods</li>
+                            <li>Red meat (beef, lamb)</li>
+                            <li>Organ meats (liver, kidney)</li>
+                            <li>Seafood (fish, shellfish)</li>
+                            <li>Beer और alcohol</li>
+                            <li>Sugary drinks</li>
+                            <li>Processed foods</li>
                         </ul>
                     </div>
                 </div>
@@ -285,29 +338,29 @@
                     <li><strong>Vitamin C लें</strong> - research shows Vitamin C uric acid excretion में help करता है।</li>
                 </ul>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">यूरिक एसिड का इलाज (Treatment)</h2>
+                <h2 class="raj-h2-secondary">यूरिक एसिड का इलाज (Treatment)</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Medications for Gout Attacks</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• NSAIDs (pain relief)</li>
-                            <li>• Colchicine</li>
-                            <li>• Corticosteroids</li>
+                            <li>NSAIDs (pain relief)</li>
+                            <li>Colchicine</li>
+                            <li>Corticosteroids</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Medications to Lower Uric Acid</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Allopurinol</li>
-                            <li>• Febuxostat</li>
-                            <li>• Probenecid</li>
-                            <li>• Lesinurad</li>
+                            <li>Allopurinol</li>
+                            <li>Febuxostat</li>
+                            <li>Probenecid</li>
+                            <li>Lesinurad</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Doctor's Note:</strong>
                     <span class="text-gray-700"> Medicines only doctor की prescription से लें। Self-medication से problems हो सकती हैं। RAJ Hospital Ranchi में uric acid की जांच और appropriate treatment available है।</span>
                 </div>
@@ -318,7 +371,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">FAQs</h2>
+                <h2 class="raj-h2-secondary">FAQs</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">

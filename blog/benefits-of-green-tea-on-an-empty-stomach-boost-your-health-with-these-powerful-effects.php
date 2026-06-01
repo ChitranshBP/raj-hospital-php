@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Green Tea on Empty Stomach - Benefits and Side Effects | RAJ Hospital Ranchi",
+        "description": "Green tea on empty stomach ke fayde aur nuksan जानें। Health benefits,正确的饮用方法, और किन लोगों को avoid करना चाहिए। RAJ Hospital के experts से जानकारी।",
+        "url": "https://rajhospitals.com/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Green Tea on Empty Stomach - Benefits and Side Effects | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: What is Green Tea -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">What is Green Tea? Understanding the Basics</h2>
+                <h2 class="raj-h2">What is Green Tea? Understanding the Basics</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Green tea</strong> is made from the leaves of <em>Camellia sinensis</em> plant that have not been oxidized like black tea. This minimal processing preserves the high concentration of <strong>polyphenols</strong> and catechins that make green tea so beneficial for health. The unique processing method involves steaming or pan-frying the leaves to prevent oxidation, which keeps the powerful antioxidants intact.
@@ -133,13 +240,13 @@
                     The history of <strong>green tea</strong> dates back thousands of years, originating in China and later spreading throughout Asia and the world. Traditional Chinese medicine has long recognized green tea for its medicinal properties, including improved digestion, mental clarity, and longevity. Modern scientific research has validated many of these traditional claims, showing that regular consumption of green tea can have profound effects on various aspects of health.
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Quick Fact:</strong>
                     <span class="text-gray-700"> A single cup of green tea contains approximately 100-200mg of beneficial catechins, making it one of the richest dietary sources of antioxidants available.</span>
                 </div>
 
                 <!-- Section 2: Benefits -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Powerful Benefits of Green Tea on Empty Stomach</h2>
+                <h2 class="raj-h2">Powerful Benefits of Green Tea on Empty Stomach</h2>
 
                 <p class="text-gray-700 mb-4">
                     Drinking <strong>green tea on an empty stomach</strong> can amplify several health benefits. When consumed before breakfast, the beneficial compounds are absorbed more efficiently by the body. Here are the key benefits you can experience:
@@ -185,38 +292,38 @@
                 </p>
 
                 <!-- Section 3: Side Effects -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Potential Side Effects of Green Tea on Empty Stomach</h2>
+                <h2 class="raj-h2">Potential Side Effects of Green Tea on Empty Stomach</h2>
 
                 <p class="text-gray-700 mb-4">
                     While <strong>green tea on empty stomach</strong> offers many benefits, it can also cause issues for some people. Understanding these potential side effects is crucial for safe consumption:
                 </p>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">1. Stomach Irritation</h4>
                         <p class="text-sm text-gray-600">The tannins in green tea can irritate the stomach lining when consumed without food, leading to cramps, nausea, or abdominal discomfort.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">2. Increased Acid Production</h4>
                         <p class="text-sm text-gray-600">Green tea can stimulate gastric acid secretion, which may worsen conditions like <a href="<?php echo $base_url; ?>acidity-symptoms-in-hindi.php" class="text-secondary-600 hover:underline">acidity, GERD, or peptic ulcers</a>.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">3. Caffeine Sensitivity</h4>
                         <p class="text-sm text-gray-600">Some individuals may experience anxiety, restlessness, or sleep disturbances, especially if sensitive to caffeine.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">4. Iron Absorption Interference</h4>
                         <p class="text-sm text-gray-600">Tannins can bind to non-heme iron (from plant sources), reducing its absorption. People with anemia should be cautious.</p>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
                     <span class="text-gray-700"> If you experience any of these symptoms, stop drinking green tea on an empty stomach and consult a healthcare provider. At RAJ Hospital, our <a href="<?php echo $base_url; ?>find-a-doctor.php" class="text-secondary-600 hover:underline">expert doctors</a> can provide personalized guidance.</span>
                 </div>
 
                 <!-- Section 4: Who Should Avoid -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Who Should Avoid Green Tea on Empty Stomach?</h2>
+                <h2 class="raj-h2">Who Should Avoid Green Tea on Empty Stomach?</h2>
 
                 <p class="text-gray-700 mb-4">
                     While green tea is generally safe for most people, certain groups should avoid consuming it on an empty stomach:
@@ -232,25 +339,25 @@
                 </ul>
 
                 <!-- Section 5: How to Consume -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">The Correct Way to Drink Green Tea for Maximum Benefits</h2>
+                <h2 class="raj-h2">The Correct Way to Drink Green Tea for Maximum Benefits</h2>
 
                 <p class="text-gray-700 mb-4">
                     To maximize the <strong>health benefits of green tea</strong> while minimizing side effects, follow these guidelines:
                 </p>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Wait 20-30 minutes after waking</strong> before drinking green tea</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Use water below boiling point</strong> (70-80°C) to preserve catechins</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Steep for 2-3 minutes</strong> only - longer steeping increases bitterness</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Never drink extremely hot tea</strong> - it damages the esophagus</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Limit to 2-3 cups daily</strong> for optimal benefits</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Add a squeeze of lemon</strong> to enhance iron absorption</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Wait 20-30 minutes after waking</strong> before drinking green tea</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Use water below boiling point</strong> (70-80°C) to preserve catechins</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Steep for 2-3 minutes</strong> only - longer steeping increases bitterness</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Never drink extremely hot tea</strong> - it damages the esophagus</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Limit to 2-3 cups daily</strong> for optimal benefits</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Add a squeeze of lemon</strong> to enhance iron absorption</li>
                     </ul>
                 </div>
 
                 <!-- Section 6: Best Time -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">When is the Best Time to Drink Green Tea?</h2>
+                <h2 class="raj-h2">When is the Best Time to Drink Green Tea?</h2>
 
                 <p class="text-gray-700 mb-4">
                     While morning consumption on an empty stomach has its benefits, the timing can vary based on your goals:
@@ -276,7 +383,7 @@
                 </div>
 
                 <!-- Section 7: Types -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Types of Green Tea and Their Benefits</h2>
+                <h2 class="raj-h2">Types of Green Tea and Their Benefits</h2>
 
                 <p class="text-gray-700 mb-4">
                     Not all <strong>green teas</strong> are created equal. Different varieties offer slightly different benefits:
@@ -302,7 +409,7 @@
                 </div>
 
                 <!-- Section 8: Scientific Evidence -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Scientific Evidence Behind Green Tea Benefits</h2>
+                <h2 class="raj-h2">Scientific Evidence Behind Green Tea Benefits</h2>
 
                 <p class="text-gray-700 mb-4">
                     The <strong>health benefits of green tea</strong> are not just traditional claims - they are backed by extensive scientific research:
@@ -324,7 +431,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Green Tea on Empty Stomach</h2>
+                <h2 class="raj-h2">FAQs - Green Tea on Empty Stomach</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -373,7 +480,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Green Tea on Empty Stomach - Benefits and Side Effects में डॉक्टर को कब दिखाना चाहिए?</h3>

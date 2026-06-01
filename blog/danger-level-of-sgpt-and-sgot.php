@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Danger Level of SGPT and SGOT - When to Worry? | RAJ Hospital Ranchi",
+        "description": "Understand SGPT and SGOT danger levels, what values indicate liver damage, symptoms of high liver enzymes, and when to seek medical help. Expert guidance from Ranchi's best hospital.",
+        "url": "https://rajhospitals.com/blog/danger-level-of-sgpt-and-sgot.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/danger-level-of-sgpt-and-sgot.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/danger-level-of-sgpt-and-sgot.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Danger Level of SGPT and SGOT - When to Worry? | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,7 +236,7 @@
                 </p>
 
                 <!-- Section 1: What are SGPT and SGOT? -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">What are SGPT and SGOT?</h2>
+                <h2 class="raj-h2">What are SGPT and SGOT?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>SGPT (Serum Glutamic Pyruvic Transaminase)</strong>, also known as <strong>ALT (Alanine Aminotransferase)</strong>, is an enzyme primarily found in the liver. When liver cells are damaged, SGPT leaks into the bloodstream, making it a sensitive marker for liver injury.
@@ -139,13 +246,13 @@
                     <strong>SGOT (Serum Glutamic Oxaloacetic Transaminase)</strong>, also known as <strong>AST (Aspartate Aminotransferase)</strong>, is found in various organs including the liver, heart, muscles, and kidneys. While SGOT is less specific to the liver than SGPT, elevated levels still indicate potential liver damage or other health issues.
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Difference:</strong>
                     <span class="text-gray-700"> SGPT is more liver-specific, while SGOT can also indicate issues with the heart, muscles, or kidneys. That's why doctors often look at both tests together for a complete picture.</span>
                 </div>
 
                 <!-- Section 2: Normal Ranges -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Normal SGPT and SGOT Ranges</h2>
+                <h2 class="raj-h2">Normal SGPT and SGOT Ranges</h2>
 
                 <p class="text-gray-700 mb-4">
                     Understanding the normal ranges is the first step in determining whether your levels are dangerous. Here are the standard reference values:
@@ -186,7 +293,7 @@
                 </p>
 
                 <!-- Section 3: What Causes Elevated Levels? -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">What Causes Elevated SGPT and SGOT Levels?</h2>
+                <h2 class="raj-h2">What Causes Elevated SGPT and SGOT Levels?</h2>
 
                 <p class="text-gray-700 mb-6">
                     Elevated liver enzymes don't happen in isolation. There are numerous factors that can cause your SGPT and SGOT levels to rise:
@@ -220,7 +327,7 @@
                 </div>
 
                 <!-- Section 4: Danger Levels -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">When Are SGPT and SGOT Levels Dangerous?</h2>
+                <h2 class="raj-h2">When Are SGPT and SGOT Levels Dangerous?</h2>
 
                 <p class="text-gray-700 mb-4">
                     Not all elevated liver enzymes are dangerous. The level of elevation and the pattern of change help doctors determine the severity and cause of the underlying condition.
@@ -256,7 +363,7 @@
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Severe Elevation (Above 10 times normal)</h3>
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Critical Warning:</strong>
                     <span class="text-gray-700"> When SGPT or SGOT levels exceed 500 U/L, it indicates significant acute liver injury. This requires immediate medical evaluation and possibly hospitalization.</span>
                 </div>
@@ -272,7 +379,7 @@
                 </ul>
 
                 <!-- Section 5: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Signs and Symptoms of Dangerous Liver Enzyme Levels</h2>
+                <h2 class="raj-h2">Signs and Symptoms of Dangerous Liver Enzyme Levels</h2>
 
                 <p class="text-gray-700 mb-4">
                     While elevated liver enzymes are often discovered incidentally during routine blood tests, certain symptoms may indicate significant liver problems:
@@ -289,13 +396,13 @@
                     <li><strong>Confusion</strong> - In severe cases, indicating hepatic encephalopathy</li>
                 </ul>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ Emergency Signs:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> Emergency Signs:</strong>
                     <span class="text-gray-700"> If you experience severe abdominal pain, vomiting blood, confusion, or jaundice along with elevated liver enzymes, seek immediate medical attention.</span>
                 </div>
 
                 <!-- Section 6: Diagnosis -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">How to Diagnose the Cause of Elevated Liver Enzymes</h2>
+                <h2 class="raj-h2">How to Diagnose the Cause of Elevated Liver Enzymes</h2>
 
                 <p class="text-gray-700 mb-4">
                     When elevated SGPT/SGOT levels are detected, your doctor will likely recommend additional tests to determine the underlying cause:
@@ -325,7 +432,7 @@
                 </div>
 
                 <!-- Section 7: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Treatment and Prevention</h2>
+                <h2 class="raj-h2">Treatment and Prevention</h2>
 
                 <p class="text-gray-700 mb-6">
                     Treatment for elevated liver enzymes depends entirely on the underlying cause. Here's a general approach:
@@ -357,7 +464,7 @@
                 </div>
 
                 <!-- Section 8: Monitoring -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">How Often Should You Get Tested?</h2>
+                <h2 class="raj-h2">How Often Should You Get Tested?</h2>
 
                 <p class="text-gray-700 mb-4">
                     The frequency of liver enzyme testing depends on your risk factors:
@@ -375,7 +482,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -420,7 +527,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Danger Level of SGPT and SGOT - When to Worry? में डॉक्टर को कब दिखाना चाहिए?</h3>

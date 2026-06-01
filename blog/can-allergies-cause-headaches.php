@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Can Allergies Cause Headaches? - Complete Guide | RAJ Hospital Ranchi",
+        "description": "Can allergies cause headaches? जानें allergy headache का connection, types, causes और treatment options। Complete guide by RAJ Hospital Ranchi।",
+        "url": "https://rajhospitals.com/blog/can-allergies-cause-headaches.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/can-allergies-cause-headaches.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/can-allergies-cause-headaches.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Can Allergies Cause Headaches? - Complete Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,7 +231,7 @@
                     <strong>Can allergies cause headaches?</strong> यह सवाल उन लोगों में common है जो बार-बार allergy और headache दोनों से जूझते हैं। जानिए कैसे allergies headache trigger कर सकती हैं।
                 </p>
 
-                <div class="bg-amber-100 border-l-4 border-amber-600 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-amber-700">Quick Answer:</strong>
                     <span class="text-gray-700"> <strong>हाँ!</strong> Allergies वास्तव में headaches का कारण बन सकती हैं, especially <strong>sinus headaches</strong> और <strong>migraine-like pain</strong>। histamine release और sinus congestion primary causes हैं।</span>
                 </div>
@@ -197,32 +304,32 @@
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🌸</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-red" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-amber-600 text-sm">Pollen</h4>
                         <p class="text-xs text-gray-600">Seasonal allergies</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🧹</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-amber-600 text-sm">Dust Mites</h4>
                         <p class="text-xs text-gray-600">Year-round symptoms</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🐾</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-amber-600 text-sm">Pet Dander</h4>
                         <p class="text-xs text-gray-600">Animal allergies</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🍚</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-amber-600 text-sm">Food Allergies</h4>
                         <p class="text-xs text-gray-600">Certain foods trigger</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🌳</div>
+                        <div class="text-2xl mb-2"><i data-feather="trello" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-amber-600 text-sm">Mold</h4>
                         <p class="text-xs text-gray-600">Damp environments</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🌬️</div>
+                        <div class="text-2xl mb-2"><i data-feather="wind" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i>️</div>
                         <h4 class="font-bold text-amber-600 text-sm">Air Pollution</h4>
                         <p class="text-xs text-gray-600">Environmental triggers</p>
                     </div>
@@ -309,7 +416,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Can Allergies Cause Headaches? में डॉक्टर को कब दिखाना चाहिए?</h3>

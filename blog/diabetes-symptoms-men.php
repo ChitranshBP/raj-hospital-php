@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Diabetes Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
+        "description": "Diabetes symptoms in men - recognize early warning signs like frequent urination, fatigue, weight loss, and sexual dysfunction. Expert guidance on managing diabetes effectively.",
+        "url": "https://rajhospitals.com/blog/diabetes-symptoms-men.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/diabetes-symptoms-men.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/diabetes-symptoms-men.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Diabetes Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,7 +236,7 @@
                 </p>
 
                 <!-- Section 1: Understanding Diabetes in Men -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Understanding Diabetes in Men</h2>
+                <h2 class="raj-h2">Understanding Diabetes in Men</h2>
 
                 <p class="text-gray-700 mb-4">
                     Diabetes occurs when your body either doesn't produce enough insulin or can't effectively use the insulin it produces. Insulin is a hormone that regulates blood sugar levels, allowing glucose to enter cells for energy. When this process fails, glucose builds up in the bloodstream, leading to various health problems.
@@ -139,13 +246,13 @@
                     Men face unique challenges when it comes to diabetes. Research shows that men tend to develop type 2 diabetes at a lower BMI than women, meaning they might not realize they're at risk simply by looking at their weight. Additionally, men are often less aware of their body changes and may ignore symptoms that women would typically address with a doctor.
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Fact:</strong>
                     <span class="text-gray-700"> Men are 26% more likely to develop type 2 diabetes than women, even after adjusting for BMI. This makes recognizing symptoms even more critical for men's health.</span>
                 </div>
 
                 <!-- Section 2: Common Diabetes Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Common Diabetes Symptoms in Men</h2>
+                <h2 class="raj-h2">Common Diabetes Symptoms in Men</h2>
 
                 <p class="text-gray-700 mb-6">
                     The classic symptoms of diabetes in men are similar to those in women, but understanding how they manifest is essential for early detection:
@@ -192,7 +299,7 @@
                 </p>
 
                 <!-- Section 3: Men-Specific Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Diabetes Symptoms Specific to Men</h2>
+                <h2 class="raj-h2">Diabetes Symptoms Specific to Men</h2>
 
                 <p class="text-gray-700 mb-4">
                     While many diabetes symptoms are common to both sexes, there are certain symptoms that men specifically experience:
@@ -226,7 +333,7 @@
                 </div>
 
                 <!-- Section 4: Risk Factors -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Why Men Are at Higher Risk</h2>
+                <h2 class="raj-h2">Why Men Are at Higher Risk</h2>
 
                 <p class="text-gray-700 mb-4">
                     Several factors contribute to why men might be at higher risk for developing diabetes:
@@ -242,7 +349,7 @@
                 </ul>
 
                 <!-- Section 5: Diagnosis -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Getting Diagnosed - Key Tests</h2>
+                <h2 class="raj-h2">Getting Diagnosed - Key Tests</h2>
 
                 <p class="text-gray-700 mb-4">
                     If you suspect you might have diabetes based on these symptoms, it's crucial to get tested. Here are the main diagnostic tests:
@@ -281,13 +388,13 @@
                     </table>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ Important:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> Important:</strong>
                     <span class="text-gray-700"> If you're experiencing symptoms like erectile dysfunction, excessive thirst, frequent urination, or unexplained weight loss, don't wait for a routine checkup. Request specific diabetes tests from your doctor.</span>
                 </div>
 
                 <!-- Section 6: Prevention and Management -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Prevention and Management for Men</h2>
+                <h2 class="raj-h2">Prevention and Management for Men</h2>
 
                 <p class="text-gray-700 mb-4">
                     The good news is that type 2 diabetes can often be prevented or managed effectively with lifestyle changes:
@@ -321,7 +428,7 @@
                 </div>
 
                 <!-- Section 7: When to See a Doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">When to See a Doctor</h2>
+                <h2 class="raj-h2">When to See a Doctor</h2>
 
                 <p class="text-gray-700 mb-4">
                     Don't ignore these warning signs. Make an appointment with your doctor if you experience:
@@ -346,7 +453,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -391,7 +498,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Diabetes Symptoms in Men - Warning Signs Every Man Should Know में डॉक्टर को कब दिखाना चाहिए?</h3>

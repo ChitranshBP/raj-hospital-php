@@ -117,6 +117,31 @@ $base_url = '../';
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -148,8 +173,10 @@ $base_url = '../';
         ]
     }
     </script>
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
+    <?php include $base_url . 'components/navbar.php'; ?>
     <?php include '../nav.php'; ?>
 
     <!-- Breadcrumb -->
@@ -196,7 +223,7 @@ $base_url = '../';
         <div class="bg-white rounded-xl shadow-lg p-6 md:p-8">
 
             <!-- Warning Box -->
-            <div class="bg-orange-50 border-l-4 border-orange-500 p-4 rounded-r-lg mb-6">
+            <div class="raj-callout raj-callout-warning">
                 <div class="flex">
                     <i data-feather="alert-triangle" class="w-5 h-5 text-orange-500 mt-0.5"></i>
                     <div class="ml-3">
@@ -275,7 +302,7 @@ $base_url = '../';
                 अगर आप sexually active हैं और periods miss हुए हैं, तो <strong>pregnancy test</strong> पहला कदम होना चाहिए।
             </p>
 
-            <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-4">
+            <div class="raj-callout raj-callout-success">
                 <h4 class="font-bold text-green-700 mb-2">Test कब करें?</h4>
                 <p class="text-gray-700 text-sm">Periods मिस होने के <strong>कम से कम 1 हफ्ते बाद</strong> test करें। ऐसा इसलिए क्योंकि HCG hormone (जो pregnancy में बनता है) को detect होने में समय लगता है।</p>
             </div>
@@ -291,7 +318,7 @@ $base_url = '../';
                 </ul>
             </div>
 
-            <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+            <div class="raj-callout raj-callout-danger">
                 <p class="text-gray-700 text-sm"><strong>नोट:</strong> Early test करने पर false negative possible है। अगर periods अभी भी नहीं आए और test negative आया, तो 3-4 दिन बाद फिर से test करें।</p>
             </div>
 
@@ -537,5 +564,6 @@ $base_url = '../';
     <script>
         feather.replace();
     </script>
+    <?php include $base_url . 'components/footer.php'; ?>
 </body>
 </html>

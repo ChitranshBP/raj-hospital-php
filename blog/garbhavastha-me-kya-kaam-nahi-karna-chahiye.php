@@ -202,6 +202,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -266,7 +292,7 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">महत्वपूर्ण सुझाव:</strong>
                     <span class="text-gray-700"> गर्भावस्था में <a href="<?php echo $base_url; ?>contact.php" class="text-medical-600 hover:underline">संपर्क करें</a> अपने डॉक्टर से यह पूछें कि आपके आहार में क्या शामिल करना है और क्या नहीं। प्रत्येक महिला की आवश्यकताएं अलग होती हैं।</span>
                 </div>
@@ -291,7 +317,7 @@
                     गर्भावस्था में दवाइयों को लेने में विशेष सावधानी बरतनी चाहिए। कुछ दवाइयां भ्रूण को नुकसान पहुंचा सकती हैं:
                 </p>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">चेतावनी:</strong>
                     <span class="text-gray-700"> किसी भी दर्द निवारक, एंटीबायोटिक या अन्य दवाई को डॉक्टर की सलाह के बिना न लें। even ओवर-द-काउंटर दवाइयां जैसे आइबुप्रोफेन भी गर्भावस्था में हानिकारक हो सकती हैं। हमारी <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-medical-600 hover:underline">विशेषज्ञ टीम</a> से परामर्श लें।</span>
                 </div>
@@ -322,7 +348,7 @@
                     </div>
                 </div>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <strong class="text-green-700">सुरक्षित व्यायाम:</strong>
                     <span class="text-gray-700"> चलना, तैरना, प्रीनेटल योगा और हल्की स्ट्रेचिंग गर्भावस्था में सुरक्षित और फायदेमंद हैं। डॉक्टर से परामर्श करके व्यायाम की योजना बनाएं।</span>
                 </div>
@@ -349,17 +375,17 @@
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">धूम्रपान के प्रभाव</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• कम वजन का शिशु</li>
-                            <li>• समय से पहले प्रसव</li>
-                            <li>• गर्भपात का खतरा</li>
-                            <li>• श्वास संबंधी समस्याएं</li>
-                            <li>• SIDS (शिशु मृत्यु सिंड्रोम)</li>
+                            <li>कम वजन का शिशु</li>
+                            <li>समय से पहले प्रसव</li>
+                            <li>गर्भपात का खतरा</li>
+                            <li>श्वास संबंधी समस्याएं</li>
+                            <li>SIDS (शिशु मृत्यु सिंड्रोम)</li>
                         </ul>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">निकोटीन पैच से भी बचें</h4>
                         <p class="text-sm text-gray-600 mt-2">यद्यपि निकोटीन पैच धूम्रपान से बेहतर है, फिर भी गर्भावस्था में इसका उपयोग डॉक्टर की सलाह के बिना न करें।</p>
                     </div>
@@ -383,7 +409,7 @@
                     <li><strong>भावनात्मक बोझ:</strong> खुद पर अत्यधिक दबाव न डालें। मदद मांगना कोई कमजोरी नहीं है।</li>
                 </ul>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">तनाव प्रबंधन:</strong>
                     <span class="text-gray-700"> ध्यान, गहरी सांस लेना, प्रीनेटल योगा और हल्के व्यायाम तनाव कम करने में मदद करते हैं। यदि आपको अवसाद या चिंता की समस्या है तो <a href="<?php echo $base_url; ?>contact.php" class="text-medical-600 hover:underline">विशेषज्ञ सहायता</a> लें।</span>
                 </div>
@@ -437,19 +463,19 @@
                 </p>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">नियमित जांच</h4>
                         <p class="text-sm text-gray-600">डॉक्टर की नियमित जांच करें। हमारी <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-medical-600 hover:underline">विशेषज्ञ टीम</a> आपकी देखभाल के लिए उपलब्ध है।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">पोषण</h4>
                         <p class="text-sm text-gray-600">आयरन, फोलिक एसिड और कैल्शियम युक्त आहार लें। फल, सब्जियां और प्रोटीन युक्त भोजन करें।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">आराम</h4>
                         <p class="text-sm text-gray-600">पर्याप्त नींद लें (7-8 घंटे)। दिन में थोड़ी देर आराम करें।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">हाइड्रेशन</h4>
                         <p class="text-sm text-gray-600">प्रतिदिन 8-10 गिलास पानी पिएं। कैफीन युक्त पेय से बचें।</p>
                     </div>
@@ -533,7 +559,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">गर्भावस्था में क्या काम नहीं करना चाहिए में डॉक्टर को कब दिखाना चाहिए?</h3>

@@ -105,6 +105,59 @@
         ]
     }
     </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Viral Fever Symptoms in Hindi - वायरल बुखार के लक्षण और इलाज | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -146,7 +199,7 @@
                     <span class="text-gray-700"> अगर बुखार 3 दिन से ज्यादा रहे, 104°F से ऊपर हो, या severe symptoms हों, तो doctor से जरूर मिलें। Self-medication से बचें।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">वायरल बुखार क्या है?</h2>
+                <h2 class="raj-h2-secondary">वायरल बुखार क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Viral fever</strong> viruses के infection से होने वाला एक common illness है। यह respiratory system (nose, throat, lungs), gastrointestinal system, या पूरे शरीर को affect कर सकता है। common viruses जो fever करते हैं:
@@ -171,7 +224,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">वायरल बुखार के लक्षण (Viral Fever Symptoms)</h2>
+                <h2 class="raj-h2-secondary">वायरल बुखार के लक्षण (Viral Fever Symptoms)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Viral fever ke lakshan</strong> virus के type पर depend करते हैं, लेकिन कुछ common symptoms most viral fevers में देखे जाते हैं:
@@ -189,40 +242,40 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Viral vs Bacterial Fever</h2>
+                <h2 class="raj-h2-secondary">Viral vs Bacterial Fever</h2>
 
                 <p class="text-gray-700 mb-4">
                     यह पहचानना important है कि fever viral है या bacterial, क्योंकि treatment अलग होती है:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-600">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700 mb-2">Viral Fever</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Gradual onset</li>
-                            <li>• Fever generally 101-102°F</li>
-                            <li>• Body aches prominent</li>
-                            <li>• Cough, runny nose present</li>
-                            <li>• Symptoms gradually improve</li>
-                            <li>• No specific discharge</li>
-                            <li>• Antibiotics नहीं चाहिए</li>
+                            <li>Gradual onset</li>
+                            <li>Fever generally 101-102°F</li>
+                            <li>Body aches prominent</li>
+                            <li>Cough, runny nose present</li>
+                            <li>Symptoms gradually improve</li>
+                            <li>No specific discharge</li>
+                            <li>Antibiotics नहीं चाहिए</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700 mb-2">Bacterial Fever</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Sudden onset</li>
-                            <li>• Fever 103°F+ often</li>
-                            <li>• Localized symptoms</li>
-                            <li>• Specific organ involvement</li>
-                            <li>• Symptoms worsen without treatment</li>
-                            <li>• Pus discharge possible</li>
-                            <li>• Antibiotics जरूरी</li>
+                            <li>Sudden onset</li>
+                            <li>Fever 103°F+ often</li>
+                            <li>Localized symptoms</li>
+                            <li>Specific organ involvement</li>
+                            <li>Symptoms worsen without treatment</li>
+                            <li>Pus discharge possible</li>
+                            <li>Antibiotics जरूरी</li>
                         </ul>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">वायरल बुखार का इलाज (Treatment)</h2>
+                <h2 class="raj-h2-secondary">वायरल बुखार का इलाज (Treatment)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Viral fever treatment</strong> primarily supportive और symptomatic है क्योंकि antibiotics viral infections पर काम नहीं करते:
@@ -251,36 +304,36 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">वायरल बुखार में क्या खाना चाहिए?</h2>
+                <h2 class="raj-h2-secondary">वायरल बुखार में क्या खाना चाहिए?</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-600">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700 mb-2">खाएं (Eat These)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• साफ पानी (ज्यादा मात्रा में)</li>
-                            <li>• ORS solution</li>
-                            <li>• गर्म soup या broth</li>
-                            <li>• Ginger tea</li>
-                            <li>• Fruits (citrus for Vitamin C)</li>
-                            <li>• Light khichdi</li>
-                            <li>• Steam inhalation</li>
+                            <li>साफ पानी (ज्यादा मात्रा में)</li>
+                            <li>ORS solution</li>
+                            <li>गर्म soup या broth</li>
+                            <li>Ginger tea</li>
+                            <li>Fruits (citrus for Vitamin C)</li>
+                            <li>Light khichdi</li>
+                            <li>Steam inhalation</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700 mb-2">न खाएं (Avoid These)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Oily और fried foods</li>
-                            <li>• Spicy foods</li>
-                            <li>• Cold drinks</li>
-                            <li>• Ice cream</li>
-                            <li>• Heavy meals</li>
-                            <li>• Alcohol</li>
-                            <li>• Caffeine ज्यादा</li>
+                            <li>Oily और fried foods</li>
+                            <li>Spicy foods</li>
+                            <li>Cold drinks</li>
+                            <li>Ice cream</li>
+                            <li>Heavy meals</li>
+                            <li>Alcohol</li>
+                            <li>Caffeine ज्यादा</li>
                         </ul>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">वायरल बुखार से बचाव (Prevention)</h2>
+                <h2 class="raj-h2-secondary">वायरल बुखार से बचाव (Prevention)</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
@@ -305,17 +358,17 @@
                     </div>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <h4 class="font-bold text-red-700 mb-2">Doctor से कब मिलें (When to See Doctor):</h4>
                     <ul class="text-gray-700 space-y-1">
-                        <li>• Fever 3 दिन से ज्यादा</li>
-                        <li>• Fever 104°F+</li>
-                        <li>• Severe headache या stiff neck</li>
-                        <li>• Difficulty breathing</li>
-                        <li>• Persistent vomiting</li>
-                        <li>• Rash on body</li>
-                        <li>• Confusion या altered consciousness</li>
-                        <li>• Worsening after initial improvement</li>
+                        <li>Fever 3 दिन से ज्यादा</li>
+                        <li>Fever 104°F+</li>
+                        <li>Severe headache या stiff neck</li>
+                        <li>Difficulty breathing</li>
+                        <li>Persistent vomiting</li>
+                        <li>Rash on body</li>
+                        <li>Confusion या altered consciousness</li>
+                        <li>Worsening after initial improvement</li>
                     </ul>
                 </div>
 
@@ -325,7 +378,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">FAQs</h2>
+                <h2 class="raj-h2-secondary">FAQs</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">

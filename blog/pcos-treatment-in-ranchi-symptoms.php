@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors | RAJ Hospital Ranchi",
+        "description": "PCOS Treatment in Ranchi - Best gynecologists, symptoms, causes, diagnosis and treatment options. Complete guide to PCOS/PCOD management in Ranchi, Jharkhand।",
+        "url": "https://rajhospitals.com/blog/pcos-treatment-in-ranchi-symptoms.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/pcos-treatment-in-ranchi-symptoms.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-24",
+        "dateModified": "2026-05-24",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pcos-treatment-in-ranchi-symptoms.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,7 +236,7 @@
                 </p>
 
                 <!-- Section 1: What is PCOS -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">What is PCOS?</h2>
+                <h2 class="raj-h2">What is PCOS?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>PCOS (Polycystic Ovary Syndrome)</strong> is a hormonal disorder characterized by:
@@ -142,13 +249,13 @@
                     <li>Insulin resistance in 70-80% of cases</li>
                 </ul>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">PCOS vs PCOD:</strong>
                     <span class="text-gray-700"> PCOS is a more severe metabolic condition, while PCOD is primarily an ovarian condition. PCOS requires more intensive medical management.</span>
                 </div>
 
                 <!-- Section 2: PCOS Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOS Symptoms</h2>
+                <h2 class="raj-h2">PCOS Symptoms</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -178,7 +285,7 @@
                 </div>
 
                 <!-- Section 3: Diagnosis -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOS Diagnosis at RAJ Hospital</h2>
+                <h2 class="raj-h2">PCOS Diagnosis at RAJ Hospital</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>PCOS diagnosis</strong> involves a combination of:
@@ -186,53 +293,53 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🩺</div>
+                        <div class="text-2xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-secondary-600">Physical Exam</div>
                         <p class="text-sm text-gray-600">BMI, BP, signs of hyperandrogenism</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🧪</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-secondary-600">Blood Tests</div>
                         <p class="text-sm text-gray-600">Hormone levels, insulin, glucose</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">📊</div>
+                        <div class="text-2xl mb-2"><i data-feather="bar-chart-2" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-secondary-600">Ultrasound</div>
                         <p class="text-sm text-gray-600">Ovarian morphology assessment</p>
                     </div>
                 </div>
 
                 <!-- Section 4: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOS Treatment Options in Ranchi</h2>
+                <h2 class="raj-h2">PCOS Treatment Options in Ranchi</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <div class="font-bold text-green-700 mb-2">Lifestyle Modification</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Weight loss (5-10% can restore ovulation)</li>
-                            <li>• Low glycemic diet</li>
-                            <li>• Regular exercise (150 mins/week)</li>
-                            <li>• Stress management</li>
+                            <li>Weight loss (5-10% can restore ovulation)</li>
+                            <li>Low glycemic diet</li>
+                            <li>Regular exercise (150 mins/week)</li>
+                            <li>Stress management</li>
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <div class="font-bold text-blue-700 mb-2">Medications</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Combined oral contraceptives</li>
-                            <li>• Anti-androgens (spironolactone)</li>
-                            <li>• Metformin</li>
-                            <li>• Clomiphene/Letrozole (for fertility)</li>
+                            <li>Combined oral contraceptives</li>
+                            <li>Anti-androgens (spironolactone)</li>
+                            <li>Metformin</li>
+                            <li>Clomiphene/Letrozole (for fertility)</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">💡 Important:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="info" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i> Important:</strong>
                     <span class="text-gray-700"> PCOS treatment is personalized. Your gynecologist will recommend treatment based on your symptoms, whether you're trying to conceive, and other health factors.</span>
                 </div>
 
                 <!-- Section 5: Why RAJ Hospital -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Why Choose RAJ Hospital for PCOS Treatment?</h2>
+                <h2 class="raj-h2">Why Choose RAJ Hospital for PCOS Treatment?</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li>Experienced gynecologists specializing in PCOS</li>
@@ -251,7 +358,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -292,7 +399,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors में डॉक्टर को कब दिखाना चाहिए?</h3>

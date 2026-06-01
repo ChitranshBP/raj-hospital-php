@@ -1,0 +1,201 @@
+/* =========================================================================
+   RAJ Hospital Blog — Canonical Component Stylesheet
+   Loaded once per blog post via:
+   <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+   ========================================================================= */
+
+/* ---- Section heading (H2) ---- */
+.raj-h2,
+.raj-h2-secondary {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 700;
+    color: #1f2937; /* gray-800 */
+    border-bottom: 2px solid #0191c7; /* secondary-600 */
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.raj-h2-secondary {
+    border-bottom-color: #fc684b; /* primary-500 */
+}
+@media (min-width: 768px) {
+    .raj-h2,
+    .raj-h2-secondary {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+}
+.raj-h2 .raj-h2-icon,
+.raj-h2-secondary .raj-h2-icon {
+    flex-shrink: 0;
+    width: 1.25rem;
+    height: 1.25rem;
+    color: #0191c7;
+}
+.raj-h2-secondary .raj-h2-icon {
+    color: #fc684b;
+}
+
+/* ---- Card grid (prevention / treatment / options) ---- */
+.raj-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin: 1.5rem 0;
+}
+@media (min-width: 768px) {
+    .raj-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+@media (min-width: 1024px) {
+    .raj-grid.raj-grid-3 {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+.raj-card {
+    background-color: #ffffff;
+    border: 1px solid #e5e7eb; /* gray-200 */
+    border-radius: 0.5rem;
+    padding: 1.25rem;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    transition: box-shadow 200ms ease, transform 200ms ease;
+}
+.raj-card:hover {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+.raj-card-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: #0191c7;
+    margin-bottom: 0.5rem;
+}
+.raj-card-title {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    font-weight: 700;
+    color: #1f2937;
+    margin-bottom: 0.5rem;
+}
+.raj-card-body {
+    color: #374151; /* gray-700 */
+    font-size: 0.875rem;
+    line-height: 1.5;
+}
+.raj-card-text-center {
+    text-align: center;
+}
+
+/* ---- Callout boxes (4 canonical variants) ---- */
+.raj-callout {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 1rem;
+    border-left-width: 4px;
+    border-left-style: solid;
+    border-radius: 0 0.5rem 0.5rem 0;
+    margin: 1.5rem 0;
+}
+.raj-callout-icon {
+    flex-shrink: 0;
+    width: 1.25rem;
+    height: 1.25rem;
+    margin-top: 0.125rem;
+}
+.raj-callout-body {
+    flex: 1 1 auto;
+    color: #374151;
+    line-height: 1.6;
+}
+.raj-callout-body strong {
+    color: inherit;
+}
+
+.raj-callout-info {
+    background-color: #eff6ff; /* blue-50 */
+    border-left-color: #3b82f6; /* blue-500 */
+}
+.raj-callout-info .raj-callout-icon { color: #2563eb; }
+.raj-callout-info .raj-callout-body strong,
+.raj-callout-info strong { color: #1d4ed8; }
+
+.raj-callout-warning {
+    background-color: #fefce8; /* yellow-50 */
+    border-left-color: #eab308; /* yellow-500 */
+}
+.raj-callout-warning .raj-callout-icon { color: #ca8a04; }
+.raj-callout-warning .raj-callout-body strong,
+.raj-callout-warning strong { color: #a16207; }
+
+.raj-callout-danger {
+    background-color: #fef2f2; /* red-50 */
+    border-left-color: #ef4444; /* red-500 */
+}
+.raj-callout-danger .raj-callout-icon { color: #dc2626; }
+.raj-callout-danger .raj-callout-body strong,
+.raj-callout-danger strong { color: #b91c1c; }
+
+.raj-callout-success {
+    background-color: #f0fdf4; /* green-50 */
+    border-left-color: #22c55e; /* green-500 */
+}
+.raj-callout-success .raj-callout-icon { color: #16a34a; }
+.raj-callout-success .raj-callout-body strong,
+.raj-callout-success strong { color: #15803d; }
+
+/* ---- Author box ---- */
+.raj-author-box {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background-color: #f9fafb; /* gray-50 */
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+}
+.raj-author-avatar {
+    flex-shrink: 0;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 9999px;
+    background-color: #0191c7; /* secondary-600 */
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+.raj-author-name {
+    color: #1f2937;
+    display: block;
+    margin-bottom: 0.125rem;
+}
+.raj-author-meta {
+    color: #6b7280; /* gray-500 */
+    font-size: 0.875rem;
+    margin: 0;
+}
+
+/* ---- Icon helpers (use with feather) ---- */
+.raj-icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+.raj-icon-xs { width: 0.875rem; height: 0.875rem; }
+.raj-icon-sm { width: 1rem; height: 1rem; }
+.raj-icon-md { width: 1.25rem; height: 1.25rem; }
+.raj-icon-lg { width: 1.5rem; height: 1.5rem; }
+
+.raj-icon-blue   { color: #2563eb; }
+.raj-icon-green  { color: #16a34a; }
+.raj-icon-red    { color: #dc2626; }
+.raj-icon-yellow { color: #ca8a04; }
+.raj-icon-gray   { color: #6b7280; }
+.raj-icon-primary { color: #fc684b; }
+.raj-icon-secondary { color: #0191c7; }

@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Acidity ke Lakshan | Acidity Symptoms in Hindi - Complete Guide | RAJ Hospital",
+        "description": "Acidity ke lakshan in Hindi जानें। पेट में जलन, गैस, और एसिडिटी के symptoms, causes, और treatment options। घरेलू उपाय और prevention tips।",
+        "url": "https://rajhospitals.com/blog/acidity-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/acidity-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/acidity-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Acidity ke Lakshan | Acidity Symptoms in Hindi - Complete Guide | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,7 +236,7 @@
                 </p>
 
                 <!-- Section 1: What is Acidity -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Acidity क्या है? (What is Acidity?)</h2>
+                <h2 class="raj-h2">Acidity क्या है? (What is Acidity?)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Acidity</strong> तब होती है जब stomach में बहुत अधिक acid बनता है। यह acid food को digest करने में मदद करता है, लेकिन जब इसका quantity बढ़ जाता है, तो यह <strong>acid reflux</strong> और <strong>heartburn</strong> का कारण बनता है।
@@ -139,13 +246,13 @@
                     सामान्यतः, हमारा stomach एक protective lining से बना होता है जो acid से बचाव करता है। लेकिन कई factors जैसे <strong>spicy food, stress, irregular eating habits</strong> इस balance को बिगाड़ सकते हैं और <strong>acidity</strong> की समस्या पैदा कर सकते हैं।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण जानकारी:</strong>
                     <span class="text-gray-700"> अगर acidity frequently हो रही है, तो यह <strong>GERD (Gastroesophageal Reflux Disease)</strong> का signal हो सकता है और medical attention जरूरी है।</span>
                 </div>
 
                 <!-- Section 2: Main Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Acidity ke Lakshan - Main Symptoms (गले से पेट तक जलन)</h2>
+                <h2 class="raj-h2">Acidity ke Lakshan - Main Symptoms (गले से पेट तक जलन)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Acidity ke lakshan in Hindi</strong> समझना बहुत important है। यहां प्रमुख symptoms की list दी गई है जो आपको पहचानने में मदद करेंगे:
@@ -154,38 +261,38 @@
                 <!-- Symptom Cards -->
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🔥 पेट में जलन (Heartburn)</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> पेट में जलन (Heartburn)</h4>
                         <p class="text-sm text-gray-600">सीने के पीछे एक burning sensation जो कभी-कभी गले तक फैल सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🌊 खट्टी डकारें (Sour Burps)</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="droplet" class="raj-icon raj-icon-md raj-icon-blue" aria-hidden="true"></i> खट्टी डकारें (Sour Burps)</h4>
                         <p class="text-sm text-gray-600">खाना खाने के बाद acidic या bitter tasting burps आना।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">😰 पेट में भारीपन</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> पेट में भारीपन</h4>
                         <p class="text-sm text-gray-600">खाना खाने के बाद पेट में fullness या heaviness महसूस होना।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🤢 Nausea और उल्टी</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> Nausea और उल्टी</h4>
                         <p class="text-sm text-gray-600">Acidity के साथ nausea या vomiting की feeling होना।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">💨 अधिक Gas</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="wind" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i> अधिक Gas</h4>
                         <p class="text-sm text-gray-600">पेट में gas बनना और bloating की समस्या।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🗣️ गले में खराश</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="message-circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i>️ गले में खराश</h4>
                         <p class="text-sm text-gray-600">Acid reflux की वजह से गले में irritation और खराश।</p>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ ध्यान दें:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> ध्यान दें:</strong>
                     <span class="text-gray-700"> अगर <strong>khana khane ke baad pet me jalan hona</strong> (खाना खाने के बाद पेट में जलन) frequently हो रही है, तो यह किसी bigger problem का signal हो सकता है।</span>
                 </div>
 
                 <!-- Section 3: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Acidity के कारण (Causes of Acidity)</h2>
+                <h2 class="raj-h2">Acidity के कारण (Causes of Acidity)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Acidity</strong> होने के कई कारण हो सकते हैं। इन्हें समझना prevention के लिए जरूरी है:
@@ -215,7 +322,7 @@
                 </div>
 
                 <!-- Section 4: Gas Acidity Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Gas Acidity Symptoms in Hindi</h2>
+                <h2 class="raj-h2">Gas Acidity Symptoms in Hindi</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Gas acidity symptoms Hindi</strong> में अक्सर <strong>bloating, flatulence</strong> और abdominal discomfort शामिल होते हैं। जब gas और acidity एक साथ हों, तो यह और भी uncomfortable हो सकता है।
@@ -223,24 +330,24 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">💨</div>
+                        <div class="text-3xl mb-2"><i data-feather="wind" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Bloating</div>
                         <p class="text-sm text-gray-600">पेट में फैलाव महसूस होना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">😣</div>
+                        <div class="text-3xl mb-2"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Abdominal Pain</div>
                         <p class="text-sm text-gray-600">पेट में दर्द और cramping</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🔊</div>
+                        <div class="text-3xl mb-2"><i data-feather="volume-2" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Belching</div>
                         <p class="text-sm text-gray-600">ज्यादा डकार आना</p>
                     </div>
                 </div>
 
                 <!-- Section 5: Home Remedies -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Acidity के घरेलू उपाय (Home Remedies)</h2>
+                <h2 class="raj-h2">Acidity के घरेलू उपाय (Home Remedies)</h2>
 
                 <p class="text-gray-700 mb-4">
                     मामूली <strong>acidity</strong> के लिए ये घरेलू उपाय effective हो सकते हैं:
@@ -256,21 +363,21 @@
                 </ul>
 
                 <!-- Section 6: Prevention Tips -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Acidity से बचाव के उपाय (Prevention Tips)</h2>
+                <h2 class="raj-h2">Acidity से बचाव के उपाय (Prevention Tips)</h2>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>छोटे-छोटे भोजन करें</strong> - बड़े meals की जगह 5-6 छोटे भोजन करें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Spicy और oily food कम करें</strong></li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>धूप में न जाएं</strong> - खाना खाने के बाद immediately न लेटें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>पर्याप्त पानी पिएं</strong> - daily 8-10 glasses</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Regular exercise करें</strong> - हल्की walking भी helpful है</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Weight maintain करें</strong> - obesity acidity बढ़ा सकती है</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>छोटे-छोटे भोजन करें</strong> - बड़े meals की जगह 5-6 छोटे भोजन करें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Spicy और oily food कम करें</strong></li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>धूप में न जाएं</strong> - खाना खाने के बाद immediately न लेटें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>पर्याप्त पानी पिएं</strong> - daily 8-10 glasses</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular exercise करें</strong> - हल्की walking भी helpful है</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Weight maintain करें</strong> - obesity acidity बढ़ा सकती है</li>
                     </ul>
                 </div>
 
                 <!-- Section 7: When to See Doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">कब Doctor से मिलें? (When to See Doctor)</h2>
+                <h2 class="raj-h2">कब Doctor से मिलें? (When to See Doctor)</h2>
 
                 <p class="text-gray-700 mb-4">
                     अगर नीचे दिए गए symptoms हों, तो तुरंत medical attention लें:
@@ -293,7 +400,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Acidity ke Lakshan Related Questions</h2>
+                <h2 class="raj-h2">FAQs - Acidity ke Lakshan Related Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -342,7 +449,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Acidity ke Lakshan | Acidity Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?</h3>

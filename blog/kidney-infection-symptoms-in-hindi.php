@@ -117,6 +117,31 @@ $base_url = '../';
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -148,8 +173,10 @@ $base_url = '../';
         ]
     }
     </script>
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
+    <?php include $base_url . 'components/navbar.php'; ?>
     <?php include '../nav.php'; ?>
 
     <!-- Breadcrumb -->
@@ -370,7 +397,7 @@ $base_url = '../';
                 <li><strong>Ceftriaxone</strong> - IV एंटीबायोटिक</li>
                 <li><strong>Nitrofurantoin</strong> - हल्के UTI के लिए</li>
             </ul>
-            <div class="bg-orange-50 border-l-4 border-orange-500 p-4 rounded-r-lg mb-6">
+            <div class="raj-callout raj-callout-warning">
                 <p class="text-gray-700 text-sm"><strong>नोट:</strong> दवाइयाँ केवल डॉक्टर की सलाह पर ही लें। खुद से इलाज न करें - यह खतरनाक हो सकता है।</p>
             </div>
 
@@ -515,7 +542,7 @@ $base_url = '../';
                     <li><strong>बेहोशी या भ्रम</strong> (दिमागी भ्रम)</li>
                     <li><strong>पेशाब नहीं हो रहा</strong> या बहुत कम हो रहा है</li>
                 </ul>
-                <p class="text-red-700 font-semibold mt-3">⚠️ ये लक्षण सेप्सिस (ब्लड पॉइजनिंग) का संकेत हो सकते हैं - यह जानलेवा है!</p>
+                <p class="text-red-700 font-semibold mt-3"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> ये लक्षण सेप्सिस (ब्लड पॉइजनिंग) का संकेत हो सकते हैं - यह जानलेवा है!</p>
             </div>
 
             <!-- FAQ Section -->
@@ -613,5 +640,6 @@ $base_url = '../';
     <script>
         feather.replace();
     </script>
+    <?php include $base_url . 'components/footer.php'; ?>
 </body>
 </html>

@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Thyroid Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital",
+        "description": "Thyroid problems in women symptoms and treatment in Hindi - जानें women में thyroid ke problems, symptoms, और latest treatment options। PCOS और pregnancy से connection।",
+        "url": "https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/thyroid-problems-in-women-symptoms-and-treatment.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Thyroid Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,49 +231,49 @@
                     इस article में हम <strong>thyroid problems in women</strong> के symptoms, causes, और treatment options के बारे में detail से जानेंगे। साथ ही यह भी समझेंगे कि thyroid और pregnancy, PCOS में क्या connection है।
                 </p>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Thyroid क्या है और यह कैसे काम करता है?</h2>
+                <h2 class="raj-h2">Thyroid क्या है और यह कैसे काम करता है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Thyroid</strong> एक butterfly-shaped gland है जो आपकी neck में, voice box के नीचे स्थित होता है। यह <strong>thyroid hormones (T3 और T4)</strong> produce करता है जो आपके body metabolism को regulate करते हैं। यह hormones हृदय गति, body temperature, और energy levels को control करते हैं।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> Women में thyroid disorders पुरुषों की तुलना में 5-8 गुना ज्यादा common हैं। Hormonal fluctuations (menstruation, pregnancy, menopause) इसका एक major reason है।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Women में Thyroid Problems के प्रकार</h2>
+                <h2 class="raj-h2">Women में Thyroid Problems के प्रकार</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🔺 Hypothyroidism</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="triangle" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Hypothyroidism</h4>
                         <p class="text-sm text-gray-600">Thyroid hormones की कमी। Symptoms में fatigue, weight gain, cold intolerance शामिल हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent-500">
-                        <h4 class="font-bold text-accent-600">🔶 Hyperthyroidism</h4>
+                        <h4 class="font-bold text-accent-600"><i data-feather="square" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> Hyperthyroidism</h4>
                         <p class="text-sm text-gray-600">Thyroid hormones की अधिकता। Symptoms में weight loss, rapid heartbeat, heat intolerance शामिल हैं।</p>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Thyroid Problems in Women के Symptoms</h2>
+                <h2 class="raj-h2">Thyroid Problems in Women के Symptoms</h2>
 
                 <h3 class="text-lg font-semibold text-gray-700 mb-3">Hypothyroidism (कम thyroid hormones) के symptoms:</h3>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">😴 अत्यधिक थकान</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="moon" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> अत्यधिक थकान</h4>
                         <p class="text-sm text-gray-600">दिन भर में भी energy की कमी महसूस होना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">⚖️ वजन बढ़ना</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i>️ वजन बढ़ना</h4>
                         <p class="text-sm text-gray-600">Diet और exercise के बावजूद weight gain</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">❄️ Cold sensitivity</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="cloud" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i> Cold sensitivity</h4>
                         <p class="text-sm text-gray-600">ठंडा महसूस करना even normal temperature में</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">💊 Constipation</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Constipation</h4>
                         <p class="text-sm text-gray-600">पाचन संबंधी समस्याएं</p>
                     </div>
                 </div>
@@ -175,61 +282,61 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent-500">
-                        <h4 class="font-bold text-accent-600">🔥 Heat intolerance</h4>
+                        <h4 class="font-bold text-accent-600"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Heat intolerance</h4>
                         <p class="text-sm text-gray-600">ज्यादा पसीना आना और heat महसूस करना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent-500">
-                        <h4 class="font-bold text-accent-600">❤️ Rapid heartbeat</h4>
+                        <h4 class="font-bold text-accent-600"><i data-feather="heart" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Rapid heartbeat</h4>
                         <p class="text-sm text-gray-600">दिल की धड़कन तेज होना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent-500">
-                        <h4 class="font-bold text-accent-600">😰 Anxiety और irritability</h4>
+                        <h4 class="font-bold text-accent-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Anxiety और irritability</h4>
                         <p class="text-sm text-gray-600">मानसिक बेचैनी</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent-500">
-                        <h4 class="font-bold text-accent-600">💓 Tremors</h4>
+                        <h4 class="font-bold text-accent-600"><i data-feather="heart" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Tremors</h4>
                         <p class="text-sm text-gray-600">हाथों में कंपकंपी</p>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Thyroid और Pregnancy (गर्भावस्था में Thyroid)</h2>
+                <h2 class="raj-h2">Thyroid और Pregnancy (गर्भावस्था में Thyroid)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Thyroid और pregnancy</strong> का close connection है। Untreated thyroid disorders से pregnancy में complications हो सकते हैं:
                 </p>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">⚠️</span> <strong>Miscarriage का risk</strong> -甲状腺功能低下可能导致流产</li>
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">⚠️</span> <strong>Preterm delivery</strong> - समय से पहले delivery</li>
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">⚠️</span> <strong>Preeclampsia</strong> - high blood pressure pregnancy में</li>
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">⚠️</span> <strong>Baby का low birth weight</strong></li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Miscarriage का risk</strong> -甲状腺功能低下可能导致流产</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Preterm delivery</strong> - समय से पहले delivery</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Preeclampsia</strong> - high blood pressure pregnancy में</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Baby का low birth weight</strong></li>
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Thyroid और PCOS Connection</h2>
+                <h2 class="raj-h2">Thyroid और PCOS Connection</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Thyroid और PCOS</strong> (Polycystic Ovary Syndrome) में also connection पाया गया है। Studies show करती हैं कि PCOS women में hypothyroidism का risk ज्यादा होता है। Both conditions hormonal imbalance से related हैं और shared symptoms हो सकते हैं।
                 </p>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Thyroid Treatment Options (इलाज)</h2>
+                <h2 class="raj-h2">Thyroid Treatment Options (इलाज)</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700">💊 Medication</h4>
+                        <h4 class="font-bold text-green-700"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Medication</h4>
                         <p class="text-sm text-gray-600">Hypothyroidism के लिए Levothyroxine। Hyperthyroidism के लिए antithyroid medicines।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700">☢️ Radioactive Iodine</h4>
+                        <h4 class="font-bold text-green-700"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i>️ Radioactive Iodine</h4>
                         <p class="text-sm text-gray-600">Hyperthyroidism treatment में used। Thyroid cells को reduce करता है।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700">🔪 Surgery</h4>
+                        <h4 class="font-bold text-green-700"><i data-feather="scissors" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Surgery</h4>
                         <p class="text-sm text-gray-600">Severe cases में thyroidectomy (thyroid removal)।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700">🧪 Beta Blockers</h4>
+                        <h4 class="font-bold text-green-700"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i> Beta Blockers</h4>
                         <p class="text-sm text-gray-600">Symptoms जैसे rapid heartbeat को control करने के लिए।</p>
                     </div>
                 </div>
@@ -240,7 +347,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Thyroid Problems in Women</h2>
+                <h2 class="raj-h2">FAQs - Thyroid Problems in Women</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -290,7 +397,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Thyroid Problems in Women | Symptoms and Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?</h3>

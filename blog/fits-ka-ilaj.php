@@ -228,6 +228,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -272,7 +298,7 @@
                 </div>
 
                 <!-- Section 1: What is Fits -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Fits (मिरगी) क्या है?</h2>
+                <h2 class="raj-h2-secondary">Fits (मिरगी) क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Epilepsy या Fits</strong> एक neurological disorder है जिसमें brain की nerve cells (neurons) में अचानक और अनियमित electrical activity होती है। यह electrical disturbances brain में temporary communication disruption पैदा करती हैं, जिससे <strong>seizures</strong> (दौरे) आते हैं। दौरों के दौरान व्यक्ति में unconsciousness, ज़कड़, चेहरे का रंग बदलना, या अनियंत्रित movements हो सकती हैं।
@@ -283,7 +309,7 @@
                 </p>
 
                 <!-- Section 2: Types -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Fits के प्रकार</h2>
+                <h2 class="raj-h2-secondary">Fits के प्रकार</h2>
 
                 <p class="text-gray-700 mb-4">
                     Fits मुख्य रूप से दो categories में बंटता है:
@@ -301,7 +327,7 @@
                 </div>
 
                 <!-- Section 3: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Fits के कारण</h2>
+                <h2 class="raj-h2-secondary">Fits के कारण</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Fits के causes</strong> को समझना treatment के लिए ज़रूरी है। कई cases में underlying cause पता नहीं लग पाता (idiopathic), लेकिन कई बार specific factors identified किये जा सकते हैं:
@@ -335,21 +361,21 @@
                 </div>
 
                 <!-- Section 4: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Fits के लक्षण (Symptoms)</h2>
+                <h2 class="raj-h2-secondary">Fits के लक्षण (Symptoms)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Fits ke lakshan</strong> type और severity के हिसाब से अलग-अलग हो सकते हैं:
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Tonic-Clonic Seizure (Major Fits) के लक्षण:</strong>
                     <ul class="text-gray-700 mt-2 space-y-1">
-                        <li>• दौरे से पहले aura (अजीब smell, taste, या feeling)</li>
-                        <li>• चेहरे का रंग बदलना (नीला पड़ना)</li>
-                        <li>• पूरा शरीर ज़कड़ना (tonic phase)</li>
-                        <li>• अनियंत्रित हाथ-पैर का हिलना (clonic phase)</li>
-                        <li>• ज़बान काटना, झाग आना</li>
-                        <li>• दौरे के बाद confusion और थकान</li>
+                        <li>दौरे से पहले aura (अजीब smell, taste, या feeling)</li>
+                        <li>चेहरे का रंग बदलना (नीला पड़ना)</li>
+                        <li>पूरा शरीर ज़कड़ना (tonic phase)</li>
+                        <li>अनियंत्रित हाथ-पैर का हिलना (clonic phase)</li>
+                        <li>ज़बान काटना, झाग आना</li>
+                        <li>दौरे के बाद confusion और थकान</li>
                     </ul>
                 </div>
 
@@ -358,7 +384,7 @@
                 </p>
 
                 <!-- Section 5: Diagnosis -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Fits का Diagnosis</h2>
+                <h2 class="raj-h2-secondary">Fits का Diagnosis</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Epilepsy diagnosis</strong> के लिए एक comprehensive evaluation ज़रूरी है। RAJ Hospital Ranchi में हम advanced diagnostic facilities प्रदान करते हैं:
@@ -384,7 +410,7 @@
                 </div>
 
                 <!-- Section 6: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Fits का इलाज (Treatment Options)</h2>
+                <h2 class="raj-h2-secondary">Fits का इलाज (Treatment Options)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Fits ka ilaj</strong> primarily medicines (antiepileptic drugs) पर depend करता है। सही treatment plan से अधिकतर patients को seizures से relief मिलता है:
@@ -419,7 +445,7 @@
                 </p>
 
                 <!-- Section 7: First Aid -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Fits (दौरा) आने पर क्या करें?</h2>
+                <h2 class="raj-h2-secondary">Fits (दौरा) आने पर क्या करें?</h2>
 
                 <p class="text-gray-700 mb-4">
                     जब किसी को <strong>fits का दौरा</strong> आए, तो ये steps follow करें:
@@ -438,21 +464,21 @@
                     </ul>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <h4 class="font-bold text-red-600 mb-2">Emergency जब हो जब:</h4>
                     <ul class="text-gray-700 space-y-1">
-                        <li>• दौरा <strong>5 मिनट से ज़्यादा</strong> लंबा हो</li>
-                        <li>• दौरे के बाद <strong>consciousness न आए</strong></li>
-                        <li>• एक के बाद एक <strong>दूसरा दौरा</strong> आए</li>
-                        <li>• <strong>सांस लेने में दिक्कत</strong> हो</li>
-                        <li>• <strong>Injury</strong> हो गई हो</li>
-                        <li>• <strong>पहली बार</strong> दौरा आया हो</li>
+                        <li>दौरा <strong>5 मिनट से ज़्यादा</strong> लंबा हो</li>
+                        <li>दौरे के बाद <strong>consciousness न आए</strong></li>
+                        <li>एक के बाद एक <strong>दूसरा दौरा</strong> आए</li>
+                        <li><strong>सांस लेने में दिक्कत</strong> हो</li>
+                        <li><strong>Injury</strong> हो गई हो</li>
+                        <li><strong>पहली बार</strong> दौरा आया हो</li>
                     </ul>
                     <p class="text-red-700 mt-2 font-semibold">Emergency: 108 या नज़दीकी hospital जाएं!</p>
                 </div>
 
                 <!-- Section 8: Prevention and Lifestyle -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Fits से बचाव और lifestyle changes</h2>
+                <h2 class="raj-h2-secondary">Fits से बचाव और lifestyle changes</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Fits को control</strong> करने और <strong>seizures prevent</strong> करने के लिए कुछ lifestyle modifications helpful हैं:
@@ -486,7 +512,7 @@
                 </div>
 
                 <!-- Section 9: Related Conditions -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Fits से related अन्य समस्याएं</h2>
+                <h2 class="raj-h2-secondary">Fits से related अन्य समस्याएं</h2>
 
                 <p class="text-gray-700 mb-4">
                     Fits अक्सर अन्य neurological conditions के साथ हो सकती है। इन conditions का timely treatment ज़रूरी है:
@@ -511,7 +537,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">FAQs - अक्सर पूछे जाने वाले सवाल</h2>
+                <h2 class="raj-h2-secondary">FAQs - अक्सर पूछे जाने वाले सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -568,7 +594,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Fits Ka Ilaj - Epilepsy Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?</h3>

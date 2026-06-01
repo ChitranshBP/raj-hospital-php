@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi) - पूरी जानकारी | RAJ Hospital Ranchi",
+        "description": "Dehydration (निर्जलीकरण) के लक्षण, कारण, और उपाय जानें। जानें कब डॉक्टर से मिलना है और घरेलू उपचार कैसे करें। Ranchi के best hospital की expert advice।",
+        "url": "https://rajhospitals.com/blog/dehydration-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/dehydration-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/dehydration-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi) - पूरी जानकारी | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,19 +236,19 @@
                 </p>
 
                 <!-- Section 1: What is Dehydration? -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">निर्जलीकरण (Dehydration) क्या है?</h2>
+                <h2 class="raj-h2">निर्जलीकरण (Dehydration) क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>निर्जलीकरण</strong> तब होता है जब शरीर अधिक पानी खो देता है और पर्याप्त पानी पीकर उसकी भरपाई नहीं कर पाता। सामान्य तौर पर, एक दिन में लगभग <strong>2-3 लीटर पानी</strong> शरीर से मूत्र, पसीना, मल, और सांस के माध्यम से बाहर निकलता है। जब यह पानी की कमी हो जाती है, तो शरीर में इलेक्ट्रोलाइट्स (जैसे सोडियम और पोटेशियम) का संतुलन बिगड़ जाता है, जिससे कई स्वास्थ्य समस्याएं हो सकती हैं।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण तथ्य:</strong>
                     <span class="text-gray-700"> हल्का से मध्यम निर्जलीकरण तुरंत ठीक किया जा सकता है, लेकिन गंभीर निर्जलीकरण एक आपातकालीन स्थिति है जिसके लिए तुरंत चिकित्सा सहायता की आवश्यकता होती है।</span>
                 </div>
 
                 <!-- Section 2: Types of Dehydration -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">निर्जलीकरण के प्रकार</h2>
+                <h2 class="raj-h2">निर्जलीकरण के प्रकार</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -159,7 +266,7 @@
                 </div>
 
                 <!-- Section 3: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">निर्जलीकरण के कारण (Causes of Dehydration)</h2>
+                <h2 class="raj-h2">निर्जलीकरण के कारण (Causes of Dehydration)</h2>
 
                 <p class="text-gray-700 mb-6">
                     निर्जलीकरण कई कारणों से हो सकता है। सामान्य कारणों में शामिल हैं:
@@ -193,7 +300,7 @@
                 </div>
 
                 <!-- Section 4: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi)</h2>
+                <h2 class="raj-h2">निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi)</h2>
 
                 <p class="text-gray-700 mb-4">
                     निर्जलीकरण के लक्षण शरीर में पानी की कमी की गंभीरता पर निर्भर करते हैं। आइए विस्तार से जानें:
@@ -221,8 +328,8 @@
                 </ul>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">गंभीर निर्जलीकरण के लक्षण</h3>
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ आपातकालीन संकेत:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> आपातकालीन संकेत:</strong>
                     <span class="text-gray-700"> अगर निम्न में से कोई भी लक्षण दिखे, तो तुरंत चिकित्सा सहायता लें।</span>
                 </div>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -235,7 +342,7 @@
                 </ul>
 
                 <!-- Section 5: Special Cases -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">विशेष स्थितियां - बच्चों और बुजुर्गों में निर्जलीकरण</h2>
+                <h2 class="raj-h2">विशेष स्थितियां - बच्चों और बुजुर्गों में निर्जलीकरण</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">बच्चों में निर्जलीकरण के संकेत</h3>
                 <p class="text-gray-700 mb-4">
@@ -255,7 +362,7 @@
                 </p>
 
                 <!-- Section 6: Diagnosis -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">निर्जलीकरण का निदान कैसे होता है?</h2>
+                <h2 class="raj-h2">निर्जलीकरण का निदान कैसे होता है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     निर्जलीकरण का निदान आमतौर पर शारीरिक परीक्षण और लक्षणों के आधार पर किया जाता है। डॉक्टर निम्नलिखित जांच कर सकते हैं:
@@ -277,7 +384,7 @@
                 </div>
 
                 <!-- Section 7: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">निर्जलीकरण का उपचार और रोकथाम</h2>
+                <h2 class="raj-h2">निर्जलीकरण का उपचार और रोकथाम</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">घरेलू उपचार</h3>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -294,7 +401,7 @@
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">रोकथाम के उपाय</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <strong class="text-green-700">रोकथाम सबसे अच्छी चिकित्सा है!</strong>
                     <span class="text-gray-700"> नियमित रूप से पानी पिएं, गर्म मौसम में अधिक पानी पिएं, बीमारी में पानी की मात्रा बढ़ाएं, और शराब तथा कैफीन का सेवन सीमित करें।</span>
                 </div>
@@ -307,7 +414,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">अक्सर पूछे जाने वाले सवाल (FAQs)</h2>
+                <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल (FAQs)</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -352,7 +459,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi) - पूरी जानकारी में डॉक्टर को कब दिखाना चाहिए?</h3>

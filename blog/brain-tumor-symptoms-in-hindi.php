@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Brain Tumor Symptoms in Hindi - Complete Guide | RAJ Hospital Ranchi",
+        "description": "Brain Tumor के लक्षण, प्रकार, कारण और इलाज के बारे में जानें। कब doctor से मिलें - Complete Hindi Guide। Ranchi के best neurologists।",
+        "url": "https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/brain-tumor-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Brain Tumor Symptoms in Hindi - Complete Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,7 +231,7 @@
                     <strong>Brain Tumor</strong> (मस्तिष्क घातुक) एक गंभीर स्वास्थ्य समस्या है जो किसी भी उम्र में हो सकती है। समय पर पहचान से इलाज की संभावना बढ़ जाती है। यह लेख Brain Tumor के लक्षणों, प्रकारों और उपचार के बारे में विस्तार से बताएगा।
                 </p>
 
-                <div class="bg-purple-100 border-l-4 border-purple-600 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-purple-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> सभी Brain Tumors घातक (cancerous) नहीं होते। कई सौम्य (benign) होते हैं जो अक्सर treatable हैं।</span>
                 </div>
@@ -232,17 +339,17 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🔪</div>
+                        <div class="text-2xl mb-2"><i data-feather="scissors" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-secondary-600">Surgery</h4>
                         <p class="text-sm text-gray-600">Tumor को निकालना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">💊</div>
+                        <div class="text-2xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-secondary-600">Chemotherapy</h4>
                         <p class="text-sm text-gray-600">दवाइयों से tumor को shrink करना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">☢️</div>
+                        <div class="text-2xl mb-2"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i>️</div>
                         <h4 class="font-bold text-secondary-600">Radiation</h4>
                         <p class="text-sm text-gray-600">High-energy rays से tumor को नष्ट करना</p>
                     </div>
@@ -297,7 +404,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Brain Tumor Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?</h3>

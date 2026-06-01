@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital",
+        "description": "Thyroid symptoms in Hindi जानें। Thyroid ke lakshan, thyroid problems ke symptoms, hypothyroidism aur hyperthyroidism ke signs। Treatment और prevention।",
+        "url": "https://rajhospitals.com/blog/thyroid-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/thyroid-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/thyroid-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -120,18 +227,18 @@
                     <strong>Thyroid symptoms in Hindi</strong> जानना आजकल बहुत important है क्योंकि thyroid disorders भारत में बहुत common हो गए हैं। लगभग 42 million Indians में thyroid disorders हैं। इस article में हम <strong>thyroid ke lakshan</strong> और उनके treatment के बारे में detail से जानेंगे।
                 </p>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Thyroid क्या है? (What is Thyroid?)</h2>
+                <h2 class="raj-h2">Thyroid क्या है? (What is Thyroid?)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Thyroid</strong> एक छोटा butterfly-shaped gland है जो आपकी गर्दन के सामने, Adam's apple के नीचे स्थित होता है। यह दो important hormones produce करता है - <strong>T3 (Triiodothyronine)</strong> और <strong>T4 (Thyroxine)</strong> - जो आपके शरीर की metabolism, energy, और growth को control करते हैं।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> Thyroid hormones का असर लगभग हर organ पर पड़ता है - दिल, मस्तिष्क, मांसपेशियां, और भी कई system। Thyroid की properly function करना overall health के लिए जरूरी है।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Hypothyroidism के Symptoms (कम thyroid)</h2>
+                <h2 class="raj-h2">Hypothyroidism के Symptoms (कम thyroid)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Hypothyroidism</strong> तब होता है जब thyroid कम hormones produce करता है। <strong>Thyroid ke lakshan</strong> में ये common symptoms शामिल हैं:
@@ -139,32 +246,32 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">😴 अत्यधिक थकान</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="moon" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> अत्यधिक थकान</h4>
                         <p class="text-sm text-gray-600">दिन भर में बहुत ज्यादा усталость महसूस होना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">⚖️ वजन बढ़ना</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i>️ वजन बढ़ना</h4>
                         <p class="text-sm text-gray-600">Diet में बदलाव के बावजूद weight gain</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">❄️ ठंडा महसूस करना</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="cloud" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i> ठंडा महसूस करना</h4>
                         <p class="text-sm text-gray-600">Normal temperature में भी cold लगना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">💇 बाल झड़ना</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> बाल झड़ना</h4>
                         <p class="text-sm text-gray-600">Hair thinning और बालों का झड़ना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">😰 Depression</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Depression</h4>
                         <p class="text-sm text-gray-600">Mood में बदलाव और उदासी</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">📅 Periods में बदलाव</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="calendar" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Periods में बदलाव</h4>
                         <p class="text-sm text-gray-600">Heavy या irregular periods</p>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Hyperthyroidism के Symptoms (ज्यादा thyroid)</h2>
+                <h2 class="raj-h2">Hyperthyroidism के Symptoms (ज्यादा thyroid)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Hyperthyroidism</strong> तब होता है जब thyroid ज्यादा hormones produce करता है। इसके <strong>symptoms</strong>:
@@ -172,26 +279,26 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent-500">
-                        <h4 class="font-bold text-accent-600">🔥 गर्मी महसूस करना</h4>
+                        <h4 class="font-bold text-accent-600"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> गर्मी महसूस करना</h4>
                         <p class="text-sm text-gray-600">ज्यादा sweating और heat intolerance</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent-500">
-                        <h4 class="font-bold text-accent-600">❤️ दिल की तेज धड़कन</h4>
+                        <h4 class="font-bold text-accent-600"><i data-feather="heart" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> दिल की तेज धड़कन</h4>
                         <p class="text-sm text-gray-600">Palpitations और irregular heartbeat</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent-500">
-                        <h4 class="font-bold text-accent-600">⚡ वजन कम होना</h4>
+                        <h4 class="font-bold text-accent-600"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> वजन कम होना</h4>
                         <p class="text-sm text-gray-600">बिना reason के weight loss</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent-500">
-                        <h4 class="font-bold text-accent-600">😰 चिंता और बेचैनी</h4>
+                        <h4 class="font-bold text-accent-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> चिंता और बेचैनी</h4>
                         <p class="text-sm text-gray-600">Anxiety और nervousness</p>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Thyroid Problems के कारण</h2>
+                <h2 class="raj-h2">Thyroid Problems के कारण</h2>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <ul class="space-y-2 text-gray-700">
                         <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Iodine deficiency</strong> - Thyroid hormone production के लिए iodine जरूरी है</li>
                         <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Autoimmune diseases</strong> - Hashimoto's और Graves' disease</li>
@@ -201,7 +308,7 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Thyroid Test और Diagnosis</h2>
+                <h2 class="raj-h2">Thyroid Test और Diagnosis</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Thyroid problems</strong> की diagnosis के लिए common tests हैं:
@@ -214,15 +321,15 @@
                     <li><strong>Ultrasound</strong> - Goiter या nodules के लिए</li>
                 </ul>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Thyroid Treatment (इलाज)</h2>
+                <h2 class="raj-h2">Thyroid Treatment (इलाज)</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700">💊 Medication</h4>
+                        <h4 class="font-bold text-green-700"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Medication</h4>
                         <p class="text-sm text-gray-600">Levothyroxine (hypothyroidism), Methimazole/Propylthiouracil (hyperthyroidism)</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700">☢️ Radioactive Iodine</h4>
+                        <h4 class="font-bold text-green-700"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i>️ Radioactive Iodine</h4>
                         <p class="text-sm text-gray-600">Hyperthyroidism को reduce करने के लिए used</p>
                     </div>
                 </div>
@@ -233,7 +340,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Thyroid Symptoms</h2>
+                <h2 class="raj-h2">FAQs - Thyroid Symptoms</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -279,7 +386,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Thyroid Symptoms in Hindi | Thyroid ke Lakshan में डॉक्टर को कब दिखाना चाहिए?</h3>

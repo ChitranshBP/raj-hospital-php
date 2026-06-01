@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "दांतों के सबसे आम प्रक्रियाएं और उनका काम | RAJ Hospital Ranchi Dental",
+        "description": "दांतों की सबसे आम dental procedures जैसे root canal, extraction, braces, whitening और implants के बारे में जानें। क्या expect करना चाहिए।",
+        "url": "https://rajhospitals.com/blog/most-common-dental-procedures-and-how-they-work.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/most-common-dental-procedures-and-how-they-work.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/most-common-dental-procedures-and-how-they-work.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "दांतों के सबसे आम प्रक्रियाएं और उनका काम | RAJ Hospital Ranchi Dental"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,13 +231,13 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">1. Dental Cleaning और Checkup</h2>
+                <h2 class="raj-h2">1. Dental Cleaning और Checkup</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Dental Cleaning</strong> या <strong>Prophylaxis</strong> सबसे basic और important procedure है। इसमें दांतों से plaque और tartar हटाया जाता है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">कब करवाना चाहिए:</strong>
                     <span class="text-gray-700"> हर 6 महीने में एक बार dental cleaning और checkup करवानी चाहिए।</span>
                 </div>
@@ -143,7 +250,7 @@
                 </ul>
 
                 <!-- Section 2 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">2. Dental Fillings (Cavities का इलाज)</h2>
+                <h2 class="raj-h2">2. Dental Fillings (Cavities का इलाज)</h2>
 
                 <p class="text-gray-700 mb-4">
                     जब दांत में <strong>cavity (deti)</strong> हो जाती है, तो dentist उसे clean करके <strong>filling</strong> से भरता है।
@@ -171,7 +278,7 @@
                 </div>
 
                 <!-- Section 3 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">3. Root Canal Treatment (RCT)</h2>
+                <h2 class="raj-h2">3. Root Canal Treatment (RCT)</h2>
 
                 <p class="text-gray-700 mb-4">
                     जब दांत का <strong>pulp (अंदर का नरम भाग)</strong> infection हो जाता है, तो <strong>Root Canal Treatment</strong> की जरूरत होती है। यह procedure दांत को pull करने से बचाता है।
@@ -193,13 +300,13 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">💡 ध्यान दें:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="info" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i> ध्यान दें:</strong>
                     <span class="text-gray-700"> RCT के बाद generally दांत पर <strong>crown</strong> लगाना पड़ता है क्योंकि treated दांत कमज़ोर हो जाता है।</span>
                 </div>
 
                 <!-- Section 4 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">4. Tooth Extraction (दांत निकालना)</h2>
+                <h2 class="raj-h2">4. Tooth Extraction (दांत निकालना)</h2>
 
                 <p class="text-gray-700 mb-4">
                     कुछ मामलों में दांत को <strong>निकालना</strong> ही唯一 option होता है।
@@ -216,13 +323,13 @@
                     </div>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ Wisdom Teeth:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> Wisdom Teeth:</strong>
                     <span class="text-gray-700"> अक्सर wisdom teeth (दाढ़ी दांत) निकालने पड़ते हैं क्योंकि इनके आने की जगह नहीं होती।</span>
                 </div>
 
                 <!-- Section 5 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">5. Dental Crowns (दांत का कवर)</h2>
+                <h2 class="raj-h2">5. Dental Crowns (दांत का कवर)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Crown</strong> दांत का एक <strong>cap</strong> होता है जो damaged या treated दांत को protect करता है।
@@ -230,29 +337,29 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
                     <div class="bg-gray-50 p-3 rounded-lg text-center">
-                        <div class="text-lg">🦷</div>
+                        <div class="text-lg"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <p class="text-sm font-medium">Ceramic</p>
                         <p class="text-xs text-gray-500">Natural look</p>
                     </div>
                     <div class="bg-gray-50 p-3 rounded-lg text-center">
-                        <div class="text-lg">🦷</div>
+                        <div class="text-lg"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <p class="text-sm font-medium">Porcelain</p>
                         <p class="text-xs text-gray-500">Front teeth के लिए</p>
                     </div>
                     <div class="bg-gray-50 p-3 rounded-lg text-center">
-                        <div class="text-lg">🦷</div>
+                        <div class="text-lg"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <p class="text-sm font-medium">Metal</p>
                         <p class="text-xs text-gray-500">बहुत durable</p>
                     </div>
                     <div class="bg-gray-50 p-3 rounded-lg text-center">
-                        <div class="text-lg">🦷</div>
+                        <div class="text-lg"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <p class="text-sm font-medium">Zirconia</p>
                         <p class="text-xs text-gray-500">Strong और aesthetic</p>
                     </div>
                 </div>
 
                 <!-- Section 6 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">6. Dental Implants</h2>
+                <h2 class="raj-h2">6. Dental Implants</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Dental Implant</strong> एक artificial tooth root है जो jawbone में surgically लगाया जाता है। इसके ऊपर एक <strong> crown</strong> बैठाया जाता है।
@@ -266,7 +373,7 @@
                 </ul>
 
                 <!-- Section 7 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">7. Braces और Orthodontic Treatment</h2>
+                <h2 class="raj-h2">7. Braces और Orthodontic Treatment</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Braces</strong> दांतों की alignment सुधारने के लिए used होते हैं।
@@ -274,24 +381,24 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🔧</div>
+                        <div class="text-2xl mb-2"><i data-feather="tool" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-secondary-600">Traditional Metal</h4>
                         <p class="text-sm text-gray-600">Metal brackets और wires। सबसे effective।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">💎</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-secondary-600">Ceramic</h4>
                         <p class="text-sm text-gray-600">Tooth-colored brackets। less visible।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">✨</div>
+                        <div class="text-2xl mb-2"><i data-feather="star" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-secondary-600">Invisalign</h4>
                         <p class="text-sm text-gray-600">Clear aligners। removable और nearly invisible।</p>
                     </div>
                 </div>
 
                 <!-- Section 8 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">8. Teeth Whitening</h2>
+                <h2 class="raj-h2">8. Teeth Whitening</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Teeth Whitening</strong> दांतों को brighter और white बनाने की process है।
@@ -309,7 +416,7 @@
                 </div>
 
                 <!-- Section 9 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">9. Dentures (हेयर डेंचर)</h2>
+                <h2 class="raj-h2">9. Dentures (हेयर डेंचर)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Dentures</strong> missing दांतों की replacement हैं। ये <strong>complete</strong> (सभी दांत) या <strong>partial</strong> (कुछ दांत) हो सकते हैं।
@@ -329,7 +436,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -374,7 +481,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दांतों के सबसे आम प्रक्रियाएं और उनका काम में डॉक्टर को कब दिखाना चाहिए?</h3>

@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital",
+        "description": "Anxiety symptoms in men - recognize stress, anxiety attack symptoms, and mental health issues. Learn about high anxiety symptoms, signs of stress, and when to seek help. Complete Hindi/English guide.",
+        "url": "https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,7 +236,7 @@
                 </p>
 
                 <!-- Section 1: What is Anxiety -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">What is Anxiety? (Anxiety क्या है?)</h2>
+                <h2 class="raj-h2">What is Anxiety? (Anxiety क्या है?)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Anxiety</strong> is your body's natural response to stress. It's a feeling of fear or apprehension about what's to come. While some anxiety is normal and even helpful in certain situations, <strong>high anxiety symptoms</strong> can become overwhelming and interfere with daily life.
@@ -139,13 +246,13 @@
                     When we talk about <strong>anxiety symptoms in men</strong>, it's important to understand that men often display these symptoms differently than women. They may be more likely to mask their feelings or express anxiety through irritability, anger, or physical complaints.
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Important Fact:</strong>
                     <span class="text-gray-700"> According to mental health studies, 1 in 5 men experience anxiety or depression, but only a small percentage seek treatment. It's time to break the stigma.</span>
                 </div>
 
                 <!-- Section 2: Physical Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Physical Anxiety Symptoms in Men</h2>
+                <h2 class="raj-h2">Physical Anxiety Symptoms in Men</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Symptoms of anxiety in men</strong> often manifest as physical symptoms. These can be mistaken for other medical conditions, making diagnosis challenging. Here are the common physical <strong>anxiety attack symptoms</strong> that men experience:
@@ -154,33 +261,33 @@
                 <!-- Symptom Cards -->
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">💓 Rapid Heartbeat</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="heart" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Rapid Heartbeat</h4>
                         <p class="text-sm text-gray-600">Your heart may race or pound, especially during anxiety attacks or panic episodes.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">😰 Excessive Sweating</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Excessive Sweating</h4>
                         <p class="text-sm text-gray-600">Unexplained sweating, particularly on palms, forehead, or underarms.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">😴 Insomnia / Sleep Problems</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="moon" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Insomnia / Sleep Problems</h4>
                         <p class="text-sm text-gray-600">Difficulty falling asleep, staying asleep, or waking up feeling unrefreshed.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🤢 Nausea / Digestive Issues</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> Nausea / Digestive Issues</h4>
                         <p class="text-sm text-gray-600">Stomach discomfort, nausea, or changes in bowel movements during stressful periods.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">💪 Muscle Tension</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Muscle Tension</h4>
                         <p class="text-sm text-gray-600">Tight muscles, especially in neck, shoulders, and jaw from chronic stress.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">😫 Fatigue</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Fatigue</h4>
                         <p class="text-sm text-gray-600">Feeling constantly tired even without physical exertion.</p>
                     </div>
                 </div>
 
                 <!-- Section 3: Emotional/Mental Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Emotional & Mental Stress Symptoms in Men</h2>
+                <h2 class="raj-h2">Emotional & Mental Stress Symptoms in Men</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Signs of stress in men</strong> often appear as emotional or behavioral changes. These mental health symptoms can affect work, relationships, and overall quality of life:
@@ -210,7 +317,7 @@
                 </div>
 
                 <!-- Section 4: Anxiety Attack Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Anxiety Attack Symptoms in Males</h2>
+                <h2 class="raj-h2">Anxiety Attack Symptoms in Males</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Anxiety attack symptoms</strong> can come on suddenly and feel intense. These episodes, also known as panic attacks, can be frightening. Recognizing these <strong>symptoms of stress and anxiety in men</strong> is the first step toward getting help:
@@ -218,29 +325,29 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">😨</div>
+                        <div class="text-3xl mb-2"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Panic</div>
                         <p class="text-sm text-gray-600">Sudden fear that feels uncontrollable</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🏃</div>
+                        <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Flight Urge</div>
                         <p class="text-sm text-gray-600">Strong urge to escape the situation</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">💭</div>
+                        <div class="text-3xl mb-2"><i data-feather="message-circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Derealization</div>
                         <p class="text-sm text-gray-600">Feeling disconnected from reality</p>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ Warning:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> Warning:</strong>
                     <span class="text-gray-700"> If you're experiencing chest pain, shortness of breath, or feel like you're having a heart attack, seek emergency medical attention immediately. These could be symptoms of a medical emergency.</span>
                 </div>
 
                 <!-- Section 5: Causes of Stress and Anxiety in Men -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Common Causes of Stress & Anxiety in Men</h2>
+                <h2 class="raj-h2">Common Causes of Stress & Anxiety in Men</h2>
 
                 <p class="text-gray-700 mb-4">
                     Understanding what triggers <strong>symptoms of stress in men</strong> can help in managing and treating anxiety. Common causes include:
@@ -258,7 +365,7 @@
                 </div>
 
                 <!-- Section 6: High Anxiety Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">High Anxiety Symptoms in Men - When to Seek Help</h2>
+                <h2 class="raj-h2">High Anxiety Symptoms in Men - When to Seek Help</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>High anxiety symptoms</strong> that persist for more than 2 weeks and interfere with daily life require professional attention. Here are red flags:
@@ -275,7 +382,7 @@
                 </ul>
 
                 <!-- Section 7: Treatment Options -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Treatment Options for Anxiety in Men</h2>
+                <h2 class="raj-h2">Treatment Options for Anxiety in Men</h2>
 
                 <p class="text-gray-700 mb-4">
                     The good news is that <strong>anxiety is highly treatable</strong>. At RAJ Hospital, we offer comprehensive mental health services including:
@@ -283,19 +390,19 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700 mb-2">🧠 Psychotherapy</h4>
+                        <h4 class="font-bold text-green-700 mb-2"><i data-feather="cpu" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Psychotherapy</h4>
                         <p class="text-sm text-gray-600">CBT (Cognitive Behavioral Therapy) helps identify and change negative thought patterns.</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700 mb-2">💊 Medication</h4>
+                        <h4 class="font-bold text-green-700 mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Medication</h4>
                         <p class="text-sm text-gray-600">Antidepressants and anti-anxiety medications can help manage symptoms effectively.</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700 mb-2">🧘 Lifestyle Changes</h4>
+                        <h4 class="font-bold text-green-700 mb-2"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Lifestyle Changes</h4>
                         <p class="text-sm text-gray-600">Regular exercise, meditation, and healthy eating habits reduce anxiety symptoms.</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700 mb-2">👥 Support Groups</h4>
+                        <h4 class="font-bold text-green-700 mb-2"><i data-feather="users" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Support Groups</h4>
                         <p class="text-sm text-gray-600">Connecting with others facing similar challenges provides comfort and coping strategies.</p>
                     </div>
                 </div>
@@ -308,22 +415,22 @@
                 </div>
 
                 <!-- Section 8: Self-Help Tips -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Self-Help Tips for Managing Stress & Anxiety</h2>
+                <h2 class="raj-h2">Self-Help Tips for Managing Stress & Anxiety</h2>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-blue-600">✓</span> <strong>Exercise regularly</strong> - Even 30 minutes of walking can reduce anxiety</li>
-                        <li class="flex items-start gap-2"><span class="text-blue-600">✓</span> <strong>Practice deep breathing</strong> - Try 4-7-8 breathing technique</li>
-                        <li class="flex items-start gap-2"><span class="text-blue-600">✓</span> <strong>Limit alcohol and caffeine</strong> - These can worsen anxiety symptoms</li>
-                        <li class="flex items-start gap-2"><span class="text-blue-600">✓</span> <strong>Get adequate sleep</strong> - Aim for 7-9 hours per night</li>
-                        <li class="flex items-start gap-2"><span class="text-blue-600">✓</span> <strong>Talk to someone</strong> - Share your feelings with a trusted friend or family member</li>
-                        <li class="flex items-start gap-2"><span class="text-blue-600">✓</span> <strong>Practice mindfulness</strong> - Meditation and yoga can help calm the mind</li>
-                        <li class="flex items-start gap-2"><span class="text-blue-600">✓</span> <strong>Set realistic goals</strong> - Break large tasks into smaller, manageable steps</li>
+                        <li class="flex items-start gap-2"><span class="text-blue-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Exercise regularly</strong> - Even 30 minutes of walking can reduce anxiety</li>
+                        <li class="flex items-start gap-2"><span class="text-blue-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Practice deep breathing</strong> - Try 4-7-8 breathing technique</li>
+                        <li class="flex items-start gap-2"><span class="text-blue-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Limit alcohol and caffeine</strong> - These can worsen anxiety symptoms</li>
+                        <li class="flex items-start gap-2"><span class="text-blue-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Get adequate sleep</strong> - Aim for 7-9 hours per night</li>
+                        <li class="flex items-start gap-2"><span class="text-blue-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Talk to someone</strong> - Share your feelings with a trusted friend or family member</li>
+                        <li class="flex items-start gap-2"><span class="text-blue-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Practice mindfulness</strong> - Meditation and yoga can help calm the mind</li>
+                        <li class="flex items-start gap-2"><span class="text-blue-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Set realistic goals</strong> - Break large tasks into smaller, manageable steps</li>
                     </ul>
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Anxiety Symptoms in Men</h2>
+                <h2 class="raj-h2">FAQs - Anxiety Symptoms in Men</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -372,7 +479,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Anxiety Symptoms in Men | Stress &amp; Mental Health Issues Signs में डॉक्टर को कब दिखाना चाहिए?</h3>

@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "लिवर इन्फेक्शन के लक्षण - कारण, निदान और इलाज | RAJ Hospital Ranchi",
+        "description": "लिवर इन्फेक्शन के प्रमुख लक्षण, कारण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best gastroenterologists की advice।",
+        "url": "https://rajhospitals.com/blog/liver-infection-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/liver-infection-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/liver-infection-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "लिवर इन्फेक्शन के लक्षण - कारण, निदान और इलाज | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,19 +231,19 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">लिवर इन्फेक्शन क्या है?</h2>
+                <h2 class="raj-h2">लिवर इन्फेक्शन क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>लिवर इन्फेक्शन</strong> तब होता है जब लिवर में वायरस, बैक्टीरिया या परजीवी के कारण सूजन या संक्रमण होता है। इसे <strong>Hepatitis</strong> भी कहते हैं। यह कई प्रकार का होता है - A, B, C, D, और E।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> लिवर इन्फेक्शन अगर समय पर नहीं पहचाना और इलाज नहीं किया गया तो <strong>सिरोसिस</strong> या <strong>लिवर फेलियर</strong> जैसी गंभीर बीमारी हो सकती है।</span>
                 </div>
 
                 <!-- Section 2: Types -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">लिवर इन्फेक्शन के प्रकार</h2>
+                <h2 class="raj-h2">लिवर इन्फेक्शन के प्रकार</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
@@ -154,7 +261,7 @@
                 </div>
 
                 <!-- Section 3: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">लिवर इन्फेक्शन के लक्षण</h2>
+                <h2 class="raj-h2">लिवर इन्फेक्शन के लक्षण</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -184,7 +291,7 @@
                 </div>
 
                 <!-- Section 4: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">लिवर इन्फेक्शन के कारण</h2>
+                <h2 class="raj-h2">लिवर इन्फेक्शन के कारण</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>वायरल इन्फेक्शन:</strong> Hepatitis A, B, C वायरस</li>
@@ -195,23 +302,23 @@
                 </ul>
 
                 <!-- Section 5: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">बचाव के उपाय</h2>
+                <h2 class="raj-h2">बचाव के उपाय</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">💉 Vaccine लगवाएं</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Vaccine लगवाएं</h4>
                         <p class="text-sm text-gray-600">Hepatitis A और B के vaccine available हैं। अपने doctor से पूछें।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🚿 साफ पानी पिएं</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i> साफ पानी पिएं</h4>
                         <p class="text-sm text-gray-600">साफ और शुद्ध पानी का use करें। बाहर का पानी न पिएं।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🍽️ साफ खाना खाएं</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="coffee" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i>️ साफ खाना खाएं</h4>
                         <p class="text-sm text-gray-600">अच्छी तरह पका हुआ खाना खाएं। कच्ची सब्जियां धोकर खाएं।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🚫 शराब कम करें</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="slash" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> शराब कम करें</h4>
                         <p class="text-sm text-gray-600">शराब के सेवन को सीमित करें या पूरी तरह छोड़ दें।</p>
                     </div>
                 </div>
@@ -224,10 +331,10 @@
                 </div>
 
                 <!-- Section 6: When to see doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">डॉक्टर को कब दिखाएं?</h2>
+                <h2 class="raj-h2">डॉक्टर को कब दिखाएं?</h2>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ तुरंत डॉक्टर से मिलें अगर:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> तुरंत डॉक्टर से मिलें अगर:</strong>
                     <ul class="list-disc list-inside space-y-1 text-gray-700 mt-2">
                         <li>आंखों या त्वचा में पीलापन हो</li>
                         <li>पेट में तेज़ दर्द हो</li>
@@ -239,7 +346,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -284,7 +391,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">लिवर इन्फेक्शन के लक्षण - कारण, निदान और इलाज में डॉक्टर को कब दिखाना चाहिए?</h3>

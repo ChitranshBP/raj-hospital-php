@@ -159,6 +159,32 @@
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50 font-sans">
@@ -201,7 +227,7 @@
                     Heart Attack को medical term में <strong>Myocardial Infarction</strong> भी कहते हैं। यह एक circulation problem है - यानी blood flow में रुकावट। Heart Attack अक्सर धीरे-धीरे शुरू होता है और symptoms कई घंटों तक बने रह सकते हैं। ज्यादातर मामलों में patient को symptoms का awareness होता है और वह help के लिए hospital पहुंच सकता है।
                 </p>
 
-                <div class="bg-red-50 border-l-4 border-red-600 p-4 rounded-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <h4 class="font-bold text-red-700 mb-2">Key Point:</h4>
                     <p class="text-gray-700">Heart Attack में heart <strong>pump करता रहता है</strong>, लेकिन एक portion damaged हो जाता है। यह एक <strong>circulation problem</strong> है, electrical problem नहीं।</p>
                 </div>
@@ -217,7 +243,7 @@
                     Cardiac Arrest एक <strong>life-threatening emergency</strong> है जो <strong>बिना किसी warning के</strong> अचानक हो सकता है। जब heart pump करना बंद करता है, तो brain और other organs को oxygen नहीं मिलता। मिनटों में ही brain damage शुरू हो जाता है और बिना तुरंत treatment के <strong>death</strong> हो सकता है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-600 p-4 rounded-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <h4 class="font-bold text-blue-700 mb-2">Key Point:</h4>
                     <p class="text-gray-700">Cardiac Arrest में heart <strong>बिल्कुल काम करना बंद</strong> कर देता है। यह एक <strong>electrical problem</strong> है, circulation problem नहीं।</p>
                 </div>
@@ -376,32 +402,32 @@
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🏃</div>
+                        <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-green-700">Exercise</div>
                         <p class="text-xs text-gray-600">रोज़ 30 minutes moderate exercise करें।</p>
                     </div>
                     <div class="bg-yellow-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🥗</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-yellow-700">Healthy Diet</div>
                         <p class="text-xs text-gray-600">Low sodium, low fat diet लें।</p>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🚭</div>
+                        <div class="text-3xl mb-2"><i data-feather="slash" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-red-700">Quit Smoking</div>
                         <p class="text-xs text-gray-600">Smoking सबसे बड़ा risk factor है।</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🩺</div>
+                        <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-blue-700">Regular Checkup</div>
                         <p class="text-xs text-gray-600">Heart health checkup नियमित कराएं।</p>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">😴</div>
+                        <div class="text-3xl mb-2"><i data-feather="moon" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <div class="font-bold text-purple-700">Sleep Well</div>
                         <p class="text-xs text-gray-600">7-8 hours की quality sleep लें।</p>
                     </div>
                     <div class="bg-orange-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🧘</div>
+                        <div class="text-3xl mb-2"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <div class="font-bold text-orange-700">Stress Management</div>
                         <p class="text-xs text-gray-600">Yoga, meditation से stress कम करें।</p>
                     </div>
@@ -487,10 +513,10 @@
                 <div class="mt-8 p-4 bg-blue-50 rounded-lg">
                     <h4 class="font-bold text-blue-700 mb-3">Related Articles</h4>
                     <ul class="space-y-2 text-sm">
-                        <li>• <a href="<?php echo $base_url; ?>blog/heart-attack-symptoms-in-hindi.php" class="text-blue-600 hover:underline">दिल का दौरा लक्षण - Complete Guide</a></li>
-                        <li>• <a href="<?php echo $base_url; ?>blog/heart-attack-se-kaise-bachen.php" class="text-blue-600 hover:underline">दिल के दौरे से कैसे बचें</a></li>
-                        <li>• <a href="<?php echo $base_url; ?>blog/can-anxiety-cause-a-heart-attack.php" class="text-blue-600 hover:underline">Can Anxiety Cause a Heart Attack</a></li>
-                        <li>• <a href="<?php echo $base_url; ?>blog/is-yawning-a-sign-of-a-heart-attack.php" class="text-blue-600 hover:underline">Is Yawning a Sign of a Heart Attack</a></li>
+                        <li><a href="<?php echo $base_url; ?>blog/heart-attack-symptoms-in-hindi.php" class="text-blue-600 hover:underline">दिल का दौरा लक्षण - Complete Guide</a></li>
+                        <li><a href="<?php echo $base_url; ?>blog/heart-attack-se-kaise-bachen.php" class="text-blue-600 hover:underline">दिल के दौरे से कैसे बचें</a></li>
+                        <li><a href="<?php echo $base_url; ?>blog/can-anxiety-cause-a-heart-attack.php" class="text-blue-600 hover:underline">Can Anxiety Cause a Heart Attack</a></li>
+                        <li><a href="<?php echo $base_url; ?>blog/is-yawning-a-sign-of-a-heart-attack.php" class="text-blue-600 hover:underline">Is Yawning a Sign of a Heart Attack</a></li>
                     </ul>
                 </div>
             </div>

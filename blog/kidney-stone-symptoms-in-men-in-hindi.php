@@ -139,6 +139,32 @@
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -180,7 +206,7 @@
                     <span class="text-gray-700"> अगर तेज दर्द के साथ fever, पेशाब में ज्यादा खून, या पेशाब न आना जैसी गंभीर symptoms हों, तुरंत hospital जाएं।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">पथरी (Kidney Stone) क्या है?</h2>
+                <h2 class="raj-h2-secondary">पथरी (Kidney Stone) क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>पथरी या मूत्रपथरी (Renal Calculus)</strong> एक solid crystalline mass है जो एक या दोनों kidneys में बनती है। यह विभिन्न substances से बन सकती है:
@@ -205,7 +231,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">पुरुषों में पथरी के लक्षण (Symptoms)</h2>
+                <h2 class="raj-h2-secondary">पुरुषों में पथरी के लक्षण (Symptoms)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Kidney stone symptoms in men</strong> size, location, और type पर depend करते हैं। कई बार छोटी stones बिना symptoms के भी निकल सकती हैं, लेकिन बड़ी stones गंभीर problems कर सकती हैं।
@@ -222,32 +248,32 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">पथरी के अन्य लक्षण</h2>
+                <h2 class="raj-h2-secondary">पथरी के अन्य लक्षण</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Pain Location</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• बाईं या दाईं पीठ (Lower back)</li>
-                            <li>• पसलियों के नीचे</li>
-                            <li>• Lower abdomen</li>
-                            <li>• Groin area</li>
-                            <li>• Testicles (टेस्टिकल्स में दर्द)</li>
+                            <li>बाईं या दाईं पीठ (Lower back)</li>
+                            <li>पसलियों के नीचे</li>
+                            <li>Lower abdomen</li>
+                            <li>Groin area</li>
+                            <li>Testicles (टेस्टिकल्स में दर्द)</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Other Symptoms</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Cloudy या foul-smelling urine</li>
-                            <li>• Fever और chills (if infected)</li>
-                            <li>• Difficulty urinating</li>
-                            <li>• Feeling bloated</li>
-                            <li>• Restlessness</li>
+                            <li>Cloudy या foul-smelling urine</li>
+                            <li>Fever और chills (if infected)</li>
+                            <li>Difficulty urinating</li>
+                            <li>Feeling bloated</li>
+                            <li>Restlessness</li>
                         </ul>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">पथरी के कारण (Causes)</h2>
+                <h2 class="raj-h2-secondary">पथरी के कारण (Causes)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Kidney stone causes</strong> में multiple factors शामिल हैं:
@@ -276,7 +302,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">पथरी का Diagnosis</h2>
+                <h2 class="raj-h2-secondary">पथरी का Diagnosis</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Kidney stone diagnosis</strong> के लिए कई tests किए जाते हैं:
@@ -301,7 +327,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">पथरी का इलाज (Treatment)</h2>
+                <h2 class="raj-h2-secondary">पथरी का इलाज (Treatment)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Kidney stone treatment</strong> stone की size और type पर depend करता है:
@@ -327,43 +353,43 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">पथरी से बचाव (Prevention)</h2>
+                <h2 class="raj-h2-secondary">पथरी से बचाव (Prevention)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Kidney stone prevention</strong> lifestyle modifications से possible है:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-600">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700 mb-2">करें (Do)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• दिन में 2-3 लीटर पानी पिएं</li>
-                            <li>• Citrus fruits खाएं (lemon, orange)</li>
-                            <li>• Adequate calcium लें (diet से)</li>
-                            <li>• Regular exercise करें</li>
-                            <li>• Healthy weight maintain करें</li>
+                            <li>दिन में 2-3 लीटर पानी पिएं</li>
+                            <li>Citrus fruits खाएं (lemon, orange)</li>
+                            <li>Adequate calcium लें (diet से)</li>
+                            <li>Regular exercise करें</li>
+                            <li>Healthy weight maintain करें</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700 mb-2">न करें (Don't)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Excessive sodium</li>
-                            <li>• High oxalate foods (spinach, nuts)</li>
-                            <li>• Too much animal protein</li>
-                            <li>• Sugary drinks और sodas</li>
-                            <li>• Dehydration</li>
+                            <li>Excessive sodium</li>
+                            <li>High oxalate foods (spinach, nuts)</li>
+                            <li>Too much animal protein</li>
+                            <li>Sugary drinks और sodas</li>
+                            <li>Dehydration</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <h4 class="font-bold text-red-700 mb-2">Emergency में Hospital जाएं:</h4>
                     <ul class="text-gray-700 space-y-1">
-                        <li>• Unbearable, severe pain</li>
-                        <li>• Fever >101°F with pain</li>
-                        <li>• Unable to urinate</li>
-                        <li>• Blood in urine with fever</li>
-                        <li>• Persistent nausea/vomiting</li>
+                        <li>Unbearable, severe pain</li>
+                        <li>Fever >101°F with pain</li>
+                        <li>Unable to urinate</li>
+                        <li>Blood in urine with fever</li>
+                        <li>Persistent nausea/vomiting</li>
                     </ul>
                 </div>
 
@@ -373,7 +399,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">FAQs - अक्सर पूछे जाने वाले सवाल</h2>
+                <h2 class="raj-h2-secondary">FAQs - अक्सर पूछे जाने वाले सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">

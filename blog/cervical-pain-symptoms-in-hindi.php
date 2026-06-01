@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "गर्दन में दर्द के लक्षण (Cervical Pain) - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "description": "Cervical Pain (गर्दन में दर्द) के प्रमुख लक्षण, कारण और इलाज जानें। जानें कब डॉक्टर को दिखाना है और कब घरेलू उपाय काफी हैं।",
+        "url": "https://rajhospitals.com/blog/cervical-pain-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/cervical-pain-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-16",
+        "dateModified": "2026-05-16",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/cervical-pain-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "गर्दन में दर्द के लक्षण (Cervical Pain) - Complete Hindi Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,19 +236,19 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Cervical Pain क्या है?</h2>
+                <h2 class="raj-h2">Cervical Pain क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Cervical Pain</strong> या <strong>cervical spondylosis</strong> गर्दन की हड्डियों और जोड़ों में होने वाला दर्द है। यह cervical vertebrae (गर्दन की 7 कशेरुकाओं) में मौजूद disks और joints की घर्षण या क्षति के कारण होता है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> 30 वर्ष से अधिक उम्र के 50% लोगों में कम से कम एक बार गर्दन दर्द की शिकायत होती है।</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Cervical Pain के प्रमुख लक्षण</h2>
+                <h2 class="raj-h2">Cervical Pain के प्रमुख लक्षण</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -166,13 +273,13 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ चेतावनी:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> चेतावनी:</strong>
                     <span class="text-gray-700"> अगर हाथों में कमजोरी, संतुलन में समस्या, या पेशाब पर नियंत्रण में कठिनाई हो तो तुरंत डॉक्टर को दिखाएं।</span>
                 </div>
 
                 <!-- Section 3: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Cervical Pain के कारण</h2>
+                <h2 class="raj-h2">Cervical Pain के कारण</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>गलत posture</strong> - लंबे समय तक गलत मुद्रा में बैठना</li>
@@ -184,31 +291,31 @@
                 </ul>
 
                 <!-- Section 4: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Cervical Pain का इलाज</h2>
+                <h2 class="raj-h2">Cervical Pain का इलाज</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <div class="font-bold text-green-700 mb-2">घरेलू उपाय</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• गर्म सेंक (warm compress)</li>
-                            <li>• गर्दन का व्यायाम</li>
-                            <li>• सही posture अपनाना</li>
-                            <li>• आराम और stretching</li>
+                            <li>गर्म सेंक (warm compress)</li>
+                            <li>गर्दन का व्यायाम</li>
+                            <li>सही posture अपनाना</li>
+                            <li>आराम और stretching</li>
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <div class="font-bold text-blue-700 mb-2">चिकित्सा उपचार</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Physiotherapy</li>
-                            <li>• Pain relievers और muscle relaxants</li>
-                            <li>• Cervical collar (गर्दन का बैंड)</li>
-                            <li>• Surgery (गंभीर cases में)</li>
+                            <li>Physiotherapy</li>
+                            <li>Pain relievers और muscle relaxants</li>
+                            <li>Cervical collar (गर्दन का बैंड)</li>
+                            <li>Surgery (गंभीर cases में)</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 5: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Cervical Pain से बचाव के उपाय</h2>
+                <h2 class="raj-h2">Cervical Pain से बचाव के उपाय</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Prevention</strong> лучше treatment से है। कुछ आसान उपायों से आप गर्दन दर्द से बच सकते हैं। Computer पर काम करते समय screen आंखों के स्तर पर रखें, हर 30 मिनट में छोटा break लें, और neck stretching exercises करें।
@@ -222,7 +329,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -263,7 +370,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">गर्दन में दर्द के लक्षण (Cervical Pain) में डॉक्टर को कब दिखाना चाहिए?</h3>

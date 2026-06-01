@@ -147,6 +147,32 @@
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -188,7 +214,7 @@
                     <span class="text-gray-700"> जोड़ों का दर्द अक्सर एक manageable condition है। सही treatment और lifestyle modifications से अधिकतर मरीजों को आराम मिल सकता है। RAJ Hospital Ranchi में हमारे expert orthopedists आपकी मदद के लिए उपलब्ध हैं।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">सर्दियों में जोड़ों का दर्द क्यों बढ़ता है?</h2>
+                <h2 class="raj-h2-secondary">सर्दियों में जोड़ों का दर्द क्यों बढ़ता है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     Research से पता चला है कि <strong>barometric pressure (वायुदाब) में बदलाव</strong> जोड़ों को सबसे ज्यादा प्रभावित करता है। जब मौसम सर्द होता है और pressure कम होती है, तो joints में tendons और ligaments फैलते हैं, जिससे <strong>दर्द और सूजन</strong> बढ़ती है।
@@ -221,7 +247,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">जोड़ों के दर्द की आम बीमारियां</h2>
+                <h2 class="raj-h2-secondary">जोड़ों के दर्द की आम बीमारियां</h2>
 
                 <p class="text-gray-700 mb-4">
                     सर्दियों में जोड़ों का दर्द कई medical conditions का symptom हो सकता है:
@@ -246,7 +272,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">जोड़ों के दर्द के घरेलू उपाय</h2>
+                <h2 class="raj-h2-secondary">जोड़ों के दर्द के घरेलू उपाय</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Joint pain home remedies</strong> जोड़ों के दर्द को manage करने में helpful हैं। ये नुस्खे generations से use हो रहे हैं:
@@ -275,7 +301,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">जोड़ों के दर्द में Exercise</h2>
+                <h2 class="raj-h2-secondary">जोड़ों के दर्द में Exercise</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Exercise for joint pain</strong> paradoxical लग सकता है, लेकिन यह actually सबसे effective treatment में से एक है। सही exercise से muscles stronger होती हैं, joint flexibility improve होती है, और endorphins release होते हैं जो pain कम करते हैं।
@@ -285,64 +311,64 @@
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Low-Impact Activities</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Swimming - water buoyancy joints को protect करती है</li>
-                            <li>• Walking - simple और effective</li>
-                            <li>• Cycling - low stress on joints</li>
-                            <li>• Yoga - flexibility और balance improve करता है</li>
+                            <li>Swimming - water buoyancy joints को protect करती है</li>
+                            <li>Walking - simple और effective</li>
+                            <li>Cycling - low stress on joints</li>
+                            <li>Yoga - flexibility और balance improve करता है</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Stretching Exercises</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Neck rotations - गर्दन की अकड़न के लिए</li>
-                            <li>• Shoulder rolls - कंधे के दर्द के लिए</li>
-                            <li>• Knee bends - घुटने के दर्द के लिए</li>
-                            <li>• Ankle circles - टखने की flexibility के लिए</li>
+                            <li>Neck rotations - गर्दन की अकड़न के लिए</li>
+                            <li>Shoulder rolls - कंधे के दर्द के लिए</li>
+                            <li>Knee bends - घुटने के दर्द के लिए</li>
+                            <li>Ankle circles - टखने की flexibility के लिए</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> Exercise को gentle रखें। ज्यादा strenuous activity से pain बढ़ सकता है। Warm-up जरूर करें। अगर exercise से pain बढ़ता है, तो stop करें।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">जोड़ों के दर्द में Diet</h2>
+                <h2 class="raj-h2-secondary">जोड़ों के दर्द में Diet</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-600">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700 mb-2">खाएं (Eat These)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Omega-3 rich foods: fish, walnuts, flaxseed</li>
-                            <li>• Vitamin D: sunlight, fortified foods</li>
-                            <li>• Calcium: dairy, leafy greens</li>
-                            <li>• Antioxidants: berries, green tea</li>
-                            <li>• Anti-inflammatory: ginger, turmeric</li>
+                            <li>Omega-3 rich foods: fish, walnuts, flaxseed</li>
+                            <li>Vitamin D: sunlight, fortified foods</li>
+                            <li>Calcium: dairy, leafy greens</li>
+                            <li>Antioxidants: berries, green tea</li>
+                            <li>Anti-inflammatory: ginger, turmeric</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700 mb-2">न खाएं (Avoid These)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Processed foods</li>
-                            <li>• Refined sugar</li>
-                            <li>• Excessive salt</li>
-                            <li>• Saturated fats</li>
-                            <li>• Alcohol और fried foods</li>
+                            <li>Processed foods</li>
+                            <li>Refined sugar</li>
+                            <li>Excessive salt</li>
+                            <li>Saturated fats</li>
+                            <li>Alcohol और fried foods</li>
                         </ul>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">डॉक्टर से कब मिलें?</h2>
+                <h2 class="raj-h2-secondary">डॉक्टर से कब मिलें?</h2>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <h4 class="font-bold text-red-700 mb-2">Emergency Signs:</h4>
                     <ul class="text-gray-700 space-y-1">
-                        <li>• दर्द 2-3 हफ्ते से ज्यादा है</li>
-                        <li>• Joint में सूजन, लालिमा, या गर्मी है</li>
-                        <li>• Morning stiffness 30 मिनट से ज्यादा है</li>
-                        <li>• Fever के साथ joint pain है</li>
-                        <li>• Joint locked या immobile है</li>
-                        <li>• Daily activities affected हैं</li>
+                        <li>दर्द 2-3 हफ्ते से ज्यादा है</li>
+                        <li>Joint में सूजन, लालिमा, या गर्मी है</li>
+                        <li>Morning stiffness 30 मिनट से ज्यादा है</li>
+                        <li>Fever के साथ joint pain है</li>
+                        <li>Joint locked या immobile है</li>
+                        <li>Daily activities affected हैं</li>
                     </ul>
                 </div>
 
@@ -352,7 +378,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">FAQs - अक्सर पूछे जाने वाले सवाल</h2>
+                <h2 class="raj-h2-secondary">FAQs - अक्सर पूछे जाने वाले सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">

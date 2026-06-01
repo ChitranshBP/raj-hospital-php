@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital",
+        "description": "Throat cancer ke symptoms in Hindi जानें। गले के कैंसर के शुरुआती signs, causes, और treatment options। Early detection और prevention tips।",
+        "url": "https://rajhospitals.com/blog/throat-cancer-symptoms-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/throat-cancer-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/throat-cancer-symptoms-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -120,18 +227,18 @@
                     <strong>Throat cancer</strong> यानी गले का कैंसर एक गंभीर health condition है जो दुनिया भर में हजारों लोगों को प्रभावित करती है। <strong>Throat cancer symptoms in Hindi</strong> समझना बहुत जरूरी है क्योंकि early detection से treatment की success rate काफी बढ़ जाती है।
                 </p>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Throat Cancer क्या है? (What is Throat Cancer?)</h2>
+                <h2 class="raj-h2">Throat Cancer क्या है? (What is Throat Cancer?)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Throat cancer</strong> तब होता है जब गले (throat) की cells में abnormal growth शुरू हो जाती है। यह larynx (vocal cords), pharynx (गले का मध्य भाग), या tonsils में हो सकता है। सबसे common type <strong>Squamous Cell Carcinoma</strong> है जो गले की inner lining से शुरू होता है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> India में हर साल 50,000 से अधिक new throat cancer cases reported होते हैं। Early detection survival rate को 80-90% तक बढ़ा सकता है।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Throat Cancer के शुरुआती लक्षण (Early Symptoms)</h2>
+                <h2 class="raj-h2">Throat Cancer के शुरुआती लक्षण (Early Symptoms)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Galte ke cancer ke lakshan</strong> (गले के कैंसर के लक्षण) शुरुआती stage में subtle हो सकते हैं। इन warning signs को ignore न करें:
@@ -139,24 +246,24 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🗣️ आवाज में बदलाव</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="message-circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i>️ आवाज में बदलाव</h4>
                         <p class="text-sm text-gray-600">होशपूर्ण voice hoarse या changes in voice जो 2 weeks से ज्यादा रहे</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">😰 गले में खराश</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> गले में खराश</h4>
                         <p class="text-sm text-gray-600">लगातार sore throat जो जा नहीं रहा</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🥀 निगलने में तकलीफ</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> निगलने में तकलीफ</h4>
                         <p class="text-sm text-gray-600">Swallowing में difficulty या pain</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🔊 गांठ या सूजन</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="volume-2" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> गांठ या सूजन</h4>
                         <p class="text-sm text-gray-600">गले में lump या swelling</p>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Throat Cancer के advanced symptoms</h2>
+                <h2 class="raj-h2">Throat Cancer के advanced symptoms</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -177,19 +284,19 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Risk Factors (जोखिम कारक)</h2>
+                <h2 class="raj-h2">Risk Factors (जोखिम कारक)</h2>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">⚠️</span> <strong>तंबाकू और smoking</strong> - सबसे बड़ा risk factor</li>
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">⚠️</span> <strong>Alcohol consumption</strong> - ज्यादा alcohol लेने से risk बढ़ता है</li>
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">⚠️</span> <strong>HPV infection</strong> - Human Papillomavirus</li>
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">⚠️</span> <strong>Poor nutrition</strong> - fresh fruits और vegetables की कमी</li>
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">⚠️</span> <strong>Acid reflux</strong> - chronic GERD</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>तंबाकू और smoking</strong> - सबसे बड़ा risk factor</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Alcohol consumption</strong> - ज्यादा alcohol लेने से risk बढ़ता है</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>HPV infection</strong> - Human Papillomavirus</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Poor nutrition</strong> - fresh fruits और vegetables की कमी</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Acid reflux</strong> - chronic GERD</li>
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Treatment Options (इलाज के विकल्प)</h2>
+                <h2 class="raj-h2">Treatment Options (इलाज के विकल्प)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Throat cancer treatment</strong> stage और tumor की location पर निर्भर करता है:
@@ -197,19 +304,19 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700">🔬 Surgery</h4>
+                        <h4 class="font-bold text-green-700"><i data-feather="search" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Surgery</h4>
                         <p class="text-sm text-gray-600">Tumor को surgical removal किया जाता है। Early stage में laser surgery भी possible है।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700">☢️ Radiation Therapy</h4>
+                        <h4 class="font-bold text-green-700"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i>️ Radiation Therapy</h4>
                         <p class="text-sm text-gray-600">High-energy rays से cancer cells को destroy किया जाता है।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700">💉 Chemotherapy</h4>
+                        <h4 class="font-bold text-green-700"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Chemotherapy</h4>
                         <p class="text-sm text-gray-600">Cancer cells को kill करने वाली medicines। Advanced cases में used।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-700">🎯 Targeted Therapy</h4>
+                        <h4 class="font-bold text-green-700"><i data-feather="crosshair" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> Targeted Therapy</h4>
                         <p class="text-sm text-gray-600">Specific molecular targets पर attack करने वाले treatments।</p>
                     </div>
                 </div>
@@ -220,7 +327,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Throat Cancer Symptoms</h2>
+                <h2 class="raj-h2">FAQs - Throat Cancer Symptoms</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -270,7 +377,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण में डॉक्टर को कब दिखाना चाहिए?</h3>

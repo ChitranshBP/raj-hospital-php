@@ -215,6 +215,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -255,7 +281,7 @@
                 </p>
 
                 <!-- Emergency Alert -->
-                <div class="bg-red-100 border-l-4 border-red-600 p-4 rounded-r-lg mb-8">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700 text-lg">आपातकालीन चेतावनी:</strong>
                     <span class="text-gray-700"> अगर आपको या किसी को chest pain, भारीपन, बांह में दर्द, सांस न आना, या पसीना आना हो तो तुरंत 108 (ambulance) को कॉल करें। "Time is Heart" - हर मिनट महत्वपूर्ण है।</span>
                 </div>
@@ -320,26 +346,26 @@
                     <div class="bg-pink-50 p-4 rounded-lg">
                         <h4 class="font-bold text-pink-600 mb-2">महिलाओं में Common Symptoms</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• अत्यधिक थकान (Even weeks before)</li>
-                            <li>• पेट दर्द या discomfort</li>
-                            <li>• सांस की तकलीफ</li>
-                            <li>• मतली या vomiting</li>
-                            <li>• चक्कर या lightheadedness</li>
+                            <li>अत्यधिक थकान (Even weeks before)</li>
+                            <li>पेट दर्द या discomfort</li>
+                            <li>सांस की तकलीफ</li>
+                            <li>मतली या vomiting</li>
+                            <li>चक्कर या lightheadedness</li>
                         </ul>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2"> Atypical Symptoms in Women</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Jaw या neck pain</li>
-                            <li>• Upper back pain</li>
-                            <li>• Indigestion-like feeling</li>
-                            <li>• Anxiety और stress</li>
-                            <li>• Sleep disturbances</li>
+                            <li>Jaw या neck pain</li>
+                            <li>Upper back pain</li>
+                            <li>Indigestion-like feeling</li>
+                            <li>Anxiety और stress</li>
+                            <li>Sleep disturbances</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">महिलाओं के लिए सलाह:</strong>
                     <span class="text-gray-700"> अगर आपको ऊपर बताए गए symptoms में से कोई भी अनुभव हो, तो इसे सिर्फ stress या normal fatigue न समझें। खासकर अगर ये नए हों और अचानक शुरू हों। समय पर <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-yellow-700 hover:underline font-semibold">cardiac checkup</a> अत्यंत जरूरी है।</span>
                 </div>
@@ -370,23 +396,23 @@
                     <div class="bg-red-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">Controllable Risk Factors (नियंत्रणीय)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• <strong>High Blood Pressure:</strong> Regular BP check करें और दवाइयां लें। <a href="<?php echo $base_url; ?>bp-high-hone-par-kya-kare.php" class="text-red-600 hover:underline">BP control के उपाय जानें</a>।</li>
-                            <li>• <strong>High Cholesterol:</strong> Diet में सुधार करें।</li>
-                            <li>• <strong>Diabetes:</strong> Blood sugar नियंत्रित रखें।</li>
-                            <li>• <strong>मोटापा:</strong> वजन कम करें और <a href="<?php echo $base_url; ?>best-indian-diet-plan-for-diabetes-patients.php" class="text-red-600 hover:underline">Indian diet plan</a> follow करें।</li>
-                            <li>• <strong>Smoking:</strong> तुरंत छोड़ें।</li>
-                            <li>• <strong>Sedentary Lifestyle:</strong> Regular exercise करें।</li>
-                            <li>• <strong>Stress:</strong> Yoga और meditation करें।</li>
+                            <li><strong>High Blood Pressure:</strong> Regular BP check करें और दवाइयां लें। <a href="<?php echo $base_url; ?>bp-high-hone-par-kya-kare.php" class="text-red-600 hover:underline">BP control के उपाय जानें</a>।</li>
+                            <li><strong>High Cholesterol:</strong> Diet में सुधार करें।</li>
+                            <li><strong>Diabetes:</strong> Blood sugar नियंत्रित रखें।</li>
+                            <li><strong>मोटापा:</strong> वजन कम करें और <a href="<?php echo $base_url; ?>best-indian-diet-plan-for-diabetes-patients.php" class="text-red-600 hover:underline">Indian diet plan</a> follow करें।</li>
+                            <li><strong>Smoking:</strong> तुरंत छोड़ें।</li>
+                            <li><strong>Sedentary Lifestyle:</strong> Regular exercise करें।</li>
+                            <li><strong>Stress:</strong> Yoga और meditation करें।</li>
                         </ul>
                     </div>
                     <div class="bg-gray-100 p-4 rounded-lg">
                         <h4 class="font-bold text-gray-600 mb-2">Uncontrollable Risk Factors (अनियंत्रित)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• <strong>Age:</strong> 45+ पुरुष, 55+ महिलाएं</li>
-                            <li>• <strong>Family History:</strong> पारिवारिक heart disease</li>
-                            <li>• <strong>Gender:</strong> पुरुषों में ज्यादा risk</li>
-                            <li>• <strong>Previous Heart Attack:</strong> पहले heart attack हो चुका हो</li>
-                            <li>• <strong>Race/Ethnicity:</strong> South Asian descent में ज्यादा risk</li>
+                            <li><strong>Age:</strong> 45+ पुरुष, 55+ महिलाएं</li>
+                            <li><strong>Family History:</strong> पारिवारिक heart disease</li>
+                            <li><strong>Gender:</strong> पुरुषों में ज्यादा risk</li>
+                            <li><strong>Previous Heart Attack:</strong> पहले heart attack हो चुका हो</li>
+                            <li><strong>Race/Ethnicity:</strong> South Asian descent में ज्यादा risk</li>
                         </ul>
                     </div>
                 </div>
@@ -400,32 +426,32 @@
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🏃</div>
+                        <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-green-700">व्यायाम</div>
                         <p class="text-xs text-gray-600">रोज़ 30-45 मिनट walking या exercise करें।</p>
                     </div>
                     <div class="bg-yellow-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🥗</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-yellow-700">स्वस्थ आहार</div>
                         <p class="text-xs text-gray-600">Fruits, vegetables, whole grains, lean proteins खाएं।</p>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🚭</div>
+                        <div class="text-3xl mb-2"><i data-feather="slash" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-red-700">धूम्रपान छोड़ें</div>
                         <p class="text-xs text-gray-600">Smoking heart disease का biggest cause है।</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🩺</div>
+                        <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-blue-700">Regular Checkups</div>
                         <p class="text-xs text-gray-600">हर साल full body checkup कराएं।</p>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">😴</div>
+                        <div class="text-3xl mb-2"><i data-feather="moon" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <div class="font-bold text-purple-700">पर्याप्त नींद</div>
                         <p class="text-xs text-gray-600">7-8 घंटे सोएं और stress कम करें।</p>
                     </div>
                     <div class="bg-orange-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">💊</div>
+                        <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-orange-700">दवाइयां</div>
                         <p class="text-xs text-gray-600">BP, cholesterol की दवाइयां नियमित लें।</p>
                     </div>
@@ -536,7 +562,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दिल का दौरा लक्षण (Heart Attack Symptoms) में डॉक्टर को कब दिखाना चाहिए?</h3>
@@ -574,10 +600,10 @@
                 <div class="mt-8 p-4 bg-blue-50 rounded-lg">
                     <h4 class="font-bold text-blue-700 mb-3">Related Articles</h4>
                     <ul class="space-y-2 text-sm">
-                        <li>• <a href="<?php echo $base_url; ?>blog/heart-attack-se-kaise-bachen/" class="text-blue-600 hover:underline">दिल के दौरे से कैसे बचें - Complete Prevention Guide</a></li>
-                        <li>• <a href="<?php echo $base_url; ?>blog/chest-pain-ka-ilaj.php" class="text-blue-600 hover:underline">सीने में दर्द का इलाज - Chest Pain Treatment</a></li>
-                        <li>• <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-blue-600 hover:underline">Stroke और TIA Treatment in Ranchi</a></li>
-                        <li>• <a href="<?php echo $base_url; ?>blog/brain-stroke-ke-lakshan.php" class="text-blue-600 hover:underline">Brain Stroke के लक्षण - Complete Guide</a></li>
+                        <li><a href="<?php echo $base_url; ?>blog/heart-attack-se-kaise-bachen/" class="text-blue-600 hover:underline">दिल के दौरे से कैसे बचें - Complete Prevention Guide</a></li>
+                        <li><a href="<?php echo $base_url; ?>blog/chest-pain-ka-ilaj.php" class="text-blue-600 hover:underline">सीने में दर्द का इलाज - Chest Pain Treatment</a></li>
+                        <li><a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-blue-600 hover:underline">Stroke और TIA Treatment in Ranchi</a></li>
+                        <li><a href="<?php echo $base_url; ?>blog/brain-stroke-ke-lakshan.php" class="text-blue-600 hover:underline">Brain Stroke के लक्षण - Complete Guide</a></li>
                     </ul>
                 </div>
             </div>

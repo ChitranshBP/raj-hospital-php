@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड | RAJ Hospital Ranchi",
+        "description": "नवजात शिशु की देखभाल कैसे करें, पहले दिन से ही। Breastfeeding, bathing, sleeping की proper technique। Newborn care tips in Hindi।",
+        "url": "https://rajhospitals.com/blog/nursing-care-of-newborn-baby-first-day-guide.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/nursing-care-of-newborn-baby-first-day-guide.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/nursing-care-of-newborn-baby-first-day-guide.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,7 +231,7 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">नवजात शिशु का पहला दिन</h2>
+                <h2 class="raj-h2">नवजात शिशु का पहला दिन</h2>
 
                 <p class="text-gray-700 mb-4">
                     बच्चे के जन्म के बाद अस्पताल में कुछ important tests और procedures होते हैं:
@@ -150,13 +257,13 @@
                 </div>
 
                 <!-- Section 2: Breastfeeding -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">स्तनपान (Breastfeeding) कैसे करवाएं</h2>
+                <h2 class="raj-h2">स्तनपान (Breastfeeding) कैसे करवाएं</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>स्तनपान</strong> नवजात के लिए सबसे अच्छा आहार है। पहली बार breastfeeding generally जन्म के 1-2 घंटे के भीतर शुरू होनी चाहिए।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> पहला दूध <strong>Colostrum</strong> कहलाता है - यह गाढ़ा, पीला दूध होता है जो बच्चे की immunity के लिए बहुत जरूरी है।</span>
                 </div>
@@ -183,15 +290,15 @@
                 </div>
 
                 <!-- Section 3: Umbilical Cord -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">अम्बिलिकल कॉर्ड की देखभाल</h2>
+                <h2 class="raj-h2">अम्बिलिकल कॉर्ड की देखभाल</h2>
 
                 <p class="text-gray-700 mb-4">
                     बच्चे का <strong>अम्बिलिकल कॉर्ड (navel cord)</strong> जन्म के बाद कुछ दिनों तक रहता है। सही देखभाल से infection से बचाव होता है।
                 </p>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">✅ क्या करें</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="check-circle" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> क्या करें</h4>
                         <ul class="list-disc list-inside text-sm text-gray-600 mt-2 space-y-1">
                             <li>सूखा और साफ रखें</li>
                             <li>डायपर को cord के नीचे रखें</li>
@@ -199,8 +306,8 @@
                             <li>हवा में dry होने दें</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
-                        <h4 class="font-bold text-red-700">❌ क्या न करें</h4>
+                    <div class="raj-callout raj-callout-danger">
+                        <h4 class="font-bold text-red-700"><i data-feather="x-circle" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> क्या न करें</h4>
                         <ul class="list-disc list-inside text-sm text-gray-600 mt-2 space-y-1">
                             <li>Alcohol या antiseptic न लगाएं (डॉक्टर की सलाह के बिना)</li>
                             <li>कॉर्ड को न छेड़ें</li>
@@ -210,7 +317,7 @@
                 </div>
 
                 <!-- Section 4: Bathing -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">नहाना कैसे कराएं</h2>
+                <h2 class="raj-h2">नहाना कैसे कराएं</h2>
 
                 <p class="text-gray-700 mb-4">
                     पहले दिन अस्पताल में staff bathing कराता है। घर आने के बाद <strong>Sponge Bath</strong> दें जब तक cord न गिर जाए।
@@ -218,24 +325,24 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🌡️</div>
+                        <div class="text-2xl mb-2"><i data-feather="thermometer" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i>️</div>
                         <h4 class="font-bold text-secondary-600">पानी का तापमान</h4>
                         <p class="text-sm text-gray-600">गुनगुना - 37-38°C। अंदर कोहनी पर जांचें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">⏱️</div>
+                        <div class="text-2xl mb-2"><i data-feather="clock" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i>️</div>
                         <h4 class="font-bold text-secondary-600">Bath का समय</h4>
                         <p class="text-sm text-gray-600">5-10 मिनट से ज्यादा नहीं। सुबह या feeding के बाद।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🧴</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-secondary-600">Soap/Shampoo</h4>
                         <p class="text-sm text-gray-600">Mild baby soap। आंखों में न जाए।</p>
                     </div>
                 </div>
 
                 <!-- Section 5: Sleeping -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">नींद की आदतें</h2>
+                <h2 class="raj-h2">नींद की आदतें</h2>
 
                 <p class="text-gray-700 mb-4">
                     नवजात शिशु <strong>16-17 घंटे</strong> रोज़ाना सोते हैं, लेकिन हर 2-3 घंटे में जागते हैं।
@@ -254,7 +361,7 @@
                 </div>
 
                 <!-- Section 6: Diaper -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">डायपर बदलना</h2>
+                <h2 class="raj-h2">डायपर बदलना</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -276,10 +383,10 @@
                 </div>
 
                 <!-- Section 7: Warning Signs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">चेतावनी के संकेत</h2>
+                <h2 class="raj-h2">चेतावनी के संकेत</h2>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ तुरंत डॉक्टर को दिखाएं अगर बच्चे को:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> तुरंत डॉक्टर को दिखाएं अगर बच्चे को:</strong>
                     <ul class="list-disc list-inside space-y-1 text-gray-700 mt-2">
                         <li>100.4°F (38°C) से ज्यादा बुखार</li>
                         <li>सांस लेने में तकलीफ (fast या shallow breathing)</li>
@@ -292,7 +399,7 @@
                 </div>
 
                 <!-- Section 8: Mother Care -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">माँ की देखभाल भी जरूरी है</h2>
+                <h2 class="raj-h2">माँ की देखभाल भी जरूरी है</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>आराम करें:</strong> शरीर को recover होने में 6 weeks लगते हैं।</li>
@@ -309,7 +416,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -354,7 +461,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड में डॉक्टर को कब दिखाना चाहिए?</h3>

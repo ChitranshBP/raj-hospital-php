@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "पल्स रेट कितना होना चाहिए | Normal Pulse Rate Kitna Hona Chahiye in Hindi",
+        "description": "पल्स रेट कितना होना चाहिए (pulse rate kitna hona chahiye) जानें। नॉर्मल pulse rate, high pulse rate के कारण, low pulse rate और इसे control करने के उपाय। RAJ Hospital Ranchi से जानें।",
+        "url": "https://rajhospitals.com/blog/pulse-rate-kitna-hona-chahiye.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/pulse-rate-kitna-hona-chahiye.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-25",
+        "dateModified": "2026-05-25",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pulse-rate-kitna-hona-chahiye.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "पल्स रेट कितना होना चाहिए | Normal Pulse Rate Kitna Hona Chahiye in Hindi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,13 +236,13 @@
                 </p>
 
                 <!-- Section 1: Normal Pulse Rate -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">पल्स रेट कितना होना चाहिए? (Normal Pulse Rate)</h2>
+                <h2 class="raj-h2">पल्स रेट कितना होना चाहिए? (Normal Pulse Rate)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>पल्स रेट कितना होना चाहिए</strong> यह सवाल अक्सर पूछा जाता है। एक <strong>healthy adult</strong> के लिए normal pulse rate यानी <strong>normal pulse kitni honi chahiye</strong> यह है:
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Normal Pulse Rate:</strong>
                     <span class="text-gray-700"> <strong>60 से 100 beats per minute (BPM)</strong> resting condition में।</span>
                 </div>
@@ -208,7 +315,7 @@
                 </div>
 
                 <!-- Section 2: How to Check Pulse -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Pulse Rate कैसे Check करें? (How to Check Pulse Rate)</h2>
+                <h2 class="raj-h2">Pulse Rate कैसे Check करें? (How to Check Pulse Rate)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Pulse rate kaise check kare</strong> यह जानना important है। घर पर आसानी से pulse rate check किया जा सकता है:
@@ -234,7 +341,7 @@
                 </div>
 
                 <!-- Section 3: High Pulse Rate -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">High Pulse Rate (तेज धड़कन) - कब होती है?</h2>
+                <h2 class="raj-h2">High Pulse Rate (तेज धड़कन) - कब होती है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>High pulse rate</strong> यानी <strong>tachycardia</strong> तब होता है जब resting pulse rate 100 BPM से ज्यादा हो। <strong>Pulse rate zyada hone ke karan</strong> ये हो सकते हैं:
@@ -268,7 +375,7 @@
                 </div>
 
                 <!-- Section 4: Low Pulse Rate -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Low Pulse Rate (धीमी धड़कन) - Bradycardia</h2>
+                <h2 class="raj-h2">Low Pulse Rate (धीमी धड़कन) - Bradycardia</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Low pulse rate</strong> यानी <strong>bradycardia</strong> तब होता है जब resting pulse rate 60 BPM से कम हो। <strong>Pulse rate kam hone ke karan</strong> ये हो सकते हैं:
@@ -294,10 +401,10 @@
                 </div>
 
                 <!-- Section 5: Warning Signs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">कब डॉक्टर से मिलें? (When to See Doctor)</h2>
+                <h2 class="raj-h2">कब डॉक्टर से मिलें? (When to See Doctor)</h2>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ गंभीर Warning Signs:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> गंभीर Warning Signs:</strong>
                     <span class="text-gray-700"> अगर ये symptoms हों, तो तुरंत medical attention लें:</span>
                 </div>
 
@@ -311,56 +418,56 @@
                 </ul>
 
                 <!-- Section 6: Tips for Normal Pulse -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Pulse Rate Normal रखने के उपाय (Tips for Normal Pulse Rate)</h2>
+                <h2 class="raj-h2">Pulse Rate Normal रखने के उपाय (Tips for Normal Pulse Rate)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Pulse rate ko normal kaise rakhein</strong> यह जानना important है। इन tips follow करें:
                 </p>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>नियमित व्यायाम करें</strong> - 30 मिनट daily walking या light exercise</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Stress कम करें</strong> - Yoga, meditation, या breathing exercises</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Caffeine कम करें</strong> - ज्यादा चाय, coffee, energy drinks से बचें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Alcohol छोड़ें</strong> या कम करें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>पर्याप्त नींद लें</strong> - 7-8 घंटे daily</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Smoking छोड़ें</strong> - Nicotine heart rate बढ़ाता है</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Healthy diet लें</strong> - Fruits, vegetables, whole grains</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Hydrated रहें</strong> - पर्याप्त पानी पिएं</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>नियमित व्यायाम करें</strong> - 30 मिनट daily walking या light exercise</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Stress कम करें</strong> - Yoga, meditation, या breathing exercises</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Caffeine कम करें</strong> - ज्यादा चाय, coffee, energy drinks से बचें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Alcohol छोड़ें</strong> या कम करें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>पर्याप्त नींद लें</strong> - 7-8 घंटे daily</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Smoking छोड़ें</strong> - Nicotine heart rate बढ़ाता है</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Healthy diet लें</strong> - Fruits, vegetables, whole grains</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Hydrated रहें</strong> - पर्याप्त पानी पिएं</li>
                     </ul>
                 </div>
 
                 <!-- Section 7: Foods for Heart Health -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">हृदय स्वास्थ्य के लिए beneficial Foods</h2>
+                <h2 class="raj-h2">हृदय स्वास्थ्य के लिए beneficial Foods</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🥬</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Leafy Greens</div>
                         <p class="text-sm text-gray-600">Spinach, kale में potassium होती है जो blood pressure control करती है</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🐟</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Omega-3 Fatty Acids</div>
                         <p class="text-sm text-gray-600">Fish, flaxseeds heart health के लिए beneficial हैं</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🥜</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Nuts और Seeds</div>
                         <p class="text-sm text-gray-600">Almonds, walnuts heart-friendly fats contain करते हैं</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🍌</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Bananas</div>
                         <p class="text-sm text-gray-600">Potassium से rich, heart rhythm में help करते हैं</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🫘</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Legumes</div>
                         <p class="text-sm text-gray-600">Beans, lentils fiber और protein से भरपूर</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🍫</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Dark Chocolate</div>
                         <p class="text-sm text-gray-600">Moderate amount में heart health के लिए beneficial</p>
                     </div>
@@ -374,7 +481,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Pulse Rate से संबंधित सवाल</h2>
+                <h2 class="raj-h2">FAQs - Pulse Rate से संबंधित सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -417,7 +524,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पल्स रेट कितना होना चाहिए (Normal Pulse Rate)?</h3>

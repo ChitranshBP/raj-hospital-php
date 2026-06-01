@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "पुरुषों में HIV के लक्षण | HIV Symptoms in Men in Hindi - Complete Guide | RAJ Hospital",
+        "description": "पुरुषों में HIV के शुरुआती और प्रमुख लक्षण जानें। जानें कौन से warning signs हैं, कब test करना चाहिए, और कहां से Free HIV testing करवाएं। Complete Hindi guide।",
+        "url": "https://rajhospitals.com/blog/hiv-symptoms-in-men-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/hiv-symptoms-in-men-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/hiv-symptoms-in-men-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "पुरुषों में HIV के लक्षण | HIV Symptoms in Men in Hindi - Complete Guide | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,13 +236,13 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">HIV क्या है? (What is HIV?)</h2>
+                <h2 class="raj-h2">HIV क्या है? (What is HIV?)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>HIV (Human Immunodeficiency Virus)</strong> एक virus है जो human body की immune system को attack करता है। यह virus white blood cells (विशेषकर CD4 cells) को नष्ट करता है, जिससे body की infection से लड़ने की capacity कम हो जाती है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण जानकारी:</strong>
                     <span class="text-gray-700"> HIV virus खांसी, छींक, casual contact, या sharing food/water से नहीं फैलता। यह केवल specific body fluids (blood, semen, vaginal fluids, breast milk) से transmission होता है।</span>
                 </div>
@@ -145,7 +252,7 @@
                 </p>
 
                 <!-- Section 2: Early Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">पुरुषों में HIV के शुरुआती लक्षण (Early Symptoms in Men)</h2>
+                <h2 class="raj-h2">पुरुषों में HIV के शुरुआती लक्षण (Early Symptoms in Men)</h2>
 
                 <p class="text-gray-700 mb-4">
                     HIV infection के बाद शुरुआती 2-4 weeks में symptoms appear हो सकते हैं। इसे <strong>Acute HIV Infection</strong> या <strong>Seroconversion</strong> stage कहते हैं।
@@ -154,30 +261,30 @@
                 <!-- Symptom Cards -->
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🤒 बुखार (Fever)</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="thermometer" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> बुखार (Fever)</h4>
                         <p class="text-sm text-gray-600">हल्का या तेज बुखार (100-102°F) जो कई दिनों तक बना रहे</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">😫 थकान (Fatigue)</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> थकान (Fatigue)</h4>
                         <p class="text-sm text-gray-600">असाधारण थकान जो rest लेने के बाद भी न जाए</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🤕 सिरदर्द (Headache)</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> सिरदर्द (Headache)</h4>
                         <p class="text-sm text-gray-600">तेज और लगातार सिरदर्द</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">🗣️ गले में खराश (Sore Throat)</h4>
+                        <h4 class="font-bold text-secondary-600"><i data-feather="message-circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i>️ गले में खराश (Sore Throat)</h4>
                         <p class="text-sm text-gray-600">गला दर्द और swallowing में कठिनाई</p>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ ध्यान दें:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> ध्यान दें:</strong>
                     <span class="text-gray-700"> ये सभी symptoms common flu के भी हो सकते हैं। अगर आपको संदेह है, तो <strong>HIV test जरूर करवाएं</strong>।</span>
                 </div>
 
                 <!-- Section 3: HIV vs AIDS -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">HIV और AIDS में क्या अंतर है?</h2>
+                <h2 class="raj-h2">HIV और AIDS में क्या अंतर है?</h2>
 
                 <div class="bg-blue-50 p-4 rounded-lg mb-4">
                     <ul class="list-disc list-inside space-y-2 text-gray-700">
@@ -191,7 +298,7 @@
                 </p>
 
                 <!-- Section 4: When to Get Tested -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">कब HIV Test करवाना चाहिए?</h2>
+                <h2 class="raj-h2">कब HIV Test करवाना चाहिए?</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li>Unprotected sexual contact</li>
@@ -203,7 +310,7 @@
                 </ul>
 
                 <!-- Section 5: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">HIV Treatment Options</h2>
+                <h2 class="raj-h2">HIV Treatment Options</h2>
 
                 <p class="text-gray-700 mb-4">
                     HIV का कोई cure नहीं है, लेकिन <strong>Antiretroviral Therapy (ART)</strong> से virus को control में रखा जा सकता है। India में <strong>National AIDS Control Programme (NACO)</strong> के तहत free ART available है।
@@ -217,7 +324,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -258,7 +365,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पुरुषों में HIV के लक्षण | HIV Symptoms in Men in Hindi में डॉक्टर को कब दिखाना चाहिए?</h3>

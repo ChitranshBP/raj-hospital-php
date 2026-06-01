@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Joint Pain Treatment Ranchi - Best Orthopedic Care | RAJ Hospital Ranchi",
+        "description": "Joint Pain Treatment Ranchi - RAJ Hospital में best orthopedic treatment। Joint pain diagnosis, physiotherapy, और surgery options। Ranchi के best joint specialists।",
+        "url": "https://rajhospitals.com/blog/joint-pain-treatment-ranchi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/joint-pain-treatment-ranchi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/joint-pain-treatment-ranchi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Joint Pain Treatment Ranchi - Best Orthopedic Care | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,7 +231,7 @@
                     <strong>Joint Pain Treatment Ranchi</strong> - Ranchi और आसपास के patients के लिए RAJ Hospital comprehensive orthopedic care प्रदान करता है। हमारी expert team joint pain के हर aspect को address करती है।
                 </p>
 
-                <div class="bg-blue-100 border-l-4 border-blue-600 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Why RAJ Hospital:</strong>
                     <span class="text-gray-700"> <strong>Experienced orthopedic specialists</strong>, <strong>modern diagnostic facilities</strong>, और <strong>comprehensive treatment plans</strong> - यह सब एक ही जगह।</span>
                 </div>
@@ -156,22 +263,22 @@
 
                 <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
                     <div class="bg-blue-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🩺</div>
+                        <div class="text-2xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-blue-600 text-sm">X-Ray</h4>
                         <p class="text-xs text-gray-600">Bone assessment</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🧲</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-blue-600 text-sm">MRI</h4>
                         <p class="text-xs text-gray-600">Soft tissue imaging</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🩸</div>
+                        <div class="text-2xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-blue-600 text-sm">Blood Tests</h4>
                         <p class="text-xs text-gray-600">Inflammation markers</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">💉</div>
+                        <div class="text-2xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-blue-600 text-sm">Joint Fluid Analysis</h4>
                         <p class="text-xs text-gray-600">Infection/gout detection</p>
                     </div>
@@ -259,7 +366,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Joint Pain Treatment Ranchi - Best Orthopedic Care में डॉक्टर को कब दिखाना चाहिए?</h3>

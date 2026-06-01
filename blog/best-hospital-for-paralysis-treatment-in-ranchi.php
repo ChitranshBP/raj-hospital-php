@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Best Hospital for Paralysis Treatment in Ranchi | RAJ Hospital",
+        "description": "Ranchi में paralysis treatment के लिए सबसे अच्छा hospital कैसे चुनें। Latest treatments, experienced neurologists, और success rates के बारे में जानकारी। RAJ Hospital Ranchi में comprehensive stroke और paralysis care।",
+        "url": "https://rajhospitals.com/blog/best-hospital-for-paralysis-treatment-in-ranchi",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/best-hospital-for-paralysis-treatment-in-ranchi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/best-hospital-for-paralysis-treatment-in-ranchi",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Best Hospital for Paralysis Treatment in Ranchi | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: What is Paralysis -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">What is Paralysis? Understanding the Condition</h2>
+                <h2 class="raj-h2">What is Paralysis? Understanding the Condition</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Paralysis</strong> is the loss of muscle function in part or all of the body. It occurs when the communication between the brain and muscles is disrupted, either due to damage to the nervous system or blockages in blood flow. The condition can affect one side of the body (<strong>hemiplegia</strong>), both legs (<strong>paraplegia</strong>), or all four limbs (<strong>quadriplegia</strong>).
@@ -133,13 +240,13 @@
                     Understanding the type and cause of paralysis is essential for determining the appropriate treatment approach. Our <a href="<?php echo $base_url; ?>find-a-doctor.php" class="text-secondary-600 hover:underline">neurology specialists</a> at RAJ Hospital are experienced in diagnosing various types of paralysis and developing personalized treatment plans.
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Statistics:</strong>
                     <span class="text-gray-700"> According to the WHO, paralysis affects approximately 1 in 50 people globally. Stroke is the leading cause, responsible for about 80% of paralysis cases.</span>
                 </div>
 
                 <!-- Section 2: Types -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Types of Paralysis and Their Causes</h2>
+                <h2 class="raj-h2">Types of Paralysis and Their Causes</h2>
 
                 <p class="text-gray-700 mb-4">
                     Paralysis can be classified into several types based on the affected area and underlying cause:
@@ -165,7 +272,7 @@
                 </div>
 
                 <!-- Section 3: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Common Causes of Paralysis</h2>
+                <h2 class="raj-h2">Common Causes of Paralysis</h2>
 
                 <p class="text-gray-700 mb-4">
                     Understanding the <strong>causes of paralysis</strong> is crucial for appropriate treatment:
@@ -199,7 +306,7 @@
                 </div>
 
                 <!-- Section 4: Treatment Options -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Modern Paralysis Treatment Options Available in Ranchi</h2>
+                <h2 class="raj-h2">Modern Paralysis Treatment Options Available in Ranchi</h2>
 
                 <p class="text-gray-700 mb-4">
                     The <strong>treatment of paralysis</strong> depends on the underlying cause, location, and severity. At RAJ Hospital Ranchi, we offer comprehensive treatment options:
@@ -231,13 +338,13 @@
                 <p class="text-gray-700 mb-4">
                     <strong>Rehabilitation</strong> is the cornerstone of paralysis recovery. Our multidisciplinary team provides:
                 </p>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Physical Therapy</strong> - Movement exercises, gait training, and strength building</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Occupational Therapy</strong> - Daily activities training and adaptive techniques</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Speech Therapy</strong> - For communication and swallowing difficulties</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Hydrotherapy</strong> - Water-based exercises for improved mobility</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Electrical Stimulation</strong> - Modern techniques to activate muscles</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Physical Therapy</strong> - Movement exercises, gait training, and strength building</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Occupational Therapy</strong> - Daily activities training and adaptive techniques</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Speech Therapy</strong> - For communication and swallowing difficulties</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Hydrotherapy</strong> - Water-based exercises for improved mobility</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Electrical Stimulation</strong> - Modern techniques to activate muscles</li>
                     </ul>
                 </div>
 
@@ -254,7 +361,7 @@
                 </ul>
 
                 <!-- Section 5: Choosing Hospital -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">How to Choose the Best Hospital for Paralysis Treatment</h2>
+                <h2 class="raj-h2">How to Choose the Best Hospital for Paralysis Treatment</h2>
 
                 <p class="text-gray-700 mb-4">
                     Finding the <strong>best hospital for paralysis treatment in Ranchi</strong> requires careful consideration of several factors:
@@ -284,7 +391,7 @@
                 </div>
 
                 <!-- Section 6: Recovery Process -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Paralysis Recovery Process: What to Expect</h2>
+                <h2 class="raj-h2">Paralysis Recovery Process: What to Expect</h2>
 
                 <p class="text-gray-700 mb-4">
                     Recovery from paralysis is a <strong>gradual process</strong> that varies significantly from person to person. Understanding what to expect can help patients and families prepare:
@@ -305,13 +412,13 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
                     <span class="text-gray-700"> The extent of recovery depends on factors like age, cause of paralysis, severity, and how quickly treatment began. While some patients recover fully, others may need long-term care and support.</span>
                 </div>
 
                 <!-- Section 7: RAJ Hospital Services -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Why Choose RAJ Hospital for Paralysis Treatment in Ranchi?</h2>
+                <h2 class="raj-h2">Why Choose RAJ Hospital for Paralysis Treatment in Ranchi?</h2>
 
                 <p class="text-gray-700 mb-4">
                     RAJ Hospital Ranchi has established itself as a <strong>leading center for paralysis treatment</strong> in Jharkhand. Here's why patients trust us:
@@ -341,7 +448,7 @@
                 </div>
 
                 <!-- Related Conditions -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Related Neurological Conditions We Treat</h2>
+                <h2 class="raj-h2">Related Neurological Conditions We Treat</h2>
 
                 <p class="text-gray-700 mb-4">
                     Apart from paralysis, RAJ Hospital provides comprehensive treatment for various <strong>neurological conditions</strong>:
@@ -376,7 +483,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Paralysis Treatment</h2>
+                <h2 class="raj-h2">FAQs - Paralysis Treatment</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -425,7 +532,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Best Hospital for Paralysis Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?</h3>

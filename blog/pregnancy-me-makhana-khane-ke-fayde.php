@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "प्रेग्नेंसी में मखाना खाने के फायदे - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "description": "प्रेग्नेंसी में मखाना खाने के फायदे जानें। Makhana (Fox Nuts) pregnancy के दौरान क्यों beneficial है, nutrients और health benefits।",
+        "url": "https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/pregnancy-me-makhana-khane-ke-fayde.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-29",
+        "dateModified": "2026-05-29",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "प्रेग्नेंसी में मखाना खाने के फायदे - Complete Hindi Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,26 +236,26 @@
                 </p>
 
                 <!-- Section 1: What is Makhana -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">मखाना क्या है? (What is Makhana)</h2>
+                <h2 class="raj-h2">मखाना क्या है? (What is Makhana)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>मखाना (Euryale ferox)</strong> या <strong>Fox Nuts</strong> एक प्रकार का water lily का seed है जो भारत, चीन और जापान में उगाया जाता है। यह एक traditional Indian snack है जो विशेषकर Bihar औरJharkhand में प्रचुर मात्रा में पाया जाता है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Makhana Nutrition Facts (per 100g):</strong>
                     <ul class="text-sm text-gray-600 mt-2 space-y-1">
-                        <li>• Calories: 350-400 kcal</li>
-                        <li>• Protein: 9-10g</li>
-                        <li>• Carbohydrates: 70-75g</li>
-                        <li>• Calcium: 15-20mg</li>
-                        <li>• Iron: 1.5-2mg</li>
-                        <li>• Magnesium: 150-200mg</li>
+                        <li>Calories: 350-400 kcal</li>
+                        <li>Protein: 9-10g</li>
+                        <li>Carbohydrates: 70-75g</li>
+                        <li>Calcium: 15-20mg</li>
+                        <li>Iron: 1.5-2mg</li>
+                        <li>Magnesium: 150-200mg</li>
                     </ul>
                 </div>
 
                 <!-- Section 2: Benefits -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">प्रेग्नेंसी में मखाना खाने के फायदे</h2>
+                <h2 class="raj-h2">प्रेग्नेंसी में मखाना खाने के फायदे</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
@@ -181,13 +288,13 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">💡 विशेष लाभ:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="info" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i> विशेष लाभ:</strong>
                     <span class="text-gray-700"> मखाने में zero cholesterol होता है और यह heart-healthy snack है जो cardiovascular health support करता है।</span>
                 </div>
 
                 <!-- Section 3: How to Eat -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">मखाना कैसे खाएं? (How to Eat Makhana)</h2>
+                <h2 class="raj-h2">मखाना कैसे खाएं? (How to Eat Makhana)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Pregnancy में मखाना खाने के तरीके:</strong>
@@ -213,7 +320,7 @@
                 </div>
 
                 <!-- Section 4: Precautions -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">सावधानियां (Precautions)</h2>
+                <h2 class="raj-h2">सावधानियां (Precautions)</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li>मखाना खरीदते समय fresh और good quality का चयन करें</li>
@@ -230,7 +337,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -271,7 +378,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">प्रेग्नेंसी में मखाना खाने के फायदे में डॉक्टर को कब दिखाना चाहिए?</h3>

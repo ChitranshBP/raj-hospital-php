@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Is Yawning a Sign of a Heart Attack? - Complete Guide | RAJ Hospital Ranchi",
+        "description": "Is yawning a sign of a heart attack? जानें yawning और heart attack का connection, red flags, और कब worry करना चाहिए। Expert guidance।",
+        "url": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/is-yawning-a-sign-of-a-heart-attack.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Is Yawning a Sign of a Heart Attack? - Complete Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,7 +231,7 @@
                     <strong>Is yawning a sign of a heart attack?</strong> - यह एक common question है। Yawning आमतौर पर normal है और tiredness का sign है। लेकिन क्या यह heart attack का early sign हो सकता है? जानिए सच्चाई।
                 </p>
 
-                <div class="bg-blue-100 border-l-4 border-blue-600 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Good News:</strong>
                     <span class="text-gray-700"> <strong>Yawning alone heart attack का sign नहीं है।</strong> लेकिन excessive yawning कुछ underlying conditions का indication हो सकता है जो heart से related हों।</span>
                 </div>
@@ -178,22 +285,22 @@
                 </div>
 
                 <!-- Section 3: Red Flags -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">⚠️ कब Worry करना चाहिए?</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> कब Worry करना चाहिए?</h2>
 
                 <p class="text-gray-700 mb-4">
                     अगर yawning accompanied है other symptoms के साथ, तो यह heart attack का sign हो सकता है:
                 </p>
 
-                <div class="bg-red-100 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Emergency Signs - Immediately Medical Help लें:</strong>
                     <ul class="mt-2 space-y-1 text-gray-700">
-                        <li>• <strong>Chest discomfort या pain</strong> जो नहीं जाती</li>
-                        <li>• <strong>Shortness of breath</strong></li>
-                        <li>• <strong>Arm, jaw, या back में pain</strong></li>
-                        <li>• <strong>Excessive sweating</strong></li>
-                        <li>• <strong>Lightheadedness या dizziness</strong></li>
-                        <li>• <strong>Nausea या vomiting</strong></li>
-                        <li>• <strong>Excessive yawning जो unusual हो</strong></li>
+                        <li><strong>Chest discomfort या pain</strong> जो नहीं जाती</li>
+                        <li><strong>Shortness of breath</strong></li>
+                        <li><strong>Arm, jaw, या back में pain</strong></li>
+                        <li><strong>Excessive sweating</strong></li>
+                        <li><strong>Lightheadedness या dizziness</strong></li>
+                        <li><strong>Nausea या vomiting</strong></li>
+                        <li><strong>Excessive yawning जो unusual हो</strong></li>
                     </ul>
                 </div>
 
@@ -204,21 +311,21 @@
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Medical Conditions</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Sleep apnea</li>
-                            <li>• Multiple sclerosis</li>
-                            <li>• Epilepsy</li>
-                            <li>• Brain tumor</li>
-                            <li>• Thyroid problems</li>
+                            <li>Sleep apnea</li>
+                            <li>Multiple sclerosis</li>
+                            <li>Epilepsy</li>
+                            <li>Brain tumor</li>
+                            <li>Thyroid problems</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Lifestyle Factors</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Poor sleep quality</li>
-                            <li>• Medications (antidepressants, antihistamines)</li>
-                            <li>• Anxiety या stress</li>
-                            <li>• Dehydration</li>
-                            <li>• Low blood sugar</li>
+                            <li>Poor sleep quality</li>
+                            <li>Medications (antidepressants, antihistamines)</li>
+                            <li>Anxiety या stress</li>
+                            <li>Dehydration</li>
+                            <li>Low blood sugar</li>
                         </ul>
                     </div>
                 </div>
@@ -272,7 +379,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Is Yawning a Sign of a Heart Attack? में डॉक्टर को कब दिखाना चाहिए?</h3>

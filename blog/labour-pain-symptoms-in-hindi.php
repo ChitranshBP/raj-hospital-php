@@ -139,6 +139,32 @@
         ]
     }
     </script>
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -180,7 +206,7 @@
                     <span class="text-gray-700"> हर pregnancy अलग होती है। अगर आपको कोई भी असामान्य symptom दिखे, तो immediately अपने doctor से contact करें। RAJ Hospital Ranchi में 24/7 emergency maternity care available है।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">प्रसव पीड़ा (Labour Pain) क्या है?</h2>
+                <h2 class="raj-h2-secondary">प्रसव पीड़ा (Labour Pain) क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Labour pain</strong> वह दर्द है जो बच्चे के जन्म देने की प्रक्रिया में होता है। यह दर्द uterus (गर्भाशय) की contractions से होता है जो cervix (गर्भाशय ग्रीवा) को खोलने और baby को बाहर निकालने के लिए होती है।
@@ -209,40 +235,40 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">असली vs झूठी प्रसव पीड़ा (True vs False Labour)</h2>
+                <h2 class="raj-h2-secondary">असली vs झूठी प्रसव पीड़ा (True vs False Labour)</h2>
 
                 <p class="text-gray-700 mb-4">
                     यह पहचानना important है कि आपकी <strong>pain real labour</strong> है या <strong>Braxton Hicks contractions</strong> (झूठी पीड़ा):
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-600">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700 mb-2">असली प्रसव पीड़ा (True Labour)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Contractions नियमित और predictable</li>
-                            <li>• Time के साथ stronger और frequent</li>
-                            <li>• दर्द बढ़ता जाता है</li>
-                            <li>• Position change से कम नहीं होती</li>
-                            <li>• आराम से कम नहीं होती</li>
-                            <li>• Lower back pain के साथ</li>
-                            <li>• cervix dilate करती है</li>
+                            <li>Contractions नियमित और predictable</li>
+                            <li>Time के साथ stronger और frequent</li>
+                            <li>दर्द बढ़ता जाता है</li>
+                            <li>Position change से कम नहीं होती</li>
+                            <li>आराम से कम नहीं होती</li>
+                            <li>Lower back pain के साथ</li>
+                            <li>cervix dilate करती है</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700 mb-2">झूठी प्रसव पीड़ा (False Labour/Braxton Hicks)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Contractions irregular</li>
-                            <li>• intensity में नहीं बढ़ती</li>
-                            <li>• दर्द constant नहीं</li>
-                            <li>• Walking से कम हो सकती</li>
-                            <li>• Shower या rest से relieved</li>
-                            <li>• शुद्ध lower abdomen में</li>
-                            <li>• cervix पर कोई effect नहीं</li>
+                            <li>Contractions irregular</li>
+                            <li>intensity में नहीं बढ़ती</li>
+                            <li>दर्द constant नहीं</li>
+                            <li>Walking से कम हो सकती</li>
+                            <li>Shower या rest से relieved</li>
+                            <li>शुद्ध lower abdomen में</li>
+                            <li>cervix पर कोई effect नहीं</li>
                         </ul>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">प्रसव पीड़ा के लक्षण (Labour Pain Symptoms)</h2>
+                <h2 class="raj-h2-secondary">प्रसव पीड़ा के लक्षण (Labour Pain Symptoms)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Labour pain ke lakshan</strong> महिला से महिला में अलग हो सकते हैं, लेकिन कुछ common symptoms जो大多数 women experience करती हैं:
@@ -259,46 +285,46 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">प्रसव के अन्य संकेत (Other Signs of Labour)</h2>
+                <h2 class="raj-h2-secondary">प्रसव के अन्य संकेत (Other Signs of Labour)</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">शारीरिक बदलाव</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Diarrhea या nausea</li>
-                            <li>• Mood changes या emotional feeling</li>
-                            <li>• Energy surge या fatigue</li>
-                            <li>• Weight loss (fluid loss से)</li>
-                            <li>• Lightning crotch (pelvic pressure)</li>
+                            <li>Diarrhea या nausea</li>
+                            <li>Mood changes या emotional feeling</li>
+                            <li>Energy surge या fatigue</li>
+                            <li>Weight loss (fluid loss से)</li>
+                            <li>Lightning crotch (pelvic pressure)</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2"> cervix के बदलाव</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Effacement (cervix पतली होना)</li>
-                            <li>• Dilation (खुलना)</li>
-                            <li>• Softening</li>
-                            <li>• ये सब doctor द्वारा check किए जाते हैं</li>
+                            <li>Effacement (cervix पतली होना)</li>
+                            <li>Dilation (खुलना)</li>
+                            <li>Softening</li>
+                            <li>ये सब doctor द्वारा check किए जाते हैं</li>
                         </ul>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">कब Hospital जाएं? (When to Go to Hospital)</h2>
+                <h2 class="raj-h2-secondary">कब Hospital जाएं? (When to Go to Hospital)</h2>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <h4 class="font-bold text-red-700 mb-2">Emergency Signs - तुरंत Hospital जाएं:</h4>
                     <ul class="text-gray-700 space-y-1">
-                        <li>• <strong>5-1-1 Rule:</strong> contractions हर 5 मिनट में, 1 minute के लिए, 1 hour से ज्यादा</li>
-                        <li>• Amniotic fluid का टूटना (भले ही contractions न हों)</li>
-                        <li>• Heavy vaginal bleeding</li>
-                        <li>• बच्चे की movement में कमी</li>
-                        <li>• Blurred vision, severe headache, या sudden swelling</li>
-                        <li>• Fever या chills</li>
-                        <li>• Persistent severe pain</li>
+                        <li><strong>5-1-1 Rule:</strong> contractions हर 5 मिनट में, 1 minute के लिए, 1 hour से ज्यादा</li>
+                        <li>Amniotic fluid का टूटना (भले ही contractions न हों)</li>
+                        <li>Heavy vaginal bleeding</li>
+                        <li>बच्चे की movement में कमी</li>
+                        <li>Blurred vision, severe headache, या sudden swelling</li>
+                        <li>Fever या chills</li>
+                        <li>Persistent severe pain</li>
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">प्रसव पीड़ा में दर्द management</h2>
+                <h2 class="raj-h2-secondary">प्रसव पीड़ा में दर्द management</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Labour pain management</strong> के कई options हैं:
@@ -308,26 +334,26 @@
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">1. Natural Pain Relief Methods</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Deep breathing exercises</li>
-                            <li>• Position changes (walking, squatting, hands-and-knees)</li>
-                            <li>• Warm shower या bath</li>
-                            <li>• Massage (lower back, shoulders)</li>
-                            <li>• Birth ball का use</li>
-                            <li>• Music या meditation</li>
+                            <li>Deep breathing exercises</li>
+                            <li>Position changes (walking, squatting, hands-and-knees)</li>
+                            <li>Warm shower या bath</li>
+                            <li>Massage (lower back, shoulders)</li>
+                            <li>Birth ball का use</li>
+                            <li>Music या meditation</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">2. Medical Pain Relief</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Epidural anesthesia (सबसे common और effective)</li>
-                            <li>• Spinal block</li>
-                            <li>• IV pain medications</li>
-                            <li>• Nitrous oxide (gas/air)</li>
+                            <li>Epidural anesthesia (सबसे common और effective)</li>
+                            <li>Spinal block</li>
+                            <li>IV pain medications</li>
+                            <li>Nitrous oxide (gas/air)</li>
                         </ul>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">प्रसव की तैयारी (Preparing for Labour)</h2>
+                <h2 class="raj-h2-secondary">प्रसव की तैयारी (Preparing for Labour)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Labour ki taiyari</strong> के लिए पहले से planning करें:
@@ -337,23 +363,23 @@
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">पहले से करें</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Hospital tour लें</li>
-                            <li>• Labour plan (birth plan) बनाएं</li>
-                            <li>• Delivery bag pack करें</li>
-                            <li>• Doctor से pain relief options discuss करें</li>
-                            <li>• Labour breathing techniques सीखें</li>
-                            <li>• Support person की arrangement करें</li>
+                            <li>Hospital tour लें</li>
+                            <li>Labour plan (birth plan) बनाएं</li>
+                            <li>Delivery bag pack करें</li>
+                            <li>Doctor से pain relief options discuss करें</li>
+                            <li>Labour breathing techniques सीखें</li>
+                            <li>Support person की arrangement करें</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Delivery Bag में रखें</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Documents (ID, insurance)</li>
-                            <li>• Comfortable clothes</li>
-                            <li>• Toiletries</li>
-                            <li>• Phone charger</li>
-                            <li>• Baby clothes</li>
-                            <li>• Snacks और water bottle</li>
+                            <li>Documents (ID, insurance)</li>
+                            <li>Comfortable clothes</li>
+                            <li>Toiletries</li>
+                            <li>Phone charger</li>
+                            <li>Baby clothes</li>
+                            <li>Snacks और water bottle</li>
                         </ul>
                     </div>
                 </div>
@@ -364,7 +390,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">FAQs - अक्सर पूछे जाने वाले सवाल</h2>
+                <h2 class="raj-h2-secondary">FAQs - अक्सर पूछे जाने वाले सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">

@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Can Gas Cause Heart Attack? - Complete Guide | RAJ Hospital Ranchi",
+        "description": "Can gas cause heart attack? जानें gas और heart attack का connection, symptoms difference और कब medical help लें। Expert guidance by RAJ Hospital Ranchi।",
+        "url": "https://rajhospitals.com/blog/can-gas-cause-heart-attack.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/can-gas-cause-heart-attack.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/can-gas-cause-heart-attack.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Can Gas Cause Heart Attack? - Complete Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,7 +231,7 @@
                     <strong>Can gas cause a heart attack?</strong> यह एक common worry है जब लोगों को chest pain होता है। Gas और heart attack के symptoms कभी-कभी similar हो सकते हैं, लेकिन इनका treatment बहुत different है।
                 </p>
 
-                <div class="bg-orange-100 border-l-4 border-orange-600 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-orange-700">Important Fact:</strong>
                     <span class="text-gray-700"> <strong>Gas directly heart attack नहीं करता</strong>, लेकिन gas pain (wind) को heart pain के साथ confuse किया जा सकता है। सही diagnosis के लिए symptoms को समझना ज़रूरी है।</span>
                 </div>
@@ -204,37 +311,37 @@
                     <div class="bg-orange-50 p-4 rounded-lg">
                         <h4 class="font-bold text-orange-600 mb-2">Dietary Causes</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Beans, lentils, cabbage</li>
-                            <li>• Carbonated drinks</li>
-                            <li>• Dairy (lactose intolerance)</li>
-                            <li>• Fried/fatty foods</li>
-                            <li>• Artificial sweeteners</li>
+                            <li>Beans, lentils, cabbage</li>
+                            <li>Carbonated drinks</li>
+                            <li>Dairy (lactose intolerance)</li>
+                            <li>Fried/fatty foods</li>
+                            <li>Artificial sweeteners</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Lifestyle Causes</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Eating too fast</li>
-                            <li>• Chewing gum</li>
-                            <li>• Smoking</li>
-                            <li>• Wearing tight clothes</li>
-                            <li>• Stress और anxiety</li>
+                            <li>Eating too fast</li>
+                            <li>Chewing gum</li>
+                            <li>Smoking</li>
+                            <li>Wearing tight clothes</li>
+                            <li>Stress और anxiety</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 4: Warning Signs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-orange-600 pb-2 mt-8 mb-4">⚠️ कब Immediately Medical Help लें?</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-orange-600 pb-2 mt-8 mb-4"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> कब Immediately Medical Help लें?</h2>
 
                 <div class="bg-red-100 border-2 border-red-500 p-4 rounded-lg mb-6">
                     <strong class="text-red-700 text-lg">Emergency Signs - ये Heart Attack के हो सकते हैं:</strong>
                     <ul class="mt-2 space-y-1 text-gray-700">
-                        <li>• <strong>Chest pressure जो 2-3 minutes से अधिक</strong> रहे</li>
-                        <li>• <strong>Left arm या jaw में दर्द</strong></li>
-                        <li>• <strong>Shortness of breath</strong></li>
-                        <li>• <strong>Cold sweating, nausea</strong></li>
-                        <li>• <strong>Dizziness या fainting</strong></li>
-                        <li>• <strong>Pain physical exertion से बढ़े</strong></li>
+                        <li><strong>Chest pressure जो 2-3 minutes से अधिक</strong> रहे</li>
+                        <li><strong>Left arm या jaw में दर्द</strong></li>
+                        <li><strong>Shortness of breath</strong></li>
+                        <li><strong>Cold sweating, nausea</strong></li>
+                        <li><strong>Dizziness या fainting</strong></li>
+                        <li><strong>Pain physical exertion से बढ़े</strong></li>
                     </ul>
                 </div>
 
@@ -249,21 +356,21 @@
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-orange-600">Quick Relief</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Antacids (Tums, Digene)</li>
-                            <li>• Simethicone (Gas-X, Gelusil)</li>
-                            <li>• Warm water drink</li>
-                            <li>• Walking या light exercise</li>
-                            <li>• Peppermint tea</li>
+                            <li>Antacids (Tums, Digene)</li>
+                            <li>Simethicone (Gas-X, Gelusil)</li>
+                            <li>Warm water drink</li>
+                            <li>Walking या light exercise</li>
+                            <li>Peppermint tea</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-orange-600">Prevention</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Slowly खाएं, चबाकर खाएं</li>
-                            <li>• Carbonated drinks कम करें</li>
-                            <li>• Gas-producing foods avoid करें</li>
-                            <li>• After eating ना lying हो</li>
-                            <li>• Probiotics लें</li>
+                            <li>Slowly खाएं, चबाकर खाएं</li>
+                            <li>Carbonated drinks कम करें</li>
+                            <li>Gas-producing foods avoid करें</li>
+                            <li>After eating ना lying हो</li>
+                            <li>Probiotics लें</li>
                         </ul>
                     </div>
                 </div>
@@ -317,7 +424,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Can Gas Cause Heart Attack? में डॉक्टर को कब दिखाना चाहिए?</h3>

@@ -105,6 +105,59 @@
         ]
     }
     </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Urine Infection Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -146,7 +199,7 @@
                     <span class="text-gray-700"> पुरुषों में UTI को ignore न करें। यह kidney infection या prostate infection में बदल सकता है। RAJ Hospital Ranchi में इसका complete diagnosis और treatment available है।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">UTI (मूत्र संक्रमण) क्या है?</h2>
+                <h2 class="raj-h2-secondary">UTI (मूत्र संक्रमण) क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>UTI</strong> तब होती है जब bacteria (usually <strong>E. coli</strong>) urinary tract में enter करती हैं और infection करती हैं। यह urethra, bladder, ureters, या kidneys को affect कर सकती है।
@@ -156,7 +209,7 @@
                     पुरुषों में UTI generally कम common है because उनका urethra (पेशाब की नली) women से ज्यादा long होती है, जो bacteria को bladder तक पहुंचने से पहले ही रोकती है। लेकिन बढ़ती उम्र, prostate problems, या other medical conditions UTI risk बढ़ा सकते हैं।
                 </p>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">पुरुषों में UTI के लक्षण (Symptoms)</h2>
+                <h2 class="raj-h2-secondary">पुरुषों में UTI के लक्षण (Symptoms)</h2>
 
                 <div class="bg-blue-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <h4 class="font-bold text-primary-600 mb-2">Primary Symptoms (मुख्य लक्षण):</h4>
@@ -170,21 +223,21 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Severe Infection के Symptoms (Kidney/Prostate में फैलने पर)</h2>
+                <h2 class="raj-h2-secondary">Severe Infection के Symptoms (Kidney/Prostate में फैलने पर)</h2>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <ul class="text-gray-700 space-y-2">
-                        <li>• High fever (>101°F)</li>
-                        <li>• Chills और shivering</li>
-                        <li>• तेज lower back pain (kidney area)</li>
-                        <li>• Nausea और vomiting</li>
-                        <li>• बड़े prostate से pain (perineal area)</li>
-                        <li>• General weakness और fatigue</li>
+                        <li>High fever (>101°F)</li>
+                        <li>Chills और shivering</li>
+                        <li>तेज lower back pain (kidney area)</li>
+                        <li>Nausea और vomiting</li>
+                        <li>बड़े prostate से pain (perineal area)</li>
+                        <li>General weakness और fatigue</li>
                     </ul>
                     <p class="text-red-700 font-bold mt-2">यह symptoms हों तो immediately doctor से मिलें!</p>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">UTI के कारण (Causes)</h2>
+                <h2 class="raj-h2-secondary">UTI के कारण (Causes)</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
@@ -213,7 +266,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">UTI का Diagnosis</h2>
+                <h2 class="raj-h2-secondary">UTI का Diagnosis</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -234,48 +287,48 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">UTI का इलाज (Treatment)</h2>
+                <h2 class="raj-h2-secondary">UTI का इलाज (Treatment)</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Antibiotics (मुख्य इलाज):</h3>
                 <div class="bg-blue-50 p-4 rounded-lg mb-6">
                     <ul class="text-gray-700 space-y-2">
-                        <li>• Nitrofurantoin</li>
-                        <li>• Trimethoprim-sulfamethoxazole (Bactrim)</li>
-                        <li>• Fluoroquinolones (Ciprofloxacin, Levofloxacin)</li>
-                        <li>• Fosfomycin</li>
+                        <li>Nitrofurantoin</li>
+                        <li>Trimethoprim-sulfamethoxazole (Bactrim)</li>
+                        <li>Fluoroquinolones (Ciprofloxacin, Levofloxacin)</li>
+                        <li>Fosfomycin</li>
                     </ul>
                     <p class="text-gray-700 mt-2"><strong>नोट:</strong> दवाई पूरी course complete करें, भले ही symptoms better feel हों।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Home Care और Supportive Measures:</h3>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li>• <strong>ज्यादा पानी पिएं</strong> - दिन में 8-10 glasses। यह bacteria को flush करने में help करता है।</li>
-                    <li>• <strong>Cranberry juice</strong> - कुछ studies में UTI prevention में helpful पाई गई है।</li>
-                    <li>• <strong>Avoid caffeine और alcohol</strong> - ये bladder को irritate कर सकते हैं।</li>
-                    <li>• <strong>Rest करें</strong> - शरीर को heal होने दें।</li>
-                    <li>• <strong>Heat therapy</strong> - नीचे पेट में दर्द के लिए warm compress।</li>
+                    <li><strong>ज्यादा पानी पिएं</strong> - दिन में 8-10 glasses। यह bacteria को flush करने में help करता है।</li>
+                    <li><strong>Cranberry juice</strong> - कुछ studies में UTI prevention में helpful पाई गई है।</li>
+                    <li><strong>Avoid caffeine और alcohol</strong> - ये bladder को irritate कर सकते हैं।</li>
+                    <li><strong>Rest करें</strong> - शरीर को heal होने दें।</li>
+                    <li><strong>Heat therapy</strong> - नीचे पेट में दर्द के लिए warm compress।</li>
                 </ul>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">UTI से बचाव (Prevention)</h2>
+                <h2 class="raj-h2-secondary">UTI से बचाव (Prevention)</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-600">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700 mb-2">करें (Do)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• ज्यादा पानी पिएं</li>
-                            <li>• bladder को पूरी तरह empty करें</li>
-                            <li>• proper hygiene maintain करें</li>
-                            <li>• cotton underwear पहनें</li>
-                            <li>• sexual activity के बाद पेशाब करें</li>
+                            <li>ज्यादा पानी पिएं</li>
+                            <li>bladder को पूरी तरह empty करें</li>
+                            <li>proper hygiene maintain करें</li>
+                            <li>cotton underwear पहनें</li>
+                            <li>sexual activity के बाद पेशाब करें</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700 mb-2">न करें (Don't)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• bladder में पेशाब hold न करें</li>
-                            <li>• harsh soaps use न करें</li>
-                            <li>• tight clothes पहनने से बचें</li>
-                            <li>• scented products avoid करें</li>
+                            <li>bladder में पेशाब hold न करें</li>
+                            <li>harsh soaps use न करें</li>
+                            <li>tight clothes पहनने से बचें</li>
+                            <li>scented products avoid करें</li>
                         </ul>
                     </div>
                 </div>
@@ -286,7 +339,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">FAQs</h2>
+                <h2 class="raj-h2-secondary">FAQs</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">

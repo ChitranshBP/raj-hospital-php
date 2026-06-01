@@ -215,6 +215,61 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand | RAJ Hospital",
+        "description": "Heart attack symptoms differ significantly between men and women. Learn the warning signs unique to each gender, when to seek emergency care, and how RAJ Hospital Ranchi provides 24/7 cardiac emergency treatment.",
+        "url": "https://rajhospitals.com/blog/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -281,19 +336,19 @@
                     <div class="bg-red-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">Men</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Typically experience heart attacks at younger ages</li>
-                            <li>• More likely to have classic symptoms</li>
-                            <li>• Higher rate of initial cardiac events</li>
-                            <li>• More commonly affected by smoking and alcohol</li>
+                            <li>Typically experience heart attacks at younger ages</li>
+                            <li>More likely to have classic symptoms</li>
+                            <li>Higher rate of initial cardiac events</li>
+                            <li>More commonly affected by smoking and alcohol</li>
                         </ul>
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">Women</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Often experience symptoms weeks before attack</li>
-                            <li>• More likely to have silent or subtle symptoms</li>
-                            <li>• Higher mortality rate post-heart attack</li>
-                            <li>• More affected by stress and depression</li>
+                            <li>Often experience symptoms weeks before attack</li>
+                            <li>More likely to have silent or subtle symptoms</li>
+                            <li>Higher mortality rate post-heart attack</li>
+                            <li>More affected by stress and depression</li>
                         </ul>
                     </div>
                 </div>
@@ -362,7 +417,7 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
                     <span class="text-gray-700"> Research from the American Heart Association shows that 78% of women experience multiple subtle symptoms in the weeks before a heart attack, but only 30% seek medical help. Early recognition and immediate action are crucial for survival.</span>
                 </div>
@@ -450,21 +505,21 @@
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700 mb-2">For Men</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Quit smoking and limit alcohol</li>
-                            <li>• Exercise for at least 30 minutes daily</li>
-                            <li>• Manage stress through meditation or hobbies</li>
-                            <li>• Regular cardiac check-ups after age 35</li>
-                            <li>• Monitor blood pressure and cholesterol</li>
+                            <li>Quit smoking and limit alcohol</li>
+                            <li>Exercise for at least 30 minutes daily</li>
+                            <li>Manage stress through meditation or hobbies</li>
+                            <li>Regular cardiac check-ups after age 35</li>
+                            <li>Monitor blood pressure and cholesterol</li>
                         </ul>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-700 mb-2">For Women</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Pay attention to subtle warning signs</li>
-                            <li>• Don't dismiss unusual fatigue or anxiety</li>
-                            <li>• Balance work and personal life to reduce stress</li>
-                            <li>• Regular cardiac screening especially post-menopause</li>
-                            <li>• Discuss heart health during routine check-ups</li>
+                            <li>Pay attention to subtle warning signs</li>
+                            <li>Don't dismiss unusual fatigue or anxiety</li>
+                            <li>Balance work and personal life to reduce stress</li>
+                            <li>Regular cardiac screening especially post-menopause</li>
+                            <li>Discuss heart health during routine check-ups</li>
                         </ul>
                     </div>
                 </div>
@@ -563,7 +618,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand में डॉक्टर को कब दिखाना चाहिए?</h3>

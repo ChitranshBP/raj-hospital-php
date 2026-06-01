@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Best Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi",
+        "description": "Diabetes patients के लिए best Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।",
+        "url": "https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/best-indian-diet-plan-for-diabetes-patients.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Best Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: Understanding Diabetes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Understanding Diabetes and Diet Connection</h2>
+                <h2 class="raj-h2">Understanding Diabetes and Diet Connection</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Diabetes</strong> is a chronic condition that affects how your body processes blood glucose (sugar). When we eat, food is broken down into glucose, which enters the bloodstream. The hormone <strong>insulin</strong>, produced by the pancreas, helps cells absorb glucose for energy. In diabetes, either the body doesn't produce enough insulin or cells become resistant to its action.
@@ -133,13 +240,13 @@
                     Diet plays a crucial role in diabetes management because different foods affect blood sugar levels differently. Understanding the <strong>glycemic index (GI)</strong> of foods is essential - high GI foods cause rapid blood sugar spikes, while low GI foods provide steady, gradual energy release. Our <a href="<?php echo $base_url; ?>find-a-doctor.php" class="text-secondary-600 hover:underline">endocrinology specialists</a> at RAJ Hospital can help you create a personalized diabetes management plan.
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Fact:</strong>
                     <span class="text-gray-700"> According to the International Diabetes Federation, India has over 77 million people living with diabetes, making it the second most affected country in the world. Proper diet and lifestyle can prevent or delay diabetes complications.</span>
                 </div>
 
                 <!-- Section 2: Understanding GI -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Understanding Glycemic Index (GI) in Indian Foods</h2>
+                <h2 class="raj-h2">Understanding Glycemic Index (GI) in Indian Foods</h2>
 
                 <p class="text-gray-700 mb-4">
                     The <strong>glycemic index</strong> is a ranking system for carbohydrates in foods, showing how quickly they raise blood sugar levels. For diabetes management, focusing on low to medium GI foods is crucial:
@@ -185,7 +292,7 @@
                 </div>
 
                 <!-- Section 3: Foods to Include -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Best Indian Foods for Diabetes Patients</h2>
+                <h2 class="raj-h2">Best Indian Foods for Diabetes Patients</h2>
 
                 <p class="text-gray-700 mb-4">
                     The Indian kitchen is filled with <strong>diabetes-friendly foods</strong> that are not only nutritious but also delicious. Here are the foods you should include in your daily diet:
@@ -227,44 +334,44 @@
                 <p class="text-gray-700 mb-4">
                     Indian spices do more than add flavor - many have <strong>anti-diabetic properties</strong>:
                 </p>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Turmeric (Haldi)</strong> - Contains curcumin, improves insulin sensitivity</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Cinnamon (Dalchini)</strong> - Helps lower blood sugar levels</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Fenugreek (Methi)</strong> - Seeds and leaves help control blood sugar</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Garlic (Lahsun)</strong> - Improves glucose metabolism</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Curry Leaves (Kadi Patta)</strong> - Shown to reduce blood sugar</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Turmeric (Haldi)</strong> - Contains curcumin, improves insulin sensitivity</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Cinnamon (Dalchini)</strong> - Helps lower blood sugar levels</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Fenugreek (Methi)</strong> - Seeds and leaves help control blood sugar</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Garlic (Lahsun)</strong> - Improves glucose metabolism</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Curry Leaves (Kadi Patta)</strong> - Shown to reduce blood sugar</li>
                     </ul>
                 </div>
 
                 <!-- Section 4: Foods to Avoid -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Foods to Avoid in Diabetes</h2>
+                <h2 class="raj-h2">Foods to Avoid in Diabetes</h2>
 
                 <p class="text-gray-700 mb-4">
                     While managing diabetes, these foods should be limited or avoided:
                 </p>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Refined Carbohydrates</h4>
                         <p class="text-sm text-gray-600">White rice, white bread, maida (refined flour), puris - these cause rapid blood sugar spikes. Replace with whole grain alternatives.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Sugary Foods</h4>
                         <p class="text-sm text-gray-600">Sweets, candies, pastries, ice cream, sugary drinks (lassi, nimbu pani with sugar), and desserts. Use natural sweeteners in moderation if needed.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Fried Foods</h4>
                         <p class="text-sm text-gray-600">Samosas, pakoras, vadas, fried rice - high in unhealthy fats that contribute to insulin resistance.</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Fruit Juices</h4>
                         <p class="text-sm text-gray-600">Even fresh fruit juices lack fiber and cause quick sugar absorption. Eat whole fruits instead (avoid very sweet fruits like mangoes in excess).</p>
                     </div>
                 </div>
 
                 <!-- Section 5: Sample Diet Plan -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Sample Indian Diet Plan for Diabetes (2000 Calories)</h2>
+                <h2 class="raj-h2">Sample Indian Diet Plan for Diabetes (2000 Calories)</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Early Morning (6:00-7:00 AM)</h3>
                 <div class="bg-gray-50 p-4 rounded-lg mb-6">
@@ -324,19 +431,19 @@
                     </ul>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important Tips:</strong>
                     <ul class="space-y-1 text-gray-700 mt-2">
-                        <li>• Use olive oil or mustard oil for cooking</li>
-                        <li>• Include 2-3 servings of vegetables daily</li>
-                        <li>• Stay hydrated with 8-10 glasses of water</li>
-                        <li>• Exercise 30 minutes daily (walk, yoga, or light exercise)</li>
-                        <li>• Monitor blood sugar regularly</li>
+                        <li>Use olive oil or mustard oil for cooking</li>
+                        <li>Include 2-3 servings of vegetables daily</li>
+                        <li>Stay hydrated with 8-10 glasses of water</li>
+                        <li>Exercise 30 minutes daily (walk, yoga, or light exercise)</li>
+                        <li>Monitor blood sugar regularly</li>
                     </ul>
                 </div>
 
                 <!-- Section 6: Benefits of Indian Diet -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Why Indian Diet Works for Diabetes</h2>
+                <h2 class="raj-h2">Why Indian Diet Works for Diabetes</h2>
 
                 <p class="text-gray-700 mb-4">
                     The traditional <strong>Indian diet</strong> is naturally suited for diabetes management for several reasons:
@@ -362,20 +469,20 @@
                 </div>
 
                 <!-- Section 7: Additional Tips -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Additional Tips for Diabetes Management</h2>
+                <h2 class="raj-h2">Additional Tips for Diabetes Management</h2>
 
                 <p class="text-gray-700 mb-4">
                     Beyond diet, these lifestyle changes can significantly improve your <strong>diabetes control</strong>:
                 </p>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Regular Exercise:</strong> 30 minutes of moderate activity daily - walking, cycling, or yoga</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Weight Management:</strong> Even 5-10% weight loss can improve blood sugar control</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Stress Management:</strong> Practice meditation or deep breathing - stress hormones affect blood sugar</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Quality Sleep:</strong> 7-8 hours of sleep helps regulate hormones</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Regular Monitoring:</strong> Check blood sugar levels as recommended by your doctor</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Moringa Supplement:</strong> Consider adding <a href="<?php echo $base_url; ?>best-ways-to-take-moringa-for-managing-diabetes/" class="text-secondary-600 hover:underline">moringa to your routine</a></li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Exercise:</strong> 30 minutes of moderate activity daily - walking, cycling, or yoga</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Weight Management:</strong> Even 5-10% weight loss can improve blood sugar control</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Stress Management:</strong> Practice meditation or deep breathing - stress hormones affect blood sugar</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quality Sleep:</strong> 7-8 hours of sleep helps regulate hormones</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Monitoring:</strong> Check blood sugar levels as recommended by your doctor</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Moringa Supplement:</strong> Consider adding <a href="<?php echo $base_url; ?>best-ways-to-take-moringa-for-managing-diabetes/" class="text-secondary-600 hover:underline">moringa to your routine</a></li>
                     </ul>
                 </div>
 
@@ -387,7 +494,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Indian Diet Plan for Diabetes</h2>
+                <h2 class="raj-h2">FAQs - Indian Diet Plan for Diabetes</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -436,7 +543,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Best Indian Diet Plan for Diabetes Patients में डॉक्टर को कब दिखाना चाहिए?</h3>

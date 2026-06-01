@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Allergy Headache - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi",
+        "description": "Allergy Headache का complete guide - causes, symptoms और relief options। जानें कैसे allergies headache कराती हैं और कैसे relief पाएं।",
+        "url": "https://rajhospitals.com/blog/can-allergies-cause-headaches-causes-symptoms-relief.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/can-allergies-cause-headaches-causes-symptoms-relief.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/can-allergies-cause-headaches-causes-symptoms-relief.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Allergy Headache - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,7 +231,7 @@
                     <strong>Allergy Headache</strong> एक common problem है जो millions लोगों को affect करती है। जब allergies headache का कारण बनती हैं, तो understand करना important है कि यह कैसे होती है और क्या options available हैं।
                 </p>
 
-                <div class="bg-amber-100 border-l-4 border-amber-600 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-amber-700">Key Insight:</strong>
                     <span class="text-gray-700"> Allergy headaches अक्सर <strong>sinus headaches</strong> के रूप में appear करती हैं - frontal pressure, facial pain, और congestion के साथ।</span>
                 </div>
@@ -158,21 +265,21 @@
                     <div class="bg-amber-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600 mb-2">Primary Symptoms</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Forehead और temple area दर्द</li>
-                            <li>• Facial pressure और fullness</li>
-                            <li>• Nasal congestion</li>
-                            <li>• Watery, itchy eyes</li>
-                            <li>• Sneezing और runny nose</li>
+                            <li>Forehead और temple area दर्द</li>
+                            <li>Facial pressure और fullness</li>
+                            <li>Nasal congestion</li>
+                            <li>Watery, itchy eyes</li>
+                            <li>Sneezing और runny nose</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Associated Symptoms</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Fatigue</li>
-                            <li>• Sore throat</li>
-                            <li>• Reduced smell sense</li>
-                            <li>• Ear fullness</li>
-                            <li>• Difficulty concentrating</li>
+                            <li>Fatigue</li>
+                            <li>Sore throat</li>
+                            <li>Reduced smell sense</li>
+                            <li>Ear fullness</li>
+                            <li>Difficulty concentrating</li>
                         </ul>
                     </div>
                 </div>
@@ -229,22 +336,22 @@
                 <h3 class="text-lg font-bold text-gray-800 mb-3">Immediate Relief</h3>
                 <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">💊</div>
+                        <div class="text-2xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-green-600 text-sm">Antihistamines</h4>
                         <p class="text-xs text-gray-600">Block histamine response</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🧂</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-gray" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-green-600 text-sm">Nasal Spray</h4>
                         <p class="text-xs text-gray-600">Clear nasal passages</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">💨</div>
+                        <div class="text-2xl mb-2"><i data-feather="wind" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-green-600 text-sm">Steam</h4>
                         <p class="text-xs text-gray-600">Sinus pressure relief</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🥤</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-green-600 text-sm">Hydration</h4>
                         <p class="text-xs text-gray-600">Thin mucus, reduce pain</p>
                     </div>
@@ -308,7 +415,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Allergy Headache - Causes, Symptoms और Relief Guide में डॉक्टर को कब दिखाना चाहिए?</h3>

@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital",
+        "description": "Sugar symptoms in Hindi - diabetes ke early warning signs aur symptoms। High aur low blood sugar के symptoms, causes, prevention aur treatment।",
+        "url": "https://rajhospitals.com/blog/sugar-symptoms-in-hindi",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/sugar-symptoms-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/sugar-symptoms-in-hindi",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: Understanding Blood Sugar -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Blood Sugar (Glucose) Kya Hai?</h2>
+                <h2 class="raj-h2">Blood Sugar (Glucose) Kya Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Blood glucose</strong> हमारे शरीर की main energy source है। जब हम खाना खाते हैं, तो food glucose में convert होता है जो cells को energy देता है। <strong>Insulin</strong> hormone इस glucose को cells में entry कराने में मदद करता है।
@@ -144,13 +251,13 @@
                     </div>
                 </div>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">HbA1c Test:</strong>
                     <span class="text-gray-700"> यह test past 2-3 months की average blood sugar level दिखाता है। 6.5% से ज्यादा diabetes indicate करता है।</span>
                 </div>
 
                 <!-- Section 2: High Sugar Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">High Blood Sugar (Hyperglycemia) Ke Symptoms</h2>
+                <h2 class="raj-h2">High Blood Sugar (Hyperglycemia) Ke Symptoms</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>High blood sugar (sugar high)</strong> के symptoms usually gradually develop होते हैं aur initially mild हो सकते हैं।
@@ -158,23 +265,23 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Primary Symptoms (High Sugar)</h3>
                 <div class="space-y-4 mb-6">
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">1. Frequent Urination (Urine bahut aana)</h4>
                         <p class="text-sm text-gray-600">Body excess glucose को kidneys के through filter करने की कोशिश करता है, जिससे ज्यादा urination होती है।</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">2. Excessive Thirst (Bahut pyas)</h4>
                         <p class="text-sm text-gray-600">Frequent urination से body dehydrated होती है, जिससे constant thirst feel होती है।</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">3. Increased Hunger (Bahut bhuk)</h4>
                         <p class="text-sm text-gray-600">Cells glucose use नहीं कर पा रहे, तो body aur energy चाहती है।</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">4. Blurred Vision (Dhoondha hua dikhna)</h4>
                         <p class="text-sm text-gray-600">High blood sugar eye lenses को swell करता है, जिससे vision affected होती है।</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">5. Fatigue (Thakna)</h4>
                         <p class="text-sm text-gray-600">Glucose cells में entry नहीं कर पा रहा, तो energy नहीं बनती aur person tired feel करता है।</p>
                     </div>
@@ -191,69 +298,69 @@
                 </ul>
 
                 <!-- Section 3: Low Sugar Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Low Blood Sugar (Hypoglycemia) Ke Symptoms</h2>
+                <h2 class="raj-h2">Low Blood Sugar (Hypoglycemia) Ke Symptoms</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Low blood sugar (sugar low)</strong> usually diabetes patients में होता है जो insulin ya diabetes medicines ले रहे हों। यह dangerous हो सकता है aur quickly treat करना चाहिए।
                 </p>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-500">
+                    <div class="raj-callout raj-callout-warning">
                         <h4 class="font-bold text-yellow-700">1. Shakshamana (Shaking/Trembling)</h4>
                         <p class="text-sm text-gray-600">Low glucose से muscles को energy नहीं मिलती, jis se tremors होती हैं।</p>
                     </div>
-                    <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-500">
+                    <div class="raj-callout raj-callout-warning">
                         <h4 class="font-bold text-yellow-700">2. Svedaana (Sweating)</h4>
                         <p class="text-sm text-gray-600">Unexpected sweating, especially neck aur face area में।</p>
                     </div>
-                    <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-500">
+                    <div class="raj-callout raj-callout-warning">
                         <h4 class="font-bold text-yellow-700">3. Chakitpurna Hridaya (Rapid heartbeat)</h4>
                         <p class="text-sm text-gray-600">Heart compensation mode में ज्यादा पंप करता है।</p>
                     </div>
-                    <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-500">
+                    <div class="raj-callout raj-callout-warning">
                         <h4 class="font-bold text-yellow-700">4. Sangaabuddhi (Confusion)</h4>
                         <p class="text-sm text-gray-600">Brain को sufficient glucose नहीं मिल रहा, jis se difficulty concentrating।</p>
                     </div>
-                    <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-500">
+                    <div class="raj-callout raj-callout-warning">
                         <h4 class="font-bold text-yellow-700">5. Mridu Siro Vehicle (Dizziness)</h4>
                         <p class="text-sm text-gray-600">Low glucose से dizziness aur lightheadedness।</p>
                     </div>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Emergency Signs (Severe Hypoglycemia):</strong>
                     <ul class="text-gray-700 space-y-1 mt-2">
-                        <li>• Seizures ya convulsions</li>
-                        <li>• Unconsciousness</li>
-                        <li>• Loss of coordination</li>
-                        <li>• इनमें से कोई भी हो तो immediately glucagon injection या medical help</li>
+                        <li>Seizures ya convulsions</li>
+                        <li>Unconsciousness</li>
+                        <li>Loss of coordination</li>
+                        <li>इनमें से कोई भी हो तो immediately glucagon injection या medical help</li>
                     </ul>
                 </div>
 
                 <!-- Section 4: Types -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Diabetes Ke Types aur Symptoms</h2>
+                <h2 class="raj-h2">Diabetes Ke Types aur Symptoms</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Type 1 Diabetes</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Usually young age में diagnosis</li>
-                            <li>• Rapid onset symptoms</li>
-                            <li>• Sudden weight loss</li>
-                            <li>• Extreme thirst aur hunger</li>
-                            <li>• Frequent urination</li>
-                            <li>• Insulin dependent</li>
+                            <li>Usually young age में diagnosis</li>
+                            <li>Rapid onset symptoms</li>
+                            <li>Sudden weight loss</li>
+                            <li>Extreme thirst aur hunger</li>
+                            <li>Frequent urination</li>
+                            <li>Insulin dependent</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Type 2 Diabetes</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Usually adults में</li>
-                            <li>• Gradual onset</li>
-                            <li>• May have no symptoms initially</li>
-                            <li>• Obesity associated</li>
-                            <li>• Often discovered during routine tests</li>
-                            <li>• Lifestyle modifications help</li>
+                            <li>Usually adults में</li>
+                            <li>Gradual onset</li>
+                            <li>May have no symptoms initially</li>
+                            <li>Obesity associated</li>
+                            <li>Often discovered during routine tests</li>
+                            <li>Lifestyle modifications help</li>
                         </ul>
                     </div>
                 </div>
@@ -264,16 +371,16 @@
                 </div>
 
                 <!-- Section 5: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Diabetes Se Bachav Aur Prevention</h2>
+                <h2 class="raj-h2">Diabetes Se Bachav Aur Prevention</h2>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Healthy Diet:</strong> <a href="<?php echo $base_url; ?>best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">Balanced Indian diet</a> follow करें, processed foods avoid करें।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Regular Exercise:</strong> Daily 30 minutes moderate activity।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Weight Management:</strong> Healthy weight maintain करें।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Regular Checkups:</strong> Yearly blood sugar screening करें, especially family history हो तो।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Stress Management:</strong> Stress hormones blood sugar affect करते हैं।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Quality Sleep:</strong> 7-8 hours proper sleep।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Healthy Diet:</strong> <a href="<?php echo $base_url; ?>best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">Balanced Indian diet</a> follow करें, processed foods avoid करें।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Exercise:</strong> Daily 30 minutes moderate activity।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Weight Management:</strong> Healthy weight maintain करें।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Checkups:</strong> Yearly blood sugar screening करें, especially family history हो तो।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Stress Management:</strong> Stress hormones blood sugar affect करते हैं।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quality Sleep:</strong> 7-8 hours proper sleep।</li>
                     </ul>
                 </div>
 
@@ -285,7 +392,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Sugar Symptoms in Hindi</h2>
+                <h2 class="raj-h2">FAQs - Sugar Symptoms in Hindi</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -334,7 +441,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Sugar Symptoms in Hindi - Diabetes Ke Lakshan में डॉक्टर को कब दिखाना चाहिए?</h3>

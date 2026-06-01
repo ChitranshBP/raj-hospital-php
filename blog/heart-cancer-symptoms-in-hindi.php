@@ -203,6 +203,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -238,7 +264,7 @@
                     <strong>दिल का कैंसर</strong> (Heart Cancer / Cardiac Tumor) एक rare लेकिन गंभीर medical condition है। ज्यादातर लोग जानते हैं कि दिल की बीमारियां heart attack या heart failure से होती हैं, लेकिन very few people जानते हैं कि दिल में भी cancer हो सकता है। इस लेख में हम <strong>Heart Cancer Symptoms in Hindi</strong> में detail से जानेंगे - दिल के कैंसर के लक्षण, कारण, diagnosis और treatment options क्या हैं।
                 </p>
 
-                <div class="bg-purple-100 border-l-4 border-purple-600 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-purple-700">महत्वपूर्ण जानकारी:</strong>
                     <span class="text-gray-700"> दिल का कैंसर बहुत rare है (सभी cancers में से less than 0.1%), लेकिन जब यह होता है तो यह life-threatening हो सकता है। Early detection बचाव की key है।</span>
                 </div>
@@ -251,11 +277,11 @@
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-600">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600 mb-2">Primary Heart Tumors (Primary Cardiac Tumors)</h4>
                         <p class="text-sm text-gray-600">ये tumors सीधे दिल से शुरू होते हैं। सबसे common benign primary heart tumor <strong>Myxoma</strong> है। Malignant primary tumors बहुत rare हैं और इन्हें <strong>Cardiac Sarcoma</strong> कहते हैं।</p>
                     </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-gray-400">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-gray-600 mb-2">Secondary Heart Tumors (Metastatic)</h4>
                         <p class="text-sm text-gray-600">ये tumors शरीर के दूसरे हिस्से से दिल में फैलते हैं। Lung cancer, breast cancer, और kidney cancer सबसे common sources हैं जो दिल तक फैल सकते हैं।</p>
                     </div>
@@ -301,31 +327,31 @@
                 <h3 class="text-lg font-bold text-gray-800 mb-3">शुरुआती लक्षण (Early Symptoms)</h3>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-600">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">1. सीने में दर्द या बेचैनी (Chest Pain or Discomfort)</h4>
                         <p class="text-sm text-gray-600">सीने में दर्द या pressure feel होना दिल के कैंसर का एक common symptom है। यह दर्द chest के बीच में या बाईं तरफ हो सकता है। कभी-कभी यह दर्द physical activity के दौरान बढ़ता है और rest लेने पर भी ठीक नहीं होता।</p>
                     </div>
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-600">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">2. सांस लेने में तकलीफ (Shortness of Breath)</h4>
                         <p class="text-sm text-gray-600">सांस फूलना या सांस लेने में difficulty एक important symptom है। यह especially तब होती है जब person lying down हो (orthopnea) या sleeping के दौरान। अगर आपको अचानक सांस लेने में तकलीफ हो, तो इसे ignore न करें।</p>
                     </div>
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-600">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">3. अनियमित heartbeat (Irregular Heartbeat / Arrhythmia)</h4>
                         <p class="text-sm text-gray-600">दिल की rhythm में irregularity एक common sign है। Heart fluttering, racing, या pounding feel होना arrhythmia के symptoms हैं। कई cases में patients को heart palpitations की शिकायत होती है। यह <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">stroke और TIA treatment</a> की भी जरूरत पैदा कर सकता है अगर blood clots बनें।</p>
                     </div>
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-600">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">4. थकान और कमज़ोरी (Fatigue and Weakness)</h4>
                         <p class="text-sm text-gray-600">अत्यधिक थकान जो rest लेने पर भी ठीक नहीं होती। यह symptom तब होती है जब tumor दिल के function को affect करता है और body में blood flow properly नहीं हो पाता। Routine activities करने में भी difficulty हो सकती है।</p>
                     </div>
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-600">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">5. चक्कर आना (Dizziness)</h4>
                         <p class="text-sm text-gray-600">चक्कर आना या lightheadedness दिल के कैंसर का एक और symptom है। यह तब होता है जब heart की pumping capacity कम हो जाती है और brain में sufficient blood नहीं पहुंच पाता। कुछ patients को <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">head injury treatment</a> की जरूरत भी पड़ सकती है अगर वे gefahr करके gefahr जाएं।</p>
                     </div>
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-600">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">6. हाथ-पैरों में सूजन (Swelling in Hands and Feet)</h4>
                         <p class="text-sm text-gray-600">Peripheral edema यानी hands, feet, ankles में swelling दिल के function में कमी का sign हो सकता है। जब दिल properly pump नहीं कर पाता, तो blood body के lower parts में accumulate हो जाता है।</p>
                     </div>
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-600">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">7. Unexplained Weight Loss और Fever</h4>
                         <p class="text-sm text-gray-600">बिना किसी diet change या exercise के weight loss और persistent fever भी symptoms हो सकते हैं। ये constitutional symptoms हैं जो कई types of cancers में देखे जाते हैं।</p>
                     </div>
@@ -356,23 +382,23 @@
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2">Risk Factors</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Genetic mutations (Li-Fraumeni syndrome)</li>
-                            <li>• Family history of cancer</li>
-                            <li>• Previous radiation therapy to chest</li>
-                            <li>• Von Hippel-Lindau disease</li>
-                            <li>• Neurofibromatosis type 1</li>
-                            <li>• Age (certain tumors more common in specific ages)</li>
+                            <li>Genetic mutations (Li-Fraumeni syndrome)</li>
+                            <li>Family history of cancer</li>
+                            <li>Previous radiation therapy to chest</li>
+                            <li>Von Hippel-Lindau disease</li>
+                            <li>Neurofibromatosis type 1</li>
+                            <li>Age (certain tumors more common in specific ages)</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-gray-600 mb-2">Secondary Cancer Sources</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Lung cancer (सबसे common)</li>
-                            <li>• Breast cancer</li>
-                            <li>• Kidney cancer</li>
-                            <li>• Melanoma</li>
-                            <li>• Lymphoma</li>
-                            <li>• Leukemia</li>
+                            <li>Lung cancer (सबसे common)</li>
+                            <li>Breast cancer</li>
+                            <li>Kidney cancer</li>
+                            <li>Melanoma</li>
+                            <li>Lymphoma</li>
+                            <li>Leukemia</li>
                         </ul>
                     </div>
                 </div>
@@ -527,7 +553,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?</h3>

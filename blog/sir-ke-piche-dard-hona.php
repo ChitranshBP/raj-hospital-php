@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "सिर के पीछे दर्द होना | Sir ke piche dard hona Causes & Treatment in Hindi",
+        "description": "सिर के पीछे दर्द होना (sir ke piche dard hona) के कारण जानें। गर्दन दर्द, माइग्रेन, tension headache समेत अन्य कारण और उपाय। RAJ Hospital Ranchi से जानें।",
+        "url": "https://rajhospitals.com/blog/sir-ke-piche-dard-hona.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/sir-ke-piche-dard-hona.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-25",
+        "dateModified": "2026-05-25",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/sir-ke-piche-dard-hona.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "सिर के पीछे दर्द होना | Sir ke piche dard hona Causes & Treatment in Hindi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,7 +236,7 @@
                 </p>
 
                 <!-- Section 1: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">सिर के पीछे दर्द के प्रमुख कारण (Sir ke piche dard hone ka karan)</h2>
+                <h2 class="raj-h2">सिर के पीछे दर्द के प्रमुख कारण (Sir ke piche dard hone ka karan)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>sir ke piche dard hone ka karan</strong> कई हो सकते हैं। आइए इन्हें विस्तार से समझें:
@@ -167,7 +274,7 @@
                 </div>
 
                 <!-- Section 2: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">सिर के पीछे दर्द के लक्षण (Symptoms)</h2>
+                <h2 class="raj-h2">सिर के पीछे दर्द के लक्षण (Symptoms)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>sir ke piche dard hona</strong> के कुछ आम लक्षण हैं:
@@ -193,10 +300,10 @@
                 </div>
 
                 <!-- Section 3: When to See Doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">कब डॉक्टर से मिलें? (When to See Doctor)</h2>
+                <h2 class="raj-h2">कब डॉक्टर से मिलें? (When to See Doctor)</h2>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ गंभीर लक्षण:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> गंभीर लक्षण:</strong>
                     <span class="text-gray-700"> अगर नीचे दिए गए लक्षण हों, तो तुरंत डॉक्टर से मिलें:</span>
                 </div>
 
@@ -210,7 +317,7 @@
                 </ul>
 
                 <!-- Section 4: Home Remedies -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">सिर के पीछे दर्द के घरेलू उपाय (Home Remedies)</h2>
+                <h2 class="raj-h2">सिर के पीछे दर्द के घरेलू उपाय (Home Remedies)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>सिर के पीछे दर्द</strong> के हल्के symptoms के लिए ये घरेलू उपाय helpful हो सकते हैं:
@@ -244,21 +351,21 @@
                 </div>
 
                 <!-- Section 5: Prevention Tips -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">सिर के पीछे दर्द से बचाव के उपाय (Prevention Tips)</h2>
+                <h2 class="raj-h2">सिर के पीछे दर्द से बचाव के उपाय (Prevention Tips)</h2>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>सही posture बनाए रखें</strong> - बैठते और खड़े होते समय गर्दन सीधी रखें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>नियमित व्यायाम करें</strong> - गर्दन और कंधे की stretching exercises</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>स्क्रीन time कम करें</strong> - हर घंटे 5-10 मिनट का break लें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>तनाव प्रबंधन करें</strong> - yoga और meditation अपनाएं</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>सही तकिया चुनें</strong> - गर्दन को support देने वाला तकिया use करें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>BP और sugar check कराते रहें</strong> - नियमित health checkup</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>सही posture बनाए रखें</strong> - बैठते और खड़े होते समय गर्दन सीधी रखें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>नियमित व्यायाम करें</strong> - गर्दन और कंधे की stretching exercises</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>स्क्रीन time कम करें</strong> - हर घंटे 5-10 मिनट का break लें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>तनाव प्रबंधन करें</strong> - yoga और meditation अपनाएं</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>सही तकिया चुनें</strong> - गर्दन को support देने वाला तकिया use करें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>BP और sugar check कराते रहें</strong> - नियमित health checkup</li>
                     </ul>
                 </div>
 
                 <!-- Section 6: Treatment Options -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">सिर के पीछे दर्द का इलाज (Treatment Options)</h2>
+                <h2 class="raj-h2">सिर के पीछे दर्द का इलाज (Treatment Options)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>sir ke piche dard</strong> के treatment options निम्नलिखित हैं:
@@ -266,17 +373,17 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">💊</div>
+                        <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">दवाइयां</div>
                         <p class="text-sm text-gray-600">Painkillers, muscle relaxants, या migraine medicines डॉक्टर की सलाह पर</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🤚</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">फिजियोथेरेपी</div>
                         <p class="text-sm text-gray-600">Physiotherapy से गर्दन की मांसपेशियों को मजबूत करना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🧘</div>
+                        <div class="text-3xl mb-2"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">व्यायाम</div>
                         <p class="text-sm text-gray-600">नियमित stretching और strengthening exercises</p>
                     </div>
@@ -290,7 +397,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - सिर के पीछे दर्द से संबंधित सवाल</h2>
+                <h2 class="raj-h2">FAQs - सिर के पीछे दर्द से संबंधित सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -334,7 +441,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">सिर के पीछे दर्द होना क्यों होता है?</h3>

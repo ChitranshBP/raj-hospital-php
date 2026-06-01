@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Migraine vs Headache - Key Differences Explained | RAJ Hospital Ranchi",
+        "description": "Understanding the key differences between migraine and headache. Learn symptoms, causes, triggers, and effective treatment options for both conditions.",
+        "url": "https://rajhospitals.com/blog/difference-between-migraine-and-headache-key-differences-explained.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/difference-between-migraine-and-headache-key-differences-explained.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/difference-between-migraine-and-headache-key-differences-explained.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Migraine vs Headache - Key Differences Explained | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,7 +236,7 @@
                 </p>
 
                 <!-- Section 1: What is a Headache? -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Understanding Headaches</h2>
+                <h2 class="raj-h2">Understanding Headaches</h2>
 
                 <p class="text-gray-700 mb-4">
                     A <strong>headache</strong> is a broad term referring to pain in the head, face, or upper neck region. Headaches can be primary (the pain itself is the condition) or secondary (caused by another medical condition). The most common types include tension headaches, cluster headaches, and sinus headaches.
@@ -166,7 +273,7 @@
                 </ul>
 
                 <!-- Section 2: What is Migraine? -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Understanding Migraines</h2>
+                <h2 class="raj-h2">Understanding Migraines</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Migraine</strong> is a neurological disease characterized by recurrent moderate to severe headaches, often accompanied by nausea, vomiting, and sensitivity to light, sound, or smell. It's not just "a bad headache" - it's a complex neurological condition that affects the entire nervous system.
@@ -178,26 +285,26 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Migraine Phases</h3>
                 <div class="space-y-4 mb-6">
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-500">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600 mb-2">1. Prodrome (Pre-headache)</h4>
                         <p class="text-sm text-gray-600">Hours to days before the migraine, you might experience mood changes, food cravings, neck stiffness, increased yawning, or difficulty concentrating. About 30% of migraine sufferers experience this warning phase.</p>
                     </div>
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-500">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600 mb-2">2. Aura (15-30 minutes before)</h4>
                         <p class="text-sm text-gray-600">Experienced by about 20% of migraine sufferers. Visual disturbances (flashing lights, blind spots), sensory changes (numbness, tingling), or speech difficulties. These symptoms gradually develop and then fade as the headache begins.</p>
                     </div>
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-500">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600 mb-2">3. Attack (4-72 hours)</h4>
                         <p class="text-sm text-gray-600">The main headache phase with throbbing pain (usually on one side), nausea, vomiting, and sensitivity to light, sound, and smell. Physical activity worsens the pain. Many people need to lie down in a dark, quiet room.</p>
                     </div>
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-500">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600 mb-2">4. Post-drome (24-48 hours after)</h4>
                         <p class="text-sm text-gray-600">The "migraine hangover." Feelings of exhaustion, confusion, or elation might persist. Some people report difficulty concentrating, scalp tenderness, or mood changes during this phase.</p>
                     </div>
                 </div>
 
                 <!-- Section 3: Key Differences -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Key Differences: Migraine vs Headache</h2>
+                <h2 class="raj-h2">Key Differences: Migraine vs Headache</h2>
 
                 <div class="overflow-x-auto mb-6">
                     <table class="w-full border-collapse border border-gray-300">
@@ -254,7 +361,7 @@
                 </div>
 
                 <!-- Section 4: Triggers -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Common Triggers</h2>
+                <h2 class="raj-h2">Common Triggers</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Headache Triggers</h3>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -292,7 +399,7 @@
                 </div>
 
                 <!-- Section 5: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Treatment Options</h2>
+                <h2 class="raj-h2">Treatment Options</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Headache Treatment</h3>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -311,53 +418,53 @@
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-purple-500">
                         <h4 class="font-bold text-purple-600 mb-2">Acute Medications (during attacks)</h4>
                         <ul class="text-sm text-gray-600 mt-2 space-y-1">
-                            <li>• Triptans (sumatriptan, rizatriptan) - most effective</li>
-                            <li>• NSAIDs (ibuprofen, naproxen)</li>
-                            <li>• Anti-nausea medications</li>
-                            <li>• Ergotamines</li>
-                            <li>• Gepants (newer class)</li>
+                            <li>Triptans (sumatriptan, rizatriptan) - most effective</li>
+                            <li>NSAIDs (ibuprofen, naproxen)</li>
+                            <li>Anti-nausea medications</li>
+                            <li>Ergotamines</li>
+                            <li>Gepants (newer class)</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-purple-500">
                         <h4 class="font-bold text-purple-600 mb-2">Preventive Medications (to reduce frequency)</h4>
                         <ul class="text-sm text-gray-600 mt-2 space-y-1">
-                            <li>• Beta-blockers (propranolol)</li>
-                            <li>• Antidepressants (amitriptyline)</li>
-                            <li>• Anticonvulsants (topiramate, valproate)</li>
-                            <li>• CGRP monoclonal antibodies (erenumab, fremanezumab)</li>
-                            <li>• Botox injections (for chronic migraine)</li>
+                            <li>Beta-blockers (propranolol)</li>
+                            <li>Antidepressants (amitriptyline)</li>
+                            <li>Anticonvulsants (topiramate, valproate)</li>
+                            <li>CGRP monoclonal antibodies (erenumab, fremanezumab)</li>
+                            <li>Botox injections (for chronic migraine)</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-500">
                         <h4 class="font-bold text-green-600 mb-2">Non-Pharmacological Approaches</h4>
                         <ul class="text-sm text-gray-600 mt-2 space-y-1">
-                            <li>• Identifying and avoiding triggers</li>
-                            <li>• Keeping a migraine diary</li>
-                            <li>• Regular exercise</li>
-                            <li>• Stress management techniques</li>
-                            <li>• Cognitive behavioral therapy (CBT)</li>
-                            <li>• Acupuncture</li>
-                            <li>• Neuromodulation devices</li>
+                            <li>Identifying and avoiding triggers</li>
+                            <li>Keeping a migraine diary</li>
+                            <li>Regular exercise</li>
+                            <li>Stress management techniques</li>
+                            <li>Cognitive behavioral therapy (CBT)</li>
+                            <li>Acupuncture</li>
+                            <li>Neuromodulation devices</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 6: When to See a Doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">When to Seek Medical Help</h2>
+                <h2 class="raj-h2">When to Seek Medical Help</h2>
 
                 <p class="text-gray-700 mb-4">
                     While most headaches aren't dangerous, certain symptoms require immediate medical attention:
                 </p>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ Emergency Warning Signs:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> Emergency Warning Signs:</strong>
                     <ul class="text-gray-700 mt-2 space-y-1">
-                        <li>• Sudden, severe headache ("thunderclap headache")</li>
-                        <li>• Headache with fever, stiff neck, or confusion</li>
-                        <li>• Headache after head injury</li>
-                        <li>• Headache with weakness, numbness, or vision changes</li>
-                        <li>• New headache after age 40</li>
-                        <li>• Headache in someone with cancer or HIV</li>
+                        <li>Sudden, severe headache ("thunderclap headache")</li>
+                        <li>Headache with fever, stiff neck, or confusion</li>
+                        <li>Headache after head injury</li>
+                        <li>Headache with weakness, numbness, or vision changes</li>
+                        <li>New headache after age 40</li>
+                        <li>Headache in someone with cancer or HIV</li>
                     </ul>
                 </div>
 
@@ -373,7 +480,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -422,7 +529,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Migraine vs Headache - Key Differences Explained में डॉक्टर को कब दिखाना चाहिए?</h3>

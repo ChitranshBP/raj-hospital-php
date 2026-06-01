@@ -97,6 +97,59 @@
         ]
     }
     </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -138,7 +191,7 @@
                     <span class="text-gray-700"> थायरॉइड की समस्या को often fatigue या aging समझ लिया जाता है। अगर आपको consistent symptoms हों, तो thyroid test जरूर करवाएं। RAJ Hospital Ranchi में complete thyroid evaluation available है।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">थायरॉइड क्या है और यह कैसे काम करता है?</h2>
+                <h2 class="raj-h2-secondary">थायरॉइड क्या है और यह कैसे काम करता है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Thyroid gland</strong> हमारे शरीर में metabolism को control करने वाला एक important endocrine organ है। यह दो main hormones produce करती है:
@@ -159,20 +212,20 @@
                     Thyroid function hypothalamus और pituitary gland के साथ मिलकर work करता है। जब thyroid hormones कम होते हैं, तो pituitary TSH (Thyroid Stimulating Hormone) बढ़ाता है और इसके opposite।
                 </p>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">दो मुख्य Thyroid Disorders</h2>
+                <h2 class="raj-h2-secondary">दो मुख्य Thyroid Disorders</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-blue-50 p-4 rounded-lg border-l-4 border-blue-600">
+                    <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-blue-700 mb-2">1. Hypothyroidism (कम Thyroid)</h4>
                         <p class="text-sm text-gray-600">जब thyroid कम hormone produce करता है। यह सबसे common thyroid disorder है। Symptoms generally slow और subtle होते हैं।</p>
                     </div>
-                    <div class="bg-orange-50 p-4 rounded-lg border-l-4 border-orange-500">
+                    <div class="raj-callout raj-callout-warning">
                         <h4 class="font-bold text-orange-700 mb-2">2. Hyperthyroidism (ज्यादा Thyroid)</h4>
                         <p class="text-sm text-gray-600">जब thyroid ज्यादा hormone produce करता है। Symptoms generally fast और pronounced होते हैं। यह कम common है लेकिन ज्यादा serious हो सकती है।</p>
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Hypothyroidism के लक्षण (पुरुषों में)</h2>
+                <h2 class="raj-h2-secondary">Hypothyroidism के लक्षण (पुरुषों में)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Hypothyroidism symptoms in men</strong> generally slow develop होते हैं और often सालों तक unnoticed रहते हैं।
@@ -191,13 +244,13 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Hyperthyroidism के लक्षण (पुरुषों में)</h2>
+                <h2 class="raj-h2-secondary">Hyperthyroidism के लक्षण (पुरुषों में)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Hyperthyroidism symptoms in men</strong> generally sudden और pronounced होते हैं।
                 </p>
 
-                <div class="bg-orange-50 border-l-4 border-orange-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <h4 class="font-bold text-orange-700 mb-2">Primary Symptoms:</h4>
                     <ul class="text-gray-700 space-y-2">
                         <li><strong>1. Weight Loss</strong> - unexplained weight loss despite increased appetite।</li>
@@ -210,7 +263,7 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">पुरुषों में विशेष Thyroid Symptoms</h2>
+                <h2 class="raj-h2-secondary">पुरुषों में विशेष Thyroid Symptoms</h2>
 
                 <p class="text-gray-700 mb-4">
                     पुरुषों में thyroid disorders कुछ specific symptoms भी produce करते हैं जो women में नहीं होते:
@@ -235,7 +288,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">थायरॉइड की जांच (Diagnosis)</h2>
+                <h2 class="raj-h2-secondary">थायरॉइड की जांच (Diagnosis)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Thyroid diagnosis</strong> primarily blood tests पर based है:
@@ -260,16 +313,16 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">थायरॉइड का इलाज (Treatment)</h2>
+                <h2 class="raj-h2-secondary">थायरॉइड का इलाज (Treatment)</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Hypothyroidism Treatment:</h3>
                 <div class="bg-blue-50 p-4 rounded-lg mb-6">
                     <p class="text-gray-700 mb-2"><strong>Levothyroxine (Synthroid)</strong> - यह synthetic thyroid hormone है जो missing hormones की replace करता है।</p>
                     <ul class="text-gray-700 space-y-1">
-                        <li>• Daily morning medication (empty stomach)</li>
-                        <li>• Lifetime treatment usually</li>
-                        <li>• Regular blood tests dose adjustment के लिए</li>
-                        <li>• 4-6 weeks बाद new equilibrium तक</li>
+                        <li>Daily morning medication (empty stomach)</li>
+                        <li>Lifetime treatment usually</li>
+                        <li>Regular blood tests dose adjustment के लिए</li>
+                        <li>4-6 weeks बाद new equilibrium तक</li>
                     </ul>
                 </div>
 
@@ -283,27 +336,27 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">थायरॉइड से बचाव और Management</h2>
+                <h2 class="raj-h2-secondary">थायरॉइड से बचाव और Management</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Lifestyle Changes</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Balanced diet with iodine</li>
-                            <li>• Regular exercise</li>
-                            <li>• Adequate sleep</li>
-                            <li>• Stress management</li>
-                            <li>• Regular checkups</li>
+                            <li>Balanced diet with iodine</li>
+                            <li>Regular exercise</li>
+                            <li>Adequate sleep</li>
+                            <li>Stress management</li>
+                            <li>Regular checkups</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Foods to Include</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Iodized salt</li>
-                            <li>• Seafood (fish, seaweed)</li>
-                            <li>• Eggs</li>
-                            <li>• Dairy products</li>
-                            <li>• Brazil nuts (selenium)</li>
+                            <li>Iodized salt</li>
+                            <li>Seafood (fish, seaweed)</li>
+                            <li>Eggs</li>
+                            <li>Dairy products</li>
+                            <li>Brazil nuts (selenium)</li>
                         </ul>
                     </div>
                 </div>
@@ -314,7 +367,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">FAQs</h2>
+                <h2 class="raj-h2-secondary">FAQs</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">

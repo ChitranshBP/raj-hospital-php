@@ -210,6 +210,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -318,23 +344,23 @@
 
                 <div class="space-y-3 mb-6">
                     <div class="flex items-start gap-3">
-                        <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0">✓</span>
+                        <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
                         <p class="text-gray-700"><strong>पालक (Spinach)</strong> - Iron और potassium से भरपूर। Salads में या cooked खा सकते हैं।</p>
                     </div>
                     <div class="flex items-start gap-3">
-                        <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0">✓</span>
+                        <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
                         <p class="text-gray-700"><strong>करेला (Bitter Gourd)</strong> - BP control करने में very effective। Juicing करके पी सकते हैं।</p>
                     </div>
                     <div class="flex items-start gap-3">
-                        <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0">✓</span>
+                        <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
                         <p class="text-gray-700"><strong>भिंडी (Okra)</strong> - Fiber और vitamins से भरपूर। Low glycemic index है।</p>
                     </div>
                     <div class="flex items-start gap-3">
-                        <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0">✓</span>
+                        <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
                         <p class="text-gray-700"><strong>बीट (Beetroot)</strong> - Nitrates से भरपूर जो BP तुरंत कम करते हैं। Juice बनाकर पी सकते हैं।</p>
                     </div>
                     <div class="flex items-start gap-3">
-                        <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0">✓</span>
+                        <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
                         <p class="text-gray-700"><strong>ब्रोकली (Broccoli)</strong> - Antioxidants और magnesium से भरपूर। Steamed खाएं।</p>
                     </div>
                 </div>
@@ -356,17 +382,17 @@
                 </p>
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-yellow-50 p-3 rounded-lg text-center">
-                        <div class="text-2xl mb-1">🥜</div>
+                        <div class="text-2xl mb-1"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></div>
                         <p class="font-bold text-gray-800">Almonds</p>
                         <p class="text-xs text-gray-600">Magnesium rich</p>
                     </div>
                     <div class="bg-yellow-50 p-3 rounded-lg text-center">
-                        <div class="text-2xl mb-1">🥜</div>
+                        <div class="text-2xl mb-1"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></div>
                         <p class="font-bold text-gray-800">Walnuts</p>
                         <p class="text-xs text-gray-600">Omega-3 fatty acids</p>
                     </div>
                     <div class="bg-yellow-50 p-3 rounded-lg text-center">
-                        <div class="text-2xl mb-1">🎃</div>
+                        <div class="text-2xl mb-1"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></div>
                         <p class="font-bold text-gray-800">Pumpkin Seeds</p>
                         <p class="text-xs text-gray-600">Potassium rich</p>
                     </div>
@@ -381,31 +407,31 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">High BP में क्या नहीं खाना चाहिए?</h2>
 
                 <div class="bg-red-50 border border-red-200 rounded-lg p-4 mb-6">
-                    <h3 class="font-bold text-red-600 mb-2">⚠️ इन foods से ज़रूर बचें:</h3>
+                    <h3 class="font-bold text-red-600 mb-2"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> इन foods से ज़रूर बचें:</h3>
                 </div>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">अधिक नमक (Excess Salt)</h4>
                         <p class="text-sm text-gray-600">Pickles, chips, namkeen, processed foods में ज़्यादा sodium होता है। Daily 1 tsp से कम नमक use करें।</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Junk Food और Fast Food</h4>
                         <p class="text-sm text-gray-600">Pizza, burger, fries, और namkeen items में trans fats और sodium अधिक होते हैं जो BP बढ़ाते हैं।</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Red Meat</h4>
                         <p class="text-sm text-gray-600">Red meat में saturated fat अधिक होता है। इसे limit करें और chicken या fish prefer करें।</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Ghee और Butter</h4>
                         <p class="text-sm text-gray-600">Trans fats से भरपूर, ये cholesterol बढ़ाते हैं और BP पर bad effect डालते हैं।</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Cold Drinks और Soda</h4>
                         <p class="text-sm text-gray-600">इनमें excessive sugar और sodium होती है। Fresh juices या nimbu pani prefer करें।</p>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Tea और Coffee (अधिक)</h4>
                         <p class="text-sm text-gray-600">ज़्यादा caffeine BP बढ़ा सकता है। दिन में 1-2 cups से अधिक नहीं पिएं।</p>
                     </div>
@@ -452,7 +478,7 @@
                 <!-- Tips Section -->
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">High BP Diet के Additional Tips</h2>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <h3 class="font-bold text-blue-700 mb-2">Dietitian की सलाह:</h3>
                     <ul class="list-disc list-inside space-y-1 text-gray-700">
                         <li><strong>Portion control</strong> करें - ज़्यादा न खाएं</li>
@@ -580,7 +606,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं? में डॉक्टर को कब दिखाना चाहिए?</h3>

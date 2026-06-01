@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Blood Infection (Sepsis) Kaise Hota Hai? - Complete Hindi Guide | RAJ Hospital",
+        "description": "Blood infection (Sepsis) kaise hota hai, iske symptoms, causes, aur treatment के बारे में जानें। Sepsis ke early signs, prevention tips, और कब hospital जाना चाहिए।",
+        "url": "https://rajhospitals.com/blog/blood-infection-kaise-hota-hai",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/blood-infection-kaise-hota-hai.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/blood-infection-kaise-hota-hai",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Blood Infection (Sepsis) Kaise Hota Hai? - Complete Hindi Guide | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: What is Blood Infection -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Blood Infection (Sepsis) Kya Hai?</h2>
+                <h2 class="raj-h2">Blood Infection (Sepsis) Kya Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Sepsis</strong> एक life-threatening condition है जो तब होती है जब शरीर की immune system किसी infection के जवाब में खुद को ही damage करती है। सामान्य तौर पर, हमारी immune system एक infection को एक specific area में confine करती है। लेकिन sepsis में, यह infection और chemicals पूरे शरीर में फैल जाते हैं।
@@ -133,13 +240,13 @@
                     Sepsis का सबसे severe form <strong>Septic Shock</strong> है, जिसमें blood pressure बहुत कम हो जाता है और organs को adequate blood supply नहीं मिलती। यह condition बिना तुरंत treatment के fatal हो सकती है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण आंकड़े:</strong>
                     <span class="text-gray-700"> WHO के अनुसार, हर साल दुनिया भर में लगभग 49 million लोग sepsis से प्रभावित होते हैं और लगभग 11 million लोग इससे मारे जाते हैं। India में यह एक major cause of mortality है।</span>
                 </div>
 
                 <!-- Section 2: How it Happens -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Sepsis Kaise Hota Hai? (How Does Sepsis Develop?)</h2>
+                <h2 class="raj-h2">Sepsis Kaise Hota Hai? (How Does Sepsis Develop?)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Sepsis</strong> का development एक cascade process है। आइए समझें यह stepwise कैसे होता है:
@@ -169,7 +276,7 @@
                 </div>
 
                 <!-- Section 3: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Sepsis Ke Karan (Causes of Sepsis)</h2>
+                <h2 class="raj-h2">Sepsis Ke Karan (Causes of Sepsis)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Sepsis</strong> कई different types of infections से शुरू हो सकता है। सबसे common causes हैं:
@@ -203,35 +310,35 @@
                 </div>
 
                 <!-- Section 4: Risk Factors -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Sepsis Ke Risk Factors</h2>
+                <h2 class="raj-h2">Sepsis Ke Risk Factors</h2>
 
                 <p class="text-gray-700 mb-4">
                     कुछ लोगों को <strong>sepsis</strong> होने का risk ज्यादा होता है:
                 </p>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">High-Risk Groups:</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• <strong>90+ age</strong> - बुजुर्गों में immune system weak होता है</li>
-                            <li>• <strong>0-1 age</strong> - नवजात babies में immune system underdeveloped होता है</li>
-                            <li>• <strong>Pregnant women</strong> - pregnancy में immune changes होते हैं</li>
-                            <li>• <strong>Chronic diseases</strong> - diabetes, kidney disease, lung disease patients</li>
-                            <li>• <strong>Cancer patients</strong> - especially chemotherapy ले रहे हों</li>
-                            <li>• <strong>Immunosuppressed patients</strong> - HIV/AIDS या organ transplant patients</li>
+                            <li><strong>90+ age</strong> - बुजुर्गों में immune system weak होता है</li>
+                            <li><strong>0-1 age</strong> - नवजात babies में immune system underdeveloped होता है</li>
+                            <li><strong>Pregnant women</strong> - pregnancy में immune changes होते हैं</li>
+                            <li><strong>Chronic diseases</strong> - diabetes, kidney disease, lung disease patients</li>
+                            <li><strong>Cancer patients</strong> - especially chemotherapy ले रहे हों</li>
+                            <li><strong>Immunosuppressed patients</strong> - HIV/AIDS या organ transplant patients</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 5: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Sepsis Ke Symptoms (Symptoms of Sepsis)</h2>
+                <h2 class="raj-h2">Sepsis Ke Symptoms (Symptoms of Sepsis)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Sepsis के early symptoms</strong> को पहचानना बहुत जरूरी है। अगर आपको नीचे दिए symptoms हों, तो तुरंत doctor से मिलें:
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Primary Symptoms (qSOFA Signs)</h3>
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <ul class="space-y-2 text-gray-700">
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> <strong>High fever (38.3°C+)</strong> या low temperature (36°C below)</li>
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> <strong>Rapid breathing</strong> - 22 breaths per minute से ज्यादा</li>
@@ -259,13 +366,13 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Emergency Warning:</strong>
                     <span class="text-gray-700"> अगर severe sepsis या septic shock के signs हों - extreme difficulty breathing, confusion, cyanosis (skin का नीला होना), या unconsciousness - तुरंत <strong>emergency medical help</strong> लें।</span>
                 </div>
 
                 <!-- Section 6: Diagnosis -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Sepsis Ka Diagnosis (Diagnosis of Sepsis)</h2>
+                <h2 class="raj-h2">Sepsis Ka Diagnosis (Diagnosis of Sepsis)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Sepsis diagnosis</strong> के लिए doctors कई tests करते हैं:
@@ -287,7 +394,7 @@
                 </div>
 
                 <!-- Section 7: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Sepsis Ka Treatment</h2>
+                <h2 class="raj-h2">Sepsis Ka Treatment</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Sepsis treatment</strong> ICU में होता है और इसे जल्दी से जल्दी शुरू करना जरूरी है:
@@ -312,26 +419,26 @@
                     </div>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Time is Critical:</strong>
                     <span class="text-gray-700"> Sepsis में हर घंटा important है। Treatment में delay mortality rate बढ़ाता है। RAJ Hospital में 24/7 emergency और ICU services available हैं।</span>
                 </div>
 
                 <!-- Section 8: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Sepsis Se Kaise Bache (Prevention of Sepsis)</h2>
+                <h2 class="raj-h2">Sepsis Se Kaise Bache (Prevention of Sepsis)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Sepsis prevention</strong> के लिए ये steps follow करें:
                 </p>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Vaccinations update करें</strong> - flu, pneumonia, और other infections से बचाव</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Wounds को clean और dry रखें</strong> - infection prevention</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Chronic conditions manage करें</strong> - diabetes को control में रखें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Hygiene maintain करें</strong> - hand washing regular करें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Infections का treatment जल्दी करें</strong> - UTI या pneumonia को ignore न करें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Regular health checkups करें</strong> - especially अगर high-risk group में हैं</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Vaccinations update करें</strong> - flu, pneumonia, और other infections से बचाव</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Wounds को clean और dry रखें</strong> - infection prevention</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Chronic conditions manage करें</strong> - diabetes को control में रखें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Hygiene maintain करें</strong> - hand washing regular करें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Infections का treatment जल्दी करें</strong> - UTI या pneumonia को ignore न करें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular health checkups करें</strong> - especially अगर high-risk group में हैं</li>
                     </ul>
                 </div>
 
@@ -343,7 +450,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Blood Infection (Sepsis)</h2>
+                <h2 class="raj-h2">FAQs - Blood Infection (Sepsis)</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -392,7 +499,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Blood Infection (Sepsis) Kaise Hota Hai? में डॉक्टर को कब दिखाना चाहिए?</h3>

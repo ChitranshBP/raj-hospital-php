@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "प्रेग्नेंसी में पैर में सूजन - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "description": "प्रेग्नेंसी में पैर में सूजन (Swollen Feet) के कारण, घरेलू उपाय और कब डॉक्टर को दिखाना है। Pregnancy swelling treatment and tips in Hindi।",
+        "url": "https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/pair-me-sujan.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-21",
+        "dateModified": "2026-05-21",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "प्रेग्नेंसी में पैर में सूजन - Complete Hindi Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,40 +236,40 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">प्रेग्नेंसी में पैर सूजन क्यों होती है?</h2>
+                <h2 class="raj-h2">प्रेग्नेंसी में पैर सूजन क्यों होती है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     गर्भावस्था में शरीर में <strong>fluid retention</strong> बढ़ जाता है और गर्भाशय बड़ा होने से निचले हिस्से में blood flow पर दबाव पड़ता है। यह सूजन आमतौर पर third trimester में अधिक होती है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> हल्की सूजन सामान्य है, लेकिन अचानक या अत्यधिक सूजन, especially hands या face में, तुरंत डॉक्टर को बताएं।</span>
                 </div>
 
                 <!-- Section 2: When it occurs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">कब तक सूजन होती है?</h2>
+                <h2 class="raj-h2">कब तक सूजन होती है?</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🌱</div>
+                        <div class="text-2xl mb-2"><i data-feather="feather" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-secondary-600">पहली तिमाही</div>
                         <p class="text-sm text-gray-600">हल्की सूजन हो सकती है</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🌿</div>
+                        <div class="text-2xl mb-2"><i data-feather="feather" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-secondary-600">दूसरी तिमाही</div>
                         <p class="text-sm text-gray-600">सूजन बढ़ने लगती है</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🌳</div>
+                        <div class="text-2xl mb-2"><i data-feather="trello" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-secondary-600">तीसरी तिमाही</div>
                         <p class="text-sm text-gray-600">सबसे अधिक सूजन</p>
                     </div>
                 </div>
 
                 <!-- Section 3: Home Remedies -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">पैर सूजन के घरेलू उपाय</h2>
+                <h2 class="raj-h2">पैर सूजन के घरेलू उपाय</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
@@ -187,13 +294,13 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ ध्यान दें:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> ध्यान दें:</strong>
                     <span class="text-gray-700"> सूजन कम करने के लिए diuretics (पानी की गोलियां) न लें - ये pregnant women के लिए unsafe हैं।</span>
                 </div>
 
                 <!-- Section 4: When to see doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">कब डॉक्टर को दिखाएं?</h2>
+                <h2 class="raj-h2">कब डॉक्टर को दिखाएं?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>तुरंत medical help</strong> लें अगर:
@@ -206,8 +313,8 @@
                     <li>एक पैर में अधिक सूजन हो (blood clot का संकेत हो सकता है)</li>
                 </ul>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ Pre-eclampsia Warning:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> Pre-eclampsia Warning:</strong>
                     <span class="text-gray-700"> अगर सूजन के साथ तेज बुखार, तेज सिरदर्द, दृष्टि में बदलाव, या तेज वजन बढ़ना हो तो यह pre-eclampsia का संकेत हो सकता है।</span>
                 </div>
 
@@ -219,7 +326,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -260,7 +367,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">प्रेग्नेंसी में पैर में सूजन में डॉक्टर को कब दिखाना चाहिए?</h3>

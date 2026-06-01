@@ -206,6 +206,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -271,33 +297,33 @@
                 <!-- Symptom Cards -->
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-medical-500">
-                        <h4 class="font-bold text-medical-600">🤢 उल्टी (Vomiting)</h4>
+                        <h4 class="font-bold text-medical-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> उल्टी (Vomiting)</h4>
                         <p class="text-sm text-gray-600">खाना खाने के बाद जी मिचलाना और उल्टी आना। यह शरीर का विषाक्त पदार्थों को बाहर निकालने का तरीका है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-medical-500">
-                        <h4 class="font-bold text-medical-600">💧 दस्त (Diarrhea)</h4>
+                        <h4 class="font-bold text-medical-600"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i> दस्त (Diarrhea)</h4>
                         <p class="text-sm text-gray-600">पानी जैसे या बार-बार पतले मल की समस्या। कुछ मामलों में खून भी आ सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-medical-500">
-                        <h4 class="font-bold text-medical-600">🤕 पेट दर्द (Abdominal Pain)</h4>
+                        <h4 class="font-bold text-medical-600"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> पेट दर्द (Abdominal Pain)</h4>
                         <p class="text-sm text-gray-600">पेट में तेज दर्द और cramping जो कभी-कभी बहुत unbearable हो सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-medical-500">
-                        <h4 class="font-bold text-medical-600">🌡️ बुखार (Fever)</h4>
+                        <h4 class="font-bold text-medical-600"><i data-feather="thermometer" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i>️ बुखार (Fever)</h4>
                         <p class="text-sm text-gray-600">शरीर का तापमान बढ़ना (100°F से ज्यादा) जो infection की शक्ति दर्शाता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-medical-500">
-                        <h4 class="font-bold text-medical-600">😫 मतली (Nausea)</h4>
+                        <h4 class="font-bold text-medical-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> मतली (Nausea)</h4>
                         <p class="text-sm text-gray-600">खाना खाने की इच्छा न होना और हमेशा मतली महसूस होना।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-medical-500">
-                        <h4 class="font-bold text-medical-600">💀 कमजोरी (Weakness)</h4>
+                        <h4 class="font-bold text-medical-600"><i data-feather="alert-octagon" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> कमजोरी (Weakness)</h4>
                         <p class="text-sm text-gray-600">शरीर में अत्यधिक कमजोरी और थकान जो डिहाइड्रेशन के कारण होती है।</p>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ ध्यान दें:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> ध्यान दें:</strong>
                     <span class="text-gray-700"> अगर <strong>खूनी दस्त</strong>, तेज बुखार (101°F से ज्यादा), या 3 दिन से ज्यादा symptoms हों, तो तुरंत <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-yellow-700 hover:underline font-semibold">डॉक्टर से संपर्क करें</a>।</span>
                 </div>
 
@@ -340,17 +366,17 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🦠</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-medical-600">Salmonella</div>
                         <p class="text-sm text-gray-600">अंडे, मुर्गी, और डेयरी प्रोडक्ट्स से। लक्षण: बुखार, दस्त, पेट दर्द।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🦠</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-medical-600">E. coli</div>
                         <p class="text-sm text-gray-600">कच्चा मांस और दूषित सब्जियों से। गंभीर मामलों में खूनी दस्त।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2">🦠</div>
+                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-medical-600">Norovirus</div>
                         <p class="text-sm text-gray-600">संक्रमित व्यक्ति से या दूषित खाने से। तेज उल्टी और दस्त।</p>
                     </div>
@@ -372,8 +398,8 @@
                     <li><strong>अदरक की चाय</strong> - अदरक मतली और उल्टी कम करने में मदद करता है</li>
                 </ul>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">🚫 इन चीजों से बचें:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="slash" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> इन चीजों से बचें:</strong>
                     <ul class="mt-2 space-y-1 text-gray-700">
                         <li>- दूध और डेयरी प्रोडक्ट्स (जब तक ठीक न हो)</li>
                         <li>- कैफीन और अल्कोहल</li>
@@ -391,12 +417,12 @@
 
                 <div class="bg-green-50 border-l-4 border-medical-500 p-4 rounded-r-lg mb-6">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-medical-600">✓</span> <strong>हाथ धोना</strong> - खाना बनाने से पहले और बाद में हाथ अच्छे से धोएं</li>
-                        <li class="flex items-start gap-2"><span class="text-medical-600">✓</span> <strong>खाना पूरी तरह पकाएं</strong> - मांस और अंडे को proper temperature तक पकाएं</li>
-                        <li class="flex items-start gap-2"><span class="text-medical-600">✓</span> <strong>कच्चे और पके हुए खाने को अलग रखें</strong> - cross-contamination से बचें</li>
-                        <li class="flex items-start gap-2"><span class="text-medical-600">✓</span> <strong>फ्रिज में सही तरीके से स्टोर करें</strong> - ठंडा रखें और जल्दी खाएं</li>
-                        <li class="flex items-start gap-2"><span class="text-medical-600">✓</span> <strong>बासी खाना न खाएं</strong> - expire हुआ या smell आने वाला खाना न खाएं</li>
-                        <li class="flex items-start gap-2"><span class="text-medical-600">✓</span> <strong>बाहर का खाना सावधानी से खाएं</strong> - साफ जगह से ही खाना खरीदें</li>
+                        <li class="flex items-start gap-2"><span class="text-medical-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>हाथ धोना</strong> - खाना बनाने से पहले और बाद में हाथ अच्छे से धोएं</li>
+                        <li class="flex items-start gap-2"><span class="text-medical-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>खाना पूरी तरह पकाएं</strong> - मांस और अंडे को proper temperature तक पकाएं</li>
+                        <li class="flex items-start gap-2"><span class="text-medical-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>कच्चे और पके हुए खाने को अलग रखें</strong> - cross-contamination से बचें</li>
+                        <li class="flex items-start gap-2"><span class="text-medical-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>फ्रिज में सही तरीके से स्टोर करें</strong> - ठंडा रखें और जल्दी खाएं</li>
+                        <li class="flex items-start gap-2"><span class="text-medical-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>बासी खाना न खाएं</strong> - expire हुआ या smell आने वाला खाना न खाएं</li>
+                        <li class="flex items-start gap-2"><span class="text-medical-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>बाहर का खाना सावधानी से खाएं</strong> - साफ जगह से ही खाना खरीदें</li>
                     </ul>
                 </div>
 
@@ -514,7 +540,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital में डॉक्टर को कब दिखाना चाहिए?</h3>

@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "PCOD Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi",
+        "description": "PCOD Problems in Women - Complete guide on symptoms, causes and health effects. Learn about PCOD vs PCOS, treatment options and lifestyle changes needed.",
+        "url": "https://rajhospitals.com/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "PCOD Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,19 +236,19 @@
                 </p>
 
                 <!-- Section 1: What is PCOD -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">What is PCOD?</h2>
+                <h2 class="raj-h2">What is PCOD?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>PCOD (Polycystic Ovarian Disease)</strong> is a condition where the ovaries contain multiple small cysts due to improper egg maturation. This happens because of hormonal imbalance - particularly elevated androgens (male hormones) and insulin resistance.
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">PCOD vs PCOS:</strong>
                     <span class="text-gray-700"> PCOD is a less severe form while <strong>PCOS (Polycystic Ovarian Syndrome)</strong> is a more serious metabolic disorder. PCOD can often be managed with lifestyle changes, while PCOS may require medication.</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOD Symptoms in Women</h2>
+                <h2 class="raj-h2">PCOD Symptoms in Women</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -171,7 +278,7 @@
                 </div>
 
                 <!-- Section 3: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOD Causes and Risk Factors</h2>
+                <h2 class="raj-h2">PCOD Causes and Risk Factors</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Genetics</strong> - Family history of PCOD/PCOS increases risk significantly</li>
@@ -183,7 +290,7 @@
                 </ul>
 
                 <!-- Section 4: Health Effects -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Health Effects of PCOD</h2>
+                <h2 class="raj-h2">Health Effects of PCOD</h2>
 
                 <p class="text-gray-700 mb-4">
                     If left untreated, <strong>PCOD can lead to several serious health complications</strong>:
@@ -209,27 +316,27 @@
                 </div>
 
                 <!-- Section 5: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">PCOD Treatment and Management</h2>
+                <h2 class="raj-h2">PCOD Treatment and Management</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <div class="font-bold text-green-700 mb-2">Lifestyle Changes</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• 5-10% weight loss can restore hormones</li>
-                            <li>• Low glycemic diet</li>
-                            <li>• Regular exercise (30 mins/day)</li>
-                            <li>• Stress management</li>
-                            <li>• Adequate sleep (7-8 hours)</li>
+                            <li>5-10% weight loss can restore hormones</li>
+                            <li>Low glycemic diet</li>
+                            <li>Regular exercise (30 mins/day)</li>
+                            <li>Stress management</li>
+                            <li>Adequate sleep (7-8 hours)</li>
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <div class="font-bold text-blue-700 mb-2">Medical Treatment</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Birth control pills (period regulation)</li>
-                            <li>• Anti-androgens (for hair/acne)</li>
-                            <li>• Metformin (insulin resistance)</li>
-                            <li>• Clomiphene (for ovulation)</li>
-                            <li>• Inositrol supplements</li>
+                            <li>Birth control pills (period regulation)</li>
+                            <li>Anti-androgens (for hair/acne)</li>
+                            <li>Metformin (insulin resistance)</li>
+                            <li>Clomiphene (for ovulation)</li>
+                            <li>Inositrol supplements</li>
                         </ul>
                     </div>
                 </div>
@@ -242,7 +349,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -283,7 +390,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">PCOD Problems in Women - Symptoms, Causes and Health Effects में डॉक्टर को कब दिखाना चाहिए?</h3>

@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi",
+        "description": "High BP ke gharelu upchar, blood pressure ko control karne ke tarike, yoga asanas, aur diet tips। Blood pressure natural remedies जानें।",
+        "url": "https://rajhospitals.com/blog/remedies-for-high-bp",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/remedies-for-high-bp.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/remedies-for-high-bp",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: Understanding High BP -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">High Blood Pressure Kya Hai?</h2>
+                <h2 class="raj-h2">High Blood Pressure Kya Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
                     जब आपका <strong>blood pressure</strong> बहुत high हो जाता है, तो इसे high BP या hypertension कहते हैं। BP two numbers में measure होता है:
@@ -140,13 +247,13 @@
                     </div>
                 </div>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Important Warning:</strong>
                     <span class="text-gray-700"> High BP को "silent killer" कहते हैं क्योंकि इसे usually कोई symptoms नहीं होते। Regular BP check करना जरूरी है।</span>
                 </div>
 
                 <!-- Section 2: Lifestyle Changes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">High BP Control Karne Ke Lifestyle Changes</h2>
+                <h2 class="raj-h2">High BP Control Karne Ke Lifestyle Changes</h2>
 
                 <p class="text-gray-700 mb-4">
                     BP control करने के लिए lifestyle modifications सबसे important हैं:
@@ -176,58 +283,58 @@
                 </div>
 
                 <!-- Section 3: Home Remedies -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">High BP Ke Gharelu Upchar (Home Remedies)</h2>
+                <h2 class="raj-h2">High BP Ke Gharelu Upchar (Home Remedies)</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">1. Garlic (Lehsun)</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Garlic में allicin होता है जो blood vessels को relax करता है और BP reduce करता है।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Daily 1-2 raw garlic cloves खाएं या garlic milk (milk mein garlic boil करके) पिएं।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">2. Honey (Madhu)</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Honey heart को strengthen करता है और BP को balance करता है।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Morning में empty stomach 1 teaspoon honey + warm water में mix करके पिएं।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">3. Cinnamon (Dalchini)</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Cinnamon blood circulation improve करती है और BP reduce करती है।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Daily food में cinnamon powder add करें या cinnamon tea पिएं।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">4. Basil Leaves (Tulsi)</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Tulsi antioxidants से भरपूर है जो heart health improve करती है।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Morning में 4-5 tulsi leaves चबाएं या tulsi tea पिएं।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">5. Fenugreek Seeds (Methi Dana)</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Methi fiber से भरपूर है जो BP control करने में मदद करती है।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> 1 tablespoon methi dana को overnight soak करके morning में पिएं।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">6. Coconut Water (Nariyal Paani)</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Coconut water potassium और magnesium से भरपूर है जो BP balance करता है।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Daily 1 glass fresh coconut water पिएं।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">7. Watermelon Seeds</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Watermelon seeds में citrulline होता है जो blood vessels को widen करता है।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Watermelon seeds को dry करके powder बनाएं और daily 1 teaspoon लें।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">8. Banana</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Banana में potassium होती है जो sodium के effect को counter करती है।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Daily 1-2 bananas खाएं।</p>
                 </div>
 
                 <!-- Section 4: Yoga Asanas -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">High BP Ke Liye Yoga Asanas</h2>
+                <h2 class="raj-h2">High BP Ke Liye Yoga Asanas</h2>
 
                 <p class="text-gray-700 mb-4">
                     Yoga <strong>high BP reduce करने</strong> में very effective है:
@@ -252,41 +359,41 @@
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Warning:</strong>
                     <span class="text-gray-700"> High BP patients inverted poses (headstand, shoulder stand) avoid करें। Doctor consult करने के बाद ही yoga शुरू करें।</span>
                 </div>
 
                 <!-- Section 5: Diet Tips -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">High BP Diet Plan - Kya Khana Chahiye?</h2>
+                <h2 class="raj-h2">High BP Diet Plan - Kya Khana Chahiye?</h2>
 
                 <div class="space-y-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">Foods to Eat (Khalein)</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Fresh fruits और vegetables</li>
-                            <li>• Whole grains (oats, brown rice)</li>
-                            <li>• Lean proteins (fish, chicken without skin)</li>
-                            <li>• Low-fat dairy products</li>
-                            <li>• Nuts और seeds</li>
-                            <li>• Olive oil</li>
+                            <li>Fresh fruits और vegetables</li>
+                            <li>Whole grains (oats, brown rice)</li>
+                            <li>Lean proteins (fish, chicken without skin)</li>
+                            <li>Low-fat dairy products</li>
+                            <li>Nuts और seeds</li>
+                            <li>Olive oil</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Foods to Avoid (Na Khayein)</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Excess salt और soy sauce</li>
-                            <li>• Processed foods और canned soups</li>
-                            <li>• Fried foods</li>
-                            <li>• Red meat</li>
-                            <li>• Sugary drinks और desserts</li>
-                            <li>• Alcohol</li>
+                            <li>Excess salt और soy sauce</li>
+                            <li>Processed foods और canned soups</li>
+                            <li>Fried foods</li>
+                            <li>Red meat</li>
+                            <li>Sugary drinks और desserts</li>
+                            <li>Alcohol</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 6: DASH Diet -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">DASH Diet for High BP</h2>
+                <h2 class="raj-h2">DASH Diet for High BP</h2>
 
                 <p class="text-gray-700 mb-4">
                     DASH (Dietary Approaches to Stop Hypertension) diet specially high BP के लिए design किया गया है:
@@ -308,7 +415,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - High BP Remedies</h2>
+                <h2 class="raj-h2">FAQs - High BP Remedies</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -357,7 +464,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">High BP (High Blood Pressure) Ke Gharelu Upchar में डॉक्टर को कब दिखाना चाहिए?</h3>

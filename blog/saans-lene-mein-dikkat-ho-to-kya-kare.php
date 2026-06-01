@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? | RAJ Hospital",
+        "description": "Saans lene mein dikkat ho to kya karein, breathing problems ke causes aur ilaj के बारे में जानें। shortness of breath, dyspnea treatment और prevention tips।",
+        "url": "https://rajhospitals.com/blog/saans-lene-mein-dikkat-ho-to-kya-kare",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/saans-lene-mein-dikkat-ho-to-kya-kare.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/saans-lene-mein-dikkat-ho-to-kya-kare",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: What is Dyspnea -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Breathing Difficulty (Dyspnea) Kya Hai?</h2>
+                <h2 class="raj-h2">Breathing Difficulty (Dyspnea) Kya Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Dyspnea</strong> यानी <strong>saans लेने में दिक्कत</strong> एक ऐसी feeling है जब आपको लगता है कि आपकी chest tight हो रही है, हवा कम आ रही है, या breathing में effort ज्यादा लग रहा है। यह एक symptom है, खुद disease नहीं।
@@ -144,13 +251,13 @@
                     </div>
                 </div>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Important:</strong>
                     <span class="text-gray-700"> अगर अचानक severe breathing difficulty हो, chest pain के साथ हो, या blue skin color दिखे, तो यह medical emergency है और तुरंत medical help लें।</span>
                 </div>
 
                 <!-- Section 2: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Saans Lene Mein Dikkat Ke Causes</h2>
+                <h2 class="raj-h2">Saans Lene Mein Dikkat Ke Causes</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Breathing problems</strong> के कई causes हो सकते हैं:
@@ -207,7 +314,7 @@
                 </ul>
 
                 <!-- Section 3: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Breathing Difficulty Ke Symptoms</h2>
+                <h2 class="raj-h2">Breathing Difficulty Ke Symptoms</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Dyspnea</strong> के साथ ये symptoms भी हो सकते हैं:
@@ -217,27 +324,27 @@
                     <div class="bg-red-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-700">Emergency Signs (Emergency Sign)</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Severe chest pain</li>
-                            <li>• Blue lips or fingernails</li>
-                            <li>• Confusion या unconsciousness</li>
-                            <li>• High fever with chills</li>
-                            <li>• Sudden onset severe difficulty</li>
+                            <li>Severe chest pain</li>
+                            <li>Blue lips or fingernails</li>
+                            <li>Confusion या unconsciousness</li>
+                            <li>High fever with chills</li>
+                            <li>Sudden onset severe difficulty</li>
                         </ul>
                     </div>
                     <div class="bg-yellow-50 p-4 rounded-lg">
                         <h4 class="font-bold text-yellow-700">Other Symptoms</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Wheezing (sibilant sound)</li>
-                            <li>• Coughing</li>
-                            <li>• Fatigue especially on exertion</li>
-                            <li>• Swelling in ankles</li>
-                            <li>• Weight gain from fluid</li>
+                            <li>Wheezing (sibilant sound)</li>
+                            <li>Coughing</li>
+                            <li>Fatigue especially on exertion</li>
+                            <li>Swelling in ankles</li>
+                            <li>Weight gain from fluid</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 4: Diagnosis -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Breathing Difficulty Ki Jaanch (Diagnosis)</h2>
+                <h2 class="raj-h2">Breathing Difficulty Ki Jaanch (Diagnosis)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>SAANS की problem</strong> की proper diagnosis के लिए ये tests किए जाते हैं:
@@ -267,7 +374,7 @@
                 </div>
 
                 <!-- Section 5: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Breathing Difficulty Ka Ilaj (Treatment)</h2>
+                <h2 class="raj-h2">Breathing Difficulty Ka Ilaj (Treatment)</h2>
 
                 <p class="text-gray-700 mb-4">
                     Treatment underlying cause पर depend करती है:
@@ -293,28 +400,28 @@
                 </div>
 
                 <!-- Section 6: Home Remedies -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Breathing Difficulty Ke Gharelu Upchar</h2>
+                <h2 class="raj-h2">Breathing Difficulty Ke Gharelu Upchar</h2>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Pursed Lip Breathing:</strong> Slow through nose, exhale through pursed lips। This technique helps open airways.</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Sitting Forward:</strong> Forward lean position breathing को ease करता है।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Diaphragmatic Breathing:</strong> Deep belly breathing lung capacity improve करती है।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Steam Inhalation:</strong> Steam airways को moisturize aur relax करता है।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Elevate Head:</strong> Sleep में head ऊपर रखें।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Pursed Lip Breathing:</strong> Slow through nose, exhale through pursed lips। This technique helps open airways.</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Sitting Forward:</strong> Forward lean position breathing को ease करता है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Diaphragmatic Breathing:</strong> Deep belly breathing lung capacity improve करती है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Steam Inhalation:</strong> Steam airways को moisturize aur relax करता है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Elevate Head:</strong> Sleep में head ऊपर रखें।</li>
                     </ul>
                 </div>
 
                 <!-- Section 7: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Breathing Problems Se Bachav</h2>
+                <h2 class="raj-h2">Breathing Problems Se Bachav</h2>
 
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Quit Smoking:</strong> यह breathing problems का सबसे common cause है।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Regular Exercise:</strong> Cardiovascular fitness improve करता है।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Healthy Weight:</strong> Obesity breathing difficulty बढ़ाती है।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Avoid Pollutants:</strong> Dust, smoke, chemicals से बचें।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Vaccinations:</strong> Flu aur pneumonia vaccines लें।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quit Smoking:</strong> यह breathing problems का सबसे common cause है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Exercise:</strong> Cardiovascular fitness improve करता है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Healthy Weight:</strong> Obesity breathing difficulty बढ़ाती है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Avoid Pollutants:</strong> Dust, smoke, chemicals से बचें।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Vaccinations:</strong> Flu aur pneumonia vaccines लें।</li>
                     </ul>
                 </div>
 
@@ -326,7 +433,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Saans Lene Mein Dikkat</h2>
+                <h2 class="raj-h2">FAQs - Saans Lene Mein Dikkat</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -375,7 +482,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? में डॉक्टर को कब दिखाना चाहिए?</h3>

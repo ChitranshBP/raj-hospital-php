@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Subah Uthne Ke Baad Pair Mein Dard - Kyon Hota Hai? | RAJ Hospital",
+        "description": "Subah uthte hi pair mein dard kyon hota hai। Morning foot pain के causes, treatment aur prevention tips। Foot pain in morning से कैसे बचें।",
+        "url": "https://rajhospitals.com/blog/subah-uthte-hi-pair-me-dard-kyon-hota-hai",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/subah-uthte-hi-pair-me-dard-kyon-hota-hai.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/subah-uthte-hi-pair-me-dard-kyon-hota-hai",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Subah Uthne Ke Baad Pair Mein Dard - Kyon Hota Hai? | RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -123,7 +230,7 @@
                 </p>
 
                 <!-- Section 1: Why Morning Pain -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Subah Foot Pain Kyon Hoti Hai?</h2>
+                <h2 class="raj-h2">Subah Foot Pain Kyon Hoti Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
                     Morning foot pain mainly इसलिए होती है क्योंकि रात को हमारे feet rest पर होते हैं। Sleep में:
@@ -141,7 +248,7 @@
                 </p>
 
                 <!-- Section 2: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Morning Foot Pain Ke Causes</h2>
+                <h2 class="raj-h2">Morning Foot Pain Ke Causes</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -171,40 +278,40 @@
                 </div>
 
                 <!-- Section 3: Other Conditions -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Morning Stiffness Ke Aur Causes</h2>
+                <h2 class="raj-h2">Morning Stiffness Ke Aur Causes</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">Joint-Related</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Osteoarthritis</li>
-                            <li>• Rheumatoid arthritis</li>
-                            <li>• Gout (uric acid crystals)</li>
-                            <li>• Psoriatic arthritis</li>
+                            <li>Osteoarthritis</li>
+                            <li>Rheumatoid arthritis</li>
+                            <li>Gout (uric acid crystals)</li>
+                            <li>Psoriatic arthritis</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">Systemic Conditions</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li>• Fibromyalgia</li>
-                            <li>• Lupus</li>
-                            <li>• Hypothyroidism</li>
-                            <li>• Vitamin D deficiency</li>
+                            <li>Fibromyalgia</li>
+                            <li>Lupus</li>
+                            <li>Hypothyroidism</li>
+                            <li>Vitamin D deficiency</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 4: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Morning Foot Pain Ka Treatment</h2>
+                <h2 class="raj-h2">Morning Foot Pain Ka Treatment</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Home Remedies</h3>
-                <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Ice massage:</strong> बर्फ की cube से heel area massage करें 5-10 minutes।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Stretching exercises:</strong> Before getting out of bed, foot को stretch करें।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Roller ball massage:</strong> Tennis ball को foot के नीचे roll करें।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Towel stretch:</strong> बैठकर towel से toes pull करें।</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600">✓</span> <strong>Warm bath:</strong> Morning में warm water में feet soak करें।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Ice massage:</strong> बर्फ की cube से heel area massage करें 5-10 minutes।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Stretching exercises:</strong> Before getting out of bed, foot को stretch करें।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Roller ball massage:</strong> Tennis ball को foot के नीचे roll करें।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Towel stretch:</strong> बैठकर towel से toes pull करें।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Warm bath:</strong> Morning में warm water में feet soak करें।</li>
                     </ul>
                 </div>
 
@@ -229,7 +336,7 @@
                 </div>
 
                 <!-- Section 5: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Morning Foot Pain Se Bachav</h2>
+                <h2 class="raj-h2">Morning Foot Pain Se Bachav</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -251,7 +358,7 @@
                 </div>
 
                 <!-- Section 6: When to See Doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Kab Doctor Ke Paas Jaina Chahiye?</h2>
+                <h2 class="raj-h2">Kab Doctor Ke Paas Jaina Chahiye?</h2>
 
                 <p class="text-gray-700 mb-4">
                     अगर ये symptoms हों तो doctor consult करें:
@@ -274,7 +381,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Subah Foot Pain</h2>
+                <h2 class="raj-h2">FAQs - Subah Foot Pain</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -323,7 +430,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Subah Uthne Ke Baad Pair Mein Dard - Kyon Hota Hai? में डॉक्टर को कब दिखाना चाहिए?</h3>

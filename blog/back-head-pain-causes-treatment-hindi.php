@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "गर्दन और सिर दर्द: कारण, लक्षण और इलाज - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "description": "गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists और orthopedists की advice।",
+        "url": "https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/back-head-pain-causes-treatment-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "गर्दन और सिर दर्द: कारण, लक्षण और इलाज - Complete Hindi Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,19 +231,19 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">गर्दन और सिर दर्द क्या है?</h2>
+                <h2 class="raj-h2">गर्दन और सिर दर्द क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>गर्दन और सिर दर्द</strong> एक प्रकार का दर्द है जो गर्दन से शुरू होकर सिर की तरफ फैलता है। इसे <strong>Cervicogenic Headache</strong> भी कहते हैं। यह गर्दन की हड्डियों, मांसपेशियों, या नसों में किसी समस्या के कारण होता है।
                 </p>
 
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> अगर गर्दन और सिर दर्द के साथ <strong>हाथों में सुन्नपन</strong>, <strong>चक्कर</strong>, या <strong>दृष्टि में परिवर्तन</strong> हो, तो यह गंभीर हो सकता है और तुरंत डॉक्टर से मिलना चाहिए।</span>
                 </div>
 
                 <!-- Section 2: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">गर्दन और सिर दर्द के प्रमुख कारण</h2>
+                <h2 class="raj-h2">गर्दन और सिर दर्द के प्रमुख कारण</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -166,7 +273,7 @@
                 </div>
 
                 <!-- Section 3: Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">गर्दन और सिर दर्द के लक्षण</h2>
+                <h2 class="raj-h2">गर्दन और सिर दर्द के लक्षण</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -190,33 +297,33 @@
                 </div>
 
                 <!-- Section 4: Home Remedies -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">घरेलू उपाय और राहत</h2>
+                <h2 class="raj-h2">घरेलू उपाय और राहत</h2>
 
                 <p class="text-gray-700 mb-4">
                     हल्के से मध्यम गर्दन और सिर दर्द के लिए ये घरेलू उपाय मददगार हो सकते हैं:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🌡️ गर्म या ठंडा सेक</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="thermometer" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i>️ गर्म या ठंडा सेक</h4>
                         <p class="text-sm text-gray-600">गर्दन पर 15-20 मिनट तक गर्म तौलिये या बर्फ की थैली लगाएं। दोनों तरीके आज़माएं और देखें कि कौन सा बेहतर लगता है।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🧘 स्ट्रेचिंग एक्सरसाइज़</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> स्ट्रेचिंग एक्सरसाइज़</h4>
                         <p class="text-sm text-gray-600">गर्दन की सरल स्ट्रेचिंग एक्सरसाइज़ करें। सिर को धीरे-धीरे आगे, पीछे, दाएं और बाएं घुमाएं।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">💆 मालिश</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> मालिश</h4>
                         <p class="text-sm text-gray-600">गर्दन और कंधों की हल्की मालिश से दर्द में राहत मिल सकती है। गर्म नारियल तेल का उपयोग करें।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">😴 सही posture और नींद</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="moon" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> सही posture और नींद</h4>
                         <p class="text-sm text-gray-600">सही तकिया और गर्दन को सहारा देने वाली मुद्रा में सोएं। काम करते समय सीधे बैठें।</p>
                     </div>
                 </div>
 
                 <!-- Section 5: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">बचाव के उपाय</h2>
+                <h2 class="raj-h2">बचाव के उपाय</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>सही मुद्रा बनाए रखें:</strong> कंप्यूटर पर काम करते समय स्क्रीन आंखों के स्तर पर हो।</li>
@@ -235,10 +342,10 @@
                 </div>
 
                 <!-- Section 6: When to see doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">डॉक्टर को कब दिखाएं?</h2>
+                <h2 class="raj-h2">डॉक्टर को कब दिखाएं?</h2>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ तुरंत डॉक्टर से मिलें अगर:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> तुरंत डॉक्टर से मिलें अगर:</strong>
                     <ul class="list-disc list-inside space-y-1 text-gray-700 mt-2">
                         <li>दर्द बहुत तेज़ हो और घर के उपायों से न कम हो</li>
                         <li>हाथों या पैरों में सुन्नपन या कमज़ोरी हो</li>
@@ -251,7 +358,7 @@
                 </div>
 
                 <!-- Section 7: Treatment Options -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">डॉक्टरी इलाज</h2>
+                <h2 class="raj-h2">डॉक्टरी इलाज</h2>
 
                 <p class="text-gray-700 mb-4">
                     गंभीर या लंबे समय से चल रहे गर्दन और सिर दर्द के लिए डॉक्टर following treatments recommend कर सकते हैं:
@@ -277,7 +384,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -326,7 +433,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">गर्दन और सिर दर्द: कारण, लक्षण और इलाज में डॉक्टर को कब दिखाना चाहिए?</h3>

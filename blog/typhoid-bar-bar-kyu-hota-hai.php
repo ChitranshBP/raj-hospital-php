@@ -97,6 +97,59 @@
         ]
     }
     </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Typhoid Bar Bar Kyu Hota Hai - टाइफाइड बार-बार क्यों होता है? | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -134,7 +187,7 @@
                     <span class="text-gray-700"> टाइफाइड एक गंभीर bacterial infection है जो <strong>Salmonella Typhi</strong> bacteria से होती है। अगर properly treat न किया जाए, तो यह life-threatening हो सकती है। RAJ Hospital Ranchi में इसका effective treatment available है।</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">टाइफाइड क्या है और कैसे फैलती है?</h2>
+                <h2 class="raj-h2-secondary">टाइफाइड क्या है और कैसे फैलती है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Typhoid fever</strong> एक enteric fever है जो <strong>Salmonella Typhi</strong> bacteria के infection से होती है। यह primarily <strong>feco-oral route</strong> से फैलती है - यानी गंदे पानी, contaminated food, या poor sanitation के through।
@@ -144,7 +197,7 @@
                     भारत में टाइफाइड endemic है, especially गर्म और monsoon months में। poor sanitation और contaminated water supply इसकी main cause हैं।
                 </p>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">टाइफाइड बार-बार क्यों होता है? (Main Causes)</h2>
+                <h2 class="raj-h2-secondary">टाइफाइड बार-बार क्यों होता है? (Main Causes)</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-500">
@@ -173,7 +226,7 @@
                     </div>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">टाइफाइड के लक्षण</h2>
+                <h2 class="raj-h2-secondary">टाइफाइड के लक्षण</h2>
 
                 <div class="bg-blue-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <ul class="text-gray-700 space-y-2">
@@ -187,7 +240,7 @@
                     </ul>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">टाइफाइड का इलाज</h2>
+                <h2 class="raj-h2-secondary">टाइफाइड का इलाज</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Typhoid treatment</strong> primarily antibiotics पर based है:
@@ -197,49 +250,49 @@
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">First-line Antibiotics</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Azithromycin</li>
-                            <li>• Ceftriaxone (IV)</li>
-                            <li>• Cefixime</li>
+                            <li>Azithromycin</li>
+                            <li>Ceftriaxone (IV)</li>
+                            <li>Cefixime</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Supportive Care</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Complete bed rest</li>
-                            <li>• Plenty of fluids</li>
-                            <li>• Easily digestible food</li>
-                            <li>• Fever management</li>
+                            <li>Complete bed rest</li>
+                            <li>Plenty of fluids</li>
+                            <li>Easily digestible food</li>
+                            <li>Fever management</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">महत्वपूर्ण चेतावनी:</strong>
                     <span class="text-gray-700"> दवाई जब भी prescribed हो, <strong>पूरी course (usually 10-14 days)</strong> complete करें। Symptoms better feel होने पर भी treatment छोड़ना नहीं चाहिए। यही टाइफाइड बार-बार होने का main reason है!</span>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">टाइफाइड से बचाव (Prevention)</h2>
+                <h2 class="raj-h2-secondary">टाइफाइड से बचाव (Prevention)</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-600">
+                    <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700 mb-2">करें (Do)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Typhoid vaccine लगवाएं (टीवी वैक्सीन)</li>
-                            <li>• साफ पानी पिएं (boiled या filtered)</li>
-                            <li>• Fresh और properly cooked food खाएं</li>
-                            <li>• Fruits और vegetables धोकर खाएं</li>
-                            <li>• Hand washing properly करें</li>
-                            <li>• Boost immunity - balanced diet</li>
+                            <li>Typhoid vaccine लगवाएं (टीवी वैक्सीन)</li>
+                            <li>साफ पानी पिएं (boiled या filtered)</li>
+                            <li>Fresh और properly cooked food खाएं</li>
+                            <li>Fruits और vegetables धोकर खाएं</li>
+                            <li>Hand washing properly करें</li>
+                            <li>Boost immunity - balanced diet</li>
                         </ul>
                     </div>
-                    <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
+                    <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700 mb-2">न करें (Don't)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Raw या uncovered food न खाएं</li>
-                            <li>• Ice cubes avoid करें (unknown source)</li>
-                            <li>• Street food से बचें especially monsoon</li>
-                            <li>• Unsanitary places में खाना न खाएं</li>
-                            <li>• Raw salads avoid करें (unless purified)</li>
+                            <li>Raw या uncovered food न खाएं</li>
+                            <li>Ice cubes avoid करें (unknown source)</li>
+                            <li>Street food से बचें especially monsoon</li>
+                            <li>Unsanitary places में खाना न खाएं</li>
+                            <li>Raw salads avoid करें (unless purified)</li>
                         </ul>
                     </div>
                 </div>
@@ -250,7 +303,7 @@
                     <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">FAQs</h2>
+                <h2 class="raj-h2-secondary">FAQs</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">

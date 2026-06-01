@@ -84,6 +84,113 @@
 }
 </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "Pet Me Right Side Dard Hona | पेट के Right Side में दर्द के कारण और इलाज - RAJ Hospital",
+        "description": "Pet me right side dard hona ke karan in Hindi जानें। पेट के राइट साइड में दर्द के 15+ कारण, घरेलू उपाय, कब डॉक्टर से मिलें और prevention tips।",
+        "url": "https://rajhospitals.com/blog/pet-me-right-side-dard-hona.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/pet-me-right-side-dard-hona.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pet-me-right-side-dard-hona.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Pet Me Right Side Dard Hona | पेट के Right Side में दर्द के कारण और इलाज - RAJ Hospital"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -215,26 +322,26 @@
                     <div class="bg-orange-50 p-4 rounded-lg">
                         <h4 class="font-semibold text-gray-800 mb-2">Common Symptoms</h4>
                         <ul class="text-gray-600 space-y-1 text-sm">
-                            <li>• दर्द (mild, moderate, ya severe)</li>
-                            <li>• Bloating aur fullness</li>
-                            <li>• Gas aur flatulence</li>
-                            <li>• Nausea aur vomiting</li>
-                            <li>• Loss of appetite</li>
+                            <li>दर्द (mild, moderate, ya severe)</li>
+                            <li>Bloating aur fullness</li>
+                            <li>Gas aur flatulence</li>
+                            <li>Nausea aur vomiting</li>
+                            <li>Loss of appetite</li>
                         </ul>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg">
                         <h4 class="font-semibold text-gray-800 mb-2">Serious Warning Signs</h4>
                         <ul class="text-gray-600 space-y-1 text-sm">
-                            <li>• High fever (100°F+)</li>
-                            <li>• Blood in stool ya vomit</li>
-                            <li>• Severe dehydration</li>
-                            <li>• Unable to pass gas</li>
-                            <li>• Yellow skin/eyes (jaundice)</li>
+                            <li>High fever (100°F+)</li>
+                            <li>Blood in stool ya vomit</li>
+                            <li>Severe dehydration</li>
+                            <li>Unable to pass gas</li>
+                            <li>Yellow skin/eyes (jaundice)</li>
                         </ul>
                     </div>
                 </div>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r-lg">
+                <div class="raj-callout raj-callout-warning">
                     <p class="text-gray-700">
                         <strong>Important:</strong> अगर <strong>pet me right side dard hona</strong> के साथ fever, vomiting, ya severe pain है, तो इसे <strong>ignore</strong> न करें - यह <strong>appendicitis</strong> या अन्य serious condition का संकेत हो सकता है।
                     </p>
@@ -371,14 +478,14 @@
                     </div>
                 </div>
 
-                <div class="mt-6 bg-orange-100 border-l-4 border-orange-500 p-4 rounded-r-lg">
+                <div class="raj-callout raj-callout-warning">
                     <h4 class="font-semibold text-gray-800 mb-2">पेट के राइट साइड में दर्द का घरेलू इलाज - Additional Tips</h4>
                     <ul class="text-gray-700 space-y-1 text-sm">
-                        <li>• <strong>नियमित गर्म पानी पिएं</strong> - digestion के लिए</li>
-                        <li>• <strong>छोटे-छोटे भोजन लें</strong> - 5-6 small meals daily</li>
-                        <li>• <strong>Spicy और oily food से बचें</strong></li>
-                        <li>• <strong>प्रोबायोटिक्स लें</strong> - curd, buttermilk</li>
-                        <li>• <strong>पर्याप्त नींद लें</strong> - 7-8 hours daily</li>
+                        <li><strong>नियमित गर्म पानी पिएं</strong> - digestion के लिए</li>
+                        <li><strong>छोटे-छोटे भोजन लें</strong> - 5-6 small meals daily</li>
+                        <li><strong>Spicy और oily food से बचें</strong></li>
+                        <li><strong>प्रोबायोटिक्स लें</strong> - curd, buttermilk</li>
+                        <li><strong>पर्याप्त नींद लें</strong> - 7-8 hours daily</li>
                     </ul>
                 </div>
             </section>
@@ -397,21 +504,21 @@
                         <div>
                             <h3 class="font-semibold mb-3">Diet Tips - आहार संबंधी सुझाव</h3>
                             <ul class="space-y-2 text-sm">
-                                <li>✓ <strong>Fiber-rich food</strong> खाएं - vegetables, fruits, whole grains</li>
-                                <li>✓ <strong>Spicy food</strong> कम करें</li>
-                                <li>✓ <strong>Fried और oily food</strong> से बचें</li>
-                                <li>✓ <strong>Caffeine और alcohol</strong> limit करें</li>
-                                <li>✓ <strong>Small और frequent meals</strong> लें</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Fiber-rich food</strong> खाएं - vegetables, fruits, whole grains</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Spicy food</strong> कम करें</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Fried और oily food</strong> से बचें</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Caffeine और alcohol</strong> limit करें</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Small और frequent meals</strong> लें</li>
                             </ul>
                         </div>
                         <div>
                             <h3 class="font-semibold mb-3">Lifestyle Tips - जीवनशैली</h3>
                             <ul class="space-y-2 text-sm">
-                                <li>✓ <strong>Regular exercise</strong> करें - 30 minutes daily</li>
-                                <li>✓ <strong>Proper hydration</strong> - 8-10 glasses water</li>
-                                <li>✓ <strong>Stress management</strong> - yoga, meditation</li>
-                                <li>✓ <strong>Proper posture</strong> maintain करें</li>
-                                <li>✓ <strong>पूर्ण नींद</strong> लें</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Regular exercise</strong> करें - 30 minutes daily</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Proper hydration</strong> - 8-10 glasses water</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Stress management</strong> - yoga, meditation</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Proper posture</strong> maintain करें</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>पूर्ण नींद</strong> लें</li>
                             </ul>
                         </div>
                     </div>
@@ -433,14 +540,14 @@
                         Emergency Warning Signs
                     </h3>
                     <ul class="space-y-2 text-gray-700">
-                        <li>🚨 <strong>Severe और unbearable pain</strong></li>
-                        <li>🚨 <strong>High fever (101°F+)</strong></li>
-                        <li>🚨 <strong>Vomiting blood ya blood in stool</strong></li>
-                        <li>🚨 <strong>Unable to pass gas ya stool</strong></li>
-                        <li>🚨 <strong>Pregnancy के दौरान दर्द</strong></li>
-                        <li>🚨 <strong>Sudden weight loss</strong></li>
-                        <li>🚨 <strong>Yellow skin ya eyes (jaundice)</strong></li>
-                        <li>🚨 <strong>Swelling in abdomen</strong></li>
+                        <li><i data-feather="alert-octagon" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> <strong>Severe और unbearable pain</strong></li>
+                        <li><i data-feather="alert-octagon" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> <strong>High fever (101°F+)</strong></li>
+                        <li><i data-feather="alert-octagon" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> <strong>Vomiting blood ya blood in stool</strong></li>
+                        <li><i data-feather="alert-octagon" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> <strong>Unable to pass gas ya stool</strong></li>
+                        <li><i data-feather="alert-octagon" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> <strong>Pregnancy के दौरान दर्द</strong></li>
+                        <li><i data-feather="alert-octagon" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> <strong>Sudden weight loss</strong></li>
+                        <li><i data-feather="alert-octagon" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> <strong>Yellow skin ya eyes (jaundice)</strong></li>
+                        <li><i data-feather="alert-octagon" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> <strong>Swelling in abdomen</strong></li>
                     </ul>
                 </div>
             </section>

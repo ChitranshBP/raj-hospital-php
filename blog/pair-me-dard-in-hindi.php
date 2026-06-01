@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "पैर में दर्द - कारण, घरेलू उपाय और इलाज | RAJ Hospital Ranchi",
+        "description": "पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, arthritis, gout में अंतर। जानें कब डॉक्टर जाना है।",
+        "url": "https://rajhospitals.com/blog/pair-me-dard-in-hindi.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/pair-me-dard-in-hindi.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-22",
+        "dateModified": "2026-05-22",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pair-me-dard-in-hindi.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "पैर में दर्द - कारण, घरेलू उपाय और इलाज | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -124,7 +231,7 @@
                 </p>
 
                 <!-- Section 1 -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">पैर में दर्द के प्रमुख कारण</h2>
+                <h2 class="raj-h2">पैर में दर्द के प्रमुख कारण</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -154,7 +261,7 @@
                 </div>
 
                 <!-- Section 2: Symptoms by location -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">दर्द कहाँ होता है?</h2>
+                <h2 class="raj-h2">दर्द कहाँ होता है?</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -176,10 +283,10 @@
                 </div>
 
                 <!-- Section 3: When to worry -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">कब गंभीर मानें दर्द को?</h2>
+                <h2 class="raj-h2">कब गंभीर मानें दर्द को?</h2>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">⚠️ तुरंत डॉक्टर जाएं अगर:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> तुरंत डॉक्टर जाएं अगर:</strong>
                     <ul class="list-disc list-inside space-y-1 text-gray-700 mt-2">
                         <li>दर्द बहुत तेज़ हो और आराम से न कम हो</li>
                         <li>पैर में सूजन, लालिमा या गर्मी हो</li>
@@ -192,31 +299,31 @@
                 </div>
 
                 <!-- Section 4: Home Remedies -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">घरेलू उपाय और राहत</h2>
+                <h2 class="raj-h2">घरेलू उपाय और राहत</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🧊 Ice Compress</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-blue" aria-hidden="true"></i> Ice Compress</h4>
                         <p class="text-sm text-gray-600">सूजन पर 15-20 मिनट तक बर्फ की थैली लगाएं। दिन में कई बार करें।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">👟 सही जूते पहनें</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i> सही जूते पहनें</h4>
                         <p class="text-sm text-gray-600">अच्छी arch support वाले जूते पहनें। पुराने, फटे जूतों से बचें।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🧘 Stretching करें</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Stretching करें</h4>
                         <p class="text-sm text-gray-600">पैर और calf की muscles को stretch करें, खासकर सुबह।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">💊 Painkillers</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Painkillers</h4>
                         <p class="text-sm text-gray-600">NSAIDs जैसे ibuprofen pain और swelling कम करते हैं।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">🦶 Orthotics</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Orthotics</h4>
                         <p class="text-sm text-gray-600">Foot orthotics या heel cups support के लिए।</p>
                     </div>
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                        <h4 class="font-bold text-green-700">⚖️ Weight कम करें</h4>
+                    <div class="raj-callout raj-callout-success">
+                        <h4 class="font-bold text-green-700"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i>️ Weight कम करें</h4>
                         <p class="text-sm text-gray-600">मोटापा पैरों पर ज्यादा दबाव डालता है।</p>
                     </div>
                 </div>
@@ -229,7 +336,7 @@
                 </div>
 
                 <!-- Section 5: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">बचाव के उपाय</h2>
+                <h2 class="raj-h2">बचाव के उपाय</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>सही footwear:</strong> हमेशा सही साइज़ और arch support वाले जूते पहनें।</li>
@@ -240,7 +347,7 @@
                 </ul>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -285,7 +392,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पैर में दर्द - कारण, घरेलू उपाय और इलाज में डॉक्टर को कब दिखाना चाहिए?</h3>

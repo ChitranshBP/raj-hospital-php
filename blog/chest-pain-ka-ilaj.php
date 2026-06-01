@@ -84,6 +84,113 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO ARTICLE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "headline": "सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "description": "सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब घरेलू उपाय काफी हैं। Heart और lungs की जांच।",
+        "url": "https://rajhospitals.com/blog/chest-pain-ka-ilaj.php",
+        "image": "https://rajhospitals.com/blog/assets/img/featured/chest-pain-ka-ilaj.png",
+        "author": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "datePublished": "2026-05-17",
+        "dateModified": "2026-05-17",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/chest-pain-ka-ilaj.php",
+        "inLanguage": "hi-IN"
+    }
+    </script>
+    <!-- RAJ SEO ARTICLE SCHEMA END -->
+    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://rajhospitals.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog",
+                "item": "https://rajhospitals.com/blog/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide | RAJ Hospital Ranchi"
+            }
+        ]
+    }
+    </script>
+    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
+    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com",
+        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
+        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91-9876543210",
+            "contactType": "customer service",
+            "areaServed": "IN",
+            "availableLanguage": ["Hindi", "English"]
+        },
+        "sameAs": [
+            "https://www.facebook.com/rajhospitalsranchi",
+            "https://www.instagram.com/rajhospitalsranchi",
+            "https://www.youtube.com/@rajhospitalsranchi"
+        ]
+    }
+    </script>
+    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -129,13 +236,13 @@
                 </p>
 
                 <!-- Emergency Alert -->
-                <div class="bg-red-100 border-l-4 border-red-600 p-4 rounded-r-lg mb-6">
-                    <strong class="text-red-700">🚨 आपातकालीन चेतावनी:</strong>
+                <div class="raj-callout raj-callout-danger">
+                    <strong class="text-red-700"><i data-feather="alert-octagon" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> आपातकालीन चेतावनी:</strong>
                     <span class="text-gray-700"> अगर सीने में अचानक तेज दर्द हो, बांह, जबड़े या पीठ में दर्द फैले, सांस नहीं आए, या पसीना आए तो तुरंत 108 या नजदीकी hospital जाएं।</span>
                 </div>
 
                 <!-- Section 1: Types -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">सीने में दर्द के प्रकार</h2>
+                <h2 class="raj-h2">सीने में दर्द के प्रकार</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
@@ -157,7 +264,7 @@
                 </div>
 
                 <!-- Section 2: Heart Attack Signs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">Heart Attack के लक्षण कब दिखते हैं?</h2>
+                <h2 class="raj-h2">Heart Attack के लक्षण कब दिखते हैं?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Heart attack</strong> के symptoms हर व्यक्ति में समान नहीं होते। कुछ लोगों को कुछ signs दिखते हैं, जबकि अन्य बिना किसी warning के heart attack झेल सकते हैं।
@@ -172,13 +279,13 @@
                     <li><strong>मतली और उल्टी</strong></li>
                 </ul>
 
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg mb-6">
-                    <strong class="text-yellow-700">⚠️ महिलाओं में ध्यान दें:</strong>
+                <div class="raj-callout raj-callout-warning">
+                    <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> महिलाओं में ध्यान दें:</strong>
                     <span class="text-gray-700"> महिलाओं में heart attack के कुछ atypical symptoms हो सकते हैं जैसे अत्यधिक थकान, पेट दर्द, और anxiety।</span>
                 </div>
 
                 <!-- Section 3: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">सीने में दर्द का इलाज (Chest Pain Treatment)</h2>
+                <h2 class="raj-h2">सीने में दर्द का इलाज (Chest Pain Treatment)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Chest pain treatment</strong> दर्द के कारण पर निर्भर करती है। सही diagnosis के बिना कोई भी treatment शुरू नहीं करना चाहिए।
@@ -188,25 +295,25 @@
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <div class="font-bold text-blue-700 mb-2">हृदय दर्द का इलाज</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Aspirin और blood thinners</li>
-                            <li>• Angioplasty (stent placement)</li>
-                            <li>• Bypass surgery (गंभीर cases में)</li>
-                            <li>• Beta blockers और statins</li>
+                            <li>Aspirin और blood thinners</li>
+                            <li>Angioplasty (stent placement)</li>
+                            <li>Bypass surgery (गंभीर cases में)</li>
+                            <li>Beta blockers और statins</li>
                         </ul>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <div class="font-bold text-green-700 mb-2">अन्य कारणों का इलाज</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• Antacids (acidity के लिए)</li>
-                            <li>• Antibiotics (infection के लिए)</li>
-                            <li>• Anti-inflammatory दवाइयां</li>
-                            <li>• Anxiety management</li>
+                            <li>Antacids (acidity के लिए)</li>
+                            <li>Antibiotics (infection के लिए)</li>
+                            <li>Anti-inflammatory दवाइयां</li>
+                            <li>Anxiety management</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 4: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">सीने दर्द से बचाव</h2>
+                <h2 class="raj-h2">सीने दर्द से बचाव</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Prevention</strong> heart attack और सीने दर्द से बचाव का सबसे अच्छा तरीका है। Regular exercise, health diet, smoking छोड़ना, और stress management इसमें मदद करते हैं।
@@ -214,17 +321,17 @@
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🏃</div>
+                        <div class="text-2xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-700">व्यायाम</div>
                         <p class="text-xs text-gray-600">रोज़ाना 30 मिनट</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🥗</div>
+                        <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-700">स्वस्थ आहार</div>
                         <p class="text-xs text-gray-600">कम नमक और चर्बी</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🚭</div>
+                        <div class="text-2xl mb-2"><i data-feather="slash" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-700">धूम्रपान छोड़ें</div>
                         <p class="text-xs text-gray-600">तुरंत शुरू करें</p>
                     </div>
@@ -238,7 +345,7 @@
                 </div>
 
                 <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">FAQs - Common Questions</h2>
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -279,7 +386,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">सीने में दर्द का इलाज (Chest Pain Treatment) में डॉक्टर को कब दिखाना चाहिए?</h3>

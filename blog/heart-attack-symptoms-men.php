@@ -208,6 +208,32 @@
 }
     </script>
     <!-- RAJ SEO FAQ SCHEMA END -->
+    <!-- RAJ SEO WEBSITE SCHEMA START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "RAJ Hospital Ranchi",
+        "url": "https://rajhospitals.com/",
+        "inLanguage": "hi-IN",
+        "publisher": {
+            "@type": "Organization",
+            "name": "RAJ Hospital Ranchi",
+            "url": "https://rajhospitals.com",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://rajhospitals.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- RAJ SEO WEBSITE SCHEMA END -->
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -253,7 +279,7 @@
                 </div>
 
                 <!-- Section 1: Why Men are at Higher Risk -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">पुरुषों में दिल के दौरे का खतरा अधिक क्यों?</h2>
+                <h2 class="raj-h2-secondary">पुरुषों में दिल के दौरे का खतरा अधिक क्यों?</h2>
 
                 <p class="text-gray-700 mb-4">
                     शोध से पता चला है कि पुरुषों में दिल के दौरे का खतरा महिलाओं की तुलना में अधिक होता है। इसके कई कारण हैं:
@@ -279,7 +305,7 @@
                 </div>
 
                 <!-- Section 2: Early Warning Signs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">दिल के दौरे के प्रारंभिक चेतावनी संकेत</h2>
+                <h2 class="raj-h2-secondary">दिल के दौरे के प्रारंभिक चेतावनी संकेत</h2>
 
                 <p class="text-gray-700 mb-4">
                     दिल के दौरे से पहले कई चेतावनी संकेत दिखते हैं। इन्हें पहचानना बहुत जरूरी है:
@@ -313,7 +339,7 @@
                 </div>
 
                 <!-- Section 3: Age-wise Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">उम्र के अनुसार लक्षण</h2>
+                <h2 class="raj-h2-secondary">उम्र के अनुसार लक्षण</h2>
 
                 <p class="text-gray-700 mb-4">
                     अलग-अलग उम्र में दिल के दौरे के लक्षण अलग-अलग हो सकते हैं:
@@ -335,47 +361,47 @@
                 </div>
 
                 <!-- Section 4: Silent Heart Attack -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">Silent Heart Attack - मूक दिल का दौरा</h2>
+                <h2 class="raj-h2-secondary">Silent Heart Attack - मूक दिल का दौरा</h2>
 
                 <p class="text-gray-700 mb-4">
                     कुछ लोगों को दिल का दौरा बिना किसी स्पष्ट लक्षण के होता है। इसे <strong>Silent Heart Attack</strong> कहते हैं। ऐसे मामलों में लक्षण इतने mild होते हैं कि इन्हें भूल जाते हैं।
                 </p>
 
-                <div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg mb-6">
+                <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">महत्वपूर्ण:</strong>
                     <span class="text-gray-700"> Silent heart attack का पता ECG या blood tests से चलता है। 40+ उम्र के पुरुषों को नियमित cardiac checkup कराना चाहिए।</span>
                 </div>
 
                 <!-- Section 5: Risk Factors -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">दिल के दौरे के जोखिम कारक</h2>
+                <h2 class="raj-h2-secondary">दिल के दौरे के जोखिम कारक</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">नियंत्रणीय कारक</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• High BP (उच्च रक्तचाप)</li>
-                            <li>• मधुमेह (Diabetes)</li>
-                            <li>• उच्च कोलेस्ट्रॉल</li>
-                            <li>• मोटापा</li>
-                            <li>• धूम्रपान</li>
-                            <li>• शराब</li>
-                            <li>• शारीरिक गतिविधि की कमी</li>
+                            <li>High BP (उच्च रक्तचाप)</li>
+                            <li>मधुमेह (Diabetes)</li>
+                            <li>उच्च कोलेस्ट्रॉल</li>
+                            <li>मोटापा</li>
+                            <li>धूम्रपान</li>
+                            <li>शराब</li>
+                            <li>शारीरिक गतिविधि की कमी</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">अनियंत्रित कारक</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>• उम्र (45+ years)</li>
-                            <li>• पारिवारिक इतिहास</li>
-                            <li>• पुरुष होना</li>
-                            <li>• पिछला heart attack</li>
-                            <li>• Autoimmune diseases</li>
+                            <li>उम्र (45+ years)</li>
+                            <li>पारिवारिक इतिहास</li>
+                            <li>पुरुष होना</li>
+                            <li>पिछला heart attack</li>
+                            <li>Autoimmune diseases</li>
                         </ul>
                     </div>
                 </div>
 
                 <!-- Section 6: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">दिल के दौरे से बचाव के उपाय</h2>
+                <h2 class="raj-h2-secondary">दिल के दौरे से बचाव के उपाय</h2>
 
                 <p class="text-gray-700 mb-4">
                     दिल के दौरे से बचाव के लिए निम्न उपाय अपनाएं:
@@ -392,7 +418,7 @@
                 </ul>
 
                 <!-- Section 7: Related Conditions -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">दिल के दौरे और अन्य बीमारियों का संबंध</h2>
+                <h2 class="raj-h2-secondary">दिल के दौरे और अन्य बीमारियों का संबंध</h2>
 
                 <p class="text-gray-700 mb-4">
                     दिल के दौरे का संबंध कई अन्य स्वास्थ्य समस्याओं से है:
@@ -417,7 +443,7 @@
                 </div>
 
                 <!-- When to See a Doctor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-600 pb-2 mt-8 mb-4">डॉक्टर से कब मिलें?</h2>
+                <h2 class="raj-h2-secondary">डॉक्टर से कब मिलें?</h2>
 
                 <p class="text-gray-700 mb-4">
                     निम्न स्थितियों में तुरंत डॉक्टर से मिलें:
@@ -461,7 +487,7 @@
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="text-xl font-bold text-gray-800 border-b-2 border-secondary-600 pb-2 mb-4">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण में डॉक्टर को कब दिखाना चाहिए?</h3>
