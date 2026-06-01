@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a365d"/>
+      <stop offset="100%" style="stop-color:#2d3748"/>
+    </linearGradient>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e53e3e"/>
+      <stop offset="100%" style="stop-color:#c53030"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3182ce"/>
+      <stop offset="100%" style="stop-color:#2b6cb0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="100" cy="100" r="200" fill="#3182ce" opacity="0.1"/>
+  <circle cx="1100" cy="530" r="250" fill="#e53e3e" opacity="0.1"/>
+  <circle cx="600" cy="315" r="400" fill="#ffffff" opacity="0.02"/>
+
+  <!-- ECG Line Left -->
+  <path d="M 50 315 L 150 315 L 170 280 L 190 350 L 210 280 L 230 315 L 350 315"
+        stroke="#48bb78" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Main Heart Icon -->
+  <g transform="translate(550, 250)" filter="url(#glow)">
+    <path d="M 50 90 C 20 60, 0 30, 0 10 C 0 -20, 25 -30, 50 -30 C 75 -30, 100 -20, 100 10 C 100 30, 80 60, 50 90 Z"
+          fill="url(#heartGrad)" transform="translate(0, 20) scale(1.3)"/>
+  </g>
+
+  <!-- Lightning bolt for arrest -->
+  <g transform="translate(750, 280)">
+    <path d="M 20 0 L 0 50 L 30 50 L 10 100 L 50 40 L 20 40 L 40 0 Z"
+          fill="#f6e05e" filter="url(#glow)"/>
+  </g>
+
+  <!-- Cross medical symbol -->
+  <g transform="translate(380, 290)">
+    <rect x="15" y="0" width="20" height="50" rx="3" fill="#ffffff" opacity="0.9"/>
+    <rect x="0" y="15" width="50" height="20" rx="3" fill="#ffffff" opacity="0.9"/>
+  </g>
+
+  <!-- Heart rhythm waves -->
+  <path d="M 920 315 L 970 315 L 985 300 L 1000 340 L 1015 260 L 1030 360 L 1045 315 L 1100 315"
+        stroke="#fc8181" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- VS Text -->
+  <text x="600" y="480" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    VS
+  </text>
+
+  <!-- Labels -->
+  <g font-family="Arial, sans-serif">
+    <!-- Left Label -->
+    <rect x="280" y="520" width="200" height="45" rx="22" fill="url(#blueGrad)"/>
+    <text x="380" y="550" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle">HEART ATTACK</text>
+
+    <!-- Right Label -->
+    <rect x="720" y="520" width="200" height="45" rx="22" fill="url(#heartGrad)"/>
+    <text x="820" y="550" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle">CARDIAC ARREST</text>
+  </g>
+
+  <!-- Title Text -->
+  <text x="600" y="70" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    Heart Attack vs Cardiac Arrest
+  </text>
+  <text x="600" y="110" font-family="Arial, sans-serif" font-size="24" fill="#a0aec0" text-anchor="middle">
+    दिल का दौरा और दिल की रुकावट में अंतर
+  </text>
+
+  <!-- Info badges -->
+  <g transform="translate(200, 150)">
+    <rect x="0" y="0" width="160" height="60" rx="8" fill="#2d3748" stroke="#4a5568" stroke-width="1"/>
+    <text x="80" y="25" font-family="Arial, sans-serif" font-size="11" fill="#a0aec0" text-anchor="middle">CIRCULATION</text>
+    <text x="80" y="45" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#63b3ed" text-anchor="middle">Blood Flow Problem</text>
+  </g>
+
+  <g transform="translate(840, 150)">
+    <rect x="0" y="0" width="160" height="60" rx="8" fill="#2d3748" stroke="#4a5568" stroke-width="1"/>
+    <text x="80" y="25" font-family="Arial, sans-serif" font-size="11" fill="#a0aec0" text-anchor="middle">ELECTRICAL</text>
+    <text x="80" y="45" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fc8181" text-anchor="middle">Rhythm Problem</text>
+  </g>
+
+  <!-- Bottom info -->
+  <text x="600" y="600" font-family="Arial, sans-serif" font-size="14" fill="#718096" text-anchor="middle">
+    RAJ Hospital Ranchi | Complete Hindi Guide
+  </text>
+</svg>

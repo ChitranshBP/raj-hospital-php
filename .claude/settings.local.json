@@ -91,7 +91,11 @@
       "Bash(curl -s \"https://sdk-image3.s3.ap-south-1.amazonaws.com/Paediatric_Cardiology_and_Cardiac_Surgery_520b35a174.svg\" -o paediatric-cardiology.svg)",
       "Bash(curl -s \"https://sdk-image3.s3.ap-south-1.amazonaws.com/Group_637fdc0507.svg\" -o endocrinology.svg)",
       "Bash(curl -s \"https://sdk-image3.s3.ap-south-1.amazonaws.com/Group_1597_89172285af.svg\" -o radiology.svg)",
-      "Bash(curl -s \"https://sdk-image3.s3.ap-south-1.amazonaws.com/Group_1598_22ae1ad6da.svg\" -o laboratory.svg)"
+      "Bash(curl -s \"https://sdk-image3.s3.ap-south-1.amazonaws.com/Group_1598_22ae1ad6da.svg\" -o laboratory.svg)",
+      "Skill(seo-image-gen)",
+      "Skill(seo-image-gen:*)",
+      "Bash(export GOOGLE_AI_API_KEY=\"AIzaSyBfR7Sq7Oa9fNi7W3antwsGLBV0trEx-ug\")",
+      "Bash(python3 /Users/bp/.claude/skills/banana/scripts/generate.py --prompt 'Premium healthcare blog banner 16:9. Bold Hindi text '\\\\''पुरुषों में चिंता के लक्षण'\\\\'' left side. Professional male doctor with white coat and stethoscope right side. Gold #C8A96B and ivory #FAF7F2 colors. Clean modern medical design with abstract curved shapes. Floating medical icons. Premium aesthetic.' --aspect-ratio 16:9 --resolution 1K)"
     ]
   }
 }

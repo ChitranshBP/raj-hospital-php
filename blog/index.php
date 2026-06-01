@@ -93,7 +93,7 @@
                     'excerpt' => 'Acidity ke lakshan in Hindi जानें। पेट में जलन, गैस, और एसिडिटी के symptoms, causes, और treatment options।',
                     'category' => 'Gastroenterology',
                     'date' => 'May 22, 2026',
-                    'image' => 'assets/img/Common-Causes-of-Throat-Pain-visual-selection.png'
+                    'image' => 'assets/img/featured/acidity-symptoms-in-hindi.png'
                 ],
                 'pulse-rate-50-hone-par-kya-karen' => [
                     'title' => 'पल्स रेट 50 होने पर क्या करें? | Low Pulse Rate Guide',
@@ -220,11 +220,23 @@
                 return $meta;
             }
 
-            // Sort blogs by date (newest first)
-            usort($blogs, function($a, $b) use ($blog_data) {
-                $date_a = isset($blog_data[$a]) ? strtotime($blog_data[$a]['date']) : 0;
-                $date_b = isset($blog_data[$b]) ? strtotime($blog_data[$b]['date']) : 0;
-                return $date_b - $date_a; // Descending order
+            // Sort blogs by date (newest first) - use file modification time for blogs not in $blog_data
+            usort($blogs, function($a, $b) use ($blog_dir, $blog_data) {
+                // Get file modification time
+                $file_a = $blog_dir . '/' . $a . '.php';
+                $file_b = $blog_dir . '/' . $b . '.php';
+                $time_a = is_file($file_a) ? filemtime($file_a) : 0;
+                $time_b = is_file($file_b) ? filemtime($file_b) : 0;
+
+                // Check if date exists in blog_data (manual entry takes priority)
+                if (isset($blog_data[$a]) && isset($blog_data[$a]['date'])) {
+                    $time_a = strtotime($blog_data[$a]['date']);
+                }
+                if (isset($blog_data[$b]) && isset($blog_data[$b]['date'])) {
+                    $time_b = strtotime($blog_data[$b]['date']);
+                }
+
+                return $time_b - $time_a; // Descending order (newest first)
             });
 
             $posts_per_page = 9;
@@ -241,7 +253,7 @@
             ?>
                 <article class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 border border-gray-100">
                     <div class="aspect-[16/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center border-b border-gray-100">
-                        <img src="<?php echo htmlspecialchars($data['image']); ?>" alt="<?php echo htmlspecialchars($data['title']); ?>" class="w-full h-full object-contain hover:scale-105 transition-transform duration-300">
+                        <img src="/blog/<?php echo htmlspecialchars(ltrim($data['image'], '/')); ?>" alt="<?php echo htmlspecialchars($data['title']); ?>" class="w-full h-full object-contain hover:scale-105 transition-transform duration-300">
                     </div>
                     <div class="p-6">
                         <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-3"><?php echo htmlspecialchars($data['category']); ?></span>
