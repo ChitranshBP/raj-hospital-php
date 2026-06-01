@@ -1,0 +1,6 @@
+Foreign script leaks in blog/pregnancy-me-makhana-khane-ke-fayde.php
+============================================================
+
+Line  231  [arabic]
+  <strong>मखाना (Fox Nuts / Makhana)</strong> भारत में एक बहुत पौष्टिक snack के रूप में जाना जाता है। यह विशेषकर <strong>गर्भावस्था (pregnancy)</strong> के दौरान 
+

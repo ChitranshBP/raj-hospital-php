@@ -1,0 +1,6 @@
+Foreign script leaks in blog/joint-pain-in-winter-causes-remedies.php
+============================================================
+
+Line  144  [cyrillic]
+  "text": "इन symptoms में तुरंत डॉक्टर से मिलें: 1) दर्द 2-3 हफ्ते से ज्यादा है 2) Joint swelling, redness, या warmth है 3) Morning stiffness 30 मिनट से ज्यादा ह
+

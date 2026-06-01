@@ -1,0 +1,6 @@
+Foreign script leaks in blog/most-common-dental-procedures-and-how-they-work.php
+============================================================
+
+Line  312  [chinese]
+  कुछ मामलों में दांत को <strong>निकालना</strong> ही唯一 option होता है।
+

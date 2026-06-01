@@ -1,0 +1,9 @@
+Foreign script leaks in blog/migraine-symptoms-in-hindi.php
+============================================================
+
+Line  226  [arabic]
+  क्या आपको <strong>अक्सर सिर में अस تحملitable दर्द</strong> होता है? क्या दर्द के साथ <strong>आंखों में धुंधलापन</strong> और <strong>मतली</strong> भी होती है? य
+
+Line  259  [chinese]
+  <p class="text-sm text-gray-600">15 या ज्यादा दिनों में माइग्रेन होना। महीने में一半 से ज्यादा दिन受影响।</p>
+

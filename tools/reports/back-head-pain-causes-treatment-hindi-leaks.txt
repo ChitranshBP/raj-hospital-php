@@ -1,0 +1,6 @@
+Foreign script leaks in blog/back-head-pain-causes-treatment-hindi.php
+============================================================
+
+Line  230  [chinese]
+  <strong>गर्दन और सिर दर्द</strong> (Cervicogenic Headache) एक आम समस्या है जो कई कारणों से हो सकती है। यह आजकल बैठक生活方式 (sedentary lifestyle), ज्यादा देर तक स्क
+

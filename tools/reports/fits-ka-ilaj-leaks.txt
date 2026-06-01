@@ -1,0 +1,12 @@
+Foreign script leaks in blog/fits-ka-ilaj.php
+============================================================
+
+Line  383  [arabic]
+  <strong>Absence Seizures (Minor Fits)</strong> में व्यक्ति कुछ सेकंड के लिए غاضب या unresponsive हो जाता है। यह especially बच्चों में आम है और school performanc
+
+Line  463  [chinese]
+  <li>7. Patient को <strong>侧卧 position</strong> में रखें (ताकि vomit/ saliva बाहर आए)</li>
+
+Line  523  [chinese]
+  <h4 class="font-bold text-primary-600 mb-2">Neuropathy (神经病变)</h4>
+

@@ -1,0 +1,9 @@
+Foreign script leaks in blog/cervical-pain-symptoms-in-hindi.php
+============================================================
+
+Line  264  [cyrillic]
+  <p class="text-sm text-gray-600">हाथों में सुन्नपन, कमजोरी, или झनझनाहट।</p>
+
+Line  321  [cyrillic]
+  <strong>Prevention</strong> лучше treatment से है। कुछ आसान उपायों से आप गर्दन दर्द से बच सकते हैं। Computer पर काम करते समय screen आंखों के स्तर पर रखें, हर 30
+

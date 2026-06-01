@@ -1,0 +1,6 @@
+Foreign script leaks in blog/uric-acid-symptom-in-hindi.php
+============================================================
+
+Line  294  [arabic]
+  <p class="text-sm text-gray-600">Diuretics (water pills), aspirin, और بعض immunosuppressants uric acid level बढ़ा सकते हैं।</p>
+

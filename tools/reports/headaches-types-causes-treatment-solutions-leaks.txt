@@ -1,0 +1,9 @@
+Foreign script leaks in blog/headaches-types-causes-treatment-solutions.php
+============================================================
+
+Line  121  [chinese]
+  "text": "Common headache medicines: 1) Paracetamol - mild headache ke liye, 2) Ibuprofen - tension headache ke liye, 3) Sumatriptan - migraine ke liye doctor pr
+
+Line  626  [chinese]
+  <p class="text-gray-700"><strong>Answer:</strong> Common headache medicines: <strong>1) Paracetamol</strong> - mild headache ke liye, <strong>2) Ibuprofen</stro
+

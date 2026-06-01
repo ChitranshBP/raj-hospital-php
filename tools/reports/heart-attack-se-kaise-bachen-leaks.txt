@@ -1,0 +1,6 @@
+Foreign script leaks in blog/heart-attack-se-kaise-bachen.php
+============================================================
+
+Line  288  [korean]
+  <strong>Heart attack</strong> tab hota hai jab heart muscle mein blood flow rok jata hai, usually kisi blockage ki wajah se. Is blockage ka cause 대부분 cholestero
+

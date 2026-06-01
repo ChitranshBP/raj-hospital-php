@@ -1,0 +1,6 @@
+Foreign script leaks in blog/heart-attack-symptoms-in-hindi.php
+============================================================
+
+Line  493  [chinese]
+  अगर आपको या किसी身边的人 को <strong>heart attack</strong> के symptoms दिखें, तो निम्न steps follow करें:
+

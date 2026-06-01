@@ -1,0 +1,6 @@
+Foreign script leaks in blog/heart-cancer-symptoms-in-hindi.php
+============================================================
+
+Line  458  [chinese]
+  <p class="text-sm text-gray-600">Malignant tumors के लिए chemotherapy used होती है। यह surgery के बाद残留 cancer cells को destroy करने में help करती है।</p>
+

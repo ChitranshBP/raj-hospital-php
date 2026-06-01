@@ -1,0 +1,12 @@
+Foreign script leaks in blog/chikungunya-ke-lakshan-in-hindi.php
+============================================================
+
+Line  264  [cyrillic]
+  <p class="text-sm text-gray-600">यह चिकनगुनिया का सबसे प्रमुख और characteristic लक्षण है। हाथों, पैरों, коленок, और wrist joints में तेज दर्द।</p>
+
+Line  280  [cyrillic]
+  <p class="text-sm text-gray-600">अत्यधिक थकान और слабость जो weeks तक रह सकती है।</p>
+
+Line  406  [cyrillic]
+  <p class="text-gray-700">rare cases में, विशेषकर बुजुर्गों, बच्चों, или immunocompromised लोगों में।</p>
+

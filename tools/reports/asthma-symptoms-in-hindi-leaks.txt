@@ -1,0 +1,9 @@
+Foreign script leaks in blog/asthma-symptoms-in-hindi.php
+============================================================
+
+Line  560  [cyrillic]
+  <p>सांस छोड़ते समय छाती से <strong> свистящий звук (whistling sound)</strong> आना। यह दमा का प्रमुख लक्षण है।</p>
+
+Line  657  [chinese]
+  <p>अन्य श्वसन समस्याओं को <strong>排除 (exclude)</strong> करने के लिए।</p>
+
