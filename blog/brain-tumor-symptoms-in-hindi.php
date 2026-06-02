@@ -246,15 +246,19 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">सौम्य (Benign) Tumor</h4>
-                        <p class="text-sm text-gray-600">• धीरे-धीरे बढ़ता है</p>
-                        <p class="text-sm text-gray-600">• आसपास की tissue में नहीं फैलता</p>
-                        <p class="text-sm text-gray-600">• अक्सर पूर्णतः treated</p>
+                        <ul class="text-sm text-gray-600 list-disc list-inside space-y-1">
+                            <li>धीरे-धीरे बढ़ता है</li>
+                            <li>आसपास की tissue में नहीं फैलता</li>
+                            <li>अक्सर पूर्णतः treated</li>
+                        </ul>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">घातक (Malignant) Tumor</h4>
-                        <p class="text-sm text-gray-600">• तेज़ी से बढ़ता है</p>
-                        <p class="text-sm text-gray-600">• आसपास फैल सकता है</p>
-                        <p class="text-sm text-gray-600">• जल्दी इलाज ज़रूरी</p>
+                        <ul class="text-sm text-gray-600 list-disc list-inside space-y-1">
+                            <li>तेज़ी से बढ़ता है</li>
+                            <li>आसपास फैल सकता है</li>
+                            <li>जल्दी इलाज ज़रूरी</li>
+                        </ul>
                     </div>
                 </div>
 

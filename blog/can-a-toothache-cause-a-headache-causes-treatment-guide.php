@@ -332,7 +332,7 @@
                     </div>
                     <div class="bg-teal-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600">3. Tooth Extraction</h4>
-                        <p class="text-sm text-gray-600">严重 damage के लिए - wisdom teeth removal</p>
+                        <p class="text-sm text-gray-600">गंभीर damage के लिए - wisdom teeth removal</p>
                     </div>
                     <div class="bg-teal-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600">4. Antibiotics</h4>

@@ -490,7 +490,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-red-600 pb-2 mt-8 mb-4">Heart Attack के दौरान क्या करें?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    अगर आपको या किसी身边的人 को <strong>heart attack</strong> के symptoms दिखें, तो निम्न steps follow करें:
+                    अगर आपको या किसी आस-पास के लोगों को <strong>heart attack</strong> के symptoms दिखें, तो निम्न steps follow करें:
                 </p>
 
                 <div class="bg-red-50 border border-red-200 p-4 rounded-lg mb-6">

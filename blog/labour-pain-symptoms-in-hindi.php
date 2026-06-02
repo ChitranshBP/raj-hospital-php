@@ -271,7 +271,7 @@
                 <h2 class="raj-h2-secondary">प्रसव पीड़ा के लक्षण (Labour Pain Symptoms)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Labour pain ke lakshan</strong> महिला से महिला में अलग हो सकते हैं, लेकिन कुछ common symptoms जो大多数 women experience करती हैं:
+                    <strong>Labour pain ke lakshan</strong> महिला से महिला में अलग हो सकते हैं, लेकिन कुछ common symptoms जो अधिकांश women experience करती हैं:
                 </p>
 
                 <div class="bg-blue-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">

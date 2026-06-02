@@ -247,7 +247,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600"><i data-feather="moon" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> अत्यधिक थकान</h4>
-                        <p class="text-sm text-gray-600">दिन भर में बहुत ज्यादा усталость महसूस होना</p>
+                        <p class="text-sm text-gray-600">दिन भर में बहुत ज्यादा थकान महसूस होना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i>️ वजन बढ़ना</h4>

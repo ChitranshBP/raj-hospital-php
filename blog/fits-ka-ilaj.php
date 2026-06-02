@@ -380,7 +380,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Absence Seizures (Minor Fits)</strong> में व्यक्ति कुछ सेकंड के लिए غاضب या unresponsive हो जाता है। यह especially बच्चों में आम है और school performance को affect कर सकता है। अगर बच्चा बार-बार daydreaming करता है या focus नहीं कर पा रहा है, तो neurologist से मिलना चाहिए।
+                    <strong>Absence Seizures (Minor Fits)</strong> में व्यक्ति कुछ सेकंड के लिए भावशून्य या unresponsive हो जाता है। यह especially बच्चों में आम है और school performance को affect कर सकता है। अगर बच्चा बार-बार daydreaming करता है या focus नहीं कर पा रहा है, तो neurologist से मिलना चाहिए।
                 </p>
 
                 <!-- Section 5: Diagnosis -->
@@ -460,7 +460,7 @@
                         <li>4. सिर के नीचे <strong>soft thing</strong> रखें</li>
                         <li>5. चीज़ें दांतों में न डालें (ज़बान काटने का risk है)</li>
                         <li>6. दौरे के दौरान <strong>पकड़कर रोकने</strong> की कोशिश न करें</li>
-                        <li>7. Patient को <strong>侧卧 position</strong> में रखें (ताकि vomit/ saliva बाहर आए)</li>
+                        <li>7. Patient को <strong>करवट की position</strong> में रखें (ताकि vomit/ saliva बाहर आए)</li>
                     </ul>
                 </div>
 
@@ -520,7 +520,7 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-primary-600 mb-2">Neuropathy (神经病变)</h4>
+                        <h4 class="font-bold text-primary-600 mb-2">Neuropathy (न्यूरोपैथी)</h4>
                         <p class="text-sm text-gray-600">Nerve damage जो weakness, numbness, और pain करता है। कई बार fits और neuropathy एक ही underlying condition के signs हो सकते हैं। <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Neuropathy treatment</a> उपलब्ध है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">

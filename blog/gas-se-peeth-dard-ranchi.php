@@ -347,14 +347,14 @@
                 <div class="bg-primary-50 p-4 rounded-lg mb-6">
                     <h4 class="font-bold text-primary-700 mb-3">मुख्य लक्षण (Symptoms):</h4>
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> पेट में भारापन और फूलना (Bloating)</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> पेट से गैस आना या डकार आना (Burping or Flatulence)</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> पीठ के निचले हिस्से में दर्द (Lower Back Pain)</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> पीठ में अकड़न (Stiffness in Back)</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> दर्द का आना-जाना (Intermittent Pain)</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> पेट के निचले हिस्से में ऐंठन (Abdominal Cramping)</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> खाना खाने के बाद दर्द बढ़ना</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> गर्मी से दर्द में आराम</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> पेट में भारापन और फूलना (Bloating)</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> पेट से गैस आना या डकार आना (Burping or Flatulence)</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> पीठ के निचले हिस्से में दर्द (Lower Back Pain)</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> पीठ में अकड़न (Stiffness in Back)</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> दर्द का आना-जाना (Intermittent Pain)</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> पेट के निचले हिस्से में ऐंठन (Abdominal Cramping)</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> खाना खाने के बाद दर्द बढ़ना</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> गर्मी से दर्द में आराम</li>
                     </ul>
                 </div>
 
@@ -476,10 +476,10 @@
                 <div class="bg-primary-100 p-6 rounded-lg mb-6">
                     <h4 class="font-bold text-primary-800 mb-2">मुख्य बातें याद रखें:</h4>
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> गैस से पीठ दर्द आम है और अक्सर गंभीर नहीं होता</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> धीरे-धीरे खाना और गैस वाले पदार्थों से बचना इससे बचाव है</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> घरेलू उपाय पहले आजमाएं, फिर डॉक्टर से मिलें</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600 font-bold">•</span> <strong>RAJ Hospital Ranchi</strong> में गैस और पीठ दर्द दोनों का इलाज उपलब्ध है</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> गैस से पीठ दर्द आम है और अक्सर गंभीर नहीं होता</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> धीरे-धीरे खाना और गैस वाले पदार्थों से बचना इससे बचाव है</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> घरेलू उपाय पहले आजमाएं, फिर डॉक्टर से मिलें</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> <strong>RAJ Hospital Ranchi</strong> में गैस और पीठ दर्द दोनों का इलाज उपलब्ध है</li>
                     </ul>
                 </div>
 

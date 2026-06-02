@@ -226,9 +226,9 @@
             </p>
             <div class="flex items-center gap-4 text-sm text-gray-500">
                 <span>Published: May 2026</span>
-                <span>•</span>
+                <span><i data-feather="circle" class="raj-icon raj-icon-xs raj-icon-gray" aria-hidden="true"></i></span>
                 <span>Reading Time: 8 min</span>
-                <span>•</span>
+                <span><i data-feather="circle" class="raj-icon raj-icon-xs raj-icon-gray" aria-hidden="true"></i></span>
                 <span>By RAJ Hospital</span>
             </div>
         </header>

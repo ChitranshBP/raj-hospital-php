@@ -141,7 +141,7 @@
                 "name": "डॉक्टर को कब दिखाना चाहिए जोड़ों के दर्द में?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "इन symptoms में तुरंत डॉक्टर से मिलें: 1) दर्द 2-3 हफ्ते से ज्यादा है 2) Joint swelling, redness, या warmth है 3) Morning stiffness 30 मिनट से ज्यादा है 4) Fever के साथ joint pain है 5) Joint completely locked या immobile है 6) Daily activities affected हैं 7) Pain очень severe है या night pain है। RAJ Hospital Ranchi में आप appointment book कर सकते हैं।"
+                    "text": "इन symptoms में तुरंत डॉक्टर से मिलें: 1) दर्द 2-3 हफ्ते से ज्यादा है 2) Joint swelling, redness, या warmth है 3) Morning stiffness 30 मिनट से ज्यादा है 4) Fever के साथ joint pain है 5) Joint completely locked या immobile है 6) Daily activities affected हैं 7) Pain बहुत severe है या night pain है। RAJ Hospital Ranchi में आप appointment book कर सकते हैं।"
                 }
             }
         ]

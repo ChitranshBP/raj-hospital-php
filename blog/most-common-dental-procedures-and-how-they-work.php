@@ -309,7 +309,7 @@
                 <h2 class="raj-h2">4. Tooth Extraction (दांत निकालना)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    कुछ मामलों में दांत को <strong>निकालना</strong> ही唯一 option होता है।
+                    कुछ मामलों में दांत को <strong>निकालना</strong> ही एकमात्र option होता है।
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">

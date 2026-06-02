@@ -334,7 +334,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Allogeneic Transplant</h4>
-                        <p class="text-sm text-gray-600">Another person (donor) से stem cells लिए जाते हैं। Donor可以是 family member, unrelated matched donor, या umbilical cord blood। Higher risk but potentially curative for many diseases.</p>
+                        <p class="text-sm text-gray-600">Another person (donor) से stem cells लिए जाते हैं। Donor हो सकता है family member, unrelated matched donor, या umbilical cord blood। Higher risk but potentially curative for many diseases.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Syngeneic Transplant</h4>

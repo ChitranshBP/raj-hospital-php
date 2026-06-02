@@ -291,7 +291,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">6. Medications</h4>
-                        <p class="text-sm text-gray-600">Diuretics (water pills), aspirin, और بعض immunosuppressants uric acid level बढ़ा सकते हैं।</p>
+                        <p class="text-sm text-gray-600">Diuretics (water pills), aspirin, और कुछ immunosuppressants uric acid level बढ़ा सकते हैं।</p>
                     </div>
                 </div>
 

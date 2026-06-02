@@ -223,7 +223,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    क्या आपको <strong>अक्सर सिर में अस تحملitable दर्द</strong> होता है? क्या दर्द के साथ <strong>आंखों में धुंधलापन</strong> और <strong>मतली</strong> भी होती है? ये <strong>माइग्रेन (Migraine)</strong> के लक्षण हो सकते हैं।
+                    क्या आपको <strong>अक्सर सिर में असहनीय दर्द</strong> होता है? क्या दर्द के साथ <strong>आंखों में धुंधलापन</strong> और <strong>मतली</strong> भी होती है? ये <strong>माइग्रेन (Migraine)</strong> के लक्षण हो सकते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -256,7 +256,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">Chronic Migraine</h4>
-                        <p class="text-sm text-gray-600">15 या ज्यादा दिनों में माइग्रेन होना। महीने में一半 से ज्यादा दिन受影响।</p>
+                        <p class="text-sm text-gray-600">15 या ज्यादा दिनों में माइग्रेन होना। महीने में आधे से ज्यादा दिन प्रभावित।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">Hemiplegic Migraine</h4>

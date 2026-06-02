@@ -338,7 +338,7 @@
                     <li><strong>Chest pain</strong> जो physical activity से बढ़ती है</li>
                     <li><strong>Shortness of breath</strong> जो rest पर भी नहीं जाती</li>
                     <li><strong>Arm, jaw, या back में दर्द</strong></li>
-                    <li><strong>Extreme fatigue</strong>平时的 activities से</li>
+                    <li><strong>Extreme fatigue</strong> रोज़मर्रा की activities से</li>
                     <li><strong>Swelling in legs</strong></li>
                     <li><strong>Irregular heartbeat</strong> जो persistent है</li>
                 </ul>

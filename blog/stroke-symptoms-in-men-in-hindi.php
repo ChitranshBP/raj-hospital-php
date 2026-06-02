@@ -395,7 +395,7 @@
                 <h2 class="raj-h2">Mini-Stroke (TIA) - Warning Sign</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>TIA (Transient Ischemic Attack)</strong> या "mini-stroke" एक temporary period होता है जब brain में blood flow briefly रुक जाती है। Symptoms几分钟內消失 BUT यह एक serious warning sign है!
+                    <strong>TIA (Transient Ischemic Attack)</strong> या "mini-stroke" एक temporary period होता है जब brain में blood flow briefly रुक जाती है। Symptoms कुछ ही मिनटों में गायब हो जाते हैं BUT यह एक serious warning sign है!
                 </p>
 
                 <div class="raj-callout raj-callout-danger">
@@ -446,7 +446,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya stroke ke symptoms अचानक आते hain?</h4>
-                        <p class="text-gray-700">Most cases में हाँ, stroke symptoms sudden onset करते हैं। एक minute человек нормально होता है, अगला minute symptoms दिखने लगते हैं। कभी-कभी symptoms gradually भी बढ़ सकते हैं।</p>
+                        <p class="text-gray-700">Most cases में हाँ, stroke symptoms sudden onset करते हैं। एक minute व्यक्ति सामान्य होता है, अगला minute symptoms दिखने लगते हैं। कभी-कभी symptoms gradually भी बढ़ सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya सिर्फ headache stroke का sign हो सकता hai?</h4>

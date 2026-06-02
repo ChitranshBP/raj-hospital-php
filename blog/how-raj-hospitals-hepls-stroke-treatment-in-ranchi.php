@@ -305,7 +305,7 @@
                         <p class="text-xs text-gray-600">Critical care</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl mb-2">🔄</div>
+                        <i data-feather="refresh-cw" class="raj-icon raj-icon-md raj-icon-secondary mb-2" aria-hidden="true"></i>
                         <h4 class="font-bold text-secondary-600 text-sm">Rehabilitation</h4>
                         <p class="text-xs text-gray-600">Physiotherapy</p>
                     </div>

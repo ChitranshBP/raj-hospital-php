@@ -307,7 +307,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Miscarriage का risk</strong> -甲状腺功能低下可能导致流产</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Miscarriage का risk</strong> - हाइपोथायरायडिज्म से miscarriage हो सकता है</li>
                         <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Preterm delivery</strong> - समय से पहले delivery</li>
                         <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Preeclampsia</strong> - high blood pressure pregnancy में</li>
                         <li class="flex items-start gap-2"><span class="text-yellow-600"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></span> <strong>Baby का low birth weight</strong></li>

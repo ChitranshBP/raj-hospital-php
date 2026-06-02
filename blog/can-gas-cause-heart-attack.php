@@ -296,7 +296,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-orange-600">
                         <h4 class="font-bold text-orange-600">3. Hiatal Hernia</h4>
-                        <p class="text-sm text-gray-600">यह condition gas pain को heart pain जैसा बना सकती है। Stomach का一部分 chest में push करता है।</p>
+                        <p class="text-sm text-gray-600">यह condition gas pain को heart pain जैसा बना सकती है। Stomach का एक हिस्सा chest में push करता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-orange-600">
                         <h4 class="font-bold text-orange-600">4. GERD</h4>

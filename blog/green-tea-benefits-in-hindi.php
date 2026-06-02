@@ -92,7 +92,7 @@
                 "name": "ग्रीन टी और black tea में क्या अंतर है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Green tea minimally processed होता है और इसमें ज्यादा antioxidants сохраняются। Black tea fermented होता है और इसमें caffeine अधिक होती है। Green tea में EGCG जैसे powerful catechins अधिक होते हैं।"
+                    "text": "Green tea minimally processed होता है और इसमें ज्यादा antioxidants संरक्षित रहते हैं। Black tea fermented होता है और इसमें caffeine अधिक होती है। Green tea में EGCG जैसे powerful catechins अधिक होते हैं।"
                 }
             },
             {
@@ -264,7 +264,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    आजकल भारत में भी <strong>green tea benefits in Hindi</strong> की demand बढ़ रही है क्योंकि लोग स्वस्थ जीवनशैली (healthy lifestyle) की ओर ज्यादा توجه दे रहे हैं। इस article में हम <strong>ग्रीन टी के फायदे</strong> के बारे में detail से जानेंगे - इसके nutrients, health benefits, possible side effects, और सही तरीका।
+                    आजकल भारत में भी <strong>green tea benefits in Hindi</strong> की demand बढ़ रही है क्योंकि लोग स्वस्थ जीवनशैली (healthy lifestyle) की ओर ज्यादा ध्यान दे रहे हैं। इस article में हम <strong>ग्रीन टी के फायदे</strong> के बारे में detail से जानेंगे - इसके nutrients, health benefits, possible side effects, और सही तरीका।
                 </p>
 
                 <!-- Quick Benefits Box -->
@@ -403,7 +403,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-green-600 pb-2 mt-8 mb-4">ग्रीन टी कैसे बनाएं और कब पिएं (How to Prepare Green Tea)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Green Tea Preparation</strong> सही होना चाहिए ताकि इसके nutrients maximum сохраня रहें:
+                    <strong>Green Tea Preparation</strong> सही होना चाहिए ताकि इसके nutrients maximum संरक्षित रहें:
                 </p>
 
                 <div class="bg-gray-50 p-4 rounded-lg mb-6">

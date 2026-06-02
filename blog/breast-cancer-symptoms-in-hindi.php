@@ -321,7 +321,7 @@
                             </tr>
                             <tr>
                                 <td class="p-3 font-medium">Inflammatory Breast Cancer</td>
-                                <td class="p-3"> редी, aggressive - त्वचा में swelling और redness</td>
+                                <td class="p-3"> दुर्लभ, aggressive - त्वचा में swelling और redness</td>
                             </tr>
                             <tr class="bg-gray-50">
                                 <td class="p-3 font-medium">Paget's Disease</td>

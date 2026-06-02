@@ -558,7 +558,7 @@
                 </div>
                 <div class="symptom-card">
                     <h4>2. छाती में घरघराहट (Wheezing)</h4>
-                    <p>सांस छोड़ते समय छाती से <strong> свистящий звук (whistling sound)</strong> आना। यह दमा का प्रमुख लक्षण है।</p>
+                    <p>सांस छोड़ते समय छाती से <strong>सीटी जैसी आवाज़ (whistling sound)</strong> आना। यह दमा का प्रमुख लक्षण है।</p>
                 </div>
                 <div class="symptom-card">
                     <h4>3. खांसी (Coughing)</h4>
@@ -655,7 +655,7 @@
             <p>यह जानने के लिए कि <strong>कौन से एलर्जेंस</strong> आपके दमा को ट्रिगर करते हैं। skin prick test या blood test किया जाता है।</p>
 
             <h3>5. छाती का X-ray</h3>
-            <p>अन्य श्वसन समस्याओं को <strong>排除 (exclude)</strong> करने के लिए।</p>
+            <p>अन्य श्वसन समस्याओं को <strong>बाहर (exclude)</strong> करने के लिए।</p>
 
             <!-- Section 6: Treatment -->
             <h2>दमा का इलाज (Asthma Treatment)</h2>

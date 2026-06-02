@@ -554,7 +554,7 @@ $base_url = '../';
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
                 <span class="w-8 h-8 bg-hospital-blue text-white rounded-full flex items-center justify-center text-sm mr-3">7</span>
-                डायबिटीज़ कंट्रोल के дополнительные tips
+                डायबिटीज़ कंट्रोल के अतिरिक्त tips
             </h2>
 
             <div class="space-y-4 mb-6">

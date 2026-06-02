@@ -14,7 +14,7 @@
     <link rel="canonical" href="https://rajhospitals.com/blog/kft-test-kya-hai-hindi.php">
 
     <meta property="og:title" content="KFT Test Kya Hota Hai | Kidney Function Test in Hindi">
-    <meta property="og:description" content="KFT test ki poori jankari in Hindi। Kidney function test kya hota hai, normal values, procedure, cost aur interpretation।">
+    <meta property="og:description" content="KFT test ki puri jankari in Hindi। Kidney function test kya hota hai, normal values, procedure, cost aur interpretation।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/kft-test-kya-hai-hindi.php">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/kft-test-kya-hai-hindi.png">
@@ -69,7 +69,7 @@
             "name": "KFT Aur LFT Mein Kya Farak Hai - Difference Between KFT and LFT in Hindi",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "KFT (Kidney Function Test) kidney ki health check karta hai जबकि LFT (Liver Function Test) liver ki health assess karta hai। KFT में creatinine, BUN, GFR, aur electrolytes check hote hain। LFT में SGOT, SGPT, bilirubin, ALP, aur albumin check hota hai। Dono tests alag-alag organs की जांच के लिए kiye jate hain।"
+                "text": "KFT (Kidney Function Test) kidney ki health check karta है जबकि LFT (Liver Function Test) liver ki health assess karta hai। KFT में creatinine, BUN, GFR, aur electrolytes check hote hain। LFT में SGOT, SGPT, bilirubin, ALP, aur albumin check hota hai। Dono tests alag-alag organs की जांच के लिए kiye jate hain।"
             }
         },
         {
@@ -209,7 +209,7 @@
         {
             "@type": "HowToStep",
             "name": "Tayaari",
-            "text": "KFT test se 8-12 hours pehle khaana-pina band karein। Sirf paani пиेने ki permission hai। Apni medicines ki list saath mein rakhein।"
+            "text": "KFT test se 8-12 hours pehle khaana-pina band karein। Sirf paani पीने ki permission hai। Apni medicines ki list saath mein rakhein।"
         },
         {
             "@type": "HowToStep",
@@ -270,9 +270,9 @@
             </p>
             <div class="flex items-center gap-4 text-sm text-gray-500">
                 <span>Published: May 2026</span>
-                <span>•</span>
+                <span><i data-feather="circle" class="raj-icon raj-icon-xs raj-icon-gray" aria-hidden="true"></i></span>
                 <span>Reading Time: 10 min</span>
-                <span>•</span>
+                <span><i data-feather="circle" class="raj-icon raj-icon-xs raj-icon-gray" aria-hidden="true"></i></span>
                 <span>By RAJ Hospital</span>
             </div>
         </header>
@@ -534,7 +534,7 @@
                         </li>
                         <li class="flex items-start gap-3">
                             <span class="w-6 h-6 bg-green-500 text-white rounded-full flex items-center justify-center text-sm flex-shrink-0">2</span>
-                            <span><strong>Water:</strong> Clear water питьने की permission है। Hydration maintain रखें।</span>
+                            <span><strong>Water:</strong> Clear water पीने की permission है। Hydration maintain रखें।</span>
                         </li>
                         <li class="flex items-start gap-3">
                             <span class="w-6 h-6 bg-green-500 text-white rounded-full flex items-center justify-center text-sm flex-shrink-0">3</span>
@@ -889,5 +889,4 @@
         feather.replace();
     </script>
 </body>
-
 </html>

@@ -341,7 +341,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2">ESWL painful है?</h4>
-                        <p class="text-gray-700">Mild discomfort हो सकती है, लेकिन sedation दिया जाता है।大多数 patients same day discharge करते हैं।</p>
+                        <p class="text-gray-700">Mild discomfort हो सकती है, लेकिन sedation दिया जाता है। अधिकांश patients same day discharge करते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2">Stone दोबारा हो सकती है?</h4>

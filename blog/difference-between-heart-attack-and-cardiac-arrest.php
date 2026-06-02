@@ -145,7 +145,7 @@
                 "name": "कौन सी condition ज्यादा खतरनाक है - Heart Attack या Cardiac Arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दोनों ही life-threatening emergencies हैं, लेकिन Cardiac Arrest ज्यादा immediately fatal हो सकता है। अगर CPR और defibrillation तुरंत नहीं मिले, तो几分钟之内 death हो सकता है। Heart Attack भी fatal हो सकता है, especially अगर large area damage हुआ हो, लेकिन आमतौर पर treatment के लिए ज्यादा time मिलता है।"
+                    "text": "दोनों ही life-threatening emergencies हैं, लेकिन Cardiac Arrest ज्यादा immediately fatal हो सकता है। अगर CPR और defibrillation तुरंत नहीं मिले, तो कुछ ही मिनटों में death हो सकता है। Heart Attack भी fatal हो सकता है, especially अगर large area damage हुआ हो, लेकिन आमतौर पर treatment के लिए ज्यादा time मिलता है।"
                 }
             },
             {
@@ -200,7 +200,7 @@
                         <div class="flex items-center gap-2 text-sm mb-2 opacity-90">
                             <i data-feather="calendar"></i>
                             <span>May 25, 2026</span>
-                            <span class="mx-2">•</span>
+                            <span class="mx-2"><i data-feather="circle" class="raj-icon raj-icon-xs raj-icon-gray" aria-hidden="true"></i></span>
                             <i data-feather="user"></i>
                             <span>RAJ Hospital Medical Team</span>
                         </div>
@@ -461,7 +461,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">कौन सी condition ज्यादा खतरनाक है - Heart Attack या Cardiac Arrest?</h4>
-                        <p class="text-gray-700">दोनों ही life-threatening emergencies हैं, लेकिन Cardiac Arrest ज्यादा immediately fatal हो सकता है। अगर CPR और defibrillation तुरंत नहीं मिले, तो几分钟之内 death हो सकता है। Heart Attack भी fatal हो सकता है, especially अगर large area damage हुआ हो, लेकिन आमतौर पर treatment के लिए ज्यादा time मिलता है।</p>
+                        <p class="text-gray-700">दोनों ही life-threatening emergencies हैं, लेकिन Cardiac Arrest ज्यादा immediately fatal हो सकता है। अगर CPR और defibrillation तुरंत नहीं मिले, तो कुछ ही मिनटों में death हो सकता है। Heart Attack भी fatal हो सकता है, especially अगर large area damage हुआ हो, लेकिन आमतौर पर treatment के लिए ज्यादा time मिलता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">Cardiac Arrest के दौरान क्या करना चाहिए?</h4>

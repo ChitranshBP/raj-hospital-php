@@ -285,7 +285,7 @@
                 <h2 class="raj-h2-secondary">Heart Attack Kya Hai? Samjhein Apne Dil Ko</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Heart attack</strong> tab hota hai jab heart muscle mein blood flow rok jata hai, usually kisi blockage ki wajah se. Is blockage ka cause 대부분 cholesterol deposits hain jo coronary arteries mein accumulate hote hain. Jab yeh arteries completely block ho jate hain, to heart muscle ko oxygen nahi milta aur woh damaged hone lagta hai.
+                    <strong>Heart attack</strong> tab hota hai jab heart muscle mein blood flow rok jata hai, usually kisi blockage ki wajah se. Is blockage ka cause अधिकतर cholesterol deposits hain jo coronary arteries mein accumulate hote hain. Jab yeh arteries completely block ho jate hain, to heart muscle ko oxygen nahi milta aur woh damaged hone lagta hai.
                 </p>
 
                 <p class="text-gray-700 mb-4">

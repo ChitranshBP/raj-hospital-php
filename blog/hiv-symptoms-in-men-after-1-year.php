@@ -352,7 +352,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>HIV (Human Immunodeficiency Virus)</strong> infection के बाद 1 साल बाद क्या होता है, यह जानना बहुत important है। बहुत से लोग initial infection के symptoms को ignore कर देते हैं और 1 साल बाद才发现自己的身体出了问题। यह blog post <strong>पुरुषों में HIV के लक्षण 1 साल बाद</strong> के बारे में विस्तृत जानकारी देगा ताकि आप समय पर doctor से मिल सकें और <a href="<?php echo $base_url; ?>contact.php" class="text-teal-600 hover:underline">appropriate treatment</a> शुरू कर सकें।
+                    <strong>HIV (Human Immunodeficiency Virus)</strong> infection के बाद 1 साल बाद क्या होता है, यह जानना बहुत important है। बहुत से लोग initial infection के symptoms को ignore कर देते हैं और 1 साल बाद उन्हें एहसास होता है कि शरीर में कुछ गड़बड़ है। यह blog post <strong>पुरुषों में HIV के लक्षण 1 साल बाद</strong> के बारे में विस्तृत जानकारी देगा ताकि आप समय पर doctor से मिल सकें और <a href="<?php echo $base_url; ?>contact.php" class="text-teal-600 hover:underline">appropriate treatment</a> शुरू कर सकें।
                 </p>
 
                 <p class="text-gray-700 mb-6">

@@ -118,7 +118,7 @@
                 "name": "Headache band karne ke medicines kya hain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Common headache medicines: 1) Paracetamol - mild headache ke liye, 2) Ibuprofen - tension headache ke liye, 3) Sumatriptan - migraine ke liye doctor prescription se, 4) Excedrin - migraine复合 medicine. IMPORTANT: Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein. Doctor se consult karke proper treatment plan banana chahiye."
+                    "text": "Common headache medicines: 1) Paracetamol - mild headache ke liye, 2) Ibuprofen - tension headache ke liye, 3) Sumatriptan - migraine ke liye doctor prescription se, 4) Excedrin - migraine की संयुक्त medicine. IMPORTANT: Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein. Doctor se consult karke proper treatment plan banana chahiye."
                 }
             },
             {
@@ -623,7 +623,7 @@
 
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: Headache band karne ke medicines kya hain?</h4>
-                        <p class="text-gray-700"><strong>Answer:</strong> Common headache medicines: <strong>1) Paracetamol</strong> - mild headache ke liye, <strong>2) Ibuprofen</strong> - tension headache ke liye, <strong>3) Sumatriptan</strong> - migraine ke liye doctor prescription se, <strong>4) Excedrin</strong> - migraine复合 medicine. <strong>Important:</strong> Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein.</p>
+                        <p class="text-gray-700"><strong>Answer:</strong> Common headache medicines: <strong>1) Paracetamol</strong> - mild headache ke liye, <strong>2) Ibuprofen</strong> - tension headache ke liye, <strong>3) Sumatriptan</strong> - migraine ke liye doctor prescription se, <strong>4) Excedrin</strong> - migraine की संयुक्त medicine. <strong>Important:</strong> Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein.</p>
                     </div>
 
                     <div class="bg-gray-50 p-4 rounded-lg">

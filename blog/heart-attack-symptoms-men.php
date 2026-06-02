@@ -352,7 +352,7 @@
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">40-50 वर्ष</h4>
-                        <p class="text-sm text-gray-600">यह उम्र दिल की बीमारी के लिए critical है। High BP, diabetes, और stress इस उम्र में главные risk factors हैं।</p>
+                        <p class="text-sm text-gray-600">यह उम्र दिल की बीमारी के लिए critical है। High BP, diabetes, और stress इस उम्र में मुख्य risk factors हैं।</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">50-60 वर्ष</h4>

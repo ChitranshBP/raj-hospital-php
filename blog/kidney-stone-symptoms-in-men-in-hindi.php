@@ -227,7 +227,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">4. Cystine Stones</h4>
-                        <p class="text-sm text-gray-600"> редкий प्रकार। एक genetic disorder cystinuria से बनती हैं। Family history में होती हैं।</p>
+                        <p class="text-sm text-gray-600"> यह एक दुर्लभ प्रकार। एक genetic disorder cystinuria से बनती हैं। Family history में होती हैं।</p>
                     </div>
                 </div>
 

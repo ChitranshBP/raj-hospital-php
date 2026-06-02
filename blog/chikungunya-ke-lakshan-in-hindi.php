@@ -261,7 +261,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. गंभीर जोड़ों में दर्द (Severe Joint Pain)</h4>
-                        <p class="text-sm text-gray-600">यह चिकनगुनिया का सबसे प्रमुख और characteristic लक्षण है। हाथों, पैरों, коленок, और wrist joints में तेज दर्द।</p>
+                        <p class="text-sm text-gray-600">यह चिकनगुनिया का सबसे प्रमुख और characteristic लक्षण है। हाथों, पैरों, घुटनों, और wrist joints में तेज दर्द।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. मांसपेशियों में दर्द (Muscle Pain)</h4>
@@ -277,7 +277,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">6. थकान (Fatigue)</h4>
-                        <p class="text-sm text-gray-600">अत्यधिक थकान और слабость जो weeks तक रह सकती है।</p>
+                        <p class="text-sm text-gray-600">अत्यधिक थकान और कमजोरी जो weeks तक रह सकती है।</p>
                     </div>
                 </div>
 
@@ -403,7 +403,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">चिकनगुनिया से मौत हो सकती है?</h4>
-                        <p class="text-gray-700">rare cases में, विशेषकर बुजुर्गों, बच्चों, или immunocompromised लोगों में।</p>
+                        <p class="text-gray-700">rare cases में, विशेषकर बुजुर्गों, बच्चों, या immunocompromised लोगों में।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">चिकनगुनिया एक बार होने के बाद फिर हो सकता है?</h4>

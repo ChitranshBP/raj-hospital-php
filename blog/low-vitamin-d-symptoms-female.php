@@ -234,12 +234,12 @@
                 <h2 class="raj-h2">विटामिन D क्या है और यह क्यों जरूरी है?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>विटामिन D</strong> एक fat-soluble vitamin है जो सूर्य की किरणों से त्वचा में बनता है। यह <strong>calcium और phosphorus</strong> के absorption में मदद करता है और हड्डियों, दांतों और muscles को здоровый रखता है।
+                    <strong>विटामिन D</strong> एक fat-soluble vitamin है जो सूर्य की किरणों से त्वचा में बनता है। यह <strong>calcium और phosphorus</strong> के absorption में मदद करता है और हड्डियों, दांतों और muscles को स्वस्थ रखता है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> महिलाओं में विटामिन D की कमी besonders concerning है क्योंकि यह <strong>osteoporosis, pregnancy complications</strong> और <strong>immune system weakness</strong> का कारण बन सकती है।</span>
+                    <span class="text-gray-700"> महिलाओं में विटामिन D की कमी विशेष रूप से concerning है क्योंकि यह <strong>osteoporosis, pregnancy complications</strong> और <strong>immune system weakness</strong> का कारण बन सकती है।</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->

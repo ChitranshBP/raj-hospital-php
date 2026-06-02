@@ -397,7 +397,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">नींबू पानी पिएं</h4>
-                        <p class="text-gray-600 text-sm">गर्म पानी में नींबू का रस मिलाकर पिएं। यह blood vessels को柔软 बनाता है। सुबह खाली पेट पिएं।</p>
+                        <p class="text-gray-600 text-sm">गर्म पानी में नींबू का रस मिलाकर पिएं। यह blood vessels को लचीला बनाता है। सुबह खाली पेट पिएं।</p>
                     </div>
                 </div>
 

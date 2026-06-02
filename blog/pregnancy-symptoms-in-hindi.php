@@ -265,7 +265,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">6. Mood Swings</h4>
-                        <p class="text-sm text-gray-600">अचानक情绪 changes, चिड़चिड़ापन, रोने की इच्छा, या anxiety feeling। Hormonal changes के कारण mood swings common हैं।</p>
+                        <p class="text-sm text-gray-600">अचानक भावनात्मक changes, चिड़चिड़ापन, रोने की इच्छा, या anxiety feeling। Hormonal changes के कारण mood swings common हैं।</p>
                     </div>
                 </div>
 

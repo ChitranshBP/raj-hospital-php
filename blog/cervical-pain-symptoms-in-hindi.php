@@ -261,7 +261,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. बांह और कंधे में दर्द</h4>
-                        <p class="text-sm text-gray-600">हाथों में सुन्नपन, कमजोरी, или झनझनाहट।</p>
+                        <p class="text-sm text-gray-600">हाथों में सुन्नपन, कमजोरी, या झनझनाहट।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. कंधों में अकड़न</h4>
@@ -318,7 +318,7 @@
                 <h2 class="raj-h2">Cervical Pain से बचाव के उपाय</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Prevention</strong> лучше treatment से है। कुछ आसान उपायों से आप गर्दन दर्द से बच सकते हैं। Computer पर काम करते समय screen आंखों के स्तर पर रखें, हर 30 मिनट में छोटा break लें, और neck stretching exercises करें।
+                    <strong>Prevention</strong> बेहतर treatment से है। कुछ आसान उपायों से आप गर्दन दर्द से बच सकते हैं। Computer पर काम करते समय screen आंखों के स्तर पर रखें, हर 30 मिनट में छोटा break लें, और neck stretching exercises करें।
                 </p>
 
                 <!-- CTA Box -->

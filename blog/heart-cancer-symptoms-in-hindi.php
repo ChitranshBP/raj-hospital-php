@@ -455,7 +455,7 @@
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2">Chemotherapy</h4>
-                        <p class="text-sm text-gray-600">Malignant tumors के लिए chemotherapy used होती है। यह surgery के बाद残留 cancer cells को destroy करने में help करती है।</p>
+                        <p class="text-sm text-gray-600">Malignant tumors के लिए chemotherapy used होती है। यह surgery के बाद शेष cancer cells को destroy करने में help करती है।</p>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2">Radiation Therapy</h4>
