@@ -1,9 +1,0 @@
-Foreign script leaks in blog/kft-test-kya-hai-hindi.php
-============================================================
-
-Line  212  [cyrillic]
-  "text": "KFT test se 8-12 hours pehle khaana-pina band karein। Sirf paani пиेने ki permission hai। Apni medicines ki list saath mein rakhein।"
-
-Line  537  [cyrillic]
-  <span><strong>Water:</strong> Clear water питьने की permission है। Hydration maintain रखें।</span>
-

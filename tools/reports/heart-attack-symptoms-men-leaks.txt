@@ -1,6 +1,0 @@
-Foreign script leaks in blog/heart-attack-symptoms-men.php
-============================================================
-
-Line  355  [cyrillic]
-  <p class="text-sm text-gray-600">यह उम्र दिल की बीमारी के लिए critical है। High BP, diabetes, और stress इस उम्र में главные risk factors हैं।</p>
-

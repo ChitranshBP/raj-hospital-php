@@ -1,6 +1,0 @@
-Foreign script leaks in blog/labour-pain-symptoms-in-hindi.php
-============================================================
-
-Line  274  [chinese]
-  <strong>Labour pain ke lakshan</strong> महिला से महिला में अलग हो सकते हैं, लेकिन कुछ common symptoms जो大多数 women experience करती हैं:
-

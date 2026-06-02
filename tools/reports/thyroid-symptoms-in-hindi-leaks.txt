@@ -1,6 +1,0 @@
-Foreign script leaks in blog/thyroid-symptoms-in-hindi.php
-============================================================
-
-Line  250  [cyrillic]
-  <p class="text-sm text-gray-600">दिन भर में बहुत ज्यादा усталость महसूस होना</p>
-

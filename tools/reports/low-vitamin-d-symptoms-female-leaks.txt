@@ -1,6 +1,0 @@
-Foreign script leaks in blog/low-vitamin-d-symptoms-female.php
-============================================================
-
-Line  237  [cyrillic]
-  <strong>विटामिन D</strong> एक fat-soluble vitamin है जो सूर्य की किरणों से त्वचा में बनता है। यह <strong>calcium और phosphorus</strong> के absorption में मदद कर
-

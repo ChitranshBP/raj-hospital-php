@@ -1,6 +1,0 @@
-Foreign script leaks in blog/kidney-stone-symptoms-in-men-in-hindi.php
-============================================================
-
-Line  230  [cyrillic]
-  <p class="text-sm text-gray-600"> редкий प्रकार। एक genetic disorder cystinuria से बनती हैं। Family history में होती हैं।</p>
-

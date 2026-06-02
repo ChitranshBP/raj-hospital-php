@@ -1,6 +1,0 @@
-Foreign script leaks in blog/diabetes-mein-kya-khaye-aur-kya-na-khaye.php
-============================================================
-
-Line  556  [cyrillic]
-  डायबिटीज़ कंट्रोल के дополнительные tips
-

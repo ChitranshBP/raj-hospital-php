@@ -1,6 +1,0 @@
-Foreign script leaks in blog/pregnancy-me-pair-me-sujan-in-hindi.php
-============================================================
-
-Line  463  [chinese]
-  अक्सर <strong>1-2 हफ्तों में</strong> सूजन कम होने लगती है और <strong>6-8 हफ्तों में</strong>大部分 gone हो जाती है। अगर सूजन बहुत लंबे समय तक रहे तो डॉक्टर से मिल
-

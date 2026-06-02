@@ -1,6 +1,0 @@
-Foreign script leaks in blog/pregnancy-symptoms-in-hindi.php
-============================================================
-
-Line  268  [chinese]
-  <p class="text-sm text-gray-600">अचानक情绪 changes, चिड़चिड़ापन, रोने की इच्छा, या anxiety feeling। Hormonal changes के कारण mood swings common हैं।</p>
-

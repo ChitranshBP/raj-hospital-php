@@ -1,9 +1,0 @@
-Foreign script leaks in blog/difference-between-heart-attack-and-cardiac-arrest.php
-============================================================
-
-Line  148  [chinese]
-  "text": "दोनों ही life-threatening emergencies हैं, लेकिन Cardiac Arrest ज्यादा immediately fatal हो सकता है। अगर CPR और defibrillation तुरंत नहीं मिले, तो几分钟之内
-
-Line  464  [chinese]
-  <p class="text-gray-700">दोनों ही life-threatening emergencies हैं, लेकिन Cardiac Arrest ज्यादा immediately fatal हो सकता है। अगर CPR और defibrillation तुरंत नह
-

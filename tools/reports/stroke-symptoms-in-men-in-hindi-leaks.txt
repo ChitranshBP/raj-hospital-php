@@ -1,9 +1,0 @@
-Foreign script leaks in blog/stroke-symptoms-in-men-in-hindi.php
-============================================================
-
-Line  398  [chinese]
-  <strong>TIA (Transient Ischemic Attack)</strong> या "mini-stroke" एक temporary period होता है जब brain में blood flow briefly रुक जाती है। Symptoms几分钟內消失 BUT यह
-
-Line  449  [cyrillic]
-  <p class="text-gray-700">Most cases में हाँ, stroke symptoms sudden onset करते हैं। एक minute человек нормально होता है, अगला minute symptoms दिखने लगते हैं। कभ
-

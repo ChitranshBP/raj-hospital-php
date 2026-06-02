@@ -1,6 +1,0 @@
-Foreign script leaks in blog/kidney-stone-ka-ilaj.php
-============================================================
-
-Line  344  [chinese]
-  <p class="text-gray-700">Mild discomfort हो सकती है, लेकिन sedation दिया जाता है।大多数 patients same day discharge करते हैं।</p>
-

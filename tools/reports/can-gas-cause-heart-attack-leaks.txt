@@ -1,6 +1,0 @@
-Foreign script leaks in blog/can-gas-cause-heart-attack.php
-============================================================
-
-Line  299  [chinese]
-  <p class="text-sm text-gray-600">यह condition gas pain को heart pain जैसा बना सकती है। Stomach का一部分 chest में push करता है।</p>
-
