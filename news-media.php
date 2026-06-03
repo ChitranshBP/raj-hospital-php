@@ -171,7 +171,11 @@
             { id: 40, image: 'assets/press/WhatsApp Image 2026-05-09 at 10.20.52 AM (1).webp', title: 'राज अस्पताल मीडिया रिपोर्ट' },
             { id: 41, image: 'assets/press/WhatsApp Image 2026-05-09 at 10.20.52 AM (2).webp', title: 'राज अस्पताल न्यूज़ कवरेज' },
             { id: 42, image: 'assets/press/WhatsApp Image 2026-05-09 at 10.20.52 AM.webp', title: 'राज अस्पताल प्रेस समाचार' },
-            { id: 43, image: 'assets/press/WhatsApp Image 2026-05-09 at 10.21.46 AM.webp', title: 'राज अस्पताल मीडिया कवरेज' }
+            { id: 43, image: 'assets/press/WhatsApp Image 2026-05-09 at 10.21.46 AM.webp', title: 'राज अस्पताल मीडिया कवरेज' },
+            { id: 44, image: 'assets/press/news-06-26/raj-news-1.webp', title: 'सही समय पर इलाज से बच सकती है मरीजों की जान : साहिल गंभीर' },
+            { id: 45, image: 'assets/press/news-06-26/raj-news-2.webp', title: 'राज अस्पताल की ओर से प्रशिक्षण शुरू' },
+            { id: 46, image: 'assets/press/news-06-26/raj-news-3.webp', title: 'राज हॉस्पिटल्स में नेशनल कार्डियक लाइफ सपोर्ट कार्यक्रम' },
+            { id: 47, image: 'assets/press/news-06-26/raj-news-4.webp', title: 'राज हॉस्पिटल्स ने 90 नर्सों को दिया चिकित्सा प्रशिक्षण' }
         ];
 
         // Navbar scroll effect
