@@ -45,8 +45,8 @@
         "headline": "Heart Attack vs Cardiac Arrest — What Is the Difference?",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
-        "datePublished": "2026-06-04",
-        "dateModified": "2026-06-04",
+        "datePublished": "2026-06-08",
+        "dateModified": "2026-06-08",
         "mainEntityOfPage": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest.php"
     }
     </script>
@@ -74,8 +74,8 @@
         "url": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest.php",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
-        "datePublished": "2026-06-04",
-        "dateModified": "2026-06-04",
+        "datePublished": "2026-06-08",
+        "dateModified": "2026-06-08",
         "about": [
             { "@type": "MedicalCondition", "name": "Acute Myocardial Infarction (Heart Attack)", "code": { "@type": "MedicalCode", "code": "I21", "codingSystem": "ICD-10" } },
             { "@type": "MedicalCondition", "name": "Sudden Cardiac Arrest", "code": { "@type": "MedicalCode", "code": "I46", "codingSystem": "ICD-10" } },
@@ -160,7 +160,7 @@
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Emergency Medicine</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">What Is the Difference Between a Heart Attack and Cardiac Arrest?</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
-                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 4, 2026</span>
+                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 8, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology Team, RAJ Hospital</span>
                 </div>
@@ -313,7 +313,7 @@
                     <div class="w-16 h-16 rounded-full bg-red-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Cardiology & Emergency Medicine Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 4, 2026 · Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="text-sm text-gray-500">Last Updated: June 8, 2026 · Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

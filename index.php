@@ -1171,51 +1171,73 @@ Best Hospital in Jharkhand
 
             <div class="overflow-x-auto md:overflow-visible scrollbar-hide -mx-4 md:mx-0 px-4 md:px-0">
                 <div id="blogs-container" class="flex md:grid md:grid-cols-4 gap-6 md:gap-8 snap-x snap-mandatory md:snap-none">
-                    <!-- Blog 1 -->
-                    <a href="#"
-                        class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl overflow-hidden flex flex-col shadow hover:shadow-lg transition group">
-                        <img src="assets/home-img/blogs/Blogs-1.webp" alt="Blog 1"
-                            class="w-full h-36 object-cover group-hover:opacity-90 transition">
-                        <div class="p-4 flex-1 flex flex-col">
-                            <div class="font-bold text-[#0191C7] mb-1">10 Tips for Heart Health</div>
-                            <div class="text-gray-600 text-sm mb-2 flex-1">Simple habits for a healthier heart.</div>
-                            <span class="text-orange-500 text-sm mt-auto hover:underline">Read More</span>
-                        </div>
-                    </a>
-                    <!-- Blog 2 -->
-                    <a href="#"
-                        class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl overflow-hidden flex flex-col shadow hover:shadow-lg transition group">
-                        <img src="assets/home-img/blogs/Blogs-2.webp" alt="Blog 2"
-                            class="w-full h-36 object-cover group-hover:opacity-90 transition">
-                        <div class="p-4 flex-1 flex flex-col">
-                            <div class="font-bold text-[#0191C7] mb-1">Back Pain: Myths & Facts</div>
-                            <div class="text-gray-600 text-sm mb-2 flex-1">How to prevent and manage back pain
-                                effectively.</div>
-                            <span class="text-orange-500 text-sm mt-auto hover:underline">Read More</span>
-                        </div>
-                    </a>
-                    <!-- Blog 3 -->
-                    <a href="#"
-                        class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl overflow-hidden flex flex-col shadow hover:shadow-lg transition group">
-                        <img src="assets/home-img/blogs/Blogs-3.webp" alt="Blog 3"
-                            class="w-full h-36 object-cover group-hover:opacity-90 transition">
-                        <div class="p-4 flex-1 flex flex-col">
-                            <div class="font-bold text-[#0191C7] mb-1">Understanding Robotic Surgery</div>
-                            <div class="text-gray-600 text-sm mb-2 flex-1">What is it, and who is it for?</div>
-                            <span class="text-orange-500 text-sm mt-auto hover:underline">Read More</span>
-                        </div>
-                    </a>
-                    <!-- Blog 4 -->
-                    <a href="#"
-                        class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl overflow-hidden flex flex-col shadow hover:shadow-lg transition group">
-                        <img src="assets/home-img/blogs/Blogs-3.webp" alt="Blog 4"
-                            class="w-full h-36 object-cover group-hover:opacity-90 transition">
-                        <div class="p-4 flex-1 flex flex-col">
-                            <div class="font-bold text-[#0191C7] mb-1">Understanding Robotic Surgery</div>
-                            <div class="text-gray-600 text-sm mb-2 flex-1">What is it, and who is it for?</div>
-                            <span class="text-orange-500 text-sm mt-auto hover:underline">Read More</span>
-                        </div>
-                    </a>
+                    <?php
+                    // === Our Blogs — Top 4 by datePublished (newest first) ===
+                    $home_blog_dir = __DIR__ . '/blog';
+                    $home_blogs = [];
+                    if (is_dir($home_blog_dir)) {
+                        $home_items = scandir($home_blog_dir);
+                        foreach ($home_items as $h_item) {
+                            if (in_array($h_item, ['index.php', 'gallery.php'], true) || is_dir($home_blog_dir . '/' . $h_item) || pathinfo($h_item, PATHINFO_EXTENSION) !== 'php') continue;
+                            $h_slug = pathinfo($h_item, PATHINFO_FILENAME);
+                            $h_file = $home_blog_dir . '/' . $h_item;
+                            $h_contents = @file_get_contents($h_file, false, null, 0, 25000);
+                            if ($h_contents === false) continue;
+                            $h_date_ts = 0;
+                            if (preg_match('/"datePublished"\s*:\s*"([^"]+)"/i', $h_contents, $hm_ts)) {
+                                $h_date_ts = strtotime($hm_ts[1]);
+                            }
+                            if (!$h_date_ts && preg_match('/data-feather="calendar"[^>]*>\s*([A-Z][a-z]+\s+\d{1,2},\s+\d{4})/i', $h_contents, $hm_ts2)) {
+                                $h_date_ts = strtotime($hm_ts2[1]);
+                            }
+                            if (!$h_date_ts) $h_date_ts = filemtime($h_file);
+                            $h_title = ucwords(str_replace('-', ' ', $h_slug));
+                            if (preg_match('/<title>(.*?)<\/title>/is', $h_contents, $hm_title)) {
+                                $h_t = trim(html_entity_decode(strip_tags($hm_title[1]), ENT_QUOTES, 'UTF-8'));
+                                $h_t = preg_replace('/\s*[\|\-–—]\s*RAJ Hospital.*$/i', '', $h_t);
+                                if ($h_t !== '') $h_title = $h_t;
+                            }
+                            $h_excerpt = 'Read this health guide from RAJ Hospital specialists.';
+                            if (preg_match('/<meta\s+name=["\']description["\']\s+content=["\']([^"\']+)["\']/i', $h_contents, $hm_ex)) {
+                                $h_excerpt = trim(html_entity_decode($hm_ex[1], ENT_QUOTES, 'UTF-8'));
+                            }
+                            $h_excerpt = preg_split('/[.।]/', $h_excerpt)[0] ?? $h_excerpt;
+                            $h_excerpt = trim($h_excerpt);
+                            if (function_exists('mb_strimwidth')) {
+                                $h_excerpt = mb_strimwidth($h_excerpt, 0, 80, '…');
+                            } else {
+                                $h_excerpt = substr($h_excerpt, 0, 80) . '…';
+                            }
+                            $h_image = '';
+                            foreach (['blog/assets/img/featured/' . $h_slug . '.png', 'blog/assets/img/featured/' . $h_slug . '.webp'] as $h_cand) {
+                                if (is_file($h_cand)) { $h_image = $h_cand; break; }
+                            }
+                            if ($h_image === '') {
+                                $h_image = 'assets/home-img/blogs/Blogs-1.webp';
+                            }
+                            $home_blogs[] = [
+                                'slug' => $h_slug, 'title' => $h_title, 'excerpt' => $h_excerpt,
+                                'image' => $h_image, 'date_ts' => $h_date_ts,
+                            ];
+                        }
+                        usort($home_blogs, function($ha, $hb) { return $hb['date_ts'] - $ha['date_ts']; });
+                        $home_blogs = array_slice($home_blogs, 0, 4);
+                    }
+                    if (!empty($home_blogs)) {
+                        foreach ($home_blogs as $h_blog) { ?>
+                            <a href="blog/<?php echo htmlspecialchars($h_blog['slug']); ?>.php"
+                                class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl overflow-hidden flex flex-col shadow hover:shadow-lg transition group">
+                                <img src="<?php echo htmlspecialchars($h_blog['image']); ?>" alt="<?php echo htmlspecialchars($h_blog['title']); ?>"
+                                    class="w-full h-36 object-cover group-hover:opacity-90 transition"
+                                    onerror="this.onerror=null;this.src='assets/home-img/blogs/Blogs-1.webp';">
+                                <div class="p-4 flex-1 flex flex-col">
+                                    <div class="font-bold text-[#0191C7] mb-1 line-clamp-2"><?php echo htmlspecialchars($h_blog['title']); ?></div>
+                                    <div class="text-gray-600 text-sm mb-2 flex-1 line-clamp-2"><?php echo htmlspecialchars($h_blog['excerpt']); ?></div>
+                                    <span class="text-orange-500 text-sm mt-auto hover:underline">Read More</span>
+                                </div>
+                            </a>
+                        <?php }
+                    } ?>
                 </div>
             </div>
         </div>

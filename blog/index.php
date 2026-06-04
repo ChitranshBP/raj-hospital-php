@@ -53,6 +53,106 @@
 
     <!-- Blog Grid -->
     <main class="max-w-6xl mx-auto px-4 py-12">
+        <?php
+        // === Latest Posts Strip — Top 3 by datePublished (newest first) ===
+        $blog_dir_latest = __DIR__;
+        $latest_blogs_strip = [];
+        if (is_dir($blog_dir_latest)) {
+            $items_strip = scandir($blog_dir_latest);
+            foreach ($items_strip as $item_st) {
+                if (in_array($item_st, ['index.php', 'gallery.php'], true) || is_dir($blog_dir_latest . '/' . $item_st) || pathinfo($item_st, PATHINFO_EXTENSION) !== 'php') continue;
+                $slug_st = pathinfo($item_st, PATHINFO_FILENAME);
+                $file_st = $blog_dir_latest . '/' . $item_st;
+                $contents_st = @file_get_contents($file_st, false, null, 0, 25000);
+                if ($contents_st === false) continue;
+                $date_ts_st = 0;
+                if (preg_match('/"datePublished"\s*:\s*"([^"]+)"/i', $contents_st, $mst)) {
+                    $date_ts_st = strtotime($mst[1]);
+                }
+                if (!$date_ts_st && preg_match('/data-feather="calendar"[^>]*>\s*([A-Z][a-z]+\s+\d{1,2},\s+\d{4})/i', $contents_st, $mst2)) {
+                    $date_ts_st = strtotime($mst2[1]);
+                }
+                if (!$date_ts_st) $date_ts_st = filemtime($file_st);
+                $title_st = ucwords(str_replace('-', ' ', $slug_st));
+                if (preg_match('/<title>(.*?)<\/title>/is', $contents_st, $mts)) {
+                    $t_st = trim(html_entity_decode(strip_tags($mts[1]), ENT_QUOTES, 'UTF-8'));
+                    $t_st = preg_replace('/\s*[\|\-–—]\s*RAJ Hospital.*$/i', '', $t_st);
+                    if ($t_st !== '') $title_st = $t_st;
+                }
+                $excerpt_st = 'Read this health guide from RAJ Hospital specialists.';
+                if (preg_match('/<meta\s+name=["\']description["\']\s+content=["\']([^"\']+)["\']/i', $contents_st, $mes)) {
+                    $excerpt_st = trim(html_entity_decode($mes[1], ENT_QUOTES, 'UTF-8'));
+                }
+                if (function_exists('mb_strimwidth')) {
+                    $excerpt_st = mb_strimwidth($excerpt_st, 0, 130, '…');
+                } else {
+                    $excerpt_st = substr($excerpt_st, 0, 130) . '…';
+                }
+                $image_st = '';
+                foreach (['assets/img/featured/' . $slug_st . '.png', 'assets/img/featured/' . $slug_st . '.webp'] as $cand) {
+                    if (is_file($blog_dir_latest . '/' . $cand)) { $image_st = $cand; break; }
+                }
+                if ($image_st === '' && preg_match('/<meta\s+property=["\']og:image["\']\s+content=["\']([^"\']+)["\']/i', $contents_st, $mis)) {
+                    $image_st = trim($mis[1]);
+                }
+                $latest_blogs_strip[] = [
+                    'slug' => $slug_st, 'title' => $title_st, 'excerpt' => $excerpt_st,
+                    'image' => $image_st, 'date_ts' => $date_ts_st,
+                    'date' => date('F j, Y', $date_ts_st),
+                ];
+            }
+            usort($latest_blogs_strip, function($a_s, $b_s) { return $b_s['date_ts'] - $a_s['date_ts']; });
+            $latest_blogs_strip = array_slice($latest_blogs_strip, 0, 3);
+        }
+        if (!empty($latest_blogs_strip)) { ?>
+            <section class="mb-12">
+                <div class="flex items-end justify-between mb-6">
+                    <div>
+                        <span class="inline-block bg-orange-100 text-orange-700 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider mb-2">Newest</span>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-800">Latest Posts</h2>
+                        <p class="text-sm text-gray-500 mt-1">Date-wise newest first — fresh insights from our specialists.</p>
+                    </div>
+                    <span class="hidden md:inline-flex items-center gap-1 text-xs text-gray-400"><i data-feather="calendar" class="w-3 h-3"></i> Updated <?php echo date('F j, Y'); ?></span>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <?php foreach ($latest_blogs_strip as $i_st => $lbs) {
+                        $is_first_st = ($i_st === 0); ?>
+                        <a href="<?php echo htmlspecialchars($lbs['slug']); ?>.php"
+                           class="group <?php echo $is_first_st ? 'md:col-span-3' : ''; ?> bg-white border <?php echo $is_first_st ? 'border-secondary-600 ring-2 ring-secondary-100' : 'border-gray-200'; ?> rounded-xl overflow-hidden shadow hover:shadow-xl transition flex <?php echo $is_first_st ? 'flex-col md:flex-row' : 'flex-col'; ?>">
+                            <?php if ($lbs['image']) { ?>
+                                <div class="<?php echo $is_first_st ? 'md:w-1/2' : ''; ?> aspect-[16/9] bg-gray-50 overflow-hidden flex-shrink-0">
+                                    <img src="<?php echo htmlspecialchars($lbs['image']); ?>" alt="<?php echo htmlspecialchars($lbs['title']); ?>" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300" onerror="this.onerror=null;this.src='assets/img/Copy-of-Raj-Hospitals.jpg';">
+                                </div>
+                            <?php } ?>
+                            <div class="p-5 flex-1 flex flex-col">
+                                <div class="flex items-center gap-2 text-xs text-gray-500 mb-2">
+                                    <span class="inline-flex items-center gap-1 bg-secondary-600 text-white px-2 py-0.5 rounded font-semibold">
+                                        <i data-feather="clock" class="w-3 h-3"></i> NEW
+                                    </span>
+                                    <span class="inline-flex items-center gap-1">
+                                        <i data-feather="calendar" class="w-3 h-3"></i>
+                                        <?php echo htmlspecialchars($lbs['date']); ?>
+                                    </span>
+                                </div>
+                                <h3 class="<?php echo $is_first_st ? 'text-xl md:text-2xl' : 'text-lg'; ?> font-bold text-gray-800 mb-2 group-hover:text-secondary-600 transition-colors leading-snug">
+                                    <?php echo htmlspecialchars($lbs['title']); ?>
+                                </h3>
+                                <p class="text-sm text-gray-600 mb-4 line-clamp-3 flex-1"><?php echo htmlspecialchars($lbs['excerpt']); ?></p>
+                                <span class="text-accent-500 text-sm font-semibold mt-auto inline-flex items-center gap-1 group-hover:underline">
+                                    Read full article <i data-feather="arrow-right" class="w-4 h-4"></i>
+                                </span>
+                            </div>
+                        </a>
+                    <?php } ?>
+                </div>
+            </section>
+            <div class="flex items-center gap-4 mb-6">
+                <h2 class="text-xl font-bold text-gray-800">All Posts</h2>
+                <div class="flex-1 h-px bg-gray-200"></div>
+                <span class="text-xs text-gray-500">Sorted by date — newest first</span>
+            </div>
+        <?php } ?>
+
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
             <?php

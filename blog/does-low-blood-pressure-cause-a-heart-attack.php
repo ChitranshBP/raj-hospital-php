@@ -45,8 +45,8 @@
         "headline": "Does Low Blood Pressure Cause a Heart Attack? Doctor-Explained Guide",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
-        "datePublished": "2026-06-04",
-        "dateModified": "2026-06-04",
+        "datePublished": "2026-06-14",
+        "dateModified": "2026-06-14",
         "mainEntityOfPage": "https://rajhospitals.com/blog/does-low-blood-pressure-cause-a-heart-attack.php"
     }
     </script>
@@ -74,8 +74,8 @@
         "url": "https://rajhospitals.com/blog/does-low-blood-pressure-cause-a-heart-attack.php",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
-        "datePublished": "2026-06-04",
-        "dateModified": "2026-06-04",
+        "datePublished": "2026-06-14",
+        "dateModified": "2026-06-14",
         "about": [
             { "@type": "MedicalCondition", "name": "Hypotension" },
             { "@type": "MedicalCondition", "name": "Acute Myocardial Infarction" },
@@ -160,7 +160,7 @@
                 <span class="inline-block bg-cyan-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Internal Medicine</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Does Low Blood Pressure Cause a Heart Attack? Doctor-Explained Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
-                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 4, 2026</span>
+                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 14, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology Team, RAJ Hospital</span>
                 </div>
@@ -328,7 +328,7 @@
                     <div class="w-16 h-16 rounded-full bg-cyan-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Cardiology & Internal Medicine Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 4, 2026 · Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="text-sm text-gray-500">Last Updated: June 14, 2026 · Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

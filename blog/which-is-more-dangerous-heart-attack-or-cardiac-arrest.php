@@ -45,8 +45,8 @@
         "headline": "Which Is More Dangerous: Heart Attack or Cardiac Arrest? Doctor-Explained",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
-        "datePublished": "2026-06-04",
-        "dateModified": "2026-06-04",
+        "datePublished": "2026-06-16",
+        "dateModified": "2026-06-16",
         "mainEntityOfPage": "https://rajhospitals.com/blog/which-is-more-dangerous-heart-attack-or-cardiac-arrest.php"
     }
     </script>
@@ -74,8 +74,8 @@
         "url": "https://rajhospitals.com/blog/which-is-more-dangerous-heart-attack-or-cardiac-arrest.php",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
-        "datePublished": "2026-06-04",
-        "dateModified": "2026-06-04",
+        "datePublished": "2026-06-16",
+        "dateModified": "2026-06-16",
         "about": [
             { "@type": "MedicalCondition", "name": "Acute Myocardial Infarction" },
             { "@type": "MedicalCondition", "name": "Sudden Cardiac Arrest" }
@@ -159,7 +159,7 @@
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Emergency Medicine</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Which Is More Dangerous: Heart Attack or Cardiac Arrest?</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
-                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 4, 2026</span>
+                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 16, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology & Emergency Medicine Team, RAJ Hospital</span>
                 </div>
@@ -317,7 +317,7 @@
                     <div class="w-16 h-16 rounded-full bg-red-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Cardiology & Emergency Medicine Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 4, 2026 · Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="text-sm text-gray-500">Last Updated: June 16, 2026 · Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>
