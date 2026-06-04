@@ -100,7 +100,8 @@
       "Bash(grep -E \"\\\\.php$|\\\\.html$\")",
       "Bash(dir \"c:\\\\Users\\\\GCV\\\\Desktop\\\\raj-hospital-php\\\\assets\\\\press\\\\healthc\")",
       "Bash(dir \"c:\\\\Users\\\\GCV\\\\Desktop\\\\raj-hospital-php\\\\assets\\\\press\\\\healthc\\\\\" 2>&1)",
-      "Bash(php -l news-media.php)"
+      "Bash(php -l news-media.php)",
+      "Bash(php -l doctors/nisha-jha.php)"
     ]
   }
 }

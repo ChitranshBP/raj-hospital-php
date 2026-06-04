@@ -1710,10 +1710,11 @@ Best Hospital in Jharkhand
                 { id: 'sunil-kumar', name: 'Dr. Sunil Kumar', qualifications: 'MBBS, MS, MCh', specialty: 'Urology', experience: '18+ Years', image: 'assets/doctor-latest/sunil kumar.webp', profileUrl: 'doctors/sunil-kumar.php' },
                 { id: 'ved-prakash', name: 'Dr. Ved Prakash Verma', qualifications: 'MBBS, MS, MCh', specialty: 'Urology', experience: '18+ Years', image: 'assets/doctor-latest/ved prakash.webp', profileUrl: 'doctors/ved-prakash.php' },
 
-                // Obstetrics & Gynaecology (3 doctors)
+                // Obstetrics & Gynaecology (4 doctors)
                 { id: 'anupama-mahli', name: 'Dr. Anupama Mahli', qualifications: 'MBBS, MS, DNB', specialty: 'Obstetrics & Gynaecology', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Gyanecologist - Dr. Anupama-Mahli.webp', profileUrl: 'doctors/anupama-mahli.php' },
                 { id: 'pushpa-sinha', name: 'Dr. Pushpa Sinha', qualifications: 'MBBS, MD, DGO', specialty: 'Obstetrics & Gynaecology', experience: '15+ Years', image: 'assets/Doc-Side/Gyanecologist - Dr. Pushpa Sinha.webp', profileUrl: 'doctors/pushpa-sinha.php' },
                 { id: 'tanushree-chakroborty', name: 'Dr. Tanushree Chakroborty', qualifications: 'MBBS, DGO', specialty: 'Obstetrics & Gynaecology', experience: '15+ Years', image: 'assets/Doc-Side/tanushree_gyane.webp', profileUrl: 'doctors/tanushree-chakroborty.php' },
+                { id: 'nisha-jha', name: 'Dr. Nisha Jha', qualifications: 'MBBS, MS, DNB (Obstetrics & Gynaecology), FMAS', specialty: 'Obstetrics & Gynaecology', experience: '', image: 'assets/doctor-latest/dr-nisha-jha.webp', profileUrl: 'doctors/nisha-jha.php' },
 
                 // Pulmonology (1 doctor)
                 { id: 'suprova-chakraborty', name: 'Dr. Suprova Chakraborty', qualifications: 'MBBS, DNB, EDARM (Cert.), AAAI', specialty: 'Pulmonology', experience: '12+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Pulmonologist - Dr. Suprova-Chakraborty.webp', profileUrl: 'doctors/suprova-chakraborty.php' },
