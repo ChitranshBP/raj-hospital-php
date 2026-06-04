@@ -211,6 +211,8 @@
         });
 
         // TABS LOGIC
+        let printMediaRendered = false;
+
         function switchTab(tab) {
             const digitalSection = document.getElementById('digital-section');
             const printSection = document.getElementById('print-section');
@@ -220,22 +222,29 @@
             if (tab === 'digital') {
                 digitalSection.classList.remove('hidden');
                 printSection.classList.add('hidden');
-                
+
                 tabDigital.classList.replace('bg-gray-200', 'bg-[#F9771B]');
                 tabDigital.classList.replace('text-gray-700', 'text-white');
                 tabDigital.classList.add('shadow-lg');
-                
+
                 tabPrint.classList.replace('bg-[#F9771B]', 'bg-gray-200');
                 tabPrint.classList.replace('text-white', 'text-gray-700');
                 tabPrint.classList.remove('shadow-lg');
             } else {
                 digitalSection.classList.add('hidden');
                 printSection.classList.remove('hidden');
-                
+
+                // Lazy-render the print section only on first click to avoid loading all
+                // newspaper images at page load.
+                if (!printMediaRendered) {
+                    renderPrintMedia();
+                    printMediaRendered = true;
+                }
+
                 tabPrint.classList.replace('bg-gray-200', 'bg-[#F9771B]');
                 tabPrint.classList.replace('text-gray-700', 'text-white');
                 tabPrint.classList.add('shadow-lg');
-                
+
                 tabDigital.classList.replace('bg-[#F9771B]', 'bg-gray-200');
                 tabDigital.classList.replace('text-white', 'text-gray-700');
                 tabDigital.classList.remove('shadow-lg');
@@ -301,7 +310,7 @@
                              onclick="openImageModal('${clip.image}')"
                              style="animation-delay: ${delay}s">
                             <div class="h-72 overflow-hidden">
-                                <img src="${clip.image}" alt="${clip.title}" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500">
+                                <img src="${clip.image}" alt="${clip.title}" loading="lazy" decoding="async" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500">
                             </div>
                             <div class="p-4 bg-white">
                                 <h4 class="text-gray-900 font-semibold text-base mb-2 line-clamp-2">${clip.title}</h4>
@@ -347,9 +356,9 @@
              // Initialize Feathers
             feather.replace();
 
-            // Initial Render
+            // Initial Render — only render digital news on load. Print section is
+            // lazy-rendered the first time the user clicks the "Print" tab.
             renderDigitalNews();
-            renderPrintMedia();
 
             // Observe initial static elements
             document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
