@@ -7,16 +7,17 @@
     <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Heart Attack vs Cardiac Arrest - दिल का दौरा और दिल की रुकावट में अंतर | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Heart Attack और Cardiac Arrest में क्या अंतर है? दोनों conditions के लक्षण, कारण, treatment और बचाव के उपाय। Complete Hindi guide by RAJ Hospital Ranchi experts।">
-    <meta name="keywords" content="heart attack vs cardiac arrest, heart attack and cardiac arrest difference, दिल का दौरा और दिल की रुकावट, cardiac arrest symptoms, heart attack treatment, cardiac emergency, heart disease, cardiac arrest in hindi, heart attack in hindi">
+    <title>Heart Attack vs Cardiac Arrest — What Is the Difference? | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Heart attack and cardiac arrest are NOT the same. Cardiologists at RAJ Hospital Ranchi explain the difference, the link between the two, and the exact emergency response that saves lives.">
+    <meta name="keywords" content="difference between heart attack and cardiac arrest, heart attack vs cardiac arrest, sudden cardiac arrest, CPR, AED, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/">
+    <link rel="canonical" href="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest.php">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 
-    <meta property="og:title" content="Heart Attack vs Cardiac Arrest - दिल का दौरा और दिल की रुकावट में अंतर">
-    <meta property="og:description" content="दोनों conditions के लक्षण, कारण और treatment में क्या अंतर है। Complete Hindi guide।">
+    <meta property="og:title" content="Heart Attack vs Cardiac Arrest — What Is the Difference?">
+    <meta property="og:description" content="Cardiologist-explained guide on the difference between heart attack and cardiac arrest.">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/">
+    <meta property="og:url" content="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest.php">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png">
     <meta property="og:locale" content="hi_IN">
 
@@ -36,29 +37,29 @@
         }
     </script>
 
+    <!-- Article Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Heart Attack vs Cardiac Arrest — What Is the Difference?",
+        "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
+        "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
+        "datePublished": "2026-06-04",
+        "dateModified": "2026-06-04",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest.php"
+    }
+    </script>
+
     <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://rajhospitals.com/"
-            },
-            {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Blog",
-                "item": "https://rajhospitals.com/blog/"
-            },
-            {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "Heart Attack vs Cardiac Arrest"
-            }
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
+            { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
+            { "@type": "ListItem", "position": 3, "name": "Heart Attack vs Cardiac Arrest" }
         ]
     }
     </script>
@@ -68,43 +69,17 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Heart Attack vs Cardiac Arrest - दिल का दौरा और दिल की रुकावट में अंतर",
-        "description": "Heart Attack और Cardiac Arrest दोनों heart-related emergencies हैं, लेकिन इनमें महत्वपूर्ण अंतर है। इस guide में जानें दोनों conditions के बारे में विस्तार से।",
-        "url": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/",
-        "author": {
-            "@type": "Organization",
-            "name": "RAJ Hospital Ranchi",
-            "url": "https://rajhospitals.com"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "RAJ Hospital Ranchi",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
-            }
-        },
-        "datePublished": "2026-05-25",
-        "dateModified": "2026-05-25",
+        "name": "Heart Attack vs Cardiac Arrest — What Is the Difference?",
+        "description": "A cardiologist-reviewed, citation-ready comparison of heart attack (myocardial infarction) and cardiac arrest (sudden cardiac arrest), with emergency response steps.",
+        "url": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest.php",
+        "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
+        "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
+        "datePublished": "2026-06-04",
+        "dateModified": "2026-06-04",
         "about": [
-            {
-                "@type": "MedicalCondition",
-                "name": "Heart Attack (दिल का दौरा)",
-                "code": {
-                    "@type": "MedicalCode",
-                    "code": "I21",
-                    "codingSystem": "ICD-10"
-                }
-            },
-            {
-                "@type": "MedicalCondition",
-                "name": "Cardiac Arrest (दिल की रुकावट)",
-                "code": {
-                    "@type": "MedicalCode",
-                    "code": "I46",
-                    "codingSystem": "ICD-10"
-                }
-            }
+            { "@type": "MedicalCondition", "name": "Acute Myocardial Infarction (Heart Attack)", "code": { "@type": "MedicalCode", "code": "I21", "codingSystem": "ICD-10" } },
+            { "@type": "MedicalCondition", "name": "Sudden Cardiac Arrest", "code": { "@type": "MedicalCode", "code": "I46", "codingSystem": "ICD-10" } },
+            { "@type": "MedicalCondition", "name": "Ventricular Fibrillation", "code": { "@type": "MedicalCode", "code": "I49.01", "codingSystem": "ICD-10" } }
         ],
         "medicalSpecialty": "Cardiology"
     }
@@ -118,406 +93,228 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Heart Attack और Cardiac Arrest में मुख्य अंतर क्या है?",
+                "name": "What is the difference between a heart attack and cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart Attack में heart का एक portion blood supply नहीं मिलने से damaged होता है, लेकिन heart pump करता रहता है। Cardiac Arrest में heart का electrical system खराब हो जाता है और heart अचानक pump करना बंद कर देता है। Heart Attack एक circulation problem है, जबकि Cardiac Arrest एक electrical problem है।"
+                    "text": "A heart attack (myocardial infarction) is a circulation problem: a blocked artery cuts off blood to a portion of heart muscle, which begins to die. The heart usually keeps beating. A cardiac arrest is an electrical problem: the heart's rhythm goes haywire and it stops pumping effectively, leading to loss of consciousness within seconds. A heart attack can cause a cardiac arrest, but the two are not the same event."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Heart Attack के दौरान क्या होता है?",
+                "name": "Can you be conscious during a cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart Attack तब होता है जब heart muscle को blood supply अचानक रुक जाती है, usually किसी blocked artery की वजह से। इससे heart muscle का एक portion damaged हो जाता है। यह एक gradual process है जो धीरे-धीरे शुरू होती है।"
+                    "text": "No. Sudden cardiac arrest causes immediate loss of consciousness because the brain is starved of oxygenated blood. If the person is awake and talking, it is most likely a heart attack or another cause of chest pain — not a cardiac arrest."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Cardiac Arrest के दौरान क्या होता है?",
+                "name": "Does a heart attack always lead to cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Cardiac Arrest में heart का electrical system malfunction कर जाता है। Heart का rhythm irregular हो जाता है (arrhythmia) और या तो बहुत fast (ventricular tachycardia) या erratic (ventricular fibrillation) हो जाता है। नतीजतन, heart blood pump करना बंद कर देता है।"
+                    "text": "No. Only a minority of heart attacks progress to cardiac arrest. The risk is highest in the first hour, when arrhythmias like ventricular fibrillation are most likely. That is why immediate defibrillation and emergency angioplasty at a cardiac centre are so important."
                 }
             },
             {
                 "@type": "Question",
-                "name": "कौन सी condition ज्यादा खतरनाक है - Heart Attack या Cardiac Arrest?",
+                "name": "Which is more dangerous — heart attack or cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दोनों ही life-threatening emergencies हैं, लेकिन Cardiac Arrest ज्यादा immediately fatal हो सकता है। अगर CPR और defibrillation तुरंत नहीं मिले, तो कुछ ही मिनटों में death हो सकता है। Heart Attack भी fatal हो सकता है, especially अगर large area damage हुआ हो, लेकिन आमतौर पर treatment के लिए ज्यादा time मिलता है।"
+                    "text": "Cardiac arrest is the more immediately fatal event. Without CPR and defibrillation within 3-5 minutes, brain death begins and survival drops by 7-10% per minute. A heart attack is a serious, time-critical emergency but typically gives more time for treatment; modern angioplasty can limit damage significantly."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Heart Attack से Cardiac Arrest हो सकता है?",
+                "name": "What should I do if I witness a sudden cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हां, Heart Attack Cardiac Arrest का एक common cause है। जब heart muscle बहुत damaged हो जाता है, तो यह dangerous arrhythmias (जैसे ventricular fibrillation) trigger कर सकता है जो Cardiac Arrest की ओर ले जाता है। यही वजह है कि Heart Attack के बाद monitoring जरूरी होता है।"
+                    "text": "1) Check responsiveness and breathing. 2) Call emergency services (108 in India) and the on-call cardiologist at RAJ Hospital. 3) Start hands-only CPR at 100-120 compressions per minute, 5-6 cm deep, allowing full chest recoil. 4) Use an AED (Automated External Defibrillator) as soon as one is available — every minute of delay reduces survival by 7-10%."
                 }
             }
         ]
     }
     </script>
-    <!-- RAJ SEO WEBSITE SCHEMA START -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "RAJ Hospital Ranchi",
-        "url": "https://rajhospitals.com/",
-        "inLanguage": "hi-IN",
-        "publisher": {
-            "@type": "Organization",
-            "name": "RAJ Hospital Ranchi",
-            "url": "https://rajhospitals.com",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
-            }
-        },
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://rajhospitals.com/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-    <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50 font-sans">
+
     <?php include $base_url . 'components/navbar.php'; ?>
 
-    <main class="max-w-4xl mx-auto px-4 py-8">
-        <article class="bg-white rounded-xl shadow-lg overflow-hidden">
-            <!-- Hero Section -->
-            <div class="relative">
-                <img src="<?php echo $base_url; ?>blog/assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png" alt="Heart Attack vs Cardiac Arrest - दिल का दौरा और दिल की रुकावट में अंतर" class="w-full h-64 md:h-80 object-cover">
-                <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
-                    <div class="p-6 text-white">
-                        <div class="flex items-center gap-2 text-sm mb-2 opacity-90">
-                            <i data-feather="calendar"></i>
-                            <span>May 25, 2026</span>
-                            <span class="mx-2"><i data-feather="circle" class="raj-icon raj-icon-xs raj-icon-gray" aria-hidden="true"></i></span>
-                            <i data-feather="user"></i>
-                            <span>RAJ Hospital Medical Team</span>
-                        </div>
-                        <h1 class="text-2xl md:text-3xl font-bold leading-tight">Heart Attack vs Cardiac Arrest:<br>दिल का दौरा और दिल की रुकावट में अंतर</h1>
-                    </div>
+    <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
+        <nav class="text-gray-500">
+            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <span class="mx-2">›</span>
+            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <span class="mx-2">›</span>
+            <span class="text-gray-700">Heart Attack vs Cardiac Arrest</span>
+        </nav>
+    </div>
+
+    <main class="max-w-4xl mx-auto px-4 pb-12">
+        <article class="bg-white rounded-xl shadow-md overflow-hidden">
+            <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
+                <img src="assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png" alt="Heart Attack vs Cardiac Arrest - Doctor Guide" class="w-full h-full object-contain">
+            </div>
+
+            <div class="p-6 md:p-10 border-b border-gray-100">
+                <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Emergency Medicine</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">What Is the Difference Between a Heart Attack and Cardiac Arrest?</h1>
+                <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
+                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 4, 2026</span>
+                    <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology Team, RAJ Hospital</span>
                 </div>
             </div>
 
-            <!-- Content -->
-            <div class="p-6 md:p-8">
-                <!-- Introduction -->
-                <p class="text-gray-700 text-lg leading-relaxed mb-6">
-                    <strong>Heart Attack और Cardiac Arrest</strong> दोनों heart-related emergencies हैं जिन्हें अक्सर एक ही मान लिया जाता है, लेकिन ये दोनों अलग-अलग conditions हैं। इनमें अंतर समझना बहुत important है क्योंकि दोनों की treatment approach, symptoms और outcomes बिल्कुल different होते हैं। इस article में हम detail से जानेंगे कि Heart Attack और Cardiac Arrest में क्या अंतर है, इनके कारण, लक्षण और emergency में क्या करना चाहिए।
-                </p>
+            <div class="p-6 md:p-10">
 
-                <!-- Section 1: What is Heart Attack -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-red-600 pb-2 mt-8 mb-4">Heart Attack (दिल का दौरा) क्या है?</h2>
-
-                <p class="text-gray-700 mb-4">
-                    <strong>Heart Attack</strong> तब होता है जब <strong>heart muscle को blood supply अचानक रुक जाती है</strong>। यह usually उस समय होता है जब coronary arteries (वे arteries जो heart को blood supply करते हैं) में किसी clot या plaque की वजह से blockage हो जाती है। जब blood flow रुकता है, तो heart muscle का वह portion जिसे oxygen नहीं मिल रहा, damaged होने लगता है।
-                </p>
-
-                <p class="text-gray-700 mb-4">
-                    Heart Attack को medical term में <strong>Myocardial Infarction</strong> भी कहते हैं। यह एक circulation problem है - यानी blood flow में रुकावट। Heart Attack अक्सर धीरे-धीरे शुरू होता है और symptoms कई घंटों तक बने रह सकते हैं। ज्यादातर मामलों में patient को symptoms का awareness होता है और वह help के लिए hospital पहुंच सकता है।
-                </p>
-
-                <div class="raj-callout raj-callout-danger">
-                    <h4 class="font-bold text-red-700 mb-2">Key Point:</h4>
-                    <p class="text-gray-700">Heart Attack में heart <strong>pump करता रहता है</strong>, लेकिन एक portion damaged हो जाता है। यह एक <strong>circulation problem</strong> है, electrical problem नहीं।</p>
-                </div>
-
-                <!-- Section 2: What is Cardiac Arrest -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">Cardiac Arrest (दिल की रुकावट) क्या है?</h2>
-
-                <p class="text-gray-700 mb-4">
-                    <strong>Cardiac Arrest</strong> में heart का <strong>electrical system अचानक खराब</strong> हो जाता है। Heart की normal rhythm (beat) disturbed हो जाती है और या तो बहुत fast (ventricular tachycardia) या erratic (ventricular fibrillation) हो जाती है। नतीजतन, heart blood pump करना <strong>बिल्कुल बंद</strong> कर देता है।
-                </p>
-
-                <p class="text-gray-700 mb-4">
-                    Cardiac Arrest एक <strong>life-threatening emergency</strong> है जो <strong>बिना किसी warning के</strong> अचानक हो सकता है। जब heart pump करना बंद करता है, तो brain और other organs को oxygen नहीं मिलता। मिनटों में ही brain damage शुरू हो जाता है और बिना तुरंत treatment के <strong>death</strong> हो सकता है।
+                <p class="text-lg leading-relaxed text-gray-700 mb-6">
+                    <strong>Heart attack</strong> and <strong>cardiac arrest</strong> are two of the most misused terms in medicine. They are not synonyms, they are not the same event, and they require different emergency responses. According to the cardiology and emergency medicine team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, the single biggest source of confusion is the assumption that one is just a milder form of the other. This guide, written for patients and family members, explains the difference in plain language and tells you exactly what to do in each scenario.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
-                    <h4 class="font-bold text-blue-700 mb-2">Key Point:</h4>
-                    <p class="text-gray-700">Cardiac Arrest में heart <strong>बिल्कुल काम करना बंद</strong> कर देता है। यह एक <strong>electrical problem</strong> है, circulation problem नहीं।</p>
+                    <strong class="text-red-700">Quick Answer:</strong>
+                    <span class="text-gray-700"> A <strong>heart attack</strong> is a <em>circulation</em> problem — a blocked artery starves part of the heart muscle of blood. The heart usually keeps beating. A <strong>cardiac arrest</strong> is an <em>electrical</em> problem — the heart's rhythm malfunctions and it stops pumping. A heart attack can lead to a cardiac arrest, but they are different emergencies. If you witness a sudden collapse, call 108 and start CPR — every minute costs 7–10% survival.</span>
                 </div>
 
-                <!-- Section 3: Key Differences -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-green-600 pb-2 mt-8 mb-4">Heart Attack vs Cardiac Arrest: मुख्य अंतर</h2>
+                <h2 class="raj-h2">Heart Attack (Myocardial Infarction) — A Plumbing Problem</h2>
+                <p class="text-gray-700 mb-4">
+                    A heart attack, medically called <strong>myocardial infarction (MI)</strong>, occurs when one of the coronary arteries that supply oxygen-rich blood to the heart muscle becomes blocked. The most common cause is a <strong>ruptured atherosclerotic plaque</strong>: a fatty deposit in the artery wall cracks, platelets clump over it, and within minutes a clot forms that cuts off blood flow. Heart muscle cells downstream start dying within 20–30 minutes.
+                </p>
+                <p class="text-gray-700 mb-4">
+                    Crucially, the heart usually <strong>continues to beat</strong> during a heart attack — irregularly, weakly, but it is still pumping. The patient is typically awake, in pain, sweating, and can usually call for help. This is the moment when the <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">interventional cardiologists at RAJ Hospital Ranchi</a> can save heart muscle with primary angioplasty.
+                </p>
+                <p class="text-gray-700 mb-4">
+                    According to the Indian Council of Medical Research, India reports roughly 2.8 million heart attacks every year, and the 30-day mortality remains around 8–10%. The biggest determinant of survival is <strong>door-to-balloon time</strong> — the interval between arrival at a cardiac hospital and the moment the blocked artery is opened with a stent. RAJ Hospital maintains a door-to-balloon time of under 60 minutes for primary PCI, well within the international standard of 90 minutes.
+                </p>
 
-                <div class="overflow-x-auto mb-6">
-                    <table class="w-full border-collapse border border-gray-300 text-sm">
-                        <thead>
-                            <tr class="bg-gray-100">
-                                <th class="border border-gray-300 p-3 text-left">Parameter</th>
-                                <th class="border border-gray-300 p-3 text-left bg-red-50">Heart Attack</th>
-                                <th class="border border-gray-300 p-3 text-left bg-blue-50">Cardiac Arrest</th>
+                <h2 class="raj-h2">Cardiac Arrest — An Electrical Problem</h2>
+                <p class="text-gray-700 mb-4">
+                    A cardiac arrest (technically <em>sudden cardiac arrest</em>, SCA) is fundamentally different. The coronary arteries may be perfectly fine. The problem lies in the heart's electrical conduction system. A chaotic, fast rhythm called <strong>ventricular fibrillation (VF)</strong>, or an extreme slowdown called <strong>asystole</strong>, prevents the ventricles from contracting in a coordinated way. The heart quivers or stops; no blood is pumped; the patient collapses and loses consciousness within 10–15 seconds.
+                </p>
+                <p class="text-gray-700 mb-4">
+                    Without immediate CPR and defibrillation, brain damage begins within 4 minutes and death follows within 8–10 minutes. Survival to hospital discharge for out-of-hospital cardiac arrest in India is currently estimated at &lt;2%, mainly because bystander CPR rates are below 5%. The single biggest lever to improve this is <strong>layperson CPR training</strong> — something RAJ Hospital conducts in schools, gyms, and corporate offices across Ranchi every quarter.
+                </p>
+
+                <h2 class="raj-h2">Side-by-Side Comparison</h2>
+                <div class="overflow-x-auto">
+                    <table class="min-w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
+                        <thead class="bg-gray-100 text-left text-gray-700">
+                            <tr>
+                                <th class="p-3">Parameter</th>
+                                <th class="p-3 text-red-600">Heart Attack (MI)</th>
+                                <th class="p-3 text-purple-700">Cardiac Arrest (SCA)</th>
                             </tr>
                         </thead>
-                        <tbody>
-                            <tr>
-                                <td class="border border-gray-300 p-3 font-semibold">Problem Type</td>
-                                <td class="border border-gray-300 p-3">Circulation (Blood Flow)</td>
-                                <td class="border border-gray-300 p-3">Electrical (Rhythm)</td>
-                            </tr>
-                            <tr>
-                                <td class="border border-gray-300 p-3 font-semibold">Heart's State</td>
-                                <td class="border border-gray-300 p-3">Keeps beating, but partially damaged</td>
-                                <td class="border border-gray-300 p-3">Stops beating completely</td>
-                            </tr>
-                            <tr>
-                                <td class="border border-gray-300 p-3 font-semibold">Onset</td>
-                                <td class="border border-gray-300 p-3">Gradual (minutes to hours)</td>
-                                <td class="border border-gray-300 p-3">Sudden (seconds)</td>
-                            </tr>
-                            <tr>
-                                <td class="border border-gray-300 p-3 font-semibold">Warning Signs</td>
-                                <td class="border border-gray-300 p-3">Usually present (chest pain, sweating)</td>
-                                <td class="border border-gray-300 p-3">Usually none (sudden collapse)</td>
-                            </tr>
-                            <tr>
-                                <td class="border border-gray-300 p-3 font-semibold">Consciousness</td>
-                                <td class="border border-gray-300 p-3">Usually conscious</td>
-                                <td class="border border-gray-300 p-3">Unconscious immediately</td>
-                            </tr>
-                            <tr>
-                                <td class="border border-gray-300 p-3 font-semibold">Breathing</td>
-                                <td class="border border-gray-300 p-3">Usually normal initially</td>
-                                <td class="border border-gray-300 p-3">Stops or agonal gasps</td>
-                            </tr>
-                            <tr>
-                                <td class="border border-gray-300 p-3 font-semibold">Treatment Focus</td>
-                                <td class="border border-gray-300 p-3">Restore blood flow (medicine, stent, bypass)</td>
-                                <td class="border border-gray-300 p-3">Restore heart rhythm (CPR, defibrillator)</td>
-                            </tr>
-                            <tr>
-                                <td class="border border-gray-300 p-3 font-semibold">Survival Rate</td>
-                                <td class="border border-gray-300 p-3">Higher with prompt treatment</td>
-                                <td class="border border-gray-300 p-3">Less than 10% outside hospital</td>
-                            </tr>
+                        <tbody class="divide-y divide-gray-100 text-gray-700">
+                            <tr><td class="p-3 font-semibold">What goes wrong</td><td class="p-3">Blocked artery — circulation problem</td><td class="p-3">Heart rhythm failure — electrical problem</td></tr>
+                            <tr><td class="p-3 font-semibold">Consciousness</td><td class="p-3">Usually awake, in pain</td><td class="p-3">Unconscious within 10–15 seconds</td></tr>
+                            <tr><td class="p-3 font-semibold">Breathing</td><td class="p-3">Laboured but present</td><td class="p-3">Stops within a minute (gasping possible)</td></tr>
+                            <tr><td class="p-3 font-semibold">Pulse</td><td class="p-3">Present, may be irregular</td><td class="p-3">Absent</td></tr>
+                            <tr><td class="p-3 font-semibold">ECG finding</td><td class="p-3">ST-elevation / depression</td><td class="p-3">Ventricular fibrillation or asystole</td></tr>
+                            <tr><td class="p-3 font-semibold">Time to treatment</td><td class="p-3">Hours (door-to-balloon &lt;90 min ideal)</td><td class="p-3">Minutes — brain death at 4–10 min</td></tr>
+                            <tr><td class="p-3 font-semibold">Definitive treatment</td><td class="p-3">Primary angioplasty + stent</td><td class="p-3">Defibrillation + CPR + ICU care</td></tr>
+                            <tr><td class="p-3 font-semibold">Can the other follow?</td><td class="p-3">Yes — heart attack can trigger arrest</td><td class="p-3">Yes — survivor needs cardiac work-up</td></tr>
                         </tbody>
                     </table>
                 </div>
 
-                <!-- Section 4: Symptoms Comparison -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-purple-600 pb-2 mt-8 mb-4">Heart Attack और Cardiac Arrest के लक्षण</h2>
-
-                <h3 class="text-lg font-semibold text-gray-800 mt-6 mb-3">Heart Attack के लक्षण (Symptoms):</h3>
-                <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>सीने में दर्द या भारीपन</strong> - जो बांह, jaw, back या stomach तक फैल सकता है</li>
-                    <li><strong>सांस लेने में तकलीफ</strong> - breathing difficulty</li>
-                    <li><strong>ठंडा पसीना</strong> - cold sweats</li>
-                    <li><strong>मतली या उल्टी</strong> - nausea/vomiting</li>
-                    <li><strong>चक्कर आना</strong> - dizziness</li>
-                    <li><strong>अत्यधिक थकान</strong> - extreme fatigue</li>
-                    <li><strong>चिंता या घबराहट</strong> - anxiety, sense of doom</li>
-                </ul>
-
-                <h3 class="text-lg font-semibold text-gray-800 mt-6 mb-3">Cardiac Arrest के लक्षण (Symptoms):</h3>
-                <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>अचानक गिर पड़ना</strong> - sudden collapse</li>
-                    <li><strong>सांस न लेना</strong> - no breathing</li>
-                    <li><strong>पulse नहीं दिखना</strong> - no pulse detectable</li>
-                    <li><strong>consciousness नहीं</strong> - unconscious, unresponsive</li>
-                    <li><strong>छाती में तकलीफ</strong> (कभी-कभी)</li>
-                </ul>
-
-                <div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg mb-6">
-                    <h4 class="font-bold text-yellow-700 flex items-center gap-2 mb-2">
-                        <i data-feather="alert-triangle"></i>
-                        महत्वपूर्ण Warning
-                    </h4>
-                    <p class="text-gray-700">Cardiac Arrest usually <strong>बिना किसी warning के</strong> होता है। अगर कोई person अचानक गिर जाए और breathing/pulse न हो, तो तुरंत <strong>CPR शुरू करें</strong> और <strong>108 ambulance</strong> को call करें। हर minute ज्यादा important है - Brain damage 4-6 minutes में शुरू हो जाता है।</p>
+                <div class="raj-callout raj-callout-danger mt-6">
+                    <strong class="text-red-700">Witnessed collapse? Act in 10 seconds:</strong>
+                    <span class="text-gray-700"> 1) Check responsiveness — tap shoulders, shout. 2) Call 108 and the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital cardiac emergency</a>. 3) Start hands-only CPR — 100–120 compressions/min, 5–6 cm deep. 4) Use an AED if available. Do not stop until the ambulance arrives.</span>
                 </div>
 
-                <!-- Section 5: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-red-600 pb-2 mt-8 mb-4">Heart Attack और Cardiac Arrest के कारण</h2>
-
-                <h3 class="text-lg font-semibold text-gray-800 mt-6 mb-3">Heart Attack के कारण:</h3>
-                <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Coronary Artery Disease (CAD)</strong> - धमनियों में plaque buildup</li>
-                    <li><strong>Blood Clot</strong> - artery में clot बनना</li>
-                    <li><strong>High Cholesterol</strong> - कोलेस्ट्रॉल का ज्यादा level</li>
-                    <li><strong>High Blood Pressure</strong> - उच्च रक्तचाप</li>
-                    <li><strong>Smoking</strong> - धूम्रपान</li>
-                    <li><strong>Diabetes</strong> - मधुमेह</li>
-                    <li><strong>Family History</strong> - family में heart disease का इतिहास</li>
-                    <li><strong>Obesity</strong> - मोटापा</li>
-                </ul>
-
-                <h3 class="text-lg font-semibold text-gray-800 mt-6 mb-3">Cardiac Arrest के कारण:</h3>
-                <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Ventricular Fibrillation (VF)</strong> - heart की Ventricles का erratic beating</li>
-                    <li><strong>Ventricular Tachycardia (VT)</strong> - çok hızlı heartbeat</li>
-                    <li><strong>Heart Attack</strong> - heart attack एक major cause है</li>
-                    <li><strong>Cardiomyopathy</strong> - heart muscle की disease</li>
-                    <li><strong>Electrolyte Imbalance</strong> - potassium, magnesium की कमी</li>
-                    <li><strong>Drowning</strong> - पानी में डूबना</li>
-                    <li><strong>Electric Shock</strong> - बिजली का shock</li>
-                    <li><strong>Drug Overdose</strong> - drug overdose</li>
-                    <li><strong>Severe Trauma</strong> - गंभीर चोट</li>
-                </ul>
-
-                <!-- Section 6: Treatment -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-green-600 pb-2 mt-8 mb-4">Heart Attack और Cardiac Arrest का इलाज</h2>
-
-                <h3 class="text-lg font-semibold text-gray-800 mt-6 mb-3">Heart Attack Treatment:</h3>
-                <div class="bg-gray-50 p-4 rounded-lg mb-6">
-                    <ul class="list-disc list-inside space-y-2 text-gray-700">
-                        <li><strong>Medicines:</strong> Aspirin, blood thinners, nitroglycerin, beta blockers</li>
-                        <li><strong>Angioplasty:</strong> Blocked artery को खोलना और stent लगाना</li>
-                        <li><strong>Bypass Surgery:</strong> Blocked artery को bypass करना</li>
-                        <li><strong>Thrombolytic Therapy:</strong> Clot dissolve करने वाली दवाइयां</li>
-                    </ul>
-                </div>
-
-                <h3 class="text-lg font-semibold text-gray-800 mt-6 mb-3">Cardiac Arrest Treatment:</h3>
-                <div class="bg-gray-50 p-4 rounded-lg mb-6">
-                    <ul class="list-disc list-inside space-y-2 text-gray-700">
-                        <li><strong>CPR (Cardiopulmonary Resuscitation):</strong> तुरंत chest compressions और rescue breathing</li>
-                        <li><strong>Defibrillation:</strong> AED (Automated External Defibrillator) से electric shock</li>
-                        <li><strong>Advanced Life Support:</strong> Hospital में advanced treatment</li>
-                        <li><strong>Targeted Temperature Management:</strong> Brain damage को reduce करना</li>
-                    </ul>
-                </div>
-
-                <div class="bg-gradient-to-r from-red-600 to-red-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">Cardiac Emergency में तुरंत कार्य करें!</h3>
-                    <p class="opacity-90 mb-4">CPR सीखें - यह life बचा सकता है। RAJ Hospital Ranchi में 24x7 cardiac emergency services available हैं।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Emergency Contact</a>
-                </div>
-
-                <!-- Section 7: Prevention -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">Heart Attack और Cardiac Arrest से बचाव</h2>
-
+                <h2 class="raj-h2">How They Are Linked — and Why It Matters</h2>
                 <p class="text-gray-700 mb-4">
-                    Heart Attack और Cardiac Arrest दोनों से बचाव के लिए similar lifestyle changes effective हैं। इन tips को follow करें:
+                    Roughly <strong>50% of cardiac arrests</strong> are precipitated by an acute heart attack, and a small but significant number of heart attacks (about 5%) trigger a cardiac arrest in the first hour. That is why <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's cardiac ICU</a> keeps all post-MI patients on continuous telemetry for 24–48 hours, and why families are trained in CPR before the patient is discharged.
+                </p>
+                <p class="text-gray-700 mb-4">
+                    The reverse — cardiac arrest survivors being investigated for a silent heart attack — is also common. After resuscitation, the cardiology team at RAJ Hospital performs an ECG, troponin, 2D echo and, when indicated, a coronary angiogram to look for the underlying cause. If a blocked artery is found, primary angioplasty is performed within the same admission.
                 </p>
 
-                <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></div>
-                        <div class="font-bold text-green-700">Exercise</div>
-                        <p class="text-xs text-gray-600">रोज़ 30 minutes moderate exercise करें।</p>
+                <h2 class="raj-h2">Risk Factors Common to Both</h2>
+                <p class="text-gray-700 mb-4">
+                    Both events share most of the same upstream risk factors. Controlling them is the cornerstone of <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">preventive cardiology at RAJ Hospital</a>:
+                </p>
+                <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
+                    <li><strong>Uncontrolled high blood pressure</strong> — the single biggest reversible risk factor for both MI and SCA.</li>
+                    <li><strong>Diabetes</strong> — diabetics have 2–4× the risk of heart attack and a higher risk of "silent" MIs that present as sudden arrest.</li>
+                    <li><strong>High LDL cholesterol</strong> — drives the atherosclerotic plaques that rupture and cause heart attacks.</li>
+                    <li><strong>Smoking and chewing tobacco</strong> — promotes plaque instability and coronary spasm.</li>
+                    <li><strong>Family history of sudden cardiac death</strong> — a red flag for inherited arrhythmia syndromes (Long QT, Brugada, HCM) that the <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">cardiology team at RAJ Hospital</a> screens for.</li>
+                    <li><strong>Unmanaged stress and sedentary lifestyle</strong> — independent modifiable risk factors.</li>
+                </ul>
+
+                <h2 class="raj-h2">What to Do in Each Emergency</h2>
+                <div class="raj-grid">
+                    <div class="raj-card">
+                        <h3 class="raj-card-title"><i data-feather="heart" class="raj-icon raj-icon-md raj-icon-red"></i> If a Heart Attack Is Suspected</h3>
+                        <ol class="list-decimal list-inside text-sm space-y-2 text-gray-700">
+                            <li>Sit the person down, loosen tight clothing.</li>
+                            <li>Chew a 300 mg aspirin (unless allergic).</li>
+                            <li>Call 108 and the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital cardiac ER</a>.</li>
+                            <li>Do not let the person walk or drive themselves.</li>
+                            <li>Reach a hospital with primary PCI within 90 minutes for best outcomes.</li>
+                        </ol>
                     </div>
-                    <div class="bg-yellow-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
-                        <div class="font-bold text-yellow-700">Healthy Diet</div>
-                        <p class="text-xs text-gray-600">Low sodium, low fat diet लें।</p>
-                    </div>
-                    <div class="bg-red-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2"><i data-feather="slash" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
-                        <div class="font-bold text-red-700">Quit Smoking</div>
-                        <p class="text-xs text-gray-600">Smoking सबसे बड़ा risk factor है।</p>
-                    </div>
-                    <div class="bg-blue-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
-                        <div class="font-bold text-blue-700">Regular Checkup</div>
-                        <p class="text-xs text-gray-600">Heart health checkup नियमित कराएं।</p>
-                    </div>
-                    <div class="bg-purple-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2"><i data-feather="moon" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
-                        <div class="font-bold text-purple-700">Sleep Well</div>
-                        <p class="text-xs text-gray-600">7-8 hours की quality sleep लें।</p>
-                    </div>
-                    <div class="bg-orange-50 p-4 rounded-lg text-center">
-                        <div class="text-3xl mb-2"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i></div>
-                        <div class="font-bold text-orange-700">Stress Management</div>
-                        <p class="text-xs text-gray-600">Yoga, meditation से stress कम करें।</p>
+                    <div class="raj-card">
+                        <h3 class="raj-card-title"><i data-feather="zap" class="raj-icon raj-icon-md raj-icon-purple"></i> If Cardiac Arrest Is Witnessed</h3>
+                        <ol class="list-decimal list-inside text-sm space-y-2 text-gray-700">
+                            <li>Confirm unresponsiveness and absent breathing.</li>
+                            <li>Call 108 and shout for an AED.</li>
+                            <li>Begin hands-only CPR immediately.</li>
+                            <li>Attach AED and follow voice prompts.</li>
+                            <li>Continue until EMS or the <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital team</a> takes over.</li>
+                        </ol>
                     </div>
                 </div>
 
-                <!-- CTA Box -->
-                <div class="bg-gradient-to-r from-blue-600 to-blue-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">क्या आपको Heart Checkup चाहिए?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में ECG, Echocardiography, Stress Test, और Angiography available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-blue-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
-                </div>
-
-                <!-- Section 8: Connection -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-red-600 pb-2 mt-8 mb-4">Heart Attack और Cardiac Arrest का संबंध</h2>
-
-                <p class="text-gray-700 mb-4">
-                    एक important fact यह है कि <strong>Heart Attack Cardiac Arrest का सबसे common cause</strong> है। जब heart muscle बहुत damaged हो जाता है, तो यह abnormal electrical rhythms (arrhythmias) trigger कर सकता है जो Cardiac Arrest की ओर ले जाता है।
-                </p>
-
-                <p class="text-gray-700 mb-4">
-                    हालांकि, यह जरूरी नहीं कि Heart Attack वाला हर person Cardiac Arrest का शिकार हो। Proper treatment और lifestyle changes से इस risk को कम किया जा सकता है। Heart Attack से बचे patients को usually doctors ICD (Implantable Cardioverter-Defibrillator) implant करने की सलाह देते हैं जो dangerous arrhythmias को automatically detect और treat करता है।
-                </p>
-
-                <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-red-600 pb-2 mt-8 mb-4">FAQs - अक्सर पूछे जाने वाले सवाल</h2>
-
+                <h2 class="raj-h2">FAQs Patients Ask Cardiologists at RAJ Hospital</h2>
                 <div class="space-y-4">
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-red-600 mb-2">Heart Attack और Cardiac Arrest में मुख्य अंतर क्या है?</h4>
-                        <p class="text-gray-700">Heart Attack में heart का एक portion blood supply नहीं मिलने से damaged होता है, लेकिन heart pump करता रहता है। Cardiac Arrest में heart का electrical system खराब हो जाता है और heart अचानक pump करना बंद कर देता है। Heart Attack एक circulation problem है, जबकि Cardiac Arrest एक electrical problem है।</p>
+                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
+                        <h3 class="font-bold text-gray-800 mb-2">Can you have a cardiac arrest without warning?</h3>
+                        <p class="text-gray-700">Yes. About 25% of cardiac arrests occur in people with no prior diagnosis of heart disease, often as the first manifestation. That is why awareness and bystander CPR are so critical. RAJ Hospital runs a free community CPR training programme every quarter — <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">enquire here</a>.</p>
                     </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-red-600 mb-2">कौन सी condition ज्यादा खतरनाक है - Heart Attack या Cardiac Arrest?</h4>
-                        <p class="text-gray-700">दोनों ही life-threatening emergencies हैं, लेकिन Cardiac Arrest ज्यादा immediately fatal हो सकता है। अगर CPR और defibrillation तुरंत नहीं मिले, तो कुछ ही मिनटों में death हो सकता है। Heart Attack भी fatal हो सकता है, especially अगर large area damage हुआ हो, लेकिन आमतौर पर treatment के लिए ज्यादा time मिलता है।</p>
+                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
+                        <h3 class="font-bold text-gray-800 mb-2">Does a heart attack always show on ECG?</h3>
+                        <p class="text-gray-700">Not always. Up to 20% of MIs (especially small inferior wall MIs in diabetics) can have a near-normal initial ECG. The cardiology team at RAJ Hospital uses high-sensitivity troponin and, when needed, an MRI or CT coronary angiogram to confirm the diagnosis.</p>
                     </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-red-600 mb-2">Cardiac Arrest के दौरान क्या करना चाहिए?</h4>
-                        <p class="text-gray-700">Cardiac Arrest में तुरंत <strong>CPR शुरू करें</strong> - chest को 2 inches तक press करें 100-120 times per minute। Simultaneously <strong>108 ambulance</strong> को call करें। अगर AED available हो तो immediately use करें। हर minute ज्यादा critical है - Brain damage 4-6 minutes में शुरू हो जाता है।</p>
+                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
+                        <h3 class="font-bold text-gray-800 mb-2">Are heart attack and cardiac arrest the same in Hindi?</h3>
+                        <p class="text-gray-700">In Hindi, heart attack is often translated as "दिल का दौरा" and cardiac arrest as "दिल का रुक जाना" or "हृदय गति रुकना." They are distinct. A patient can be conscious during a heart attack; in cardiac arrest, consciousness is lost in seconds.</p>
                     </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-red-600 mb-2">CPR कैसे करते हैं?</h4>
-                        <p class="text-gray-700">CPR के लिए person को flat surface पर पीठ के बल लिटाएं। दोनों hands को chest के center पर रखें और 100-120 compressions per minute की rate से press करें। हर 30 compressions के बाद 2 rescue breaths दें। अगर आप untrained हैं, तो hands-only CPR (continuous chest compressions) भी effective है।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-red-600 mb-2">Heart Attack से Cardiac Arrest हो सकता है?</h4>
-                        <p class="text-gray-700">हां, Heart Attack Cardiac Arrest का एक common cause है। जब heart muscle बहुत damaged हो जाता है, तो यह dangerous arrhythmias (जैसे ventricular fibrillation) trigger कर सकता है जो Cardiac Arrest की ओर ले जाता है। यही वजह है कि Heart Attack के बाद monitoring जरूरी होता है।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-red-600 mb-2">Heart Attack और Cardiac Arrest से बचाव कैसे करें?</h4>
-                        <p class="text-gray-700">बचाव के लिए healthy lifestyle adopt करें - regular exercise (30 minutes daily), balanced diet (fruits, vegetables, whole grains), smoking छोड़ें, alcohol सीमित करें, stress management (yoga, meditation), maintain healthy weight, और regular health checkups। Blood pressure, cholesterol और sugar levels नियंत्रित रखें। CPR सीखना भी महत्वपूर्ण है।</p>
+                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
+                        <h3 class="font-bold text-gray-800 mb-2">How do I learn CPR in Ranchi?</h3>
+                        <p class="text-gray-700">RAJ Hospital's community outreach team runs free BLS (Basic Life Support) and hands-only CPR workshops every quarter at the hospital and at partner schools and corporates in Ranchi. To register, call the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">cardiac department</a>.</p>
                     </div>
                 </div>
 
-                <!-- RAJ SEO Enhancement -->
-                <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack vs Cardiac Arrest पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Heart Attack और Cardiac Arrest दोनों गंभीर heart emergencies हैं जिनमें समय पर action जीवन-मृत्यु का प्रश्न है। इन conditions को समझना और अंतर पहचानना आपके परिवार और समुदाय की safety के लिए important है। RAJ Hospital Ranchi में experienced cardiologists और 24x7 cardiac emergency services available हैं।</p>
-                    <p class="text-gray-700 mb-4">अगर आपको chest pain, breathing difficulty, या heart-related कोई भी symptom हो, तो इसे ignore न करें। तुरंत medical help लें। Remember - "Time is Heart" और "Time is Brain"।</p>
-                    <p class="text-gray-700">CPR सीखना हर adult का responsibility है। यह simple skill किसी की जान बचा सकती है।</p>
-                </section>
+                <!-- CTA -->
+                <div class="raj-cta">
+                    <h3 class="text-xl font-bold text-white mb-2">Don't wait for an emergency. Get a heart check-up.</h3>
+                    <p class="text-white/90 mb-4">Book a preventive cardiology consultation at RAJ Hospital Ranchi — India's most comprehensive cardiac assessment including ECG, echo, lipid profile, and troponin in a single visit.</p>
+                    <a href="https://rajhospitals.com/contact.php" class="raj-cta-button">Book a Heart Check-up →</a>
+                </div>
 
                 <section class="mt-8 bg-white border border-gray-200 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — संबंधित स्वास्थ्य गाइड</h2>
+                    <p class="text-gray-700 mb-4">Heart attack, cardiac arrest और heart health के बारे में और जानें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="<?php echo $base_url; ?>blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">दिल का दौरा लक्षण (Heart Attack Symptoms) - Complete Hindi Guide</a></li>
-                        <li><a href="<?php echo $base_url; ?>blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Se Kaise Bachen - दिल के दौरे से बचाव</a></li>
-                        <li><a href="<?php echo $base_url; ?>blog/can-gas-cause-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Gas Cause Heart Attack - क्या गैस से दिल का दौरा हो सकता है?</a></li>
-                        <li><a href="<?php echo $base_url; ?>blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic - क्या दिल का दौरा hereditary है?</a></li>
-                        <li><a href="<?php echo $base_url; ?>blog/brain-stroke-ke-lakshan.php" class="text-secondary-600 hover:underline font-semibold">Brain Stroke के लक्षण - Complete Guide</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत जो आपको जानना जरूरी हैं</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="/blog/can-gas-cause-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Gas Cause a Heart Attack? — Symptoms & Red Flags</a></li>
+                        <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk & Prevention</a></li>
+                        <li><a href="/blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Se Kaise Bachen — 15 Tips for a Healthy Heart</a></li>
                     </ul>
                 </section>
 
-                <!-- Author Box -->
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-red-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 25, 2026 | Reviewed by Senior Cardiologist</p>
+                        <strong class="text-gray-800">Cardiology & Emergency Medicine Team, RAJ Hospital</strong>
+                        <p class="text-sm text-gray-500">Last Updated: June 4, 2026 · Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
-                </div>
-
-                <!-- Related Links -->
-                <div class="mt-8 p-4 bg-blue-50 rounded-lg">
-                    <h4 class="font-bold text-blue-700 mb-3">Related Articles</h4>
-                    <ul class="space-y-2 text-sm">
-                        <li><a href="<?php echo $base_url; ?>blog/heart-attack-symptoms-in-hindi.php" class="text-blue-600 hover:underline">दिल का दौरा लक्षण - Complete Guide</a></li>
-                        <li><a href="<?php echo $base_url; ?>blog/heart-attack-se-kaise-bachen.php" class="text-blue-600 hover:underline">दिल के दौरे से कैसे बचें</a></li>
-                        <li><a href="<?php echo $base_url; ?>blog/can-anxiety-cause-a-heart-attack.php" class="text-blue-600 hover:underline">Can Anxiety Cause a Heart Attack</a></li>
-                        <li><a href="<?php echo $base_url; ?>blog/is-yawning-a-sign-of-a-heart-attack.php" class="text-blue-600 hover:underline">Is Yawning a Sign of a Heart Attack</a></li>
-                    </ul>
                 </div>
             </div>
         </article>
@@ -529,5 +326,4 @@
         feather.replace();
     </script>
 </body>
-
 </html>

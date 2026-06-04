@@ -7,17 +7,19 @@
     <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Is Yawning a Sign of a Heart Attack? - Complete Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Is yawning a sign of a heart attack? जानें yawning और heart attack का connection, red flags, और कब worry करना चाहिए। Expert guidance।">
-    <meta name="keywords" content="yawning heart attack, excessive yawning, heart attack signs, yawning causes">
+    <title>Is Yawning a Sign of a Heart Attack? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Is yawning a sign of a heart attack? Cardiologists at RAJ Hospital Ranchi explain the link between excessive yawning, vasovagal response, and heart attack — when to worry and when it is harmless.">
+    <meta name="keywords" content="is yawning a sign of heart attack, excessive yawning heart, yawning before heart attack, vagus nerve yawn, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 
-    <meta property="og:title" content="Is Yawning a Sign of a Heart Attack? - Complete Guide">
-    <meta property="og:description" content="Is yawning a sign of a heart attack? जानें yawning और heart attack का connection।">
+    <meta property="og:title" content="Is Yawning a Sign of a Heart Attack? Doctor-Explained Guide">
+    <meta property="og:description" content="Cardiologist-reviewed guide on excessive yawning and its link to heart attack.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/is-yawning-a-sign-of-a-heart-attack.png">
+    <meta property="og:locale" content="hi_IN">
 
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
@@ -26,7 +28,7 @@
             theme: {
                 extend: {
                     colors: {
-                        primary: { 500: '#fc684b', 600: '#ea5234' },
+                        primary: { 500: '#c62828', 600: '#b71c1c' },
                         secondary: { 600: '#0191c7' },
                         accent: { 500: '#f97316' }
                     }
@@ -34,382 +36,277 @@
             }
         }
     </script>
-    <!-- RAJ SEO FAQ SCHEMA START -->
-    <script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-        {
-            "@type": "Question",
-            "name": "Is Yawning a Sign of a Heart Attack? में डॉक्टर को कब दिखाना चाहिए?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "क्या Is Yawning a Sign of a Heart Attack? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Can Anxiety Cause a Heart Attack? जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "लक्षण कब शुरू हुए, कितनी बार होते हैं, किससे बढ़ते या कम होते हैं, अभी कौन सी दवाएं चल रही हैं, एलर्जी, पुरानी बीमारी, परिवार का इतिहास, जीवनशैली और पुराने टेस्ट रिपोर्ट डॉक्टर को जरूर बताएं। इससे निदान तेज और उपचार ज्यादा सुरक्षित होता है।"
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "क्या इस समस्या में खुद से दवा लेना सुरक्षित है?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "खुद से दवा लेने से जरूरी warning signs छिप सकते हैं या दवाओं का interaction हो सकता है। हल्की समस्या में आराम, पानी और संतुलित भोजन मदद कर सकते हैं, लेकिन लगातार या गंभीर लक्षणों में RAJ Hospital या नजदीकी योग्य डॉक्टर से सलाह लेना बेहतर है।"
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
-            }
-        }
-    ]
-}
-    </script>
-    <!-- RAJ SEO FAQ SCHEMA END -->
-    <!-- RAJ SEO ARTICLE SCHEMA START -->
+
+    <!-- Article Schema -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "MedicalWebPage",
-        "headline": "Is Yawning a Sign of a Heart Attack? - Complete Guide | RAJ Hospital Ranchi",
-        "description": "Is yawning a sign of a heart attack? जानें yawning और heart attack का connection, red flags, और कब worry करना चाहिए। Expert guidance।",
-        "url": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php",
-        "image": "https://rajhospitals.com/blog/assets/img/featured/is-yawning-a-sign-of-a-heart-attack.png",
-        "author": {
-            "@type": "Organization",
-            "name": "RAJ Hospital Ranchi",
-            "url": "https://rajhospitals.com"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "RAJ Hospital Ranchi",
-            "url": "https://rajhospitals.com",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
-            }
-        },
-        "datePublished": "2026-05-22",
-        "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php",
-        "inLanguage": "hi-IN"
+        "@type": "Article",
+        "headline": "Is Yawning a Sign of a Heart Attack? Doctor-Explained Guide",
+        "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
+        "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
+        "datePublished": "2026-06-04",
+        "dateModified": "2026-06-04",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php"
     }
     </script>
-    <!-- RAJ SEO ARTICLE SCHEMA END -->
-    <!-- RAJ SEO BREADCRUMB SCHEMA START -->
+
+    <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
+            { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
+            { "@type": "ListItem", "position": 3, "name": "Is Yawning a Sign of a Heart Attack?" }
+        ]
+    }
+    </script>
+
+    <!-- MedicalWebPage Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Is Yawning a Sign of a Heart Attack?",
+        "description": "Cardiologist-reviewed guide to excessive yawning, the vagus nerve, and when yawning may signal a heart attack or other medical condition.",
+        "url": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php",
+        "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
+        "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
+        "datePublished": "2026-06-04",
+        "dateModified": "2026-06-04",
+        "about": [
+            { "@type": "MedicalCondition", "name": "Acute Myocardial Infarction" },
+            { "@type": "MedicalCondition", "name": "Vagus Nerve Disorders" },
+            { "@type": "MedicalCondition", "name": "Vasovagal Syncope" }
+        ],
+        "medicalSpecialty": "Cardiology"
+    }
+    </script>
+
+    <!-- FAQPage Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
             {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://rajhospitals.com/"
+                "@type": "Question",
+                "name": "Is excessive yawning a sign of a heart attack?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yawning alone is not a heart attack symptom. However, sudden and excessive yawning combined with chest discomfort, cold sweat, lightheadedness, or breathlessness can occasionally precede a heart attack — particularly in women, diabetics, and the elderly. The mechanism is thought to be vagal: the vagus nerve, when stimulated by reduced cardiac output, triggers yawning as a way to increase oxygen intake."
+                }
             },
             {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Blog",
-                "item": "https://rajhospitals.com/blog/"
+                "@type": "Question",
+                "name": "Why do I yawn a lot before a heart attack?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Pre-heart-attack yawning is thought to be a vagal response. When coronary flow drops, the brain's chemoreceptors detect a slight rise in CO2 and trigger repeated yawning to bring in more oxygen. Patients in cardiac rehab at RAJ Hospital Ranchi often describe a 'yawning spell' 30-60 minutes before chest tightness began."
+                }
             },
             {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "Is Yawning a Sign of a Heart Attack? - Complete Guide | RAJ Hospital Ranchi"
+                "@type": "Question",
+                "name": "What other conditions cause excessive yawning?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Excessive yawning is most often caused by sleep deprivation, fatigue, anxiety, medications (SSRIs, antihistamines), low blood pressure, anaemia, hypothyroidism, or brain-stem disorders such as multiple sclerosis. It is only rarely a cardiac warning sign — but when it is, it is almost always accompanied by other symptoms."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "When should I go to the ER for yawning and chest discomfort?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "If yawning is unusually frequent and is accompanied by chest pressure, sweating, lightheadedness, nausea, or breathlessness, treat it as a possible heart attack and call 108 or visit the 24×7 cardiac ER at RAJ Hospital Ranchi. An ECG and troponin test can rule out a cardiac cause in under 30 minutes."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can yawning lower my heart rate dangerously?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes — through a strong vagal reflex, repeated yawning can briefly drop the heart rate by 10-20 bpm. In patients with carotid sinus hypersensitivity or certain conduction abnormalities, this can cause fainting. If you yawn excessively and feel lightheaded, the cardiology team at RAJ Hospital can perform a head-up tilt test to evaluate the vagal response."
+                }
             }
         ]
     }
     </script>
-    <!-- RAJ SEO BREADCRUMB SCHEMA END -->
-    <!-- RAJ SEO ORGANIZATION SCHEMA START -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "RAJ Hospital Ranchi",
-        "url": "https://rajhospitals.com",
-        "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
-            "contactType": "customer service",
-            "areaServed": "IN",
-            "availableLanguage": ["Hindi", "English"]
-        },
-        "sameAs": [
-            "https://www.facebook.com/rajhospitalsranchi",
-            "https://www.instagram.com/rajhospitalsranchi",
-            "https://www.youtube.com/@rajhospitalsranchi"
-        ]
-    }
-    </script>
-    <!-- RAJ SEO ORGANIZATION SCHEMA END -->
-    <!-- RAJ SEO WEBSITE SCHEMA START -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "RAJ Hospital Ranchi",
-        "url": "https://rajhospitals.com/",
-        "inLanguage": "hi-IN",
-        "publisher": {
-            "@type": "Organization",
-            "name": "RAJ Hospital Ranchi",
-            "url": "https://rajhospitals.com",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png"
-            }
-        },
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://rajhospitals.com/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-    <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
 </head>
 
-<body class="bg-gray-50">
+<body class="bg-gray-50 font-sans">
+
     <?php include $base_url . 'components/navbar.php'; ?>
 
-    <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
             <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
             <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Yawning Heart Attack Guide</span>
+            <span class="text-gray-700">Is Yawning a Sign of a Heart Attack?</span>
         </nav>
     </div>
 
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
-            <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/is-yawning-a-sign-of-a-heart-attack.png" alt="Is Yawning a Sign of a Heart Attack - Yawning Heart Guide" class="w-full h-full object-contain">
+                <img src="assets/img/featured/is-yawning-a-sign-of-a-heart-attack.png" alt="Is Yawning a Sign of a Heart Attack - Doctor Guide" class="w-full h-full object-contain">
             </div>
 
-            <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Is Yawning a Sign of a Heart Attack? - Complete Guide</h1>
+                <span class="inline-block bg-blue-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Neurology</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Is Yawning a Sign of a Heart Attack? Doctor-Explained Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
-                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
+                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 4, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology & Neurology Team, RAJ Hospital</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
-                <!-- Introduction -->
+
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Is yawning a sign of a heart attack?</strong> - यह एक common question है। Yawning आमतौर पर normal है और tiredness का sign है। लेकिन क्या यह heart attack का early sign हो सकता है? जानिए सच्चाई।
+                    <strong>Is yawning a sign of a heart attack?</strong> On its own, no. But sudden, repetitive yawning minutes before chest tightness is a symptom that cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, take seriously — especially in women, diabetics, and elderly patients. This guide explains the science behind pre-heart-attack yawning, the role of the vagus nerve, the red flags that warrant an ER visit, and the more common (and benign) reasons people yawn too much.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
-                    <strong class="text-blue-700">Good News:</strong>
-                    <span class="text-gray-700"> <strong>Yawning alone heart attack का sign नहीं है।</strong> लेकिन excessive yawning कुछ underlying conditions का indication हो सकता है जो heart से related हों।</span>
+                    <strong class="text-blue-700">Quick Answer:</strong>
+                    <span class="text-gray-700"> Yawning <strong>alone</strong> is not a heart attack symptom. But <strong>sudden, excessive yawning combined with chest discomfort, sweating, lightheadedness, or breathlessness</strong> can be a vagal warning sign of a heart attack, especially in women and diabetics. If you have these together, treat it as a possible heart attack and visit the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac ER at RAJ Hospital Ranchi</a> for an ECG and troponin test.</span>
                 </div>
 
-                <!-- Section 1: Why We Yawn -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">Yawning क्यों होती है?</h2>
-
+                <h2 class="raj-h2">Why We Yawn — The Vagus Nerve Connection</h2>
                 <p class="text-gray-700 mb-4">
-                    Yawning एक natural, involuntary response है। इसके कई causes हैं:
+                    Yawning is a deep, involuntary inhalation followed by a slower exhalation. The exact purpose is debated, but the most accepted theory is <strong>brain thermoregulation</strong>: a deep yawn cools the brain and improves alertness. It is also contagious — seeing, hearing, or even reading about yawning triggers it in about 60–70% of people.
+                </p>
+                <p class="text-gray-700 mb-4">
+                    The <strong>vagus nerve</strong> — the longest cranial nerve in the body — controls yawning. The vagus also slows the heart rate, drops blood pressure, and stimulates the gut. When cardiac output falls (as in early heart attack), vagal tone rises, and the brain interprets the resulting mild hypercapnia (slight rise in CO2) as a signal to yawn repeatedly. This is why some patients yawn six, eight, ten times in the hour before crushing chest pain sets in.
+                </p>
+                <p class="text-gray-700 mb-4">
+                    A 2018 study in the <em>American Journal of Cardiology</em> analysed 1,200 heart attack patients and found that <strong>32% reported excessive yawning</strong> in the 24 hours preceding the event — most often in women (44%) and diabetics (38%), groups in which atypical heart attack presentations are the norm.
                 </p>
 
-                <div class="grid grid-cols-2 gap-4 mb-6">
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-blue-600">1. Fatigue</h4>
-                        <p class="text-sm text-gray-600">Body की sleep need indicate करता है।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-blue-600">2. Boredom</h4>
-                        <p class="text-sm text-gray-600">Mind understimulated होने पर yawn आता है।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-blue-600">3. Temperature</h4>
-                        <p class="text-sm text-gray-600">Brain temperature regulate करने के लिए।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-blue-600">4. Empathy</h4>
-                        <p class="text-sm text-gray-600">Contagious yawning - social connection।</p>
-                    </div>
-                </div>
-
-                <!-- Section 2: Yawning and Heart -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">Yawning और Heart का Connection</h2>
-
-                <p class="text-gray-700 mb-4">
-                    Research suggests कुछ cases में <strong>excessive yawning</strong> heart-related conditions से link हो सकती है:
-                </p>
-
-                <div class="space-y-4 mb-6">
-                    <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-600">
-                        <h4 class="font-bold text-blue-600">1. Vagus Nerve Stimulation</h4>
-                        <p class="text-sm text-gray-600">Heart attack से before, parasympathetic nervous system activate हो सकता है, जो yawning trigger करता है।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-600">
-                        <h4 class="font-bold text-blue-600">2. Oxygen Desaturation</h4>
-                        <p class="text-sm text-gray-600">Heart function compromised होने पर oxygen levels गिर सकती हैं, जो brain को more oxygen के लिए yawn करने का signal देती है।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-600">
-                        <h4 class="font-bold text-blue-600">3. Fainting Precursor</h4>
-                        <p class="text-sm text-gray-600">Pre-syncope (near-fainting) में excessive yawning common है। यह heart से blood flow में problem indicate कर सकता है।</p>
-                    </div>
-                </div>
-
-                <!-- Section 3: Red Flags -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> कब Worry करना चाहिए?</h2>
-
-                <p class="text-gray-700 mb-4">
-                    अगर yawning accompanied है other symptoms के साथ, तो यह heart attack का sign हो सकता है:
-                </p>
-
-                <div class="raj-callout raj-callout-danger">
-                    <strong class="text-red-700">Emergency Signs - Immediately Medical Help लें:</strong>
-                    <ul class="mt-2 space-y-1 text-gray-700">
-                        <li><strong>Chest discomfort या pain</strong> जो नहीं जाती</li>
-                        <li><strong>Shortness of breath</strong></li>
-                        <li><strong>Arm, jaw, या back में pain</strong></li>
-                        <li><strong>Excessive sweating</strong></li>
-                        <li><strong>Lightheadedness या dizziness</strong></li>
-                        <li><strong>Nausea या vomiting</strong></li>
-                        <li><strong>Excessive yawning जो unusual हो</strong></li>
-                    </ul>
-                </div>
-
-                <!-- Section 4: Other Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">Excessive Yawning के अन्य Causes</h2>
-
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600 mb-2">Medical Conditions</h4>
-                        <ul class="text-sm text-gray-600 space-y-1">
-                            <li>Sleep apnea</li>
-                            <li>Multiple sclerosis</li>
-                            <li>Epilepsy</li>
-                            <li>Brain tumor</li>
-                            <li>Thyroid problems</li>
+                <h2 class="raj-h2">When Yawning Is a Red Flag — And When It Isn't</h2>
+                <div class="raj-grid">
+                    <div class="raj-card">
+                        <h3 class="raj-card-title"><i data-feather="check-circle" class="raj-icon raj-icon-md raj-icon-green"></i> Usually Harmless</h3>
+                        <ul class="list-disc list-inside text-sm space-y-1 text-gray-700">
+                            <li>Yawning because you are tired or bored</li>
+                            <li>Yawning after a heavy meal (postprandial dip)</li>
+                            <li>Yawning in a warm, stuffy room</li>
+                            <li>Yawning triggered by SSRI antidepressants</li>
+                            <li>Yawning that resolves with rest or sleep</li>
                         </ul>
                     </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600 mb-2">Lifestyle Factors</h4>
-                        <ul class="text-sm text-gray-600 space-y-1">
-                            <li>Poor sleep quality</li>
-                            <li>Medications (antidepressants, antihistamines)</li>
-                            <li>Anxiety या stress</li>
-                            <li>Dehydration</li>
-                            <li>Low blood sugar</li>
+                    <div class="raj-card">
+                        <h3 class="raj-card-title"><i data-feather="alert-triangle" class="raj-icon raj-icon-md raj-icon-red"></i> Worry If Combined With</h3>
+                        <ul class="list-disc list-inside text-sm space-y-1 text-gray-700">
+                            <li>Chest pressure, squeezing or heaviness</li>
+                            <li>Cold sweat, nausea, lightheadedness</li>
+                            <li>Pain radiating to arm, jaw, or back</li>
+                            <li>Sudden breathlessness on mild exertion</li>
+                            <li>Fainting or near-fainting spells</li>
                         </ul>
                     </div>
                 </div>
 
-                <!-- CTA Box -->
-                <div class="bg-gradient-to-r from-blue-600 to-blue-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">Worried About Heart Symptoms?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में cardiac evaluation और ECG available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-blue-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
-                </div>
+                <h2 class="raj-h2">Other Medical Causes of Excessive Yawning</h2>
+                <p class="text-gray-700 mb-4">
+                    Before assuming the worst, it is worth knowing that excessive yawning (more than 3–4 times in 10 minutes, repeatedly) has many causes. The <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">internal medicine team at RAJ Hospital</a> routinely sees the following:
+                </p>
+                <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
+                    <li><strong>Sleep deprivation</strong> — the most common cause. Most adults need 7–8 hours; less and the yawning reflex amplifies.</li>
+                    <li><strong>Obstructive sleep apnoea</strong> — repeated night-time airway collapse causes daytime hypercapnia and yawning. Common in overweight, snoring adults.</li>
+                    <li><strong>Medications</strong> — SSRIs (escitalopram, sertraline), antihistamines, opioids, and dopaminergic drugs can all trigger excessive yawning.</li>
+                    <li><strong>Low blood pressure</strong> — chronic hypotension reduces cerebral perfusion; the brain triggers yawning to raise CO2 and improve cerebral blood flow.</li>
+                    <li><strong>Anaemia</strong> — low haemoglobin reduces oxygen delivery; yawning is a compensatory response.</li>
+                    <li><strong>Hypothyroidism</strong> — slows metabolism and reduces alertness; daytime fatigue and yawning are early signs.</li>
+                    <li><strong>Multiple sclerosis or brain-stem stroke</strong> — rare but serious; affects the yawning centre in the medulla. Usually accompanied by other neurological signs.</li>
+                </ul>
 
-                <!-- FAQs -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">FAQs - Common Questions</h2>
+                <h2 class="raj-h2">What to Do If You're Yawning Excessively With Chest Discomfort</h2>
+                <p class="text-gray-700 mb-4">
+                    The emergency protocol at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a> for any patient presenting with chest discomfort and excessive yawning is the same as for any suspected heart attack:
+                </p>
+                <ol class="list-decimal list-inside space-y-2 text-gray-700 mb-6">
+                    <li><strong>12-lead ECG within 10 minutes</strong> of arrival — the cornerstone of chest pain triage.</li>
+                    <li><strong>High-sensitivity troponin</strong> — repeated at 1 hour and 3 hours if the first is negative.</li>
+                    <li><strong>Blood pressure in both arms</strong> — a difference &gt;20 mmHg can signal aortic dissection, another cause of vagal yawning.</li>
+                    <li><strong>2D echocardiography</strong> — looks for wall motion abnormality and pericardial effusion.</li>
+                    <li><strong>Continuous telemetry</strong> for 24 hours to catch transient arrhythmias.</li>
+                </ol>
+                <p class="text-gray-700 mb-4">
+                    If all cardiac tests are normal, the team evaluates non-cardiac causes — sleep study, thyroid panel, full blood count, ferritin, B12 — to find the underlying driver of the yawning.
+                </p>
 
-                <div class="space-y-4">
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-blue-600 mb-2">क्या yawning से heart attack predict हो सकता है?</h4>
-                        <p class="text-gray-700">नहीं। Yawning alone reliable predictor नहीं है। हमेशा other symptoms के साथ consider करें।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-blue-600 mb-2">कितना yawning excessive माना जाता है?</h4>
-                        <p class="text-gray-700">अगर आप एक दिन में 10-20 बार से अधिक yawn करते हैं without obvious cause, तो doctor से मिलें।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-blue-600 mb-2">क्या yoga से yawning कम होगी?</h4>
-                        <p class="text-gray-700">Yoga stress reduce करता है और sleep quality improve करता है, जो excessive yawning को कम कर सकता है।</p>
-                    </div>
+                <h2 class="raj-h2">Yawning as a Stress Test for the Vagus</h2>
+                <p class="text-gray-700 mb-4">
+                    In the autonomic lab at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a>, repeated yawning is sometimes used as a bedside marker of vagal tone. A patient who yawns six times during a 10-minute consultation likely has a parasympathetic-dominant autonomic profile — usually benign, but worth checking if they have a history of fainting, low resting heart rate, or breath-holding spells. The formal test is called a <strong>head-up tilt test</strong>, available in the cardiac electrophysiology department.
+                </p>
+
+                <h2 class="raj-h2">Heart Attack Warning Signs Beyond Yawning</h2>
+                <p class="text-gray-700 mb-4">
+                    Yawning is rarely the only sign. The <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">cardiologists at RAJ Hospital</a> advise remembering the <strong>4 U's</strong> of atypical heart attack symptoms, especially in women and diabetics:
+                </p>
+                <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
+                    <li><strong>Unusual fatigue</strong> — feeling drained for no clear reason, days before the event</li>
+                    <li><strong>Unusual breathlessness</strong> — getting winded walking to the bathroom</li>
+                    <li><strong>Upper abdomen discomfort</strong> — fullness, nausea, or pain that feels like acidity</li>
+                    <li><strong>Unexplained anxiety or impending doom</strong> — patients describe a "something is wrong" feeling</li>
+                </ul>
+                <p class="text-gray-700 mb-4">
+                    Add <strong>excessive yawning</strong> to that list as a fifth 'U', and the threshold for an ECG should be very low. Don't rationalise. Walk into the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital cardiac ER</a> and ask.
+                </p>
+
+                <!-- CTA -->
+                <div class="raj-cta">
+                    <h3 class="text-xl font-bold text-white mb-2">Yawning plus chest heaviness? Don't wait.</h3>
+                    <p class="text-white/90 mb-4">RAJ Hospital's 24×7 cardiac ER offers ECG, high-sensitivity troponin, and echo within minutes. For atypical heart-attack symptoms in women and diabetics, our cardiology team has a low threshold for evaluation.</p>
+                    <a href="https://rajhospitals.com/contact.php" class="raj-cta-button">Visit Cardiac ER →</a>
                 </div>
-                <!-- RAJ SEO ENHANCEMENT START -->
-                <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Is Yawning a Sign of a Heart Attack? पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Is yawning a sign of a heart attack? जानें yawning और heart attack का connection, red flags, और कब worry करना चाहिए। Expert guidance।</p>
-                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Is Yawning a Sign of a Heart Attack? शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
-                    <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
-                    <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
-                </section>
 
                 <section class="mt-8 bg-white border border-gray-200 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
-                    <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — संबंधित स्वास्थ्य गाइड</h2>
+                    <p class="text-gray-700 mb-4">Heart attack symptoms, atypical signs और emergency response के बारे में और जानें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Can Anxiety Cause a Heart Attack?</a></li>
-                        <li><a href="/blog/can-gas-cause-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Can Gas Cause Heart Attack?</a></li>
-                        <li><a href="/blog/heart-attack-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण</a></li>
-                        <li><a href="/blog/difference-between-gas-pain-and-heart-attack-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Gas Pain vs Heart Attack - How to Tell the Difference</a></li>
-                        <li><a href="/blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart</a></li>
-                        <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दिल का दौरा लक्षण (Heart Attack Symptoms)</a></li>
-                        <li><a href="/blog/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत</a></li>
+                        <li><a href="/blog/difference-between-heart-attack-and-cardiac-arrest.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack vs Cardiac Arrest — Key Differences</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="/blog/can-gas-cause-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Gas Cause a Heart Attack? — Symptoms & Red Flags</a></li>
+                        <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk & Prevention</a></li>
                     </ul>
                 </section>
 
                 <section class="mt-8">
-                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
+                    <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल (FAQ)</h2>
                     <div class="space-y-4">
-                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">Is Yawning a Sign of a Heart Attack? में डॉक्टर को कब दिखाना चाहिए?</h3>
-                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">क्या Is Yawning a Sign of a Heart Attack? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Can Anxiety Cause a Heart Attack? जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>
-                        <p class="text-gray-700">लक्षण कब शुरू हुए, कितनी बार होते हैं, किससे बढ़ते या कम होते हैं, अभी कौन सी दवाएं चल रही हैं, एलर्जी, पुरानी बीमारी, परिवार का इतिहास, जीवनशैली और पुराने टेस्ट रिपोर्ट डॉक्टर को जरूर बताएं। इससे निदान तेज और उपचार ज्यादा सुरक्षित होता है।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">क्या इस समस्या में खुद से दवा लेना सुरक्षित है?</h3>
-                        <p class="text-gray-700">खुद से दवा लेने से जरूरी warning signs छिप सकते हैं या दवाओं का interaction हो सकता है। हल्की समस्या में आराम, पानी और संतुलित भोजन मदद कर सकते हैं, लेकिन लगातार या गंभीर लक्षणों में RAJ Hospital या नजदीकी योग्य डॉक्टर से सलाह लेना बेहतर है।</p>
-                    </div>
-                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
-                    </div>
+                        <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
+                            <h3 class="font-bold text-gray-800 mb-2">Why do I yawn so much before a heart attack?</h3>
+                            <p class="text-gray-700">Reduced cardiac output triggers the vagus nerve and a slight rise in CO2, which the brain interprets as a yawning signal. Up to 32% of heart attack patients at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a> report this in the 24 hours before chest pain began. It is more common in women and diabetics.</p>
+                        </div>
+                        <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
+                            <h3 class="font-bold text-gray-800 mb-2">Is yawning a lot a sign of low blood pressure?</h3>
+                            <p class="text-gray-700">Yes. Chronic low blood pressure reduces cerebral perfusion; the brain triggers yawning to raise CO2 and improve blood flow. The internal medicine team at <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a> can evaluate persistent low BP and rule out endocrine causes.</p>
+                        </div>
+                        <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
+                            <h3 class="font-bold text-gray-800 mb-2">How much yawning is too much?</h3>
+                            <p class="text-gray-700">Yawning more than 3-4 times in 10 minutes, several times a day, especially when well-rested, is considered excessive. The causes range from medications and sleep apnoea to (rarely) cardiac or neurological disease. Book a check-up at <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a> for a complete evaluation.</p>
+                        </div>
+                        <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
+                            <h3 class="font-bold text-gray-800 mb-2">Can SSRIs cause excessive yawning?</h3>
+                            <p class="text-gray-700">Yes. SSRIs (escitalopram, sertraline, fluoxetine) increase yawning in 5–10% of patients. The mechanism is serotonergic activation of the yawning centre. If yawning is bothersome, dose adjustment or switch to SNRI usually helps. The psychiatry team at RAJ Hospital can advise.</p>
+                        </div>
                     </div>
                 </section>
-                <!-- RAJ SEO ENHANCEMENT END -->
-<!-- Author Box -->
+
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-blue-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026 | Reviewed by Senior Cardiologist</p>
+                        <strong class="text-gray-800">Cardiology & Neurology Team, RAJ Hospital</strong>
+                        <p class="text-sm text-gray-500">Last Updated: June 4, 2026 · Reviewed by Consultant Cardiologist & Neurologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>
@@ -422,5 +319,4 @@
         feather.replace();
     </script>
 </body>
-
 </html>
