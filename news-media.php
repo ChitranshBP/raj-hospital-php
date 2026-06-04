@@ -110,7 +110,7 @@
         // DATA
         const digitalNews = [
             { id: 1, title: 'राज हॉस्पिटल्स द्वारा SEMI के सहयोग से NCLS प्रशिक्षण कार्यक्रम का आयोजन', description: 'NCLS training program organised by Raj Hospitals in collaboration with SEMI.', image: 'img/img-01.webp', link: 'https://www.facebook.com/RajHospitals/posts/pfbid02BiJrX3MgqXWGd9vwpFvRfBvkw2dqU4kEXRmbr63fF5BGYWd4xTopANuu6586BMipl', date: 'May 25, 2026' },
-            { id: 2, title: 'Health Conclave, 2026 organised by Dainik Jagaran in Ranchi', description: 'Raj Hospitals at Health Conclave 2026 organised by Dainik Jagaran on 25th May in Ranchi.', image: 'img/img-01.webp', link: 'https://www.facebook.com/RajHospitals/posts/pfbid0tBZacCmuiWnt9Qat5nzJDYYfndSaEifBAZGpiwNxktf9qK1ZLVKNuTZRj5HhJo1Cl', date: 'May 25, 2026' },
+            { id: 2, title: 'Health Conclave, 2026 organised by Dainik Jagaran in Ranchi', description: 'Raj Hospitals at Health Conclave 2026 organised by Dainik Jagaran on 25th May in Ranchi.', image: 'img/img-01.webp', link: 'https://www.facebook.com/RajHospitals/posts/pfbid02obJpjM7QbavQpHUzefV1nq4WuBj7DRtBm5DsZMMNtD7odWe4KeqD4xyvEvXJcZeVl', date: 'May 25, 2026' },
             { id: 3, title: 'राज अस्पताल, रांची में ASI झारखंड चैप्टर द्वारा लेज़र प्रॉक्टोलॉजी पर वर्कशॉप आयोजित', description: 'Workshop organised at Raj Hospital Ranchi by ASI Jharkhand Chapter.', image: 'img/img-01.webp', link: 'https://www.facebook.com/share/p/18r7HmKaz4/', date: 'August 25, 2024' },
             { id: 4, title: 'रांचीः बाई-पास सर्जरी के लिए अब नहीं जाना होगा बाहर, राज अस्पताल में मिल रही सुविधा', description: 'Bypass surgery facility now available at Raj Hospital Ranchi.', image: 'img/img-01.webp', link: 'https://lagatar.in/ranchi-now-you-will-not-have-to-go-out-for-by-pass-surgery-facility-is-available-in-raj-hospital', date: 'January 1, 2024' },
             { id: 5, title: 'रांची: शनिवार को नगड़ी स्थित केंद्रीय तसर अनुसंधान एवं प्रशिक्षण संस्थान में चिकित्सा शिविर का आयोजन', description: 'Medical camp organised at Central Tasar Research Institute.', image: 'img/img 1 (1).webp', link: 'rachi-news.php', date: 'August 26, 2023' },
@@ -175,7 +175,15 @@
             { id: 44, image: 'assets/press/news-06-26/raj-news-1.webp', title: 'सही समय पर इलाज से बच सकती है मरीजों की जान : साहिल गंभीर' },
             { id: 45, image: 'assets/press/news-06-26/raj-news-2.webp', title: 'राज अस्पताल की ओर से प्रशिक्षण शुरू' },
             { id: 46, image: 'assets/press/news-06-26/raj-news-3.webp', title: 'राज हॉस्पिटल्स में नेशनल कार्डियक लाइफ सपोर्ट कार्यक्रम' },
-            { id: 47, image: 'assets/press/news-06-26/raj-news-4.webp', title: 'राज हॉस्पिटल्स ने 90 नर्सों को दिया चिकित्सा प्रशिक्षण' }
+            { id: 47, image: 'assets/press/news-06-26/raj-news-4.webp', title: 'राज हॉस्पिटल्स ने 90 नर्सों को दिया चिकित्सा प्रशिक्षण' },
+            { id: 48, image: 'assets/press/healthc/WhatsApp Image 2026-06-03 at 5.04.48 PM.webp', title: 'Health Conclave, 2026', caption: 'Organised by Dainik Jagran on 25th of May, Ranchi. Participated by Dr Rajesh Kumar Jha, Dr Suprova Chakraborty, Dr Himalaya Jha, Dr Bharti Sahni.', category: 'Health Conclave 2026' },
+            { id: 49, image: 'assets/press/healthc/WhatsApp Image 2026-06-03 at 5.04.49 PM.webp', title: 'Health Conclave, 2026', caption: 'Organised by Dainik Jagran on 25th of May, Ranchi. Participated by Dr Rajesh Kumar Jha, Dr Suprova Chakraborty, Dr Himalaya Jha, Dr Bharti Sahni.', category: 'Health Conclave 2026' },
+            { id: 50, image: 'assets/press/healthc/WhatsApp Image 2026-06-03 at 5.04.49 PM (1).webp', title: 'Health Conclave, 2026', caption: 'Organised by Dainik Jagran on 25th of May, Ranchi. Participated by Dr Rajesh Kumar Jha, Dr Suprova Chakraborty, Dr Himalaya Jha, Dr Bharti Sahni.', category: 'Health Conclave 2026' },
+            { id: 51, image: 'assets/press/healthc/WhatsApp Image 2026-06-03 at 5.04.50 PM.webp', title: 'Health Conclave, 2026', caption: 'Organised by Dainik Jagran on 25th of May, Ranchi. Participated by Dr Rajesh Kumar Jha, Dr Suprova Chakraborty, Dr Himalaya Jha, Dr Bharti Sahni.', category: 'Health Conclave 2026' },
+            { id: 52, image: 'assets/press/healthc/WhatsApp Image 2026-06-03 at 5.04.50 PM (1).webp', title: 'Health Conclave, 2026', caption: 'Organised by Dainik Jagran on 25th of May, Ranchi. Participated by Dr Rajesh Kumar Jha, Dr Suprova Chakraborty, Dr Himalaya Jha, Dr Bharti Sahni.', category: 'Health Conclave 2026' },
+            { id: 53, image: 'assets/press/healthc/WhatsApp Image 2026-06-03 at 5.04.50 PM (2).webp', title: 'Health Conclave, 2026', caption: 'Organised by Dainik Jagran on 25th of May, Ranchi. Participated by Dr Rajesh Kumar Jha, Dr Suprova Chakraborty, Dr Himalaya Jha, Dr Bharti Sahni.', category: 'Health Conclave 2026' },
+            { id: 54, image: 'assets/press/healthc/WhatsApp Image 2026-06-03 at 5.04.51 PM.webp', title: 'Health Conclave, 2026', caption: 'Organised by Dainik Jagran on 25th of May, Ranchi. Participated by Dr Rajesh Kumar Jha, Dr Suprova Chakraborty, Dr Himalaya Jha, Dr Bharti Sahni.', category: 'Health Conclave 2026' },
+            { id: 55, image: 'assets/press/healthc/WhatsApp Image 2026-06-03 at 5.04.51 PM (1).webp', title: 'Health Conclave, 2026', caption: 'Organised by Dainik Jagran on 25th of May, Ranchi. Participated by Dr Rajesh Kumar Jha, Dr Suprova Chakraborty, Dr Himalaya Jha, Dr Bharti Sahni.', category: 'Health Conclave 2026' }
         ];
 
         // Navbar scroll effect
@@ -255,21 +263,59 @@
         // RENDER PRINT MEDIA
         function renderPrintMedia() {
             const container = document.getElementById('print-media-container');
-            container.innerHTML = [...newspaperClippings].reverse().map((clip, index) => `
-                <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition-all duration-300 cursor-pointer fade-in" 
-                     onclick="openImageModal('${clip.image}')"
-                     style="animation-delay: ${index * 0.05}s">
-                    <div class="h-72 overflow-hidden">
-                        <img src="${clip.image}" alt="${clip.title}" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500">
-                    </div>
-                    <div class="p-4 bg-white">
-                        <h3 class="text-gray-900 font-semibold text-base line-clamp-2">${clip.title}</h3>
-                    </div>
-                </div>
-            `).join('');
-            
-             // Re-trigger observer for new elements
-             document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+            const reversed = [...newspaperClippings].reverse();
+
+            // Group clippings by category (clippings without a category stay uncategorized)
+            const groups = [];
+            const groupIndex = new Map();
+            reversed.forEach(clip => {
+                const key = clip.category || '__uncategorized__';
+                if (!groupIndex.has(key)) {
+                    groupIndex.set(key, groups.length);
+                    groups.push({ key, title: clip.category || null, items: [] });
+                }
+                groups[groupIndex.get(key)].items.push(clip);
+            });
+
+            // Track overall index for staggered animation
+            let globalIndex = 0;
+
+            container.innerHTML = groups.map(group => {
+                const headingHtml = group.title
+                    ? `
+                        <div class="col-span-1 md:col-span-2 lg:col-span-3 mt-8 mb-2 first:mt-0 fade-in" style="animation-delay: ${globalIndex * 0.05}s">
+                            <div class="text-center">
+                                <h3 class="text-2xl md:text-3xl font-bold text-gray-900">
+                                    <span class="text-[#F9771B]">${group.title}</span>
+                                </h3>
+                                <div class="w-24 h-1 bg-gradient-to-r from-[#F9771B] to-[#ea5234] mx-auto mt-3 rounded-full"></div>
+                            </div>
+                        </div>
+                    `
+                    : '';
+
+                const cardsHtml = group.items.map(clip => {
+                    const delay = (globalIndex++ * 0.05).toFixed(2);
+                    return `
+                        <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl transition-all duration-300 cursor-pointer fade-in"
+                             onclick="openImageModal('${clip.image}')"
+                             style="animation-delay: ${delay}s">
+                            <div class="h-72 overflow-hidden">
+                                <img src="${clip.image}" alt="${clip.title}" class="w-full h-full object-cover hover:scale-110 transition-transform duration-500">
+                            </div>
+                            <div class="p-4 bg-white">
+                                <h4 class="text-gray-900 font-semibold text-base mb-2 line-clamp-2">${clip.title}</h4>
+                                ${clip.caption ? `<p class="text-sm text-gray-600 leading-relaxed">${clip.caption}</p>` : ''}
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+
+                return headingHtml + cardsHtml;
+            }).join('');
+
+            // Re-trigger observer for new elements
+            document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
         }
 
         // MODAL LOGIC
@@ -304,7 +350,7 @@
             // Initial Render
             renderDigitalNews();
             renderPrintMedia();
-            
+
             // Observe initial static elements
             document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
         });

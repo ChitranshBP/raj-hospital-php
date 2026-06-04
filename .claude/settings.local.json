@@ -97,7 +97,10 @@
       "Bash(export GOOGLE_AI_API_KEY=\"AIzaSyBfR7Sq7Oa9fNi7W3antwsGLBV0trEx-ug\")",
       "Bash(python3 /Users/bp/.claude/skills/banana/scripts/generate.py --prompt 'Premium healthcare blog banner 16:9. Bold Hindi text '\\\\''पुरुषों में चिंता के लक्षण'\\\\'' left side. Professional male doctor with white coat and stethoscope right side. Gold #C8A96B and ivory #FAF7F2 colors. Clean modern medical design with abstract curved shapes. Floating medical icons. Premium aesthetic.' --aspect-ratio 16:9 --resolution 1K)",
       "Bash(grep -v \"^$\")",
-      "Bash(grep -E \"\\\\.php$|\\\\.html$\")"
+      "Bash(grep -E \"\\\\.php$|\\\\.html$\")",
+      "Bash(dir \"c:\\\\Users\\\\GCV\\\\Desktop\\\\raj-hospital-php\\\\assets\\\\press\\\\healthc\")",
+      "Bash(dir \"c:\\\\Users\\\\GCV\\\\Desktop\\\\raj-hospital-php\\\\assets\\\\press\\\\healthc\\\\\" 2>&1)",
+      "Bash(php -l news-media.php)"
     ]
   }
 }
