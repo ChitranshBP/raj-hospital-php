@@ -2,7 +2,7 @@
 $base_url = '../';
 $doctor = [
     'name' => 'Dr. Abhishek Bhattacharjee',
-    'qualifications' => 'MBBS, MDS (Oral & Maxillofacial Surgery – Rajiv Gandhi University of Health Sciences, Bangalore, Karnataka)',
+    'qualifications' => 'BDS, MDS (Oral & Maxillofacial Surgery – Rajiv Gandhi University of Health Sciences, Bangalore, Karnataka)',
     'specialty' => 'Dental',
     'experience' => '10+ Years',
     'regNo' => '',
@@ -33,7 +33,7 @@ $doctor = [
             'year' => ''
         ],
         [
-            'degree' => 'MBBS',
+            'degree' => 'BDS',
             'institution' => '',
             'year' => ''
         ]

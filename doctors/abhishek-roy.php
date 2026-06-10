@@ -82,7 +82,7 @@
     "name": "Dr. Abhishek Roy",
     "description": "Dr. Abhishek Roy is a specialized Orthopedic Surgeon at Raj Hospital, Ranchi, with over 6 years of expertise in joint replacement and sports injury management. He provides advanced treatment for fractures, arthroscopy, and total knee and hip replacement surgeries.",
     "medicalSpecialty": "Orthopaedics & Joint Replacement",
-    "qualifications": "MBBS, MS (Orthopaedics), FIJR, FIASM",
+    "qualifications": "MBBS, MS (Orthopaedics), FIJR, FIAMS",
     "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp",
     "worksFor": {
         "@type": "Hospital",
@@ -178,7 +178,7 @@
         const doctorData = {
             id: 'abhishek-roy',
             name: 'Dr. Abhishek Roy',
-            qualifications: 'MBBS, MS (Orthopaedics), FIJR, FIASM',
+            qualifications: 'MBBS, MS (Orthopaedics), FIJR, FIAMS',
             specialty: 'Orthopaedics & Joint Replacement',
             experience: '6+ Years',
             image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp',
@@ -194,7 +194,7 @@
                 { degree: 'MS (Orthopaedics)', institution: 'MAMC, New Delhi', year: '' },
                 { degree: 'MBBS', institution: 'RIMS, Ranchi', year: '' },
                 { degree: 'FIJR', institution: 'D.Y. Patil University', year: '' },
-                { degree: 'FIASM', institution: 'Indian Arthroscopy Society, Kolkata', year: '' }
+                { degree: 'FIAMS', institution: 'Indian Arthroscopy Society, Kolkata', year: '' }
             ],
             memberships: [
                 'Delhi Orthopaedic Association'
