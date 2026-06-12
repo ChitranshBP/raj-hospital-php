@@ -424,7 +424,7 @@ Orthopedic Surgeon in Jharkhand
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Ujjwal Sinha</h3>
-                                <p class="text-primary-600 font-medium mb-2">MBBS, MS, DNB (Ortho), Fellowship</p>
+                                <p class="text-primary-600 font-medium mb-2">MBBS, DNB, MNAMS, Fellowship in Sports Medicine, FIJR (Singapore)</p>
                                 <p class="text-secondary-600 text-sm mb-3">Joint Replacement, Sports Medicine</p>
                                 <div class="flex items-center text-sm text-gray-500 mb-4">
                                     <i data-feather="award" class="w-4 h-4 mr-2"></i>

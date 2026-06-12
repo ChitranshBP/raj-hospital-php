@@ -2,7 +2,7 @@
 $base_url = '../';
 $doctor = [
     'name' => 'Dr. Shekhar Sharma',
-    'qualifications' => 'MBBS, DMRD (Radiodiagnosis)',
+    'qualifications' => 'MBBS, DMRD (Radiodiagnosis), PGT',
     'specialty' => 'Radiology',
     'experience' => '20+ Years',
     'regNo' => '',

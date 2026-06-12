@@ -82,7 +82,7 @@
     "name": "Dr. Ujjwal Sinha",
     "description": "Dr. Ujjwal Sinha is an experienced Orthopedic Surgeon at Raj Hospital, Ranchi, with over 15 years of expertise in joint replacement and sports medicine. He specializes in total knee and hip replacement, arthroscopy, and sports injury rehabilitation.",
     "medicalSpecialty": "Orthopaedics & Joint Replacement",
-    "qualifications": "MBBS, MS, DNB (Ortho), MNAMS, Fellowship in Sports Medicine",
+    "qualifications": "MBBS, DNB, MNAMS, Fellowship in Sports Medicine, FIJR (Singapore)",
     "image": "https://www.rajhospitalranchi.com/assets/doctor-latest/Orthopedic Surgeon - Dr. Ujjwal Sinha.webp",
     "worksFor": {
         "@type": "Hospital",
@@ -178,7 +178,7 @@
         const doctorData = {
             id: 'ujjwal-sinha',
             name: 'Dr. Ujjwal Sinha',
-            qualifications: 'MBBS, MS, DNB (Ortho), MNAMS, Fellowship in Sports Medicine',
+            qualifications: 'MBBS, DNB, MNAMS, Fellowship in Sports Medicine, FIJR (Singapore)',
             specialty: 'Orthopaedics & Joint Replacement',
             experience: '15+ Years',
             image: '../assets/doctor-latest/Orthopedic Surgeon - Dr. Ujjwal Sinha.webp',

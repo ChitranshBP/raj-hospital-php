@@ -75,7 +75,7 @@ $page_title = 'Dr. Neelam Kumari – Internal Medicine in Ranchi';
     "name": "Dr. Neelam Kumari",
     "description": "Dr. Neelam Kumari is an Internal Medicine specialist at Raj Hospital, Ranchi, with over 8 years of experience in comprehensive medical care. She provides expert treatment for diabetes, hypertension, thyroid disorders, and general health management.",
     "medicalSpecialty": "Internal Medicine",
-    "qualifications": "MBBS, MD, DNB (Orthopaedics)",
+    "qualifications": "MBBS, MD",
     "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp",
     "worksFor": {
         "@type": "Hospital",
@@ -155,7 +155,7 @@ $page_title = 'Dr. Neelam Kumari – Internal Medicine in Ranchi';
         const doctorData = {
                 id: 'neelam-kumari',
                 name: 'Dr. Neelam Kumari',
-                qualifications: 'MBBS, MD, DNB (Orthopaedics)',
+                qualifications: 'MBBS, MD',
                 specialty: 'Internal Medicine',
                 experience: '8+ Years',
                 image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp',
@@ -166,8 +166,7 @@ $page_title = 'Dr. Neelam Kumari – Internal Medicine in Ranchi';
                 ],
                 education: [
                   { degree: 'MD', institution: 'Banaras Hindu University (BHU), Varanasi', year: '' },
-                  { degree: 'MBBS', institution: 'Banaras Hindu University (BHU), Varanasi', year: '' },
-                  { degree: 'DNB (Orthopaedics)', institution: 'VMMC, CIO Safdarjung, New Delhi', year: '' }
+                  { degree: 'MBBS', institution: 'Banaras Hindu University (BHU), Varanasi', year: '' }
                 ],
                 contact: {
                   phone: '+919263630500'

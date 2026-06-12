@@ -75,7 +75,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
     "name": "Dr. Fuzail Sarwer",
     "description": "Dr. Fuzail Sarwer is a skilled Critical Care and Anesthesiology specialist at Raj Hospital, Ranchi, with over 8 years of experience. He provides expert ICU management, pain relief procedures, and perioperative care for surgical patients.",
     "medicalSpecialty": "Critical Care",
-    "qualifications": "MBBS, MD (Anaesthesiology), PDCC (Cardiac Anaesthesia)",
+    "qualifications": "MBBS, MD (Anaesthesiology), PGDCC (Cardiac Anaesthesia)",
     "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp",
     "worksFor": {
         "@type": "Hospital",
@@ -155,7 +155,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
         const doctorData = {
                 id: 'fuzail-sarwer',
                 name: 'Dr. Fuzail Sarwer',
-                qualifications: 'MBBS, MD (Anaesthesiology), PDCC (Cardiac Anaesthesia)',
+                qualifications: 'MBBS, MD (Anaesthesiology), PGDCC (Cardiac Anaesthesia)',
                 specialty: 'Critical Care',
                 experience: '8+ Years',
                 image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp',
@@ -171,7 +171,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
                 education: [
                   { degree: 'MBBS', institution: 'Kathihar Medical College', year: '' },
                   { degree: 'MD (Anaesthesiology)', institution: 'Kathihar Medical College', year: '' },
-                  { degree: 'PDCC (Cardiac Anaesthesia)', institution: 'RIMS, Ranchi', year: '' }
+                  { degree: 'PGDCC (Cardiac Anaesthesia)', institution: 'RIMS, Ranchi', year: '' }
                 ],
                 memberships: [
                   'Indian Medical Association',

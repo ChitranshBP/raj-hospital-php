@@ -1671,7 +1671,7 @@ Best Hospital in Jharkhand
                 // Critical Care (3 doctors)
                 { id: 'saurabh-kumar', name: 'Dr. Saurabh Kumar', qualifications: 'MBBS, MD', specialty: 'Critical Care', experience: '26+ Years', image: 'assets/new-doctors-side/Dr. Saurabh Kumar.webp', profileUrl: 'doctors/saurabh-kumar.php' },
                 { id: 'rahul-roy', name: 'Dr. Rahul Roy', qualifications: 'MBBS, DA, IDCCM, EDAIC, MBA', specialty: 'Critical Care', experience: '20+ Years', image: 'assets/Doc-Side/Dr Rahul Roy(CCT).webp', profileUrl: 'doctors/rahul-roy.php' },
-                { id: 'fuzail-sarwer', name: 'Dr. Fuzail Sarwer', qualifications: 'MBBS, MD, PDCC', specialty: 'Critical Care', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp', profileUrl: 'doctors/fuzail-sarwer.php' },
+                { id: 'fuzail-sarwer', name: 'Dr. Fuzail Sarwer', qualifications: 'MBBS, MD, PGDCC', specialty: 'Critical Care', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp', profileUrl: 'doctors/fuzail-sarwer.php' },
 
                 // Emergency (1 doctor)
                 { id: 'shyam-prasad', name: 'Dr. Shyam Prasad', qualifications: 'MBBS, MD MEM', specialty: 'Emergency', experience: '12+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Emergency - Dr. Shyam-Prasad.webp', profileUrl: 'doctors/shyam-prasad.php' },
@@ -1680,16 +1680,16 @@ Best Hospital in Jharkhand
                 { id: 'ravish-ranjan', name: 'Dr. Ravish Ranjan', qualifications: 'MBBS, MD, DNB', specialty: 'Gastroenterology', experience: '12 Years', image: 'assets/Doc-Side/Gastroenterologist - Dr. Ravish Ranjan.webp', profileUrl: 'doctors/ravish-ranjan.php' },
 
                 // Minimal Access Surgery (1 doctor)
-                { id: 'ashish-modi', name: 'Dr. Ashish Kumar Modi', qualifications: 'MBBS, MS', specialty: 'Minimal Access Surgery', experience: '12+ Years', image: 'assets/new-doctors-side/Dr. Ashish Kumar Modi-new.png', profileUrl: 'doctors/ashish-modi.php' },
+                { id: 'ashish-modi', name: 'Dr. Ashish Kumar Modi', qualifications: 'MBBS, MS (General Surgery), FMAS', specialty: 'Minimal Access Surgery', experience: '12+ Years', image: 'assets/new-doctors-side/Dr. Ashish Kumar Modi-new.png', profileUrl: 'doctors/ashish-modi.php' },
 
                 // Internal Medicine (4 doctors)
                 { id: 'ak-agarwal', name: 'Dr. A K Agarwal', qualifications: 'MBBS, MD', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Agrawal.webp', profileUrl: 'doctors/ak-agarwal.php' },
                 { id: 'ak-sinha', name: 'Dr. A K Sinha', qualifications: 'MBBS, MD', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Sinha.webp', profileUrl: 'doctors/ak-sinha.php' },
-                { id: 'neelam-kumari', name: 'Dr. Neelam Kumari', qualifications: 'MBBS, MD, DNB', specialty: 'Internal Medicine', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp', profileUrl: 'doctors/neelam-kumari.php' },
+                { id: 'neelam-kumari', name: 'Dr. Neelam Kumari', qualifications: 'MBBS, MD', specialty: 'Internal Medicine', experience: '8+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp', profileUrl: 'doctors/neelam-kumari.php' },
                 { id: 'himalaya-jha', name: 'Dr. Himalaya Jha', qualifications: 'MBBS, MD, Certification in Diabetes & Metabolic Disorder (R.C.G.P)', specialty: 'Internal Medicine', experience: '25+ Years', image: 'assets/doctor-latest/dr-hmy-jha.webp', profileUrl: 'doctors/himalaya-jha.php' },
 
                 // Nephrology (1 doctor)
-                { id: 'avinash-dubey', name: 'Dr. Avinash Kumar Dubey', qualifications: 'MD, DM', specialty: 'Nephrology', experience: '15+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Nephrologist - Dr. Avinas- Kumar-Dubey.webp', profileUrl: 'doctors/avinash-dubey.php' },
+                { id: 'avinash-dubey', name: 'Dr. Avinash Kumar Dubey', qualifications: 'MBBS, MD, DM', specialty: 'Nephrology', experience: '15+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Nephrologist - Dr. Avinas- Kumar-Dubey.webp', profileUrl: 'doctors/avinash-dubey.php' },
 
                 // Neurosciences (4 doctors)
                 { id: 'ahmad-hussain', name: 'Dr. Ahmad Hussain', qualifications: 'MBBS, MD, DrNB', specialty: 'Neurosciences', experience: '5+ Years', image: 'assets/doctor-latest/ahmad hussain.webp', profileUrl: 'doctors/ahmad-hussain.php' },
@@ -1703,7 +1703,7 @@ Best Hospital in Jharkhand
 
                 // Orthopaedics (3 doctors)
                 { id: 'deepak-verma', name: 'Dr. Deepak Verma', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '25+ Years', image: 'assets/doctor-latest/deepak verma.webp', profileUrl: 'doctors/deepak-verma.php' },
-                { id: 'ujjwal-sinha', name: 'Dr. Ujjwal Sinha', qualifications: 'MBBS, MS, DNB', specialty: 'Orthopaedics & Joint Replacement', experience: '15+ Years', image: 'assets/Doc-Side/ujjwal_sinha_ortho.webp', profileUrl: 'doctors/ujjwal-sinha.php' },
+                { id: 'ujjwal-sinha', name: 'Dr. Ujjwal Sinha', qualifications: 'MBBS, DNB, MNAMS, Fellowship in Sports Medicine, FIJR (Singapore)', specialty: 'Orthopaedics & Joint Replacement', experience: '15+ Years', image: 'assets/Doc-Side/ujjwal_sinha_ortho.webp', profileUrl: 'doctors/ujjwal-sinha.php' },
                 { id: 'abhishek-roy', name: 'Dr. Abhishek Roy', qualifications: 'MBBS, MS', specialty: 'Orthopaedics & Joint Replacement', experience: '6+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp', profileUrl: 'doctors/abhishek-roy.php' },
 
                 // Urology (2 doctors)
@@ -1734,7 +1734,7 @@ Best Hospital in Jharkhand
                 { id: 'abid-akhtar', name: 'Dr. Abid Akhtar', qualifications: 'MBBS, MS', specialty: 'Eye Care', experience: '20+ Years', image: 'assets/Doc-Side/Dr. Abid Akhtar (Opthal).webp', profileUrl: 'doctors/abid-akhtar.php' },
 
                 // Radiology (1 doctor)
-                { id: 'shekhar-sharma', name: 'Dr. Shekhar Sharma', qualifications: 'MBBS, DMRD', specialty: 'Radiology', experience: '20+ Years', image: 'assets/Doc-Side/Dr Shekhar Sharma (Radiologist).webp', profileUrl: 'doctors/shekhar-sharma.php' },
+                { id: 'shekhar-sharma', name: 'Dr. Shekhar Sharma', qualifications: 'MBBS, DMRD, PGT', specialty: 'Radiology', experience: '20+ Years', image: 'assets/Doc-Side/Dr Shekhar Sharma (Radiologist).webp', profileUrl: 'doctors/shekhar-sharma.php' },
 
                 // Laboratory (3 doctors)
                 { id: 'shweta-sushmita', name: 'Dr. Shweta Sushmita', qualifications: 'MBBS, MD', specialty: 'Laboratory Investigations', experience: '10+ Years', image: 'assets/Doc-Side/Lab - Dr. Sweta Sushmita.webp', profileUrl: 'doctors/shweta-sushmita.php' },

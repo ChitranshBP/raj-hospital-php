@@ -75,7 +75,7 @@ $page_title = 'Dr. Avinash Kumar Dubey – Nephrology in Ranchi';
     "name": "Dr. Avinash Kumar Dubey",
     "description": "Dr. Avinash Dubey is an experienced Nephrologist at Raj Hospital, Ranchi, with over 15 years of expertise in kidney disease management. He specializes in dialysis, kidney transplant evaluation, and treatment of chronic kidney disease and renal disorders.",
     "medicalSpecialty": "Nephrology",
-    "qualifications": "MD (Internal Medicine), DM (Nephrology)",
+    "qualifications": "MBBS, MD (Internal Medicine), DM (Nephrology)",
     "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Nephrologist - Dr. Avinas- Kumar-Dubey.webp",
     "worksFor": {
         "@type": "Hospital",
@@ -155,7 +155,7 @@ $page_title = 'Dr. Avinash Kumar Dubey – Nephrology in Ranchi';
         const doctorData = {
                 id: 'avinash-dubey',
                 name: 'Dr. Avinash Kumar Dubey',
-                qualifications: 'MD (Internal Medicine), DM (Nephrology)',
+                qualifications: 'MBBS, MD (Internal Medicine), DM (Nephrology)',
                 specialty: 'Nephrology',
                 experience: '15+ Years',
                 image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Nephrologist - Dr. Avinas- Kumar-Dubey.webp',
