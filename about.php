@@ -554,6 +554,24 @@
                         </div>
                     </div>
 
+                    <!-- 2026 (Left) -->
+                     <div class="relative flex flex-col md:flex-row items-center gap-8 fade-in">
+                         <div class="absolute left-5 md:left-1/2 md:transform md:-translate-x-1/2 z-10 flex items-center justify-center w-6 h-6 bg-white border-4 border-orange-500 rounded-full shadow-md"></div>
+                        <div class="w-full md:w-5/12 pl-16 md:pl-0 md:text-right md:pr-8">
+                             <div class="bg-white rounded-xl shadow-md p-5 border-l-4 md:border-l-0 md:border-r-4 border-orange-500 hover:shadow-lg transition">
+                                <span class="inline-block px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-sm font-bold mb-3">2026</span>
+                                <ul class="space-y-2 text-left md:text-right">
+                                    <li class="text-sm text-gray-700">We are honoured to receive the Best Pollution Control Practice Award at the H.E.L.P. Awards 2026 in Hyderabad</li>
+                                    <li class="text-sm text-gray-700">This recognition reflects our commitment to delivering quality healthcare while embracing environmental responsibility</li>
+                                    <li class="text-sm text-gray-700 font-semibold">Healing People. Protecting the Planet</li>
+                                </ul>
+                             </div>
+                        </div>
+                        <div class="hidden md:block w-5/12 pl-8">
+                             <div class="h-64 bg-gray-200 rounded-xl overflow-hidden shadow-md"><img src="assets/About-img/award-raj.webp" class="w-full h-full object-cover"></div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
