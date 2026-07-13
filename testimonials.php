@@ -160,6 +160,12 @@
         // Video Testimonials Data
         const videoTestimonials = [
             {
+                videoId: "Qn2AtWqFZro",
+                patient: "4.7 सेकंड के लिए रुक गया था दिल! | Pacemaker ने बचाई जान | Real Patient Story | Raj Hospitals",
+                desc: "बार-बार फिट्स (Seizures), बेहोशी और अत्यधिक पसीना आने जैसी समस्या को कभी भी हल्के में न लें। इस वीडियो में अनुराज किशोर प्रसाद अपनी वास्तविक स्वास्थ्य यात्रा साझा कर रहे हैं।",
+                thumbnail: "https://img.youtube.com/vi/Qn2AtWqFZro/maxresdefault.jpg",
+            },
+            {
                 videoId: "Gi1WhJ1dR6g",
                 patient: "Emergency Brain Care That Saved Prem Kumar Singh | Raj Hospitals",
                 desc: "I felt cared for every step of the way.",

@@ -1072,6 +1072,26 @@ Best Hospital in Jharkhand
                     <div
                         class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl shadow-md flex flex-col overflow-hidden">
                         <button class="relative group w-full text-left cursor-pointer video-trigger"
+                            data-video-id="Qn2AtWqFZro">
+                            <img src="https://img.youtube.com/vi/Qn2AtWqFZro/maxresdefault.jpg" alt="Testimonial"
+                                class="w-full h-48 object-cover">
+                            <div
+                                class="absolute inset-0 flex items-center justify-center bg-black/20 group-hover:bg-black/30 transition-all">
+                                <div
+                                    class="w-16 h-16 bg-white/90 rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
+                                    <i data-feather="play" class="w-8 h-8 text-orange-500 ml-1"></i>
+                                </div>
+                            </div>
+                        </button>
+                        <div class="p-4 flex-1 flex flex-col">
+                            <div class="font-semibold text-[#0191C7] mb-1">4.7 सेकंड के लिए रुक गया था दिल! | Pacemaker ने बचाई जान | Real Patient Story</div>
+                            <p class="text-gray-600 text-sm italic">"जांच के दौरान पता चला कि हृदय लगभग 4.7 सेकंड तक रुक जाता था, Pacemaker ने बचाई जान।"</p>
+                        </div>
+                    </div>
+                    <!-- Testimonial 2 -->
+                    <div
+                        class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl shadow-md flex flex-col overflow-hidden">
+                        <button class="relative group w-full text-left cursor-pointer video-trigger"
                             data-video-id="Gi1WhJ1dR6g">
                             <img src="https://img.youtube.com/vi/Gi1WhJ1dR6g/maxresdefault.jpg" alt="Testimonial"
                                 class="w-full h-48 object-cover">
@@ -1089,7 +1109,7 @@ Best Hospital in Jharkhand
                             <p class="text-gray-600 text-sm italic">"I felt cared for every step of the way."</p>
                         </div>
                     </div>
-                    <!-- Testimonial 2 -->
+                    <!-- Testimonial 3 -->
                     <div
                         class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl shadow-md flex flex-col overflow-hidden">
                         <button class="relative group w-full text-left cursor-pointer video-trigger"
@@ -1110,7 +1130,7 @@ Best Hospital in Jharkhand
                             <p class="text-gray-600 text-sm italic">"The doctors and staff were exceptional."</p>
                         </div>
                     </div>
-                    <!-- Testimonial 3 -->
+                    <!-- Testimonial 4 -->
                     <div
                         class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl shadow-md flex flex-col overflow-hidden">
                         <button class="relative group w-full text-left cursor-pointer video-trigger"
@@ -1128,28 +1148,6 @@ Best Hospital in Jharkhand
                         <div class="p-4 flex-1 flex flex-col">
                             <div class="font-semibold text-[#0191C7] mb-1">Cancer treatment | Patient Testimonial</div>
                             <p class="text-gray-600 text-sm italic">"The doctors and staff were exceptional."</p>
-                        </div>
-                    </div>
-                    <!-- Testimonial 4 -->
-                    <div
-                        class="flex-shrink-0 w-[85%] md:w-auto snap-center bg-white border border-gray-200 rounded-xl shadow-md flex flex-col overflow-hidden">
-                        <button class="relative group w-full text-left cursor-pointer video-trigger"
-                            data-video-id="vg59yGKWz_s">
-                            <img src="https://img.youtube.com/vi/vg59yGKWz_s/maxresdefault.jpg" alt="Testimonial"
-                                class="w-full h-48 object-cover">
-                            <div
-                                class="absolute inset-0 flex items-center justify-center bg-black/20 group-hover:bg-black/30 transition-all">
-                                <div
-                                    class="w-16 h-16 bg-white/90 rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
-                                    <i data-feather="play" class="w-8 h-8 text-orange-500 ml-1"></i>
-                                </div>
-                            </div>
-                        </button>
-                        <div class="p-4 flex-1 flex flex-col">
-                            <div class="font-semibold text-[#0191C7] mb-1">Neurosurgery Success Story at Raj Hospitals
-                            </div>
-                            <p class="text-gray-600 text-sm italic">"Under the expert care of Dr. Ahmad Hussain
-                                (Neurosurgeon) and Dr. Neelam Kumari, our patient has made an incredible recovery."</p>
                         </div>
                     </div>
                 </div>
