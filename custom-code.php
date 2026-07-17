@@ -11,6 +11,23 @@
   gtag('config', 'G-EETLNH2YGP');
 </script>
 
+<!-- Usermaven Tracking -->
+<script type="text/javascript">
+    (function () {
+        window.usermaven = window.usermaven || (function () { (window.usermavenQ = window.usermavenQ || []).push(arguments); })
+        var t = document.createElement('script'),
+            s = document.getElementsByTagName('script')[0];
+        t.defer = true;
+        t.id = 'um-tracker';
+        t.setAttribute('data-tracking-host', "https://events.usermaven.com")
+        t.setAttribute('data-key', 'UMsCCA98cX');
+        t.setAttribute('data-autocapture', 'true');
+        t.setAttribute('data-form-tracking', 'all');
+        t.src = 'https://t.usermaven.com/lib.js';
+        s.parentNode.insertBefore(t, s);
+    })();
+</script>
+
 <?php
 // Google AdSense code - Only available in the 'blog' folder pages
 if (
