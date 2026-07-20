@@ -521,6 +521,10 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/alzheimers-and-dementia-treatment-in-ranchi" class="text-secondary-600 hover:underline font-semibold">Alzheimer's &amp; dementia treatment in Ranchi — RAJ Hospital</a></li>
+                        <li><a href="/motor-neuron-disease-treatment-in-ranchi" class="text-secondary-600 hover:underline font-semibold">Motor neuron disease (MND) treatment in Ranchi — RAJ Hospital</a></li>
+                        <li><a href="/myasthenia-gravis-treatment-in-ranchi" class="text-secondary-600 hover:underline font-semibold">Myasthenia gravis treatment in Ranchi — RAJ Hospital</a></li>
+                        <li><a href="/spinal-cord-tumor-treatment-in-ranchi" class="text-secondary-600 hover:underline font-semibold">Spinal cord tumor treatment in Ranchi — RAJ Hospital</a></li>
                         <li><a href="/blog/brain-stroke-ke-lakshan.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Brain Stroke के लक्षण</a></li>
                         <li><a href="/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: How RAJ Hospitals Helps Stroke Treatment in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दिल का दौरा लक्षण (Heart Attack Symptoms)</a></li>
