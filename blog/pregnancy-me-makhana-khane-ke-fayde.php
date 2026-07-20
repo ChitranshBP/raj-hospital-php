@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>प्रेग्नेंसी में मखाना खाने के फायदे - Complete Hindi Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="प्रेग्नेंसी में मखाना खाने के फायदे जानें। Makhana (Fox Nuts) pregnancy के दौरान क्यों beneficial है, nutrients और health benefits।">
     <meta name="keywords" content="pregnancy me makhana khane ke fayde, makhana pregnancy benefits, मखाना के फायदे, fox nuts pregnancy, nutritious pregnancy food, pregnancy diet ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde/">
 
     <meta property="og:title" content="प्रेग्नेंसी में मखाना खाने के फायदे - Complete Hindi Guide">
     <meta property="og:description" content="प्रेग्नेंसी में मखाना खाने के फायदे और health benefits जानें।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/pregnancy-me-makhana-khane-ke-fayde.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "प्रेग्नेंसी में मखाना खाने के फायदे - Complete Hindi Guide | RAJ Hospital Ranchi",
         "description": "प्रेग्नेंसी में मखाना खाने के फायदे जानें। Makhana (Fox Nuts) pregnancy के दौरान क्यों beneficial है, nutrients और health benefits।",
-        "url": "https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde.php",
+        "url": "https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnancy-me-makhana-khane-ke-fayde.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-29",
         "dateModified": "2026-05-29",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">प्रेग्नेंसी में मखाना</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/pregnancy-me-makhana-khane-ke-fayde.png" alt="प्रेग्नेंसी में मखाना खाने के फायदे - Makhana Pregnancy Benefits" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/pregnancy-me-makhana-khane-ke-fayde.png" alt="प्रेग्नेंसी में मखाना खाने के फायदे - Makhana Pregnancy Benefits" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -333,7 +333,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Pregnancy Diet की जरूरत है?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert dietitians द्वारा personalized pregnancy nutrition plan available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

@@ -4,20 +4,20 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Can Gas Cause a Heart Attack? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Can gas cause a heart attack? Top cardiologist at RAJ Hospital Ranchi explains how gas pain mimics heart attack, when to worry, and the exact emergency signs you should never ignore.">
     <meta name="keywords" content="can gas cause heart attack, gas pain vs heart attack, chest pain gas, acidity heart attack, stomach gas chest pain, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/can-gas-cause-heart-attack.php">
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="canonical" href="https://rajhospitals.com/blog/can-gas-cause-heart-attack/">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Can Gas Cause a Heart Attack? Doctor-Explained Guide">
     <meta property="og:description" content="Cardiologist-reviewed guide on how gas pain mimics heart attack and when to seek emergency care.">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/can-gas-cause-heart-attack.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/can-gas-cause-heart-attack/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/can-gas-cause-heart-attack.png">
     <meta property="og:locale" content="hi_IN">
 
@@ -47,7 +47,7 @@
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-06",
         "dateModified": "2026-06-06",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/can-gas-cause-heart-attack.php"
+        "mainEntityOfPage": "https://rajhospitals.com/blog/can-gas-cause-heart-attack/"
     }
     </script>
 
@@ -71,7 +71,7 @@
         "@type": "MedicalWebPage",
         "name": "Can Gas Cause a Heart Attack?",
         "description": "Cardiologist-reviewed explanation of how gas pain mimics a heart attack, with clear red-flag symptoms.",
-        "url": "https://rajhospitals.com/blog/can-gas-cause-heart-attack.php",
+        "url": "https://rajhospitals.com/blog/can-gas-cause-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "datePublished": "2026-06-06",
@@ -141,9 +141,9 @@
 
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Can Gas Cause a Heart Attack?</span>
         </nav>
@@ -152,7 +152,7 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/can-gas-cause-heart-attack.png" alt="Can Gas Cause a Heart Attack - Doctor Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/can-gas-cause-heart-attack.png" alt="Can Gas Cause a Heart Attack - Doctor Guide" class="w-full h-full object-contain">
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">

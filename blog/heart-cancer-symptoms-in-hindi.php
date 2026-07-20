@@ -1,22 +1,22 @@
-<?php $base_url = '../../'; ?>
+<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="hi">
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi | RAJ Hospital Ranchi</title>
     <meta name="description" content="दिल का कैंसर (Heart Cancer) के लक्षण जानें। जानें दिल के कैंसर के शुरुआती और गंभीर लक्षण, कारण और बचाव के उपाय। Ranchi के best cardiology experts की advice।">
     <meta name="keywords" content="heart cancer, दिल का कैंसर, heart cancer symptoms in hindi, cardiac tumor, cardiac sarcoma, दिल का कैंसर के लक्षण, cardiology, ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/heart-cancer-symptoms-in-hindi/index.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/heart-cancer-symptoms-in-hindi/">
 
     <meta property="og:title" content="दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi">
     <meta property="og:description" content="दिल का कैंसर (Heart Cancer) के लक्षण जानें। शुरुआती symptoms और बचाव के उपाय।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/heart-cancer-symptoms-in-hindi/index.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/heart-cancer-symptoms-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/heart-cancer-symptoms-in-hindi.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -228,7 +228,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -237,9 +237,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-purple-600">Home</a>
+            <a href="/" class="hover:text-purple-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-purple-600">Blog</a>
+            <a href="/blog/" class="hover:text-purple-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">दिल का कैंसर के लक्षण</span>
         </nav>
@@ -288,7 +288,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital Ranchi में हमारी expert cardiology team <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-purple-600 hover:underline font-semibold">neurology और cardiology दोनों conditions</a> का diagnosis और treatment करती है। हमारे specialists को <a href="<?php echo $base_url; ?>contact.php" class="text-purple-600 hover:underline font-semibold">contact करें</a> अधिक जानकारी के लिए।
+                    RAJ Hospital Ranchi में हमारी expert cardiology team <a href="/doctor-profile.php" class="text-purple-600 hover:underline font-semibold">neurology और cardiology दोनों conditions</a> का diagnosis और treatment करती है। हमारे specialists को <a href="/contact.php" class="text-purple-600 hover:underline font-semibold">contact करें</a> अधिक जानकारी के लिए।
                 </p>
 
                 <!-- Section 2: Types of Heart Cancer -->
@@ -337,7 +337,7 @@
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">3. अनियमित heartbeat (Irregular Heartbeat / Arrhythmia)</h4>
-                        <p class="text-sm text-gray-600">दिल की rhythm में irregularity एक common sign है। Heart fluttering, racing, या pounding feel होना arrhythmia के symptoms हैं। कई cases में patients को heart palpitations की शिकायत होती है। यह <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">stroke और TIA treatment</a> की भी जरूरत पैदा कर सकता है अगर blood clots बनें।</p>
+                        <p class="text-sm text-gray-600">दिल की rhythm में irregularity एक common sign है। Heart fluttering, racing, या pounding feel होना arrhythmia के symptoms हैं। कई cases में patients को heart palpitations की शिकायत होती है। यह <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">stroke और TIA treatment</a> की भी जरूरत पैदा कर सकता है अगर blood clots बनें।</p>
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">4. थकान और कमज़ोरी (Fatigue and Weakness)</h4>
@@ -345,7 +345,7 @@
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">5. चक्कर आना (Dizziness)</h4>
-                        <p class="text-sm text-gray-600">चक्कर आना या lightheadedness दिल के कैंसर का एक और symptom है। यह तब होता है जब heart की pumping capacity कम हो जाती है और brain में sufficient blood नहीं पहुंच पाता। कुछ patients को <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">head injury treatment</a> की जरूरत भी पड़ सकती है अगर वे gefahr करके gefahr जाएं।</p>
+                        <p class="text-sm text-gray-600">चक्कर आना या lightheadedness दिल के कैंसर का एक और symptom है। यह तब होता है जब heart की pumping capacity कम हो जाती है और brain में sufficient blood नहीं पहुंच पाता। कुछ patients को <a href="/head-injury-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">head injury treatment</a> की जरूरत भी पड़ सकती है अगर वे gefahr करके gefahr जाएं।</p>
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">6. हाथ-पैरों में सूजन (Swelling in Hands and Feet)</h4>
@@ -404,7 +404,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    Heart tumors को other conditions जैसे <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">back pain और sciatica</a> या general fatigue से confuse नहीं करना चाहिए। अगर symptoms persist करें, तो तुरंत doctor से मिलें।
+                    Heart tumors को other conditions जैसे <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">back pain और sciatica</a> या general fatigue से confuse नहीं करना चाहिए। अगर symptoms persist करें, तो तुरंत doctor से मिलें।
                 </p>
 
                 <!-- Section 5: Diagnosis -->
@@ -438,7 +438,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    हमारी team <a href="<?php echo $base_url; ?>brain-tumor-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">brain tumor treatment</a> और दिल के tumors दोनों में experienced है। RAJ Hospital Ranchi में latest diagnostic equipment available है।
+                    हमारी team <a href="/brain-tumor-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">brain tumor treatment</a> और दिल के tumors दोनों में experienced है। RAJ Hospital Ranchi में latest diagnostic equipment available है।
                 </p>
 
                 <!-- Section 6: Treatment -->
@@ -485,14 +485,14 @@
                 </ul>
 
                 <p class="text-gray-700 mb-4">
-                    अगर आपको <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">neuropathy</a> या अन्य nerve-related symptoms हों, तो भी heart health के बारे में जानना important है क्योंकि कई conditions interconnected होती हैं।
+                    अगर आपको <a href="/neuropathy-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">neuropathy</a> या अन्य nerve-related symptoms हों, तो भी heart health के बारे में जानना important है क्योंकि कई conditions interconnected होती हैं।
                 </p>
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-purple-600 to-purple-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">दिल से Related किसी भी समस्या में तुरंत मदद</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced cardiology और neurology team 24x7 available है। Advanced diagnostic facilities और latest treatment options के साथ हम आपकी सेहत का ध्यान रखते हैं।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-purple-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Contact Us Now</a>
+                    <a href="/contact.php" class="inline-block bg-white text-purple-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Contact Us Now</a>
                 </div>
 
                 <!-- FAQs -->

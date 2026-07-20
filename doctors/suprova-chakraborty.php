@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Suprova Chakraborty – Pulmonology in Ranchi">
     <meta property="og:description" content="Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi with 12+ years in respiratory medicine. Expert in asthma, COPD & lung care. Book now.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/suprova-chakraborty">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/suprova-chakraborty">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi, with over 12 years of experience in respiratory medicine. She specializes in the treatment of asthma, COPD, tuberculosis, and other lung diseases with advanced pulmonary care.",
     "medicalSpecialty": "Pulmonology",
     "qualifications": "MBBS, DNB, EDARM (Cert.), AAAI",
-    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Pulmonologist - Dr. Suprova-Chakraborty.webp",
+    "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Pulmonologist - Dr. Suprova-Chakraborty.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/suprova-chakraborty",
+    "url": "https://rajhospitals.com/doctors/suprova-chakraborty",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

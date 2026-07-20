@@ -11,11 +11,11 @@ $base_url = '../';
     <meta name="keywords" content="periods miss hua, periods na aana, missed period reasons in hindi, period late aana, menstruation problems, irregular periods treatment">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
-    <link rel="canonical" href="https://rajhospitals.com/blog/periods-miss-hua-to-kya-karein.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/periods-miss-hua-to-kya-karein/">
     <meta property="og:title" content="पीरियड्स मिस हो गए तो क्या करें?">
     <meta property="og:description" content="Periods miss होने के कारण और उपाय। Pregnancy test और डॉक्टर से कब मिलना है।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/periods-miss-hua-to-kya-karein.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/periods-miss-hua-to-kya-karein/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
     <title>पीरियड्स मिस हो गए तो क्या करें? - कारण और उपाय | RAJ Hospital Ranchi</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/periods-miss-hua-to-kya-karein.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/periods-miss-hua-to-kya-karein/",
         "keywords": ["periods miss hua", "periods na aana", "missed period reasons", "irregular periods", "menstruation problems"],
         "about": {
             "@type": "MedicalCondition",
@@ -173,7 +173,7 @@ $base_url = '../';
         ]
     }
     </script>
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
     <?php include $base_url . 'components/navbar.php'; ?>
@@ -183,9 +183,9 @@ $base_url = '../';
     <div class="bg-white border-b">
         <div class="max-w-4xl mx-auto px-4 py-3">
             <nav class="flex text-sm text-gray-600">
-                <a href="<?php echo $base_url; ?>index.php" class="hover:text-hospital-blue">होम</a>
+                <a href="/index.php" class="hover:text-hospital-blue">होम</a>
                 <span class="mx-2">/</span>
-                <a href="<?php echo $base_url; ?>blog" class="hover:text-hospital-blue">ब्लॉग</a>
+                <a href="/blog" class="hover:text-hospital-blue">ब्लॉग</a>
                 <span class="mx-2">/</span>
                 <span class="text-gray-800">महिला स्वास्थ्य</span>
             </nav>
@@ -234,7 +234,7 @@ $base_url = '../';
             </div>
 
             <p class="text-lg text-gray-700 mb-6 leading-relaxed">
-                <strong>पीरियड्स का मिस होना</strong> कई महिलाओं के लिए चिंता का विषय हो सकता है। कई बार यह pregnancy का संकेत होता है, तो कई बार hormonal imbalance या कोई और समस्या। <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi.php" class="text-hospital-blue hover:underline">PCOD</a> भी periods को प्रभावित करता है। इस ब्लॉग में जानेंगे कि <strong>periods miss होने पर क्या करना चाहिए</strong>।
+                <strong>पीरियड्स का मिस होना</strong> कई महिलाओं के लिए चिंता का विषय हो सकता है। कई बार यह pregnancy का संकेत होता है, तो कई बार hormonal imbalance या कोई और समस्या। <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi/" class="text-hospital-blue hover:underline">PCOD</a> भी periods को प्रभावित करता है। इस ब्लॉग में जानेंगे कि <strong>periods miss होने पर क्या करना चाहिए</strong>।
             </p>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -288,7 +288,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">Gynaecologist से मिलें</h3>
                         <p class="text-white/90">Periods की समस्या हो तो विशेषज्ञ से सलाह लें</p>
                     </div>
-                    <a href="https://rajhospitals.com/appointment.php" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                    <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
                     </a>
                 </div>
@@ -327,7 +327,7 @@ $base_url = '../';
                 PCOD/PCOS और Periods में संबंध
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                <strong>PCOD (Polycystic Ovary Disease)</strong> एक बहुत common समस्या है जो 10-15% women को affect करती है। <a href="https://rajhospitals.com/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.php" class="text-hospital-blue hover:underline">PCOD के लक्षण</a> में periods का irregular या miss होना प्रमुख है।
+                <strong>PCOD (Polycystic Ovary Disease)</strong> एक बहुत common समस्या है जो 10-15% women को affect करती है। <a href="https://rajhospitals.com/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained/" class="text-hospital-blue hover:underline">PCOD के लक्षण</a> में periods का irregular या miss होना प्रमुख है।
             </p>
 
             <div class="grid md:grid-cols-2 gap-4 mb-6">
@@ -527,28 +527,28 @@ $base_url = '../';
                 संबंधित स्वास्थ्य गाइड
             </h3>
             <div class="grid md:grid-cols-2 gap-4">
-                <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">PCOD के लक्षण</h4>
                         <p class="text-gray-500 text-xs">Polycystic Ovary Disease की जानकारी</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/pregnancy-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/pregnancy-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">गर्भावस्था के लक्षण</h4>
                         <p class="text-gray-500 text-xs">प्रेग्नेंसी की पहचान</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">Best Maternity Hospital</h4>
                         <p class="text-gray-500 text-xs">प्रेग्नेंसी और प्रसव की देखभाल</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">PCOS Treatment in Ranchi</h4>

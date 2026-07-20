@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Nisha Jha – Obstetrics & Gynaecology in Ranchi">
     <meta property="og:description" content="Dr. Nisha Jha is a Consultant Obstetrician & Gynaecologist at Raj Hospital, Ranchi with expertise in advanced laparoscopic surgery, fetal medicine, high-risk obstetrics, infertility, PCOS and menopausal care.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/nisha-jha">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/nisha-jha">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -95,7 +95,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -106,7 +106,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/nisha-jha"
+    "url": "https://rajhospitals.com/doctors/nisha-jha"
 }
 </script>
 

@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>दिल का दौरा लक्षण (Heart Attack Symptoms) - Complete Hindi Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) जानें। जानें heart attack के early signs, Warning signals और कब तुरंत doctor से मिलना चाहिए। Ranchi में best cardiac care।">
     <meta name="keywords" content="heart attack symptoms, heart attack in hindi, दिल का दौरा, heart attack ke lakshan, heart attack signs, heart attack warning signs, cardiac symptoms, heart disease symptoms, heart attack prevention, heart care ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/">
 
     <meta property="og:title" content="दिल का दौरा लक्षण (Heart Attack Symptoms) - Complete Hindi Guide">
     <meta property="og:description" content="दिल का दौरा के early signs और warning signals जानें। समय पर पहचान से जान बचाएं।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/heart-attack-symptoms-in-hindi.png">
     <meta property="og:locale" content="hi_IN">
 
@@ -70,7 +70,7 @@
         "@type": "MedicalWebPage",
         "name": "दिल का दौरा लक्षण (Heart Attack Symptoms) - Complete Hindi Guide",
         "description": "दिल का दौरा (Heart Attack) के लक्षण, early warning signs, और कब medical help लेना चाहिए इसकी पूरी जानकारी।",
-        "url": "https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi.php",
+        "url": "https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/",
         "author": {
             "@type": "Organization",
             "name": "RAJ Hospital Ranchi",
@@ -240,7 +240,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -249,9 +249,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-primary-600">Home</a>
+            <a href="/" class="hover:text-primary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-primary-600">Blog</a>
+            <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">दिल का दौरा लक्षण</span>
         </nav>
@@ -290,7 +290,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-red-600 pb-2 mt-8 mb-4">दिल का दौरा (Heart Attack) क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Heart Attack (Myocardial Infarction)</strong> तब होता है जब heart में coronary arteries में किसी blockage के कारण blood flow रुक जाती है। यह blockage आमतौर पर cholesterol और fat जमा होने से बनती है, जिसे <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-red-600 hover:underline font-semibold">atherosclerosis</a> कहते हैं।
+                    <strong>Heart Attack (Myocardial Infarction)</strong> तब होता है जब heart में coronary arteries में किसी blockage के कारण blood flow रुक जाती है। यह blockage आमतौर पर cholesterol और fat जमा होने से बनती है, जिसे <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-red-600 hover:underline font-semibold">atherosclerosis</a> कहते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-4">
@@ -331,7 +331,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600 mb-2">7. अनियमित heartbeat (Irregular Heartbeat)</h4>
-                        <p class="text-sm text-gray-600">Heart palpitations या irregular heartbeat heart attack का early sign हो सकता है। अगर आपको heart race कर रहा है या skip कर रहा है, तो इसे ignore न करें। इसके अलावा <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-red-600 hover:underline">nerve-related problems</a> से भी यह हो सकता है, इसलिए checkup जरूरी है।</p>
+                        <p class="text-sm text-gray-600">Heart palpitations या irregular heartbeat heart attack का early sign हो सकता है। अगर आपको heart race कर रहा है या skip कर रहा है, तो इसे ignore न करें। इसके अलावा <a href="/neuropathy-treatment-in-ranchi.php" class="text-red-600 hover:underline">nerve-related problems</a> से भी यह हो सकता है, इसलिए checkup जरूरी है।</p>
                     </div>
                 </div>
 
@@ -367,7 +367,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">महिलाओं के लिए सलाह:</strong>
-                    <span class="text-gray-700"> अगर आपको ऊपर बताए गए symptoms में से कोई भी अनुभव हो, तो इसे सिर्फ stress या normal fatigue न समझें। खासकर अगर ये नए हों और अचानक शुरू हों। समय पर <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-yellow-700 hover:underline font-semibold">cardiac checkup</a> अत्यंत जरूरी है।</span>
+                    <span class="text-gray-700"> अगर आपको ऊपर बताए गए symptoms में से कोई भी अनुभव हो, तो इसे सिर्फ stress या normal fatigue न समझें। खासकर अगर ये नए हों और अचानक शुरू हों। समय पर <a href="/doctor-profile.php" class="text-yellow-700 hover:underline font-semibold">cardiac checkup</a> अत्यंत जरूरी है।</span>
                 </div>
 
                 <!-- Section 4: Warning Signs Before Heart Attack -->
@@ -396,10 +396,10 @@
                     <div class="bg-red-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">Controllable Risk Factors (नियंत्रणीय)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li><strong>High Blood Pressure:</strong> Regular BP check करें और दवाइयां लें। <a href="<?php echo $base_url; ?>bp-high-hone-par-kya-kare.php" class="text-red-600 hover:underline">BP control के उपाय जानें</a>।</li>
+                            <li><strong>High Blood Pressure:</strong> Regular BP check करें और दवाइयां लें। <a href="/blog/bp-high-hone-par-kya-kare/" class="text-red-600 hover:underline">BP control के उपाय जानें</a>।</li>
                             <li><strong>High Cholesterol:</strong> Diet में सुधार करें।</li>
                             <li><strong>Diabetes:</strong> Blood sugar नियंत्रित रखें।</li>
-                            <li><strong>मोटापा:</strong> वजन कम करें और <a href="<?php echo $base_url; ?>best-indian-diet-plan-for-diabetes-patients.php" class="text-red-600 hover:underline">Indian diet plan</a> follow करें।</li>
+                            <li><strong>मोटापा:</strong> वजन कम करें और <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-red-600 hover:underline">Indian diet plan</a> follow करें।</li>
                             <li><strong>Smoking:</strong> तुरंत छोड़ें।</li>
                             <li><strong>Sedentary Lifestyle:</strong> Regular exercise करें।</li>
                             <li><strong>Stress:</strong> Yoga और meditation करें।</li>
@@ -458,7 +458,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    आप हमारी detailed guide <a href="<?php echo $base_url; ?>blog/heart-attack-se-kaise-bachen/" class="text-red-600 hover:underline font-semibold">"दिल के दौरे से कैसे बचें"</a> में और जानकारी प्राप्त कर सकते हैं।
+                    आप हमारी detailed guide <a href="/blog/heart-attack-se-kaise-bachen/" class="text-red-600 hover:underline font-semibold">"दिल के दौरे से कैसे बचें"</a> में और जानकारी प्राप्त कर सकते हैं।
                 </p>
 
                 <!-- Section 7: Connection to Other Conditions -->
@@ -470,11 +470,11 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-blue-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-blue-600 mb-2"><a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="hover:underline">Back Pain और Sciatica</a></h4>
+                        <h4 class="font-bold text-blue-600 mb-2"><a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="hover:underline">Back Pain और Sciatica</a></h4>
                         <p class="text-sm text-gray-600">Heart attack का दर्द कभी-कभी <strong>back pain</strong> की तरह feel हो सकता है। खासकर lower back में। इसे sciatica से confuse न करें। अगर back pain के साथ chest discomfort भी हो, तो तुरंत checkup करें।</p>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-purple-600 mb-2"><a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="hover:underline">Head Injury और Brain Health</a></h4>
+                        <h4 class="font-bold text-purple-600 mb-2"><a href="/head-injury-treatment-in-ranchi.php" class="hover:underline">Head Injury और Brain Health</a></h4>
                         <p class="text-sm text-gray-600">Heart attack और <strong>stroke</strong> में कुछ symptoms similar हो सकते हैं। अगर आपको <strong>head injury</strong> के बाद chest pain हो, तो यह emergency situation हो सकता है। Brain और heart दोनों की health important है।</p>
                     </div>
                 </div>
@@ -483,7 +483,7 @@
                 <div class="bg-gradient-to-r from-red-600 to-red-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">दिल की जांच (Heart Checkup) कराना चाहते हैं?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में ECG, Echocardiography, Stress Test, और Angiography available है। हमारे expert cardiologists से appointment book करें।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment Now</a>
+                    <a href="/contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment Now</a>
                 </div>
 
                 <!-- Section 8: What to Do During Heart Attack -->
@@ -530,7 +530,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">Heart Attack से बचाव के लिए क्या करना चाहिए?</h4>
-                        <p class="text-gray-700"><strong>Heart Attack से बचाव के लिए healthy lifestyle</strong> अपनाएं - regular exercise (30 minutes daily), balanced diet (fruits, vegetables, whole grains), smoking छोड़ें, alcohol सीमित करें, stress management (yoga, meditation), और regular health checkups करें। Blood pressure, cholesterol और sugar levels नियंत्रित रखें। <a href="<?php echo $base_url; ?>blog/heart-attack-se-kaise-bachen/" class="text-red-600 hover:underline font-semibold">यहां detailed prevention tips पढ़ें</a>।</p>
+                        <p class="text-gray-700"><strong>Heart Attack से बचाव के लिए healthy lifestyle</strong> अपनाएं - regular exercise (30 minutes daily), balanced diet (fruits, vegetables, whole grains), smoking छोड़ें, alcohol सीमित करें, stress management (yoga, meditation), और regular health checkups करें। Blood pressure, cholesterol और sugar levels नियंत्रित रखें। <a href="/blog/heart-attack-se-kaise-bachen/" class="text-red-600 hover:underline font-semibold">यहां detailed prevention tips पढ़ें</a>।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">Heart Attack का इलाज क्या है?</h4>
@@ -600,10 +600,10 @@
                 <div class="mt-8 p-4 bg-blue-50 rounded-lg">
                     <h4 class="font-bold text-blue-700 mb-3">Related Articles</h4>
                     <ul class="space-y-2 text-sm">
-                        <li><a href="<?php echo $base_url; ?>blog/heart-attack-se-kaise-bachen/" class="text-blue-600 hover:underline">दिल के दौरे से कैसे बचें - Complete Prevention Guide</a></li>
-                        <li><a href="<?php echo $base_url; ?>blog/chest-pain-ka-ilaj.php" class="text-blue-600 hover:underline">सीने में दर्द का इलाज - Chest Pain Treatment</a></li>
-                        <li><a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-blue-600 hover:underline">Stroke और TIA Treatment in Ranchi</a></li>
-                        <li><a href="<?php echo $base_url; ?>blog/brain-stroke-ke-lakshan.php" class="text-blue-600 hover:underline">Brain Stroke के लक्षण - Complete Guide</a></li>
+                        <li><a href="/blog/heart-attack-se-kaise-bachen/" class="text-blue-600 hover:underline">दिल के दौरे से कैसे बचें - Complete Prevention Guide</a></li>
+                        <li><a href="/blog/chest-pain-ka-ilaj.php" class="text-blue-600 hover:underline">सीने में दर्द का इलाज - Chest Pain Treatment</a></li>
+                        <li><a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-blue-600 hover:underline">Stroke और TIA Treatment in Ranchi</a></li>
+                        <li><a href="/blog/brain-stroke-ke-lakshan.php" class="text-blue-600 hover:underline">Brain Stroke के लक्षण - Complete Guide</a></li>
                     </ul>
                 </div>
             </div>

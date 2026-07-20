@@ -1,10 +1,10 @@
-<?php $base_url = '../../'; ?>
+<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="hi">
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण | RAJ Hospital Ranchi</title>
@@ -86,7 +86,7 @@
                 "name": "दिल के दौरे से बचाव के लिए क्या करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दिल के दौरे से बचाव के लिए नियमित व्यायाम करें, स्वस्थ आहार लें (फल, सब्जियां, पूरे अनाज), धूम्रपान छोड़ें, शराब सीमित करें, तनाव प्रबंधन करें, और नियमित health checkup कराएं। <a href='/heart-attack-se-kaise-bachen.php'>दिल के दौरे से बचाव के बारे में विस्तार से जानें</a>।"
+                    "text": "दिल के दौरे से बचाव के लिए नियमित व्यायाम करें, स्वस्थ आहार लें (फल, सब्जियां, पूरे अनाज), धूम्रपान छोड़ें, शराब सीमित करें, तनाव प्रबंधन करें, और नियमित health checkup कराएं। <a href='/blog/heart-attack-se-kaise-bachen/'>दिल के दौरे से बचाव के बारे में विस्तार से जानें</a>।"
                 }
             },
             {
@@ -233,7 +233,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -242,9 +242,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-primary-600">Home</a>
+            <a href="/" class="hover:text-primary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-primary-600">Blog</a>
+            <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Heart Attack Symptoms in Men</span>
         </nav>
@@ -266,7 +266,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>दिल का दौरा (Heart Attack)</strong> एक गंभीर medical emergency है जो तब होता है जब दिल की मांसपेशियों को रक्त की आपूर्ति बाधित हो जाती है। भारत में हर साल लाखों पुरुष दिल के दौरे का शिकार होते हैं। <a href="/heart-attack-symptoms-in-hindi.php">दिल के दौरे की व्यापक जानकारी</a> के लिए हमारा ब्लॉग पढ़ें।
+                    <strong>दिल का दौरा (Heart Attack)</strong> एक गंभीर medical emergency है जो तब होता है जब दिल की मांसपेशियों को रक्त की आपूर्ति बाधित हो जाती है। भारत में हर साल लाखों पुरुष दिल के दौरे का शिकार होते हैं। <a href="/blog/heart-attack-symptoms-in-hindi/">दिल के दौरे की व्यापक जानकारी</a> के लिए हमारा ब्लॉग पढ़ें।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -314,7 +314,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">1. सीने में असुविधा या दर्द</h4>
-                        <p class="text-sm text-gray-600">सीने में दबाव, भारीपन, या दर्द जो कुछ मिनट तक रहता है। यह दर्द बाएं हाथ, गर्दन, जबड़े, या पीठ तक फैल सकता है। <a href="/heart-attack-se-kaise-bachen.php">दर्द के बारे में विस्तार से जानें</a>।</p>
+                        <p class="text-sm text-gray-600">सीने में दबाव, भारीपन, या दर्द जो कुछ मिनट तक रहता है। यह दर्द बाएं हाथ, गर्दन, जबड़े, या पीठ तक फैल सकता है। <a href="/blog/heart-attack-se-kaise-bachen/">दर्द के बारे में विस्तार से जानें</a>।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">2. सांस फूलना (Shortness of Breath)</h4>
@@ -409,7 +409,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>नियमित exercise करें:</strong> रोज़ 30 मिनट brisk walking या cycling करें।</li>
-                    <li><strong>स्वस्थ खाना खाएं:</strong> फल, सब्जियां, whole grains, और lean proteins खाएं। <a href="/best-indian-diet-plan-for-diabetes-patients.php">Indian diet plan के बारे में जानें</a>।</li>
+                    <li><strong>स्वस्थ खाना खाएं:</strong> फल, सब्जियां, whole grains, और lean proteins खाएं। <a href="/blog/best-indian-diet-plan-for-diabetes-patients/">Indian diet plan के बारे में जानें</a>।</li>
                     <li><strong>धूम्रपान छोड़ें:</strong> यह सबसे बड़ा नियंत्रणीय कारक है।</li>
                     <li><strong>शराब सीमित करें:</strong> या पूरी तरह छोड़ें।</li>
                     <li><strong>BP और sugar नियंत्रित रखें:</strong> नियमित जांच कराएं।</li>
@@ -439,7 +439,7 @@
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">दिल की बीमारी में तुरंत मदद</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में 24x7 cardiac emergency और comprehensive heart care उपलब्ध है। हमारे experienced cardiologists और neurologists आपकी मदद के लिए उपलब्ध हैं।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- When to See a Doctor -->
@@ -460,7 +460,7 @@
 
                 <div class="bg-blue-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <strong class="text-primary-700">नोट:</strong>
-                    <span class="text-gray-700"> अगर आपको <a href="/heart-attack-symptoms-in-hindi.php">दिल के दौरे के बारे में और जानकारी</a> चाहिए या <a href="/heart-attack-se-kaise-bachen.php">दिल के दौरे से बचाव के उपाय</a> जानना चाहते हैं, तो हमारे ब्लॉग पर क्लिक करें।</span>
+                    <span class="text-gray-700"> अगर आपको <a href="/blog/heart-attack-symptoms-in-hindi/">दिल के दौरे के बारे में और जानकारी</a> चाहिए या <a href="/blog/heart-attack-se-kaise-bachen/">दिल के दौरे से बचाव के उपाय</a> जानना चाहते हैं, तो हमारे ब्लॉग पर क्लिक करें।</span>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">

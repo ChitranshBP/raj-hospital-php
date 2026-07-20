@@ -1,10 +1,10 @@
-<?php $base_url = '../../'; ?>
+<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="hi">
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart | RAJ Hospital</title>
@@ -236,7 +236,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -245,9 +245,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-primary-600">Home</a>
+            <a href="/" class="hover:text-primary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-primary-600">Blog</a>
+            <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Heart Attack Se Kaise Bachen</span>
         </nav>
@@ -272,13 +272,13 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    Is comprehensive guide mein, hum aapko <strong>15 powerful tips</strong> batayenge jo aapke heart ko healthy rakhenge aur heart attack ka risk significantly kam karenge. Yeh tips RAJ Hospital Ranchi ke experienced <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline">cardiologists aur neurologists</a> ki expertise par based hain.
+                    Is comprehensive guide mein, hum aapko <strong>15 powerful tips</strong> batayenge jo aapke heart ko healthy rakhenge aur heart attack ka risk significantly kam karenge. Yeh tips RAJ Hospital Ranchi ke experienced <a href="/doctor-profile.php" class="text-primary-600 hover:underline">cardiologists aur neurologists</a> ki expertise par based hain.
                 </p>
 
                 <!-- Warning Box -->
                 <div class="bg-red-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <strong class="text-primary-600">Important Warning:</strong>
-                    <span class="text-gray-700"> Heart attack ek medical emergency hai. Symptoms dikhne par turant emergency services contact karein. Early treatment se life bacha sakta hai. RAJ Hospital Ranchi mein <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">24/7 emergency cardiac care</a> available hai.</span>
+                    <span class="text-gray-700"> Heart attack ek medical emergency hai. Symptoms dikhne par turant emergency services contact karein. Early treatment se life bacha sakta hai. RAJ Hospital Ranchi mein <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">24/7 emergency cardiac care</a> available hai.</span>
                 </div>
 
                 <!-- Section 1: Understanding Heart Attack -->
@@ -333,7 +333,7 @@
                 <h2 class="raj-h2-secondary">15 Powerful Tips: Heart Attack Se Kaise Bachen</h2>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital Ranchi ke <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline">heart specialists</a> ne ye 15 proven tips diye hain jinhe follow karke aap apne heart ko healthy rakh sakte hain aur heart attack se bachein:
+                    RAJ Hospital Ranchi ke <a href="/doctor-profile.php" class="text-primary-600 hover:underline">heart specialists</a> ne ye 15 proven tips diye hain jinhe follow karke aap apne heart ko healthy rakh sakte hain aur heart attack se bachein:
                 </p>
 
                 <!-- Tip 1 -->
@@ -343,7 +343,7 @@
                         <strong>Regular physical activity</strong> heart health ke liye sabse important hai. Hafte mein kam se kam 150 minutes moderate exercise ya 75 minutes vigorous exercise karein. Daily 30-minute walk, jogging, swimming, ya cycling sufficient hai. Exercise cholesterol level improve karta hai, blood pressure control karta hai, aur weight manage karta hai - yeh sab heart attack ke risk ko kam karte hain.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Agar aap sedentary lifestyle lead karte hain, to slowly shuru karein - 10 minutes se, phir dhire-dhire 30 minutes tak. Walking shoes pehnein aur park ya community mein walk karein. <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Physiotherapy services</a> bhi available hain jo aapko fitness routine develop karne mein madad kar sakti hain.
+                        Agar aap sedentary lifestyle lead karte hain, to slowly shuru karein - 10 minutes se, phir dhire-dhire 30 minutes tak. Walking shoes pehnein aur park ya community mein walk karein. <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Physiotherapy services</a> bhi available hain jo aapko fitness routine develop karne mein madad kar sakti hain.
                     </p>
                 </div>
 
@@ -365,7 +365,7 @@
                         <strong>Smoking</strong> heart attack ka sabse big controllable risk factor hai. Cigarette smoking blood vessels ko damage karta hai, cholesterol levels badhata hai, aur blood pressure increase karta hai. Sirf 1 cigarette per day se bhi heart disease ka risk 50% badh jata hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Agar aap smoker hain, to abhi smoking chhodne ka decision lein. Withdrawal symptoms se bachne ke liye nicotine patches ya gum use karein. Doctor se consult karein jo aapko smoking cessation mein madad kar sakein. <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein smoking cessation program available hai.
+                        Agar aap smoker hain, to abhi smoking chhodne ka decision lein. Withdrawal symptoms se bachne ke liye nicotine patches ya gum use karein. Doctor se consult karein jo aapko smoking cessation mein madad kar sakein. <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein smoking cessation program available hai.
                     </p>
                 </div>
 
@@ -376,7 +376,7 @@
                         <strong>High blood pressure (hypertension)</strong> heart attack ka major risk factor hai. Normal blood pressure 120/80 mmHg se kam hona chahiye. High BP ko often "silent killer" kaha jata hai kyunki koi symptoms nahi dikhte.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Blood pressure monitor karein aur irregular readings ko track karein. Low sodium diet lein, regular exercise karein, stress manage karein, aur doctor ki prescribed medicines regularly lein. DASH diet (Dietary Approaches to Stop Hypertension) follow karein jo BP control karne mein effective hai. <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">Regular health checkups</a> ke through BP monitor karein.
+                        Blood pressure monitor karein aur irregular readings ko track karein. Low sodium diet lein, regular exercise karein, stress manage karein, aur doctor ki prescribed medicines regularly lein. DASH diet (Dietary Approaches to Stop Hypertension) follow karein jo BP control karne mein effective hai. <a href="/contact.php" class="text-primary-600 hover:underline">Regular health checkups</a> ke through BP monitor karein.
                     </p>
                 </div>
 
@@ -387,7 +387,7 @@
                         <strong>High cholesterol</strong> coronary arteries mein plaque buildup ka karan banata hai jo ultimately heart attack lead karta hai. Total cholesterol 200 mg/dL se kam hona chahiye. LDL (bad) cholesterol 100 mg/dL se kam aur HDL (good) cholesterol 40+ mg/dL for men aur 50+ mg/dL for women hona chahiye.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Cholesterol control ke liye fiber-rich foods khaein jaise oats, barley, fruits, aur vegetables. Saturated fats aur trans fats se bachein. Omega-3 supplements ya fish intake badhayein. Exercise pravartit karein aur weight control mein rakhin. <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">Lipid profile test</a> annually karwayein.
+                        Cholesterol control ke liye fiber-rich foods khaein jaise oats, barley, fruits, aur vegetables. Saturated fats aur trans fats se bachein. Omega-3 supplements ya fish intake badhayein. Exercise pravartit karein aur weight control mein rakhin. <a href="/contact.php" class="text-primary-600 hover:underline">Lipid profile test</a> annually karwayein.
                     </p>
                 </div>
 
@@ -398,7 +398,7 @@
                         <strong>Diabetes</strong> heart attack ka risk 2-4 times badha deta hai. High blood sugar levels blood vessels ko damage karte hain aur cholesterol deposits ko badhate hain. Diabetic patients ko heart attack ka higher risk hota hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Diabetes control ke liye healthy diet lein, regular exercise karein, medicines regularly lein, aur blood sugar levels regularly monitor karein. HbA1c test 3 months mein ek baar karwayein jo average blood sugar level show karta hai. <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline">Endocrinology aur cardiology experts</a> se consult karein.
+                        Diabetes control ke liye healthy diet lein, regular exercise karein, medicines regularly lein, aur blood sugar levels regularly monitor karein. HbA1c test 3 months mein ek baar karwayein jo average blood sugar level show karta hai. <a href="/doctor-profile.php" class="text-primary-600 hover:underline">Endocrinology aur cardiology experts</a> se consult karein.
                     </p>
                 </div>
 
@@ -409,7 +409,7 @@
                         <strong>Obesity</strong> heart attack ka significant risk factor hai. Extra weight se heart par pressure padta hai, blood pressure badhta hai, cholesterol levels disturb hote hain, aur diabetes risk badh jata hai. Body Mass Index (BMI) 18.5-24.9 ke beech hona chahiye.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Weight management ke liye calories intake control karein, regular exercise karein, processed foods se bachein, aur portion sizes manage karein. Slow steady weight loss (0.5-1 kg/week) healthy aur sustainable hai. Crash diets se bachein jo heart ke liye harmful ho sakte hain. <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein nutritionists available hain jo personalized diet plan de sakte hain.
+                        Weight management ke liye calories intake control karein, regular exercise karein, processed foods se bachein, aur portion sizes manage karein. Slow steady weight loss (0.5-1 kg/week) healthy aur sustainable hai. Crash diets se bachein jo heart ke liye harmful ho sakte hain. <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein nutritionists available hain jo personalized diet plan de sakte hain.
                     </p>
                 </div>
 
@@ -431,7 +431,7 @@
                         <strong>Chronic stress</strong> heart attack ka major risk factor hai. Stress se cortisol aur adrenaline hormones release hote hain jo blood pressure badhate hain, inflammation badhate hain, aur heart par extra pressure dalte hain. Long-term stress unhealthy habits trigger karta hai jaise overeating, smoking, ya alcohol.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Stress management ke liye meditation, yoga, deep breathing exercises karein. Hobbies develop karein jo aapko relaxation dein. Regular exercise stress hormones reduce karta hai. Adequate sleep lein aur work-life balance maintain karein. Social connections build karein. <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Neuropsychology services</a> available hain jo stress management mein madad kar sakti hain.
+                        Stress management ke liye meditation, yoga, deep breathing exercises karein. Hobbies develop karein jo aapko relaxation dein. Regular exercise stress hormones reduce karta hai. Adequate sleep lein aur work-life balance maintain karein. Social connections build karein. <a href="/neuropathy-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Neuropsychology services</a> available hain jo stress management mein madad kar sakti hain.
                     </p>
                 </div>
 
@@ -442,7 +442,7 @@
                         <strong>Sleep deprivation</strong> heart disease risk badhata hai. Adults ko 7-9 hours quality sleep chahiye. Poor sleep blood pressure badhata hai, inflammation increase karta hai, aur hormones disrupt karta hai jo appetite aur metabolism control karte hain.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Sleep hygiene improve karein - fixed bedtime maintain karein, electronic devices se pehle avoid karein, dark aur cool room mein sleep karein. Caffeine aur heavy meals se dinner ke baad bachein. Regular sleep schedule weekends par bhi follow karein. <a href="<?php echo $base_url; ?>movement-disorders-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Sleep disorders treatment</a> available hai jo needed ho to.
+                        Sleep hygiene improve karein - fixed bedtime maintain karein, electronic devices se pehle avoid karein, dark aur cool room mein sleep karein. Caffeine aur heavy meals se dinner ke baad bachein. Regular sleep schedule weekends par bhi follow karein. <a href="/movement-disorders-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Sleep disorders treatment</a> available hai jo needed ho to.
                     </p>
                 </div>
 
@@ -453,7 +453,7 @@
                         <strong>Regular medical checkups</strong> heart disease ko early detect karne mein madad karte hain. 40+ age ke baad annual health checkup zaroor karwayein. Isme blood pressure, cholesterol, blood sugar, ECG, aur weight measurements include hone chahiye.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi</a> mein comprehensive health checkup packages available hain jo heart health assessment include karte hain. Early detection se prevention asaan ho jata hai. Family history of heart disease hai to checkups aur frequently karwayein.
+                        <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi</a> mein comprehensive health checkup packages available hain jo heart health assessment include karte hain. Early detection se prevention asaan ho jata hai. Family history of heart disease hai to checkups aur frequently karwayein.
                     </p>
                 </div>
 
@@ -471,7 +471,7 @@
                         <li>Extreme fatigue, especially women mein</li>
                     </ul>
                     <p class="text-gray-700">
-                        Ye symptoms women mein alag ho sakte hain - fatigue, nausea, back pain zyada common hai women mein. Symptoms ko kabhi ignore na karein. Turant medical help lo. <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Emergency services</a> 24/7 available hain.
+                        Ye symptoms women mein alag ho sakte hain - fatigue, nausea, back pain zyada common hai women mein. Symptoms ko kabhi ignore na karein. Turant medical help lo. <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Emergency services</a> 24/7 available hain.
                     </p>
                 </div>
 
@@ -482,7 +482,7 @@
                         <strong>Family history</strong> heart disease risk ko significantly impact karta hai. Agar aapke parents ya siblings ko heart disease, heart attack, ya stroke hua hai, to aapka risk bhi higher hai. Yeh controllable nahi hai, lekin aap iske baare mein jaan sakte hain aur preventive measures more seriously le sakte hain.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Family medical history apne doctor ko batayein. Aapko more frequent checkups aur earlier screening ki zaroorat ho sakti hai. Genetic counseling consider karein agar family history severe hai. <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline">RAJ Hospital</a> ke genetic counselors se consult karein.
+                        Family medical history apne doctor ko batayein. Aapko more frequent checkups aur earlier screening ki zaroorat ho sakti hai. Genetic counseling consider karein agar family history severe hai. <a href="/doctor-profile.php" class="text-primary-600 hover:underline">RAJ Hospital</a> ke genetic counselors se consult karein.
                     </p>
                 </div>
 
@@ -516,7 +516,7 @@
                         </ul>
                     </div>
                     <p class="text-gray-700 mt-2">
-                        In numbers ko annually check karwayin aur doctor ke saath results discuss karein. <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein ye saari tests comprehensive health packages mein available hain.
+                        In numbers ko annually check karwayin aur doctor ke saath results discuss karein. <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein ye saari tests comprehensive health packages mein available hain.
                     </p>
                 </div>
 
@@ -539,7 +539,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi</a> mein 24/7 cardiac emergency services available hain jo golden hour treatment protocols follow karte hain. Advanced catheterization lab aur experienced cardiology team ready hai.
+                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi</a> mein 24/7 cardiac emergency services available hain jo golden hour treatment protocols follow karte hain. Advanced catheterization lab aur experienced cardiology team ready hai.
                 </p>
 
                 <!-- Section 5: Myths vs Reality -->
@@ -552,7 +552,7 @@
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-gray-800">MYTH: "Mere heart mein dard nahi hai, to heart healthy hai"</h4>
-                        <p class="text-gray-700"><strong>REALITY:</strong> Heart disease often silent hota hai - koi symptoms dikhte nahi jab tak major event na ho. High blood pressure, high cholesterol ko normally symptoms nahi hote. <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">Regular checkups</a> se hi pata chalta hai.</p>
+                        <p class="text-gray-700"><strong>REALITY:</strong> Heart disease often silent hota hai - koi symptoms dikhte nahi jab tak major event na ho. High blood pressure, high cholesterol ko normally symptoms nahi hote. <a href="/contact.php" class="text-primary-600 hover:underline">Regular checkups</a> se hi pata chalta hai.</p>
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-gray-800">MYTH: "Exercise se heart ko nuksan ho sakta hai"</h4>
@@ -582,7 +582,7 @@
                 </ul>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi ke experienced cardiologists</a> se appointment book karein. <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">Contact RAJ Hospital</a> for more information.
+                    <a href="/doctor-profile.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi ke experienced cardiologists</a> se appointment book karein. <a href="/contact.php" class="text-primary-600 hover:underline">Contact RAJ Hospital</a> for more information.
                 </p>
 
                 <!-- Section 7: RAJ Hospital Services -->
@@ -595,7 +595,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">24/7 Emergency Cardiac Care</h4>
-                        <p class="text-sm text-gray-600">Round-the-clock emergency services for heart attacks and strokes. Our <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">emergency team</a> is trained to handle cardiac emergencies within golden hour.</p>
+                        <p class="text-sm text-gray-600">Round-the-clock emergency services for heart attacks and strokes. Our <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">emergency team</a> is trained to handle cardiac emergencies within golden hour.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Advanced Diagnostic Facilities</h4>
@@ -603,11 +603,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Experienced Cardiologists & Neurologists</h4>
-                        <p class="text-sm text-gray-600">Team of highly qualified specialists with years of experience. <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline">Meet our doctors</a>.</p>
+                        <p class="text-sm text-gray-600">Team of highly qualified specialists with years of experience. <a href="/doctor-profile.php" class="text-primary-600 hover:underline">Meet our doctors</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Comprehensive Health Checkup Packages</h4>
-                        <p class="text-sm text-gray-600">Affordable packages that include all heart health parameters - blood pressure, cholesterol, sugar, ECG, and more. <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">Book your checkup</a> today.</p>
+                        <p class="text-sm text-gray-600">Affordable packages that include all heart health parameters - blood pressure, cholesterol, sugar, ECG, and more. <a href="/contact.php" class="text-primary-600 hover:underline">Book your checkup</a> today.</p>
                     </div>
                 </div>
 
@@ -615,29 +615,29 @@
                 <div class="bg-gradient-to-r from-primary-600 to-red-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Heart Attack Prevention Mein Start Karein Aaj Se</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi mein comprehensive cardiac checkup aur expert guidance available hai. Aapki heart health hamari priority hai.</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Cardiac Checkup Now</a>
+                    <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Cardiac Checkup Now</a>
                 </div>
 
                 <!-- Related Conditions -->
                 <h2 class="raj-h2-secondary">Related Health Topics</h2>
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
-                    <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-primary-600">Stroke Treatment</div>
                     </a>
-                    <a href="<?php echo $base_url; ?>high-blood-pressure-symptoms-in-hindi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-primary-600">High BP Management</div>
                     </a>
-                    <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/neuropathy-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-primary-600">Neuropathy Care</div>
                     </a>
-                    <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/head-injury-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-primary-600">Head Injury Treatment</div>
                     </a>
-                    <a href="<?php echo $base_url; ?>movement-disorders-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/movement-disorders-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-primary-600">Movement Disorders</div>
                     </a>
-                    <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-primary-600">Back Pain Treatment</div>
                     </a>
                 </div>

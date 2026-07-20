@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pet Me Right Side Dard Hona | पेट के Right Side में दर्द के कारण और इलाज - RAJ Hospital</title>
     <meta name="description" content="Pet me right side dard hona ke karan in Hindi जानें। पेट के राइट साइड में दर्द के 15+ कारण, घरेलू उपाय, कब डॉक्टर से मिलें और prevention tips।">
     <meta name="keywords" content="pet me right side dard hona, pet ke right side me dard, right side stomach pain, पेट के राइट साइड में दर्द, pet ke right side dard hona in hindi, stomach ke right side pain">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/pet-me-right-side-dard-hona.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/pet-me-right-side-dard-hona/">
 
     <meta property="og:title" content="Pet Me Right Side Dard Hona | पेट के Right Side में दर्द">
     <meta property="og:description" content="पेट के राइट साइड में दर्द के कारण, symptoms और घरेलू उपाय। जानें कब डॉक्टर से मिलना चाहिए।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/pet-me-right-side-dard-hona.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/pet-me-right-side-dard-hona/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/pet-me-right-side-dard-hona.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Pet Me Right Side Dard Hona | पेट के Right Side में दर्द के कारण और इलाज - RAJ Hospital",
         "description": "Pet me right side dard hona ke karan in Hindi जानें। पेट के राइट साइड में दर्द के 15+ कारण, घरेलू उपाय, कब डॉक्टर से मिलें और prevention tips।",
-        "url": "https://rajhospitals.com/blog/pet-me-right-side-dard-hona.php",
+        "url": "https://rajhospitals.com/blog/pet-me-right-side-dard-hona/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pet-me-right-side-dard-hona.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/pet-me-right-side-dard-hona.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pet-me-right-side-dard-hona/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Pet Me Right Side Dard Hona</span>
         </nav>
@@ -211,7 +211,7 @@
     <article class="max-w-4xl mx-auto px-4 pb-12">
         <!-- Featured Image -->
         <div class="rounded-xl overflow-hidden mb-8">
-            <img src="<?php echo $base_url; ?>blog/assets/img/featured/pet-me-right-side-dard-hona.png"
+            <img src="/blog/assets/img/featured/pet-me-right-side-dard-hona.png"
                  alt="Pet Me Right Side Dard Hona - पेट के राइट साइड में दर्द"
                  class="w-full h-64 md:h-96 object-cover">
         </div>
@@ -611,7 +611,7 @@
             <div class="bg-secondary-600 text-white p-8 rounded-xl text-center">
                 <h2 class="text-2xl font-bold mb-4">Pet Dard Ki जांच कराना चाहते हैं?</h2>
                 <p class="mb-6">RAJ Hospital में अनुभवी डॉक्टरों से मिलें और सही इलाज पाएं।</p>
-                <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                <a href="/contact.php" class="inline-block bg-white text-secondary-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                     Appointment Book करें
                 </a>
             </div>

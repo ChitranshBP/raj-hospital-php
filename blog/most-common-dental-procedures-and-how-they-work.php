@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>दांतों के सबसे आम प्रक्रियाएं और उनका काम | RAJ Hospital Ranchi Dental</title>
     <meta name="description" content="दांतों की सबसे आम dental procedures जैसे root canal, extraction, braces, whitening और implants के बारे में जानें। क्या expect करना चाहिए।">
     <meta name="keywords" content="dental procedures, दांतों का इलाज, root canal, tooth extraction, dental implant, braces, teeth whitening, dentistry">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/most-common-dental-procedures-and-how-they-work.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/most-common-dental-procedures-and-how-they-work/">
 
     <meta property="og:title" content="दांतों के सबसे आम प्रक्रियाएं और उनका काम">
     <meta property="og:description" content="दांतों की सबसे आम dental procedures के बारे में जानें।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/most-common-dental-procedures-and-how-they-work.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/most-common-dental-procedures-and-how-they-work/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/most-common-dental-procedures-and-how-they-work.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "दांतों के सबसे आम प्रक्रियाएं और उनका काम | RAJ Hospital Ranchi Dental",
         "description": "दांतों की सबसे आम dental procedures जैसे root canal, extraction, braces, whitening और implants के बारे में जानें। क्या expect करना चाहिए।",
-        "url": "https://rajhospitals.com/blog/most-common-dental-procedures-and-how-they-work.php",
+        "url": "https://rajhospitals.com/blog/most-common-dental-procedures-and-how-they-work/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/most-common-dental-procedures-and-how-they-work.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/most-common-dental-procedures-and-how-they-work.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/most-common-dental-procedures-and-how-they-work/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Dental Procedures - Complete Guide</span>
         </nav>
@@ -432,7 +432,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Dental Checkup की जरूरत है?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced dentists और modern dental equipment available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->
@@ -470,7 +470,6 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/revolutionary-50-cent-dna-sensor.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Revolutionary 50 Cent DNA Sensor - RAJ Hospital Science Update</a></li>
                         <li><a href="/blog/garbhavastha-me-kya-kaam-nahi-karna-chahiye.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भावस्था में क्या काम नहीं करना चाहिए</a></li>
                         <li><a href="/blog/low-vitamin-d-symptoms-female.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज</a></li>
                         <li><a href="/blog/pair-me-dard-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द - कारण, घरेलू उपाय और इलाज</a></li>

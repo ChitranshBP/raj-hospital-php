@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Uric Acid Symptom in Hindi - यूरिक एसिड के लक्षण और इलाज | RAJ Hospital Ranchi</title>
@@ -157,7 +157,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -165,9 +165,9 @@
 
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-primary-600">Home</a>
+            <a href="/" class="hover:text-primary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-primary-600">Blog</a>
+            <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Uric Acid Symptom</span>
         </nav>
@@ -191,7 +191,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस blog post में हम <strong>uric acid symptom in hindi</strong> (यूरिक एसिड के लक्षण), कारण, और <a href="<?php echo $base_url; ?>uric-acid-symptom-in-hindi.php" class="text-primary-600 hover:underline font-semibold">uric acid कम करने के उपाय</a> के बारे में विस्तार से जानेंगे। RAJ Hospital Ranchi में इसका effective treatment available है।
+                    इस blog post में हम <strong>uric acid symptom in hindi</strong> (यूरिक एसिड के लक्षण), कारण, और <a href="/blog/uric-acid-symptom-in-hindi/" class="text-primary-600 hover:underline font-semibold">uric acid कम करने के उपाय</a> के बारे में विस्तार से जानेंगे। RAJ Hospital Ranchi में इसका effective treatment available है।
                 </p>
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">
@@ -368,7 +368,7 @@
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">यूरिक एसिड का Expert इलाज</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में uric acid test, gout treatment, और kidney stone management available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
+                    <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
                 <h2 class="raj-h2-secondary">FAQs</h2>

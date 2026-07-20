@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Joint Pain in Winter Causes and Remedies - सर्दियों में जोड़ों में दर्द के कारण और उपाय | RAJ Hospital Ranchi</title>
@@ -172,7 +172,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -180,9 +180,9 @@
 
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-primary-600">Home</a>
+            <a href="/" class="hover:text-primary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-primary-600">Blog</a>
+            <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Joint Pain in Winter</span>
         </nav>
@@ -243,7 +243,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">6. Inactivity</h4>
-                        <p class="text-sm text-gray-600">Cold weather में लोग कम active होते हैं। यह muscles को weak बनाता है और joints पर pressure बढ़ाता है। <a href="<?php echo $base_url; ?>joint-pain-treatment-ranchi.php" class="text-primary-600 hover:underline">Joint pain treatment</a> में exercise important है।</p>
+                        <p class="text-sm text-gray-600">Cold weather में लोग कम active होते हैं। यह muscles को weak बनाता है और joints पर pressure बढ़ाता है। <a href="/blog/joint-pain-treatment-ranchi/" class="text-primary-600 hover:underline">Joint pain treatment</a> में exercise important है।</p>
                     </div>
                 </div>
 
@@ -375,7 +375,7 @@
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">जोड़ों के दर्द में Expert इलाज</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced orthopedists द्वारा joint pain diagnosis और treatment उपलब्ध है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
+                    <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
                 <h2 class="raj-h2-secondary">FAQs - अक्सर पूछे जाने वाले सवाल</h2>

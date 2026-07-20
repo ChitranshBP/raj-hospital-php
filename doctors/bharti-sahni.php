@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Bharti Sahni – Haematology & Bone Marrow Transplant in Ranchi">
     <meta property="og:description" content="Dr. Bharti Sahni is a Haematologist & Bone Marrow Transplant Specialist at Raj Hospital Ranchi. Expert in Leukaemia, Lymphoma, Myeloma, Thalassemia & Blood Disorders.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/bharti-sahni">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/bharti-sahni">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -95,7 +95,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -106,7 +106,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/bharti-sahni"
+    "url": "https://rajhospitals.com/doctors/bharti-sahni"
 }
 </script>
 

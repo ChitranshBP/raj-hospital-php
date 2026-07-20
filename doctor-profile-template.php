@@ -38,7 +38,7 @@ $ogType = 'profile';
 
 // Canonical URL
 $slug = basename($_SERVER['SCRIPT_NAME'], '.php');
-$canonicalUrl = 'https://www.rajhospitalranchi.com/doctors/' . $slug;
+$canonicalUrl = 'https://rajhospitals.com/doctors/' . $slug;
 
 include($base_url . 'header.php');
 ?>
@@ -53,7 +53,7 @@ include($base_url . 'header.php');
     "medicalSpecialty": "<?php echo htmlspecialchars($specialty); ?>",
     "qualifications": "<?php echo htmlspecialchars($qualifications); ?>",
     <?php if (!empty($doctor['image'])): ?>
-    "image": "https://www.rajhospitalranchi.com/<?php echo htmlspecialchars(ltrim(str_replace('../', '', $doctor['image']), '/')); ?>",
+    "image": "https://rajhospitals.com/<?php echo htmlspecialchars(ltrim(str_replace('../', '', $doctor['image']), '/')); ?>",
     <?php endif; ?>
     "worksFor": {
         "@type": "Hospital",
@@ -67,7 +67,7 @@ include($base_url . 'header.php');
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",

@@ -4,20 +4,20 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Heart Attack vs Cardiac Arrest — What Is the Difference? | RAJ Hospital Ranchi</title>
     <meta name="description" content="Heart attack and cardiac arrest are NOT the same. Cardiologists at RAJ Hospital Ranchi explain the difference, the link between the two, and the exact emergency response that saves lives.">
     <meta name="keywords" content="difference between heart attack and cardiac arrest, heart attack vs cardiac arrest, sudden cardiac arrest, CPR, AED, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest.php">
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="canonical" href="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Heart Attack vs Cardiac Arrest — What Is the Difference?">
     <meta property="og:description" content="Cardiologist-explained guide on the difference between heart attack and cardiac arrest.">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png">
     <meta property="og:locale" content="hi_IN">
 
@@ -47,7 +47,7 @@
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-08",
         "dateModified": "2026-06-08",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest.php"
+        "mainEntityOfPage": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/"
     }
     </script>
 
@@ -71,7 +71,7 @@
         "@type": "MedicalWebPage",
         "name": "Heart Attack vs Cardiac Arrest — What Is the Difference?",
         "description": "A cardiologist-reviewed, citation-ready comparison of heart attack (myocardial infarction) and cardiac arrest (sudden cardiac arrest), with emergency response steps.",
-        "url": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest.php",
+        "url": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "datePublished": "2026-06-08",
@@ -142,9 +142,9 @@
 
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Heart Attack vs Cardiac Arrest</span>
         </nav>
@@ -153,7 +153,7 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png" alt="Heart Attack vs Cardiac Arrest - Doctor Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png" alt="Heart Attack vs Cardiac Arrest - Doctor Guide" class="w-full h-full object-contain">
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">

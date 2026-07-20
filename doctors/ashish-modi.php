@@ -15,7 +15,7 @@ $page_title = 'Dr. Ashish Kumar Modi – Minimal Access Surgery in Ranchi';
     <meta property="og:title" content="Dr. Ashish Kumar Modi – Minimal Access Surgery in Ranchi">
     <meta property="og:description" content="Dr. Ashish Kumar Modi is an expert Minimal Access Surgeon at Raj Hospital Ranchi with 12+ years experience in laparoscopic surgery and diagnostic endoscopy.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ashish-modi">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/ashish-modi">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -76,7 +76,7 @@ $page_title = 'Dr. Ashish Kumar Modi – Minimal Access Surgery in Ranchi';
     "description": "Dr. Ashish Modi is an expert Minimal Access Surgeon at Raj Hospital, Ranchi, with over 12 years of experience in laparoscopic and minimally invasive procedures. He specializes in advanced laparoscopic surgery, hernia repair, and diagnostic endoscopy.",
     "medicalSpecialty": "Minimal Access Surgery",
     "qualifications": "MBBS, MS (General Surgery), FMAS",
-    "image": "https://www.rajhospitalranchi.com/assets/new-doctors-side/Dr. Ashish Kumar Modi-new.png",
+    "image": "https://rajhospitals.com/assets/new-doctors-side/Dr. Ashish Kumar Modi-new.png",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -89,7 +89,7 @@ $page_title = 'Dr. Ashish Kumar Modi – Minimal Access Surgery in Ranchi';
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -100,7 +100,7 @@ $page_title = 'Dr. Ashish Kumar Modi – Minimal Access Surgery in Ranchi';
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/ashish-modi",
+    "url": "https://rajhospitals.com/doctors/ashish-modi",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

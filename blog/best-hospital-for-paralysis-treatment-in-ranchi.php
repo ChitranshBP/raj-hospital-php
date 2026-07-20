@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Best Hospital for Paralysis Treatment in Ranchi | RAJ Hospital</title>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Paralysis Treatment in Ranchi</span>
         </nav>
@@ -226,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    In this comprehensive guide, we will explore everything you need to know about <strong>paralysis treatment options</strong>, how to choose the best hospital, what treatments are available in Ranchi, and the rehabilitation process. At <a href="<?php echo $base_url; ?>index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>, we provide world-class <strong>neurology and rehabilitation services</strong> designed to help patients regain function and independence after paralysis.
+                    In this comprehensive guide, we will explore everything you need to know about <strong>paralysis treatment options</strong>, how to choose the best hospital, what treatments are available in Ranchi, and the rehabilitation process. At <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>, we provide world-class <strong>neurology and rehabilitation services</strong> designed to help patients regain function and independence after paralysis.
                 </p>
 
                 <!-- Section 1: What is Paralysis -->
@@ -237,7 +237,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Understanding the type and cause of paralysis is essential for determining the appropriate treatment approach. Our <a href="<?php echo $base_url; ?>find-a-doctor.php" class="text-secondary-600 hover:underline">neurology specialists</a> at RAJ Hospital are experienced in diagnosing various types of paralysis and developing personalized treatment plans.
+                    Understanding the type and cause of paralysis is essential for determining the appropriate treatment approach. Our <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">neurology specialists</a> at RAJ Hospital are experienced in diagnosing various types of paralysis and developing personalized treatment plans.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -259,7 +259,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Paraplegia (Lower Body)</h4>
-                        <p class="text-sm text-gray-600">Affects both legs and sometimes the lower torso. Typically caused by <strong>spinal cord injury</strong> in the thoracic or lumbar region. Learn more about our <a href="<?php echo $base_url; ?>spinal-cord-injury-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">spinal cord injury treatment</a>.</p>
+                        <p class="text-sm text-gray-600">Affects both legs and sometimes the lower torso. Typically caused by <strong>spinal cord injury</strong> in the thoracic or lumbar region. Learn more about our <a href="/spinal-cord-injury-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">spinal cord injury treatment</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Quadriplegia (All Four Limbs)</h4>
@@ -281,19 +281,19 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">1. Stroke (Most Common Cause)</h4>
-                        <p class="text-sm text-gray-600">Ischemic or hemorrhagic stroke interrupts blood flow to the brain, causing brain cell death and paralysis. Immediate treatment is critical. At RAJ Hospital, our <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">stroke treatment program</a> offers 24/7 emergency care.</p>
+                        <p class="text-sm text-gray-600">Ischemic or hemorrhagic stroke interrupts blood flow to the brain, causing brain cell death and paralysis. Immediate treatment is critical. At RAJ Hospital, our <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">stroke treatment program</a> offers 24/7 emergency care.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Spinal Cord Injury</h4>
-                        <p class="text-sm text-gray-600">Trauma to the spine can sever or damage nerve pathways, leading to paralysis below the injury level. Our <a href="<?php echo $base_url; ?>spinal-cord-injury-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">spinal cord injury specialists</a> provide advanced treatment.</p>
+                        <p class="text-sm text-gray-600">Trauma to the spine can sever or damage nerve pathways, leading to paralysis below the injury level. Our <a href="/spinal-cord-injury-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">spinal cord injury specialists</a> provide advanced treatment.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Traumatic Brain Injury</h4>
-                        <p class="text-sm text-gray-600">Head injuries from accidents can damage brain areas controlling movement. Explore our <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">head injury treatment</a> services.</p>
+                        <p class="text-sm text-gray-600">Head injuries from accidents can damage brain areas controlling movement. Explore our <a href="/head-injury-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">head injury treatment</a> services.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Multiple Sclerosis</h4>
-                        <p class="text-sm text-gray-600">This autoimmune disease attacks the protective myelin sheath of nerves, causing paralysis in some cases. Learn about our <a href="<?php echo $base_url; ?>multiple-sclerosis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">multiple sclerosis treatment</a>.</p>
+                        <p class="text-sm text-gray-600">This autoimmune disease attacks the protective myelin sheath of nerves, causing paralysis in some cases. Learn about our <a href="/multiple-sclerosis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">multiple sclerosis treatment</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. Cerebral Palsy</h4>
@@ -329,7 +329,7 @@
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li>Decompression surgery for spinal cord injury</li>
-                    <li><a href="<?php echo $base_url; ?>brain-tumor-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">Brain tumor resection</a></li>
+                    <li><a href="/brain-tumor-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">Brain tumor resection</a></li>
                     <li>Ventriculostomy for hydrocephalus</li>
                     <li>Nerve decompression surgeries</li>
                 </ul>
@@ -427,7 +427,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Experienced Neurology Team</h4>
-                        <p class="text-sm text-gray-600">Our neurologists have treated thousands of stroke and paralysis cases with high success rates. <a href="<?php echo $base_url; ?>find-a-doctor.php" class="text-secondary-600 hover:underline">Meet our specialists</a>.</p>
+                        <p class="text-sm text-gray-600">Our neurologists have treated thousands of stroke and paralysis cases with high success rates. <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">Meet our specialists</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Advanced Infrastructure</h4>
@@ -455,22 +455,22 @@
                 </p>
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
-                    <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-secondary-600">Stroke Treatment</div>
                     </a>
-                    <a href="<?php echo $base_url; ?>parkinsons-disease-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/parkinsons-disease-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-secondary-600">Parkinson's Disease</div>
                     </a>
-                    <a href="<?php echo $base_url; ?>epilepsy-and-seizures-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/epilepsy-and-seizures-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-secondary-600">Epilepsy</div>
                     </a>
-                    <a href="<?php echo $base_url; ?>multiple-sclerosis-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/multiple-sclerosis-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-secondary-600">Multiple Sclerosis</div>
                     </a>
-                    <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/neuropathy-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-secondary-600">Neuropathy</div>
                     </a>
-                    <a href="<?php echo $base_url; ?>migraine-and-headaches-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-secondary-600">Migraine</div>
                     </a>
                 </div>
@@ -479,7 +479,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need Paralysis Treatment in Ranchi?</h3>
                     <p class="opacity-90 mb-4">Contact RAJ Hospital Ranchi for expert neurology care and rehabilitation services.</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->
@@ -492,7 +492,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">What is the golden hour for stroke treatment?</h4>
-                        <p class="text-gray-700">The first 4.5 hours after a stroke are crucial. Within this time window, clot-busting medications (tPA) can be administered. Our <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">stroke emergency team</a> is trained to act quickly.</p>
+                        <p class="text-gray-700">The first 4.5 hours after a stroke are crucial. Within this time window, clot-busting medications (tPA) can be administered. Our <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">stroke emergency team</a> is trained to act quickly.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">How long does paralysis rehabilitation take?</h4>

@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Ved Prakash Verma – Urology in Ranchi">
     <meta property="og:description" content="Dr. Ved Prakash Verma is a senior Urologist at Raj Hospital, Ranchi with 18+ years in advanced urological surgery & kidney stone management. Book now.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ved-prakash">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/ved-prakash">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. Ved Prakash is a senior Urologist at Raj Hospital, Ranchi, with over 18 years of experience in advanced urological surgery. He specializes in kidney stone management, prostate disorders, urinary tract conditions, and minimally invasive urological procedures.",
     "medicalSpecialty": "Urology",
     "qualifications": "MBBS, MS (General Surgery), MCh (Urology)",
-    "image": "https://www.rajhospitalranchi.com/assets/doctor-latest/ved prakash.webp",
+    "image": "https://rajhospitals.com/assets/doctor-latest/ved prakash.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/ved-prakash",
+    "url": "https://rajhospitals.com/doctors/ved-prakash",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

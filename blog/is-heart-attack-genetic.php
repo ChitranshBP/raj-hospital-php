@@ -4,20 +4,20 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Is Heart Attack Genetic? Family Risk, Inherited Causes & Prevention | RAJ Hospital Ranchi</title>
     <meta name="description" content="Is heart attack genetic? Cardiologists at RAJ Hospital Ranchi explain family risk, inherited conditions like FH and Lp(a), genetic testing, and how to protect yourself if heart disease runs in your family.">
     <meta name="keywords" content="is heart attack genetic, hereditary heart disease, family history heart attack, familial hypercholesterolemia, Lp(a), genetic testing heart, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/is-heart-attack-genetic.php">
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="canonical" href="https://rajhospitals.com/blog/is-heart-attack-genetic/">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Is Heart Attack Genetic? Family Risk, Inherited Causes & Prevention">
     <meta property="og:description" content="Cardiologist-reviewed guide on family risk of heart attack, genetic testing, and prevention.">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/is-heart-attack-genetic.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/is-heart-attack-genetic/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/is-heart-attack-genetic.png">
     <meta property="og:locale" content="hi_IN">
 
@@ -47,7 +47,7 @@
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-12",
         "dateModified": "2026-06-12",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/is-heart-attack-genetic.php"
+        "mainEntityOfPage": "https://rajhospitals.com/blog/is-heart-attack-genetic/"
     }
     </script>
 
@@ -71,7 +71,7 @@
         "@type": "MedicalWebPage",
         "name": "Is Heart Attack Genetic?",
         "description": "A cardiologist-reviewed guide to genetic and familial risk of heart attack, including familial hypercholesterolemia, Lp(a), and prevention strategies.",
-        "url": "https://rajhospitals.com/blog/is-heart-attack-genetic.php",
+        "url": "https://rajhospitals.com/blog/is-heart-attack-genetic/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "datePublished": "2026-06-12",
@@ -142,9 +142,9 @@
 
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Is Heart Attack Genetic?</span>
         </nav>
@@ -153,7 +153,7 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/is-heart-attack-genetic.png" alt="Is Heart Attack Genetic - Doctor Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/is-heart-attack-genetic.png" alt="Is Heart Attack Genetic - Doctor Guide" class="w-full h-full object-contain">
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">

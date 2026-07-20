@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण | RAJ Hospital Ranchi</title>
     <meta name="description" content="Period Late Hone Ke Karan in Hindi: पीरियड लेट होने के कारण क्या हैं? जानिए periods delay होने के 15+ reasons, पीरियड miss होने के reasons और कब doctor से मिलना चाहिए।">
     <meta name="keywords" content="period late hone ke karan, periods delay reasons in hindi, period kyu late hota hai, period miss reason in hindi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/period-late-hone-ke-karan.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/period-late-hone-ke-karan/">
 
     <meta property="og:title" content="Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण">
     <meta property="og:description" content="Period Late Hone Ke Karan in Hindi: पीरियड लेट होने के कारण क्या हैं? जानिए periods delay होने के reasons और कब doctor से मिलना चाहिए।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/period-late-hone-ke-karan.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/period-late-hone-ke-karan/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/period-late-hone-ke-karan.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण | RAJ Hospital Ranchi",
         "description": "Period Late Hone Ke Karan in Hindi: पीरियड लेट होने के कारण क्या हैं? जानिए periods delay होने के 15+ reasons, पीरियड miss होने के reasons और कब doctor से मिलना चाहिए।",
-        "url": "https://rajhospitals.com/blog/period-late-hone-ke-karan.php",
+        "url": "https://rajhospitals.com/blog/period-late-hone-ke-karan/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/period-late-hone-ke-karan.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-06-01",
         "dateModified": "2026-06-01",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/period-late-hone-ke-karan.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/period-late-hone-ke-karan/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Period Late Hone Ke Karan</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/period-late-hone-ke-karan.png" alt="Period Late Hone Ke Karan - पीरियड लेट होने के कारण" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/period-late-hone-ke-karan.png" alt="Period Late Hone Ke Karan - पीरियड लेट होने के कारण" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->

@@ -1,10 +1,10 @@
-<?php $base_url = '../../'; ?>
+<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="hi">
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital</title>
@@ -319,7 +319,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -328,9 +328,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-teal-600">Home</a>
+            <a href="/" class="hover:text-teal-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-teal-600">Blog</a>
+            <a href="/blog/" class="hover:text-teal-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">पुरुषों में HIV के लक्षण 1 साल बाद</span>
         </nav>
@@ -352,7 +352,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>HIV (Human Immunodeficiency Virus)</strong> infection के बाद 1 साल बाद क्या होता है, यह जानना बहुत important है। बहुत से लोग initial infection के symptoms को ignore कर देते हैं और 1 साल बाद उन्हें एहसास होता है कि शरीर में कुछ गड़बड़ है। यह blog post <strong>पुरुषों में HIV के लक्षण 1 साल बाद</strong> के बारे में विस्तृत जानकारी देगा ताकि आप समय पर doctor से मिल सकें और <a href="<?php echo $base_url; ?>contact.php" class="text-teal-600 hover:underline">appropriate treatment</a> शुरू कर सकें।
+                    <strong>HIV (Human Immunodeficiency Virus)</strong> infection के बाद 1 साल बाद क्या होता है, यह जानना बहुत important है। बहुत से लोग initial infection के symptoms को ignore कर देते हैं और 1 साल बाद उन्हें एहसास होता है कि शरीर में कुछ गड़बड़ है। यह blog post <strong>पुरुषों में HIV के लक्षण 1 साल बाद</strong> के बारे में विस्तृत जानकारी देगा ताकि आप समय पर doctor से मिल सकें और <a href="/contact.php" class="text-teal-600 hover:underline">appropriate treatment</a> शुरू कर सकें।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -401,7 +401,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">1. Persistent Fatigue (लगातार थकान)</h4>
-                        <p class="text-sm text-gray-600">असाधारण थकान जो rest लेने के बाद भी नहीं जाती। यह anemia, hormonal changes, या HIV-related inflammation का sign हो सकता है। अगर आपको severe fatigue हो रही है, तो अपने <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-teal-600 hover:underline">doctor</a> से जरूर बात करें।</p>
+                        <p class="text-sm text-gray-600">असाधारण थकान जो rest लेने के बाद भी नहीं जाती। यह anemia, hormonal changes, या HIV-related inflammation का sign हो सकता है। अगर आपको severe fatigue हो रही है, तो अपने <a href="/doctor-profile.php" class="text-teal-600 hover:underline">doctor</a> से जरूर बात करें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">2. Weight Loss (वजन घटना)</h4>
@@ -409,11 +409,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">3. Swollen Lymph Nodes (गांठ आना)</h4>
-                        <p class="text-sm text-gray-600">Lymph nodes (especially neck, armpits, और groin) में swelling 1 साल बाद common है। यह immune system की ongoing battle का sign है। यदि swelling 3-4 weeks से अधिक है, तो <a href="<?php echo $base_url; ?>contact.php" class="text-teal-600 hover:underline">medical checkup</a> जरूर करवाएं।</p>
+                        <p class="text-sm text-gray-600">Lymph nodes (especially neck, armpits, और groin) में swelling 1 साल बाद common है। यह immune system की ongoing battle का sign है। यदि swelling 3-4 weeks से अधिक है, तो <a href="/contact.php" class="text-teal-600 hover:underline">medical checkup</a> जरूर करवाएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">4. Recurring Infections (बार-बार infections)</h4>
-                        <p class="text-sm text-gray-600">बार-बार infections जैसे respiratory infections, oral thrush (candidiasis), और skin infections। ये opportunistic infections immune system की weakness का indication हैं। आप हमारी <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-teal-600 hover:underline">infection treatment services</a> के बारे में जान सकते हैं।</p>
+                        <p class="text-sm text-gray-600">बार-बार infections जैसे respiratory infections, oral thrush (candidiasis), और skin infections। ये opportunistic infections immune system की weakness का indication हैं। आप हमारी <a href="/neuropathy-treatment-in-ranchi.php" class="text-teal-600 hover:underline">infection treatment services</a> के बारे में जान सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">5. Skin Problems (त्वचा संबंधी समस्याएं)</h4>
@@ -421,7 +421,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">6. Neurological Symptoms (न्यूरोलॉजिकल लक्षण)</h4>
-                        <p class="text-sm text-gray-600">Memory problems, difficulty concentrating, mood changes, और peripheral neuropathy (hand/feet में numbness या tingling)। HIV directly nervous system को affect कर सकता है। हमारी <a href="<?php echo $base_url; ?>movement-disorders-treatment-in-ranchi.php" class="text-teal-600 hover:underline">neurology team</a> इन symptoms को manage करने में help कर सकती है।</p>
+                        <p class="text-sm text-gray-600">Memory problems, difficulty concentrating, mood changes, और peripheral neuropathy (hand/feet में numbness या tingling)। HIV directly nervous system को affect कर सकता है। हमारी <a href="/movement-disorders-treatment-in-ranchi.php" class="text-teal-600 hover:underline">neurology team</a> इन symptoms को manage करने में help कर सकती है।</p>
                     </div>
                 </div>
 
@@ -467,7 +467,7 @@
                 </ul>
 
                 <p class="text-gray-700 mb-6">
-                    अगर आपको <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-teal-600 hover:underline">stroke</a> या अन्य neurological problems के symptoms हों, तो यह HIV-related भी हो सकते हैं। RAJ Hospital में comprehensive neurological evaluation available है।
+                    अगर आपको <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-teal-600 hover:underline">stroke</a> या अन्य neurological problems के symptoms हों, तो यह HIV-related भी हो सकते हैं। RAJ Hospital में comprehensive neurological evaluation available है।
                 </p>
 
                 <!-- Section 5 -->
@@ -500,7 +500,7 @@
                 <div class="bg-gradient-to-r from-teal-600 to-teal-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको HIV Testing की जरूरत है?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में confidential HIV testing, counseling, और complete treatment available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-teal-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-teal-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- Section 6: FAQs -->

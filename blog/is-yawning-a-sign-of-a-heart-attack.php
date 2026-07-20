@@ -4,20 +4,20 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Is Yawning a Sign of a Heart Attack? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Is yawning a sign of a heart attack? Cardiologists at RAJ Hospital Ranchi explain the link between excessive yawning, vasovagal response, and heart attack — when to worry and when it is harmless.">
     <meta name="keywords" content="is yawning a sign of heart attack, excessive yawning heart, yawning before heart attack, vagus nerve yawn, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php">
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="canonical" href="https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack/">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Is Yawning a Sign of a Heart Attack? Doctor-Explained Guide">
     <meta property="og:description" content="Cardiologist-reviewed guide on excessive yawning and its link to heart attack.">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/is-yawning-a-sign-of-a-heart-attack.png">
     <meta property="og:locale" content="hi_IN">
 
@@ -47,7 +47,7 @@
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-10",
         "dateModified": "2026-06-10",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php"
+        "mainEntityOfPage": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack/"
     }
     </script>
 
@@ -71,7 +71,7 @@
         "@type": "MedicalWebPage",
         "name": "Is Yawning a Sign of a Heart Attack?",
         "description": "Cardiologist-reviewed guide to excessive yawning, the vagus nerve, and when yawning may signal a heart attack or other medical condition.",
-        "url": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack.php",
+        "url": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "datePublished": "2026-06-10",
@@ -142,9 +142,9 @@
 
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Is Yawning a Sign of a Heart Attack?</span>
         </nav>
@@ -153,7 +153,7 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/is-yawning-a-sign-of-a-heart-attack.png" alt="Is Yawning a Sign of a Heart Attack - Doctor Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/is-yawning-a-sign-of-a-heart-attack.png" alt="Is Yawning a Sign of a Heart Attack - Doctor Guide" class="w-full h-full object-contain">
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">

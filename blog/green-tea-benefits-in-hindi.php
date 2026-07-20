@@ -1,10 +1,10 @@
-<?php $base_url = '../../'; ?>
+<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="hi">
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ग्रीन टी के फायदे | Green Tea Benefits in Hindi - Complete Guide | RAJ Hospital</title>
@@ -227,7 +227,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -236,9 +236,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-green-600">Home</a>
+            <a href="/" class="hover:text-green-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-green-600">Blog</a>
+            <a href="/blog/" class="hover:text-green-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">ग्रीन टी के फायदे</span>
         </nav>
@@ -281,7 +281,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-green-600 hover:underline font-semibold">RAJ Hospital के experts</a> के अनुसार, ग्रीन टी में EGCG (Epigallocatechin gallate) नामक एक powerful catechin होता है जो free radicals से लड़ने और cells को damage से बचाने में मदद करता है। यही कारण है कि ग्रीन टी को <strong>antioxidant powerhouse</strong> माना जाता है।
+                    <a href="/doctor-profile.php" class="text-green-600 hover:underline font-semibold">RAJ Hospital के experts</a> के अनुसार, ग्रीन टी में EGCG (Epigallocatechin gallate) नामक एक powerful catechin होता है जो free radicals से लड़ने और cells को damage से बचाने में मदद करता है। यही कारण है कि ग्रीन टी को <strong>antioxidant powerhouse</strong> माना जाता है।
                 </p>
 
                 <!-- Section 2: Nutritional Content -->
@@ -318,7 +318,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Stroke prevention</a> में भी ग्रीन टी के antioxidants महत्वपूर्ण भूमिका निभाते हैं। <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Neurological conditions</a> के treatment में भी nutrition एक crucial role play करता है।
+                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Stroke prevention</a> में भी ग्रीन टी के antioxidants महत्वपूर्ण भूमिका निभाते हैं। <a href="/neuropathy-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Neurological conditions</a> के treatment में भी nutrition एक crucial role play करता है।
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -330,7 +330,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">चिकित्सक की सलाह:</strong>
-                    <span class="text-gray-700"> <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-blue-600 hover:underline">RAJ Hospital के neurologists</a> brain health के लिए balanced diet के साथ ग्रीन टी को daily routine में शामिल करने की सलाह देते हैं।</span>
+                    <span class="text-gray-700"> <a href="/doctor-profile.php" class="text-blue-600 hover:underline">RAJ Hospital के neurologists</a> brain health के लिए balanced diet के साथ ग्रीन टी को daily routine में शामिल करने की सलाह देते हैं।</span>
                 </div>
 
                 <!-- Section 4: Heart Health -->
@@ -363,7 +363,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Research के अनुसार, ग्रीन टी में मौजूद catechins और caffeine मिलकर thermogenesis (calorie burning process) को increase करते हैं। यह especially belly fat reduction में helpful है। हालांकि, यह <strong>magic weight loss solution</strong> नहीं है - यह balanced diet और <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-green-600 hover:underline">regular exercise</a> के साथ ही काम करती है।
+                    Research के अनुसार, ग्रीन टी में मौजूद catechins और caffeine मिलकर thermogenesis (calorie burning process) को increase करते हैं। यह especially belly fat reduction में helpful है। हालांकि, यह <strong>magic weight loss solution</strong> नहीं है - यह balanced diet और <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-green-600 hover:underline">regular exercise</a> के साथ ही काम करती है।
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -396,7 +396,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Head injury recovery</a> में भी good nutrition जरूरी है और ग्रीन टी इसमें सहायक हो सकती है। साथ ही, <a href="<?php echo $base_url; ?>movement-disorders-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">movement disorders</a> के patients के लिए भी healthy lifestyle habits important हैं।
+                    <a href="/head-injury-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Head injury recovery</a> में भी good nutrition जरूरी है और ग्रीन टी इसमें सहायक हो सकती है। साथ ही, <a href="/movement-disorders-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">movement disorders</a> के patients के लिए भी healthy lifestyle habits important हैं।
                 </p>
 
                 <!-- Section 7: How to Prepare -->
@@ -452,14 +452,14 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>कब ग्रीन टी नहीं पीनी चाहिए:</strong> Pregnancy, breastfeeding, caffeine sensitivity, anxiety disorders, या <a href="<?php echo $base_url; ?>contact.php" class="text-green-600 hover:underline">अपने doctor से consultation</a> के बिना नियमित consumption न करें।
+                    <strong>कब ग्रीन टी नहीं पीनी चाहिए:</strong> Pregnancy, breastfeeding, caffeine sensitivity, anxiety disorders, या <a href="/contact.php" class="text-green-600 hover:underline">अपने doctor से consultation</a> के बिना नियमित consumption न करें।
                 </p>
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-green-600 to-green-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">RAJ Hospital Ranchi - Your Health Partner</h3>
                     <p class="opacity-90 mb-4">Neurology और overall health के बारे में ज्यादा जानकारी के लिए हमसे संपर्क करें। Expert consultation available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-green-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Consultation</a>
+                    <a href="/contact.php" class="inline-block bg-white text-green-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Consultation</a>
                 </div>
 
                 <!-- Conclusion -->
@@ -474,7 +474,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-green-600 hover:underline font-semibold">RAJ Hospital</a> में आप neurology और general health के बारे में expert advice प्राप्त कर सकते हैं। कोई भी health concerns हो तो specialized medical advice लेना हमेशा बेहतर होता है।
+                    <a href="/doctor-profile.php" class="text-green-600 hover:underline font-semibold">RAJ Hospital</a> में आप neurology और general health के बारे में expert advice प्राप्त कर सकते हैं। कोई भी health concerns हो तो specialized medical advice लेना हमेशा बेहतर होता है।
                 </p>
 
                 <!-- FAQs -->
@@ -487,7 +487,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">क्या ग्रीन टी brain health के लिए फायदेमंद है?</h4>
-                        <p class="text-gray-700">हां, ग्रीन टी में मौजूद L-theanine और caffeine memory और concentration में improvement करते हैं। यह brain function को boost करता है और neurodegenerative diseases से बचाव कर सकता है। <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-green-600 hover:underline">Expert neurologists</a> इसकी recommendation करते हैं।</p>
+                        <p class="text-gray-700">हां, ग्रीन टी में मौजूद L-theanine और caffeine memory और concentration में improvement करते हैं। यह brain function को boost करता है और neurodegenerative diseases से बचाव कर सकता है। <a href="/doctor-profile.php" class="text-green-600 hover:underline">Expert neurologists</a> इसकी recommendation करते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">ग्रीन टी और black tea में क्या अंतर है?</h4>
@@ -495,11 +495,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">क्या ग्रीन टी weight loss में मदद करती है?</h4>
-                        <p class="text-gray-700">ग्रीन टी metabolism बढ़ाती है और fat burning को boost करती है। हालांकि, यह weight loss का miracle cure नहीं है, लेकिन <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-green-600 hover:underline">balanced diet और exercise</a> के साथ यह weight management में सहायक हो सकती है।</p>
+                        <p class="text-gray-700">ग्रीन टी metabolism बढ़ाती है और fat burning को boost करती है। हालांकि, यह weight loss का miracle cure नहीं है, लेकिन <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-green-600 hover:underline">balanced diet और exercise</a> के साथ यह weight management में सहायक हो सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">कब ग्रीन टी नहीं पीनी चाहिए?</h4>
-                        <p class="text-gray-700">Pregnancy, breastfeeding, anxiety disorders, heart problems, या caffeine sensitivity वाले लोगों को ग्रीन टी से बचना चाहिए। साथ ही, empty stomach पर ग्रीन टी नहीं पीनी चाहिए। <a href="<?php echo $base_url; ?>contact.php" class="text-green-600 hover:underline">Doctor consultation</a> लेना बेहतर है।</p>
+                        <p class="text-gray-700">Pregnancy, breastfeeding, anxiety disorders, heart problems, या caffeine sensitivity वाले लोगों को ग्रीन टी से बचना चाहिए। साथ ही, empty stomach पर ग्रीन टी नहीं पीनी चाहिए। <a href="/contact.php" class="text-green-600 hover:underline">Doctor consultation</a> लेना बेहतर है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">ग्रीन टी में कौन से nutrients होते हैं?</h4>
@@ -507,7 +507,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">क्या ग्रीन टी heart के लिए फायदेमंद है?</h4>
-                        <p class="text-gray-700">हां, regular ग्रीन टी consumption LDL cholesterol को reduce करता है, blood pressure को regulate करता है, और heart disease का risk कम करता है। इसके antioxidants inflammation भी कम करते हैं। <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline">Heart और stroke prevention</a> में यह helpful है।</p>
+                        <p class="text-gray-700">हां, regular ग्रीन टी consumption LDL cholesterol को reduce करता है, blood pressure को regulate करता है, और heart disease का risk कम करता है। इसके antioxidants inflammation भी कम करते हैं। <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline">Heart और stroke prevention</a> में यह helpful है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

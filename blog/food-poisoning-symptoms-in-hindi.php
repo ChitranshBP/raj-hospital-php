@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital</title>
@@ -231,7 +231,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -240,9 +240,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-medical-600">Home</a>
+            <a href="/" class="hover:text-medical-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-medical-600">Blog</a>
+            <a href="/blog/" class="hover:text-medical-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">खाद्य विषाक्तता के लक्षण</span>
         </nav>
@@ -268,18 +268,18 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस blog post में हम <strong>food poisoning symptoms in Hindi</strong> के बारे में detail से जानेंगे - इनके कारण, लक्षण, treatment options, और <a href="<?php echo $base_url; ?>contact.php" class="text-medical-600 hover:underline font-semibold">घरेलू उपाय</a>। RAJ Hospital Ranchi में हमारी expert medical team इस समस्या में मदद के लिए हमेशा तैयार है।
+                    इस blog post में हम <strong>food poisoning symptoms in Hindi</strong> के बारे में detail से जानेंगे - इनके कारण, लक्षण, treatment options, और <a href="/contact.php" class="text-medical-600 hover:underline font-semibold">घरेलू उपाय</a>। RAJ Hospital Ranchi में हमारी expert medical team इस समस्या में मदद के लिए हमेशा तैयार है।
                 </p>
 
                 <!-- Section 1: What is Food Poisoning -->
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता क्या है? (What is Food Poisoning?)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>खाद्य विषाक्तता</strong> तब होती है जब आप विषाक्त बैक्टीरिया, वायरस, परजीवी, या रसायनों से दूषित भोजन या पानी खाते हैं। यह <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-medical-600 hover:underline">पाचन तंत्र</a> को प्रभावित करती है और कई अप्रिय symptoms पैदा करती है।
+                    <strong>खाद्य विषाक्तता</strong> तब होती है जब आप विषाक्त बैक्टीरिया, वायरस, परजीवी, या रसायनों से दूषित भोजन या पानी खाते हैं। यह <a href="/neuropathy-treatment-in-ranchi.php" class="text-medical-600 hover:underline">पाचन तंत्र</a> को प्रभावित करती है और कई अप्रिय symptoms पैदा करती है।
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    सामान्य कारणों में <strong>Salmonella, E. coli, Norovirus,</strong> और <strong>Listeria</strong> जैसे pathogens शामिल हैं। ये bacteria संक्रमित खाद्य पदार्थों, खराब sanitization, या गलत भंडारण से फैलते हैं। कभी-कभी <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-medical-600 hover:underline">शरीर में कमजोरी</a> और दर्द भी इसका हिस्सा हो सकता है।
+                    सामान्य कारणों में <strong>Salmonella, E. coli, Norovirus,</strong> और <strong>Listeria</strong> जैसे pathogens शामिल हैं। ये bacteria संक्रमित खाद्य पदार्थों, खराब sanitization, या गलत भंडारण से फैलते हैं। कभी-कभी <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-medical-600 hover:underline">शरीर में कमजोरी</a> और दर्द भी इसका हिस्सा हो सकता है।
                 </p>
 
                 <div class="bg-green-50 border-l-4 border-medical-500 p-4 rounded-r-lg mb-6">
@@ -324,7 +324,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> ध्यान दें:</strong>
-                    <span class="text-gray-700"> अगर <strong>खूनी दस्त</strong>, तेज बुखार (101°F से ज्यादा), या 3 दिन से ज्यादा symptoms हों, तो तुरंत <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-yellow-700 hover:underline font-semibold">डॉक्टर से संपर्क करें</a>।</span>
+                    <span class="text-gray-700"> अगर <strong>खूनी दस्त</strong>, तेज बुखार (101°F से ज्यादा), या 3 दिन से ज्यादा symptoms हों, तो तुरंत <a href="/doctor-profile.php" class="text-yellow-700 hover:underline font-semibold">डॉक्टर से संपर्क करें</a>।</span>
                 </div>
 
                 <!-- Section 3: Causes -->
@@ -349,7 +349,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-medical-500">
                         <h4 class="font-bold text-medical-600">4. कच्चा या अधपका खाना</h4>
-                        <p class="text-sm text-gray-600">पोल्ट्री, समुद्री भोजन, और मांस को पूरी तरह न पकाने से बैक्टीरिया जीवित रह सकते हैं और <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-medical-600 hover:underline">शरीर में गंभीर प्रभाव</a> डाल सकते हैं।</p>
+                        <p class="text-sm text-gray-600">पोल्ट्री, समुद्री भोजन, और मांस को पूरी तरह न पकाने से बैक्टीरिया जीवित रह सकते हैं और <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-medical-600 hover:underline">शरीर में गंभीर प्रभाव</a> डाल सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-medical-500">
                         <h4 class="font-bold text-medical-600">5. क्रॉस-कंटैमिनेशन</h4>
@@ -386,7 +386,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता के घरेलू उपाय (Home Remedies)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    हल्की <strong>खाद्य विषाक्तता</strong> के लिए ये घरेलू उपाय effective हो सकते हैं। हालांकि, गंभीर मामलों में <a href="<?php echo $base_url; ?>contact.php" class="text-medical-600 hover:underline font-semibold">medical treatment</a> जरूरी है।
+                    हल्की <strong>खाद्य विषाक्तता</strong> के लिए ये घरेलू उपाय effective हो सकते हैं। हालांकि, गंभीर मामलों में <a href="/contact.php" class="text-medical-600 hover:underline font-semibold">medical treatment</a> जरूरी है।
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -430,7 +430,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">कब डॉक्टर से मिलें? (When to See Doctor)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    अगर <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-medical-600 hover:underline">नीचे दिए गए गंभीर लक्षण</a> हों, तो तुरंत medical attention लें:
+                    अगर <a href="/head-injury-treatment-in-ranchi.php" class="text-medical-600 hover:underline">नीचे दिए गए गंभीर लक्षण</a> हों, तो तुरंत medical attention लें:
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -472,14 +472,14 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    अगर symptoms ज्यादा देर तक रहें या बिगड़ते हों, तो यह <a href="<?php echo $base_url; ?>movement-disorders-treatment-in-ranchi.php" class="text-medical-600 hover:underline">गंभीर नर्व संबंधी समस्याओं</a> से भी जुड़ा हो सकता है, इसलिए medical consultation जरूरी है।
+                    अगर symptoms ज्यादा देर तक रहें या बिगड़ते हों, तो यह <a href="/movement-disorders-treatment-in-ranchi.php" class="text-medical-600 hover:underline">गंभीर नर्व संबंधी समस्याओं</a> से भी जुड़ा हो सकता है, इसलिए medical consultation जरूरी है।
                 </p>
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-medical-500 to-medical-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">खाद्य विषाक्तता की समस्या है?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में gastroenterology और general medicine विशेषज्ञ उपलब्ध हैं। तुरंत संपर्क करें।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-medical-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-medical-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->
@@ -500,7 +500,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-medical-600 mb-2">खाद्य विषाक्तता से कब डॉक्टर से मिलना चाहिए?</h4>
-                        <p class="text-gray-700">अगर <strong>खूनी दस्त, तेज बुखार (101°F से ज्यादा), 3 दिन से ज्यादा लगातार उल्टी या दस्त, या डिहाइड्रेशन</strong> के लक्षण हों, तो तुरंत <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-medical-600 hover:underline">डॉक्टर से मिलें</a>। बच्चों और बुजुर्गों को जल्दी दिखाना चाहिए क्योंकि उनमें जटिलताएं ज्यादा हो सकती हैं।</p>
+                        <p class="text-gray-700">अगर <strong>खूनी दस्त, तेज बुखार (101°F से ज्यादा), 3 दिन से ज्यादा लगातार उल्टी या दस्त, या डिहाइड्रेशन</strong> के लक्षण हों, तो तुरंत <a href="/doctor-profile.php" class="text-medical-600 hover:underline">डॉक्टर से मिलें</a>। बच्चों और बुजुर्गों को जल्दी दिखाना चाहिए क्योंकि उनमें जटिलताएं ज्यादा हो सकती हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-medical-600 mb-2">खाद्य विषाक्तता में क्या पीना चाहिए?</h4>

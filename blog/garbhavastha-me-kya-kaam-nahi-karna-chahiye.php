@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>गर्भावस्था में क्या काम नहीं करना चाहिए | RAJ Hospital Ranchi</title>
@@ -227,7 +227,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -236,9 +236,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-medical-600">Home</a>
+            <a href="/" class="hover:text-medical-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-medical-600">Blog</a>
+            <a href="/blog/" class="hover:text-medical-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">गर्भावस्था में क्या काम नहीं करना चाहिए</span>
         </nav>
@@ -259,7 +259,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>गर्भावस्था</strong> जीवन का एक खूबसूरत और महत्वपूर्ण दौर है। इस दौरान महिला को अपनी <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-medical-600 hover:underline">स्वास्थ्य विशेषज्ञ डॉक्टर</a> की सलाह के अनुसार कुछ काम करने चाहिए और कुछ चीजों से बचना चाहिए। यह न केवल माँ की सेहत के लिए जरूरी है, बल्कि भ्रूण के स्वस्थ विकास के लिए भी अनिवार्य है।
+                    <strong>गर्भावस्था</strong> जीवन का एक खूबसूरत और महत्वपूर्ण दौर है। इस दौरान महिला को अपनी <a href="/doctor-profile.php" class="text-medical-600 hover:underline">स्वास्थ्य विशेषज्ञ डॉक्टर</a> की सलाह के अनुसार कुछ काम करने चाहिए और कुछ चीजों से बचना चाहिए। यह न केवल माँ की सेहत के लिए जरूरी है, बल्कि भ्रूण के स्वस्थ विकास के लिए भी अनिवार्य है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -294,7 +294,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">महत्वपूर्ण सुझाव:</strong>
-                    <span class="text-gray-700"> गर्भावस्था में <a href="<?php echo $base_url; ?>contact.php" class="text-medical-600 hover:underline">संपर्क करें</a> अपने डॉक्टर से यह पूछें कि आपके आहार में क्या शामिल करना है और क्या नहीं। प्रत्येक महिला की आवश्यकताएं अलग होती हैं।</span>
+                    <span class="text-gray-700"> गर्भावस्था में <a href="/contact.php" class="text-medical-600 hover:underline">संपर्क करें</a> अपने डॉक्टर से यह पूछें कि आपके आहार में क्या शामिल करना है और क्या नहीं। प्रत्येक महिला की आवश्यकताएं अलग होती हैं।</span>
                 </div>
 
                 <!-- Section 2: पेय पदार्थ -->
@@ -319,7 +319,7 @@
 
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">चेतावनी:</strong>
-                    <span class="text-gray-700"> किसी भी दर्द निवारक, एंटीबायोटिक या अन्य दवाई को डॉक्टर की सलाह के बिना न लें। even ओवर-द-काउंटर दवाइयां जैसे आइबुप्रोफेन भी गर्भावस्था में हानिकारक हो सकती हैं। हमारी <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-medical-600 hover:underline">विशेषज्ञ टीम</a> से परामर्श लें।</span>
+                    <span class="text-gray-700"> किसी भी दर्द निवारक, एंटीबायोटिक या अन्य दवाई को डॉक्टर की सलाह के बिना न लें। even ओवर-द-काउंटर दवाइयां जैसे आइबुप्रोफेन भी गर्भावस्था में हानिकारक हो सकती हैं। हमारी <a href="/doctor-profile.php" class="text-medical-600 hover:underline">विशेषज्ञ टीम</a> से परामर्श लें।</span>
                 </div>
 
                 <!-- Section 4: शारीरिक गतिविधियां -->
@@ -392,7 +392,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    पहली तिमाही में धूम्रपान छोड़ने से बच्चे को होने वाला नुकसान कम किया जा सकता है। यदि आपको मदद चाहिए तो <a href="<?php echo $base_url; ?>contact.php" class="text-medical-600 hover:underline">हमसे संपर्क करें</a>।
+                    पहली तिमाही में धूम्रपान छोड़ने से बच्चे को होने वाला नुकसान कम किया जा सकता है। यदि आपको मदद चाहिए तो <a href="/contact.php" class="text-medical-600 hover:underline">हमसे संपर्क करें</a>।
                 </p>
 
                 <!-- Section 7: तनाव -->
@@ -411,7 +411,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">तनाव प्रबंधन:</strong>
-                    <span class="text-gray-700"> ध्यान, गहरी सांस लेना, प्रीनेटल योगा और हल्के व्यायाम तनाव कम करने में मदद करते हैं। यदि आपको अवसाद या चिंता की समस्या है तो <a href="<?php echo $base_url; ?>contact.php" class="text-medical-600 hover:underline">विशेषज्ञ सहायता</a> लें।</span>
+                    <span class="text-gray-700"> ध्यान, गहरी सांस लेना, प्रीनेटल योगा और हल्के व्यायाम तनाव कम करने में मदद करते हैं। यदि आपको अवसाद या चिंता की समस्या है तो <a href="/contact.php" class="text-medical-600 hover:underline">विशेषज्ञ सहायता</a> लें।</span>
                 </div>
 
                 <!-- Section 8: गर्मी और गतिविधियां -->
@@ -448,11 +448,11 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>पीठ दर्द</strong> गर्भावस्था में एक आम समस्या है। हमारे <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-medical-600 hover:underline">पीठ दर्द और साइटिका उपचार</a> पेज पर इसके बारे में अधिक जानें।
+                    <strong>पीठ दर्द</strong> गर्भावस्था में एक आम समस्या है। हमारे <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-medical-600 hover:underline">पीठ दर्द और साइटिका उपचार</a> पेज पर इसके बारे में अधिक जानें।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    यदि आपको <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-medical-600 hover:underline">न्यूरोपैथी</a> या अन्य <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-medical-600 hover:underline">स्ट्रोक</a> से संबंधित समस्याएं हैं, तो तुरंत डॉक्टर से संपर्क करें।
+                    यदि आपको <a href="/neuropathy-treatment-in-ranchi.php" class="text-medical-600 hover:underline">न्यूरोपैथी</a> या अन्य <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-medical-600 hover:underline">स्ट्रोक</a> से संबंधित समस्याएं हैं, तो तुरंत डॉक्टर से संपर्क करें।
                 </p>
 
                 <!-- Section 10: क्या करना चाहिए -->
@@ -465,7 +465,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">नियमित जांच</h4>
-                        <p class="text-sm text-gray-600">डॉक्टर की नियमित जांच करें। हमारी <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-medical-600 hover:underline">विशेषज्ञ टीम</a> आपकी देखभाल के लिए उपलब्ध है।</p>
+                        <p class="text-sm text-gray-600">डॉक्टर की नियमित जांच करें। हमारी <a href="/doctor-profile.php" class="text-medical-600 hover:underline">विशेषज्ञ टीम</a> आपकी देखभाल के लिए उपलब्ध है।</p>
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">पोषण</h4>
@@ -489,16 +489,16 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><a href="<?php echo $base_url; ?>movement-disorders-treatment-in-ranchi.php" class="text-medical-600 hover:underline">मूवमेंट डिसऑर्डर</a> - गर्भावस्था में अनकंट्रोल्ड हिलने-डुलने की समस्या</li>
-                    <li><a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-medical-600 hover:underline">सिर की चोट</a> - गर्भावस्था में सिर पर चोट लगने पर तुरंत चिकित्सा सहायता</li>
-                    <li><a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-medical-600 hover:underline">स्ट्रोक और TIA</a> - गर्भावस्था में स्ट्रोक का खतरा अधिक हो सकता है</li>
+                    <li><a href="/movement-disorders-treatment-in-ranchi.php" class="text-medical-600 hover:underline">मूवमेंट डिसऑर्डर</a> - गर्भावस्था में अनकंट्रोल्ड हिलने-डुलने की समस्या</li>
+                    <li><a href="/head-injury-treatment-in-ranchi.php" class="text-medical-600 hover:underline">सिर की चोट</a> - गर्भावस्था में सिर पर चोट लगने पर तुरंत चिकित्सा सहायता</li>
+                    <li><a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-medical-600 hover:underline">स्ट्रोक और TIA</a> - गर्भावस्था में स्ट्रोक का खतरा अधिक हो सकता है</li>
                 </ul>
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-medical-600 to-medical-800 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">गर्भावस्था में देखभाल के लिए RAJ Hospital चुनें</h3>
                     <p class="opacity-90 mb-4">हमारी विशेषज्ञ टीम आपकी और आपके बच्चे की स्वास्थ्य देखभाल के लिए प्रतिबद्ध है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-medical-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
+                    <a href="/contact.php" class="inline-block bg-white text-medical-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
                 <!-- FAQs -->
@@ -531,7 +531,7 @@
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-medical-600 mb-2">गर्भावस्था में कौन सी चीज़ें तनाव पैदा करती हैं और क्यों बचना चाहिए?</h4>
-                        <p class="text-gray-700">गर्भावस्था में अत्यधिक तनाव बच्चे के विकास को प्रभावित कर सकता है। काम का अत्यधिक दबाव, विवाद, और नकारात्मक समाचार से बचें। ध्यान, योग और हल्के व्यायाम तनाव कम करने में मदद करते हैं। <a href="<?php echo $base_url; ?>contact.php" class="text-medical-600 hover:underline">RAJ Hospital में परामर्श</a> लें।</p>
+                        <p class="text-gray-700">गर्भावस्था में अत्यधिक तनाव बच्चे के विकास को प्रभावित कर सकता है। काम का अत्यधिक दबाव, विवाद, और नकारात्मक समाचार से बचें। ध्यान, योग और हल्के व्यायाम तनाव कम करने में मदद करते हैं। <a href="/contact.php" class="text-medical-600 hover:underline">RAJ Hospital में परामर्श</a> लें।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
@@ -551,7 +551,6 @@
                         <li><a href="/blog/low-vitamin-d-symptoms-female.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज</a></li>
                         <li><a href="/blog/most-common-dental-procedures-and-how-they-work.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दांतों के सबसे आम प्रक्रियाएं और उनका काम</a></li>
                         <li><a href="/blog/pair-me-dard-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द - कारण, घरेलू उपाय और इलाज</a></li>
-                        <li><a href="/blog/revolutionary-50-cent-dna-sensor.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Revolutionary 50 Cent DNA Sensor - RAJ Hospital Science Update</a></li>
                         <li><a href="/blog/thyroid-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Thyroid Symptoms in Hindi | Thyroid ke Lakshan</a></li>
                         <li><a href="/blog/pregnant-mein-kya-kya-khana-chahie.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए</a></li>
                         <li><a href="/blog/acidity-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Acidity ke Lakshan | Acidity Symptoms in Hindi</a></li>

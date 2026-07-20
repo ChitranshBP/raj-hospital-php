@@ -1,10 +1,10 @@
-<?php $base_url = '../../'; ?>
+<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="hi">
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Headaches Types, Causes aur Treatment Solutions - Complete Guide | RAJ Hospital Ranchi</title>
@@ -231,7 +231,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -240,9 +240,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-primary-600">Home</a>
+            <a href="/" class="hover:text-primary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-primary-600">Blog</a>
+            <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Headaches Types Causes Treatment</span>
         </nav>
@@ -270,7 +270,7 @@
 
                 <div class="bg-blue-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <strong class="text-primary-700">Important Note:</strong>
-                    <span class="text-gray-700"> Agar aapko <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">stroke</a> ya <a href="<?php echo $base_url; ?>migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">migraine</a> ka suspicion hai, toh immediately doctor se milna chahiye. RAJ Hospital Ranchi mein neurology experts available hain.</span>
+                    <span class="text-gray-700"> Agar aapko <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">stroke</a> ya <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">migraine</a> ka suspicion hai, toh immediately doctor se milna chahiye. RAJ Hospital Ranchi mein neurology experts available hain.</span>
                 </div>
 
                 <!-- Section 1: Types of Headaches -->
@@ -290,7 +290,7 @@
 
                     <div class="bg-gray-50 p-5 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 text-lg mb-2">2. Migraine (माइग्रेन)</h4>
-                        <p class="text-gray-700 mb-2">Migraine is a neurological condition jismein severe, throbbing pain usually ek side of head pe hoti hai. Ye kai baar nausea, vomiting, aur light/sound sensitivity ke saath hoti hai. For detailed information, read our <a href="<?php echo $base_url; ?>migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">migraine treatment guide</a>.</p>
+                        <p class="text-gray-700 mb-2">Migraine is a neurological condition jismein severe, throbbing pain usually ek side of head pe hoti hai. Ye kai baar nausea, vomiting, aur light/sound sensitivity ke saath hoti hai. For detailed information, read our <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">migraine treatment guide</a>.</p>
                         <p class="text-sm text-gray-600"><strong>Symptoms:</strong> Throbbing pain, nausea/vomiting, aura (visual disturbances), sensitivity to light/sound/smell</p>
                         <p class="text-sm text-gray-600"><strong>Duration:</strong> 4 se 72 hours</p>
                     </div>
@@ -313,7 +313,7 @@
                         <h4 class="font-bold text-primary-600 text-lg mb-2">5. Cervicogenic Headache (सर्वाइकोजेनिक हेडएक)</h4>
                         <p class="text-gray-700 mb-2">Ye neck ya spine ki problem se hoti hai. Cervical spine ki issues, poor posture, ya neck injury se trigger hoti hai. Neck pain aur shoulder pain ke saath hoti hai.</p>
                         <p class="text-sm text-gray-600"><strong>Symptoms:</strong> Pain starting from neck, radiating to head, limited neck movement, shoulder/arm pain</p>
-                        <p class="text-sm text-gray-600"><strong>Treatment:</strong> <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Physical therapy aur spine treatment</a> help karta hai</p>
+                        <p class="text-sm text-gray-600"><strong>Treatment:</strong> <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Physical therapy aur spine treatment</a> help karta hai</p>
                     </div>
 
                     <div class="bg-gray-50 p-5 rounded-lg border-l-4 border-primary-600">
@@ -390,7 +390,7 @@
                         <li><strong>Vision loss ya double vision</strong></li>
                         <li><strong>Weakness or numbness on one side</strong></li>
                         <li><strong>Seizures ya convulsions</strong></li>
-                        <li><strong>Head injury ke baad headache</strong> - <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">head injury treatment</a> ke liye consult karein</li>
+                        <li><strong>Head injury ke baad headache</strong> - <a href="/head-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">head injury treatment</a> ke liye consult karein</li>
                     </ul>
                 </div>
 
@@ -480,7 +480,7 @@
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600">Physical Therapy</h4>
-                        <p class="text-sm text-gray-600">Cervicogenic headaches aur <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">back pain aur sciatica</a> ke liye physical therapy bahut useful hai. Ye neck strengthening aur posture correction karta hai.</p>
+                        <p class="text-sm text-gray-600">Cervicogenic headaches aur <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">back pain aur sciatica</a> ke liye physical therapy bahut useful hai. Ye neck strengthening aur posture correction karta hai.</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600">Nerve Blocks</h4>
@@ -557,32 +557,32 @@
                 <div class="space-y-3">
                     <div class="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
                         <i data-feather="link" class="w-5 h-5 text-primary-600"></i>
-                        <a href="<?php echo $base_url; ?>migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Migraine aur Headaches Treatment in Ranchi</a>
+                        <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Migraine aur Headaches Treatment in Ranchi</a>
                         <span class="text-sm text-gray-500">- Complete migraine management</span>
                     </div>
                     <div class="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
                         <i data-feather="link" class="w-5 h-5 text-primary-600"></i>
-                        <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Stroke Treatment in Ranchi</a>
+                        <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Stroke Treatment in Ranchi</a>
                         <span class="text-sm text-gray-500">- Emergency stroke care</span>
                     </div>
                     <div class="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
                         <i data-feather="link" class="w-5 h-5 text-primary-600"></i>
-                        <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Neuropathy Treatment in Ranchi</a>
+                        <a href="/neuropathy-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Neuropathy Treatment in Ranchi</a>
                         <span class="text-sm text-gray-500">- Nerve-related conditions</span>
                     </div>
                     <div class="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
                         <i data-feather="link" class="w-5 h-5 text-primary-600"></i>
-                        <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Head Injury Treatment in Ranchi</a>
+                        <a href="/head-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Head Injury Treatment in Ranchi</a>
                         <span class="text-sm text-gray-500">- Trauma care</span>
                     </div>
                     <div class="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
                         <i data-feather="link" class="w-5 h-5 text-primary-600"></i>
-                        <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Back Pain and Sciatica Treatment in Ranchi</a>
+                        <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Back Pain and Sciatica Treatment in Ranchi</a>
                         <span class="text-sm text-gray-500">- Spine care</span>
                     </div>
                     <div class="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
                         <i data-feather="link" class="w-5 h-5 text-primary-600"></i>
-                        <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline font-semibold">Our Doctors</a>
+                        <a href="/doctor-profile.php" class="text-primary-600 hover:underline font-semibold">Our Doctors</a>
                         <span class="text-sm text-gray-500">- Meet our neurology team</span>
                     </div>
                 </div>
@@ -592,8 +592,8 @@
                     <h3 class="text-xl font-bold mb-2">Expert Headache Treatment Available in Ranchi</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi mein neurology specialists se milke apna proper diagnosis aur treatment plan banao.</p>
                     <div class="flex flex-wrap justify-center gap-4">
-                        <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
-                        <a href="<?php echo $base_url; ?>migraine-and-headaches-treatment-in-ranchi.php" class="inline-block border-2 border-white text-white font-bold px-6 py-2 rounded-lg hover:bg-white/10 transition-colors">Learn About Migraine Treatment</a>
+                        <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                        <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="inline-block border-2 border-white text-white font-bold px-6 py-2 rounded-lg hover:bg-white/10 transition-colors">Learn About Migraine Treatment</a>
                     </div>
                 </div>
 
@@ -608,7 +608,7 @@
 
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: Migraine aur normal headache mein kya antar hai?</h4>
-                        <p class="text-gray-700"><strong>Answer:</strong> Normal headache usually dono taraf affect karta hai aur mild ya moderate hota hai. <a href="<?php echo $base_url; ?>migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Migraine</a> special hai because: ye usually ek side pe hota hai, nausea/vomiting hota hai, light aur sound sensitivity hoti hai, aur 4-72 hours tak rehta hai. Visual disturbances (aura) bhi ho sakte hain.</p>
+                        <p class="text-gray-700"><strong>Answer:</strong> Normal headache usually dono taraf affect karta hai aur mild ya moderate hota hai. <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Migraine</a> special hai because: ye usually ek side pe hota hai, nausea/vomiting hota hai, light aur sound sensitivity hoti hai, aur 4-72 hours tak rehta hai. Visual disturbances (aura) bhi ho sakte hain.</p>
                     </div>
 
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -618,7 +618,7 @@
 
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: Kabhi kabhi headache heart attack ya stroke ka symptom toh nahi hai?</h4>
-                        <p class="text-gray-700"><strong>Answer:</strong> Headache usually heart attack ka symptom nahi hai, lekin kuch cases mein <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">stroke (brain attack)</a> ka warning sign ho sakta hai. Agar headache suddenly bahut severe ho, vision problems ho, body ek side paralized ho, speech problem ho, toh immediately emergency treatment lo.</p>
+                        <p class="text-gray-700"><strong>Answer:</strong> Headache usually heart attack ka symptom nahi hai, lekin kuch cases mein <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">stroke (brain attack)</a> ka warning sign ho sakta hai. Agar headache suddenly bahut severe ho, vision problems ho, body ek side paralized ho, speech problem ho, toh immediately emergency treatment lo.</p>
                     </div>
 
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -692,7 +692,7 @@
                     <div>
                         <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
                         <p class="text-sm text-gray-500">Neurology Specialists | Last Updated: May 22, 2026</p>
-                        <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline text-sm">View our doctors</a>
+                        <a href="/doctor-profile.php" class="text-primary-600 hover:underline text-sm">View our doctors</a>
                     </div>
                 </div>
             </div>

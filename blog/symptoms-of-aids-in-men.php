@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Symptoms of AIDS in Men - Early Signs and Treatment | RAJ Hospital Ranchi</title>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">AIDS Symptoms in Men</span>
         </nav>
@@ -226,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    At <a href="<?php echo $base_url; ?>index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>, we provide confidential HIV testing and counseling services. Early detection through testing is the first step toward effective treatment and preventing transmission to others.
+                    At <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>, we provide confidential HIV testing and counseling services. Early detection through testing is the first step toward effective treatment and preventing transmission to others.
                 </p>
 
                 <!-- Section 1: Understanding HIV vs AIDS -->
@@ -386,7 +386,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Confidential HIV Testing Available</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers confidential testing and counseling services.</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

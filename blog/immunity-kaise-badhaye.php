@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Immunity Kaise Badhaye - Immunity Boost करने के तरीके | RAJ Hospital Ranchi</title>
     <meta name="description" content="Immunity Kaise Badhaye - जानिए immunity बढ़ाने के natural तरीके, diet tips, और lifestyle changes। Strong immune system कैसे बनाएं। Complete guide।">
     <meta name="keywords" content="immunity badhaye, immunity boost, immune system, immunity foods, immunity tips">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/immunity-kaise-badhaye.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/immunity-kaise-badhaye/">
 
     <meta property="og:title" content="Immunity Kaise Badhaye - Immunity Boost करने के तरीके">
     <meta property="og:description" content="Immunity Kaise Badhaye - जानिए immunity बढ़ाने के तरीके।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/immunity-kaise-badhaye.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/immunity-kaise-badhaye/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/immunity-kaise-badhaye.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Immunity Kaise Badhaye - Immunity Boost करने के तरीके | RAJ Hospital Ranchi",
         "description": "Immunity Kaise Badhaye - जानिए immunity बढ़ाने के natural तरीके, diet tips, और lifestyle changes। Strong immune system कैसे बनाएं। Complete guide।",
-        "url": "https://rajhospitals.com/blog/immunity-kaise-badhaye.php",
+        "url": "https://rajhospitals.com/blog/immunity-kaise-badhaye/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/immunity-kaise-badhaye.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/immunity-kaise-badhaye.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/immunity-kaise-badhaye/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Immunity Guide</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/immunity-kaise-badhaye.png" alt="Immunity Kaise Badhaye - Immunity Boost Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/immunity-kaise-badhaye.png" alt="Immunity Kaise Badhaye - Immunity Boost Guide" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -346,7 +346,7 @@
                 <div class="bg-gradient-to-r from-green-600 to-green-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Boost Your Immunity Today</h3>
                     <p class="opacity-90 mb-4">Small lifestyle changes से बड़ा difference आ सकता है। Start today!</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-green-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Health Checkup</a>
+                    <a href="/contact.php" class="inline-block bg-white text-green-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Health Checkup</a>
                 </div>
 
                 <!-- FAQs -->

@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Viral Fever Symptoms in Hindi - वायरल बुखार के लक्षण और इलाज | RAJ Hospital Ranchi</title>
@@ -157,7 +157,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -165,9 +165,9 @@
 
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-primary-600">Home</a>
+            <a href="/" class="hover:text-primary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-primary-600">Blog</a>
+            <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Viral Fever Symptoms</span>
         </nav>
@@ -191,7 +191,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस blog post में हम <strong>viral fever symptoms in hindi</strong> (वायरल बुखार के लक्षण), viral और bacterial fever में अंतर, और <a href="<?php echo $base_url; ?>viral-fever-symptoms-in-hindi.php" class="text-primary-600 hover:underline font-semibold">viral fever treatment</a> के बारे में विस्तार से जानेंगे।
+                    इस blog post में हम <strong>viral fever symptoms in hindi</strong> (वायरल बुखार के लक्षण), viral और bacterial fever में अंतर, और <a href="/blog/viral-fever-symptoms-in-hindi/" class="text-primary-600 hover:underline font-semibold">viral fever treatment</a> के बारे में विस्तार से जानेंगे।
                 </p>
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">
@@ -296,11 +296,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">4. Throat Relief</h4>
-                        <p class="text-sm text-gray-600">गर्म नमक के पानी से gargle करें। lozenges या honey with warm water। <a href="<?php echo $base_url; ?>throat-infection-treatment-ranchi.php" class="text-primary-600 hover:underline">Throat infection</a> severe हो तो doctor consult करें।</p>
+                        <p class="text-sm text-gray-600">गर्म नमक के पानी से gargle करें। lozenges या honey with warm water। <a href="/specialties/ent" class="text-primary-600 hover:underline">Throat infection</a> severe हो तो doctor consult करें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">5. Nutrition</h4>
-                        <p class="text-sm text-gray-600">हल्का और nutritious भोजन खाएं। khichdi, dal, fruits, vegetables। <a href="<?php echo $base_url; ?>immunity-kaise-badhaye.php" class="text-primary-600 hover:underline">Immunity strong</a> रखना important है।</p>
+                        <p class="text-sm text-gray-600">हल्का और nutritious भोजन खाएं। khichdi, dal, fruits, vegetables। <a href="/blog/immunity-kaise-badhaye/" class="text-primary-600 hover:underline">Immunity strong</a> रखना important है।</p>
                     </div>
                 </div>
 
@@ -375,7 +375,7 @@
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">वायरल बुखार का Expert इलाज</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में viral fever की diagnosis और supportive treatment available है। blood tests, flu test, और appropriate guidance।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
+                    <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
                 <h2 class="raj-h2-secondary">FAQs</h2>

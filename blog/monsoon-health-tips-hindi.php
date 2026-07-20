@@ -11,11 +11,11 @@ $base_url = '../';
     <meta name="keywords" content="monsoon health tips in hindi, mausam me health care, monsoon diseases prevention, mazboot rakhne ke tarike, barish me bimari se bachav">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
-    <link rel="canonical" href="https://rajhospitals.com/blog/monsoon-health-tips-hindi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/monsoon-health-tips-hindi/">
     <meta property="og:title" content="मानसून में स्वास्थ्य टिप्स - बीमारियों से कैसे बचें?">
     <meta property="og:description" content="मानसून में बीमारियों से बचने के लिए आसान और प्रभावी स्वास्थ्य टिप्स।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/monsoon-health-tips-hindi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/monsoon-health-tips-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
     <title>मानसून में स्वास्थ्य टिप्स - बीमारियों से कैसे बचें? | RAJ Hospital Ranchi</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/monsoon-health-tips-hindi.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/monsoon-health-tips-hindi/",
         "keywords": ["monsoon health tips", "mausam me health care", "monsoon diseases prevention"],
         "about": {
             "@type": "MedicalCondition",
@@ -173,7 +173,7 @@ $base_url = '../';
         ]
     }
     </script>
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
     <?php include $base_url . 'components/navbar.php'; ?>
@@ -183,9 +183,9 @@ $base_url = '../';
     <div class="bg-white border-b">
         <div class="max-w-4xl mx-auto px-4 py-3">
             <nav class="flex text-sm text-gray-600">
-                <a href="<?php echo $base_url; ?>index.php" class="hover:text-hospital-blue">होम</a>
+                <a href="/index.php" class="hover:text-hospital-blue">होम</a>
                 <span class="mx-2">/</span>
-                <a href="<?php echo $base_url; ?>blog" class="hover:text-hospital-blue">ब्लॉग</a>
+                <a href="/blog" class="hover:text-hospital-blue">ब्लॉग</a>
                 <span class="mx-2">/</span>
                 <span class="text-gray-800">स्वास्थ्य टिप्स</span>
             </nav>
@@ -277,7 +277,7 @@ $base_url = '../';
                 मच्छरों से बचने के आसान तरीके
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                मच्छर मानसून की सबसे बड़ी समस्या है। ये कई गंभीर बीमारियों को फैलाते हैं। <a href="https://rajhospitals.com/blog/viral-fever-symptoms-in-hindi.php" class="text-hospital-blue hover:underline">वायरल फीवर</a> जैसी बीमारियाँ भी मच्छरों से फैल सकती हैं। इनसे बचाव के लिए इन तरीकों को अपनाएं:
+                मच्छर मानसून की सबसे बड़ी समस्या है। ये कई गंभीर बीमारियों को फैलाते हैं। <a href="https://rajhospitals.com/blog/viral-fever-symptoms-in-hindi/" class="text-hospital-blue hover:underline">वायरल फीवर</a> जैसी बीमारियाँ भी मच्छरों से फैल सकती हैं। इनसे बचाव के लिए इन तरीकों को अपनाएं:
             </p>
 
             <div class="space-y-4 mb-6">
@@ -339,7 +339,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">मानसून में बीमार हो गए?</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में तुरंत जाँच कराएँ</p>
                     </div>
-                    <a href="https://rajhospitals.com/appointment.php" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                    <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
                     </a>
                 </div>
@@ -350,7 +350,7 @@ $base_url = '../';
                 पानी और भोजन की सावधानी
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                मानसून में पानी और भोजन से होने वाले संक्रमण बहुत आम हैं। <a href="https://rajhospitals.com/blog/typhoid-bar-bar-kyu-hota-hai.php" class="text-hospital-blue hover:underline">टाइफाइड</a> और <a href="https://rajhospitals.com/blog/food-poisoning-symptoms-in-hindi.php" class="text-hospital-blue hover:underline">फूड पॉइजनिंग</a> जैसी बीमारियाँ दूषित भोजन और पानी से फैलती हैं। इन बीमारियों से बचने के लिए:
+                मानसून में पानी और भोजन से होने वाले संक्रमण बहुत आम हैं। <a href="https://rajhospitals.com/blog/typhoid-bar-bar-kyu-hota-hai/" class="text-hospital-blue hover:underline">टाइफाइड</a> और <a href="https://rajhospitals.com/blog/food-poisoning-symptoms-in-hindi/" class="text-hospital-blue hover:underline">फूड पॉइजनिंग</a> जैसी बीमारियाँ दूषित भोजन और पानी से फैलती हैं। इन बीमारियों से बचने के लिए:
             </p>
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">पानी के नियम:</h3>
@@ -407,7 +407,7 @@ $base_url = '../';
                 इम्यूनिटी कैसे बढ़ाएँ मानसून में
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                मानसून में इम्यूनिटी मज़बूत रखना बहुत ज़रूरी है। <a href="https://rajhospitals.com/blog/immunity-kaise-badhaye.php" class="text-hospital-blue hover:underline">इम्यूनिटी बढ़ाने के तरीकों</a> के बारे में अधिक जानें। यहाँ कुछ आसान उपाय बताए जा रहे हैं:
+                मानसून में इम्यूनिटी मज़बूत रखना बहुत ज़रूरी है। <a href="https://rajhospitals.com/blog/immunity-kaise-badhaye/" class="text-hospital-blue hover:underline">इम्यूनिटी बढ़ाने के तरीकों</a> के बारे में अधिक जानें। यहाँ कुछ आसान उपाय बताए जा रहे हैं:
             </p>
 
             <div class="space-y-4 mb-6">
@@ -483,7 +483,7 @@ $base_url = '../';
                 डेंगी के लक्षण पहचानें और तुरंत इलाज कराएँ
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                डेंगी एक गंभीर बीमारी है। <a href="https://rajhospitals.com/blog/chikungunya-ke-lakshan-in-hindi.php" class="text-hospital-blue hover:underline">चिकनगुनिया</a> की तरह यह भी मच्छरों से फैलती है। <strong>डेंगी के लक्षण</strong> पहचानना ज़रूरी है:
+                डेंगी एक गंभीर बीमारी है। <a href="https://rajhospitals.com/blog/chikungunya-ke-lakshan-in-hindi/" class="text-hospital-blue hover:underline">चिकनगुनिया</a> की तरह यह भी मच्छरों से फैलती है। <strong>डेंगी के लक्षण</strong> पहचानना ज़रूरी है:
             </p>
 
             <div class="bg-red-50 border border-red-200 rounded-lg p-4 mb-6">
@@ -586,28 +586,28 @@ $base_url = '../';
                 संबंधित स्वास्थ्य गाइड
             </h3>
             <div class="grid md:grid-cols-2 gap-4">
-                <a href="https://rajhospitals.com/blog/viral-fever-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/viral-fever-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">वायरल फीवर के लक्षण</h4>
                         <p class="text-gray-500 text-xs">मानसून में वायरल बुखार से बचाव</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/immunity-kaise-badhaye.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/immunity-kaise-badhaye/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">इम्यूनिटी कैसे बढ़ाएं</h4>
                         <p class="text-gray-500 text-xs">प्राकृतिक तरीकों से प्रतिरक्षा मज़बूत करें</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/chikungunya-ke-lakshan-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/chikungunya-ke-lakshan-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">चिकनगुनिया के लक्षण</h4>
                         <p class="text-gray-500 text-xs">जोड़ों में दर्द और बुखार</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/typhoid-bar-bar-kyu-hota-hai.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/typhoid-bar-bar-kyu-hota-hai/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">टाइफाइड बार-बार क्यों होता है</h4>

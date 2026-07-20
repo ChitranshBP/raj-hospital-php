@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब घरेलू उपाय काफी हैं। Heart और lungs की जांच।">
     <meta name="keywords" content="chest pain, सीने में दर्द, chest pain ka ilaj, heart pain, cardiac emergency, chest pain treatment in hindi, heart health ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/chest-pain-ka-ilaj.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/chest-pain-ka-ilaj/">
 
     <meta property="og:title" content="सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide">
     <meta property="og:description" content="सीने में दर्द के कारण, लक्षण और इलाज जानें।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/chest-pain-ka-ilaj.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/chest-pain-ka-ilaj/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/chest-pain-ka-ilaj.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide | RAJ Hospital Ranchi",
         "description": "सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब घरेलू उपाय काफी हैं। Heart और lungs की जांच।",
-        "url": "https://rajhospitals.com/blog/chest-pain-ka-ilaj.php",
+        "url": "https://rajhospitals.com/blog/chest-pain-ka-ilaj/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/chest-pain-ka-ilaj.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-17",
         "dateModified": "2026-05-17",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/chest-pain-ka-ilaj.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/chest-pain-ka-ilaj/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">सीने में दर्द का इलाज</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/chest-pain-ka-ilaj.png" alt="सीने में दर्द का इलाज - Chest Pain Treatment" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/chest-pain-ka-ilaj.png" alt="सीने में दर्द का इलाज - Chest Pain Treatment" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -341,7 +341,7 @@
                 <div class="bg-gradient-to-r from-red-600 to-red-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Heart Checkup की जरूरत है?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में ECG, Echocardiography, Stress Test और Angiography available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

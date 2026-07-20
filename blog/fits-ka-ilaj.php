@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fits Ka Ilaj - Epilepsy Treatment in Hindi | RAJ Hospital Ranchi</title>
@@ -253,7 +253,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -262,9 +262,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Fits Ka Ilaj - Epilepsy Treatment</span>
         </nav>
@@ -289,7 +289,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital Ranchi में हमारी expert neurology team <strong>epilepsy treatment</strong> में specialized है। हमारे पास advanced diagnostic tools और latest treatment protocols उपलब्ध हैं। अगर आप या आपके किसी परिचित को fits की समस्या है, तो हमारे <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline font-semibold">experienced neurologists</a> से ज़रूर मिलें।
+                    RAJ Hospital Ranchi में हमारी expert neurology team <strong>epilepsy treatment</strong> में specialized है। हमारे पास advanced diagnostic tools और latest treatment protocols उपलब्ध हैं। अगर आप या आपके किसी परिचित को fits की समस्या है, तो हमारे <a href="/doctor-profile.php" class="text-primary-600 hover:underline font-semibold">experienced neurologists</a> से ज़रूर मिलें।
                 </p>
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">
@@ -305,7 +305,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    यह समझना ज़रूरी है कि <strong>fits एक बीमारी है, कोई curse या evil spirit नहीं</strong>। पुराने समय में लोग इसे अंधविश्वास से जोड़ते थे, लेकिन modern medicine में यह completely treatable है। अगर आपको या आपके परिवार में किसी को यह problem है, तो घबराएं नहीं - <a href="<?php echo $base_url; ?>epilepsy-and-seizures-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">proper medical treatment</a> से नियंत्रण मिल सकता है।
+                    यह समझना ज़रूरी है कि <strong>fits एक बीमारी है, कोई curse या evil spirit नहीं</strong>। पुराने समय में लोग इसे अंधविश्वास से जोड़ते थे, लेकिन modern medicine में यह completely treatable है। अगर आपको या आपके परिवार में किसी को यह problem है, तो घबराएं नहीं - <a href="/epilepsy-and-seizures-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">proper medical treatment</a> से नियंत्रण मिल सकता है।
                 </p>
 
                 <!-- Section 2: Types -->
@@ -340,7 +340,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">2. Brain Injury या Trauma</h4>
-                        <p class="text-sm text-gray-600">Head injury, accident, या brain surgery के बाद fits हो सकता है। इसे traumatic epilepsy कहते हैं। <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Head injury treatment</a> में समय पर इलाज ज़रूरी है।</p>
+                        <p class="text-sm text-gray-600">Head injury, accident, या brain surgery के बाद fits हो सकता है। इसे traumatic epilepsy कहते हैं। <a href="/head-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Head injury treatment</a> में समय पर इलाज ज़रूरी है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">3. Brain Infections</h4>
@@ -348,7 +348,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">4. Stroke</h4>
-                        <p class="text-sm text-gray-600">Brain stroke के बाद epilepsy develop हो सकती है। Stroke patients को especially ध्यान देना चाहिए। <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Stroke treatment</a> में comprehensive care available है।</p>
+                        <p class="text-sm text-gray-600">Brain stroke के बाद epilepsy develop हो सकती है। Stroke patients को especially ध्यान देना चाहिए। <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Stroke treatment</a> में comprehensive care available है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">5. Brain Tumors</h4>
@@ -521,11 +521,11 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Neuropathy (न्यूरोपैथी)</h4>
-                        <p class="text-sm text-gray-600">Nerve damage जो weakness, numbness, और pain करता है। कई बार fits और neuropathy एक ही underlying condition के signs हो सकते हैं। <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Neuropathy treatment</a> उपलब्ध है।</p>
+                        <p class="text-sm text-gray-600">Nerve damage जो weakness, numbness, और pain करता है। कई बार fits और neuropathy एक ही underlying condition के signs हो सकते हैं। <a href="/neuropathy-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Neuropathy treatment</a> उपलब्ध है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Back Pain और Sciatica</h4>
-                        <p class="text-sm text-gray-600">Long-term epilepsy medications की side effects में bone health affect हो सकता है। <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Back pain treatment</a> consultation available है।</p>
+                        <p class="text-sm text-gray-600">Long-term epilepsy medications की side effects में bone health affect हो सकता है। <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Back pain treatment</a> consultation available है।</p>
                     </div>
                 </div>
 
@@ -533,7 +533,7 @@
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Fits (Epilepsy) का Expert इलाज</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced neurologists द्वारा comprehensive epilepsy diagnosis और treatment उपलब्ध है। 24x7 emergency services भी available हैं।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
+                    <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
                 <!-- FAQs -->
@@ -546,7 +546,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Fits का इलाज कैसे होता है?</h4>
-                        <p class="text-gray-700"><strong>Fits का main treatment antiepileptic drugs (AEDs)</strong> है। अधिकतर patients को दवाइयों से नियंत्रण मिल जाता है। कुछ गंभीर cases में surgery या VNS (Vagus Nerve Stimulation) therapy की जा सकती है। RAJ Hospital Ranchi में हमारे <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline">expert neurologists</a> comprehensive treatment plan बनाते हैं।</p>
+                        <p class="text-gray-700"><strong>Fits का main treatment antiepileptic drugs (AEDs)</strong> है। अधिकतर patients को दवाइयों से नियंत्रण मिल जाता है। कुछ गंभीर cases में surgery या VNS (Vagus Nerve Stimulation) therapy की जा सकती है। RAJ Hospital Ranchi में हमारे <a href="/doctor-profile.php" class="text-primary-600 hover:underline">expert neurologists</a> comprehensive treatment plan बनाते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Fits की दवाइयां कितने समय तक लेनी होती हैं?</h4>

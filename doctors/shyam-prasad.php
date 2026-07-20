@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Shyam Prasad – Emergency Medicine in Ranchi">
     <meta property="og:description" content="Dr. Shyam Prasad is an Emergency Medicine specialist at Raj Hospital, Ranchi with 12+ years in trauma & emergency care. Book an appointment today.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/shyam-prasad">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/shyam-prasad">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. Shyam Prasad is a dedicated Emergency Medicine specialist at Raj Hospital, Ranchi, with over 12 years of experience in trauma and emergency care. He provides rapid assessment and life-saving treatment for medical emergencies and critical injuries.",
     "medicalSpecialty": "Emergency",
     "qualifications": "MBBS, MD MEM",
-    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Emergency - Dr. Shyam-Prasad.webp",
+    "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Emergency - Dr. Shyam-Prasad.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/shyam-prasad",
+    "url": "https://rajhospitals.com/doctors/shyam-prasad",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

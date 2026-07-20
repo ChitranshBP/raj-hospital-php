@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital</title>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Stroke Symptoms in Men</span>
         </nav>
@@ -226,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>"Time is brain"</strong> - यह phrase stroke treatment की सबसे important concept है। Brain cells हर minute with oxygen की कमी में मरते जाते हैं। जितना जल्दी treatment शुरू होगा, उतना better the outcome। <a href="<?php echo $base_url; ?>index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में 24/7 stroke emergency services available हैं।
+                    <strong>"Time is brain"</strong> - यह phrase stroke treatment की सबसे important concept है। Brain cells हर minute with oxygen की कमी में मरते जाते हैं। जितना जल्दी treatment शुरू होगा, उतना better the outcome। <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में 24/7 stroke emergency services available हैं।
                 </p>
 
                 <!-- Section 1: What is Stroke -->
@@ -388,7 +388,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Prevention Tip:</strong>
-                    <span class="text-gray-700"> <a href="<?php echo $base_url; ?>remedies-for-high-bp.php" class="text-secondary-600 hover:underline">High BP control करना</a> stroke prevention का सबसे effective तरीका है। Regular BP check aur medicines लें।</span>
+                    <span class="text-gray-700"> <a href="/blog/remedies-for-high-bp/" class="text-secondary-600 hover:underline">High BP control करना</a> stroke prevention का सबसे effective तरीका है। Regular BP check aur medicines लें।</span>
                 </div>
 
                 <!-- Section 6: TIA -->
@@ -430,14 +430,14 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital Ranchi में हमारी <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">stroke treatment team</a> 24/7 available है aur advanced treatment options provide करती है।
+                    RAJ Hospital Ranchi में हमारी <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">stroke treatment team</a> 24/7 available है aur advanced treatment options provide करती है।
                 </p>
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Stroke Emergency? तुरंत Contact Karein!</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में 24/7 stroke emergency aur treatment available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Emergency: Call 108</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Emergency: Call 108</a>
                 </div>
 
                 <!-- FAQs -->

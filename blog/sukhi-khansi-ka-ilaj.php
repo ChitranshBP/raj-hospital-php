@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sukhi Khansi Ka Ilaj - सूखी खांसी का इलाज घरेलू उपाय | RAJ Hospital Ranchi</title>
     <meta name="description" content="Sukhi Khansi Ka Ilaj in Hindi: सूखी खांसी क्या है, इसके कारण, और घरेलू उपाय जो 1 minute में राहत दें। जानिए khansi kaise thik kare, khansi ka gharelu upay और Sukhi Khansi का permanent treatment।">
     <meta name="keywords" content="sukhi khansi ka ilaj, khansi ka gharelu upay, kasi kaise thik kare, sukhi khansi, खांसी का इलाज घरेलू">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/sukhi-khansi-ka-ilaj.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/sukhi-khansi-ka-ilaj/">
 
     <meta property="og:title" content="Sukhi Khansi Ka Ilaj - सूखी खांसी का इलाज घरेलू उपाय">
     <meta property="og:description" content="Sukhi Khansi Ka Ilaj in Hindi: सूखी खांसी क्या है, इसके कारण, और घरेलू उपाय जो 1 minute में राहत दें।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/sukhi-khansi-ka-ilaj.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/sukhi-khansi-ka-ilaj/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/sukhi-khansi-ka-ilaj.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Sukhi Khansi Ka Ilaj - सूखी खांसी का इलाज घरेलू उपाय | RAJ Hospital Ranchi",
         "description": "Sukhi Khansi Ka Ilaj in Hindi: सूखी खांसी क्या है, इसके कारण, और घरेलू उपाय जो 1 minute में राहत दें। जानिए khansi kaise thik kare, khansi ka gharelu upay और Sukhi Khansi का permanent treatment।",
-        "url": "https://rajhospitals.com/blog/sukhi-khansi-ka-ilaj.php",
+        "url": "https://rajhospitals.com/blog/sukhi-khansi-ka-ilaj/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/sukhi-khansi-ka-ilaj.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-06-01",
         "dateModified": "2026-06-01",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/sukhi-khansi-ka-ilaj.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/sukhi-khansi-ka-ilaj/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Sukhi Khansi Ka Ilaj</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/sukhi-khansi-ka-ilaj.png" alt="Sukhi Khansi Ka Ilaj - सूखी खांसी का इलाज घरेलू उपाय" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/sukhi-khansi-ka-ilaj.png" alt="Sukhi Khansi Ka Ilaj - सूखी खांसी का इलाज घरेलू उपाय" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->

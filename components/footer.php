@@ -17,7 +17,7 @@
                     <!-- Hospital Info -->
                     <div class="lg:col-span-2">
                         <div class="mb-6">
-                            <img src="<?php echo $base_url; ?>assets/Header/main-logo_ranchi-below.webp"
+                            <img src="/assets/Header/main-logo_ranchi-below.webp"
                                 alt="Raj Hospitals Logo" class="h-28 w-auto filter brightness-0 invert object-contain">
                         </div>
                         <p class="text-gray-300 leading-relaxed mb-6 text-sm">Raj Hospitals is a leading multi-specialty
@@ -67,27 +67,27 @@
                     <div>
                         <h4 class="text-lg font-bold mb-6 text-white uppercase tracking-wide">Quick Links</h4>
                         <ul class="space-y-2.5">
-                            <li><a href="<?php echo $base_url; ?>about.php"
+                            <li><a href="/about.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>About Raj Hospitals</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>find-a-doctor.php"
+                            <li><a href="/find-a-doctor.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Find a Doctor</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties.php"
+                            <li><a href="/"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Specialties</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>careers.php"
+                            <li><a href="/careers.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Careers</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>news-media.php"
+                            <li><a href="/news-media.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
@@ -97,12 +97,12 @@
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Blogs</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>corporate-tpa.php"
+                            <li><a href="/corporate-tpa.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Corporate/TPA Query</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>biomedical-waste-reports.php"
+                            <li><a href="/biomedical-waste-reports.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
@@ -114,42 +114,42 @@
                     <div>
                         <h4 class="text-lg font-bold mb-6 text-white uppercase tracking-wide">Centres of Excellence</h4>
                         <ul class="space-y-2.5">
-                            <li><a href="<?php echo $base_url; ?>specialties/cardiology.php"
+                            <li><a href="/specialties/cardiology.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Cardiology</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/critical-care.php"
+                            <li><a href="/specialties/critical-care.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Critical Care</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/emergency.php"
+                            <li><a href="/specialties/emergency.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Emergency</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/gastroenterology.php"
+                            <li><a href="/specialties/gastroenterology.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Gastroenterology</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/minimal-access-surgery.php"
+                            <li><a href="/specialties/minimal-access-surgery.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Minimal Access Surgery</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/nephrology.php"
+                            <li><a href="/specialties/nephrology.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Nephrology</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/neurosciences.php"
+                            <li><a href="/specialties/neurosciences.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Neurosciences</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/oncology-cancer-care.php"
+                            <li><a href="/specialties/oncology-cancer-care.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
@@ -161,32 +161,32 @@
                     <div>
                         <h4 class="text-lg font-bold mb-6 text-white uppercase tracking-wide">Allied Specialties</h4>
                         <ul class="space-y-2.5">
-                            <li><a href="<?php echo $base_url; ?>specialties/aesthetic-and-reconstructive-surgery.php"
+                            <li><a href="/specialties/aesthetic-and-reconstructive-surgery.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Aesthetic & Surg</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/dental.php"
+                            <li><a href="/specialties/dental.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Dental</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/dermatology.php"
+                            <li><a href="/specialties/dermatology.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Dermatology</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/ent.php"
+                            <li><a href="/specialties/ent.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>ENT</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/eye-care.php"
+                            <li><a href="/specialties/eye-care.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
                                     <span>Eye Care</span></a></li>
-                            <li><a href="<?php echo $base_url; ?>specialties/pediatrics-and-neonatology.php"
+                            <li><a href="/specialties/pediatrics-and-neonatology.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
                                         data-feather="chevron-right"
                                         class="w-3 h-3 text-orange-500 group-hover:translate-x-1 transition-transform"></i>
@@ -222,13 +222,13 @@
                             Provider in Jharkhand</p>
                     </div>
                     <div class="flex flex-wrap justify-center gap-4 text-xs">
-                        <a href="<?php echo $base_url; ?>privacy-policy.php"
+                        <a href="/privacy-policy.php"
                             class="text-gray-400 hover:text-orange-400 transition-colors">Privacy Policy</a>
                         <span class="text-gray-700">•</span>
-                        <a href="<?php echo $base_url; ?>terms-and-conditions.php"
+                        <a href="/terms-and-conditions.php"
                             class="text-gray-400 hover:text-orange-400 transition-colors">Terms & Conditions</a>
                         <span class="text-gray-700">•</span>
-                        <a href="<?php echo $base_url; ?>biomedical-waste-reports.php"
+                        <a href="/biomedical-waste-reports.php"
                             class="text-gray-400 hover:text-orange-400 transition-colors">BMW Reports</a>
                     </div>
                     <div class="text-gray-500 text-xs text-center mt-4 md:mt-0">

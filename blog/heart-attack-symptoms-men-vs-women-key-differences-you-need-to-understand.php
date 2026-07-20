@@ -1,10 +1,10 @@
-<?php $base_url = '../../'; ?>
+<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="hi">
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand | RAJ Hospital</title>
@@ -269,7 +269,7 @@
     }
     </script>
     <!-- RAJ SEO ORGANIZATION SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -278,9 +278,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-primary-600">Home</a>
+            <a href="/" class="hover:text-primary-600">Home</a>
             <span class="mx-2">/</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-primary-600">Blog</a>
+            <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">/</span>
             <span class="text-gray-700">Heart Attack Symptoms: Men vs Women</span>
         </nav>
@@ -301,7 +301,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Heart attacks</strong> (दिल का दौरा) are one of the leading causes of death worldwide, affecting both men and women. However, the symptoms and warning signs can vary significantly between genders. Understanding these differences is crucial for early detection and seeking immediate medical attention. At <a href="<?php echo $base_url; ?>index.php" class="text-primary-500 hover:underline">RAJ Hospital Ranchi</a>, our experienced <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-500 hover:underline">cardiology team</a> provides comprehensive heart attack treatment and emergency care services 24/7.
+                    <strong>Heart attacks</strong> (दिल का दौरा) are one of the leading causes of death worldwide, affecting both men and women. However, the symptoms and warning signs can vary significantly between genders. Understanding these differences is crucial for early detection and seeking immediate medical attention. At <a href="/index.php" class="text-primary-500 hover:underline">RAJ Hospital Ranchi</a>, our experienced <a href="/doctor-profile.php" class="text-primary-500 hover:underline">cardiology team</a> provides comprehensive heart attack treatment and emergency care services 24/7.
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -322,7 +322,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Understanding that <strong>heart attacks can happen to anyone</strong> - regardless of age, gender, or fitness level - is essential. While risk factors like family history, diabetes, high blood pressure, and smoking increase the likelihood, symptoms can manifest differently in different people. For more detailed information in Hindi, read our <a href="<?php echo $base_url; ?>blog/heart-attack-symptoms-in-hindi/" class="text-primary-500 hover:underline">complete guide on heart attack symptoms in Hindi</a>.
+                    Understanding that <strong>heart attacks can happen to anyone</strong> - regardless of age, gender, or fitness level - is essential. While risk factors like family history, diabetes, high blood pressure, and smoking increase the likelihood, symptoms can manifest differently in different people. For more detailed information in Hindi, read our <a href="/blog/heart-attack-symptoms-in-hindi/" class="text-primary-500 hover:underline">complete guide on heart attack symptoms in Hindi</a>.
                 </p>
 
                 <!-- Section 2: Men vs Women Statistics -->
@@ -367,11 +367,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">2. Pain Radiating to Left Arm</h4>
-                        <p class="text-sm text-gray-600">Pain that spreads from the chest to the left arm, shoulder, elbow, wrist, or even the fingers is a classic warning sign. This occurs because the nerves that supply the heart and arm share the same pathways in the spinal cord. Our <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-500 hover:underline">cardiac specialists</a> recommend immediate evaluation for any such symptoms.</p>
+                        <p class="text-sm text-gray-600">Pain that spreads from the chest to the left arm, shoulder, elbow, wrist, or even the fingers is a classic warning sign. This occurs because the nerves that supply the heart and arm share the same pathways in the spinal cord. Our <a href="/doctor-profile.php" class="text-primary-500 hover:underline">cardiac specialists</a> recommend immediate evaluation for any such symptoms.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">3. Jaw, Neck, and Back Pain</h4>
-                        <p class="text-sm text-gray-600">Men often experience pain or discomfort in the jaw, neck, upper back, or throat. This can feel like a dull ache or pressure that worsens with movement. For more information on related conditions, see our guide on <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline">back pain treatment in Ranchi</a>.</p>
+                        <p class="text-sm text-gray-600">Men often experience pain or discomfort in the jaw, neck, upper back, or throat. This can feel like a dull ache or pressure that worsens with movement. For more information on related conditions, see our guide on <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline">back pain treatment in Ranchi</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">4. Shortness of Breath</h4>
@@ -409,7 +409,7 @@
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">5. Upper Back and Shoulder Pain</h4>
-                        <p class="text-sm text-gray-600">Pain between the shoulder blades or in the upper back is more common in women than chest pain. This can radiate to the jaw and neck, often mistaken for muscle strain. Learn more about <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline">back pain conditions</a> we treat at RAJ Hospital.</p>
+                        <p class="text-sm text-gray-600">Pain between the shoulder blades or in the upper back is more common in women than chest pain. This can radiate to the jaw and neck, often mistaken for muscle strain. Learn more about <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline">back pain conditions</a> we treat at RAJ Hospital.</p>
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">6. Lightheadedness and Dizziness</h4>
@@ -468,7 +468,7 @@
                 </ul>
 
                 <p class="text-gray-700 mb-6">
-                    Silent heart attacks can cause lasting damage to the heart muscle and significantly increase the risk of future heart attacks. Regular cardiac check-ups at <a href="<?php echo $base_url; ?>contact.php" class="text-primary-500 hover:underline">RAJ Hospital</a> can help detect these silent events and prevent further damage.
+                    Silent heart attacks can cause lasting damage to the heart muscle and significantly increase the risk of future heart attacks. Regular cardiac check-ups at <a href="/contact.php" class="text-primary-500 hover:underline">RAJ Hospital</a> can help detect these silent events and prevent further damage.
                 </p>
 
                 <!-- Section 7: When to Seek Help -->
@@ -525,7 +525,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital offers comprehensive <strong>heart health check-up packages</strong> designed for both men and women. Our preventive cardiology program includes ECG, echocardiography, stress tests, and blood work analysis. To book a consultation, visit our <a href="<?php echo $base_url; ?>contact.php" class="text-primary-500 hover:underline">contact page</a>.
+                    RAJ Hospital offers comprehensive <strong>heart health check-up packages</strong> designed for both men and women. Our preventive cardiology program includes ECG, echocardiography, stress tests, and blood work analysis. To book a consultation, visit our <a href="/contact.php" class="text-primary-500 hover:underline">contact page</a>.
                 </p>
 
                 <!-- Section 9: Related Conditions -->
@@ -536,15 +536,15 @@
                 </p>
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
-                    <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-primary-500">Stroke Treatment</div>
                         <p class="text-xs text-gray-500 mt-1">Emergency care for brain attacks</p>
                     </a>
-                    <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/neuropathy-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-primary-500">Neuropathy Care</div>
                         <p class="text-xs text-gray-500 mt-1">Nerve damage treatment</p>
                     </a>
-                    <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
+                    <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg text-center hover:bg-gray-100 transition-colors">
                         <div class="font-bold text-primary-500">Back Pain Treatment</div>
                         <p class="text-xs text-gray-500 mt-1">Comprehensive spine care</p>
                     </a>
@@ -555,7 +555,7 @@
                     <h3 class="text-xl font-bold mb-2">Need Cardiac Care in Ranchi?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital offers 24/7 emergency cardiac care, diagnostic services, and treatment for heart conditions. Don't ignore warning signs - early action saves lives.</p>
                     <div class="flex flex-wrap justify-center gap-4">
-                        <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-500 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                        <a href="/contact.php" class="inline-block bg-white text-primary-500 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                         <a href="tel:+91XXXXXXXXXX" class="inline-block border-2 border-white text-white font-bold px-6 py-2 rounded-lg hover:bg-white/10 transition-colors">Call Emergency</a>
                     </div>
                 </div>
@@ -656,11 +656,11 @@
                 <div class="mt-8 pt-8 border-t">
                     <h3 class="text-lg font-bold text-gray-800 mb-4">Related Articles</h3>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <a href="<?php echo $base_url; ?>blog/heart-attack-symptoms-in-hindi/" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
+                        <a href="/blog/heart-attack-symptoms-in-hindi/" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
                             <span class="text-primary-500 font-semibold">हिंदी में पढ़ें</span>
                             <p class="text-sm text-gray-600 mt-1">दिल के दौरे के लक्षण - पूरी जानकारी</p>
                         </a>
-                        <a href="<?php echo $base_url; ?>blog/heart-attack-symptoms-men/" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
+                        <a href="/blog/heart-attack-symptoms-men/" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
                             <span class="text-primary-500 font-semibold">Men's Guide</span>
                             <p class="text-sm text-gray-600 mt-1">Heart attack symptoms specific to men</p>
                         </a>

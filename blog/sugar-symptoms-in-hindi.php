@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital</title>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Sugar Symptoms in Hindi</span>
         </nav>
@@ -226,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस article में <a href="<?php echo $base_url; ?>index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के diabetes experts <strong>high blood sugar (sugar high)</strong> aur <strong>low blood sugar (sugar low)</strong> के symptoms, causes, aur prevention के बारे में detail से बताएंगे।
+                    इस article में <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के diabetes experts <strong>high blood sugar (sugar high)</strong> aur <strong>low blood sugar (sugar low)</strong> के symptoms, causes, aur prevention के बारे में detail से बताएंगे।
                 </p>
 
                 <!-- Section 1: Understanding Blood Sugar -->
@@ -375,7 +375,7 @@
 
                 <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Healthy Diet:</strong> <a href="<?php echo $base_url; ?>best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">Balanced Indian diet</a> follow करें, processed foods avoid करें।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Healthy Diet:</strong> <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">Balanced Indian diet</a> follow करें, processed foods avoid करें।</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Exercise:</strong> Daily 30 minutes moderate activity।</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Weight Management:</strong> Healthy weight maintain करें।</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Checkups:</strong> Yearly blood sugar screening करें, especially family history हो तो।</li>
@@ -388,7 +388,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Diabetes Ki Jaanch Ke Liye Contact Karein</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced endocrinologists aur diabetes educators available hain।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

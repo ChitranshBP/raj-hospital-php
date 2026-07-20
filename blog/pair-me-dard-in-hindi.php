@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>पैर में दर्द - कारण, घरेलू उपाय और इलाज | RAJ Hospital Ranchi</title>
     <meta name="description" content="पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, arthritis, gout में अंतर। जानें कब डॉक्टर जाना है।">
     <meta name="keywords" content="pair me dard, पैर में दर्द, foot pain, leg pain, heel pain, plantar fasciitis, ankle pain Hindi, पैर दर्द का इलाज">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/pair-me-dard-in-hindi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/pair-me-dard-in-hindi/">
 
     <meta property="og:title" content="पैर में दर्द - कारण, घरेलू उपाय और इलाज">
     <meta property="og:description" content="पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/pair-me-dard-in-hindi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/pair-me-dard-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/pair-me-dard-in-hindi.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "पैर में दर्द - कारण, घरेलू उपाय और इलाज | RAJ Hospital Ranchi",
         "description": "पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, arthritis, gout में अंतर। जानें कब डॉक्टर जाना है।",
-        "url": "https://rajhospitals.com/blog/pair-me-dard-in-hindi.php",
+        "url": "https://rajhospitals.com/blog/pair-me-dard-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pair-me-dard-in-hindi.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/pair-me-dard-in-hindi.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pair-me-dard-in-hindi/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">पैर में दर्द - Complete Guide</span>
         </nav>
@@ -332,7 +332,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">पैर की जांच करवाएं</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में X-Ray, MRI और Orthopedic experts available हैं।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- Section 5: Prevention -->
@@ -384,7 +384,6 @@
                         <li><a href="/blog/garbhavastha-me-kya-kaam-nahi-karna-chahiye.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भावस्था में क्या काम नहीं करना चाहिए</a></li>
                         <li><a href="/blog/low-vitamin-d-symptoms-female.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज</a></li>
                         <li><a href="/blog/most-common-dental-procedures-and-how-they-work.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दांतों के सबसे आम प्रक्रियाएं और उनका काम</a></li>
-                        <li><a href="/blog/revolutionary-50-cent-dna-sensor.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Revolutionary 50 Cent DNA Sensor - RAJ Hospital Science Update</a></li>
                         <li><a href="/blog/thyroid-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Thyroid Symptoms in Hindi | Thyroid ke Lakshan</a></li>
                         <li><a href="/blog/pair-me-dard-kyu-hota-h.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द क्यों होता है? - सभी कारण और समाधान</a></li>
                         <li><a href="/blog/subah-uthte-hi-pair-me-dard-kyon-hota-hai.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Subah Uthne Ke Baad Pair Mein Dard - Kyon Hota Hai?</a></li>

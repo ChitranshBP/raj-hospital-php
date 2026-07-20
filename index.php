@@ -530,7 +530,7 @@ Best Hospital in Jharkhand
                             <a href="contact.php"
                                 class="bg-orange-500 hover:bg-orange-600 text-white px-6 py-2 rounded-lg font-semibold shadow transition inline-block">Book
                                 Consultation</a>
-                            <a href="specialties/oncology.php"
+                            <a href="specialties/oncology-cancer-care.php"
                                 class="bg-[#0191C7] hover:bg-[#007ba8] text-white px-6 py-2 rounded-lg font-semibold shadow transition inline-block">Learn
                                 More</a>
                         </div>
@@ -557,7 +557,7 @@ Best Hospital in Jharkhand
                             <a href="contact.php"
                                 class="bg-orange-500 hover:bg-orange-600 text-white px-6 py-2 rounded-lg font-semibold shadow transition inline-block">Book
                                 Consultation</a>
-                            <a href="specialties/orthopaedics.php"
+                            <a href="specialties/orthopaedics-and-joint-replacement.php"
                                 class="bg-[#0191C7] hover:bg-[#007ba8] text-white px-6 py-2 rounded-lg font-semibold shadow transition inline-block">Learn
                                 More</a>
                         </div>
@@ -724,7 +724,7 @@ Best Hospital in Jharkhand
                             <a href="contact.php"
                                 class="bg-orange-500 hover:bg-orange-600 text-white px-6 py-2 rounded-lg font-semibold shadow transition inline-block">Book
                                 Consultation</a>
-                            <a href="specialties/pediatrics.php"
+                            <a href="specialties/pediatrics-and-neonatology.php"
                                 class="bg-[#0191C7] hover:bg-[#007ba8] text-white px-6 py-2 rounded-lg font-semibold shadow transition inline-block">Learn
                                 More</a>
                         </div>

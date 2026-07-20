@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital</title>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Seene Me Gas Ka Dard</span>
         </nav>
@@ -226,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <a href="<?php echo $base_url; ?>index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी gastroenterology team gas problems के diagnosis aur treatment में experienced है। यह guide <strong>seene me gas ka dard</strong> के causes, symptoms, aur treatment options के बारे में detailed information provide करती है।
+                    <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी gastroenterology team gas problems के diagnosis aur treatment में experienced है। यह guide <strong>seene me gas ka dard</strong> के causes, symptoms, aur treatment options के बारे में detailed information provide करती है।
                 </p>
 
                 <!-- Section 1: What is Gas Pain -->
@@ -294,7 +294,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. Stress aur Anxiety</h4>
-                        <p class="text-sm text-gray-600">Stress digestion को affect करता है और gas production बढ़ा सकता है। <a href="<?php echo $base_url; ?>anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php" class="text-secondary-600 hover:underline">Stress management</a> important hai।</p>
+                        <p class="text-sm text-gray-600">Stress digestion को affect करता है और gas production बढ़ा सकता है। <a href="/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/" class="text-secondary-600 hover:underline">Stress management</a> important hai।</p>
                     </div>
                 </div>
 
@@ -405,7 +405,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Gas Problems Ki Jaanch Ke Liye Contact Karein</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert gastroenterologists available hain।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

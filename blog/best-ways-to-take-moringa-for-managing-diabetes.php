@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Best Ways to Take Moringa for Managing Diabetes | RAJ Hospital</title>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Moringa for Diabetes</span>
         </nav>
@@ -226,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    In this comprehensive guide, we at <a href="<?php echo $base_url; ?>index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> will explain the science behind moringa's anti-diabetic properties, the best ways to consume it, proper dosages, and how to integrate it into your <a href="<?php echo $base_url; ?>best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diabetes management plan</a>.
+                    In this comprehensive guide, we at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> will explain the science behind moringa's anti-diabetic properties, the best ways to consume it, proper dosages, and how to integrate it into your <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diabetes management plan</a>.
                 </p>
 
                 <!-- Section 1: What is Moringa -->
@@ -313,7 +313,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
-                    <span class="text-gray-700"> While moringa shows promising results, it should be used as a complementary therapy alongside prescribed diabetes medications and lifestyle changes. Always consult your doctor before starting any supplement. At RAJ Hospital, our <a href="<?php echo $base_url; ?>find-a-doctor.php" class="text-secondary-600 hover:underline">endocrinology specialists</a> can guide you on integrating moringa into your diabetes management plan.</span>
+                    <span class="text-gray-700"> While moringa shows promising results, it should be used as a complementary therapy alongside prescribed diabetes medications and lifestyle changes. Always consult your doctor before starting any supplement. At RAJ Hospital, our <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">endocrinology specialists</a> can guide you on integrating moringa into your diabetes management plan.</span>
                 </div>
 
                 <!-- Section 4: Best Ways to Consume -->
@@ -486,7 +486,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need Help Managing Your Diabetes?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital offers comprehensive diabetes care with expert endocrinologists and dietitians.</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

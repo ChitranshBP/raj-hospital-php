@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Ravish Ranjan – Gastroenterology in Ranchi">
     <meta property="og:description" content="Dr. Ravish Ranjan is a skilled Gastroenterologist at Raj Hospital Ranchi with 12 years experience in endoscopy and liver disease management. Book appointment now.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ravish-ranjan">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/ravish-ranjan">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. Ravish Ranjan is a skilled Gastroenterologist at Raj Hospital, Ranchi, with 12 years of experience in digestive health. He specializes in upper and lower GI endoscopy, liver disease management, and treatment of gastrointestinal disorders.",
     "medicalSpecialty": "Gastroenterology",
     "qualifications": "MBBS, MD (Internal Medicine), DNB Super Specialty",
-    "image": "https://www.rajhospitalranchi.com/assets/doctor-latest/Gastroenterologist - Dr. Ravish Ranjan.webp",
+    "image": "https://rajhospitals.com/assets/doctor-latest/Gastroenterologist - Dr. Ravish Ranjan.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/ravish-ranjan",
+    "url": "https://rajhospitals.com/doctors/ravish-ranjan",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

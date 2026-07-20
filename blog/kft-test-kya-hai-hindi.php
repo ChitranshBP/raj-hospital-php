@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KFT Test Kya Hota Hai | KFT Test in Hindi - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="KFT test kya hota hai in Hindi जानें। Kidney Function Test की पूरी जानकारी, normal values, test procedure, cost, aur interpretation। KFT test ke baare mein full details।">
     <meta name="keywords" content="kft test in hindi, kft test kya hota hai, kft test kya hai, kidney function test in hindi, kft test, lft kft test, kft pariksha, kidney test in hindi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/kft-test-kya-hai-hindi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/kft-test-kya-hai-hindi/">
 
     <meta property="og:title" content="KFT Test Kya Hota Hai | Kidney Function Test in Hindi">
     <meta property="og:description" content="KFT test ki puri jankari in Hindi। Kidney function test kya hota hai, normal values, procedure, cost aur interpretation।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/kft-test-kya-hai-hindi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/kft-test-kya-hai-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/kft-test-kya-hai-hindi.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -99,7 +99,7 @@
         "@type": "MedicalWebPage",
         "headline": "KFT Test Kya Hota Hai | KFT Test in Hindi - Complete Guide | RAJ Hospital",
         "description": "KFT test kya hota hai in Hindi जानें। Kidney Function Test की पूरी जानकारी, normal values, test procedure, cost, aur interpretation। KFT test ke baare mein full details।",
-        "url": "https://rajhospitals.com/blog/kft-test-kya-hai-hindi.php",
+        "url": "https://rajhospitals.com/blog/kft-test-kya-hai-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/kft-test-kya-hai-hindi.png",
         "author": {
             "@type": "Organization",
@@ -117,7 +117,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/kft-test-kya-hai-hindi.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/kft-test-kya-hai-hindi/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -234,7 +234,7 @@
     ]
 }
 </script>
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -243,9 +243,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">KFT Test Kya Hota Hai</span>
         </nav>
@@ -255,7 +255,7 @@
     <article class="max-w-4xl mx-auto px-4 pb-12">
         <!-- Featured Image -->
         <div class="rounded-xl overflow-hidden mb-8">
-            <img src="<?php echo $base_url; ?>blog/assets/img/featured/kft-test-kya-hai-hindi.png"
+            <img src="/blog/assets/img/featured/kft-test-kya-hai-hindi.png"
                  alt="KFT Test Kya Hota Hai - Kidney Function Test in Hindi"
                  class="w-full h-64 md:h-96 object-cover">
         </div>
@@ -876,7 +876,7 @@
             <div class="bg-secondary-600 text-white p-8 rounded-xl text-center">
                 <h2 class="text-2xl font-bold mb-4">KFT Test Karwana Chahte Hai?</h2>
                 <p class="mb-6">RAJ Hospital में KFT test aur complete kidney checkup available hai। Expert doctors se milein।</p>
-                <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                <a href="/contact.php" class="inline-block bg-white text-secondary-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                     Appointment Book Karein
                 </a>
             </div>

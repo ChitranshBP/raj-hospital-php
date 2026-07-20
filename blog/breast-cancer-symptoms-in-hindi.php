@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Breast Cancer Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="Breast Cancer Symptoms in Hindi - स्तन कैंसर के लक्षण, self-examination तरीका और prevention tips। Early detection से बचाव करें।">
     <meta name="keywords" content="breast cancer symptoms, breast cancer in hindi, स्तन कैंसर, लक्षण, oncology, ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi/">
 
     <meta property="og:title" content="Breast Cancer Symptoms in Hindi - जानें लक्षण">
     <meta property="og:description" content="Breast Cancer Symptoms in Hindi - स्तन कैंसर के लक्षण और prevention।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/breast-cancer-symptoms-in-hindi.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Breast Cancer Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi",
         "description": "Breast Cancer Symptoms in Hindi - स्तन कैंसर के लक्षण, self-examination तरीका और prevention tips। Early detection से बचाव करें।",
-        "url": "https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi.php",
+        "url": "https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/breast-cancer-symptoms-in-hindi.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Breast Cancer Symptoms in Hindi</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/breast-cancer-symptoms-in-hindi.png" alt="Breast Cancer Symptoms in Hindi - Breast Cancer Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/breast-cancer-symptoms-in-hindi.png" alt="Breast Cancer Symptoms in Hindi - Breast Cancer Guide" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -348,7 +348,7 @@
                 <div class="bg-gradient-to-r from-pink-600 to-pink-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Breast Cancer Screening करवाएं</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में Digital Mammography, Clinical Examination और oncology consultation available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-pink-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-pink-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

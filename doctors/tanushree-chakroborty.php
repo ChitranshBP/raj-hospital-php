@@ -2,7 +2,7 @@
 $pageTitle = "Dr. Tanushree Chakroborty – Obstetrics & Gynaecology in Ranchi";
 $pageDescription = "Dr. Tanushree Chakroborty is a senior Gynaecologist at Raj Hospital, Ranchi with 15+ years experience in obstetric care & colposcopy. Book appointment now.";
 $pageKeywords = "Dr. Tanushree Chakroborty, Gynaecologist in Ranchi, Best Obstetrician Ranchi, colposcopy specialist Ranchi, Dr. Tanushree Raj Hospital";
-$canonicalUrl = "https://www.rajhospitalranchi.com/doctors/tanushree-chakroborty";
+$canonicalUrl = "https://rajhospitals.com/doctors/tanushree-chakroborty";
 $ogType = "profile";
 $base_url = "../";
 include($base_url . 'header.php');
@@ -17,7 +17,7 @@ include($base_url . 'header.php');
     "description": "Dr. Tanushree Chakroborty is a senior Gynaecologist at Raj Hospital, Ranchi with 15+ years experience in obstetric care & colposcopy. Book appointment now.",
     "medicalSpecialty": "Obstetrics & Gynaecology",
     "qualifications": "MBBS, DGO",
-    "image": "https://www.rajhospitalranchi.com/assets/Doc-Side/tanushree_gyane.webp",
+    "image": "https://rajhospitals.com/assets/Doc-Side/tanushree_gyane.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -30,7 +30,7 @@ include($base_url . 'header.php');
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -41,7 +41,7 @@ include($base_url . 'header.php');
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/tanushree-chakroborty",
+    "url": "https://rajhospitals.com/doctors/tanushree-chakroborty",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

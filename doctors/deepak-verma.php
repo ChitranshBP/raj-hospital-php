@@ -12,7 +12,7 @@
     <meta property="og:title" content="Dr. Deepak Verma – Orthopaedics & Joint Replacement in Ranchi">
     <meta property="og:description" content="Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital Ranchi with 25+ years experience in joint replacement, trauma surgery & fracture management.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/deepak-verma">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/deepak-verma">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -73,7 +73,7 @@
     "description": "Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital, Ranchi, with over 25 years of experience in joint replacement and trauma surgery. He provides expert care for total knee and hip replacement, fracture management, and musculoskeletal disorders.",
     "medicalSpecialty": "Orthopaedics & Joint Replacement",
     "qualifications": "MBBS, MS (Ortho)",
-    "image": "https://www.rajhospitalranchi.com/assets/doctor-latest/deepak verma.webp",
+    "image": "https://rajhospitals.com/assets/doctor-latest/deepak verma.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -86,7 +86,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -97,7 +97,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/deepak-verma",
+    "url": "https://rajhospitals.com/doctors/deepak-verma",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

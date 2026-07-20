@@ -11,11 +11,11 @@ $base_url = '../';
     <meta name="keywords" content="breast cancer symptoms in hindi, breast cancer early signs, mahilaon mein cancer ke lakshan, breast lump, breast examination">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
-    <link rel="canonical" href="https://rajhospitals.com/blog/symptoms-of-breast-cancer-in-women-early-signs-every-woman-must-know.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/symptoms-of-breast-cancer-in-women-early-signs-every-woman-must-know/">
     <meta property="og:title" content="स्तन कैंसर के लक्षण - महिलाओं में शुरुआती संकेत">
     <meta property="og:description" content="स्तन कैंसर के early signs जो हर महिला को पता होने चाहिए।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/symptoms-of-breast-cancer-in-women-early-signs-every-woman-must-know.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/symptoms-of-breast-cancer-in-women-early-signs-every-woman-must-know/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
     <title>स्तन कैंसर के लक्षण - महिलाओं में शुरुआती संकेत | RAJ Hospital Ranchi</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-23",
         "dateModified": "2026-05-23",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/symptoms-of-breast-cancer-in-women-early-signs-every-woman-must-know.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/symptoms-of-breast-cancer-in-women-early-signs-every-woman-must-know/",
         "keywords": ["breast cancer symptoms", "breast cancer early signs", "mahilaon mein cancer"],
         "about": {
             "@type": "MedicalCondition",
@@ -173,7 +173,7 @@ $base_url = '../';
         ]
     }
     </script>
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
     <?php include $base_url . 'components/navbar.php'; ?>
@@ -183,9 +183,9 @@ $base_url = '../';
     <div class="bg-white border-b">
         <div class="max-w-4xl mx-auto px-4 py-3">
             <nav class="flex text-sm text-gray-600">
-                <a href="<?php echo $base_url; ?>index.php" class="hover:text-hospital-blue">होम</a>
+                <a href="/index.php" class="hover:text-hospital-blue">होम</a>
                 <span class="mx-2">/</span>
-                <a href="<?php echo $base_url; ?>blog" class="hover:text-hospital-blue">ब्लॉग</a>
+                <a href="/blog" class="hover:text-hospital-blue">ब्लॉग</a>
                 <span class="mx-2">/</span>
                 <span class="text-gray-800">कैंसर</span>
             </nav>
@@ -234,7 +234,7 @@ $base_url = '../';
             </div>
 
             <p class="text-lg text-gray-700 mb-6 leading-relaxed">
-                <strong>स्तन कैंसर (Breast Cancer)</strong> की early detection बहुत ज़रूरी है। जितनी जल्दी पहचान हो, उतना आसान इलाज। <a href="https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi.php" class="text-hospital-blue hover:underline">स्तन कैंसर के बारे में</a> हर महिला को पता होना चाहिए कि कौन से लक्षण normal हैं और कौन से चिंताजनक।
+                <strong>स्तन कैंसर (Breast Cancer)</strong> की early detection बहुत ज़रूरी है। जितनी जल्दी पहचान हो, उतना आसान इलाज। <a href="https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi/" class="text-hospital-blue hover:underline">स्तन कैंसर के बारे में</a> हर महिला को पता होना चाहिए कि कौन से लक्षण normal हैं और कौन से चिंताजनक।
             </p>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -333,7 +333,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">स्तन कैंसर स्क्रीनिंग</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में Mammography और Consultation</p>
                     </div>
-                    <a href="https://rajhospitals.com/appointment.php" class="mt-4 md:mt-0 bg-white text-pink-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                    <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-pink-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
                     </a>
                 </div>
@@ -534,28 +534,28 @@ $base_url = '../';
                 संबंधित स्वास्थ्य गाइड
             </h3>
             <div class="grid md:grid-cols-2 gap-4">
-                <a href="https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">स्तन कैंसर के लक्षण</h4>
                         <p class="text-gray-500 text-xs">Breast cancer symptoms in Hindi</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/cervical-cancer-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/cervical-cancer-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">गर्भाशय ग्रीवा कैंसर</h4>
                         <p class="text-gray-500 text-xs">Cervical cancer symptoms</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/symptoms-of-hormonal-imbalance-in-women-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">हार्मोनल असंतुलन</h4>
                         <p class="text-gray-500 text-xs">Women hormonal imbalance</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">PCOD Symptoms</h4>

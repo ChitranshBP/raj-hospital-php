@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>How RAJ Hospitals Helps Stroke Treatment in Ranchi | RAJ Hospital Ranchi</title>
     <meta name="description" content="How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। Ranchi's best stroke treatment center।">
     <meta name="keywords" content="stroke treatment ranchi, raj hospitals stroke, neurology ranchi, brain stroke treatment, stroke emergency ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/">
 
     <meta property="og:title" content="How RAJ Hospitals Helps Stroke Treatment in Ranchi">
     <meta property="og:description" content="How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care services।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "How RAJ Hospitals Helps Stroke Treatment in Ranchi | RAJ Hospital Ranchi",
         "description": "How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। Ranchi's best stroke treatment center।",
-        "url": "https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.php",
+        "url": "https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">RAJ Hospitals Stroke Treatment</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.png" alt="How RAJ Hospitals Helps Stroke Treatment in Ranchi" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.png" alt="How RAJ Hospitals Helps Stroke Treatment in Ranchi" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -335,7 +335,7 @@
                 <div class="bg-gradient-to-r from-red-600 to-red-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Stroke Emergency? We're Ready!</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi - Ranchi's trusted stroke treatment center with 24x7 emergency services।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Call Emergency</a>
+                    <a href="/contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Call Emergency</a>
                 </div>
 
                 <!-- FAQs -->

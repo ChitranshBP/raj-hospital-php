@@ -4,7 +4,7 @@
 
 <head>
     <?php include_once __DIR__ . '/../custom-code.php'; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Health Blog | RAJ Hospital Ranchi - Health Tips & Medical Insights</title>
@@ -121,7 +121,7 @@
                            class="group <?php echo $is_first_st ? 'md:col-span-3' : ''; ?> bg-white border <?php echo $is_first_st ? 'border-secondary-600 ring-2 ring-secondary-100' : 'border-gray-200'; ?> rounded-xl overflow-hidden shadow hover:shadow-xl transition flex <?php echo $is_first_st ? 'flex-col md:flex-row' : 'flex-col'; ?>">
                             <?php if ($lbs['image']) { ?>
                                 <div class="<?php echo $is_first_st ? 'md:w-1/2' : ''; ?> aspect-[16/9] bg-gray-50 overflow-hidden flex-shrink-0">
-                                    <img src="<?php echo htmlspecialchars($lbs['image']); ?>" alt="<?php echo htmlspecialchars($lbs['title']); ?>" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300" onerror="this.onerror=null;this.src='assets/img/Copy-of-Raj-Hospitals.jpg';">
+                                    <img src="<?php echo htmlspecialchars($lbs['image']); ?>" alt="<?php echo htmlspecialchars($lbs['title']); ?>" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300" onerror="this.onerror=null;this.src='/blog/assets/img/Copy-of-Raj-Hospitals.jpg';">
                                 </div>
                             <?php } ?>
                             <div class="p-5 flex-1 flex flex-col">

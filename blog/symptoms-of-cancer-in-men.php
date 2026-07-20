@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
     <meta name="description" content="Symptoms of cancer in men: learn the early warning signs, common cancers affecting men (prostate, lung, colorectal, bladder, skin), screening recommendations, and prevention tips from RAJ Hospital Ranchi.">
     <meta name="keywords" content="symptoms of cancer in men, cancer symptoms men, prostate cancer signs, lung cancer symptoms, colorectal cancer warning signs, cancer screening men, early cancer detection, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/symptoms-of-cancer-in-men.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/symptoms-of-cancer-in-men/">
 
     <meta property="og:title" content="Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know">
     <meta property="og:description" content="Early warning signs of cancer in men, common cancers, screening by age, and prevention tips. A practical guide from RAJ Hospital Ranchi.">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/symptoms-of-cancer-in-men.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/symptoms-of-cancer-in-men/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/symptoms-of-cancer-in-men.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
         "description": "Early warning signs of cancer in men, common cancers, screening by age, and prevention tips.",
-        "url": "https://rajhospitals.com/blog/symptoms-of-cancer-in-men.php",
+        "url": "https://rajhospitals.com/blog/symptoms-of-cancer-in-men/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/symptoms-of-cancer-in-men.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-06-01",
         "dateModified": "2026-06-01",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/symptoms-of-cancer-in-men.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/symptoms-of-cancer-in-men/",
         "inLanguage": "en-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50 font-sans">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">&rsaquo;</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">&rsaquo;</span>
             <span class="text-gray-700">Symptoms of Cancer in Men</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/symptoms-of-cancer-in-men.png" alt="Symptoms of Cancer in Men - Early Warning Signs" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/symptoms-of-cancer-in-men.png" alt="Symptoms of Cancer in Men - Early Warning Signs" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -421,7 +421,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need a Cancer Risk Assessment?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers comprehensive cancer screening packages, onco-consultations, and follow-up care under one roof.</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

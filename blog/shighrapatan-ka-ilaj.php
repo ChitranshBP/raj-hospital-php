@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज | RAJ Hospital Ranchi</title>
     <meta name="description" content="Shighrapatan Ka Ilaj in Hindi: शीघ्रपतन क्या है, इसके कारण, और घरेलू उपाय। जानिए shighrapatan meaning, shighrapatan kya hota hai, और premature ejaculation treatment।">
     <meta name="keywords" content="shighrapatan ka ilaj, shighrapatan kya hota hai, premature ejaculation in hindi, shighrapatan ke karan, shighrapatan ka ramban ilaj">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/shighrapatan-ka-ilaj.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/shighrapatan-ka-ilaj/">
 
     <meta property="og:title" content="Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज">
     <meta property="og:description" content="Shighrapatan Ka Ilaj in Hindi: शीघ्रपतन क्या है, इसके कारण, और घरेलू उपाय। जानिए premature ejaculation treatment।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/shighrapatan-ka-ilaj.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/shighrapatan-ka-ilaj/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/shighrapatan-ka-ilaj.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज | RAJ Hospital Ranchi",
         "description": "Shighrapatan Ka Ilaj in Hindi: शीघ्रपतन क्या है, इसके कारण, और घरेलू उपाय। जानिए shighrapatan meaning, shighrapatan kya hota hai, और premature ejaculation treatment।",
-        "url": "https://rajhospitals.com/blog/shighrapatan-ka-ilaj.php",
+        "url": "https://rajhospitals.com/blog/shighrapatan-ka-ilaj/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/shighrapatan-ka-ilaj.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-06-01",
         "dateModified": "2026-06-01",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/shighrapatan-ka-ilaj.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/shighrapatan-ka-ilaj/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Shighrapatan Ka Ilaj</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/shighrapatan-ka-ilaj.png" alt="Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/shighrapatan-ka-ilaj.png" alt="Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->

@@ -1,10 +1,10 @@
-<?php $base_url = '../../'; ?>
+<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="hi">
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं? | RAJ Hospital Ranchi</title>
@@ -235,7 +235,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -244,9 +244,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-primary-600">Home</a>
+            <a href="/" class="hover:text-primary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-primary-600">Blog</a>
+            <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">High BP Me Kya Khaye</span>
         </nav>
@@ -268,7 +268,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>High BP (उच्च रक्तचाप)</strong> एक ऐसी समस्या है जो लाखों भारतीयों को प्रभावित करती है। अगर आपका भी <a href="<?php echo $base_url; ?>blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="text-primary-600 hover:underline">high blood pressure</a> है, तो Diet सबसे Important step है। सही खान-पान से आप BP को नियंत्रित कर सकते हैं और दवाइयों की ज़रूरत भी कम हो सकती है।
+                    <strong>High BP (उच्च रक्तचाप)</strong> एक ऐसी समस्या है जो लाखों भारतीयों को प्रभावित करती है। अगर आपका भी <a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="text-primary-600 hover:underline">high blood pressure</a> है, तो Diet सबसे Important step है। सही खान-पान से आप BP को नियंत्रित कर सकते हैं और दवाइयों की ज़रूरत भी कम हो सकती है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -288,7 +288,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    High BP अगर control नहीं किया जाए तो <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">stroke</a>, heart attack, और kidney problems जैसी गंभीर बीमारियाँ हो सकती हैं। इसलिए diet पर ध्यान देना बहुत ज़रूरी है।
+                    High BP अगर control नहीं किया जाए तो <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">stroke</a>, heart attack, और kidney problems जैसी गंभीर बीमारियाँ हो सकती हैं। इसलिए diet पर ध्यान देना बहुत ज़रूरी है।
                 </p>
 
                 <!-- DASH Diet Section -->
@@ -490,14 +490,14 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    अगर आपको <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline">back pain</a> या joint problems हैं, तो lightweight exercises ज़रूर करें। Exercise BP control में major role play करता है।
+                    अगर आपको <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline">back pain</a> या joint problems हैं, तो lightweight exercises ज़रूर करें। Exercise BP control में major role play करता है।
                 </p>
 
                 <!-- When to See Doctor -->
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">High BP के Warning Signs - Doctor से कब मिलें?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    अगर आपको ये symptoms हों तो तुरंत <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi</a> में संपर्क करें:
+                    अगर आपको ये symptoms हों तो तुरंत <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi</a> में संपर्क करें:
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -509,7 +509,7 @@
                 </ul>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital में हमारी <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline">expert doctors team</a> BP management में specialized है। हम advanced diagnostic tests और personalized treatment plans provide करते हैं।
+                    RAJ Hospital में हमारी <a href="/doctor-profile.php" class="text-primary-600 hover:underline">expert doctors team</a> BP management में specialized है। हम advanced diagnostic tests और personalized treatment plans provide करते हैं।
                 </p>
 
                 <!-- Related Conditions -->
@@ -520,19 +520,19 @@
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="block bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors border border-gray-200">
+                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="block bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors border border-gray-200">
                         <h4 class="font-bold text-primary-600 mb-1">Stroke और TIA</h4>
                         <p class="text-sm text-gray-600">High BP stroke का major risk factor है। Prevention के लिए regular BP monitoring ज़रूरी है।</p>
                     </a>
-                    <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="block bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors border border-gray-200">
+                    <a href="/neuropathy-treatment-in-ranchi.php" class="block bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors border border-gray-200">
                         <h4 class="font-bold text-primary-600 mb-1">Neuropathy (Nerve Damage)</h4>
                         <p class="text-sm text-gray-600">Long-term high BP से nerve damage हो सकता है, especially feet में।</p>
                     </a>
-                    <a href="<?php echo $base_url; ?>movement-disorders-treatment-in-ranchi.php" class="block bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors border border-gray-200">
+                    <a href="/movement-disorders-treatment-in-ranchi.php" class="block bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors border border-gray-200">
                         <h4 class="font-bold text-primary-600 mb-1">Movement Disorders</h4>
                         <p class="text-sm text-gray-600">BP और brain health connected हैं। Parkinson जैसी conditions high BP से जुड़ी हो सकती हैं।</p>
                     </a>
-                    <a href="<?php echo $base_url; ?>blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="block bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors border border-gray-200">
+                    <a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="block bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors border border-gray-200">
                         <h4 class="font-bold text-primary-600 mb-1">High BP Symptoms</h4>
                         <p class="text-sm text-gray-600">High BP के symptoms और warning signs के बारे में और जानें।</p>
                     </a>
@@ -543,8 +543,8 @@
                     <h3 class="text-xl font-bold mb-2">क्या आप High BP से जूझ रहे हैं?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert neurologists और cardiologists high BP management में specialized हैं। अभी appointment book करें।</p>
                     <div class="flex flex-wrap justify-center gap-4">
-                        <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
-                        <a href="<?php echo $base_url; ?>doctor-profile.php" class="inline-block bg-primary-700 text-white font-bold px-6 py-2 rounded-lg hover:bg-primary-800 transition-colors">Meet Our Doctors</a>
+                        <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                        <a href="/doctor-profile.php" class="inline-block bg-primary-700 text-white font-bold px-6 py-2 rounded-lg hover:bg-primary-800 transition-colors">Meet Our Doctors</a>
                     </div>
                 </div>
 

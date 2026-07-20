@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Ashish Basant – Pediatrics and Neonatology in Ranchi">
     <meta property="og:description" content="Dr. Ashish Basant is a dedicated Pediatrician & Neonatologist at Raj Hospital Ranchi with 8 years experience in neonatal care and developmental pediatrics.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ashish-basant">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/ashish-basant">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. Ashish Basant is a dedicated Pediatrician and Neonatologist at Raj Hospital, Ranchi, with 8 years of experience in child and newborn care. He specializes in neonatal intensive care, childhood infections, and developmental pediatrics.",
     "medicalSpecialty": "Pediatrics and Neonatology",
     "qualifications": "MBBS, MD",
-    "image": "https://www.rajhospitalranchi.com/assets/new-doctors-side/ashish basant.webp",
+    "image": "https://rajhospitals.com/assets/new-doctors-side/ashish basant.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/ashish-basant",
+    "url": "https://rajhospitals.com/doctors/ashish-basant",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

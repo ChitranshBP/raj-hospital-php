@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Best Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi</title>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Indian Diet Plan for Diabetes</span>
         </nav>
@@ -226,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    This comprehensive guide presents a <strong>diabetes-friendly Indian diet plan</strong> designed by nutrition experts at <a href="<?php echo $base_url; ?>index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>. Whether you're dealing with Type 1, Type 2, or gestational diabetes, these dietary guidelines can help you maintain stable blood glucose levels while enjoying the flavors of authentic Indian cooking.
+                    This comprehensive guide presents a <strong>diabetes-friendly Indian diet plan</strong> designed by nutrition experts at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>. Whether you're dealing with Type 1, Type 2, or gestational diabetes, these dietary guidelines can help you maintain stable blood glucose levels while enjoying the flavors of authentic Indian cooking.
                 </p>
 
                 <!-- Section 1: Understanding Diabetes -->
@@ -237,7 +237,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Diet plays a crucial role in diabetes management because different foods affect blood sugar levels differently. Understanding the <strong>glycemic index (GI)</strong> of foods is essential - high GI foods cause rapid blood sugar spikes, while low GI foods provide steady, gradual energy release. Our <a href="<?php echo $base_url; ?>find-a-doctor.php" class="text-secondary-600 hover:underline">endocrinology specialists</a> at RAJ Hospital can help you create a personalized diabetes management plan.
+                    Diet plays a crucial role in diabetes management because different foods affect blood sugar levels differently. Understanding the <strong>glycemic index (GI)</strong> of foods is essential - high GI foods cause rapid blood sugar spikes, while low GI foods provide steady, gradual energy release. Our <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">endocrinology specialists</a> at RAJ Hospital can help you create a personalized diabetes management plan.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -482,7 +482,7 @@
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Stress Management:</strong> Practice meditation or deep breathing - stress hormones affect blood sugar</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quality Sleep:</strong> 7-8 hours of sleep helps regulate hormones</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Monitoring:</strong> Check blood sugar levels as recommended by your doctor</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Moringa Supplement:</strong> Consider adding <a href="<?php echo $base_url; ?>best-ways-to-take-moringa-for-managing-diabetes/" class="text-secondary-600 hover:underline">moringa to your routine</a></li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Moringa Supplement:</strong> Consider adding <a href="/blog/best-ways-to-take-moringa-for-managing-diabetes/" class="text-secondary-600 hover:underline">moringa to your routine</a></li>
                     </ul>
                 </div>
 
@@ -490,7 +490,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need Personalized Diabetes Care?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers comprehensive diabetes management with expert endocrinologists and dietitians.</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

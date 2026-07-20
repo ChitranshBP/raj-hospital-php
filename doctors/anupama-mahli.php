@@ -2,7 +2,7 @@
 $pageTitle = "Dr. Anupama Mahli – Obstetrics & Gynaecology in Ranchi";
 $pageDescription = "Dr. Anupama Mahli is an experienced Obstetrician & Gynaecologist at Raj Hospital, Ranchi, with over 10 years of expertise in women's healthcare. Book appointment now.";
 $pageKeywords = "Dr. Anupama Mahli, Gynaecologist in Ranchi, Best Obstetrician in Ranchi, Dr. Anupama Mahli Raj Hospital, women's health specialist Ranchi";
-$canonicalUrl = "https://www.rajhospitalranchi.com/doctors/anupama-mahli";
+$canonicalUrl = "https://rajhospitals.com/doctors/anupama-mahli";
 $ogType = "profile";
 $base_url = "../";
 include($base_url . 'header.php');
@@ -17,7 +17,7 @@ include($base_url . 'header.php');
     "description": "Dr. Anupama Mahli is an experienced Obstetrician & Gynaecologist at Raj Hospital, Ranchi, with over 10 years of expertise in women's healthcare. Book appointment now.",
     "medicalSpecialty": "Obstetrics & Gynaecology",
     "qualifications": "MBBS, MS (Obstetrics), DNB (Obs & Gyn), D.MAS",
-    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Gyanecologist - Dr. Anupama-Mahli.webp",
+    "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Gyanecologist - Dr. Anupama-Mahli.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -30,7 +30,7 @@ include($base_url . 'header.php');
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -41,7 +41,7 @@ include($base_url . 'header.php');
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/anupama-mahli",
+    "url": "https://rajhospitals.com/doctors/anupama-mahli",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

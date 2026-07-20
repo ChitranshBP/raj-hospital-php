@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi | RAJ Hospital Ranchi</title>
@@ -248,7 +248,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -257,9 +257,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Gas Se Peeth Dard</span>
         </nav>
@@ -284,7 +284,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    रांची में <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline font-semibold">back pain and sciatica treatment in Ranchi</a> के लिए RAJ Hospital में अनुभवी न्यूरोलॉजिस्ट डॉक्टर उपलब्ध हैं जो गैस से संबंधित पीठ दर्द की जांच और इलाज करते हैं। अगर आपको भी पीठ में दर्द हो रहा है और आप समझ नहीं पा रहे कि इसका कारण क्या है, तो यह लेख आपके लिए बहुत मददगार होगा।
+                    रांची में <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline font-semibold">back pain and sciatica treatment in Ranchi</a> के लिए RAJ Hospital में अनुभवी न्यूरोलॉजिस्ट डॉक्टर उपलब्ध हैं जो गैस से संबंधित पीठ दर्द की जांच और इलाज करते हैं। अगर आपको भी पीठ में दर्द हो रहा है और आप समझ नहीं पा रहे कि इसका कारण क्या है, तो यह लेख आपके लिए बहुत मददगार होगा।
                 </p>
 
                 <!-- Section 1: What is Gas -->
@@ -300,7 +300,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-primary-700">महत्वपूर्ण जानकारी:</strong>
-                    <span class="text-gray-700"> गैस से पीठ दर्द आमतौर पर गंभीर नहीं होता, लेकिन अगर दर्द बहुत तेज हो या लंबे समय तक रहे, तो <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 hover:underline font-semibold">RAJ Hospital के न्यूरोलॉजिस्ट डॉक्टर</a> से मिलना चाहिए।</span>
+                    <span class="text-gray-700"> गैस से पीठ दर्द आमतौर पर गंभीर नहीं होता, लेकिन अगर दर्द बहुत तेज हो या लंबे समय तक रहे, तो <a href="/doctor-profile.php" class="text-primary-600 hover:underline font-semibold">RAJ Hospital के न्यूरोलॉजिस्ट डॉक्टर</a> से मिलना चाहिए।</span>
                 </div>
 
                 <!-- Section 2: Causes -->
@@ -317,7 +317,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">2. पाचन संबंधी समस्याएं (Digestive Issues)</h4>
-                        <p class="text-sm text-gray-600">गैस्ट्रोइंटेस्टाइनल रिफ्लक्स (GERD), पेप्टिक अल्सर, या इरिटेबल बाउल सिंड्रोम (IBS) में गैस ज्यादा बनती है जो <a href="<?php echo $base_url; ?>gas-ke-dard-ke-lakshan.php" class="text-primary-600 hover:underline">gas ke dard ke lakshan</a> को बढ़ा सकती है।</p>
+                        <p class="text-sm text-gray-600">गैस्ट्रोइंटेस्टाइनल रिफ्लक्स (GERD), पेप्टिक अल्सर, या इरिटेबल बाउल सिंड्रोम (IBS) में गैस ज्यादा बनती है जो <a href="/blog/gas-ke-dard-ke-lakshan/" class="text-primary-600 hover:underline">gas ke dard ke lakshan</a> को बढ़ा सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">3. कब्ज की समस्या (Constipation)</h4>
@@ -333,7 +333,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">6. नर्व कम्प्रेशन (Nerve Compression)</h4>
-                        <p class="text-sm text-gray-600">कुछ मामलों में, पेट की गैस से फैलाव इतना ज्यादा हो सकता है कि यह पीठ की रीढ़ की नसों पर दबाव डाले। <a href="<?php echo $base_url; ?>spinal-cord-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Spinal cord specialist</a> इसकी जांच कर सकते हैं।</p>
+                        <p class="text-sm text-gray-600">कुछ मामलों में, पेट की गैस से फैलाव इतना ज्यादा हो सकता है कि यह पीठ की रीढ़ की नसों पर दबाव डाले। <a href="/spinal-cord-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Spinal cord specialist</a> इसकी जांच कर सकते हैं।</p>
                     </div>
                 </div>
 
@@ -359,7 +359,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    अगर आप इनमें से कई लक्षण देख रहे हैं, तो यह <strong>gas pain back Hindi</strong> की तरफ इशारा करता है। <a href="<?php echo $base_url; ?>contact.php" class="text-primary-500 hover:underline font-semibold">RAJ Hospital Ranchi से संपर्क करें</a> और समय पर जांच करवाएं।
+                    अगर आप इनमें से कई लक्षण देख रहे हैं, तो यह <strong>gas pain back Hindi</strong> की तरफ इशारा करता है। <a href="/contact.php" class="text-primary-500 hover:underline font-semibold">RAJ Hospital Ranchi से संपर्क करें</a> और समय पर जांच करवाएं।
                 </p>
 
                 <!-- Section 4: When to worry -->
@@ -379,7 +379,7 @@
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> दर्द बहुत तेज हो और आराम न हो</li>
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> खून में दर्द हो या उल्टी हो</li>
                     </ul>
-                    <p class="mt-3 text-sm text-gray-600">ये लक्षण गंभीर समस्या की तरफ इशारा कर सकते हैं जिनके लिए <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-red-600 hover:underline">neurological assessment</a> जरूरी हो सकती है।</p>
+                    <p class="mt-3 text-sm text-gray-600">ये लक्षण गंभीर समस्या की तरफ इशारा कर सकते हैं जिनके लिए <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-red-600 hover:underline">neurological assessment</a> जरूरी हो सकती है।</p>
                 </div>
 
                 <!-- Section 5: Home Remedies -->
@@ -429,7 +429,7 @@
                     <li><strong>फली-दाल कम खाएं</strong> - राजमा, छोले, और बेसन के व्यंजन गैस बढ़ाते हैं</li>
                     <li><strong>चबाने वाली चीजें कम करें</strong> - च्युइंगम से ज्यादा हवा निगलती है</li>
                     <li><strong>भोजन के बाद न लेटें</strong> - खाना खाने के बाद कम से कम 2 घंटे सोने से बचें</li>
-                    <li><strong>नियमित व्यायाम करें</strong> - हल्की सैर और योगासन <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-primary-500 hover:underline">digestive health</a> में सुधार करते हैं</li>
+                    <li><strong>नियमित व्यायाम करें</strong> - हल्की सैर और योगासन <a href="/neuropathy-treatment-in-ranchi.php" class="text-primary-500 hover:underline">digestive health</a> में सुधार करते हैं</li>
                     <li><strong>तनाव कम करें</strong> - तनाव से पाचन प्रभावित होता है और गैस बढ़ती है</li>
                 </ul>
 
@@ -437,7 +437,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">RAJ Hospital Ranchi Mein Treatment - Professional Treatment Options</h2>
 
                 <p class="text-gray-700 mb-4">
-                    अगर घरेलू उपाय काम न करें या दर्द गंभीर हो, तो <a href="<?php echo $base_url; ?>contact.php" class="text-primary-500 hover:underline font-semibold">RAJ Hospital Ranchi</a> में पेशेवर इलाज उपलब्ध है। यहां हमारे अनुभवी <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-500 hover:underline font-semibold">न्यूरोलॉजिस्ट डॉक्टर</a> आपकी जांच करेंगे और उचित इलाज देंगे।
+                    अगर घरेलू उपाय काम न करें या दर्द गंभीर हो, तो <a href="/contact.php" class="text-primary-500 hover:underline font-semibold">RAJ Hospital Ranchi</a> में पेशेवर इलाज उपलब्ध है। यहां हमारे अनुभवी <a href="/doctor-profile.php" class="text-primary-500 hover:underline font-semibold">न्यूरोलॉजिस्ट डॉक्टर</a> आपकी जांच करेंगे और उचित इलाज देंगे।
                 </p>
 
                 <div class="bg-primary-50 p-6 rounded-lg mb-6">
@@ -447,12 +447,12 @@
                         <li class="flex items-start gap-2"><span class="text-primary-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>दवा प्रबंधन (Medication Management)</strong> - गैस और दर्द के लिए उचित दवाइयां</li>
                         <li class="flex items-start gap-2"><span class="text-primary-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>फिजियोथेरेपी (Physiotherapy)</strong> - पीठ की मांसपेशियों को मजबूत करना</li>
                         <li class="flex items-start gap-2"><span class="text-primary-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>डायट प्लानिंग (Diet Planning)</strong> - गैस कम करने के लिए खान-पान की सलाह</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>उन्नत इलाज (Advanced Treatment)</strong> - <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline">back pain treatment in Ranchi</a> के लिए आधुनिक तकनीकें</li>
+                        <li class="flex items-start gap-2"><span class="text-primary-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>उन्नत इलाज (Advanced Treatment)</strong> - <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline">back pain treatment in Ranchi</a> के लिए आधुनिक तकनीकें</li>
                     </ul>
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital में हम समझते हैं कि <strong>गैस से पीठ दर्द</strong> कितना परेशान करने वाला हो सकता है। हमारी टीम आपको न केवल तुरंत राहत दिलाती है, बल्कि भविष्य में इस समस्या से बचने के लिए भी मार्गदर्शन करती है। रांची में <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline font-semibold">best back pain treatment</a> के लिए आज ही अपॉइंटमेंट बुक करें।
+                    RAJ Hospital में हम समझते हैं कि <strong>गैस से पीठ दर्द</strong> कितना परेशान करने वाला हो सकता है। हमारी टीम आपको न केवल तुरंत राहत दिलाती है, बल्कि भविष्य में इस समस्या से बचने के लिए भी मार्गदर्शन करती है। रांची में <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline font-semibold">best back pain treatment</a> के लिए आज ही अपॉइंटमेंट बुक करें।
                 </p>
 
                 <!-- Section 8: When it's not just gas -->
@@ -463,7 +463,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <a href="<?php echo $base_url; ?>spinal-cord-injury-treatment-in-ranchi.php" class="text-primary-500 hover:underline font-semibold">Spinal cord injury treatment in Ranchi</a> में RAJ Hospital के विशेषज्ञों के पास अनुभव है। वे MRI और CT स्कैन की मदद से पीठ दर्द का सही कारण पता करते हैं और उसके हिसाब से इलाज करते हैं। अगर पीठ दर्द गैस के अलावा किसी और समस्या से है, तो हमारे <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-500 hover:underline font-semibold">expert doctors</a> उसका भी इलाज कर सकते हैं।
+                    <a href="/spinal-cord-injury-treatment-in-ranchi.php" class="text-primary-500 hover:underline font-semibold">Spinal cord injury treatment in Ranchi</a> में RAJ Hospital के विशेषज्ञों के पास अनुभव है। वे MRI और CT स्कैन की मदद से पीठ दर्द का सही कारण पता करते हैं और उसके हिसाब से इलाज करते हैं। अगर पीठ दर्द गैस के अलावा किसी और समस्या से है, तो हमारे <a href="/doctor-profile.php" class="text-primary-500 hover:underline font-semibold">expert doctors</a> उसका भी इलाज कर सकते हैं।
                 </p>
 
                 <!-- Conclusion -->
@@ -484,7 +484,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    रांची में <strong>पीठ दर्द और गैस की समस्या</strong> के लिए सबसे अच्छा इलाज पाने के लिए <a href="<?php echo $base_url; ?>contact.php" class="text-primary-500 hover:underline font-semibold">RAJ Hospital Ranchi से संपर्क करें</a>। हमारे अनुभवी डॉक्टर आपकी मदद के लिए हमेशा तैयार हैं।
+                    रांची में <strong>पीठ दर्द और गैस की समस्या</strong> के लिए सबसे अच्छा इलाज पाने के लिए <a href="/contact.php" class="text-primary-500 hover:underline font-semibold">RAJ Hospital Ranchi से संपर्क करें</a>। हमारे अनुभवी डॉक्टर आपकी मदद के लिए हमेशा तैयार हैं।
                 </p>
 
                 <p class="text-gray-700 mb-4">
@@ -547,19 +547,19 @@
         <div class="mt-8 bg-white rounded-xl shadow-md p-6">
             <h3 class="text-xl font-bold text-gray-800 mb-4">Related Articles</h3>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <a href="<?php echo $base_url; ?>gas-ke-dard-ke-lakshan.php" class="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
+                <a href="/blog/gas-ke-dard-ke-lakshan/" class="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
                     <h4 class="font-semibold text-primary-600 mb-1">Gas Ke Dard Ke Lakshan</h4>
                     <p class="text-sm text-gray-600">पेट की गैस और दर्द के लक्षणों के बारे में विस्तार से जानें।</p>
                 </a>
-                <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
+                <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
                     <h4 class="font-semibold text-primary-600 mb-1">Back Pain and Sciatica Treatment in Ranchi</h4>
                     <p class="text-sm text-gray-600">पीठ दर्द और साइटिका के लिए Ranchi में सबसे अच्छा इलाज।</p>
                 </a>
-                <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
+                <a href="/stroke-and-tia-treatment-in-ranchi.php" class="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
                     <h4 class="font-semibold text-primary-600 mb-1">Stroke Treatment in Ranchi</h4>
                     <p class="text-sm text-gray-600">स्ट्रोक और न्यूरोलॉजिकल समस्याओं का इलाज RAJ Hospital में।</p>
                 </a>
-                <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
+                <a href="/neuropathy-treatment-in-ranchi.php" class="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
                     <h4 class="font-semibold text-primary-600 mb-1">Neuropathy Treatment in Ranchi</h4>
                     <p class="text-sm text-gray-600">न्यूरोपैथी और नर्व समस्याओं का विशेषज्ञ इलाज।</p>
                 </a>

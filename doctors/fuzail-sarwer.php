@@ -15,7 +15,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
     <meta property="og:title" content="Dr. Fuzail Sarwer – Critical Care in Ranchi">
     <meta property="og:description" content="Dr. Fuzail Sarwer is a Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 8+ years experience in ICU management. Book appointment now.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/fuzail-sarwer">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/fuzail-sarwer">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -76,7 +76,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
     "description": "Dr. Fuzail Sarwer is a skilled Critical Care and Anesthesiology specialist at Raj Hospital, Ranchi, with over 8 years of experience. He provides expert ICU management, pain relief procedures, and perioperative care for surgical patients.",
     "medicalSpecialty": "Critical Care",
     "qualifications": "MBBS, MD (Anaesthesiology), PGDCC (Cardiac Anaesthesia)",
-    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp",
+    "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -89,7 +89,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -100,7 +100,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/fuzail-sarwer",
+    "url": "https://rajhospitals.com/doctors/fuzail-sarwer",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

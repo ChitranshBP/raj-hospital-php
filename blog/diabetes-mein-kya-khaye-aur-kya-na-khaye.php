@@ -11,11 +11,11 @@ $base_url = '../';
     <meta name="keywords" content="diabetes mein kya khaye, diabetes diet chart hindi, sugar patient ka diet, diabetic food list, low gi food, diabetes control diet">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
-    <link rel="canonical" href="https://rajhospitals.com/blog/diabetes-mein-kya-khaye-aur-kya-na-khaye.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/diabetes-mein-kya-khaye-aur-kya-na-khaye/">
     <meta property="og:title" content="डायबिटीज़ में क्या खाएं और क्या न खाएं? - Complete Diet Guide">
     <meta property="og:description" content="डायबिटीज़ में खान-पान का पूरा गाइड। कौन सी चीज़ें खानी चाहिए और कौन सी नहीं।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/diabetes-mein-kya-khaye-aur-kya-na-khaye.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/diabetes-mein-kya-khaye-aur-kya-na-khaye/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
     <title>डायबिटीज़ में क्या खाएं और क्या न खाएं? - Complete Diet Guide | RAJ Hospital Ranchi</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/diabetes-mein-kya-khaye-aur-kya-na-khaye.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/diabetes-mein-kya-khaye-aur-kya-na-khaye/",
         "keywords": ["diabetes diet", "diabetic food list", "sugar patient diet", "diabetes control food"],
         "about": {
             "@type": "MedicalCondition",
@@ -173,7 +173,7 @@ $base_url = '../';
         ]
     }
     </script>
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
     <?php include $base_url . 'components/navbar.php'; ?>
@@ -183,9 +183,9 @@ $base_url = '../';
     <div class="bg-white border-b">
         <div class="max-w-4xl mx-auto px-4 py-3">
             <nav class="flex text-sm text-gray-600">
-                <a href="<?php echo $base_url; ?>index.php" class="hover:text-hospital-blue">होम</a>
+                <a href="/index.php" class="hover:text-hospital-blue">होम</a>
                 <span class="mx-2">/</span>
-                <a href="<?php echo $base_url; ?>blog" class="hover:text-hospital-blue">ब्लॉग</a>
+                <a href="/blog" class="hover:text-hospital-blue">ब्लॉग</a>
                 <span class="mx-2">/</span>
                 <span class="text-gray-800">डायबिटीज़</span>
             </nav>
@@ -265,7 +265,7 @@ $base_url = '../';
                 डायबिटीज़ में ये चीज़ें ज़रूर खाएं (Green Light Foods)
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                <a href="https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-hospital-blue hover:underline">डायबिटीज़ डाइट प्लान</a> के अनुसार ये खाना सुरक्षित है और शुगर कंट्रोल में मदद करता है:
+                <a href="https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-hospital-blue hover:underline">डायबिटीज़ डाइट प्लान</a> के अनुसार ये खाना सुरक्षित है और शुगर कंट्रोल में मदद करता है:
             </p>
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">हरी सब्ज़ियाँ (सबसे अच्छी):</h3>
@@ -328,7 +328,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">डायबिटीज़ की जाँच करें</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में शुगर की जाँच और विशेषज्ञ सलाह</p>
                     </div>
-                    <a href="https://rajhospitals.com/appointment.php" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                    <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
                     </a>
                 </div>
@@ -339,7 +339,7 @@ $base_url = '../';
                 डायबिटीज़ में इन चीज़ों से बचें (Red Light Foods)
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                ये चीज़ें शुगर को तेज़ी से बढ़ाती हैं और डायबिटीज़ के लिए हानिकारक हैं। <a href="https://rajhospitals.com/blog/sugar-symptoms-in-hindi.php" class="text-hospital-blue hover:underline">शुगर के लक्षण</a> जानने के बाद इनसे बचना ज़रूरी है:
+                ये चीज़ें शुगर को तेज़ी से बढ़ाती हैं और डायबिटीज़ के लिए हानिकारक हैं। <a href="https://rajhospitals.com/blog/sugar-symptoms-in-hindi/" class="text-hospital-blue hover:underline">शुगर के लक्षण</a> जानने के बाद इनसे बचना ज़रूरी है:
             </p>
 
             <div class="grid md:grid-cols-2 gap-4 mb-6">
@@ -667,28 +667,28 @@ $base_url = '../';
                 संबंधित स्वास्थ्य गाइड
             </h3>
             <div class="grid md:grid-cols-2 gap-4">
-                <a href="https://rajhospitals.com/blog/sugar-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/sugar-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">शुगर के लक्षण</h4>
                         <p class="text-gray-500 text-xs">डायबिटीज़ की पहचान कैसे करें</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">डायबिटीज़ डाइट प्लान</h4>
                         <p class="text-gray-500 text-xs">भारतीय आहार चार्ट</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/best-ways-to-take-moringa-for-managing-diabetes/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">मोरिंगा और डायबिटीज़</h4>
                         <p class="text-gray-500 text-xs">शुगर कंट्रोल में मदद</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/diabetes-symptoms-men.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/diabetes-symptoms-men/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">पुरुषों में डायबिटीज़</h4>

@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi</title>
     <meta name="description" content="Learn to differentiate between gas pain and heart attack symptoms. Understand key warning signs, when to seek emergency care, and how to identify serious cardiac events.">
     <meta name="keywords" content="gas pain vs heart attack, chest pain causes, heart attack symptoms, gas pain symptoms, chest discomfort diagnosis">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms/">
 
     <meta property="og:title" content="Gas Pain vs Heart Attack - How to Tell the Difference">
     <meta property="og:description" content="Learn to differentiate between gas pain and heart attack symptoms.">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/difference-between-gas-pain-and-heart-attack-symptoms.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi",
         "description": "Learn to differentiate between gas pain and heart attack symptoms. Understand key warning signs, when to seek emergency care, and how to identify serious cardiac events.",
-        "url": "https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms.php",
+        "url": "https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/difference-between-gas-pain-and-heart-attack-symptoms.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Gas Pain vs Heart Attack</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/difference-between-gas-pain-and-heart-attack-symptoms.png" alt="Gas Pain vs Heart Attack - Key Differences Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/difference-between-gas-pain-and-heart-attack-symptoms.png" alt="Gas Pain vs Heart Attack - Key Differences Guide" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -471,7 +471,7 @@
                 <div class="bg-gradient-to-r from-red-500 to-orange-500 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Don't Take Chances with Chest Pain</h3>
                     <p class="opacity-90 mb-4">If you're unsure whether your chest pain is gas or something more serious, get it checked. RAJ Hospital Ranchi offers 24/7 emergency cardiac care with state-of-the-art facilities.</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-red-500 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Emergency Contact</a>
+                    <a href="/contact.php" class="inline-block bg-white text-red-500 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Emergency Contact</a>
                 </div>
 
                 <!-- FAQs -->

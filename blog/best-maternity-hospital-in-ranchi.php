@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Best Maternity Hospital in Ranchi | RAJ Hospital - Top Women's Care</title>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Best Maternity Hospital in Ranchi</span>
         </nav>
@@ -226,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    In this comprehensive guide, we at <a href="<?php echo $base_url; ?>index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> will help you understand what makes a great maternity hospital, what services to look for, and how to prepare for a safe and memorable delivery experience. Whether you're planning for <strong>normal delivery</strong> or <strong>C-section</strong>, this guide will help you make an informed decision for you and your baby.
+                    In this comprehensive guide, we at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> will help you understand what makes a great maternity hospital, what services to look for, and how to prepare for a safe and memorable delivery experience. Whether you're planning for <strong>normal delivery</strong> or <strong>C-section</strong>, this guide will help you make an informed decision for you and your baby.
                 </p>
 
                 <!-- Section 1: What Makes Best Maternity Hospital -->
@@ -331,7 +331,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Doctor Credentials</h4>
-                        <p class="text-sm text-gray-600">Research the qualifications and experience of obstetricians. At RAJ Hospital, our team includes highly qualified <a href="<?php echo $base_url; ?>find-a-doctor.php" class="text-secondary-600 hover:underline">gynecologists and obstetricians</a>.</p>
+                        <p class="text-sm text-gray-600">Research the qualifications and experience of obstetricians. At RAJ Hospital, our team includes highly qualified <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">gynecologists and obstetricians</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Infrastructure and Facilities</h4>
@@ -343,7 +343,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. Cost and Insurance</h4>
-                        <p class="text-sm text-gray-600">Understand the complete cost structure, including delivery charges, NICU costs, and room tariffs. Check if your <a href="<?php echo $base_url; ?>corporate-tpa.php" class="text-secondary-600 hover:underline">insurance or TPA</a> is accepted.</p>
+                        <p class="text-sm text-gray-600">Understand the complete cost structure, including delivery charges, NICU costs, and room tariffs. Check if your <a href="/corporate-tpa.php" class="text-secondary-600 hover:underline">insurance or TPA</a> is accepted.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">6. Reviews and Recommendations</h4>
@@ -365,7 +365,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Gestational Diabetes</h4>
-                        <p class="text-sm text-gray-600">Blood sugar management during pregnancy. Learn about our <a href="<?php echo $base_url; ?>best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diabetes management services</a>.</p>
+                        <p class="text-sm text-gray-600">Blood sugar management during pregnancy. Learn about our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diabetes management services</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Preeclampsia</h4>
@@ -474,7 +474,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Planning Your Delivery at RAJ Hospital?</h3>
                     <p class="opacity-90 mb-4">Schedule a prenatal consultation with our expert obstetricians today.</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

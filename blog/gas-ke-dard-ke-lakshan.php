@@ -1,10 +1,10 @@
-<?php $base_url = '../../'; ?>
+<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="hi">
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment | RAJ Hospital Ranchi</title>
@@ -258,7 +258,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -267,9 +267,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Gas Ke Dard Ke Lakshan</span>
         </nav>
@@ -296,7 +296,7 @@
 
                 <div class="bg-orange-100 border-2 border-primary-500 p-4 rounded-lg mb-6">
                     <strong class="text-primary-600 text-lg">Important:</strong>
-                    <span class="text-gray-700"> अगर Gas दर्द बहुत तेज हो, chest pain के साथ हो, या breathing difficulty हो तो यह <a href="<?php echo $base_url; ?>can-gas-cause-heart-attack.php" class="text-primary-600 underline">heart attack</a> का sign भी हो सकता है। तुरंत medical help लें।</span>
+                    <span class="text-gray-700"> अगर Gas दर्द बहुत तेज हो, chest pain के साथ हो, या breathing difficulty हो तो यह <a href="/blog/can-gas-cause-heart-attack/" class="text-primary-600 underline">heart attack</a> का sign भी हो सकता है। तुरंत medical help लें।</span>
                 </div>
 
                 <!-- Section 1: What is Gas -->
@@ -309,7 +309,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">1. Belching (Burping)</h4>
-                        <p class="text-sm text-gray-600">यह मुंह से gas निकलने की process है। ज्यादातर cases में यह <a href="<?php echo $base_url; ?>acidity-symptoms-in-hindi.php" class="text-primary-600 underline">acidity</a> या acid reflux से related होता है।</p>
+                        <p class="text-sm text-gray-600">यह मुंह से gas निकलने की process है। ज्यादातर cases में यह <a href="/blog/acidity-symptoms-in-hindi/" class="text-primary-600 underline">acidity</a> या acid reflux से related होता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">2. Flatulence</h4>
@@ -331,7 +331,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">2. पेट में दर्द और ऐंठन (Cramps)</h4>
-                        <p class="text-sm text-gray-600">Sharp या dull pain जो पेट के different parts में move करता है। यह दर्द <a href="<?php echo $base_url; ?>gas-se-peeth-dard-ranchi.php" class="text-primary-600 underline">gas se peeth dard</a> की तरह महसूस हो सकता है।</p>
+                        <p class="text-sm text-gray-600">Sharp या dull pain जो पेट के different parts में move करता है। यह दर्द <a href="/blog/gas-se-peeth-dard-ranchi/" class="text-primary-600 underline">gas se peeth dard</a> की तरह महसूस हो सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">3. गुड़रगुड़ी की आवाज (Rumbling)</h4>
@@ -339,7 +339,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">4. Chest में जलन (Heartburn)</h4>
-                        <p class="text-sm text-gray-600">छाती में burning sensation जो कभी कभी <a href="<?php echo $base_url; ?>can-gas-cause-heart-attack.php" class="text-primary-600 underline">heart attack</a> जैसी feeling देती है।</p>
+                        <p class="text-sm text-gray-600">छाती में burning sensation जो कभी कभी <a href="/blog/can-gas-cause-heart-attack/" class="text-primary-600 underline">heart attack</a> जैसी feeling देती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">5. सांसों में बदबू</h4>
@@ -347,7 +347,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">6. Shoulder या Back में दर्द</h4>
-                        <p class="text-sm text-gray-600">Trapped gas shoulder या <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 underline">back pain</a> में radiation कर सकता है।</p>
+                        <p class="text-sm text-gray-600">Trapped gas shoulder या <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 underline">back pain</a> में radiation कर सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">7. Gas Release में दिक्कत</h4>
@@ -445,7 +445,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    अगर chest pain हो और heart attack का शक हो तो इसे <a href="<?php echo $base_url; ?>can-gas-cause-heart-attack.php" class="text-primary-600 underline">gas vs heart attack</a> article में detail से पढ़ें। Neurological conditions जैसे <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 underline">stroke</a> भी chest pain कर सकते हैं, इसलिए अगर दर्द unusual हो तो doctor से मिलें।
+                    अगर chest pain हो और heart attack का शक हो तो इसे <a href="/blog/can-gas-cause-heart-attack/" class="text-primary-600 underline">gas vs heart attack</a> article में detail से पढ़ें। Neurological conditions जैसे <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 underline">stroke</a> भी chest pain कर सकते हैं, इसलिए अगर दर्द unusual हो तो doctor से मिलें।
                 </p>
 
                 <!-- Section 5: Home Remedies -->
@@ -496,14 +496,14 @@
                     <li><strong>Fiber धीरे-धीरे बढ़ाएं:</strong> अचानक ज्यादा fiber लेने से gas हो सकती है।</li>
                     <li><strong>Exercise regularly:</strong> Daily 30 minutes physical activity digestive health के लिए जरूरी है।</li>
                     <li><strong>Water पिएं:</strong> पर्याप्त water intake constipation और gas दोनों prevent करता है।</li>
-                    <li><strong>Stress manage करें:</strong> <a href="<?php echo $base_url; ?>anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php" class="text-primary-600 underline">Stress</a> और anxiety digestive system को प्रभावित करती हैं।</li>
+                    <li><strong>Stress manage करें:</strong> <a href="/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/" class="text-primary-600 underline">Stress</a> और anxiety digestive system को प्रभावित करती हैं।</li>
                 </ul>
 
                 <!-- When to See Doctor -->
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">Doctor से कब मिलें? - Warning Signs</h2>
 
                 <p class="text-gray-700 mb-4">
-                    ये symptoms होने पर <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 underline">तुरंत doctor से मिलें</a>:
+                    ये symptoms होने पर <a href="/contact.php" class="text-primary-600 underline">तुरंत doctor से मिलें</a>:
                 </p>
 
                 <div class="bg-red-50 border-2 border-red-400 p-4 rounded-lg mb-6">
@@ -536,7 +536,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    ये signs किसी गंभीर condition जैसे <strong>appendicitis</strong>, <strong>kidney stones</strong>, या <strong>gallbladder disease</strong> का indication हो सकते हैं। RAJ Hospital Ranchi में हमारे <a href="<?php echo $base_url; ?>doctor-profile.php" class="text-primary-600 underline">experienced gastroenterologists</a> आपकी जांच कर सकते हैं।
+                    ये signs किसी गंभीर condition जैसे <strong>appendicitis</strong>, <strong>kidney stones</strong>, या <strong>gallbladder disease</strong> का indication हो सकते हैं। RAJ Hospital Ranchi में हमारे <a href="/doctor-profile.php" class="text-primary-600 underline">experienced gastroenterologists</a> आपकी जांच कर सकते हैं।
                 </p>
 
                 <!-- Section 7: Gas and Nerve Health -->
@@ -547,14 +547,14 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    अगर आपको chronic gas, bloating, या digestive issues के साथ <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php" class="text-primary-600 underline">numbness or tingling</a>, <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php" class="text-primary-600 underline">चक्कर आना</a>, या balance problems हों तो यह neurological condition का sign हो सकता है। RAJ Hospital में हमारे <strong>neurologists</strong> और gastroenterologists together काम करते हैं।
+                    अगर आपको chronic gas, bloating, या digestive issues के साथ <a href="/neuropathy-treatment-in-ranchi.php" class="text-primary-600 underline">numbness or tingling</a>, <a href="/head-injury-treatment-in-ranchi.php" class="text-primary-600 underline">चक्कर आना</a>, या balance problems हों तो यह neurological condition का sign हो सकता है। RAJ Hospital में हमारे <strong>neurologists</strong> और gastroenterologists together काम करते हैं।
 
                 </p>
 
                 <div class="bg-purple-50 p-4 rounded-lg mb-6">
                     <h4 class="font-bold text-purple-600 mb-2">यह भी जानें:</h4>
                     <p class="text-sm text-gray-600">
-                        अगर Gas के साथ <strong>back pain</strong> भी हो तो <a href="<?php echo $base_url; ?>gas-se-peeth-dard-ranchi.php" class="text-primary-600 underline">gas se peeth dard</a> की our detailed article पढ़ें, जिसमें Ranchi में इस problem का treatment बताया गया है।
+                        अगर Gas के साथ <strong>back pain</strong> भी हो तो <a href="/blog/gas-se-peeth-dard-ranchi/" class="text-primary-600 underline">gas se peeth dard</a> की our detailed article पढ़ें, जिसमें Ranchi में इस problem का treatment बताया गया है।
                     </p>
                 </div>
 
@@ -563,8 +563,8 @@
                     <h3 class="text-xl font-bold mb-2">Gas Problems के लिए RAJ Hospital Ranchi में Appointment लें</h3>
                     <p class="opacity-90 mb-4">हमारे expert gastroenterologists और neurologists आपकी comprehensive checkup करेंगे।</p>
                     <div class="flex flex-wrap justify-center gap-4">
-                        <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
-                        <a href="<?php echo $base_url; ?>doctor-profile.php" class="inline-block bg-primary-700 text-white font-bold px-6 py-2 rounded-lg hover:bg-primary-800 transition-colors">Meet Our Doctors</a>
+                        <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                        <a href="/doctor-profile.php" class="inline-block bg-primary-700 text-white font-bold px-6 py-2 rounded-lg hover:bg-primary-800 transition-colors">Meet Our Doctors</a>
                     </div>
                 </div>
 
@@ -578,7 +578,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Gas का दर्द दिल की बीमारी से कैसे अलग है?</h4>
-                        <p class="text-gray-700">Gas का दर्द आमतौर पर खाने के बाद या lying down के बाद बढ़ता है, जबकि दिल की बीमारी में दर्द exercise के साथ बढ़ता है और सांस लेने में दिक्कत, पसीना आना जैसे लक्षण भी होते हैं। अगर दर्द तेज हो और दिल की बीमारी का संदेह हो तो तुरंत <a href="<?php echo $base_url; ?>contact.php" class="text-primary-600 underline">doctor से मिलें</a>।</p>
+                        <p class="text-gray-700">Gas का दर्द आमतौर पर खाने के बाद या lying down के बाद बढ़ता है, जबकि दिल की बीमारी में दर्द exercise के साथ बढ़ता है और सांस लेने में दिक्कत, पसीना आना जैसे लक्षण भी होते हैं। अगर दर्द तेज हो और दिल की बीमारी का संदेह हो तो तुरंत <a href="/contact.php" class="text-primary-600 underline">doctor से मिलें</a>।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Pet की Gas से कैसे छुटकारा पाएं?</h4>
@@ -664,19 +664,19 @@
                 <div class="mt-8">
                     <h3 class="text-lg font-bold text-gray-800 mb-4">Related Articles</h3>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <a href="<?php echo $base_url; ?>gas-se-peeth-dard-ranchi.php" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
+                        <a href="/blog/gas-se-peeth-dard-ranchi/" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
                             <h4 class="font-bold text-primary-600 mb-1">Gas se Peeth Dard - Ranchi</h4>
                             <p class="text-sm text-gray-600">जानें gas से होने वाले back pain के बारे में और Ranchi में इसका treatment।</p>
                         </a>
-                        <a href="<?php echo $base_url; ?>acidity-symptoms-in-hindi.php" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
+                        <a href="/blog/acidity-symptoms-in-hindi/" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
                             <h4 class="font-bold text-primary-600 mb-1">Acidity ke Lakshan - Hindi</h4>
                             <p class="text-sm text-gray-600">Acidity और gas problem कैसे related हैं, जानें।</p>
                         </a>
-                        <a href="<?php echo $base_url; ?>can-gas-cause-heart-attack.php" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
+                        <a href="/blog/can-gas-cause-heart-attack/" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
                             <h4 class="font-bold text-primary-600 mb-1">Can Gas Cause Heart Attack?</h4>
                             <p class="text-sm text-gray-600">Gas pain और heart attack में क्या difference है।</p>
                         </a>
-                        <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
+                        <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="bg-gray-50 p-4 rounded-lg hover:bg-gray-100 transition-colors">
                             <h4 class="font-bold text-primary-600 mb-1">Back Pain Treatment in Ranchi</h4>
                             <p class="text-sm text-gray-600">Back pain के various causes और treatment options।</p>
                         </a>

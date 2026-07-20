@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Brain Tumor Symptoms in Hindi - Complete Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Brain Tumor के लक्षण, प्रकार, कारण और इलाज के बारे में जानें। कब doctor से मिलें - Complete Hindi Guide। Ranchi के best neurologists।">
     <meta name="keywords" content="brain tumor, brain tumor symptoms, मस्तिष्क घातुक, लक्षण, neurology, ranchi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi/">
 
     <meta property="og:title" content="Brain Tumor Symptoms in Hindi - Complete Guide">
     <meta property="og:description" content="Brain Tumor के लक्षण, प्रकार, कारण और इलाज के बारे में जानें।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/brain-tumor-symptoms-in-hindi.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Brain Tumor Symptoms in Hindi - Complete Guide | RAJ Hospital Ranchi",
         "description": "Brain Tumor के लक्षण, प्रकार, कारण और इलाज के बारे में जानें। कब doctor से मिलें - Complete Hindi Guide। Ranchi के best neurologists।",
-        "url": "https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi.php",
+        "url": "https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/brain-tumor-symptoms-in-hindi.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Brain Tumor - Complete Guide</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/brain-tumor-symptoms-in-hindi.png" alt="Brain Tumor Symptoms in Hindi - Brain Tumor Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/brain-tumor-symptoms-in-hindi.png" alt="Brain Tumor Symptoms in Hindi - Brain Tumor Guide" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -363,7 +363,7 @@
                 <div class="bg-gradient-to-r from-purple-600 to-purple-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Brain Tumor की जांच करवाएं</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में MRI, CT Scan और neurology consultation available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-purple-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-purple-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

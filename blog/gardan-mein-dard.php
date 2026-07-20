@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज | RAJ Hospital Ranchi</title>
     <meta name="description" content="Gardan Mein Dard in Hindi: गर्दन के पीछे दर्द हो तो क्या करना चाहिए? जानिए गर्दन दर्द के कारण, घरेलू उपाय, exercises और कब doctor जाएं। Neck pain treatment in Hindi।">
     <meta name="keywords" content="gardan mein dard, गर्दन दर्द, गर्दन के पीछे दर्द, neck pain treatment in hindi, cervical pain, gardan dard ka ilaj">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/gardan-mein-dard.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/gardan-mein-dard/">
 
     <meta property="og:title" content="Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज">
     <meta property="og:description" content="Gardan Mein Dard in Hindi: गर्दन के पीछे दर्द हो तो क्या करना चाहिए? जानिए गर्दन दर्द के कारण, घरेलू उपाय, exercises और कब doctor जाएं।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/gardan-mein-dard.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/gardan-mein-dard/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/gardan-mein-dard.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज | RAJ Hospital Ranchi",
         "description": "Gardan Mein Dard in Hindi: गर्दन के पीछे दर्द हो तो क्या करना चाहिए? जानिए गर्दन दर्द के कारण, घरेलू उपाय, exercises और कब doctor जाएं। Neck pain treatment in Hindi।",
-        "url": "https://rajhospitals.com/blog/gardan-mein-dard.php",
+        "url": "https://rajhospitals.com/blog/gardan-mein-dard/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/gardan-mein-dard.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-06-01",
         "dateModified": "2026-06-01",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/gardan-mein-dard.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/gardan-mein-dard/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Gardan Mein Dard</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/gardan-mein-dard.png" alt="Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/gardan-mein-dard.png" alt="Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -913,8 +913,8 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/knee-pain-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Knee Pain - घुटने में दर्द के कारण और उपचार</a></li>
-                        <li><a href="/blog/sciatica-pain-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Sciatica Pain - गुल्फी में दर्द का इलाज</a></li>
+                        <li><a href="/blog/joint-pain-treatment-ranchi/" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Knee Pain - घुटने में दर्द के कारण और उपचार</a></li>
+                        <li><a href="/back-pain-and-sciatica-treatment-in-ranchi" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Sciatica Pain - गुल्फी में दर्द का इलाज</a></li>
                         <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Migraine Symptoms in Hindi - माइग्रेन के लक्षण</a></li>
                         <li><a href="/blog/stroke-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs</a></li>
                         <li><a href="/blog/symptoms-of-depression-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Symptoms of Depression in Men in Hindi</a></li>

@@ -175,19 +175,19 @@ function getSpecialtySlug($name, $category)
     <div class="max-w-7xl mx-auto px-4">
         <div class="flex relative items-center justify-between h-16 md:h-20 lg:h-24">
             <!-- Logo -->
-            <a href="<?php echo $base_url; ?>index.php" class="flex items-center group">
+            <a href="/index.php" class="flex items-center group">
                 <div id="logo-container"
                     class="flex items-center space-x-2 sm:space-x-4 md:space-x-5 lg:space-x-6 transition-all duration-300">
-                    <img id="main-logo" src="<?php echo $base_url; ?>assets/Header/main-logo_ranchi.webp"
+                    <img id="main-logo" src="/assets/Header/main-logo_ranchi.webp"
                         alt="Main Logo"
                         class="object-contain transition-all duration-300 w-[80px] h-[80px] sm:w-[110px] sm:h-[110px] md:w-[130px] md:h-[130px] lg:w-[160px] lg:h-[160px]">
                     <div id="nabh-logos"
                         class="flex space-x-1 sm:space-x-3 md:space-x-2 lg:space-x-2 transition-all duration-300">
-                        <img src="<?php echo $base_url; ?>assets/Header/NABL_logo-1.webp" alt="NABH Logo 1"
+                        <img src="/assets/Header/NABL_logo-1.webp" alt="NABH Logo 1"
                             class="object-contain w-[30px] h-[30px]">
-                        <img src="<?php echo $base_url; ?>assets/Header/NABL-Logo-2.webp" alt="NABH Logo 2"
+                        <img src="/assets/Header/NABL-Logo-2.webp" alt="NABH Logo 2"
                             class="object-contain w-[30px] h-[30px]">
-                        <img src="<?php echo $base_url; ?>assets/Header/NABL-Logo-3.webp" alt="NABH Logo 3"
+                        <img src="/assets/Header/NABL-Logo-3.webp" alt="NABH Logo 3"
                             class="object-contain w-[30px] h-[30px]">
                     </div>
                 </div>
@@ -217,13 +217,13 @@ function getSpecialtySlug($name, $category)
                 <!-- First Row (Collapsible) -->
                 <nav id="nav-top-row"
                     class="flex items-center space-x-3 md:space-x-4 lg:space-x-6 overflow-hidden transition-all duration-300 h-auto opacity-100 origin-top">
-                    <a href="<?php echo $base_url; ?>index.php"
+                    <a href="/index.php"
                         class="<?php echo $active_page == 'index.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">Home</a>
-                    <a href="<?php echo $base_url; ?>testimonials.php"
+                    <a href="/testimonials.php"
                         class="<?php echo $active_page == 'testimonials.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">Testimonials</a>
-                    <a href="<?php echo $base_url; ?>careers.php"
+                    <a href="/careers.php"
                         class="<?php echo $active_page == 'careers.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">Careers</a>
-                    <a href="<?php echo $base_url; ?>news-media.php"
+                    <a href="/news-media.php"
                         class="<?php echo $active_page == 'news-media.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">News
                         & Media</a>
                     <a href="https://rajhospitals.com/blog/"
@@ -232,7 +232,7 @@ function getSpecialtySlug($name, $category)
 
                 <!-- Second Row (Always Visible) -->
                 <nav class="flex items-center space-x-3 md:space-x-4 lg:space-x-6">
-                    <a href="<?php echo $base_url; ?>about.php"
+                    <a href="/about.php"
                         class="<?php echo $active_page == 'about.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">About
                         Raj</a>
 
@@ -262,7 +262,7 @@ function getSpecialtySlug($name, $category)
                                                     $slug = getSpecialtySlug($item, $categoryData['category']);
                                                     $iconPath = $base_url . 'assets/icons/specialties/' . $icon . '?v=' . time();
                                                     ?>
-                                                    <a href="<?php echo $base_url; ?>specialties/<?php echo $slug; ?>.php"
+                                                    <a href="/specialties/<?php echo $slug; ?>.php"
                                                         class="flex items-center gap-2 py-2 text-gray-700 hover:text-orange-600 transition-colors duration-200 text-sm">
                                                         <img src="<?php echo $iconPath; ?>" alt="" class="w-5 h-5 object-contain">
                                                         <?php echo htmlspecialchars($item); ?>
@@ -276,11 +276,11 @@ function getSpecialtySlug($name, $category)
                         </div>
                     </div>
 
-                    <a href="<?php echo $base_url; ?>find-a-doctor.php"
+                    <a href="/find-a-doctor.php"
                         class="<?php echo $active_page == 'find-a-doctor.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">Find
                         a Doctor</a>
                     <div class="flex items-center space-x-3 ml-2 lg:ml-4">
-                        <a href="<?php echo $base_url; ?>contact.php"
+                        <a href="/contact.php"
                             class="<?php echo $active_page == 'contact.php' ? 'bg-orange-600 shadow-inner' : 'bg-orange-500 hover:bg-orange-600'; ?> text-white px-4 lg:px-7 py-2 lg:py-2.5 rounded-full transition-colors font-semibold text-sm lg:text-base shadow-md">Book
                             Appointment</a>
                     </div>
@@ -293,9 +293,9 @@ function getSpecialtySlug($name, $category)
     <div id="mobile-menu"
         class="hidden md:hidden bg-white border-t border-gray-100 max-h-[80vh] overflow-y-auto absolute w-full left-0 shadow-lg">
         <div class="px-4 py-4 space-y-1">
-            <a href="<?php echo $base_url; ?>index.php"
+            <a href="/index.php"
                 class="block py-3 <?php echo $active_page == 'index.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Home</a>
-            <a href="<?php echo $base_url; ?>about.php"
+            <a href="/about.php"
                 class="block py-3 <?php echo $active_page == 'about.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">About
                 Raj</a>
 
@@ -326,7 +326,7 @@ function getSpecialtySlug($name, $category)
                                     $icon = $specialtyIcons[$item] ?? 'circle';
                                     $iconPath = $base_url . 'assets/icons/specialties/' . $icon . '?v=' . time();
                                     ?>
-                                    <a href="<?php echo $base_url; ?>specialties/<?php echo $slug; ?>.php"
+                                    <a href="/specialties/<?php echo $slug; ?>.php"
                                         class="flex items-center gap-2 py-2 px-4 text-sm text-gray-600 hover:text-orange-500 hover:bg-orange-50 rounded transition-colors">
                                         <img src="<?php echo $iconPath; ?>" alt="" class="w-4 h-4 object-contain">
                                         <?php echo htmlspecialchars($item); ?>
@@ -338,18 +338,18 @@ function getSpecialtySlug($name, $category)
                 </div>
             </div>
 
-            <a href="<?php echo $base_url; ?>find-a-doctor.php"
+            <a href="/find-a-doctor.php"
                 class="block py-3 <?php echo $active_page == 'find-a-doctor.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Find
                 a Doctor</a>
-            <a href="<?php echo $base_url; ?>testimonials.php"
+            <a href="/testimonials.php"
                 class="block py-3 <?php echo $active_page == 'testimonials.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Testimonials</a>
-            <a href="<?php echo $base_url; ?>news-media.php"
+            <a href="/news-media.php"
                 class="block py-3 <?php echo $active_page == 'news-media.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">News
                 & Media</a>
-            <a href="<?php echo $base_url; ?>careers.php"
+            <a href="/careers.php"
                 class="block py-3 <?php echo $active_page == 'careers.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Careers</a>
             <a href="https://rajhospitals.com/blog/" class="block py-3 text-gray-700 font-medium border-b border-gray-100">Blogs</a>
-            <a href="<?php echo $base_url; ?>contact.php"
+            <a href="/contact.php"
                 class="block w-full bg-orange-500 text-white py-3 rounded-lg font-medium text-center mt-4">Book
                 Appointment</a>
         </div>

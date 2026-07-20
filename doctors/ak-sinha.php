@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. A K Sinha – Internal Medicine in Ranchi">
     <meta property="og:description" content="Dr. A K Sinha is a highly experienced Internal Medicine specialist at Raj Hospital Ranchi with 25+ years expertise in chronic diseases and metabolic disorders.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ak-sinha">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/ak-sinha">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. A.K. Sinha is a highly experienced Internal Medicine specialist at Raj Hospital, Ranchi, with over 25 years of expertise. He provides expert diagnosis and treatment for chronic diseases, metabolic disorders, and comprehensive health management.",
     "medicalSpecialty": "Internal Medicine",
     "qualifications": "MBBS, MD (Medicine)",
-    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Sinha.webp",
+    "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Sinha.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/ak-sinha",
+    "url": "https://rajhospitals.com/doctors/ak-sinha",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

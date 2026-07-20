@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thyroid Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital</title>
     <meta name="description" content="Thyroid problems in women symptoms and treatment in Hindi - जानें women में thyroid ke problems, symptoms, और latest treatment options। PCOS और pregnancy से connection।">
     <meta name="keywords" content="thyroid problems in women, thyroid ke problems women, thyroid symptoms women, thyroid treatment women, thyroid in hindi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment/">
 
     <meta property="og:title" content="Thyroid Problems in Women | Symptoms and Treatment">
     <meta property="og:description" content="Thyroid problems in women symptoms and treatment in Hindi - Complete guide by RAJ Hospital specialists।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/thyroid-problems-in-women-symptoms-and-treatment.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Thyroid Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital",
         "description": "Thyroid problems in women symptoms and treatment in Hindi - जानें women में thyroid ke problems, symptoms, और latest treatment options। PCOS और pregnancy से connection।",
-        "url": "https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment.php",
+        "url": "https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/thyroid-problems-in-women-symptoms-and-treatment.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -198,9 +198,9 @@
 
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Thyroid Problems in Women</span>
         </nav>
@@ -209,7 +209,7 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/thyroid-problems-in-women-symptoms-and-treatment.png" alt="Thyroid Problems in Women - Symptoms and Treatment" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/thyroid-problems-in-women-symptoms-and-treatment.png" alt="Thyroid Problems in Women - Symptoms and Treatment" class="w-full h-full object-contain">
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">
@@ -344,7 +344,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Thyroid की समस्या है?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में complete thyroid profile testing और expert endocrinologists available हैं।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <h2 class="raj-h2">FAQs - Thyroid Problems in Women</h2>

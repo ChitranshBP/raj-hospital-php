@@ -1,22 +1,22 @@
-<?php $base_url = '../../'; ?>
+<?php $base_url = '../'; ?>
 <!DOCTYPE html>
 <html lang="hi">
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में उच्च रक्तचाप (High BP) के लक्षण जानें। सिरदर्द, सांस फूलना, चक्कर आना जैसे early signs पहचानें। Ranchi के best neurologists से मुफ्त consultation।">
     <meta name="keywords" content="high blood pressure symptoms men, उच्च रक्तचाप के लक्षण, high bp symptoms in hindi, पुरुषों में bp, hypertension men, रक्तचाप, bp high symptoms">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/index.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/">
 
     <meta property="og:title" content="High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण">
     <meta property="og:description" content="पुरुषों में उच्च रक्तचाप के early symptoms जानें और समय पर treatment लें।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/index.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/high-blood-pressure-symptoms-in-men-in-hindi.png">
 
     <script type="application/ld+json">
@@ -77,7 +77,7 @@
                 "@type": "ListItem",
                 "position": 3,
                 "name": "High Blood Pressure Symptoms in Men in Hindi",
-                "item": "https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/index.php"
+                "item": "https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/"
             }
         ]
     }
@@ -125,7 +125,7 @@
                 "name": "पुरुषों में BP control करने के घरेलू उपाय क्या हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "BP control करने के लिए daily walk या light exercise करें, नमक कम खाएं, fresh fruits और vegetables ज्यादा खाएं, stress management के लिए yoga और meditation करें, शराब और smoking छोड़ें, और enough water पिएं। अधिक जानकारी के लिए <a href='https://rajhospitals.com/high-bp-me-kya-khaye.php'>high BP में क्या खाएं</a> guide पढ़ें।"
+                    "text": "BP control करने के लिए daily walk या light exercise करें, नमक कम खाएं, fresh fruits और vegetables ज्यादा खाएं, stress management के लिए yoga और meditation करें, शराब और smoking छोड़ें, और enough water पिएं। अधिक जानकारी के लिए <a href='https://rajhospitals.com/blog/high-bp-me-kya-khaye/'>high BP में क्या खाएं</a> guide पढ़ें।"
                 }
             },
             {
@@ -238,7 +238,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -247,9 +247,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">High Blood Pressure Symptoms in Men</span>
         </nav>
@@ -271,7 +271,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>उच्च रक्तचाप (High Blood Pressure या Hypertension)</strong> एक ऐसी health condition है जो भारत में लाखों पुरुषों को प्रभावित करती है। यह एक silent killer के रूप में जाना जाता है क्योंकि अक्सर इसके कोई स्पष्ट लक्षण नहीं दिखते। लेकिन अगर समय पर पहचान नहीं की जाए, तो यह <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php">brain stroke</a>, heart attack, और kidney failure जैसी गंभीर बीमारियों का कारण बन सकता है। इस article में हम पुरुषों में high BP के symptoms, causes, और prevention के बारे में विस्तार से जानेंगे।
+                    <strong>उच्च रक्तचाप (High Blood Pressure या Hypertension)</strong> एक ऐसी health condition है जो भारत में लाखों पुरुषों को प्रभावित करती है। यह एक silent killer के रूप में जाना जाता है क्योंकि अक्सर इसके कोई स्पष्ट लक्षण नहीं दिखते। लेकिन अगर समय पर पहचान नहीं की जाए, तो यह <a href="/stroke-and-tia-treatment-in-ranchi.php">brain stroke</a>, heart attack, और kidney failure जैसी गंभीर बीमारियों का कारण बन सकता है। इस article में हम पुरुषों में high BP के symptoms, causes, और prevention के बारे में विस्तार से जानेंगे।
                 </p>
 
                 <div class="bg-red-100 border-2 border-red-600 p-4 rounded-lg mb-6">
@@ -326,7 +326,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600">4. छाती में दर्द या भारीपन (Chest Pain)</h4>
-                        <p class="text-sm text-gray-600">छाती में दर्द, tightness, या pressure feel होना एक serious sign है। यह indicate कर सकता है कि high BP ने heart की arteries को damage पहुंचाया है। इस case में तुरंत <a href="<?php echo $base_url; ?>contact.php">medical help</a> लें।</p>
+                        <p class="text-sm text-gray-600">छाती में दर्द, tightness, या pressure feel होना एक serious sign है। यह indicate कर सकता है कि high BP ने heart की arteries को damage पहुंचाया है। इस case में तुरंत <a href="/contact.php">medical help</a> लें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600">5. नाक से खून आना (Nosebleeds)</h4>
@@ -338,7 +338,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600">7. दृष्टि में समस्या (Vision Problems)</h4>
-                        <p class="text-sm text-gray-600">High BP से eyes की small blood vessels भी damage हो सकती हैं। blurred vision, double vision, या दृष्टि में धुंधलापन आना इसका sign हो सकता है। <a href="<?php echo $base_url; ?>head-injury-treatment-in-ranchi.php">neurological examination</a> में eyes की जांच भी शामिल होती है।</p>
+                        <p class="text-sm text-gray-600">High BP से eyes की small blood vessels भी damage हो सकती हैं। blurred vision, double vision, या दृष्टि में धुंधलापन आना इसका sign हो सकता है। <a href="/head-injury-treatment-in-ranchi.php">neurological examination</a> में eyes की जांच भी शामिल होती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600">8. Sleep Problems और Restlessness</h4>
@@ -386,7 +386,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-red-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">Brain Stroke और Paralysis</h4>
-                        <p class="text-sm text-gray-600">High BP <a href="<?php echo $base_url; ?>stroke-and-tia-treatment-in-ranchi.php">stroke का सबसे बड़ा risk factor</a> है। uncontrolled BP से brain में blood clot बनता है या vessels फट सकती हैं।</p>
+                        <p class="text-sm text-gray-600">High BP <a href="/stroke-and-tia-treatment-in-ranchi.php">stroke का सबसे बड़ा risk factor</a> है। uncontrolled BP से brain में blood clot बनता है या vessels फट सकती हैं।</p>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">Heart Disease और Heart Attack</h4>
@@ -398,7 +398,7 @@
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">Nerve Damage (Neuropathy)</h4>
-                        <p class="text-sm text-gray-600">Long-term high BP से <a href="<?php echo $base_url; ?>neuropathy-treatment-in-ranchi.php">neuropathy या nerve damage</a> हो सकती है, जिससे hands और feet में numbness, tingling, या pain होता है।</p>
+                        <p class="text-sm text-gray-600">Long-term high BP से <a href="/neuropathy-treatment-in-ranchi.php">neuropathy या nerve damage</a> हो सकती है, जिससे hands और feet में numbness, tingling, या pain होता है।</p>
                     </div>
                 </div>
 
@@ -420,7 +420,7 @@
                 </ul>
 
                 <div class="bg-blue-50 p-4 rounded-lg mb-6">
-                    <p class="text-gray-700"><strong>RAJ Hospital Ranchi</strong> में आप हमारे experienced <a href="<?php echo $base_url; ?>doctor-profile.php">neurologists और cardiologists</a> से consultation ले सकते हैं। 24x7 emergency services available हैं।</p>
+                    <p class="text-gray-700"><strong>RAJ Hospital Ranchi</strong> में आप हमारे experienced <a href="/doctor-profile.php">neurologists और cardiologists</a> से consultation ले सकते हैं। 24x7 emergency services available हैं।</p>
                 </div>
 
                 <!-- Section 6: Prevention -->
@@ -438,7 +438,7 @@
                             <li>Fresh fruits और vegetables ज्यादा खाएं</li>
                             <li>Whole grains और lean proteins prefer करें</li>
                             <li>Processed foods और junk food कम करें</li>
-                            <li><a href="<?php echo $base_url; ?>high-bp-me-kya-khaye.php">High BP diet guide</a> पढ़ें</li>
+                            <li><a href="/blog/high-bp-me-kya-khaye/">High BP diet guide</a> पढ़ें</li>
                         </ul>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
@@ -463,7 +463,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">Back Pain और Sciatica</h4>
-                        <p class="text-sm text-gray-600">High BP से related stress और poor circulation से <a href="<?php echo $base_url; ?>back-pain-and-sciatica-treatment-in-ranchi.php">back pain और sciatica</a> की problem बढ़ सकती है।</p>
+                        <p class="text-sm text-gray-600">High BP से related stress और poor circulation से <a href="/back-pain-and-sciatica-treatment-in-ranchi.php">back pain और sciatica</a> की problem बढ़ सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">Chronic Headaches</h4>
@@ -476,8 +476,8 @@
                     <h3 class="text-xl font-bold mb-2">High BP की जांच और Treatment के लिए Contact करें</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced neurologists और cardiologists से मुफ्त consultation।</p>
                     <div class="flex flex-wrap justify-center gap-4">
-                        <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
-                        <a href="<?php echo $base_url; ?>doctor-profile.php" class="inline-block border-2 border-white text-white font-bold px-6 py-2 rounded-lg hover:bg-white/10 transition-colors">View Doctors</a>
+                        <a href="/contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                        <a href="/doctor-profile.php" class="inline-block border-2 border-white text-white font-bold px-6 py-2 rounded-lg hover:bg-white/10 transition-colors">View Doctors</a>
                     </div>
                 </div>
 

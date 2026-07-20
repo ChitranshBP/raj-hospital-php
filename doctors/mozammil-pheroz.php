@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Mozammil Pheroz – Orthopaedics & Joint Replacement in Ranchi">
     <meta property="og:description" content="Dr. Mozammil Pheroz is an Orthopaedic Surgeon & Sports Medicine specialist at Raj Hospital Ranchi with 11+ years experience. Book appointment today.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/mozammil-pheroz">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/mozammil-pheroz">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. Mozammil Pheroz is a skilled Orthopedic Surgeon and Sports Medicine specialist at Raj Hospital, Ranchi, with over 11 years of experience. He specializes in arthroscopy, sports injury treatment, joint replacement, and trauma surgery.",
     "medicalSpecialty": "Orthopaedics & Joint Replacement",
     "qualifications": "MBBS, MS (Orthopaedics), DNB (Orthopaedics), Dip. Sports Medicine (FIFA, Switzerland), MNAMS",
-    "image": "https://www.rajhospitalranchi.com/assets/Doc-Side/dr-pheroz-raj-removebg-preview.png",
+    "image": "https://rajhospitals.com/assets/Doc-Side/dr-pheroz-raj-removebg-preview.png",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/mozammil-pheroz",
+    "url": "https://rajhospitals.com/doctors/mozammil-pheroz",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

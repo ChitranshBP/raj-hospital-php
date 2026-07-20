@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. P K Raina – Oncology (Cancer Care) in Ranchi">
     <meta property="og:description" content="Dr. P K Raina is a senior Surgical Oncologist at Raj Hospital Ranchi with 20+ years experience in cancer surgery and tumour management. Book appointment now.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/pk-raina">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/pk-raina">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. P.K. Raina is a senior Surgical Oncologist at Raj Hospital, Ranchi, with over 20 years of experience in cancer surgery. He provides expert surgical treatment for various cancers with a focus on comprehensive oncological care and tumor management.",
     "medicalSpecialty": "Oncology (Cancer Care)",
     "qualifications": "MBBS, MS (Surgery)",
-    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Oncologist - Dr. P-K-Raina.webp",
+    "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Oncologist - Dr. P-K-Raina.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/pk-raina",
+    "url": "https://rajhospitals.com/doctors/pk-raina",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

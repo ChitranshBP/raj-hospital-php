@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi</title>
     <meta name="description" content="Kidney Stone Ka Ilaj - गुर्दे में पथरी का complete treatment। ESWL, laser treatment, और surgery options। Ranchi में best kidney stone treatment।">
     <meta name="keywords" content="kidney stone ilaj, kidney stone treatment, पथरी का इलाज, gall stone treatment, kidney stone surgery">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/kidney-stone-ka-ilaj.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/kidney-stone-ka-ilaj/">
 
     <meta property="og:title" content="Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज">
     <meta property="og:description" content="Kidney Stone Ka Ilaj - गुर्दे में पथरी का complete treatment।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/kidney-stone-ka-ilaj.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/kidney-stone-ka-ilaj/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/kidney-stone-ka-ilaj.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi",
         "description": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का complete treatment। ESWL, laser treatment, और surgery options। Ranchi में best kidney stone treatment।",
-        "url": "https://rajhospitals.com/blog/kidney-stone-ka-ilaj.php",
+        "url": "https://rajhospitals.com/blog/kidney-stone-ka-ilaj/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/kidney-stone-ka-ilaj.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/kidney-stone-ka-ilaj.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/kidney-stone-ka-ilaj/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Kidney Stone Treatment</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/kidney-stone-ka-ilaj.png" alt="Kidney Stone Ka Ilaj - Kidney Stone Treatment" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/kidney-stone-ka-ilaj.png" alt="Kidney Stone Ka Ilaj - Kidney Stone Treatment" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -328,7 +328,7 @@
                 <div class="bg-gradient-to-r from-purple-600 to-purple-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Kidney Stone Treatment at RAJ Hospital</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में ESWL, laser treatment, और complete urology services available हैं।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-purple-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-purple-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

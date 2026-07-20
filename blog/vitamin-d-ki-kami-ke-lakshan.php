@@ -11,11 +11,11 @@ $base_url = '../';
     <meta name="keywords" content="vitamin d deficiency symptoms in hindi, vitamin d kami, vitamin d food sources, sun exposure benefits, calcium absorption, bone health">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
-    <link rel="canonical" href="https://rajhospitals.com/blog/vitamin-d-ki-kami-ke-lakshan.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/vitamin-d-ki-kami-ke-lakshan/">
     <meta property="og:title" content="विटामिन D की कमी के लक्षण और उपाय">
     <meta property="og:description" content="Vitamin D की कमी से हड्डियों की समस्या, थकान और कई बीमारियाँ हो सकती हैं। जानिए बचाव के उपाय।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/vitamin-d-ki-kami-ke-lakshan.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/vitamin-d-ki-kami-ke-lakshan/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
     <title>विटामिन D की कमी के लक्षण और उपाय - कौन है सबसे ज्यादा प्रभावित? | RAJ Hospital Ranchi</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/vitamin-d-ki-kami-ke-lakshan.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/vitamin-d-ki-kami-ke-lakshan/",
         "keywords": ["vitamin d deficiency", "vitamin d kami", "bone health", "sun exposure"],
         "about": {
             "@type": "MedicalCondition",
@@ -173,7 +173,7 @@ $base_url = '../';
         ]
     }
     </script>
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
     <?php include $base_url . 'components/navbar.php'; ?>
@@ -183,9 +183,9 @@ $base_url = '../';
     <div class="bg-white border-b">
         <div class="max-w-4xl mx-auto px-4 py-3">
             <nav class="flex text-sm text-gray-600">
-                <a href="<?php echo $base_url; ?>index.php" class="hover:text-hospital-blue">होम</a>
+                <a href="/index.php" class="hover:text-hospital-blue">होम</a>
                 <span class="mx-2">/</span>
-                <a href="<?php echo $base_url; ?>blog" class="hover:text-hospital-blue">ब्लॉग</a>
+                <a href="/blog" class="hover:text-hospital-blue">ब्लॉग</a>
                 <span class="mx-2">/</span>
                 <span class="text-gray-800">पोषण और विटामिन</span>
             </nav>
@@ -234,7 +234,7 @@ $base_url = '../';
             </div>
 
             <p class="text-lg text-gray-700 mb-6 leading-relaxed">
-                <strong>विटामिन D</strong> को "सनशाइन विटामिन" भी कहते हैं क्योंकि यह सूर्य की रोशनी से बनता है। यह हड्डियों के लिए बहुत ज़रूरी है क्योंकि यह कैल्शियम को अवशोषित करने में मदद करता है। <a href="https://rajhospitals.com/blog/low-vitamin-d-symptoms-female.php" class="text-hospital-blue hover:underline">विटामिन D की कमी</a> एक silent epidemic है जो कई गंभीर समस्याओं का कारण बन सकती है।
+                <strong>विटामिन D</strong> को "सनशाइन विटामिन" भी कहते हैं क्योंकि यह सूर्य की रोशनी से बनता है। यह हड्डियों के लिए बहुत ज़रूरी है क्योंकि यह कैल्शियम को अवशोषित करने में मदद करता है। <a href="https://rajhospitals.com/blog/low-vitamin-d-symptoms-female/" class="text-hospital-blue hover:underline">विटामिन D की कमी</a> एक silent epidemic है जो कई गंभीर समस्याओं का कारण बन सकती है।
             </p>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -269,7 +269,7 @@ $base_url = '../';
                 विटामिन D की कमी के लक्षण (Symptoms)
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                विटामिन D की कमी के लक्षण अक्सर subtle होते हैं और कई दूसरी समस्याओं जैसे दिखते हैं। <a href="https://rajhospitals.com/blog/immunity-kaise-badhaye.php" class="text-hospital-blue hover:underline">इम्यूनिटी कैसे बढ़ाएं</a> के बारे में जानने से पहले विटामिन D की कमी के बारे में जानना ज़रूरी है।
+                विटामिन D की कमी के लक्षण अक्सर subtle होते हैं और कई दूसरी समस्याओं जैसे दिखते हैं। <a href="https://rajhospitals.com/blog/immunity-kaise-badhaye/" class="text-hospital-blue hover:underline">इम्यूनिटी कैसे बढ़ाएं</a> के बारे में जानने से पहले विटामिन D की कमी के बारे में जानना ज़रूरी है।
             </p>
 
             <div class="raj-callout raj-callout-danger">
@@ -379,7 +379,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">विटामिन D टेस्ट करें</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में विटामिन D की जाँच</p>
                     </div>
-                    <a href="https://rajhospitals.com/appointment.php" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                    <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
                     </a>
                 </div>
@@ -597,28 +597,28 @@ $base_url = '../';
                 संबंधित स्वास्थ्य गाइड
             </h3>
             <div class="grid md:grid-cols-2 gap-4">
-                <a href="https://rajhospitals.com/blog/low-vitamin-d-symptoms-female.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/low-vitamin-d-symptoms-female/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">Low Vitamin D Symptoms (Female)</h4>
                         <p class="text-gray-500 text-xs">महिलाओं में विटामिन D की कमी</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/immunity-kaise-badhaye.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/immunity-kaise-badhaye/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">इम्यूनिटी कैसे बढ़ाएं</h4>
                         <p class="text-gray-500 text-xs">विटामिन D और immunity</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/joint-pain-in-winter-causes-remedies.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/joint-pain-in-winter-causes-remedies/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">जोड़ों में दर्द</h4>
                         <p class="text-gray-500 text-xs">विटामिन D और हड्डियों की सेहत</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">PCOD Symptoms</h4>

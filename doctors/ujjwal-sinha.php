@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Ujjwal Sinha – Orthopaedics & Joint Replacement in Ranchi">
     <meta property="og:description" content="Dr. Ujjwal Sinha is an Orthopedic Surgeon at Raj Hospital, Ranchi with 15+ years in joint replacement & sports medicine. Book an appointment today.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/ujjwal-sinha">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/ujjwal-sinha">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. Ujjwal Sinha is an experienced Orthopedic Surgeon at Raj Hospital, Ranchi, with over 15 years of expertise in joint replacement and sports medicine. He specializes in total knee and hip replacement, arthroscopy, and sports injury rehabilitation.",
     "medicalSpecialty": "Orthopaedics & Joint Replacement",
     "qualifications": "MBBS, DNB, MNAMS, Fellowship in Sports Medicine, FIJR (Singapore)",
-    "image": "https://www.rajhospitalranchi.com/assets/doctor-latest/Orthopedic Surgeon - Dr. Ujjwal Sinha.webp",
+    "image": "https://rajhospitals.com/assets/doctor-latest/Orthopedic Surgeon - Dr. Ujjwal Sinha.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/ujjwal-sinha",
+    "url": "https://rajhospitals.com/doctors/ujjwal-sinha",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

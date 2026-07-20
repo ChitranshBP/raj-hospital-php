@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Thyroid symptoms in Hindi जानें। Thyroid ke lakshan, thyroid problems ke symptoms, hypothyroidism aur hyperthyroidism ke signs। Treatment और prevention।">
     <meta name="keywords" content="thyroid symptoms in hindi, thyroid ke lakshan, thyroid problems symptoms, thyroid in hindi, thyroid disease symptoms">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/thyroid-symptoms-in-hindi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/thyroid-symptoms-in-hindi/">
 
     <meta property="og:title" content="Thyroid Symptoms in Hindi | Thyroid ke Lakshan">
     <meta property="og:description" content="Thyroid symptoms in Hindi - complete guide on thyroid ke lakshan, causes और treatment।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/thyroid-symptoms-in-hindi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/thyroid-symptoms-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/thyroid-symptoms-in-hindi.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital",
         "description": "Thyroid symptoms in Hindi जानें। Thyroid ke lakshan, thyroid problems ke symptoms, hypothyroidism aur hyperthyroidism ke signs। Treatment और prevention।",
-        "url": "https://rajhospitals.com/blog/thyroid-symptoms-in-hindi.php",
+        "url": "https://rajhospitals.com/blog/thyroid-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/thyroid-symptoms-in-hindi.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/thyroid-symptoms-in-hindi.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/thyroid-symptoms-in-hindi/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -198,9 +198,9 @@
 
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Thyroid Symptoms in Hindi</span>
         </nav>
@@ -209,7 +209,7 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/thyroid-symptoms-in-hindi.png" alt="Thyroid Symptoms in Hindi" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/thyroid-symptoms-in-hindi.png" alt="Thyroid Symptoms in Hindi" class="w-full h-full object-contain">
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">
@@ -337,7 +337,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Thyroid की समस्या है?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में complete thyroid panel testing और expert treatment available है।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <h2 class="raj-h2">FAQs - Thyroid Symptoms</h2>
@@ -379,7 +379,6 @@
                         <li><a href="/blog/low-vitamin-d-symptoms-female.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज</a></li>
                         <li><a href="/blog/most-common-dental-procedures-and-how-they-work.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दांतों के सबसे आम प्रक्रियाएं और उनका काम</a></li>
                         <li><a href="/blog/pair-me-dard-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द - कारण, घरेलू उपाय और इलाज</a></li>
-                        <li><a href="/blog/revolutionary-50-cent-dna-sensor.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Revolutionary 50 Cent DNA Sensor - RAJ Hospital Science Update</a></li>
                         <li><a href="/blog/stroke-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs</a></li>
                         <li><a href="/blog/sugar-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Sugar Symptoms in Hindi - Diabetes Ke Lakshan</a></li>
                     </ul>

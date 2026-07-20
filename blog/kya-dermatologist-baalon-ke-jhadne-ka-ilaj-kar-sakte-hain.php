@@ -11,11 +11,11 @@ $base_url = '../';
     <meta name="keywords" content="hair loss treatment dermatologist, hair fall doctor ranchi, dermatologist for hair loss, baal jhadne ka ilaj, hair transplant ranchi">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
-    <link rel="canonical" href="https://rajhospitals.com/blog/kya-dermatologist-baalon-ke-jhadne-ka-ilaj-kar-sakte-hain.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/kya-dermatologist-baalon-ke-jhadne-ka-ilaj-kar-sakte-hain/">
     <meta property="og:title" content="क्या डर्मेटोलॉजिस्ट बालों के झड़ने का इलाज कर सकते हैं? | RAJ Hospital">
     <meta property="og:description" content="विशेषज्ञ त्वचा रोग विशेषज्ञ से जानिए बाल झड़ने के कारण, उपचार और बचाव के उपाय।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/kya-dermatologist-baalon-ke-jhadne-ka-ilaj-kar-sakte-hain.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/kya-dermatologist-baalon-ke-jhadne-ka-ilaj-kar-sakte-hain/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
     <title>क्या डर्मेटोलॉजिस्ट बालों के झड़ने का इलाज कर सकते हैं? | RAJ Hospital Ranchi</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-20",
         "dateModified": "2026-05-20",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/kya-dermatologist-baalon-ke-jhadne-ka-ilaj-kar-sakte-hain.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/kya-dermatologist-baalon-ke-jhadne-ka-ilaj-kar-sakte-hain/",
         "keywords": ["hair loss treatment dermatologist", "hair fall doctor ranchi", "dermatologist for hair loss", "baal jhadne ka ilaj"],
         "about": {
             "@type": "MedicalCondition",
@@ -173,7 +173,7 @@ $base_url = '../';
         ]
     }
     </script>
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
     <?php include $base_url . 'components/navbar.php'; ?>
@@ -183,9 +183,9 @@ $base_url = '../';
     <div class="bg-white border-b">
         <div class="max-w-4xl mx-auto px-4 py-3">
             <nav class="flex text-sm text-gray-600">
-                <a href="<?php echo $base_url; ?>index.php" class="hover:text-hospital-blue">होम</a>
+                <a href="/index.php" class="hover:text-hospital-blue">होम</a>
                 <span class="mx-2">/</span>
-                <a href="<?php echo $base_url; ?>blog" class="hover:text-hospital-blue">ब्लॉग</a>
+                <a href="/blog" class="hover:text-hospital-blue">ब्लॉग</a>
                 <span class="mx-2">/</span>
                 <span class="text-gray-800">त्वचा एवं बाल रोग</span>
             </nav>
@@ -270,7 +270,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">b) हार्मोनल असंतुलन</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                थायरॉयड समस्याएं, टेस्टोस्टेरॉन का असंतुलन, और महिलाओं में PCOS/PCOD बालों के झड़ने का कारण बन सकते हैं। <a href="https://rajhospitals.com/blog/thyroid-symptoms-in-men.php" class="text-hospital-blue hover:underline">थायरॉयड समस्याओं</a> के बारे में अधिक जानने के लिए हमारा ब्लॉग पढ़ें।
+                थायरॉयड समस्याएं, टेस्टोस्टेरॉन का असंतुलन, और महिलाओं में PCOS/PCOD बालों के झड़ने का कारण बन सकते हैं। <a href="https://rajhospitals.com/blog/thyroid-symptoms-in-men/" class="text-hospital-blue hover:underline">थायरॉयड समस्याओं</a> के बारे में अधिक जानने के लिए हमारा ब्लॉग पढ़ें।
             </p>
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">c) पोषण की कमी</h3>
@@ -295,7 +295,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">बालों के झड़ने की समस्या है?</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में अनुभवी डर्मेटोलॉजिस्ट से मिलें</p>
                     </div>
-                    <a href="https://rajhospitals.com/appointment.php" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                    <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
                     </a>
                 </div>
@@ -541,28 +541,28 @@ $base_url = '../';
                 संबंधित स्वास्थ्य गाइड
             </h3>
             <div class="grid md:grid-cols-2 gap-4">
-                <a href="https://rajhospitals.com/blog/uric-acid-symptom-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/uric-acid-symptom-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">यूरिक एसिड के लक्षण और उपाय</h4>
                         <p class="text-gray-500 text-xs">जोड़ों के दर्द और यूरिक एसिड</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/joint-pain-in-winter-causes-remedies.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/joint-pain-in-winter-causes-remedies/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">सर्दियों में जोड़ों में दर्द</h4>
                         <p class="text-gray-500 text-xs">कारण और उपाय</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/thyroid-symptoms-in-men.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/thyroid-symptoms-in-men/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">पुरुषों में थायरॉयड के लक्षण</h4>
                         <p class="text-gray-500 text-xs">थायरॉयड और बालों का झड़ना</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/urine-infection-symptoms-in-men-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/urine-infection-symptoms-in-men-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">पुरुषों में यूरिन इन्फेक्शन</h4>

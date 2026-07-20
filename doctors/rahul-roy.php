@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Rahul Roy – Critical Care in Ranchi">
     <meta property="og:description" content="Dr. Rahul Roy is a senior Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 20+ years experience in ICU and patient safety. Book now.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/rahul-roy">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/rahul-roy">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. Rahul Roy is a senior Critical Care and Anesthesiology specialist at Raj Hospital, Ranchi, with over 20 years of experience. He provides expert ICU management, anesthesia services, and hospital administration with a focus on patient safety.",
     "medicalSpecialty": "Critical Care",
     "qualifications": "MBBS, DA, IDCCM, EDAIC, MBA",
-    "image": "https://www.rajhospitalranchi.com/assets/Doc-Side/Dr Rahul Roy(CCT).webp",
+    "image": "https://rajhospitals.com/assets/Doc-Side/Dr Rahul Roy(CCT).webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/rahul-roy",
+    "url": "https://rajhospitals.com/doctors/rahul-roy",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

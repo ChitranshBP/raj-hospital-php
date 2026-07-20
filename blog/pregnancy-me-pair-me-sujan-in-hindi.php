@@ -11,11 +11,11 @@ $base_url = '../';
     <meta name="keywords" content="pregnancy me pair me sujan, feet swelling during pregnancy, anasarca pregnancy, swollen feet causes, pregnancy swelling remedies">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
-    <link rel="canonical" href="https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi/">
     <meta property="og:title" content="प्रेग्नेंसी में पैरों में सूजन - कारण और घरेलू उपाय">
     <meta property="og:description" content="प्रेग्नेंसी में पैरों में सूजन क्यों होती है और कैसे राहत पाएं।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
     <title>प्रेग्नेंसी में पैरों में सूजन - कारण और घरेलू उपाय | RAJ Hospital Ranchi</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-23",
         "dateModified": "2026-05-23",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi/",
         "keywords": ["pregnancy feet swelling", "pair me sujan", "anasarca pregnancy"],
         "about": {
             "@type": "MedicalCondition",
@@ -173,7 +173,7 @@ $base_url = '../';
         ]
     }
     </script>
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
     <?php include $base_url . 'components/navbar.php'; ?>
@@ -183,9 +183,9 @@ $base_url = '../';
     <div class="bg-white border-b">
         <div class="max-w-4xl mx-auto px-4 py-3">
             <nav class="flex text-sm text-gray-600">
-                <a href="<?php echo $base_url; ?>index.php" class="hover:text-hospital-blue">होम</a>
+                <a href="/index.php" class="hover:text-hospital-blue">होम</a>
                 <span class="mx-2">/</span>
-                <a href="<?php echo $base_url; ?>blog" class="hover:text-hospital-blue">ब्लॉग</a>
+                <a href="/blog" class="hover:text-hospital-blue">ब्लॉग</a>
                 <span class="mx-2">/</span>
                 <span class="text-gray-800">गर्भावस्था</span>
             </nav>
@@ -234,7 +234,7 @@ $base_url = '../';
             </div>
 
             <p class="text-lg text-gray-700 mb-6 leading-relaxed">
-                <strong>प्रेग्नेंसी में पैरों में सूजन</strong> (Edema) एक बहुत आम समस्या है जो लगभग हर गर्भवती महिला को होती है। आमतौर पर यह normal है और डिलीवरी के बाद खुद ठीक हो जाती है। लेकिन कई बार यह कुछ गंभीर समस्याओं का संकेत भी हो सकती है। <a href="https://rajhospitals.com/blog/pregnancy-symptoms-in-hindi.php" class="text-hospital-blue hover:underline">गर्भावस्था के अन्य लक्षणों</a> के बारे में भी जानें।
+                <strong>प्रेग्नेंसी में पैरों में सूजन</strong> (Edema) एक बहुत आम समस्या है जो लगभग हर गर्भवती महिला को होती है। आमतौर पर यह normal है और डिलीवरी के बाद खुद ठीक हो जाती है। लेकिन कई बार यह कुछ गंभीर समस्याओं का संकेत भी हो सकती है। <a href="https://rajhospitals.com/blog/pregnancy-symptoms-in-hindi/" class="text-hospital-blue hover:underline">गर्भावस्था के अन्य लक्षणों</a> के बारे में भी जानें।
             </p>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -344,7 +344,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">प्रेग्नेंसी में अनुभवी स्त्री रोग विशेषज्ञ</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi - सुरक्षित प्रसव और देखभाल</p>
                     </div>
-                    <a href="https://rajhospitals.com/appointment.php" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                    <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
                     </a>
                 </div>
@@ -522,28 +522,28 @@ $base_url = '../';
                 संबंधित स्वास्थ्य गाइड
             </h3>
             <div class="grid md:grid-cols-2 gap-4">
-                <a href="https://rajhospitals.com/blog/pregnancy-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/pregnancy-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">गर्भावस्था के लक्षण</h4>
                         <p class="text-gray-500 text-xs">Early pregnancy signs in Hindi</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">प्रेग्नेंसी में मखाना खाने के फायदे</h4>
                         <p class="text-gray-500 text-xs">गर्भवती महिलाओं के लिए पोषण</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">Best Maternity Hospital</h4>
                         <p class="text-gray-500 text-xs">रांची में सर्वश्रेष्ठ प्रसूति अस्पताल</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/labour-pain-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/labour-pain-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">प्रसव पीड़ा के लक्षण</h4>

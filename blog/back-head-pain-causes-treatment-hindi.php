@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>गर्दन और सिर दर्द: कारण, लक्षण और इलाज - Complete Hindi Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists और orthopedists की advice।">
     <meta name="keywords" content="गर्दन दर्द, सिर दर्द, neck pain, headache, cervical pain, गर्दन का दर्द, सिरदर्द से छुटकारा, neck and head pain Hindi">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi/">
 
     <meta property="og:title" content="गर्दन और सिर दर्द: कारण, लक्षण और इलाज - Complete Hindi Guide">
     <meta property="og:description" content="गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/back-head-pain-causes-treatment-hindi.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "गर्दन और सिर दर्द: कारण, लक्षण और इलाज - Complete Hindi Guide | RAJ Hospital Ranchi",
         "description": "गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists और orthopedists की advice।",
-        "url": "https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi.php",
+        "url": "https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/back-head-pain-causes-treatment-hindi.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">गर्दन और सिर दर्द - Complete Guide</span>
         </nav>
@@ -338,7 +338,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको गर्दन और सिर दर्द की जांच की जरूरत है?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में MRI, X-Ray, और Neurology experts available हैं।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- Section 6: When to see doctor -->

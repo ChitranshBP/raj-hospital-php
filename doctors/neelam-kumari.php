@@ -15,7 +15,7 @@ $page_title = 'Dr. Neelam Kumari – Internal Medicine in Ranchi';
     <meta property="og:title" content="Dr. Neelam Kumari – Internal Medicine in Ranchi">
     <meta property="og:description" content="Dr. Neelam Kumari is an Internal Medicine specialist at Raj Hospital Ranchi with 8+ years experience in diabetes, hypertension & thyroid care. Book now.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/neelam-kumari">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/neelam-kumari">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -76,7 +76,7 @@ $page_title = 'Dr. Neelam Kumari – Internal Medicine in Ranchi';
     "description": "Dr. Neelam Kumari is an Internal Medicine specialist at Raj Hospital, Ranchi, with over 8 years of experience in comprehensive medical care. She provides expert treatment for diabetes, hypertension, thyroid disorders, and general health management.",
     "medicalSpecialty": "Internal Medicine",
     "qualifications": "MBBS, MD",
-    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp",
+    "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -89,7 +89,7 @@ $page_title = 'Dr. Neelam Kumari – Internal Medicine in Ranchi';
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -100,7 +100,7 @@ $page_title = 'Dr. Neelam Kumari – Internal Medicine in Ranchi';
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/neelam-kumari",
+    "url": "https://rajhospitals.com/doctors/neelam-kumari",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

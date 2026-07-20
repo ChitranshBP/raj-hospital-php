@@ -11,11 +11,11 @@ $base_url = '../';
     <meta name="keywords" content="blood pressure control in hindi, high bp remedies, bp kam karne ke tarike, low blood pressure treatment, takniki seema, high bp tips">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
-    <link rel="canonical" href="https://rajhospitals.com/blog/blood-pressure-kaise-control-kare.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/blood-pressure-kaise-control-kare/">
     <meta property="og:title" content="ब्लड प्रेशर कैसे कंट्रोल करें? - घरेलू उपाय">
     <meta property="og:description" content="High BP को natural तरीकों से कंट्रोल करें। Diet, exercise और lifestyle changes से BP नियंत्रित करें।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/blood-pressure-kaise-control-kare.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/blood-pressure-kaise-control-kare/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
     <title>ब्लड प्रेशर कैसे कंट्रोल करें? - घरेलू उपाय और आयुर्वेदिक नुस्खे | RAJ Hospital Ranchi</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/blood-pressure-kaise-control-kare.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/blood-pressure-kaise-control-kare/",
         "keywords": ["blood pressure control", "high bp remedies", "bp kam karne ke tarike", "hypertension treatment"],
         "about": {
             "@type": "MedicalCondition",
@@ -173,7 +173,7 @@ $base_url = '../';
         ]
     }
     </script>
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
     <?php include $base_url . 'components/navbar.php'; ?>
@@ -183,9 +183,9 @@ $base_url = '../';
     <div class="bg-white border-b">
         <div class="max-w-4xl mx-auto px-4 py-3">
             <nav class="flex text-sm text-gray-600">
-                <a href="<?php echo $base_url; ?>index.php" class="hover:text-hospital-blue">होम</a>
+                <a href="/index.php" class="hover:text-hospital-blue">होम</a>
                 <span class="mx-2">/</span>
-                <a href="<?php echo $base_url; ?>blog" class="hover:text-hospital-blue">ब्लॉग</a>
+                <a href="/blog" class="hover:text-hospital-blue">ब्लॉग</a>
                 <span class="mx-2">/</span>
                 <span class="text-gray-800">हृदय रोग</span>
             </nav>
@@ -234,7 +234,7 @@ $base_url = '../';
             </div>
 
             <p class="text-lg text-gray-700 mb-6 leading-relaxed">
-                <strong>ब्लड प्रेशर (रक्तचाप)</strong> एक ऐसी समस्या है जो आज लगभग हर घर में देखी जाती है। <a href="https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi.php" class="text-hospital-blue hover:underline">High BP के लक्षण</a> कई बार धीरे-धीरे दिखते हैं जिन्हें हम अनदेखा कर देते हैं। लेकिन अगर BP कंट्रोल में न हो तो यह <a href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi.php" class="text-hospital-blue hover:underline">हृदयाघात</a> और <a href="https://rajhospitals.com/blog/brain-stroke-ke-lakshan.php" class="text-hospital-blue hover:underline">आघात (stroke)</a> का कारण बन सकता है। इस ब्लॉग में जानेंगे कि <strong>ब्लड प्रेशर कैसे कंट्रोल करें</strong>।
+                <strong>ब्लड प्रेशर (रक्तचाप)</strong> एक ऐसी समस्या है जो आज लगभग हर घर में देखी जाती है। <a href="https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="text-hospital-blue hover:underline">High BP के लक्षण</a> कई बार धीरे-धीरे दिखते हैं जिन्हें हम अनदेखा कर देते हैं। लेकिन अगर BP कंट्रोल में न हो तो यह <a href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/" class="text-hospital-blue hover:underline">हृदयाघात</a> और <a href="https://rajhospitals.com/blog/brain-stroke-ke-lakshan/" class="text-hospital-blue hover:underline">आघात (stroke)</a> का कारण बन सकता है। इस ब्लॉग में जानेंगे कि <strong>ब्लड प्रेशर कैसे कंट्रोल करें</strong>।
             </p>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -305,7 +305,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">BP की जाँच करें</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में FREE BP चेकअप</p>
                     </div>
-                    <a href="https://rajhospitals.com/appointment.php" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                    <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
                     </a>
                 </div>
@@ -602,28 +602,28 @@ $base_url = '../';
                 संबंधित स्वास्थ्य गाइड
             </h3>
             <div class="grid md:grid-cols-2 gap-4">
-                <a href="https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">High BP के लक्षण</h4>
                         <p class="text-gray-500 text-xs">High blood pressure की पहचान</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">हार्ट अटैक के लक्षण</h4>
                         <p class="text-gray-500 text-xs">हृदयाघात की पहचान और बचाव</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/brain-stroke-ke-lakshan.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/brain-stroke-ke-lakshan/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">Brain Stroke के लक्षण</h4>
                         <p class="text-gray-500 text-xs">आघात (पक्षाघात) की जानकारी</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/high-bp-me-kya-khaye.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/high-bp-me-kya-khaye/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">High BP में क्या खाएं</h4>

@@ -4,19 +4,19 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Anxiety symptoms in men - recognize stress, anxiety attack symptoms, and mental health issues. Learn about high anxiety symptoms, signs of stress, and when to seek help. Complete Hindi/English guide.">
     <meta name="keywords" content="anxiety symptoms in men, stress symptoms in men, anxiety attack symptoms male, symptoms of stress in men, symptoms of anxiety in men, signs of stress in men, high anxiety symptoms">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/">
 
     <meta property="og:title" content="Anxiety Symptoms in Men | Stress & Mental Health Issues Signs">
     <meta property="og:description" content="Learn about anxiety symptoms in men, stress symptoms, anxiety attack symptoms, and mental health issues. Complete guide by RAJ Hospital specialists.">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital",
         "description": "Anxiety symptoms in men - recognize stress, anxiety attack symptoms, and mental health issues. Learn about high anxiety symptoms, signs of stress, and when to seek help. Complete Hindi/English guide.",
-        "url": "https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php",
+        "url": "https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png",
         "author": {
             "@type": "Organization",
@@ -109,7 +109,7 @@
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/",
         "inLanguage": "hi-IN"
     }
     </script>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Anxiety Symptoms in Men</span>
         </nav>
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png" alt="Anxiety Symptoms in Men - Stress and Mental Health Issues" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png" alt="Anxiety Symptoms in Men - Stress and Mental Health Issues" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
@@ -411,7 +411,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need Help with Anxiety or Stress?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers confidential mental health consultation with experienced psychiatrists and counselors.</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- Section 8: Self-Help Tips -->

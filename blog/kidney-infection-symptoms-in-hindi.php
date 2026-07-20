@@ -11,11 +11,11 @@ $base_url = '../';
     <meta name="keywords" content="kidney infection symptoms in hindi, kidney infection treatment, gurde ka infection, pyelonephritis, kaise bachen, kidney infection ke lakshan">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
-    <link rel="canonical" href="https://rajhospitals.com/blog/kidney-infection-symptoms-in-hindi.php">
+    <link rel="canonical" href="https://rajhospitals.com/blog/kidney-infection-symptoms-in-hindi/">
     <meta property="og:title" content="किडनी इन्फेक्शन के लक्षण और उपचार - कब अस्पताल जाएं?">
     <meta property="og:description" content="किडनी इन्फेक्शन की पहचान, लक्षण, और समय पर इलाज के बारे में विस्तार से जानें।">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://rajhospitals.com/blog/kidney-infection-symptoms-in-hindi.php">
+    <meta property="og:url" content="https://rajhospitals.com/blog/kidney-infection-symptoms-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
     <title>किडनी इन्फेक्शन के लक्षण और उपचार - कब अस्पताल जाएं? | RAJ Hospital Ranchi</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/kidney-infection-symptoms-in-hindi.php",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/kidney-infection-symptoms-in-hindi/",
         "keywords": ["kidney infection symptoms", "kidney infection treatment", "gurde ka infection", "pyelonephritis"],
         "about": {
             "@type": "MedicalCondition",
@@ -173,7 +173,7 @@ $base_url = '../';
         ]
     }
     </script>
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 <body class="bg-gray-50 font-sans">
     <?php include $base_url . 'components/navbar.php'; ?>
@@ -183,9 +183,9 @@ $base_url = '../';
     <div class="bg-white border-b">
         <div class="max-w-4xl mx-auto px-4 py-3">
             <nav class="flex text-sm text-gray-600">
-                <a href="<?php echo $base_url; ?>index.php" class="hover:text-hospital-blue">होम</a>
+                <a href="/index.php" class="hover:text-hospital-blue">होम</a>
                 <span class="mx-2">/</span>
-                <a href="<?php echo $base_url; ?>blog" class="hover:text-hospital-blue">ब्लॉग</a>
+                <a href="/blog" class="hover:text-hospital-blue">ब्लॉग</a>
                 <span class="mx-2">/</span>
                 <span class="text-gray-800">गुर्दे की बीमारियाँ</span>
             </nav>
@@ -234,7 +234,7 @@ $base_url = '../';
             </div>
 
             <p class="text-lg text-gray-700 mb-6 leading-relaxed">
-                <strong>किडनी इन्फेक्शन</strong> (जिसे पायलोनेफ्राइटिस भी कहते हैं) एक ऐसी बीमारी है जो अक्सर शुरुआत में हल्की लगती है लेकिन जल्दी गंभीर हो सकती है। <a href="https://rajhospitals.com/blog/urine-infection-symptoms-in-men-in-hindi.php" class="text-hospital-blue hover:underline">यूरिन इन्फेक्शन</a> से शुरू होकर यह बीमारी किडनी तक पहुँच सकती है। इस ब्लॉग में हम किडनी इन्फेक्शन के लक्षण, कारण, और बचाव के बारे में विस्तार से जानेंगे।
+                <strong>किडनी इन्फेक्शन</strong> (जिसे पायलोनेफ्राइटिस भी कहते हैं) एक ऐसी बीमारी है जो अक्सर शुरुआत में हल्की लगती है लेकिन जल्दी गंभीर हो सकती है। <a href="https://rajhospitals.com/blog/urine-infection-symptoms-in-men-in-hindi/" class="text-hospital-blue hover:underline">यूरिन इन्फेक्शन</a> से शुरू होकर यह बीमारी किडनी तक पहुँच सकती है। इस ब्लॉग में हम किडनी इन्फेक्शन के लक्षण, कारण, और बचाव के बारे में विस्तार से जानेंगे।
             </p>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -265,7 +265,7 @@ $base_url = '../';
                 किडनी इन्फेक्शन के लक्षण पहचानें
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                <a href="https://rajhospitals.com/blog/kidney-stone-symptoms-in-men-in-hindi.php" class="text-hospital-blue hover:underline">किडनी स्टोन</a> के साथ किडनी इन्फेक्शन के लक्षण कुछ हद तक मिलते जुलते हैं। लेकिन इन्फेक्शन में कुछ विशेष लक्षण होते हैं:
+                <a href="https://rajhospitals.com/blog/kidney-stone-symptoms-in-men-in-hindi/" class="text-hospital-blue hover:underline">किडनी स्टोन</a> के साथ किडनी इन्फेक्शन के लक्षण कुछ हद तक मिलते जुलते हैं। लेकिन इन्फेक्शन में कुछ विशेष लक्षण होते हैं:
             </p>
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">मूत्र संबंधी लक्षण:</h3>
@@ -305,7 +305,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">किडनी की समस्या है?</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में नेफ्रोलॉजिस्ट से मिलें</p>
                     </div>
-                    <a href="https://rajhospitals.com/appointment.php" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+                    <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
                     </a>
                 </div>
@@ -603,28 +603,28 @@ $base_url = '../';
                 संबंधित स्वास्थ्य गाइड
             </h3>
             <div class="grid md:grid-cols-2 gap-4">
-                <a href="https://rajhospitals.com/blog/kidney-stone-symptoms-in-men-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/kidney-stone-symptoms-in-men-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">किडनी स्टोन के लक्षण</h4>
                         <p class="text-gray-500 text-xs">गुर्दे की पथरी की पहचान और उपचार</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/urine-infection-symptoms-in-men-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/urine-infection-symptoms-in-men-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">यूरिन इन्फेक्शन</h4>
                         <p class="text-gray-500 text-xs">मूत्रमार्ग संक्रमण से बचाव</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/sugar-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/sugar-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">शुगर के लक्षण</h4>
                         <p class="text-gray-500 text-xs">डायबिटीज़ और किडनी स्वास्थ्य</p>
                     </div>
                 </a>
-                <a href="https://rajhospitals.com/blog/viral-fever-symptoms-in-hindi.php" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
+                <a href="https://rajhospitals.com/blog/viral-fever-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">वायरल फीवर</h4>

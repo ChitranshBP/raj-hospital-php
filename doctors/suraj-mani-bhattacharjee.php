@@ -2,7 +2,7 @@
 $pageTitle = "Dr. Suraj Mani Bhattacharjee – Dental in Ranchi";
 $pageDescription = "Dr. Suraj Mani Bhattacharjee is an experienced Dental Surgeon at Raj Hospital, Ranchi with 10+ years expertise in dental implants & root canal. Book now.";
 $pageKeywords = "Dr. Suraj Mani Bhattacharjee, Dentist in Ranchi, Best Dental Surgeon Ranchi, dental implants Ranchi, Dr. Suraj Mani Raj Hospital";
-$canonicalUrl = "https://www.rajhospitalranchi.com/doctors/suraj-mani-bhattacharjee";
+$canonicalUrl = "https://rajhospitals.com/doctors/suraj-mani-bhattacharjee";
 $ogType = "profile";
 $base_url = "../";
 include($base_url . 'header.php');
@@ -17,7 +17,7 @@ include($base_url . 'header.php');
     "description": "Dr. Suraj Mani Bhattacharjee is an experienced Dental Surgeon at Raj Hospital, Ranchi with 10+ years expertise in dental implants & root canal. Book now.",
     "medicalSpecialty": "Dental",
     "qualifications": "BDS",
-    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp",
+    "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -30,7 +30,7 @@ include($base_url . 'header.php');
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -41,7 +41,7 @@ include($base_url . 'header.php');
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/suraj-mani-bhattacharjee",
+    "url": "https://rajhospitals.com/doctors/suraj-mani-bhattacharjee",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

@@ -4,7 +4,7 @@
 
 <head>
     <?php $inc_path = isset($base_url) ? $base_url . 'custom-code.php' : 'custom-code.php'; include_once $inc_path; ?>
-    <link rel="icon" type="image/png" href="<?php echo $base_url; ?>assets/favicon/raj-favicon-.png">
+    <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bone Hydrogel Treatment in Hindi | RAJ Hospital Ranchi - Orthopedic Care</title>
@@ -190,7 +190,7 @@
     }
     </script>
     <!-- RAJ SEO WEBSITE SCHEMA END -->
-    <link rel="stylesheet" href="<?php echo $base_url; ?>blog/assets/css/blog-components.css">
+    <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 </head>
 
 <body class="bg-gray-50">
@@ -199,9 +199,9 @@
     <!-- Breadcrumb -->
     <div class="max-w-4xl mx-auto px-4 py-4 text-sm mt-[120px]">
         <nav class="text-gray-500">
-            <a href="<?php echo $base_url; ?>" class="hover:text-secondary-600">Home</a>
+            <a href="/" class="hover:text-secondary-600">Home</a>
             <span class="mx-2">›</span>
-            <a href="<?php echo $base_url; ?>blog/" class="hover:text-secondary-600">Blog</a>
+            <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
             <span class="text-gray-700">Bone Hydrogel Treatment</span>
         </nav>
@@ -226,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस comprehensive guide में, <a href="<?php echo $base_url; ?>index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के orthopedic specialists bone hydrogel treatment के बारे में detail से बताएंगे - यह क्या है, कैसे काम करता है, इसके benefits, candidates, और recovery process।
+                    इस comprehensive guide में, <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के orthopedic specialists bone hydrogel treatment के बारे में detail से बताएंगे - यह क्या है, कैसे काम करता है, इसके benefits, candidates, और recovery process।
                 </p>
 
                 <!-- Section 1: What is Bone Hydrogel -->
@@ -311,7 +311,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Cartilage Defects</h4>
-                        <p class="text-sm text-gray-600">Focal cartilage injuries, especially in young patients. Our <a href="<?php echo $base_url; ?>find-a-doctor.php" class="text-secondary-600 hover:underline">orthopedic specialists</a> assess each case individually.</p>
+                        <p class="text-sm text-gray-600">Focal cartilage injuries, especially in young patients. Our <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">orthopedic specialists</a> assess each case individually.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Bone Cysts</h4>
@@ -453,7 +453,7 @@
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Bone Hydrogel Treatment Ke Liye Consultation Book Karein</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert orthopedic specialists available हैं।</p>
-                    <a href="<?php echo $base_url; ?>contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
+                    <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
                 <!-- FAQs -->

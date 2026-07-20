@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Vivek Raj – Neurosciences in Ranchi">
     <meta property="og:description" content="Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi with 9+ years in brain & spine surgery. Book an appointment today.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/vivek-raj">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/vivek-raj">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi, with over 9 years of experience in brain and spine surgery. He specializes in craniotomy, spinal fusion, and advanced neurosurgical procedures for complex neurological conditions.",
     "medicalSpecialty": "Neurosciences",
     "qualifications": "MBBS, ECFMG Certified (USA) Neurosurgery, DNB Neurosurgery (Brain & Spine Surgery)",
-    "image": "https://www.rajhospitalranchi.com/assets/new-doctors-side/vivek raj.webp",
+    "image": "https://rajhospitals.com/assets/new-doctors-side/vivek raj.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/vivek-raj",
+    "url": "https://rajhospitals.com/doctors/vivek-raj",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"

@@ -13,7 +13,7 @@
     <meta property="og:title" content="Dr. Abhishek Roy – Orthopaedics & Joint Replacement in Ranchi">
     <meta property="og:description" content="Dr. Abhishek Roy is a specialist Orthopedic Surgeon at Raj Hospital Ranchi with 6+ years expertise in joint replacement and sports injury. Book appointment now.">
     <meta property="og:type" content="profile">
-    <meta property="og:url" content="https://www.rajhospitalranchi.com/doctors/abhishek-roy">
+    <meta property="og:url" content="https://rajhospitals.com/doctors/abhishek-roy">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
     <meta name="robots" content="index, follow">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -83,7 +83,7 @@
     "description": "Dr. Abhishek Roy is a specialized Orthopedic Surgeon at Raj Hospital, Ranchi, with over 6 years of expertise in joint replacement and sports injury management. He provides advanced treatment for fractures, arthroscopy, and total knee and hip replacement surgeries.",
     "medicalSpecialty": "Orthopaedics & Joint Replacement",
     "qualifications": "MBBS, MS (Orthopaedics), FIJR, FIAMS",
-    "image": "https://www.rajhospitalranchi.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp",
+    "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -96,7 +96,7 @@
             "addressCountry": "IN"
         },
         "telephone": "+919263630500",
-        "url": "https://www.rajhospitalranchi.com"
+        "url": "https://rajhospitals.com"
     },
     "address": {
         "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "addressCountry": "IN"
     },
     "telephone": "+919263630500",
-    "url": "https://www.rajhospitalranchi.com/doctors/abhishek-roy",
+    "url": "https://rajhospitals.com/doctors/abhishek-roy",
     "memberOf": {
         "@type": "MedicalOrganization",
         "name": "Raj Hospital, Ranchi"
