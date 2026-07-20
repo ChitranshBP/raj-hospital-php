@@ -432,6 +432,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">संबंधित symptoms, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/migraine-and-headaches-treatment-in-ranchi" class="text-secondary-600 hover:underline font-semibold">Ranchi में सिरदर्द और माइग्रेन का इलाज — RAJ Hospital, Ranchi</a></li>
                         <li><a href="/blog/back-head-pain-causes-treatment-hindi.php" class="text-secondary-600 hover:underline font-semibold">गर्दन और सिर दर्द: कारण, लक्षण और इलाज - Complete Hindi Guide</a></li>
                         <li><a href="/blog/bp-high-hone-par-kya-kare.php" class="text-secondary-600 hover:underline font-semibold">BP High hone par kya kare - उच्च रक्तचाप में क्या करें</a></li>
                         <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">माइग्रेन के लक्षण | Migraine Symptoms in Hindi</a></li>

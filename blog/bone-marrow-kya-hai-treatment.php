@@ -530,6 +530,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/specialties/haematology" class="text-secondary-600 hover:underline font-semibold">Ranchi में रक्त रोग और बोन मैरो उपचार — RAJ Hospital Haematology (Ranchi)</a></li>
                         <li><a href="/blog/bone-hydrogel-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Bone Hydrogel Treatment in Hindi</a></li>
                         <li><a href="/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Green Tea on Empty Stomach - Benefits and Side Effects</a></li>
                         <li><a href="/blog/physical-therapy-for-headaches-benefits-techniques-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Physical Therapy for Headaches - Benefits, Techniques and Treatment</a></li>

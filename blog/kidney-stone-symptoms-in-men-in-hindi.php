@@ -429,6 +429,7 @@
                 <section class="mt-8 bg-white border border-gray-200 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/specialties/urology" class="text-secondary-600 hover:underline font-semibold">Ranchi में किडनी स्टोन और यूरोलॉजी उपचार — RAJ Hospital Urology, Ranchi</a></li>
                         <li><a href="/blog/kidney-stone-ka-ilaj.php" class="text-primary-600 hover:underline font-semibold">Kidney Stone Ka Ilaj - पथरी का इलाज</a></li>
                         <li><a href="/blog/uric-acid-symptom-in-hindi.php" class="text-primary-600 hover:underline font-semibold">Uric Acid Symptom in Hindi - यूरिक एसिड के लक्षण</a></li>
                         <li><a href="/blog/urine-infection-symptoms-in-men-in-hindi.php" class="text-primary-600 hover:underline font-semibold">Urine Infection Symptoms in Men</a></li>

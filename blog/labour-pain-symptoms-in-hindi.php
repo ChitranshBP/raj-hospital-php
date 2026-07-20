@@ -420,6 +420,7 @@
                 <section class="mt-8 bg-white border border-gray-200 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/specialties/obstetrics-and-gynaecology" class="text-secondary-600 hover:underline font-semibold">Ranchi में प्रसव और स्त्री रोग विशेषज्ञ — RAJ Hospital Gynaecology, Ranchi</a></li>
                         <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">Best Maternity Hospital in Ranchi</a></li>
                         <li><a href="/blog/pregnancy-symptoms-in-hindi.php" class="text-primary-600 hover:underline font-semibold">Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण</a></li>
                         <li><a href="/blog/pregnancy-ke-lakshan-kitne-din-me-dikhte-hain.php" class="text-primary-600 hover:underline font-semibold">Pregnancy Ke Lakshan Kitne Din Me Dikhte Hain</a></li>
