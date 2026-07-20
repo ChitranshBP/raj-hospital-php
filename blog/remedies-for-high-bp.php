@@ -453,6 +453,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/blog/does-low-blood-pressure-cause-a-heart-attack/" class="text-secondary-600 hover:underline font-semibold">क्या Low BP से हार्ट अटैक हो सकता है? — पूरी जानकारी (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण</a></li>
                         <li><a href="/blog/bp-high-hone-par-kya-kare.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: BP High होने पर क्या करें?</a></li>
                         <li><a href="/blog/high-bp-me-kya-khaye.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं?</a></li>

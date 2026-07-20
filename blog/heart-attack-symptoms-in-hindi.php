@@ -551,6 +551,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/blog/which-is-more-dangerous-heart-attack-or-cardiac-arrest/" class="text-secondary-600 hover:underline font-semibold">हार्ट अटैक बनाम कार्डियक अरेस्ट — कौन ज्यादा खतरनाक? (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/blog/difference-between-gas-pain-and-heart-attack-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Gas Pain vs Heart Attack - How to Tell the Difference</a></li>
                         <li><a href="/blog/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand</a></li>
                         <li><a href="/blog/heart-attack-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण</a></li>

@@ -516,6 +516,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/specialties/laboratory-investigations" class="text-secondary-600 hover:underline font-semibold">Ranchi में लिवर और ब्लड टेस्ट — RAJ Hospital Laboratory Investigations (Ranchi)</a></li>
                         <li><a href="/blog/dehydration-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi) - पूरी जानकारी</a></li>
                         <li><a href="/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Anxiety Symptoms in Men | Stress &amp; Mental Health Issues Signs</a></li>
                         <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Can Anxiety Cause a Heart Attack?</a></li>
