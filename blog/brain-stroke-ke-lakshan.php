@@ -390,6 +390,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/specialties/neurosciences" class="text-secondary-600 hover:underline font-semibold">Ranchi में न्यूरोलॉजी और स्ट्रोक का इलाज — RAJ Hospital Neurosciences (Ranchi)</a></li>
                         <li><a href="/blog/stroke-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs</a></li>
                         <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Hospital for Paralysis Treatment in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण</a></li>

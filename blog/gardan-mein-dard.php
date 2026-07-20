@@ -913,6 +913,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/specialties/neuro-spine-surgery" class="text-secondary-600 hover:underline font-semibold">Ranchi में रीढ़ और स्पाइन सर्जरी — RAJ Hospital Neuro & Spine Surgery (Ranchi)</a></li>
                         <li><a href="/blog/joint-pain-treatment-ranchi/" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Knee Pain - घुटने में दर्द के कारण और उपचार</a></li>
                         <li><a href="/back-pain-and-sciatica-treatment-in-ranchi" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Sciatica Pain - गुल्फी में दर्द का इलाज</a></li>
                         <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Migraine Symptoms in Hindi - माइग्रेन के लक्षण</a></li>
