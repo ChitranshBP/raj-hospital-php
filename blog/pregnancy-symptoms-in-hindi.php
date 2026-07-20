@@ -384,6 +384,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/blog/period-late-hone-ke-karan/" class="text-secondary-600 hover:underline font-semibold">पीरियड लेट होने के कारण — जानें वजह (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/blog/pregnancy-ke-lakshan-kitne-din-me-dikhte-hain.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnancy Ke Lakshan - Kitne Din Mein Dikhte Hain?</a></li>
                         <li><a href="/blog/pregnancy-ke-pehle-week-ke-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs</a></li>
                         <li><a href="/blog/breast-cancer-news.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Breast Cancer News - Latest Updates &amp; Treatment</a></li>

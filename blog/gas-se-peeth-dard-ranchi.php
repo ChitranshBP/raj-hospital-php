@@ -505,6 +505,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/blog/pet-me-right-side-dard-hona/" class="text-secondary-600 hover:underline font-semibold">पेट के दाहिनी ओर दर्द — कारण और इलाज (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/blog/seene-me-gas-ka-dard.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein?</a></li>
                         <li><a href="/blog/back-head-pain-causes-treatment-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्दन और सिर दर्द: कारण, लक्षण और इलाज</a></li>
                         <li><a href="/blog/subah-uthte-hi-pair-me-dard-kyon-hota-hai.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Subah Uthne Ke Baad Pair Mein Dard - Kyon Hota Hai?</a></li>

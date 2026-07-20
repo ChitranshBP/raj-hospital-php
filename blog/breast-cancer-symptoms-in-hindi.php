@@ -382,6 +382,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/blog/symptoms-of-breast-cancer-in-women-early-signs-every-woman-must-know/" class="text-secondary-600 hover:underline font-semibold">Breast Cancer in Women — early signs every woman must know (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/specialties/oncology-cancer-care" class="text-secondary-600 hover:underline font-semibold">Ranchi में कैंसर का इलाज — RAJ Hospital Oncology & Cancer Care, Ranchi</a></li>
                         <li><a href="/blog/breast-cancer-news.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Breast Cancer News - Latest Updates &amp; Treatment</a></li>
                         <li><a href="/blog/cervical-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भाशय ग्रीवा कैंसर के लक्षण</a></li>

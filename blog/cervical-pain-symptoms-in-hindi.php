@@ -359,6 +359,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/blog/gardan-mein-dard/" class="text-secondary-600 hover:underline font-semibold">गर्दन में दर्द — कारण, लक्षण और इलाज (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/specialties/orthopaedics-and-joint-replacement" class="text-secondary-600 hover:underline font-semibold">Ranchi में सर्वाइकल और हड्डी-जोड़ का इलाज — RAJ Hospital Orthopaedics (Ranchi)</a></li>
                         <li><a href="/blog/cervical-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भाशय ग्रीवा कैंसर के लक्षण</a></li>
                         <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Maternity Hospital in Ranchi</a></li>

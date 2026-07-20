@@ -354,6 +354,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/blog/shighrapatan-ka-ilaj/" class="text-secondary-600 hover:underline font-semibold">शीघ्रपतन का इलाज — कारण और उपचार (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/blog/symptoms-of-aids-in-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Symptoms of AIDS in Men - Early Signs and Treatment</a></li>
                         <li><a href="/blog/hiv-symptoms-in-men-after-1-year.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital</a></li>
                         <li><a href="/blog/blood-infection-kaise-hota-hai.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Blood Infection (Sepsis) Kaise Hota Hai?</a></li>
