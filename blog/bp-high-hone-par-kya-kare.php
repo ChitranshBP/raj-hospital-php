@@ -388,6 +388,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/blog/pulse-rate-kitna-hona-chahiye/" class="text-secondary-600 hover:underline font-semibold">पल्स रेट कितना होना चाहिए — नॉर्मल हृदय गति की जानकारी (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/specialties/cardiology" class="text-secondary-600 hover:underline font-semibold">Ranchi में हृदय रोग विशेषज्ञ से सलाह लें — RAJ Hospital की Cardiology टीम (Ranchi)</a></li>
                         <li><a href="/blog/pulse-rate-50-hone-par-kya-karen.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पल्स रेट 50 होने पर क्या करें?</a></li>
                         <li><a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण</a></li>

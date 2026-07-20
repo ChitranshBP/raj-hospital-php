@@ -371,6 +371,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/blog/vitamin-d-ki-kami-ke-lakshan/" class="text-secondary-600 hover:underline font-semibold">विटामिन D की कमी के लक्षण और इलाज (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/blog/garbhavastha-me-kya-kaam-nahi-karna-chahiye.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भावस्था में क्या काम नहीं करना चाहिए</a></li>
                         <li><a href="/blog/most-common-dental-procedures-and-how-they-work.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दांतों के सबसे आम प्रक्रियाएं और उनका काम</a></li>
                         <li><a href="/blog/pair-me-dard-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द - कारण, घरेलू उपाय और इलाज</a></li>

@@ -422,6 +422,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                        <li><a href="/blog/sir-ke-piche-dard-hona/" class="text-secondary-600 hover:underline font-semibold">सिर के पीछे दर्द होना — कारण और उपचार (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: माइग्रेन के लक्षण - कारण, प्रकार और इलाज</a></li>
                         <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Best Orthopedic Care</a></li>
                         <li><a href="/blog/fits-ka-ilaj.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Fits Ka Ilaj - Epilepsy Treatment in Hindi</a></li>
