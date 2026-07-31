@@ -276,23 +276,41 @@
             }
 
             function get_blog_post_meta($blog_dir, $slug) {
+                static $cache = [];
+                if (isset($cache[$slug])) return $cache[$slug];
+
                 $file = $blog_dir . '/' . $slug . '.php';
+                $date_ts = is_file($file) ? filemtime($file) : time();
+                
                 $meta = [
                     'title' => ucwords(str_replace('-', ' ', $slug)),
                     'excerpt' => 'Read more about this health topic.',
                     'category' => 'Health',
-                    'date' => date('F j, Y', is_file($file) ? filemtime($file) : time()),
-                    'image' => 'assets/img/Copy-of-Raj-Hospitals.jpg'
+                    'image' => 'assets/img/Copy-of-Raj-Hospitals.jpg',
+                    'date_ts' => $date_ts
                 ];
 
                 if (!is_file($file)) {
+                    $meta['date'] = date('F j, Y', $meta['date_ts']);
+                    $cache[$slug] = $meta;
                     return $meta;
                 }
 
                 $contents = file_get_contents($file, false, null, 0, 20000);
                 if ($contents === false) {
+                    $meta['date'] = date('F j, Y', $meta['date_ts']);
+                    $cache[$slug] = $meta;
                     return $meta;
                 }
+
+                if (preg_match('/"datePublished"\s*:\s*"([^"]+)"/i', $contents, $mst)) {
+                    $ts = strtotime($mst[1]);
+                    if ($ts) $meta['date_ts'] = $ts;
+                } elseif (preg_match('/data-feather="calendar"[^>]*>\s*([A-Z][a-z]+\s+\d{1,2},\s+\d{4})/i', $contents, $mst2)) {
+                    $ts = strtotime($mst2[1]);
+                    if ($ts) $meta['date_ts'] = $ts;
+                }
+                $meta['date'] = date('F j, Y', $meta['date_ts']);
 
                 if (preg_match('/<title>(.*?)<\/title>/is', $contents, $matches)) {
                     $title = trim(html_entity_decode(strip_tags($matches[1]), ENT_QUOTES, 'UTF-8'));
@@ -320,20 +338,20 @@
                 return $meta;
             }
 
-            // Sort blogs by date (newest first) - use file modification time for blogs not in $blog_data
+            // Sort blogs by date (newest first)
             usort($blogs, function($a, $b) use ($blog_dir, $blog_data) {
-                // Get file modification time
-                $file_a = $blog_dir . '/' . $a . '.php';
-                $file_b = $blog_dir . '/' . $b . '.php';
-                $time_a = is_file($file_a) ? filemtime($file_a) : 0;
-                $time_b = is_file($file_b) ? filemtime($file_b) : 0;
-
-                // Check if date exists in blog_data (manual entry takes priority)
                 if (isset($blog_data[$a]) && isset($blog_data[$a]['date'])) {
                     $time_a = strtotime($blog_data[$a]['date']);
+                } else {
+                    $meta_a = get_blog_post_meta($blog_dir, $a);
+                    $time_a = $meta_a['date_ts'];
                 }
+
                 if (isset($blog_data[$b]) && isset($blog_data[$b]['date'])) {
                     $time_b = strtotime($blog_data[$b]['date']);
+                } else {
+                    $meta_b = get_blog_post_meta($blog_dir, $b);
+                    $time_b = $meta_b['date_ts'];
                 }
 
                 return $time_b - $time_a; // Descending order (newest first)
