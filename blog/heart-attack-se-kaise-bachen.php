@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart | RAJ Hospital</title>
+    <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart | RAJ Hospital</title>
     <meta name="description" content="Heart attack se kaise bachen - Janiye 15 powerful tips jo aapke heart ko healthy rakhenge aur heart attack ka risk kam karenge. RAJ Hospital Ranchi ke neurology experts se practical guidence.">
     <meta name="keywords" content="heart attack se kaise bachen, heart attack prevention, heart health tips in hindi, dil ka sehat, heart attack symptoms, cholesterol control, blood pressure control, heart care tips">
     <meta name="robots" content="index, follow">
@@ -23,7 +23,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Heart Attack Se Kaise Bachen - Complete Prevention Guide",
+        "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Se Kaise Bachen - Complete Prevention Guide",
         "description": "Heart attack prevention guide in Hindi with 15 powerful tips for maintaining heart health and preventing cardiac events.",
         "author": {
             "@type": "Organization",
@@ -75,7 +75,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Heart Attack Se Kaise Bachen"
+                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Se Kaise Bachen"
             }
         ]
     }
@@ -88,10 +88,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Heart attack se kaise bachein?",
+                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a> se kaise bachein?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart attack se bachene ke liye daily exercise karein, healthy diet lein, cigarette na pileen, alcohol kam karein, stress manage karein, blood pressure aur cholesterol control karein, regular checkups karein, aur enough sleep lein. Yeh sab steps aapke heart ko healthy rakhenge aur heart attack ka risk significantly kam hoga."
+                    "text": "Heart attack se bachene ke liye daily exercise karein, healthy diet lein, cigarette na pileen, alcohol kam karein, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> manage karein, blood pressure aur cholesterol control karein, regular checkups karein, aur enough sleep lein. Yeh sab steps aapke heart ko healthy rakhenge aur heart attack ka risk significantly kam hoga."
                 }
             },
             {
@@ -99,12 +99,12 @@
                 "name": "Heart attack ke lakshan kya hain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart attack ke common lakshan hain: chest mein dard ya pressure, haath ya turn mein pain, shoulder ya back mein dard, saans lena mushkil, cold sweat, nausea, fatigue, aur chhati mein burning sensation. Agar ye symptoms dikhein to turant doctor se milein. RAJ Hospital Ranchi mein <a href='../stroke-and-tia-treatment-in-ranchi.php'>emergency stroke and cardiac care</a> available hai."
+                    "text": "Heart attack ke common lakshan hain: chest mein dard ya pressure, haath ya turn mein pain, shoulder ya back mein dard, saans lena mushkil, cold sweat, nausea, fatigue, aur chhati mein burning sensation. Agar ye symptoms dikhein to turant doctor se milein. RAJ Hospital Ranchi mein <a href='../stroke-and-tia-treatment-in-ranchi.php'>emergency <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> and <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> care</a> available hai."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Kya stress se heart attack ho sakta hai?",
+                "name": "Kya <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> se <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> ho sakta hai?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Haan, chronic stress heart attack ka risk badha sakta hai. Stress se blood pressure badhta hai, inflammation hota hai, aur heart par extra pressure padta hai. Meditation, yoga, aur proper rest lekar stress manage karein. Regular exercise aur adequate sleep bhi stress kam karne mein madad karta hai."
@@ -115,7 +115,7 @@
                 "name": "Diet se heart attack kaise prevent karein?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart-healthy diet lein: fruits, vegetables, whole grains, lean proteins, omega-3 rich foods jaise fish, walnuts, aur flaxseeds. Trans fats, saturated fats, excess salt, aur sugar kam karein. Olive oil, mustard oil, ya canola oil use karein. Processed foods aur fried foods se bachein."
+                    "text": "Heart-healthy diet lein: fruits, vegetables, whole grains, lean proteins, omega-3 rich foods jaise fish, walnuts, aur flaxseeds. Trans fats, saturated fats, excess salt, aur <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> kam karein. Olive oil, mustard oil, ya canola oil use karein. Processed foods aur fried foods se bachein."
                 }
             },
             {
@@ -123,7 +123,7 @@
                 "name": "Exercise kitna zaroori hai heart health ke liye?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Raj Hospital Ranchi ke neurology experts kehta hain ki hafte mein kam se kam 150 minutes moderate exercise ya 75 minutes vigorous exercise zaroori hai. Daily 30 minutes walk, jogging, swimming, ya cycling karein. Sedentary lifestyle se bachein aur regular physical activity ko apni routine ka hissa banayein."
+                    "text": "Raj Hospital Ranchi ke <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> experts kehta hain ki hafte mein kam se kam 150 minutes moderate exercise ya 75 minutes vigorous exercise zaroori hai. Daily 30 minutes walk, jogging, swimming, ya cycling karein. Sedentary lifestyle se bachein aur regular physical activity ko apni routine ka hissa banayein."
                 }
             },
             {
@@ -136,7 +136,7 @@
             },
             {
                 "@type": "Question",
-                "name": "Heart attack ka golden hour kya hota hai?",
+                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a> ka golden hour kya hota hai?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Heart attack ke baad first 90 minutes bahut important hain - ise 'golden hour' kaha jata hai. Is time ke andar treatment shuru karne se heart damage kam hota hai aur survival chance badhta hai. Agar heart attack ke symptoms dikhein to turant emergency services call karein aur jaldi se jaldi hospital pahunchen. RAJ Hospital Ranchi mein 24/7 emergency care available hai."

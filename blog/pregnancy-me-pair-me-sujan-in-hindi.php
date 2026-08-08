@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-23",
         "dateModified": "2026-05-23",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi/",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>-me-pair-me-sujan-in-hindi/",
         "keywords": ["pregnancy feet swelling", "pair me sujan", "anasarca pregnancy"],
         "about": {
             "@type": "MedicalCondition",
@@ -163,7 +163,7 @@ $base_url = '../';
                 "@type": "ListItem",
                 "position": 3,
                 "name": "गर्भावस्था",
-                "item": "https://rajhospitals.com/blog?category=pregnancy"
+                "item": "https://rajhospitals.com/blog?category=<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>"
             },
             {
                 "@type": "ListItem",
@@ -526,7 +526,7 @@ $base_url = '../';
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">गर्भावस्था के लक्षण</h4>
-                        <p class="text-gray-500 text-xs">Early pregnancy signs in Hindi</p>
+                        <p class="text-gray-500 text-xs">Early <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> signs in Hindi</p>
                     </div>
                 </a>
                 <a href="https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
@@ -539,7 +539,7 @@ $base_url = '../';
                 <a href="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
-                        <h4 class="font-semibold text-gray-800 text-sm">Best Maternity Hospital</h4>
+                        <h4 class="font-semibold text-gray-800 text-sm">Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital</h4>
                         <p class="text-gray-500 text-xs">रांची में सर्वश्रेष्ठ प्रसूति अस्पताल</p>
                     </div>
                 </a>

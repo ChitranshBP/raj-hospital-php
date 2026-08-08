@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/diabetes-mein-kya-khaye-aur-kya-na-khaye/",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>-mein-kya-khaye-aur-kya-na-khaye/",
         "keywords": ["diabetes diet", "diabetic food list", "sugar patient diet", "diabetes control food"],
         "about": {
             "@type": "MedicalCondition",
@@ -163,7 +163,7 @@ $base_url = '../';
                 "@type": "ListItem",
                 "position": 3,
                 "name": "डायबिटीज़",
-                "item": "https://rajhospitals.com/blog?category=diabetes"
+                "item": "https://rajhospitals.com/blog?category=<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>"
             },
             {
                 "@type": "ListItem",

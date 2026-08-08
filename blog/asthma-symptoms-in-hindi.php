@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>दमा के लक्षण | Asthma Symptoms in Hindi - Complete Guide | RAJ Hospital</title>
+    <title>दमा के लक्षण | <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="दमा (Asthma) के लक्षण पहचानें - सांस लेने में तकलीफ, घरघराहट, खांसी, छाती में भारीपन। जानें कब डॉक्टर को दिखाना है। RAJ Hospital Ranchi।">
 
     <!-- Canonical URL -->
@@ -38,7 +38,7 @@
                 "@type": "ListItem",
                 "position": 3,
                 "name": "दमा के लक्षण",
-                "item": "https://rajhospitals.com/blog/asthma-symptoms-in-hindi/"
+                "item": "https://rajhospitals.com/blog/<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">asthma</a>-symptoms-in-hindi/"
             }
         ]
     }
@@ -60,7 +60,7 @@
             },
             {
                 "@type": "Question",
-                "name": "दमा का दौरा (Asthma Attack) कैसे पहचानें?",
+                "name": "दमा का दौरा (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Attack) कैसे पहचानें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "दमा का दौरा पहचानें: अचानक सांस फूलना, छाती में घरघराहट, खांसी जो बढ़ती जाए, नाक बंद होना, और बात करने में कठिनाई। अगर होंठ या नाखून नीले पड़ जाएं तो यह गंभीर है और तुरंत medical help लें।"
@@ -115,7 +115,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "दमा के लक्षण - Asthma Symptoms in Hindi",
+        "name": "दमा के लक्षण - <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi",
         "description": "दमा (Asthma) के लक्षणों की विस्तृत जानकारी - पहचान, कारण, इलाज और बचाव",
         "url": "https://rajhospitals.com/blog/asthma-symptoms-in-hindi/",
         "author": {
@@ -418,7 +418,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "दमा के लक्षण | Asthma Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "दमा के लक्षण | <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -507,7 +507,7 @@
     <!-- Blog Header -->
     <header class="blog-header">
         <div class="container">
-            <h1>दमा के लक्षण | Asthma Symptoms in Hindi</h1>
+            <h1>दमा के लक्षण | <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi</h1>
             <div class="meta">
                 <span>Published: May 22, 2026</span> |
                 <span>Reading Time: 9 min</span> |
@@ -521,16 +521,16 @@
         <article class="blog-content">
 
             <!-- Introduction -->
-            <p>क्या आपको या आपके परिवार में किसी को <strong>सांस लेने में तकलीफ</strong> होती है? क्या आप जानना चाहते हैं कि <strong>दमा (Asthma)</strong> के क्या-क्या लक्षण होते हैं? अगर हाँ, तो यह लेख आपके लिए बहुत महत्वपूर्ण है।</p>
+            <p>क्या आपको या आपके परिवार में किसी को <strong>सांस लेने में तकलीफ</strong> होती है? क्या आप जानना चाहते हैं कि <strong>दमा (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a>)</strong> के क्या-क्या लक्षण होते हैं? अगर हाँ, तो यह लेख आपके लिए बहुत महत्वपूर्ण है।</p>
 
             <p><strong>दमा एक पुरानी श्वसन बीमारी</strong> है जो दुनिया भर में लाखों लोगों को प्रभावित करती है। भारत में भी यह एक आम समस्या है, खासकर बच्चों और बुजुर्गों में। सही समय पर <strong>दमा के लक्षण</strong> पहचानना बहुत जरूरी है ताकि जल्दी इलाज शुरू किया जा सके।</p>
 
-            <p>इस लेख में हम विस्तार से जानेंगे कि <strong>दमा के लक्षण क्या होते हैं</strong>, इसके कारण, प्रकार, और इससे बचाव के उपाय। साथ ही, हम बात करेंगे कि <strong>दमा का दौरा (Asthma Attack)</strong> आने पर क्या करना चाहिए।</p>
+            <p>इस लेख में हम विस्तार से जानेंगे कि <strong>दमा के लक्षण क्या होते हैं</strong>, इसके कारण, प्रकार, और इससे बचाव के उपाय। साथ ही, हम बात करेंगे कि <strong>दमा का दौरा (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Attack)</strong> आने पर क्या करना चाहिए।</p>
 
             <!-- Section 1: What is Asthma -->
-            <h2>दमा (Asthma) क्या है?</h2>
+            <h2>दमा (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a>) क्या है?</h2>
 
-            <p><strong>दमा या Asthma</strong> एक पुरानी (chronic) श्वसन स्थिति है जिसमें <strong>श्वसन मार्ग (airways)</strong> में सूजन और संकुचन हो जाता है। इससे सांस लेने में कठिनाई होती है।</p>
+            <p><strong>दमा या <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a></strong> एक पुरानी (chronic) श्वसन स्थिति है जिसमें <strong>श्वसन मार्ग (airways)</strong> में सूजन और संकुचन हो जाता है। इससे सांस लेने में कठिनाई होती है।</p>
 
             <p>दमा में श्वसन मार्ग अधिक संवेदनशील (sensitive) हो जाते हैं, जिससे कुछ <strong>ट्रिगर्स (triggers)</strong> के संपर्क में आने पर:</p>
 
@@ -547,7 +547,7 @@
             </div>
 
             <!-- Section 2: Main Symptoms -->
-            <h2>दमा के प्रमुख लक्षण (Asthma Symptoms)</h2>
+            <h2>दमा के प्रमुख लक्षण (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms)</h2>
 
             <p><strong>दमा के लक्षण</strong> हर व्यक्ति में अलग-अलग हो सकते हैं। कुछ लोगों को हल्के लक्षण होते हैं, जबकि कुछ को गंभीर लक्षण हो सकते हैं।</p>
 
@@ -580,7 +580,7 @@
             </ul>
 
             <div class="warning-box">
-                <strong>नोट:</strong> कुछ लोगों को केवल <strong>खांसी</strong> हो सकती है, बिना सांस फूलने के। इसे <strong>Cough-Variant Asthma</strong> कहते हैं। अगर लगातार खांसी है, तो डॉक्टर से मिलना चाहिए।
+                <strong>नोट:</strong> कुछ लोगों को केवल <strong>खांसी</strong> हो सकती है, बिना सांस फूलने के। इसे <strong>Cough-Variant <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a></strong> कहते हैं। अगर लगातार खांसी है, तो डॉक्टर से मिलना चाहिए।
             </div>
 
             <!-- Section 3: Types -->

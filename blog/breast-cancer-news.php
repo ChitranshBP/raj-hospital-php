@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Breast Cancer News - Latest Updates & Treatment | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment | RAJ Hospital Ranchi</title>
     <meta name="description" content="Breast Cancer पर latest news, treatment advances और prevention tips जानें। Early detection और awareness के बारे में जानकारी।">
     <meta name="keywords" content="breast cancer, breast cancer news, cancer treatment, स्तन कैंसर, oncology, ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Breast Cancer News - Latest Updates & Treatment में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Breast Cancer News - Latest Updates & Treatment | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment | RAJ Hospital Ranchi",
         "description": "Breast Cancer पर latest news, treatment advances और prevention tips जानें। Early detection और awareness के बारे में जानकारी।",
         "url": "https://rajhospitals.com/blog/breast-cancer-news/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/breast-cancer-news.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Breast Cancer News - Latest Updates & Treatment | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Breast Cancer News</span>
+            <span class="text-gray-700"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-pink-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Oncology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Breast Cancer News - Latest Updates & Treatment</h1>
+                <span class="inline-block bg-pink-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Oncology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
@@ -228,21 +228,21 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Breast Cancer</strong> (स्तन कैंसर) दुनिया में महिलाओं में सबसे आम cancer है। हर साल लाखों महिलाएं इसका शिकार होती हैं। समय पर पहचान और आधुनिक इलाज से इसका सफलतापूर्वक इलाज संभव है।
+                    <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a></strong> (स्तन कैंसर) दुनिया में महिलाओं में सबसे आम <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> है। हर साल लाखों महिलाएं इसका शिकार होती हैं। समय पर पहचान और आधुनिक इलाज से इसका सफलतापूर्वक इलाज संभव है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-pink-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> Early detection से Breast Cancer का 90% से अधिक cases में सफल इलाज संभव है। नियमित जांच सबसे महत्वपूर्ण है।</span>
+                    <span class="text-gray-700"> Early detection से <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> का 90% से अधिक cases में सफल इलाज संभव है। नियमित जांच सबसे महत्वपूर्ण है।</span>
                 </div>
 
                 <!-- Section 1: Latest Updates -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-pink-600 pb-2 mt-8 mb-4">Breast Cancer पर Latest Updates</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-pink-600 pb-2 mt-8 mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> पर Latest Updates</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-pink-600">
                         <h4 class="font-bold text-pink-600">Immunotherapy Advances</h4>
-                        <p class="text-sm text-gray-600">नई immunotherapy दवाइयां Breast Cancer patients के लिए नई उम्मीद लेकर आई हैं। ये दवाइयां immune system को cancer cells से लड़ने में मदद करती हैं।</p>
+                        <p class="text-sm text-gray-600">नई immunotherapy दवाइयां <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> patients के लिए नई उम्मीद लेकर आई हैं। ये दवाइयां immune system को cancer cells से लड़ने में मदद करती हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-pink-600">
                         <h4 class="font-bold text-pink-600">Targeted Therapy Progress</h4>

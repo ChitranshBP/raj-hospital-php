@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spinal Headache Treatment at Home: Safe Ways to Relieve Pain Naturally | RAJ Hospital Ranchi</title>
+    <title>Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: Safe Ways to Relieve Pain Naturally | RAJ Hospital Ranchi</title>
     <meta name="description" content="Spinal headache treatment at home — safe, doctor-recommended ways to relieve a post-dural-puncture headache with rest, fluids and caffeine, and the clear signs that mean you need an epidural blood patch. From RAJ Hospital Ranchi.">
     <meta name="keywords" content="spinal headache treatment at home, post dural puncture headache, spinal headache remedies, epidural headache relief, headache after spinal anesthesia, PDPH home treatment, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Spinal Headache Treatment at Home: Safe Ways to Relieve Pain Naturally",
+        "headline": "Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: Safe Ways to Relieve Pain Naturally",
         "description": "Doctor-reviewed guide to relieving a spinal (post-dural-puncture) headache at home, and knowing when medical treatment is needed.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Spinal Headache Treatment at Home" }
+            { "@type": "ListItem", "position": 3, "name": "Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home" }
         ]
     }
     </script>
@@ -75,7 +75,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Spinal Headache Treatment at Home",
+        "name": "Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home",
         "description": "Safe home measures for a post-dural-puncture (spinal) headache, plus warning signs and when an epidural blood patch is needed.",
         "url": "https://rajhospitals.com/blog/spinal-headache-treatment-at-home/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -97,7 +97,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is a spinal headache?",
+                "name": "What is a spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "A spinal headache, or post-dural-puncture headache (PDPH), is a headache that develops after a procedure that pierces the membrane around the spinal cord — such as spinal anesthesia, an epidural, or a lumbar puncture (spinal tap). It happens because spinal fluid leaks through the puncture, lowering the fluid pressure that cushions the brain. Its hallmark is that the pain is much worse when sitting or standing and improves when lying flat."
@@ -150,7 +150,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Spinal Headache Treatment at Home</span>
+            <span class="text-gray-700">Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home</span>
         </nav>
     </div>
 
@@ -163,25 +163,25 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology · Pain Management</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Spinal Headache Treatment at Home: Safe Ways to Relieve Pain Naturally</h1>
+                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> · Pain Management</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: Safe Ways to Relieve Pain Naturally</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> July 31, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Anesthesia &amp; Neurology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Anesthesia &amp; <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    A <strong>spinal headache</strong> — properly called a post-dural-puncture headache (PDPH) — is a distinctive, often intense headache that appears after a spinal anesthetic, an epidural, or a lumbar puncture. Its signature is unmistakable: the pain is far worse when you sit or stand, and eases dramatically when you lie flat. The reassuring news, say the anesthesia and neurology specialists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is that most spinal headaches settle on their own with a few simple, safe home measures. But it's equally important to know when home care is not enough — because an effective medical treatment exists.
+                    A <strong>spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></strong> — properly called a post-dural-puncture <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> (PDPH) — is a distinctive, often intense headache that appears after a spinal anesthetic, an epidural, or a lumbar puncture. Its signature is unmistakable: the pain is far worse when you sit or stand, and eases dramatically when you lie flat. The reassuring news, say the anesthesia and neurology specialists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is that most spinal headaches settle on their own with a few simple, safe home measures. But it's equally important to know when home care is not enough — because an effective medical treatment exists.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <i data-feather="info" class="raj-callout-icon"></i>
                     <div class="raj-callout-body">
-                        <strong>Quick Answer:</strong> Ease a spinal headache at home by <strong>lying flat, drinking plenty of fluids, and using caffeine</strong> (tea/coffee), with paracetamol for pain. Many resolve within a few days. But a spinal headache that is <strong>severe or lasts beyond 24–48 hours</strong> is best treated with an <strong>epidural blood patch</strong>, which usually relieves it within hours. Always tell the doctor or anesthetist who did your procedure. For persistent symptoms, contact the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">team at RAJ Hospital Ranchi</a>.
+                        <strong>Quick Answer:</strong> Ease a spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> at home by <strong>lying flat, drinking plenty of fluids, and using caffeine</strong> (tea/coffee), with paracetamol for pain. Many resolve within a few days. But a spinal headache that is <strong>severe or lasts beyond 24–48 hours</strong> is best treated with an <strong>epidural blood patch</strong>, which usually relieves it within hours. Always tell the doctor or anesthetist who did your procedure. For persistent symptoms, contact the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">team at RAJ Hospital Ranchi</a>.
                     </div>
                 </div>
 

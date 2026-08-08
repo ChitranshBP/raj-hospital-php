@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>दिल का दौरा लक्षण (Heart Attack Symptoms) - Complete Hindi Guide | RAJ Hospital Ranchi</title>
+    <title>दिल का दौरा लक्षण (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms) - Complete Hindi Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) जानें। जानें heart attack के early signs, Warning signals और कब तुरंत doctor से मिलना चाहिए। Ranchi में best cardiac care।">
     <meta name="keywords" content="heart attack symptoms, heart attack in hindi, दिल का दौरा, heart attack ke lakshan, heart attack signs, heart attack warning signs, cardiac symptoms, heart disease symptoms, heart attack prevention, heart care ranchi">
     <meta name="robots" content="index, follow">
@@ -68,7 +68,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "दिल का दौरा लक्षण (Heart Attack Symptoms) - Complete Hindi Guide",
+        "name": "दिल का दौरा लक्षण (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms) - Complete Hindi Guide",
         "description": "दिल का दौरा (Heart Attack) के लक्षण, early warning signs, और कब medical help लेना चाहिए इसकी पूरी जानकारी।",
         "url": "https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/",
         "author": {
@@ -108,7 +108,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "दिल का दौरा (Heart Attack) के सबसे पहले कौन से लक्षण दिखते हैं?",
+                "name": "दिल का दौरा (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>) के सबसे पहले कौन से लक्षण दिखते हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "दिल के दौरे के early symptoms में सीने में दर्द या भारीपन, बांह में दर्द (विशेषकर बाईं तरफ), सांस लेने में तकलीफ, ठंडा पसीना, और चक्कर आना शामिल हैं। ये लक्षण कुछ मिनट से लेकर कई घंटे तक रह सकते हैं।"
@@ -143,7 +143,7 @@
                 "name": "दिल का दौरा कब हो सकता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दिल का दौरा किसी भी उम्र में हो सकता है, लेकिन 45+ पुरुषों और 55+ महिलाओं में ज्यादा risk होता है। High BP, diabetes, high cholesterol, मोटापा, smoking, और family history risk बढ़ाते हैं। Stressful situations और heavy physical activity के दौरान भी heart attack हो सकता है।"
+                    "text": "दिल का दौरा किसी भी उम्र में हो सकता है, लेकिन 45+ पुरुषों और 55+ महिलाओं में ज्यादा risk होता है। High BP, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high cholesterol, मोटापा, smoking, और family history risk बढ़ाते हैं। Stressful situations और heavy physical activity के दौरान भी heart attack हो सकता है।"
                 }
             },
             {
@@ -151,7 +151,7 @@
                 "name": "Heart Attack से बचाव के लिए क्या करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart Attack से बचाव के लिए health lifestyle अपनाएं - regular exercise (30 minutes daily), balanced diet (fruits, vegetables, whole grains), smoking छोड़ें, alcohol सीमित करें, stress management (yoga, meditation), और regular health checkups करें। Blood pressure, cholesterol और sugar levels नियंत्रित रखें।"
+                    "text": "Heart Attack से बचाव के लिए health lifestyle अपनाएं - regular exercise (30 minutes daily), balanced diet (fruits, vegetables, whole grains), smoking छोड़ें, alcohol सीमित करें, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> management (yoga, meditation), और regular health checkups करें। Blood pressure, cholesterol और sugar levels नियंत्रित रखें।"
                 }
             },
             {
@@ -173,7 +173,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "दिल का दौरा लक्षण (Heart Attack Symptoms) में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "दिल का दौरा लक्षण (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms) में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -184,7 +184,7 @@
             "name": "क्या दिल का दौरा लक्षण (Heart Attack Symptoms) दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Gas Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -261,8 +261,8 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiac Emergency</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) - Complete Guide</h1>
+                <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Cardiac</a> Emergency</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">दिल का दौरा लक्षण (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Hindi) - Complete Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 15 min read</span>
@@ -273,7 +273,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>दिल का दौरा (Heart Attack)</strong> एक गंभीर medical emergency है जो तब होता है जब heart muscle को पर्याप्त blood supply नहीं मिलता। भारत में हर साल लाखों लोग heart attack का शिकार होते हैं, और कई लोगों की मौत तब होती है जब वे समय पर treatment नहीं ले पाते। इसलिए <strong>heart attack ke symptoms</strong> को पहचानना बेहद जरूरी है।
+                    <strong>दिल का दौरा (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>)</strong> एक गंभीर medical emergency है जो तब होता है जब heart muscle को पर्याप्त blood supply नहीं मिलता। भारत में हर साल लाखों लोग <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> का शिकार होते हैं, और कई लोगों की मौत तब होती है जब वे समय पर treatment नहीं ले पाते। इसलिए <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> ke symptoms</strong> को पहचानना बेहद जरूरी है।
                 </p>
 
                 <p class="text-gray-700 mb-6">

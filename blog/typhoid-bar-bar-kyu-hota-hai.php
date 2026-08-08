@@ -231,7 +231,7 @@
                 <div class="bg-blue-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <ul class="text-gray-700 space-y-2">
                         <li><strong>High Fever</strong> (103-104°F तक) - सबसे prominent symptom</li>
-                        <li><strong>Headache</strong> - तेज सिरदर्द</li>
+                        <li><strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></strong> - तेज सिरदर्द</li>
                         <li><strong>Abdominal Pain</strong> - पेट में दर्द</li>
                         <li><strong>Diarrhea या Constipation</strong> - कभी दस्त, कभी कब्ज</li>
                         <li><strong>Weakness और Fatigue</strong> - थकान और कमजोरी</li>

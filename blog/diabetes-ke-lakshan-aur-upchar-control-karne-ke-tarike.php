@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi</title>
     <meta name="description" content="Diabetes ke lakshan aur upchar की complete जानकारी हिंदी में। मधुमेह के प्रकार, लक्षण, कारण, और control करने के तरीके जानें। Ranchi के best hospital में expert consultation।">
     <meta name="keywords" content="diabetes ke lakshan, मधुमेह के लक्षण, diabetes upchar, sugar rog symptoms, मधुमेह इलाज, diabetes treatment in hindi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi",
         "description": "Diabetes ke lakshan aur upchar की complete जानकारी हिंदी में। मधुमेह के प्रकार, लक्षण, कारण, और control करने के तरीके जानें। Ranchi के best hospital में expert consultation।",
         "url": "https://rajhospitals.com/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Diabetes Ke Lakshan Aur Upchar</span>
+            <span class="text-gray-700"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Diabetes Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Diabetes Ke Lakshan Aur Upchar - Control Karne Ke Tarike</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Care</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - Control Karne Ke Tarike</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>मधुमेह (Diabetes)</strong> एक ऐसी बीमारी है जो दुनिया भर में करोड़ों लोगों को प्रभावित करती है। भारत में इसे "शुगर" भी कहते हैं और यह एक गंभीर स्वास्थ्य समस्या बनती जा रही है। आइए विस्तार से जानें <strong>मधुमेह के लक्षण (Diabetes ke lakshan)</strong> और <strong>उपचार (Upchar)</strong> के बारे में।
+                    <strong>मधुमेह (<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a>)</strong> एक ऐसी बीमारी है जो दुनिया भर में करोड़ों लोगों को प्रभावित करती है। भारत में इसे "शुगर" भी कहते हैं और यह एक गंभीर स्वास्थ्य समस्या बनती जा रही है। आइए विस्तार से जानें <strong>मधुमेह के लक्षण (<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> ke lakshan)</strong> और <strong>उपचार (Upchar)</strong> के बारे में।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -236,15 +236,15 @@
                 </p>
 
                 <!-- Section 1: Types of Diabetes -->
-                <h2 class="raj-h2">मधुमेह के प्रकार (Types of Diabetes)</h2>
+                <h2 class="raj-h2">मधुमेह के प्रकार (Types of <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a>)</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">1. टाइप 1 डायबिटीज (Type 1 Diabetes)</h4>
+                        <h4 class="font-bold text-secondary-600">1. टाइप 1 डायबिटीज (Type 1 <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a>)</h4>
                         <p class="text-sm text-gray-600">यह एक ऑटोइम्यून स्थिति है जिसमें शरीर का प्रतिरक्षा तंत्र इंसुलिन बनाने वाली बीटा कोशिकाओं पर हमला करता है। आमतौर पर बच्चों और युवाओं में होती है। इसमें इंसुलिन इंजेक्शन जीवन भर लेने पड़ते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">2. टाइप 2 डायबिटीज (Type 2 Diabetes)</h4>
+                        <h4 class="font-bold text-secondary-600">2. टाइप 2 डायबिटीज (Type 2 <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a>)</h4>
                         <p class="text-sm text-gray-600">यह सबसे आम प्रकार है जो 90% से अधिक मधुमेह के मामलों में पाया जाता है। इसमें शरीर इंसुलिन बनाता है लेकिन उसका सही उपयोग नहीं कर पाता। आमतौर पर वयस्कों में होती है और जीवनशैली से जुड़ी होती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">

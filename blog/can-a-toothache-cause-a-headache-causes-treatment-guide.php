@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi</title>
+    <title>Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Toothache और Headache का complete guide - causes, treatment और prevention tips। जानें कब dentist से मिलना है और कब self-care काफी है।">
     <meta name="keywords" content="toothache headache, dental headache, tooth pain treatment, causes treatment guide, dental health">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Toothache और Headache - कारण, Treatment और Prevention Guide में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi",
+        "headline": "Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi",
         "description": "Toothache और Headache का complete guide - causes, treatment और prevention tips। जानें कब dentist से मिलना है और कब self-care काफी है।",
         "url": "https://rajhospitals.com/blog/can-a-toothache-cause-a-headache-causes-treatment-guide/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-a-toothache-cause-a-headache-causes-treatment-guide.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi"
+                "name": "Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Toothache Headache Causes Treatment</span>
+            <span class="text-gray-700">Toothache <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Causes Treatment</span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-teal-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Dental Health</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Toothache और Headache - Causes, Treatment और Prevention Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Treatment और Prevention Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,16 +228,16 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Toothache और Headache</strong> एक साथ होने पर बहुत परेशानी होती है। यह लेख आपको बताएगा कि इन दोनों problems का connection क्या है, causes क्या हैं, और सबसे important - कैसे treatment और prevent करें।
+                    <strong>Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></strong> एक साथ होने पर बहुत परेशानी होती है। यह लेख आपको बताएगा कि इन दोनों problems का connection क्या है, causes क्या हैं, और सबसे important - कैसे treatment और prevent करें।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-teal-700">मुख्य बात:</strong>
-                    <span class="text-gray-700"> दांत दर्द और सिरदर्द के 70% cases में दांत की समस्या headache का कारण होती है। Early treatment से जटिलताएं avoid की जा सकती हैं।</span>
+                    <span class="text-gray-700"> दांत दर्द और सिरदर्द के 70% cases में दांत की समस्या <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> का कारण होती है। Early treatment से जटिलताएं avoid की जा सकती हैं।</span>
                 </div>
 
                 <!-- Section 1: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-teal-600 pb-2 mt-8 mb-4">Toothache और Headache के कारण (Causes)</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-teal-600 pb-2 mt-8 mb-4">Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> के कारण (Causes)</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -291,7 +291,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Visual Examination:</strong> दांतों और gums की detailed check</li>
-                    <li><strong>X-Ray:</strong> root infection या bone loss detect करने के लिए</li>
+                    <li><strong>X-Ray:</strong> root infection या <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> loss detect करने के लिए</li>
                     <li><strong>Tapping Test:</strong> affected tooth पर pressure test</li>
                     <li><strong>Temperature Test:</strong> hot और cold sensitivity check</li>
                     <li><strong>Percussion Test:</strong> biting pressure test</li>
@@ -346,7 +346,7 @@
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>अच्छी oral hygiene:</strong> दिन में 2 बार brushing, flossing</li>
                     <li><strong>Regular dental checkups:</strong> हर 6 months</li>
-                    <li><strong>Reduce sugar intake:</strong> sweets और acidic drinks से बचें</li>
+                    <li><strong>Reduce <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> intake:</strong> sweets और acidic drinks से बचें</li>
                     <li><strong>Night guard:</strong> teeth grinding के लिए</li>
                     <li><strong>Address dental problems early:</strong> दर्द होने पर जल्दी dentist जाएं</li>
                     <li><strong>Stay hydrated:</strong> dry mouth से भी problems हो सकती हैं</li>
@@ -364,7 +364,7 @@
 
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-teal-600 mb-2">क्या toothache headache बिना tooth pain के हो सकती है?</h4>
+                        <h4 class="font-bold text-teal-600 mb-2">क्या toothache <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> बिना tooth pain के हो सकती है?</h4>
                         <p class="text-gray-700">Rare cases में हाँ, especially trigeminal neuralgia। लेकिन अधिकतर दोनों एक साथ present होते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">

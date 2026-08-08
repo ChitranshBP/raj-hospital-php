@@ -53,7 +53,7 @@
             "name": "क्या Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Acidity ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण | RAJ Hospital Ranchi",
-        "description": "Period Late Hone Ke Karan in Hindi: पीरियड लेट होने के कारण क्या हैं? जानिए periods delay होने के 15+ reasons, पीरियड miss होने के reasons और कब doctor से मिलना चाहिए।",
+        "description": "Period Late Hone Ke Karan in Hindi: पीरियड लेट होने के कारण क्या हैं? जानिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> delay होने के 15+ reasons, पीरियड miss होने के reasons और कब doctor से मिलना चाहिए।",
         "url": "https://rajhospitals.com/blog/period-late-hone-ke-karan/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/period-late-hone-ke-karan.png",
         "author": {
@@ -228,14 +228,14 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    क्या आपका periods late हो रहा है? जानिए पीरियड लेट होने के सभी कारण (periods delay reasons in Hindi) और कब doctor से मिलना जरूरी है।
+                    क्या आपका <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> late हो रहा है? जानिए पीरियड लेट होने के सभी कारण (periods delay reasons in Hindi) और कब doctor से मिलना जरूरी है।
                 </p>
 
                 <!-- Tags row -->
                 <div class="flex flex-wrap gap-2 mb-6">
                     <span class="bg-gray-100 text-gray-600 text-xs px-3 py-1 rounded-full">पीरियड लेट</span>
-                    <span class="bg-gray-100 text-gray-600 text-xs px-3 py-1 rounded-full">Periods Delay</span>
-                    <span class="bg-gray-100 text-gray-600 text-xs px-3 py-1 rounded-full">PCOD/PCOS</span>
+                    <span class="bg-gray-100 text-gray-600 text-xs px-3 py-1 rounded-full"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Periods</a> Delay</span>
+                    <span class="bg-gray-100 text-gray-600 text-xs px-3 py-1 rounded-full"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a>/PCOS</span>
                     <span class="bg-gray-100 text-gray-600 text-xs px-3 py-1 rounded-full">Period Miss</span>
                 </div>
 
@@ -252,10 +252,10 @@
                 </div>
 
                 <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                    <strong>Period late hone ka reason</strong> क्या है? ऐसा सवाल हर महीने हजारों women पूछती हैं। अगर आपका periods late हो रहा है, तो घबराने की जरूरत नहीं है। पीरियड delay होने के कई कारण हो सकते हैं - कुछ सामान्य और कुछ गंभीर।
+                    <strong>Period late hone ka reason</strong> क्या है? ऐसा सवाल हर महीने हजारों women पूछती हैं। अगर आपका <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> late हो रहा है, तो घबराने की जरूरत नहीं है। पीरियड delay होने के कई कारण हो सकते हैं - कुछ सामान्य और कुछ गंभीर।
                 </p>
                 <p class="text-gray-700 leading-relaxed mb-6">
-                    इस article में हम <strong>period late hone ke karan</strong> के बारे में विस्तार से बात करेंगे। आप जानेंगी कि periods delay होने के reasons क्या हैं और कब आपको doctor की सलाह लेनी चाहिए।
+                    इस article में हम <strong>period late hone ke karan</strong> के बारे में विस्तार से बात करेंगे। आप जानेंगी कि <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> delay होने के reasons क्या हैं और कब आपको doctor की सलाह लेनी चाहिए।
                 </p>
 
                 <!-- Reasons Section -->
@@ -264,14 +264,14 @@
 
                     <!-- Reason 1: Pregnancy -->
                     <div class="bg-white rounded-2xl shadow-lg p-6 mb-6 border-l-4 border-pink-500">
-                        <h3 class="text-xl font-bold text-gray-800 mb-3">1. Pregnancy (गर्भवती होना) - सबसे आम कारण</h3>
+                        <h3 class="text-xl font-bold text-gray-800 mb-3">1. <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> (गर्भवती होना) - सबसे आम कारण</h3>
                         <p class="text-gray-700 mb-3">
-                            <strong>Period late hone ka sabse common reason</strong> pregnancy है। अगर आप sexually active हैं और periods late हो रहा है, तो सबसे पहले <strong>pregnancy test</strong> जरूर करें।
+                            <strong>Period late hone ka sabse common reason</strong> <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> है। अगर आप sexually active हैं और periods late हो रहा है, तो सबसे पहले <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> test</strong> जरूर करें।
                         </p>
                         <ul class="list-disc list-inside text-gray-600 space-y-1">
                             <li>Implantation bleeding को period समझ सकती हैं</li>
-                            <li>Early pregnancy में light spotting हो सकती है</li>
-                            <li>Home pregnancy test kit से check करें</li>
+                            <li>Early <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में light spotting हो सकती है</li>
+                            <li>Home <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> test kit से check करें</li>
                             <li>Blood test से confirm करें</li>
                         </ul>
                         <div class="mt-4 bg-pink-50 p-4 rounded-xl">

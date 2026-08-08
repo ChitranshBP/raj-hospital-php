@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Joint Pain in Winter - कारण और उपाय | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - कारण और उपाय | RAJ Hospital Ranchi</title>
     <meta name="description" content="Joint Pain in Winter - जानिए सर्दियों में joint pain के कारण, symptoms और घरेलू उपाय। Prevention और treatment tips। Complete Hindi guide।">
     <meta name="keywords" content="joint pain winter, winter joint pain, joint pain causes, joint pain remedies, arthritis winter">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Joint Pain in Winter - कारण और उपाय में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - कारण और उपाय में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Joint Pain in Winter - कारण और उपाय | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - कारण और उपाय | RAJ Hospital Ranchi",
         "description": "Joint Pain in Winter - जानिए सर्दियों में joint pain के कारण, symptoms और घरेलू उपाय। Prevention और treatment tips। Complete Hindi guide।",
         "url": "https://rajhospitals.com/blog/joint-pain-in-winter/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/joint-pain-in-winter.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Joint Pain in Winter - कारण और उपाय | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - कारण और उपाय | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Joint Pain Winter Guide</span>
+            <span class="text-gray-700"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Winter Guide</span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-blue-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Orthopedics</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Joint Pain in Winter - कारण और उपाय</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - कारण और उपाय</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
@@ -228,16 +228,16 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Joint Pain in Winter</strong> एक common problem है। सर्दियों में बहुत सारे लोगों को joint pain, stiffness, और discomfort का अनुभव होता है। खासकर arthritis वाले patients को winter में symptoms बढ़ते हैं।
+                    <strong><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter</strong> एक common problem है। सर्दियों में बहुत सारे लोगों को <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a>, stiffness, और discomfort का अनुभव होता है। खासकर arthritis वाले patients को winter में symptoms बढ़ते हैं।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Insight:</strong>
-                    <span class="text-gray-700"> Cold weather joints को stiff और painful बनाता है। लेकिन proper care से winter joint pain को manage किया जा सकता है।</span>
+                    <span class="text-gray-700"> Cold weather joints को stiff और painful बनाता है। लेकिन proper care से winter <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> को manage किया जा सकता है।</span>
                 </div>
 
                 <!-- Section 1: Why Winter Affects Joints -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">सर्दियों में Joint Pain क्यों बढ़ता है?</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">सर्दियों में <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> क्यों बढ़ता है?</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-600">
@@ -254,7 +254,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-600">
                         <h4 class="font-bold text-blue-600">4. Muscle Stiffness</h4>
-                        <p class="text-sm text-gray-600">Cold muscles contract होती हैं, जो joint pain और limited mobility करती हैं।</p>
+                        <p class="text-sm text-gray-600">Cold muscles contract होती हैं, जो <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> और limited mobility करती हैं।</p>
                     </div>
                 </div>
 
@@ -285,7 +285,7 @@
                 </div>
 
                 <!-- Section 3: Remedies -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">Joint Pain के उपाय (Remedies)</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> के उपाय (Remedies)</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mb-3">घरेलू उपाय</h3>
                 <div class="space-y-3 mb-6">

@@ -239,7 +239,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> महिलाओं में विटामिन D की कमी विशेष रूप से concerning है क्योंकि यह <strong>osteoporosis, pregnancy complications</strong> और <strong>immune system weakness</strong> का कारण बन सकती है।</span>
+                    <span class="text-gray-700"> महिलाओं में विटामिन D की कमी विशेष रूप से concerning है क्योंकि यह <strong>osteoporosis, <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> complications</strong> और <strong>immune system weakness</strong> का कारण बन सकती है।</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->
@@ -255,7 +255,7 @@
                         <p class="text-sm text-gray-600">पीठ, कूल्हे, घुटने और जोड़ों में दर्द। हड्डियां कमज़ोर और भंगुर होना।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">3. Mood changes और Depression</h4>
+                        <h4 class="font-bold text-secondary-600">3. Mood changes और <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a></h4>
                         <p class="text-sm text-gray-600">उदासी, चिड़चिड़ापन, और Seasonal Affective Disorder (SAD) जैसे लक्षण।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -324,7 +324,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Osteoporosis:</strong> हड्डियां कमज़ोर और भंगुर होना, हड्डी तोड़ने का खतरा ज्यादा।</li>
-                    <li><strong>PCOS और hormonal imbalance:</strong> विटामिन D की कमी से hormones असंतुलित हो सकते हैं।</li>
+                    <li><strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> और hormonal imbalance:</strong> विटामिन D की कमी से hormones असंतुलित हो सकते हैं।</li>
                     <li><strong>गर्भावस्था में समस्याएं:</strong> प्री-एक्लैम्पशिया, डायबिटीज़ और premature birth का खतरा।</li>
                     <li><strong>मेनोपॉज़ के बाद:</strong> हड्डी का घनत्व तेज़ी से कम होना।</li>
                 </ul>
@@ -362,7 +362,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">विटामिन D की कमी के लक्षण महिलाओं में, कारण और घरेलू उपाय जानें। जानें कब supplements लेनी चाहिए। Ranchi की best gynecologists और nutritionists की advice।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -375,7 +375,7 @@
                         <li><a href="/blog/garbhavastha-me-kya-kaam-nahi-karna-chahiye.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भावस्था में क्या काम नहीं करना चाहिए</a></li>
                         <li><a href="/blog/most-common-dental-procedures-and-how-they-work.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दांतों के सबसे आम प्रक्रियाएं और उनका काम</a></li>
                         <li><a href="/blog/pair-me-dard-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द - कारण, घरेलू उपाय और इलाज</a></li>
-                        <li><a href="/blog/thyroid-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Thyroid Symptoms in Hindi | Thyroid ke Lakshan</a></li>
+                        <li><a href="/blog/thyroid-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan</a></li>
                         <li><a href="/blog/cervical-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भाशय ग्रीवा कैंसर के लक्षण</a></li>
                         <li><a href="/blog/pulse-rate-50-hone-par-kya-karen.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पल्स रेट 50 होने पर क्या करें?</a></li>
                     </ul>

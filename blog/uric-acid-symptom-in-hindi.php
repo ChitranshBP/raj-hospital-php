@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Uric Acid Symptom in Hindi - यूरिक एसिड के लक्षण",
-        "description": "यूरिक एसिड के लक्षण, कारण, और इलाज। Gout, kidney stones, और joint pain। RAJ Hospital Ranchi में expert treatment।",
+        "description": "यूरिक एसिड के लक्षण, कारण, और इलाज। Gout, kidney stones, और <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a>। RAJ Hospital Ranchi में expert treatment।",
         "url": "https://rajhospitals.com/blog/uric-acid-symptom-in-hindi/",
         "author": {
             "@type": "Organization",
@@ -99,7 +99,7 @@
                 "name": "Gout (गाउट) क्या है और यह यूरिक एसिड से कैसे जुड़ा है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Gout एक inflammatory arthritis है जो high uric acid के कारण होती है। जब uric acid crystals joints में जमा होते हैं, तो तेज दर्द, swelling, और redness होती है। Big toe सबसे commonly affected होती है। यह attack-wise आती है और बहुत painful होती है।"
+                    "text": "Gout एक inflammatory <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a> है जो high uric acid के कारण होती है। जब uric acid crystals joints में जमा होते हैं, तो तेज दर्द, swelling, और redness होती है। Big toe सबसे commonly affected होती है। यह attack-wise आती है और बहुत painful होती है।"
                 }
             }
         ]
@@ -218,7 +218,7 @@
                 <div class="bg-blue-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <h4 class="font-bold text-primary-600 mb-2">Gout (गाउट) के लक्षण - Primary Symptom:</h4>
                     <ul class="text-gray-700 space-y-2">
-                        <li><strong>1. तेज Joint Pain</strong> - सबसे characteristic symptom। आमतौर पर <strong>big toe (metatarsophalangeal joint)</strong> में होता है। दर्द इतना तेज हो सकता है कि चादर भी नहीं छू सकते। यह sudden और severe होता है।</li>
+                        <li><strong>1. तेज <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a></strong> - सबसे characteristic symptom। आमतौर पर <strong>big toe (metatarsophalangeal joint)</strong> में होता है। दर्द इतना तेज हो सकता है कि चादर भी नहीं छू सकते। यह sudden और severe होता है।</li>
                         <li><strong>2. Joint Swelling</strong> - प्रभावित joint में सूजन आती है। यह warmth और tenderness के साथ होती है।</li>
                         <li><strong>3. Redness</strong> - Joint का रंग लाल हो जाता है। यह inflammation का sign है।</li>
                         <li><strong>4. Stiffness</strong> - Joint में अकड़न होती है और movement limited हो जाती है।</li>
@@ -253,7 +253,7 @@
                             <li>Fatigue</li>
                             <li>Weakness</li>
                             <li>Weight gain</li>
-                            <li>High blood pressure</li>
+                            <li>High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a></li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -271,7 +271,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">1. Diet (High Purine Foods)</h4>
-                        <p class="text-sm text-gray-600">Red meat, organ meats (liver, kidney), seafood (fish, shellfish), और legumes (dal) high purine होते हैं। इनका ज्यादा consumption uric acid बढ़ाता है।</p>
+                        <p class="text-sm text-gray-600">Red meat, organ meats (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>, kidney), seafood (fish, shellfish), और legumes (dal) high purine होते हैं। इनका ज्यादा consumption uric acid बढ़ाता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">2. Alcohol Consumption</h4>
@@ -319,7 +319,7 @@
                         <h4 class="font-bold text-red-700 mb-2">न खाएं (High Purine Foods)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Red meat (beef, lamb)</li>
-                            <li>Organ meats (liver, kidney)</li>
+                            <li>Organ meats (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>, kidney)</li>
                             <li>Seafood (fish, shellfish)</li>
                             <li>Beer और alcohol</li>
                             <li>Sugary drinks</li>
@@ -367,7 +367,7 @@
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">यूरिक एसिड का Expert इलाज</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में uric acid test, gout treatment, और kidney stone management available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में uric acid test, gout treatment, और <a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">kidney stone</a> management available है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
@@ -384,7 +384,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Gout (गाउट) क्या है?</h4>
-                        <p class="text-gray-700"><strong>Gout एक inflammatory arthritis</strong> है जो high uric acid के कारण होती है। जब uric acid crystals joints में जमा होते हैं, तो तेज दर्द, swelling, और redness होती है। Big toe सबसे commonly affected होती है।</p>
+                        <p class="text-gray-700"><strong>Gout एक inflammatory <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a></strong> है जो high uric acid के कारण होती है। जब uric acid crystals joints में जमा होते हैं, तो तेज दर्द, swelling, और redness होती है। Big toe सबसे commonly affected होती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">क्या चेरी खाने से uric acid कम होता है?</h4>
@@ -394,16 +394,16 @@
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Uric Acid Symptom in Hindi पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">यूरिक एसिड के लक्षण (Uric Acid Symptom in Hindi) - गाउट, किडनी स्टोन, joint pain के कारण और इलाज। Ranchi में best treatment RAJ Hospital में।</p>
+                    <p class="text-gray-700 mb-4">यूरिक एसिड के लक्षण (Uric Acid Symptom in Hindi) - गाउट, किडनी स्टोन, <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> के कारण और इलाज। Ranchi में best treatment RAJ Hospital में।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए यूरिक एसिड एक common problem है। Proper diet, lifestyle changes, और medical treatment से इसे manage किया जा सकता है।</p>
                 </section>
 
                 <section class="mt-8 bg-white border border-gray-200 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/kidney-stone-symptoms-in-men-in-hindi.php" class="text-primary-600 hover:underline font-semibold">Kidney Stone Symptoms in Men - पथरी के लक्षण</a></li>
-                        <li><a href="/blog/joint-pain-in-winter-causes-remedies.php" class="text-primary-600 hover:underline font-semibold">Joint Pain in Winter - सर्दियों में जोड़ों का दर्द</a></li>
-                        <li><a href="/blog/urine-infection-symptoms-in-men-in-hindi.php" class="text-primary-600 hover:underline font-semibold">Urine Infection Symptoms in Men</a></li>
+                        <li><a href="/blog/kidney-stone-symptoms-in-men-in-hindi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men - पथरी के लक्षण</a></li>
+                        <li><a href="/blog/joint-pain-in-winter-causes-remedies.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - सर्दियों में जोड़ों का दर्द</a></li>
+                        <li><a href="/blog/urine-infection-symptoms-in-men-in-hindi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urine Infection</a> Symptoms in Men</a></li>
                     </ul>
                 </section>
 

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi</title>
+    <title>Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients | RAJ Hospital Ranchi</title>
     <meta name="description" content="Diabetes patients के लिए best Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।">
     <meta name="keywords" content="indian diet plan for diabetes, diabetes diet in hindi, best food for diabetes, diabetes meal plan, indian food for diabetics">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Best Indian Diet Plan for Diabetes Patients में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Best Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi",
+        "headline": "Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients | RAJ Hospital Ranchi",
         "description": "Diabetes patients के लिए best Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।",
         "url": "https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-indian-diet-plan-for-diabetes-patients.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Best Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi"
+                "name": "Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,15 +203,15 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Indian Diet Plan for Diabetes</span>
+            <span class="text-gray-700">Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></span>
         </nav>
     </div>
 
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Diabetes Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best Indian Diet Plan for Diabetes Patients: Complete Guide</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Care</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients: Complete Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
@@ -222,11 +222,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    Managing <strong>diabetes</strong> doesn't mean giving up on the foods you love. With the right <strong>Indian diet plan for diabetes patients</strong>, you can enjoy delicious traditional foods while keeping your blood sugar levels under control. Indian cuisine, with its rich variety of whole grains, legumes, vegetables, and spices, offers numerous options for healthy eating that align perfectly with diabetes management.
+                    Managing <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a></strong> doesn't mean giving up on the foods you love. With the right <strong>Indian diet plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> patients</strong>, you can enjoy delicious traditional foods while keeping your <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">blood sugar</a> levels under control. Indian cuisine, with its rich variety of whole grains, legumes, vegetables, and spices, offers numerous options for healthy eating that align perfectly with diabetes management.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    This comprehensive guide presents a <strong>diabetes-friendly Indian diet plan</strong> designed by nutrition experts at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>. Whether you're dealing with Type 1, Type 2, or gestational diabetes, these dietary guidelines can help you maintain stable blood glucose levels while enjoying the flavors of authentic Indian cooking.
+                    This comprehensive guide presents a <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>-friendly Indian diet plan</strong> designed by nutrition experts at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>. Whether you're dealing with Type 1, Type 2, or gestational <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, these dietary guidelines can help you maintain stable blood glucose levels while enjoying the flavors of authentic Indian cooking.
                 </p>
 
                 <!-- Section 1: Understanding Diabetes -->

@@ -99,10 +99,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Can a 25-year-old have a heart attack?",
+                "name": "Can a 25-year-old have a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes. While heart attacks are far more common after 45, they do occur in people in their 20s and 30s. Common causes in this age group include spontaneous coronary artery dissection (SCAD), inherited high cholesterol (familial hypercholesterolemia), cocaine or stimulant use, uncontrolled diabetes, smoking or vaping, and coronary artery spasm. Any young adult with chest pain, breathlessness or fainting should be evaluated at a cardiac unit such as RAJ Hospital Ranchi."
+                    "text": "Yes. While heart attacks are far more common after 45, they do occur in people in their 20s and 30s. Common causes in this age group include spontaneous coronary artery dissection (SCAD), inherited high cholesterol (familial hypercholesterolemia), cocaine or stimulant use, uncontrolled <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, smoking or vaping, and coronary artery spasm. Any young adult with chest pain, breathlessness or fainting should be evaluated at a cardiac unit such as RAJ Hospital Ranchi."
                 }
             },
             {
@@ -110,7 +110,7 @@
                 "name": "Why are heart attacks increasing in young Indians?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Cardiologists attribute the rise to a cluster of modern risk factors: sedentary desk jobs, high-stress lifestyles, tobacco and vaping, ultra-processed and high-sugar diets, undiagnosed diabetes and hypertension, poor sleep, and a strong genetic predisposition to early coronary artery disease seen in South Asians. Many young patients have no idea they are at risk because they feel healthy and skip check-ups."
+                    "text": "Cardiologists attribute the rise to a cluster of modern risk factors: sedentary desk jobs, high-<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> lifestyles, tobacco and vaping, ultra-processed and high-sugar diets, undiagnosed diabetes and hypertension, poor sleep, and a strong genetic predisposition to early coronary artery disease seen in South Asians. Many young patients have no idea they are at risk because they feel healthy and skip check-ups."
                 }
             },
             {
@@ -118,7 +118,7 @@
                 "name": "What are the warning signs of a heart attack in a young person?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Central chest pressure or tightness, pain spreading to the left arm, jaw, neck or back, cold sweat, sudden breathlessness, nausea, unusual fatigue and lightheadedness. In young adults symptoms are sometimes dismissed as gas, acidity, anxiety or muscle strain, which delays life-saving treatment. When in doubt, treat chest pain as cardiac and reach an emergency room immediately."
+                    "text": "Central chest pressure or tightness, pain spreading to the left arm, jaw, neck or back, cold sweat, sudden breathlessness, nausea, unusual fatigue and lightheadedness. In young adults symptoms are sometimes dismissed as <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a>, acidity, anxiety or muscle strain, which delays life-saving treatment. When in doubt, treat chest pain as cardiac and reach an emergency room immediately."
                 }
             },
             {
@@ -177,22 +177,22 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    A generation ago, a heart attack in someone under 40 was considered rare. Today, cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, see young professionals, gym-goers and even non-smokers arrive in the emergency room with a genuine myocardial infarction. So <strong>what causes heart attacks in young people?</strong> The answer is a mix of hidden genetics, modern lifestyle, and a handful of conditions unique to younger hearts — most of which are detectable and preventable if you know what to look for.
+                    A generation ago, a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> in someone under 40 was considered rare. Today, cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, see young professionals, gym-goers and even non-smokers arrive in the emergency room with a genuine myocardial infarction. So <strong>what causes heart attacks in young people?</strong> The answer is a mix of hidden genetics, modern lifestyle, and a handful of conditions unique to younger hearts — most of which are detectable and preventable if you know what to look for.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <i data-feather="info" class="raj-callout-icon"></i>
                     <div class="raj-callout-body">
-                        <strong>Quick Answer:</strong> Heart attacks in young adults are driven mainly by <strong>early coronary artery disease</strong> (from smoking, vaping, diabetes, high cholesterol and stress) plus a group of "young-heart" causes — <strong>spontaneous coronary artery dissection (SCAD)</strong>, <strong>inherited high cholesterol</strong>, <strong>cocaine/stimulant use</strong> and <strong>coronary spasm</strong>. South Asians are genetically prone to heart disease a decade earlier than Western populations, so screening from your late 20s matters. If you have chest pain now, treat it as an emergency and reach the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac emergency at RAJ Hospital Ranchi</a>.
+                        <strong>Quick Answer:</strong> Heart attacks in young adults are driven mainly by <strong>early coronary artery disease</strong> (from smoking, vaping, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high cholesterol and <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>) plus a group of "young-heart" causes — <strong>spontaneous coronary artery dissection (SCAD)</strong>, <strong>inherited high cholesterol</strong>, <strong>cocaine/stimulant use</strong> and <strong>coronary spasm</strong>. South Asians are genetically prone to <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a> a decade earlier than Western populations, so screening from your late 20s matters. If you have chest pain now, treat it as an emergency and reach the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> emergency at RAJ Hospital Ranchi</a>.
                     </div>
                 </div>
 
                 <h2 class="raj-h2"><i data-feather="trending-up" class="raj-h2-icon"></i> Why Are Heart Attacks Rising in Young Adults?</h2>
                 <p class="text-gray-700 mb-4">
-                    Indian and global cardiology registries have recorded a clear shift: a growing share of heart attacks now occur in people aged 25–45. Studies of Indian patients repeatedly find that South Asians develop coronary artery disease <strong>about 10 years earlier</strong> than European populations, and often present with their first heart attack in their 30s and 40s. This is not simply "more testing" — it reflects a real change in how young hearts are exposed to risk.
+                    Indian and global cardiology registries have recorded a clear shift: a growing share of heart attacks now occur in people aged 25–45. Studies of Indian patients repeatedly find that South Asians develop coronary artery disease <strong>about 10 years earlier</strong> than European populations, and often present with their first <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> in their 30s and 40s. This is not simply "more testing" — it reflects a real change in how young hearts are exposed to risk.
                 </p>
                 <p class="text-gray-700 mb-4">
-                    The reasons are layered. A desk-bound, screen-heavy routine has replaced physical activity. Tobacco, hookah and vaping remain common. Ultra-processed food, sugary drinks and late-night eating have pushed up rates of obesity, fatty liver and pre-diabetes in the young. Add chronic work stress, poor sleep, and a genetic tendency toward high <em>Lipoprotein(a)</em> and diabetes, and you have a population whose arteries are ageing faster than their birth certificates suggest.
+                    The reasons are layered. A desk-bound, screen-heavy routine has replaced physical activity. Tobacco, hookah and vaping remain common. Ultra-processed food, sugary drinks and late-night eating have pushed up rates of obesity, fatty liver and pre-<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> in the young. Add chronic work <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, poor sleep, and a genetic tendency toward high <em>Lipoprotein(a)</em> and diabetes, and you have a population whose arteries are ageing faster than their birth certificates suggest.
                 </p>
 
                 <h2 class="raj-h2"><i data-feather="alert-circle" class="raj-h2-icon"></i> The Main Causes of Heart Attacks in Young People</h2>

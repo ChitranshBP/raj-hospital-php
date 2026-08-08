@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Acidity ke Lakshan | Acidity Symptoms in Hindi - Complete Guide | RAJ Hospital</title>
+    <title><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Acidity ke lakshan in Hindi जानें। पेट में जलन, गैस, और एसिडिटी के symptoms, causes, और treatment options। घरेलू उपाय और prevention tips।">
     <meta name="keywords" content="acidity symptoms in hindi, acidity ke lakshan, acidity in hindi, pet me acidity, gas acidity symptoms">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Acidity ke Lakshan | Acidity Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Acidity ke Lakshan | Acidity Symptoms in Hindi - Complete Guide | RAJ Hospital",
+        "headline": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi - Complete Guide | RAJ Hospital",
         "description": "Acidity ke lakshan in Hindi जानें। पेट में जलन, गैस, और एसिडिटी के symptoms, causes, और treatment options। घरेलू उपाय और prevention tips।",
         "url": "https://rajhospitals.com/blog/acidity-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/acidity-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Acidity ke Lakshan | Acidity Symptoms in Hindi - Complete Guide | RAJ Hospital"
+                "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi - Complete Guide | RAJ Hospital"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Acidity Symptoms in Hindi</span>
+            <span class="text-gray-700"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> Symptoms in Hindi</span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Gastroenterology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Acidity ke Lakshan | Acidity Symptoms in Hindi - Complete Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi - Complete Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
@@ -228,15 +228,15 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Acidity</strong> यानी एसिडिटी एक common health problem है जो लगभग हर व्यक्ति को कभी न कभी होती है। <strong>Acidity ke lakshan</strong> पहचानना बहुत जरूरी है ताकि आप सही समय पर treatment ले सकें। गले से लेकर पेट तक जलन होना (gale se lekar pet tak jalan hona) acidity के प्रमुख symptoms में से एक है।
+                    <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a></strong> यानी एसिडिटी एक common health problem है जो लगभग हर व्यक्ति को कभी न कभी होती है। <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke lakshan</strong> पहचानना बहुत जरूरी है ताकि आप सही समय पर treatment ले सकें। गले से लेकर पेट तक जलन होना (gale se lekar pet tak jalan hona) <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a> के प्रमुख symptoms में से एक है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस blog post में हम <strong>acidity symptoms in Hindi</strong> के बारे में detail से जानेंगे - इनके causes, symptoms, treatment options, और घरेलू उपाय। अगर आपको <strong>pet me acidity</strong> की समस्या है, तो यह article आपके लिए helpful होगा।
+                    इस blog post में हम <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a> symptoms in Hindi</strong> के बारे में detail से जानेंगे - इनके causes, symptoms, treatment options, और घरेलू उपाय। अगर आपको <strong>pet me <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a></strong> की समस्या है, तो यह article आपके लिए helpful होगा।
                 </p>
 
                 <!-- Section 1: What is Acidity -->
-                <h2 class="raj-h2">Acidity क्या है? (What is Acidity?)</h2>
+                <h2 class="raj-h2"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> क्या है? (What is Acidity?)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Acidity</strong> तब होती है जब stomach में बहुत अधिक acid बनता है। यह acid food को digest करने में मदद करता है, लेकिन जब इसका quantity बढ़ जाता है, तो यह <strong>acid reflux</strong> और <strong>heartburn</strong> का कारण बनता है।

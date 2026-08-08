@@ -53,7 +53,7 @@
             "name": "High Pulse Rate (तेज धड़कन) कब होती है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Exercise, stress, anxiety, caffeine, dehydration, fever, thyroid problems, या heart conditions से pulse rate बढ़ सकता है। Resting pulse rate 100 BPM से ज्यादा होना high pulse rate है और doctor consultation जरूरी है।"
+                "text": "Exercise, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, anxiety, caffeine, dehydration, fever, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> problems, या heart conditions से pulse rate बढ़ सकता है। Resting pulse rate 100 BPM से ज्यादा होना high pulse rate है और doctor consultation जरूरी है।"
             }
         },
         {
@@ -353,7 +353,7 @@
                         <p class="text-sm text-gray-600">Workout के दौरान pulse rate बढ़ना normal है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-400">
-                        <h4 class="font-bold text-red-500">Stress और Anxiety</h4>
+                        <h4 class="font-bold text-red-500"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> और Anxiety</h4>
                         <p class="text-sm text-gray-600">तनाव और घबराहट से heart fast धड़कता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-400">
@@ -365,7 +365,7 @@
                         <p class="text-sm text-gray-600">बुखार होने पर body temperature बढ़ने से pulse rate भी बढ़ता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-400">
-                        <h4 class="font-bold text-red-500">Thyroid Problems</h4>
+                        <h4 class="font-bold text-red-500"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems</h4>
                         <p class="text-sm text-gray-600">Hyperthyroidism से pulse rate ज्यादा हो सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-400">
@@ -392,7 +392,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-400">
                         <h4 class="font-bold text-blue-500">Hypothyroidism</h4>
-                        <p class="text-sm text-gray-600">Thyroid कम active होने से pulse rate low हो सकता है।</p>
+                        <p class="text-sm text-gray-600"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> कम active होने से pulse rate low हो सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-400">
                         <h4 class="font-bold text-blue-500">Heart Block</h4>
@@ -427,7 +427,7 @@
                 <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>नियमित व्यायाम करें</strong> - 30 मिनट daily walking या light exercise</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Stress कम करें</strong> - Yoga, meditation, या breathing exercises</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> कम करें</strong> - Yoga, meditation, या <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a> exercises</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Caffeine कम करें</strong> - ज्यादा चाय, coffee, energy drinks से बचें</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Alcohol छोड़ें</strong> या कम करें</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>पर्याप्त नींद लें</strong> - 7-8 घंटे daily</li>
@@ -444,7 +444,7 @@
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">Leafy Greens</div>
-                        <p class="text-sm text-gray-600">Spinach, kale में potassium होती है जो blood pressure control करती है</p>
+                        <p class="text-sm text-gray-600">Spinach, kale में potassium होती है जो <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> control करती है</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
@@ -516,8 +516,8 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">संबंधित health topics समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/blood-pressure-kaise-control-kare.php" class="text-secondary-600 hover:underline font-semibold">Blood Pressure Kaise Control Kare - उच्च रक्तचाप कैसे control करें</a></li>
-                        <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi - दिल का दौरा कैसे पहचानें</a></li>
+                        <li><a href="/blog/blood-pressure-kaise-control-kare.php" class="text-secondary-600 hover:underline font-semibold"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Kaise Control Kare - उच्च रक्तचाप कैसे control करें</a></li>
+                        <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Hindi - दिल का दौरा कैसे पहचानें</a></li>
                         <li><a href="/blog/chest-pain-ka-ilaj/" class="text-secondary-600 hover:underline font-semibold">Chest Pain Kya Hai - सीने में दर्द के कारण</a></li>
                         <li><a href="/specialties/cardiology" class="text-secondary-600 hover:underline font-semibold">Best Cardiologist in Ranchi - RAJ Hospital</a></li>
                     </ul>
@@ -532,7 +532,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">High Pulse Rate (तेज धड़कन) कब होती है?</h3>
-                        <p class="text-gray-700">Exercise, stress, anxiety, caffeine, dehydration, fever, thyroid problems, या heart conditions से pulse rate बढ़ सकता है। Resting pulse rate 100 BPM से ज्यादा होना high pulse rate है।</p>
+                        <p class="text-gray-700">Exercise, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, anxiety, caffeine, dehydration, fever, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> problems, या heart conditions से pulse rate बढ़ सकता है। Resting pulse rate 100 BPM से ज्यादा होना high pulse rate है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Low Pulse Rate (धीमी धड़कन) कब खतरनाक है?</h3>

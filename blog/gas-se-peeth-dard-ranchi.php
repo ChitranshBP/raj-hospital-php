@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi | RAJ Hospital Ranchi</title>
     <meta name="description" content="Gas se peeth dard (back pain due to gas) ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein iski sabse behtreen treatment ke liye RAJ Hospital mein appointment lein. Peeth dard ka sahi ilaj kaise karein.">
     <meta name="keywords" content="gas se peeth dard, peeth dard ka ilaj, gas pain back Hindi, back pain due to gas in Hindi, peeth dard ke karan, abdominal gas back pain treatment ranchi">
     <meta name="robots" content="index, follow">
@@ -40,7 +40,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi",
+        "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi",
         "description": "Gas se peeth dard (back pain due to gas) ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein iski treatment ke liye RAJ Hospital.",
         "publisher": {
             "@type": "Organization",
@@ -72,7 +72,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Gas Se Peeth Dard",
+                "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard",
                 "item": "https://rajhospitals.com/blog/gas-se-peeth-dard-ranchi/"
             }
         ]
@@ -89,7 +89,7 @@
                 "name": "क्या गैस से पीठ दर्द हो सकता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हां, गैस से पीठ दर्द हो सकता है। पेट में जमा गैस पीठ की नसों पर दबाव डाल सकती है और पीठ के निचले हिस्से में दर्द का कारण बन सकती है। इसको पेट की गैस से होने वाला पीठ दर्द (abdominal gas back pain) कहते हैं।"
+                    "text": "हां, गैस से पीठ दर्द हो सकता है। पेट में जमा गैस पीठ की नसों पर दबाव डाल सकती है और पीठ के निचले हिस्से में दर्द का कारण बन सकती है। इसको पेट की गैस से होने वाला पीठ दर्द (abdominal <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> back pain) कहते हैं।"
                 }
             },
             {
@@ -151,7 +151,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -198,7 +198,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi | RAJ Hospital Ranchi",
         "description": "Gas se peeth dard (back pain due to gas) ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein iski sabse behtreen treatment ke liye RAJ Hospital mein appointment lein. Peeth dard ka sahi ilaj kaise karein.",
         "url": "https://rajhospitals.com/blog/gas-se-peeth-dard-ranchi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/gas-se-peeth-dard-ranchi.png",
@@ -261,15 +261,15 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Gas Se Peeth Dard</span>
+            <span class="text-gray-700"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard</span>
         </nav>
     </div>
 
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
-                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Gas Problem</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi</h1>
+                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Problem</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 14 min read</span>
@@ -280,7 +280,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Gas se peeth dard</strong> (पेट की गैस से पीठ दर्द) एक ऐसी समस्या है जो अक्सर लोगों को परेशान करती है। कई बार पेट में गैस होने पर पीठ के निचले हिस्से में तेज दर्द होता है जिसे लोग समझ नहीं पाते कि यह गैस से है या किसी और वजह से। इस ब्लॉग पोस्ट में हम विस्तार से जानेंगे कि <strong>गैस से पीठ दर्द क्यों होता है</strong>, इसके <strong>लक्षण क्या हैं</strong>, और इसका <strong>इलाज कैसे होता है</strong>।
+                    <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> se peeth dard</strong> (पेट की गैस से पीठ दर्द) एक ऐसी समस्या है जो अक्सर लोगों को परेशान करती है। कई बार पेट में गैस होने पर पीठ के निचले हिस्से में तेज दर्द होता है जिसे लोग समझ नहीं पाते कि यह गैस से है या किसी और वजह से। इस ब्लॉग पोस्ट में हम विस्तार से जानेंगे कि <strong>गैस से पीठ दर्द क्यों होता है</strong>, इसके <strong>लक्षण क्या हैं</strong>, और इसका <strong>इलाज कैसे होता है</strong>।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -288,14 +288,14 @@
                 </p>
 
                 <!-- Section 1: What is Gas -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">Gas Kya Hota Hai? Understanding Gas Problem</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Kya Hota Hai? Understanding Gas Problem</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>पेट की गैस</strong> (Flatulence) एक सामान्य शारीरिक प्रक्रिया है। जब हम खाना खाते हैं, तो पेट में हवा जाती है और उसके साथ-साथ पाचन प्रक्रिया में भी गैस बनती है। सामान्यतः 15-20 बार दिन में गैस आना सामान्य है। लेकिन जब यह गैस ज्यादा बनने लगती है या पेट में जमा हो जाती है, तो इससे <strong>पेट में भारापन, पेट फूलना, और पीठ में दर्द</strong> जैसी समस्याएं हो सकती हैं।
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>गैस से पीठ दर्द क्यों होता है?</strong> ऐसा इसलिए होता है क्योंकि पेट और पीठ के निचले हिस्से में कई नसें आपस में जुड़ी हुई हैं। जब पेट में गैस जमा होती है, तो यह <strong>diaphragm</strong> (श्वास पट्टिका) पर दबाव डालती है जो पीठ के निचले हिस्से से जुड़ा है। इसके अलावा, पेट का फैलाव भी पीठ की मांसपेशियों पर असर डालता है और <strong>back pain due to gas</strong> होता है।
+                    <strong>गैस से पीठ दर्द क्यों होता है?</strong> ऐसा इसलिए होता है क्योंकि पेट और पीठ के निचले हिस्से में कई नसें आपस में जुड़ी हुई हैं। जब पेट में गैस जमा होती है, तो यह <strong>diaphragm</strong> (श्वास पट्टिका) पर दबाव डालती है जो पीठ के निचले हिस्से से जुड़ा है। इसके अलावा, पेट का फैलाव भी पीठ की मांसपेशियों पर असर डालता है और <strong>back pain due to <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a></strong> होता है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">

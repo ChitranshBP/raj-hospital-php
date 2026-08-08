@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pregnancy Ke Lakshan - Kitne Din Mein Dikhte Hain? | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Lakshan - Kitne Din Mein Dikhte Hain? | RAJ Hospital Ranchi</title>
     <meta name="description" content="Pregnancy Ke Lakshan Kitne Din Mein Dikhte Hain? जानिए pregnancy symptoms कब दिखाई देते हैं, earliest signs और जल्दी पहचानने के तरीके।">
     <meta name="keywords" content="pregnancy ke lakshan, kitne din me dikhte hain, early pregnancy symptoms in hindi, pregnancy signs, pregnancy detection, pregnancy test">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Pregnancy Ke Lakshan - Kitne Din Mein Dikhte Hain? में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Lakshan - Kitne Din Mein Dikhte Hain? में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Pregnancy Ke Lakshan - Kitne Din Mein Dikhte Hain? | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Lakshan - Kitne Din Mein Dikhte Hain? | RAJ Hospital Ranchi",
         "description": "Pregnancy Ke Lakshan Kitne Din Mein Dikhte Hain? जानिए pregnancy symptoms कब दिखाई देते हैं, earliest signs और जल्दी पहचानने के तरीके।",
         "url": "https://rajhospitals.com/blog/pregnancy-ke-lakshan-kitne-din-me-dikhte-hain/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnancy-ke-lakshan-kitne-din-me-dikhte-hain.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Pregnancy Ke Lakshan - Kitne Din Mein Dikhte Hain? | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Lakshan - Kitne Din Mein Dikhte Hain? | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Pregnancy Ke Lakshan</span>
+            <span class="text-gray-700"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Lakshan</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Pregnancy Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Pregnancy Ke Lakshan - Kitne Din Mein Dikhte Hain?</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Care</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Lakshan - Kitne Din Mein Dikhte Hain?</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 27, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
@@ -228,15 +228,15 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    क्या आपको अपनी <strong>periods</strong> में देरी हो रही है? क्या आप सोच रही हैं कि आप <strong>pregnant</strong> तो नहीं हैं? अग्न आपको लगता है कि pregnancy के कुछ early signs दिख रहे हैं, तो यह लेख आपके लिए बहुत उपयोगी है।
+                    क्या आपको अपनी <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a></strong> में देरी हो रही है? क्या आप सोच रही हैं कि आप <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a></strong> तो नहीं हैं? अग्न आपको लगता है कि <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> के कुछ early signs दिख रहे हैं, तो यह लेख आपके लिए बहुत उपयोगी है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस लेख में हम जानेंगे कि <strong>pregnancy ke lakshan kitne din mein dikhte hain</strong> (गर्भावस्था के लक्षण कितने दिनों में दिखते हैं) और आप कैसे जल्दी से जल्दी पहचान सकती हैं।
+                    इस लेख में हम जानेंगे कि <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> ke lakshan kitne din mein dikhte hain</strong> (गर्भावस्था के लक्षण कितने दिनों में दिखते हैं) और आप कैसे जल्दी से जल्दी पहचान सकती हैं।
                 </p>
 
                 <!-- Section 1: When do symptoms appear -->
-                <h2 class="raj-h2">Pregnancy Symptoms कितने दिनों में दिखते हैं?</h2>
+                <h2 class="raj-h2"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Symptoms कितने दिनों में दिखते हैं?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Early pregnancy symptoms</strong> आमतौर पर conception (गर्भधारण) के बाद <strong>1-2 सप्ताह</strong> के भीतर दिखना शुरू हो जाते हैं। हालांकि, हर woman का अनुभव अलग होता है।

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference | RAJ Hospital Ranchi</title>
     <meta name="description" content="Learn to differentiate between gas pain and heart attack symptoms. Understand key warning signs, when to seek emergency care, and how to identify serious cardiac events.">
     <meta name="keywords" content="gas pain vs heart attack, chest pain causes, heart attack symptoms, gas pain symptoms, chest discomfort diagnosis">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Gas Pain vs Heart Attack - How to Tell the Difference में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference | RAJ Hospital Ranchi",
         "description": "Learn to differentiate between gas pain and heart attack symptoms. Understand key warning signs, when to seek emergency care, and how to identify serious cardiac events.",
         "url": "https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/difference-between-gas-pain-and-heart-attack-symptoms.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Gas Pain vs Heart Attack</span>
+            <span class="text-gray-700"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a></span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-red-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Emergency Awareness</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Gas Pain vs Heart Attack - How to Tell the Difference</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>

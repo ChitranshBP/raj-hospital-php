@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Heart Attack vs Cardiac Arrest — What Is the Difference? | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference? | RAJ Hospital Ranchi</title>
     <meta name="description" content="Heart attack and cardiac arrest are NOT the same. Cardiologists at RAJ Hospital Ranchi explain the difference, the link between the two, and the exact emergency response that saves lives.">
     <meta name="keywords" content="difference between heart attack and cardiac arrest, heart attack vs cardiac arrest, sudden cardiac arrest, CPR, AED, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Heart Attack vs Cardiac Arrest — What Is the Difference?",
+        "headline": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference?",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-08",
@@ -59,7 +59,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Heart Attack vs Cardiac Arrest" }
+            { "@type": "ListItem", "position": 3, "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest" }
         ]
     }
     </script>
@@ -69,7 +69,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Heart Attack vs Cardiac Arrest — What Is the Difference?",
+        "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference?",
         "description": "A cardiologist-reviewed, citation-ready comparison of heart attack (myocardial infarction) and cardiac arrest (sudden cardiac arrest), with emergency response steps.",
         "url": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -93,7 +93,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is the difference between a heart attack and cardiac arrest?",
+                "name": "What is the difference between a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> and cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "A heart attack (myocardial infarction) is a circulation problem: a blocked artery cuts off blood to a portion of heart muscle, which begins to die. The heart usually keeps beating. A cardiac arrest is an electrical problem: the heart's rhythm goes haywire and it stops pumping effectively, leading to loss of consciousness within seconds. A heart attack can cause a cardiac arrest, but the two are not the same event."
@@ -128,7 +128,7 @@
                 "name": "What should I do if I witness a sudden cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "1) Check responsiveness and breathing. 2) Call emergency services (108 in India) and the on-call cardiologist at RAJ Hospital. 3) Start hands-only CPR at 100-120 compressions per minute, 5-6 cm deep, allowing full chest recoil. 4) Use an AED (Automated External Defibrillator) as soon as one is available — every minute of delay reduces survival by 7-10%."
+                    "text": "1) Check responsiveness and <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a>. 2) Call emergency services (108 in India) and the on-call cardiologist at RAJ Hospital. 3) Start hands-only CPR at 100-120 compressions per minute, 5-6 cm deep, allowing full chest recoil. 4) Use an AED (Automated External Defibrillator) as soon as one is available — every minute of delay reduces survival by 7-10%."
                 }
             }
         ]
@@ -146,7 +146,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Heart Attack vs Cardiac Arrest</span>
+            <span class="text-gray-700"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest</span>
         </nav>
     </div>
 
@@ -158,7 +158,7 @@
 
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Emergency Medicine</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">What Is the Difference Between a Heart Attack and Cardiac Arrest?</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">What Is the Difference Between a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> and Cardiac Arrest?</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 8, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -169,12 +169,12 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Heart attack</strong> and <strong>cardiac arrest</strong> are two of the most misused terms in medicine. They are not synonyms, they are not the same event, and they require different emergency responses. According to the cardiology and emergency medicine team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, the single biggest source of confusion is the assumption that one is just a milder form of the other. This guide, written for patients and family members, explains the difference in plain language and tells you exactly what to do in each scenario.
+                    <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a></strong> and <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> arrest</strong> are two of the most misused terms in medicine. They are not synonyms, they are not the same event, and they require different emergency responses. According to the cardiology and emergency medicine team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, the single biggest source of confusion is the assumption that one is just a milder form of the other. This guide, written for patients and family members, explains the difference in plain language and tells you exactly what to do in each scenario.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-red-700">Quick Answer:</strong>
-                    <span class="text-gray-700"> A <strong>heart attack</strong> is a <em>circulation</em> problem — a blocked artery starves part of the heart muscle of blood. The heart usually keeps beating. A <strong>cardiac arrest</strong> is an <em>electrical</em> problem — the heart's rhythm malfunctions and it stops pumping. A heart attack can lead to a cardiac arrest, but they are different emergencies. If you witness a sudden collapse, call 108 and start CPR — every minute costs 7–10% survival.</span>
+                    <span class="text-gray-700"> A <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a></strong> is a <em>circulation</em> problem — a blocked artery starves part of the heart muscle of blood. The heart usually keeps beating. A <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> arrest</strong> is an <em>electrical</em> problem — the heart's rhythm malfunctions and it stops pumping. A heart attack can lead to a cardiac arrest, but they are different emergencies. If you witness a sudden collapse, call 108 and start CPR — every minute costs 7–10% survival.</span>
                 </div>
 
                 <h2 class="raj-h2">Heart Attack (Myocardial Infarction) — A Plumbing Problem</h2>

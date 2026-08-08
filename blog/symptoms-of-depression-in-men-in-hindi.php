@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>पुरुषों में डिप्रेशन के लक्षण (Symptoms of Depression in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi</title>
+    <title>पुरुषों में डिप्रेशन के लक्षण (Symptoms of <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में डिप्रेशन के लक्षण, कारण, उपचार और बचाव के उपाय। पुरुषों में अवसाद अक्सर anger, fatigue और physical symptoms के रूप में दिखता है। RAJ Hospital Ranchi की पूरी गाइड।">
     <meta name="keywords" content="purusho me depression ke lakshan, male depression hindi, पुरुषों में डिप्रेशन, depression symptoms in men in hindi, mental health men hindi, male mental health, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "पुरुषों में डिप्रेशन के लक्षण (Symptoms of Depression in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi",
+        "headline": "पुरुषों में डिप्रेशन के लक्षण (Symptoms of <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi",
         "description": "पुरुषों में डिप्रेशन के लक्षण, कारण, उपचार और बचाव के उपाय।",
         "url": "https://rajhospitals.com/blog/symptoms-of-depression-in-men-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/symptoms-of-depression-in-men-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "पुरुषों में डिप्रेशन के लक्षण (Symptoms of Depression in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi"
+                "name": "पुरुषों में डिप्रेशन के लक्षण (Symptoms of <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Mental Health</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">पुरुषों में डिप्रेशन के लक्षण (Symptoms of Depression in Men in Hindi) - Complete Guide</h1>
+                <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Mental Health</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">पुरुषों में डिप्रेशन के लक्षण (Symptoms of <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> in Men in Hindi) - Complete Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 1, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
@@ -228,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>डिप्रेशन (Depression)</strong> एक common लेकिन गंभीर <strong>mental health</strong> समस्या है जो पुरुषों में अक्सर अनदेखी की जाती है। पुरुषों में डिप्रेशन के लक्षण सिर्फ "उदासी" तक सीमित नहीं होते, बल्कि ये <strong>anger, fatigue, physical pain</strong> और behaviour में बदलाव के रूप में भी दिख सकते हैं।
+                    <strong>डिप्रेशन (<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a>)</strong> एक common लेकिन गंभीर <strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">mental health</a></strong> समस्या है जो पुरुषों में अक्सर अनदेखी की जाती है। पुरुषों में डिप्रेशन के लक्षण सिर्फ "उदासी" तक सीमित नहीं होते, बल्कि ये <strong>anger, fatigue, physical pain</strong> और behaviour में बदलाव के रूप में भी दिख सकते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -243,7 +243,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Male depression</strong> के मामले अक्सर alcohol, smoking या anger के पीछे छिपे होते हैं। यह pattern पहचानना बहुत ज़रूरी है क्योंकि डिप्रेशन पुरुषों में <strong>suicide risk</strong> का एक प्रमुख कारण है।
+                    <strong>Male <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a></strong> के मामले अक्सर alcohol, smoking या anger के पीछे छिपे होते हैं। यह pattern पहचानना बहुत ज़रूरी है क्योंकि डिप्रेशन पुरुषों में <strong>suicide risk</strong> का एक प्रमुख कारण है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -313,7 +313,7 @@
                         </thead>
                         <tbody class="border">
                             <tr class="border">
-                                <td class="px-4 py-2 font-semibold">सिरदर्द (Headache)</td>
+                                <td class="px-4 py-2 font-semibold">सिरदर्द (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>)</td>
                                 <td class="px-4 py-2">बार-बार या लगातार तनाव-संबंधी सिरदर्द</td>
                             </tr>
                             <tr class="border bg-gray-50">
@@ -340,7 +340,7 @@
                 <h2 class="raj-h2">कब डॉक्टर से मिलें (Warning Signs)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    डिप्रेशन को अनदेखा करना खतरनाक हो सकता है। नीचे दिए गए warning signs में तुरंत <strong>psychiatrist</strong> या <strong>mental health professional</strong> से मिलें:
+                    डिप्रेशन को अनदेखा करना खतरनाक हो सकता है। नीचे दिए गए warning signs में तुरंत <strong>psychiatrist</strong> या <strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">mental health</a> professional</strong> से मिलें:
                 </p>
 
                 <div class="space-y-4 mb-6">
@@ -423,9 +423,9 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">पुरुषों में डिप्रेशन के लक्षण पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">पुरुषों में डिप्रेशन के लक्षण अक्सर शारीरिक बीमारियों की तरह प्रकट होते हैं, इसलिए सही diagnosis ज़रूरी है। लंबे समय तक चलने वाली थकान, सिरदर्द, पाचन समस्या या यौन समस्याओं के पीछे depression हो सकता है।</p>
+                    <p class="text-gray-700 mb-4">पुरुषों में डिप्रेशन के लक्षण अक्सर शारीरिक बीमारियों की तरह प्रकट होते हैं, इसलिए सही diagnosis ज़रूरी है। लंबे समय तक चलने वाली थकान, सिरदर्द, पाचन समस्या या यौन समस्याओं के पीछे <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a> हो सकता है।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के पुरुष मरीज़ों के लिए सबसे ज़रूरी बात यह है कि वे symptoms को गंभीरता से लें और बिना किसी judgement के डॉक्टर से बात करें। पुरुषों में डिप्रेशन के लक्षण पहचाने जा सकते हैं, और इलाज से जीवन की quality बेहतर हो सकती है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में mental health team confidentiality के साथ evaluation, counselling, और personalised treatment plan देती है। अगर लक्षण 2 सप्ताह से ज़्यादा हों, रोज़मर्रा के काम प्रभावित हों, या आत्म-हानि के विचार आ रहे हों, तो consultation delay न करें।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">mental health</a> team confidentiality के साथ evaluation, counselling, और personalised treatment plan देती है। अगर लक्षण 2 सप्ताह से ज़्यादा हों, रोज़मर्रा के काम प्रभावित हों, या आत्म-हानि के विचार आ रहे हों, तो consultation delay न करें।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले अपनी भावनाओं, physical symptoms, नींद-भूख के pattern और triggers को लिख लें। यह जानकारी diagnosis में बहुत उपयोगी होती है। अगर कोई गंभीर warning sign (जैसे आत्म-हानि के विचार) हो, तो तुरंत emergency helpline या नज़दीकी hospital में संपर्क करें।</p>
                     <p class="text-gray-700 mb-4">यह article केवल awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें। अपने या किसी अपने की मानसिक सेहत को लेकर चिंता हो तो RAJ Hospital के mental health specialists से मिलकर सही रास्ता चुनें।</p>
                 </section>

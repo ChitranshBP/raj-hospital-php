@@ -53,7 +53,7 @@
             "name": "क्या Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Knee Pain - घुटने में दर्द के कारण और उपचार जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Knee Pain</a> - घुटने में दर्द के कारण और उपचार जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -216,7 +216,7 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Orthopedic Guide</span>
+                <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Orthopedic</a> Guide</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 1, 2026</span>
@@ -300,7 +300,7 @@
                                 <li>Heavy lifting के बाद</li>
                                 <li>अचानक jerk करने पर</li>
                                 <li>गलत sleep position</li>
-                                <li>Stress से भी muscles tighten होते हैं</li>
+                                <li><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> से भी muscles tighten होते हैं</li>
                             </ul>
                         </div>
 
@@ -335,9 +335,9 @@
 
                         <!-- Cause 6 -->
                         <div class="bg-white rounded-xl shadow p-5 border-l-4 border-teal-500">
-                            <h3 class="text-lg font-bold text-gray-800 mb-2">6. Stress और Anxiety</h3>
+                            <h3 class="text-lg font-bold text-gray-800 mb-2">6. <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> और Anxiety</h3>
                             <p class="text-gray-600 text-sm mb-3">
-                                Stress से body की muscles tighten हो जाती हैं, खासकर neck और shoulder area में। <strong>गर्दन दर्द</strong> stress का common symptom है।
+                                <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> से body की muscles tighten हो जाती हैं, खासकर neck और shoulder area में। <strong>गर्दन दर्द</strong> <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> का common symptom है।
                             </p>
                             <p class="text-gray-600 text-sm">
                                 Tension headaches भी neck pain का कारण बन सकती हैं।
@@ -354,9 +354,9 @@
 
                         <!-- Cause 8 -->
                         <div class="bg-white rounded-xl shadow p-5 border-l-4 border-pink-500">
-                            <h3 class="text-lg font-bold text-gray-800 mb-2">8. Arthritis (गठिया)</h3>
+                            <h3 class="text-lg font-bold text-gray-800 mb-2">8. <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Arthritis</a> (गठिया)</h3>
                             <p class="text-gray-600 text-sm mb-3">
-                                <strong>Rheumatoid arthritis</strong> और <strong>osteoarthritis</strong> भी neck pain का कारण बन सकते हैं। Joint inflammation से pain और stiffness होती है।
+                                <strong>Rheumatoid <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a></strong> और <strong>osteoarthritis</strong> भी neck pain का कारण बन सकते हैं। Joint inflammation से pain और stiffness होती है।
                             </p>
                         </div>
 
@@ -366,7 +366,7 @@
                             <div class="grid md:grid-cols-2 gap-4">
                                 <ul class="list-disc list-inside text-gray-600 space-y-1">
                                     <li>Meningitis (गंभीर)</li>
-                                    <li>Tumor (बहुत rare)</li>
+                                    <li><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> (बहुत rare)</li>
                                     <li>Fibrromyalgia</li>
                                     <li>Poor sleeping mattress</li>
                                 </ul>
@@ -394,7 +394,7 @@
                                     <li>Stiffness और tightness</li>
                                     <li>Sharp या throbbing pain</li>
                                     <li>Shoulders तक radiation</li>
-                                    <li>Headache</li>
+                                    <li><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></li>
                                 </ul>
                             </div>
                             <div class="bg-white p-4 rounded-xl shadow">
@@ -414,7 +414,7 @@
                                     <li>Hands में weakness</li>
                                     <li>Balance problems</li>
                                     <li>Fever के साथ दर्द</li>
-                                    <li>Severe headache</li>
+                                    <li>Severe <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -806,7 +806,7 @@
                                 <li>Arm में weakness या numbness</li>
                                 <li>Balance problems हो रहे हैं</li>
                                 <li>Fever के साथ neck pain</li>
-                                <li>Severe headache और vomiting</li>
+                                <li>Severe <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> और vomiting</li>
                                 <li>Pain बढ़ता जा रहा है</li>
                                 <li>चोट के बाद दर्द</li>
                             </ul>

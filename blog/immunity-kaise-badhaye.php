@@ -53,7 +53,7 @@
             "name": "क्या Immunity Kaise Badhaye - Immunity Boost करने के तरीके दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Indian Diet Plan for Diabetes Patients जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -289,8 +289,8 @@
                         <p class="text-sm text-gray-600">Daily 8-10 glasses water पिएं। Dehydration immune response को affect करता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
-                        <h4 class="font-bold text-green-600">4. Stress Management</h4>
-                        <p class="text-sm text-gray-600">Chronic stress cortisol बढ़ाता है जो immunity को suppress करता है। Meditation और breathing exercises करें।</p>
+                        <h4 class="font-bold text-green-600">4. <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> Management</h4>
+                        <p class="text-sm text-gray-600">Chronic <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> cortisol बढ़ाता है जो immunity को suppress करता है। Meditation और <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a> exercises करें।</p>
                     </div>
                 </div>
 
@@ -371,7 +371,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Immunity Kaise Badhaye - Immunity Boost करने के तरीके पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">Immunity Kaise Badhaye - जानिए immunity बढ़ाने के natural तरीके, diet tips, और lifestyle changes। Strong immune system कैसे बनाएं। Complete guide।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Immunity Kaise Badhaye - Immunity Boost करने के तरीके शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -380,13 +380,13 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Indian Diet Plan for Diabetes Patients</a></li>
+                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients</a></li>
                         <li><a href="/blog/pair-me-dard-kyu-hota-h.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द क्यों होता है? - सभी कारण और समाधान</a></li>
-                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Ways to Take Moringa for Managing Diabetes</a></li>
-                        <li><a href="/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार</a></li>
-                        <li><a href="/blog/diabetes-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Symptoms in Men - Warning Signs Every Man Should Know</a></li>
-                        <li><a href="/blog/sugar-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Sugar Symptoms in Hindi - Diabetes Ke Lakshan</a></li>
-                        <li><a href="/blog/remedies-for-high-bp.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High BP (High Blood Pressure) Ke Gharelu Upchar</a></li>
+                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Ways to Take Moringa for Managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></a></li>
+                        <li><a href="/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार</a></li>
+                        <li><a href="/blog/diabetes-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know</a></li>
+                        <li><a href="/blog/sugar-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan</a></li>
+                        <li><a href="/blog/remedies-for-high-bp.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar</a></li>
                     </ul>
                 </section>
 
@@ -399,7 +399,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Immunity Kaise Badhaye - Immunity Boost करने के तरीके दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Indian Diet Plan for Diabetes Patients जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>

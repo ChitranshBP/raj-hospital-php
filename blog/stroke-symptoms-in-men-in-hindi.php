@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital</title>
+    <title><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital</title>
     <meta name="description" content="Stroke symptoms in men in Hindi - पहचानें, पहचानें और बचें। Early warning signs, FAST test, causes aur prevention tips। Time is brain - जानें कब emergency help लें।">
     <meta name="keywords" content="stroke symptoms in men, brain stroke in hindi, stroke warning signs, paralysis, heart attack symptoms male">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital",
+        "headline": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital",
         "description": "Stroke symptoms in men in Hindi - पहचानें, पहचानें और बचें। Early warning signs, FAST test, causes aur prevention tips। Time is brain - जानें कब emergency help लें।",
         "url": "https://rajhospitals.com/blog/stroke-symptoms-in-men-in-hindi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/stroke-symptoms-in-men-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital"
+                "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital"
             }
         ]
     }
@@ -203,15 +203,15 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Stroke Symptoms in Men</span>
+            <span class="text-gray-700"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men</span>
         </nav>
     </div>
 
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Stroke Symptoms in Men in Hindi - Warning Signs aur FAST Test</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi - Warning Signs aur FAST Test</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
@@ -222,11 +222,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Stroke</strong> (लकवा) एक medical emergency है जो हर साल millions of men को affect करती है। India में stroke cases rapidly बढ़ रहे हैं, और यह अक्सर अचानक hit करता है। <strong>Stroke symptoms in men</strong> को पहचानना crucial है क्योंकि early treatment brain damage को prevent कर सकती है और life बचा सकती है।
+                    <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a></strong> (लकवा) एक medical emergency है जो हर साल millions of men को affect करती है। India में <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> cases rapidly बढ़ रहे हैं, और यह अक्सर अचानक hit करता है। <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> symptoms in men</strong> को पहचानना crucial है क्योंकि early treatment brain damage को prevent कर सकती है और life बचा सकती है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>"Time is brain"</strong> - यह phrase stroke treatment की सबसे important concept है। Brain cells हर minute with oxygen की कमी में मरते जाते हैं। जितना जल्दी treatment शुरू होगा, उतना better the outcome। <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में 24/7 stroke emergency services available हैं।
+                    <strong>"Time is brain"</strong> - यह phrase <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> treatment की सबसे important concept है। Brain cells हर minute with oxygen की कमी में मरते जाते हैं। जितना जल्दी treatment शुरू होगा, उतना better the outcome। <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में 24/7 <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> emergency services available हैं।
                 </p>
 
                 <!-- Section 1: What is Stroke -->

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital</title>
+    <title>Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital</title>
     <meta name="description" content="Seene mein gas ka dard, pet se gas ke karan, symptoms aur treatment। Gas pain in chest ke liye home remedies aur prevention tips।">
     <meta name="keywords" content="seene me gas ka dard, gas pain in chest, pet se gas, bloating, gas problem in hindi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital",
+        "headline": "Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital",
         "description": "Seene mein gas ka dard, pet se gas ke karan, symptoms aur treatment। Gas pain in chest ke liye home remedies aur prevention tips।",
         "url": "https://rajhospitals.com/blog/seene-me-gas-ka-dard",
         "image": "https://rajhospitals.com/blog/assets/img/featured/seene-me-gas-ka-dard.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital"
+                "name": "Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Seene Me Gas Ka Dard</span>
+            <span class="text-gray-700">Seene Me <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard</span>
         </nav>
     </div>
 
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Gastroenterology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein?</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein?</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
@@ -222,15 +222,15 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Seene mein gas ka dard</strong> एक common problem है जो लगभग हर किसी को कभी न कभी होती है। यह usually harmless होता है, लेकिन कभी-कभी <strong>chest pain</strong> (seene mein dard) heart attack जैसे serious condition का sign भी हो सकता है। इसलिए यह जानना जरूरी है कि gas pain और heart pain में क्या difference है।
+                    <strong>Seene mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> ka dard</strong> एक common problem है जो लगभग हर किसी को कभी न कभी होती है। यह usually harmless होता है, लेकिन कभी-कभी <strong>chest pain</strong> (seene mein dard) <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> जैसे serious condition का sign भी हो सकता है। इसलिए यह जानना जरूरी है कि <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> pain और heart pain में क्या difference है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी gastroenterology team gas problems के diagnosis aur treatment में experienced है। यह guide <strong>seene me gas ka dard</strong> के causes, symptoms, aur treatment options के बारे में detailed information provide करती है।
+                    <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी gastroenterology team <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> problems के diagnosis aur treatment में experienced है। यह guide <strong>seene me <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> ka dard</strong> के causes, symptoms, aur treatment options के बारे में detailed information provide करती है।
                 </p>
 
                 <!-- Section 1: What is Gas Pain -->
-                <h2 class="raj-h2">Seene Mein Gas Ka Dard Kya Hai?</h2>
+                <h2 class="raj-h2">Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard Kya Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
                     जब <strong>pet में gas</strong> (flatulence) बनती है और यह properly release नहीं हो पाती, तो यह <strong>bloating</strong> aur discomfort का cause बनती है। कभी-कभी यह gas chest तक travel कर जाती है जिससे <strong>gas pain in chest</strong> हो सकती है।

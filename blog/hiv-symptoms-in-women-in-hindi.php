@@ -53,7 +53,7 @@
             "name": "क्या HIV Symptoms in Women in Hindi - महिलाओं में HIV के लक्षण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए PCOD Problems in Women - Symptoms, Causes and Health Effects जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -233,7 +233,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-pink-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> महिलाओं में HIV symptoms subtle हो सकते हैं और periods, pregnancy, या अन्य conditions के साथ confuse हो सकते हैं। Testing ही सबसे reliable method है।</span>
+                    <span class="text-gray-700"> महिलाओं में HIV symptoms subtle हो सकते हैं और <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a>, pregnancy, या अन्य conditions के साथ confuse हो सकते हैं। Testing ही सबसे reliable method है।</span>
                 </div>
 
                 <!-- Section 1: Early Symptoms -->
@@ -272,7 +272,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-pink-600">
                         <h4 class="font-bold text-pink-600">2. Menstrual Changes</h4>
-                        <p class="text-sm text-gray-600">Heavy bleeding, missed periods, या severe PMS symptoms।</p>
+                        <p class="text-sm text-gray-600">Heavy bleeding, missed <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a>, या severe PMS symptoms।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-pink-600">
                         <h4 class="font-bold text-pink-600">3. Pelvic Inflammatory Disease (PID)</h4>
@@ -288,11 +288,11 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-pink-600 pb-2 mt-8 mb-4">गर्भावस्था और HIV</h2>
 
                 <p class="text-gray-700 mb-4">
-                    HIV positive महिलाएं pregnant हो सकती हैं। <strong>PMTCT</strong> (Prevention of Mother to Child Transmission) से baby को HIV pass होने का risk 1% से कम किया जा सकता है।
+                    HIV positive महिलाएं <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> हो सकती हैं। <strong>PMTCT</strong> (Prevention of Mother to Child Transmission) से baby को HIV pass होने का risk 1% से कम किया जा सकता है।
                 </p>
 
                 <div class="bg-pink-50 p-4 rounded-lg mb-6">
-                    <h4 class="font-bold text-pink-600 mb-2">अगर आप pregnant हैं और HIV positive हैं:</h4>
+                    <h4 class="font-bold text-pink-600 mb-2">अगर आप <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> हैं और HIV positive हैं:</h4>
                     <ul class="text-sm text-gray-600 space-y-1">
                         <li>Immediately treatment शुरू करें</li>
                         <li>C-section delivery की planning करें</li>
@@ -310,7 +310,7 @@
                     <li><strong>Night Sweats:</strong> बार-बार उठना पसीने से</li>
                     <li><strong>Chronic Fatigue:</strong> बिना किसी reason के</li>
                     <li><strong>Skin Infections:</strong> rashes जो जल्दी spread हों</li>
-                    <li><strong>Opportunistic Infections:</strong> जैसे cervical cancer, TB</li>
+                    <li><strong>Opportunistic Infections:</strong> जैसे cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a>, TB</li>
                 </ul>
 
                 <!-- CTA Box -->
@@ -330,7 +330,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-pink-600 mb-2">क्या HIV positive women conceive कर सकती हैं?</h4>
-                        <p class="text-gray-700">हाँ, proper treatment और medical guidance से safe pregnancy possible है।</p>
+                        <p class="text-gray-700">हाँ, proper treatment और medical guidance से safe <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> possible है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-pink-600 mb-2">क्या मासिक धर्म से HIV transmission होता है?</h4>
@@ -342,7 +342,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">HIV Symptoms in Women in Hindi - महिलाओं में HIV के लक्षण पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">HIV Symptoms in Women in Hindi - महिलाओं में HIV के शुरुआती और advanced लक्षण। Women</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। HIV Symptoms in Women in Hindi - महिलाओं में HIV के लक्षण शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -351,10 +351,10 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOD Problems in Women - Symptoms, Causes and Health Effects</a></li>
-                        <li><a href="/blog/thyroid-problems-in-women-symptoms-and-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Thyroid Problems in Women | Symptoms and Treatment in Hindi</a></li>
-                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Maternity Hospital in Ranchi</a></li>
-                        <li><a href="/blog/breast-cancer-news.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Breast Cancer News - Latest Updates &amp; Treatment</a></li>
+                        <li><a href="/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects</a></li>
+                        <li><a href="/blog/thyroid-problems-in-women-symptoms-and-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi</a></li>
+                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi</a></li>
+                        <li><a href="/blog/breast-cancer-news.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates &amp; Treatment</a></li>
                         <li><a href="/blog/breast-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Breast Cancer Symptoms in Hindi - जानें लक्षण</a></li>
                         <li><a href="/blog/cervical-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भाशय ग्रीवा कैंसर के लक्षण</a></li>
                         <li><a href="/blog/cervical-pain-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्दन में दर्द के लक्षण (Cervical Pain)</a></li>

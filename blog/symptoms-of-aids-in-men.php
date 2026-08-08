@@ -278,8 +278,8 @@
                         <p class="text-sm text-gray-600">Extreme tiredness that doesn't improve with rest. Can be debilitating.</p>
                     </div>
                     <div class="raj-callout raj-callout-danger">
-                        <h4 class="font-bold text-red-700">5. Muscle/Joint Pain</h4>
-                        <p class="text-sm text-gray-600">Body aches and joint pain, often mistaken for flu or excessive exercise.</p>
+                        <h4 class="font-bold text-red-700">5. Muscle/<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a></h4>
+                        <p class="text-sm text-gray-600">Body aches and <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a>, often mistaken for flu or excessive exercise.</p>
                     </div>
                 </div>
 
@@ -292,7 +292,7 @@
                 <h2 class="raj-h2">Other Acute HIV Symptoms</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Headache</strong> - Can be severe, like a migraine</li>
+                    <li><strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></strong> - Can be severe, like a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a></li>
                     <li><strong>Swollen lymph nodes</strong> - Especially in neck, armpits, and groin</li>
                     <li><strong>Nausea and vomiting</strong> - Loss of appetite</li>
                     <li><strong>Diarrhea</strong> - Usually mild but can be persistent</li>
@@ -336,7 +336,7 @@
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Severe weight loss (Wasting Syndrome)</strong> - More than 10% weight loss with diarrhea and weakness</li>
                     <li><strong>Pneumocystis Pneumonia (PCP)</strong> - Serious lung infection</li>
-                    <li><strong>Kaposi's Sarcoma</strong> - Cancer causing purple skin lesions</li>
+                    <li><strong>Kaposi's Sarcoma</strong> - <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> causing purple skin lesions</li>
                     <li><strong>Opportunistic infections</strong> - Infections that wouldn't affect healthy immune systems</li>
                     <li><strong>Neurological problems</strong> - Memory problems, confusion, behavioral changes</li>
                     <li><strong>Chronic diarrhea</strong> - Lasting more than a month</li>
@@ -365,7 +365,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">When to Get Tested</h4>
-                        <p class="text-sm text-gray-600">If you've had unprotected sex, shared needles, or any other risk behavior. Also if you're pregnant or planning pregnancy. Regular testing is recommended for sexually active individuals.</p>
+                        <p class="text-sm text-gray-600">If you've had unprotected sex, shared needles, or any other risk behavior. Also if you're <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> or planning pregnancy. Regular testing is recommended for sexually active individuals.</p>
                     </div>
                 </div>
 
@@ -419,7 +419,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Symptoms of AIDS in Men - Early Signs and Treatment पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">Symptoms of AIDS in men - recognize early warning signs of HIV/AIDS। Understanding acute HIV infection, ARS symptoms, and when to get tested। Confidential testing available।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Symptoms of AIDS in Men - Early Signs and Treatment शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -431,10 +431,10 @@
                         <li><a href="/blog/hiv-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पुरुषों में HIV के लक्षण | HIV Symptoms in Men in Hindi</a></li>
                         <li><a href="/blog/hiv-symptoms-in-men-after-1-year.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital</a></li>
                         <li><a href="/blog/blood-infection-kaise-hota-hai.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Blood Infection (Sepsis) Kaise Hota Hai?</a></li>
-                        <li><a href="/blog/diabetes-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Symptoms in Men - Warning Signs Every Man Should Know</a></li>
+                        <li><a href="/blog/diabetes-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know</a></li>
                         <li><a href="/blog/liver-infection-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: लिवर इन्फेक्शन के लक्षण - कारण, निदान और इलाज</a></li>
                         <li><a href="/blog/lungs-infection-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: फेफड़ों में इन्फेक्शन के लक्षण - कारण और इलाज</a></li>
-                        <li><a href="/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Anxiety Symptoms in Men | Stress &amp; Mental Health Issues Signs</a></li>
+                        <li><a href="/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress &amp; Mental Health Issues Signs</a></li>
                     </ul>
                 </section>
 

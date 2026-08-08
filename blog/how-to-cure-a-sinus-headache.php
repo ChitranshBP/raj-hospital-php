@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Cure a Sinus Headache: Effective Home Remedies &amp; Medical Treatments | RAJ Hospital Ranchi</title>
+    <title>How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies &amp; Medical Treatments | RAJ Hospital Ranchi</title>
     <meta name="description" content="How to cure a sinus headache fast — steam, saline rinse, hydration and proven home remedies, plus the medical treatments and warning signs doctors at RAJ Hospital Ranchi recommend you never ignore.">
     <meta name="keywords" content="how to cure a sinus headache, sinus headache remedies, sinus headache treatment, sinus headache relief, sinus pressure headache, home remedies for sinus headache, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "How to Cure a Sinus Headache: Effective Home Remedies & Medical Treatments",
+        "headline": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies & Medical Treatments",
         "description": "Doctor-reviewed guide to relieving a sinus headache with home remedies and medical treatment, plus warning signs.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "How to Cure a Sinus Headache" }
+            { "@type": "ListItem", "position": 3, "name": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>" }
         ]
     }
     </script>
@@ -75,7 +75,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "How to Cure a Sinus Headache",
+        "name": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>",
         "description": "Doctor-reviewed home remedies and medical treatments for sinus headaches, with guidance on when to see a doctor.",
         "url": "https://rajhospitals.com/blog/how-to-cure-a-sinus-headache/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -99,7 +99,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "How do I get rid of a sinus headache fast?",
+                "name": "How do I get rid of a sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> fast?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "For quick relief, inhale steam, use a saline nasal rinse to clear the sinuses, apply a warm compress over your cheeks and forehead, drink plenty of fluids, and rest in an upright, well-humidified room. An over-the-counter pain reliever and, for a few days only, a decongestant can help. If pain is severe or persists beyond about 7–10 days, or comes with high fever, see a doctor."
@@ -152,7 +152,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">How to Cure a Sinus Headache</span>
+            <span class="text-gray-700">How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></span>
         </nav>
     </div>
 
@@ -165,19 +165,19 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">ENT · Neurology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">How to Cure a Sinus Headache: Effective Home Remedies &amp; Medical Treatments</h1>
+                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">ENT · <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies &amp; Medical Treatments</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> July 31, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by ENT &amp; Neurology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by ENT &amp; <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    That heavy, throbbing pressure across your forehead and cheeks — worse when you bend down, often arriving with a stuffy nose after a cold — is the classic <strong>sinus headache</strong>. The good news is that most sinus headaches respond well to simple home care. The important catch, say the ENT and neurology specialists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is that many headaches people call "sinus" are actually migraines — so getting the diagnosis right is half the cure. Here is exactly how to relieve a sinus headache at home, which medical treatments work, and the warning signs you should never ignore.
+                    That heavy, throbbing pressure across your forehead and cheeks — worse when you bend down, often arriving with a stuffy nose after a cold — is the classic <strong>sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></strong>. The good news is that most sinus headaches respond well to simple home care. The important catch, say the ENT and <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> specialists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is that many headaches people call "sinus" are actually migraines — so getting the diagnosis right is half the cure. Here is exactly how to relieve a sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> at home, which medical treatments work, and the warning signs you should never ignore.
                 </p>
 
                 <div class="raj-callout raj-callout-info">

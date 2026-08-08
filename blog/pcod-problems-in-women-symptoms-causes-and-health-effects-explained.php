@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PCOD Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi</title>
     <meta name="description" content="PCOD Problems in Women - Complete guide on symptoms, causes and health effects. Learn about PCOD vs PCOS, treatment options and lifestyle changes needed.">
     <meta name="keywords" content="PCOD, PCOS, PCOD problems in women, polycystic ovarian disease, hormonal imbalance, women's health ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "PCOD Problems in Women - Symptoms, Causes and Health Effects में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "PCOD Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi",
         "description": "PCOD Problems in Women - Complete guide on symptoms, causes and health effects. Learn about PCOD vs PCOS, treatment options and lifestyle changes needed.",
         "url": "https://rajhospitals.com/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "PCOD Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">PCOD Problems in Women</span>
+            <span class="text-gray-700"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women</span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Women's Health</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">PCOD Problems in Women - Symptoms, Causes and Health Effects</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,18 +228,18 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>PCOD (Polycystic Ovarian Disease)</strong> is one of the most common hormonal disorders affecting women of reproductive age worldwide. In India alone, it is estimated that 1 in 5 women suffer from PCOD/PCOS. Understanding this condition is crucial for early diagnosis and effective management.
+                    <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> (Polycystic Ovarian Disease)</strong> is one of the most common hormonal disorders affecting women of reproductive age worldwide. In India alone, it is estimated that 1 in 5 women suffer from <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a>/PCOS. Understanding this condition is crucial for early diagnosis and effective management.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    In this article, we will explore <strong>PCOD problems in women</strong>, its symptoms, causes, health effects, and treatment options. Many women confuse PCOD with PCOS - we will also clarify this difference.
+                    In this article, we will explore <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> problems in women</strong>, its symptoms, causes, health effects, and treatment options. Many women confuse <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> with PCOS - we will also clarify this difference.
                 </p>
 
                 <!-- Section 1: What is PCOD -->
-                <h2 class="raj-h2">What is PCOD?</h2>
+                <h2 class="raj-h2">What is <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a>?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>PCOD (Polycystic Ovarian Disease)</strong> is a condition where the ovaries contain multiple small cysts due to improper egg maturation. This happens because of hormonal imbalance - particularly elevated androgens (male hormones) and insulin resistance.
+                    <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> (Polycystic Ovarian Disease)</strong> is a condition where the ovaries contain multiple small cysts due to improper egg maturation. This happens because of hormonal imbalance - particularly elevated androgens (male hormones) and insulin resistance.
                 </p>
 
                 <div class="raj-callout raj-callout-info">

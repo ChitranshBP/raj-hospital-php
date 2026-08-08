@@ -52,7 +52,7 @@ $base_url = '../';
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
         "mainEntityOfPage": "https://rajhospitals.com/blog/vitamin-d-ki-kami-ke-lakshan/",
-        "keywords": ["vitamin d deficiency", "vitamin d kami", "bone health", "sun exposure"],
+        "keywords": ["vitamin d deficiency", "vitamin d kami", "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> health", "sun exposure"],
         "about": {
             "@type": "MedicalCondition",
             "name": "Vitamin D Deficiency",
@@ -95,7 +95,7 @@ $base_url = '../';
                 "name": "विटामिन D की कमी से कौन सी बीमारियाँ हो सकती हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteoarthritis, कमज़ोर immunity, heart disease, और diabetes का खतरा बढ़ सकता है।"
+                    "text": "विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteoarthritis, कमज़ोर immunity, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> का खतरा बढ़ सकता है।"
                 }
             },
             {
@@ -278,7 +278,7 @@ $base_url = '../';
                     <li><strong>थकान और कमज़ोरी</strong> - सोने के बाद भी थकान महसूस होना</li>
                     <li><strong>हड्डियों में दर्द</strong> - पीठ, कमर, जोड़ों में दर्द</li>
                     <li><strong>मांसपेशियों में कमज़ोरी</strong> - especially thighs और upper arms में</li>
-                    <li><strong>मूड में बदलाव</strong> - अवसाद (depression) और चिंता</li>
+                    <li><strong>मूड में बदलाव</strong> - अवसाद (<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a>) और चिंता</li>
                     <li><strong>बाल झड़ना</strong> - अत्यधिक hair loss</li>
                 </ul>
             </div>
@@ -561,7 +561,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: विटामिन D की कमी से कौन सी बीमारियाँ हो सकती हैं?</h4>
-                    <p class="text-gray-700 text-sm">विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteoarthritis, कमज़ोर immunity, heart disease, और diabetes का खतरा बढ़ सकता है।</p>
+                    <p class="text-gray-700 text-sm">विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteoarthritis, कमज़ोर immunity, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> का खतरा बढ़ सकता है।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -621,8 +621,8 @@ $base_url = '../';
                 <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
-                        <h4 class="font-semibold text-gray-800 text-sm">PCOD Symptoms</h4>
-                        <p class="text-gray-500 text-xs">PCOD और विटामिन D</p>
+                        <h4 class="font-semibold text-gray-800 text-sm"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms</h4>
+                        <p class="text-gray-500 text-xs"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> और विटामिन D</p>
                     </div>
                 </a>
             </div>

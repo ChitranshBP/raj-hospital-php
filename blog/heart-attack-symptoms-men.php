@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में दिल के दौरे (Heart Attack) के लक्षण, कारण, और बचाव के उपाय हिंदी में। जानें कब तुरंत medical help लें। Ranchi के best neurology और cardiology hospital में expert consultation।">
     <meta name="keywords" content="heart attack symptoms men, दिल के दौरे के लक्षण, पुरुषों में heart attack, heart attack in men hindi, heart attack warning signs, दिल की बीमारी के लक्षण, heart attack prevention">
     <meta name="robots" content="index, follow">
@@ -78,7 +78,7 @@
                 "name": "क्या मधुमेह वाले पुरुषों में दिल के दौरे का खतरा अधिक है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हां, मधुमेह वाले पुरुषों में दिल के दौरे का खतरा 2-4 गुना अधिक होता है। मधुमेह heart disease का एक प्रमुख जोखिम कारक है और इससे रक्त वाहिकाओं को नुकसान पहुंचता है। इसलिए मधुमेह नियंत्रित रखना बहुत जरूरी है।"
+                    "text": "हां, मधुमेह वाले पुरुषों में दिल के दौरे का खतरा 2-4 गुना अधिक होता है। मधुमेह <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a> का एक प्रमुख जोखिम कारक है और इससे रक्त वाहिकाओं को नुकसान पहुंचता है। इसलिए मधुमेह नियंत्रित रखना बहुत जरूरी है।"
                 }
             },
             {
@@ -106,7 +106,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण",
+        "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण",
         "description": "पुरुषों में दिल के दौरे (Heart Attack) के लक्षण, कारण, और बचाव के उपाय हिंदी में।",
         "url": "https://rajhospitals.com/blog/heart-attack-symptoms-men/",
         "author": {
@@ -153,7 +153,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Heart Attack Symptoms in Men"
+                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men"
             }
         ]
     }
@@ -166,7 +166,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -177,7 +177,7 @@
             "name": "क्या Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Can Anxiety Cause a Heart Attack? जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a Heart Attack? जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -246,7 +246,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Heart Attack Symptoms in Men</span>
+            <span class="text-gray-700"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men</span>
         </nav>
     </div>
 
@@ -255,7 +255,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 15 min read</span>
@@ -266,11 +266,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>दिल का दौरा (Heart Attack)</strong> एक गंभीर medical emergency है जो तब होता है जब दिल की मांसपेशियों को रक्त की आपूर्ति बाधित हो जाती है। भारत में हर साल लाखों पुरुष दिल के दौरे का शिकार होते हैं। <a href="/blog/heart-attack-symptoms-in-hindi/">दिल के दौरे की व्यापक जानकारी</a> के लिए हमारा ब्लॉग पढ़ें।
+                    <strong>दिल का दौरा (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>)</strong> एक गंभीर medical emergency है जो तब होता है जब दिल की मांसपेशियों को रक्त की आपूर्ति बाधित हो जाती है। भारत में हर साल लाखों पुरुष दिल के दौरे का शिकार होते हैं। <a href="/blog/heart-attack-symptoms-in-hindi/">दिल के दौरे की व्यापक जानकारी</a> के लिए हमारा ब्लॉग पढ़ें।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    समय पर पहचान और इलाज से जान बचाई जा सकती है। पुरुषों में दिल का दौरा अक्सर महिलाओं की तुलना में अलग लक्षणों के साथ होता है। इस article में हम <strong>पुरुषों में दिल के दौरे के लक्षण (Heart Attack Symptoms in Men)</strong> के बारे में विस्तार से जानेंगे।
+                    समय पर पहचान और इलाज से जान बचाई जा सकती है। पुरुषों में दिल का दौरा अक्सर महिलाओं की तुलना में अलग लक्षणों के साथ होता है। इस article में हम <strong>पुरुषों में दिल के दौरे के लक्षण (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men)</strong> के बारे में विस्तार से जानेंगे।
                 </p>
 
                 <div class="bg-red-100 border-2 border-red-500 p-4 rounded-lg mb-6">
@@ -296,7 +296,7 @@
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">तनाव</h4>
-                        <p class="text-sm text-gray-600">काम और पारिवारिक तनाव पुरुषों में अधिक होता है। chronic stress दिल के लिए हानिकारक है।</p>
+                        <p class="text-sm text-gray-600">काम और पारिवारिक तनाव पुरुषों में अधिक होता है। chronic <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> दिल के लिए हानिकारक है।</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">उम्र</h4>
@@ -334,7 +334,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">6. पाचन संबंधी समस्याएं</h4>
-                        <p class="text-sm text-gray-600">अपच, पेट में जलन, या भारीपन जो खाने के बाद भी नहीं जाता। कई बार इसे gas समझ लिया जाता है।</p>
+                        <p class="text-sm text-gray-600">अपच, पेट में जलन, या भारीपन जो खाने के बाद भी नहीं जाता। कई बार इसे <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> समझ लिया जाता है।</p>
                     </div>
                 </div>
 

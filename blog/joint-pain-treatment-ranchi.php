@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Joint Pain Treatment Ranchi - Best Orthopedic Care | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Treatment Ranchi - Best Orthopedic Care | RAJ Hospital Ranchi</title>
     <meta name="description" content="Joint Pain Treatment Ranchi - RAJ Hospital में best orthopedic treatment। Joint pain diagnosis, physiotherapy, और surgery options। Ranchi के best joint specialists।">
     <meta name="keywords" content="joint pain treatment ranchi, orthopedic ranchi, joint specialist ranchi, arthritis treatment ranchi, knee pain treatment">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Joint Pain Treatment Ranchi - Best Orthopedic Care में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Treatment Ranchi - Best Orthopedic Care में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Joint Pain Treatment Ranchi - Best Orthopedic Care | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Treatment Ranchi - Best Orthopedic Care | RAJ Hospital Ranchi",
         "description": "Joint Pain Treatment Ranchi - RAJ Hospital में best orthopedic treatment। Joint pain diagnosis, physiotherapy, और surgery options। Ranchi के best joint specialists।",
         "url": "https://rajhospitals.com/blog/joint-pain-treatment-ranchi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/joint-pain-treatment-ranchi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Joint Pain Treatment Ranchi - Best Orthopedic Care | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Treatment Ranchi - Best Orthopedic Care | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Joint Pain Treatment Ranchi</span>
+            <span class="text-gray-700"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Treatment Ranchi</span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-blue-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Orthopedics</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Joint Pain Treatment Ranchi - Best Orthopedic Care</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Treatment Ranchi - Best Orthopedic Care</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,24 +228,24 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Joint Pain Treatment Ranchi</strong> - Ranchi और आसपास के patients के लिए RAJ Hospital comprehensive orthopedic care प्रदान करता है। हमारी expert team joint pain के हर aspect को address करती है।
+                    <strong><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Treatment Ranchi</strong> - Ranchi और आसपास के patients के लिए RAJ Hospital comprehensive <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">orthopedic</a> care प्रदान करता है। हमारी expert team joint pain के हर aspect को address करती है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Why RAJ Hospital:</strong>
-                    <span class="text-gray-700"> <strong>Experienced orthopedic specialists</strong>, <strong>modern diagnostic facilities</strong>, और <strong>comprehensive treatment plans</strong> - यह सब एक ही जगह।</span>
+                    <span class="text-gray-700"> <strong>Experienced <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">orthopedic</a> specialists</strong>, <strong>modern diagnostic facilities</strong>, और <strong>comprehensive treatment plans</strong> - यह सब एक ही जगह।</span>
                 </div>
 
                 <!-- Section 1: Joint Pain Conditions -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4">Joint Pain के Common Conditions</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-blue-600 pb-2 mt-8 mb-4"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> के Common Conditions</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-blue-600 mb-2">1. Osteoarthritis</h4>
-                        <p class="text-sm text-gray-600">Joint cartilage की wear और tear - सबसे common arthritis type। Mostly knees, hips, और hands को affect करता है।</p>
+                        <p class="text-sm text-gray-600">Joint cartilage की wear और tear - सबसे common <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a> type। Mostly knees, hips, और hands को affect करता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-blue-600 mb-2">2. Rheumatoid Arthritis</h4>
+                        <h4 class="font-bold text-blue-600 mb-2">2. Rheumatoid <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Arthritis</a></h4>
                         <p class="text-sm text-gray-600">Autoimmune condition - immune system joint lining को attack करता है। Swelling और deformities कर सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">

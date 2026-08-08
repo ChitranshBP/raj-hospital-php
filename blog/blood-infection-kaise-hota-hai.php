@@ -237,7 +237,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Sepsis का सबसे severe form <strong>Septic Shock</strong> है, जिसमें blood pressure बहुत कम हो जाता है और organs को adequate blood supply नहीं मिलती। यह condition बिना तुरंत treatment के fatal हो सकती है।
+                    Sepsis का सबसे severe form <strong>Septic Shock</strong> है, जिसमें <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> बहुत कम हो जाता है और organs को adequate blood supply नहीं मिलती। यह condition बिना तुरंत treatment के fatal हो सकती है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -271,7 +271,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Step 5: Septic Shock</h4>
-                        <p class="text-sm text-gray-600">सबसे severe case में, blood pressure dangerous levels तक गिर जाता है, जिससे multiple organ failure हो सकती है और बिना treatment के death तक हो सकती है।</p>
+                        <p class="text-sm text-gray-600">सबसे severe case में, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> dangerous levels तक गिर जाता है, जिससे multiple organ failure हो सकती है और बिना treatment के death तक हो सकती है।</p>
                     </div>
                 </div>
 
@@ -288,8 +288,8 @@
                         <p class="text-sm text-gray-600">Pneumonia या severe flu से भी sepsis हो सकता है। Lung infection के bacteria bloodstream में enter कर सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">2. Urinary Tract Infections (UTI)</h4>
-                        <p class="text-sm text-gray-600">Kidney infections, bladder infections से भी sepsis हो सकता है। यह especially pregnant women और elderly में common है।</p>
+                        <h4 class="font-bold text-secondary-600">2. Urinary Tract Infections (<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">UTI</a>)</h4>
+                        <p class="text-sm text-gray-600">Kidney infections, bladder infections से भी sepsis हो सकता है। यह especially <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women और elderly में common है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Abdominal Infections</h4>
@@ -322,9 +322,9 @@
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
                             <li><strong>90+ age</strong> - बुजुर्गों में immune system weak होता है</li>
                             <li><strong>0-1 age</strong> - नवजात babies में immune system underdeveloped होता है</li>
-                            <li><strong>Pregnant women</strong> - pregnancy में immune changes होते हैं</li>
-                            <li><strong>Chronic diseases</strong> - diabetes, kidney disease, lung disease patients</li>
-                            <li><strong>Cancer patients</strong> - especially chemotherapy ले रहे हों</li>
+                            <li><strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> women</strong> - <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में immune changes होते हैं</li>
+                            <li><strong>Chronic diseases</strong> - <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, kidney disease, lung disease patients</li>
+                            <li><strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> patients</strong> - especially <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">chemotherapy</a> ले रहे हों</li>
                             <li><strong>Immunosuppressed patients</strong> - HIV/AIDS या organ transplant patients</li>
                         </ul>
                     </div>
@@ -341,7 +341,7 @@
                 <div class="raj-callout raj-callout-danger">
                     <ul class="space-y-2 text-gray-700">
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> <strong>High fever (38.3°C+)</strong> या low temperature (36°C below)</li>
-                        <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> <strong>Rapid breathing</strong> - 22 breaths per minute से ज्यादा</li>
+                        <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> <strong>Rapid <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a></strong> - 22 breaths per minute से ज्यादा</li>
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> <strong>Altered mental state</strong> - confusion, drowsiness, या unconsciousness</li>
                     </ul>
                 </div>
@@ -357,7 +357,7 @@
                         <p class="text-sm text-gray-600">Heart rate 90 beats per minute से ज्यादा</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">Low Blood Pressure</h4>
+                        <h4 class="font-bold text-secondary-600">Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a></h4>
                         <p class="text-sm text-gray-600">Systolic BP 100 mmHg से कम</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -368,7 +368,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Emergency Warning:</strong>
-                    <span class="text-gray-700"> अगर severe sepsis या septic shock के signs हों - extreme difficulty breathing, confusion, cyanosis (skin का नीला होना), या unconsciousness - तुरंत <strong>emergency medical help</strong> लें।</span>
+                    <span class="text-gray-700"> अगर severe sepsis या septic shock के signs हों - extreme difficulty <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a>, confusion, cyanosis (skin का नीला होना), या unconsciousness - तुरंत <strong>emergency medical help</strong> लें।</span>
                 </div>
 
                 <!-- Section 6: Diagnosis -->

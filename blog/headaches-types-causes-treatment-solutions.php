@@ -24,7 +24,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Headaches Types, Causes and Treatment Solutions - Complete Guide",
-        "description": "Comprehensive guide on headache types including migraine, tension headache, cluster headache with causes, symptoms and treatment options.",
+        "description": "Comprehensive guide on <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> types including migraine, tension headache, cluster headache with causes, symptoms and treatment options.",
         "url": "https://rajhospitals.com/blog/headaches-types-causes-treatment-solutions/",
         "author": {
             "@type": "Organization",
@@ -83,10 +83,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Headache ke kitne types hote hain?",
+                "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> ke kitne types hote hain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Sabse common headache types hain: 1) Tension Headache - stress aur muscle tension se hota hai, 2) Migraine - severe one-sided pain with nausea, 3) Cluster Headache - very painful, happens in groups, 4) Sinus Headache - sinus infection se, 5) rebound Headache - overmedication se, 6) Cervicogenic Headache - neck problem se. Har type ka alag treatment hota hai."
+                    "text": "Sabse common headache types hain: 1) Tension Headache - <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> aur muscle tension se hota hai, 2) Migraine - severe one-sided pain with nausea, 3) Cluster Headache - very painful, happens in groups, 4) Sinus Headache - sinus infection se, 5) rebound Headache - overmedication se, 6) Cervicogenic Headache - neck problem se. Har type ka alag treatment hota hai."
                 }
             },
             {
@@ -102,12 +102,12 @@
                 "name": "Gharelu upay se headache kaise theek karein?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Home remedies for headache: 1) Rest in dark quiet room, 2) Cold or warm compress on forehead, 3) Gentle head massage, 4) Peppermint oil application on temples, 5) Ginger tea for nausea, 6) Stay hydrated, 7) Deep breathing exercises, 8) Avoid screen time. Agar headache 3+ days tak ho ya worsen ho, toh doctor se milna chahiye."
+                    "text": "Home remedies for headache: 1) Rest in dark quiet room, 2) Cold or warm compress on forehead, 3) Gentle head massage, 4) Peppermint oil application on temples, 5) Ginger tea for nausea, 6) Stay hydrated, 7) Deep <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a> exercises, 8) Avoid screen time. Agar headache 3+ days tak ho ya worsen ho, toh doctor se milna chahiye."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Kabhi kabhi headache heart attack ka symptom toh nahi hai?",
+                "name": "Kabhi kabhi headache <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> ka symptom toh nahi hai?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Headache usually heart attack ka symptom nahi hai, lekin kuch cases mein stroke (brain attack) ka warning sign ho sakta hai. Agar headache suddenly bahut severe ho, vision problems ho, body ek side paralized ho, speech problem ho, toh immediately emergency treatment lo. RAJ Hospital Ranchi mein stroke treatment available hai."
@@ -252,7 +252,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100 bg-gradient-to-r from-primary-500 to-primary-600 text-white">
-                <span class="inline-block bg-white/20 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology Health</span>
+                <span class="inline-block bg-white/20 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold mb-4">Headaches Types, Causes aur Treatment Solutions - Complete Guide</h1>
                 <p class="text-lg opacity-90 mb-4">सिरदर्द के प्रकार, कारण और इलाज के तरीके - एक complete guide</p>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-white/80">
@@ -265,16 +265,16 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Headache (सिरदर्द)</strong> ek bahut common health problem hai jisse har person kabhi na kabhi experience karta hai. Kuch log occasionally headache hone se bahut taklifful maante hain, jabki kuch logon ke liye ye ek chronic condition ban sakti hai jo daily life ko affect karti hai. Is article mein hum headaches ke different types, unke causes, symptoms aur modern treatment options ke baare mein baat karenge.
+                    <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> (सिरदर्द)</strong> ek bahut common health problem hai jisse har person kabhi na kabhi experience karta hai. Kuch log occasionally <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> hone se bahut taklifful maante hain, jabki kuch logon ke liye ye ek chronic condition ban sakti hai jo daily life ko affect karti hai. Is article mein hum headaches ke different types, unke causes, symptoms aur modern treatment options ke baare mein baat karenge.
                 </p>
 
                 <div class="bg-blue-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <strong class="text-primary-700">Important Note:</strong>
-                    <span class="text-gray-700"> Agar aapko <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">stroke</a> ya <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">migraine</a> ka suspicion hai, toh immediately doctor se milna chahiye. RAJ Hospital Ranchi mein neurology experts available hain.</span>
+                    <span class="text-gray-700"> Agar aapko <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a> ya <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a></a> ka suspicion hai, toh immediately doctor se milna chahiye. RAJ Hospital Ranchi mein <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> experts available hain.</span>
                 </div>
 
                 <!-- Section 1: Types of Headaches -->
-                <h2 class="raj-h2-secondary">Headache ke Different Types (सिरदर्द के प्रकार)</h2>
+                <h2 class="raj-h2-secondary"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> ke Different Types (सिरदर्द के प्रकार)</h2>
 
                 <p class="text-gray-700 mb-4">
                     Headaches ko mainly do categories mein divide kiya gaya hai: <strong>Primary Headaches</strong> (jo khud ki condition hain) aur <strong>Secondary Headaches</strong> (jo kisi aur problem se hoti hain). Aao details mein samjhein:

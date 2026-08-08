@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital</title>
+    <title>Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Throat cancer ke symptoms in Hindi जानें। गले के कैंसर के शुरुआती signs, causes, और treatment options। Early detection और prevention tips।">
     <meta name="keywords" content="throat cancer symptoms in hindi, gale ka cancer, galte ke cancer ke lakshan, throat cancer warning signs">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital",
+        "headline": "Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital",
         "description": "Throat cancer ke symptoms in Hindi जानें। गले के कैंसर के शुरुआती signs, causes, और treatment options। Early detection और prevention tips।",
         "url": "https://rajhospitals.com/blog/throat-cancer-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/throat-cancer-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital"
+                "name": "Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital"
             }
         ]
     }
@@ -202,7 +202,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Throat Cancer Symptoms in Hindi</span>
+            <span class="text-gray-700">Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi</span>
         </nav>
     </div>
 
@@ -213,8 +213,8 @@
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Oncology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Oncology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
@@ -224,18 +224,18 @@
 
             <div class="p-6 md:p-10">
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Throat cancer</strong> यानी गले का कैंसर एक गंभीर health condition है जो दुनिया भर में हजारों लोगों को प्रभावित करती है। <strong>Throat cancer symptoms in Hindi</strong> समझना बहुत जरूरी है क्योंकि early detection से treatment की success rate काफी बढ़ जाती है।
+                    <strong>Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a></strong> यानी गले का कैंसर एक गंभीर health condition है जो दुनिया भर में हजारों लोगों को प्रभावित करती है। <strong>Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> symptoms in Hindi</strong> समझना बहुत जरूरी है क्योंकि early detection से treatment की success rate काफी बढ़ जाती है।
                 </p>
 
-                <h2 class="raj-h2">Throat Cancer क्या है? (What is Throat Cancer?)</h2>
+                <h2 class="raj-h2">Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> क्या है? (What is Throat Cancer?)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Throat cancer</strong> तब होता है जब गले (throat) की cells में abnormal growth शुरू हो जाती है। यह larynx (vocal cords), pharynx (गले का मध्य भाग), या tonsils में हो सकता है। सबसे common type <strong>Squamous Cell Carcinoma</strong> है जो गले की inner lining से शुरू होता है।
+                    <strong>Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a></strong> तब होता है जब गले (throat) की cells में abnormal growth शुरू हो जाती है। यह larynx (vocal cords), pharynx (गले का मध्य भाग), या tonsils में हो सकता है। सबसे common type <strong>Squamous Cell Carcinoma</strong> है जो गले की inner lining से शुरू होता है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> India में हर साल 50,000 से अधिक new throat cancer cases reported होते हैं। Early detection survival rate को 80-90% तक बढ़ा सकता है।</span>
+                    <span class="text-gray-700"> India में हर साल 50,000 से अधिक new throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> cases reported होते हैं। Early detection survival rate को 80-90% तक बढ़ा सकता है।</span>
                 </div>
 
                 <h2 class="raj-h2">Throat Cancer के शुरुआती लक्षण (Early Symptoms)</h2>

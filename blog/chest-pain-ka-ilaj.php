@@ -53,7 +53,7 @@
             "name": "क्या सीने में दर्द का इलाज (Chest Pain Treatment) दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Gas Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -216,7 +216,7 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiac Emergency</span>
+                <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Cardiac</a> Emergency</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 17, 2026</span>
@@ -228,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>सीने में दर्द (Chest Pain)</strong> एक गंभीर लक्षण हो सकता है जिसे कभी भी नजरअंदाज नहीं किया जाना चाहिए। हालांकि सभी सीने दर्द गंभीर नहीं होते, लेकिन <strong>heart attack</strong> जैसी खतरनाक स्थितियों को ruled out करना बहुत जरूरी है।
+                    <strong>सीने में दर्द (Chest Pain)</strong> एक गंभीर लक्षण हो सकता है जिसे कभी भी नजरअंदाज नहीं किया जाना चाहिए। हालांकि सभी सीने दर्द गंभीर नहीं होते, लेकिन <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a></strong> जैसी खतरनाक स्थितियों को ruled out करना बहुत जरूरी है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -246,7 +246,7 @@
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
-                        <h4 class="font-bold text-red-600">1. हृदय संबंधी दर्द (Cardiac Pain)</h4>
+                        <h4 class="font-bold text-red-600">1. हृदय संबंधी दर्द (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Cardiac</a> Pain)</h4>
                         <p class="text-sm text-gray-600">दिल की artery में blockage से होता है। यह दर्द आमतौर पर सीने के बीच में होता है और बांह, गर्दन या जबड़े में फैल सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -259,15 +259,15 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-yellow-500">
                         <h4 class="font-bold text-yellow-700">4. पाचन संबंधी दर्द</h4>
-                        <p class="text-sm text-gray-600">GERD, acidity, या gallbladder problems से होता है। भोजन के बाद बढ़ता है।</p>
+                        <p class="text-sm text-gray-600">GERD, <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a>, या gallbladder problems से होता है। भोजन के बाद बढ़ता है।</p>
                     </div>
                 </div>
 
                 <!-- Section 2: Heart Attack Signs -->
-                <h2 class="raj-h2">Heart Attack के लक्षण कब दिखते हैं?</h2>
+                <h2 class="raj-h2"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> के लक्षण कब दिखते हैं?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Heart attack</strong> के symptoms हर व्यक्ति में समान नहीं होते। कुछ लोगों को कुछ signs दिखते हैं, जबकि अन्य बिना किसी warning के heart attack झेल सकते हैं।
+                    <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a></strong> के symptoms हर व्यक्ति में समान नहीं होते। कुछ लोगों को कुछ signs दिखते हैं, जबकि अन्य बिना किसी warning के <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> झेल सकते हैं।
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -281,7 +281,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> महिलाओं में ध्यान दें:</strong>
-                    <span class="text-gray-700"> महिलाओं में heart attack के कुछ atypical symptoms हो सकते हैं जैसे अत्यधिक थकान, पेट दर्द, और anxiety।</span>
+                    <span class="text-gray-700"> महिलाओं में <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> के कुछ atypical symptoms हो सकते हैं जैसे अत्यधिक थकान, पेट दर्द, और <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a>।</span>
                 </div>
 
                 <!-- Section 3: Treatment -->
@@ -304,7 +304,7 @@
                     <div class="bg-green-50 p-4 rounded-lg">
                         <div class="font-bold text-green-700 mb-2">अन्य कारणों का इलाज</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>Antacids (acidity के लिए)</li>
+                            <li>Antacids (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a> के लिए)</li>
                             <li>Antibiotics (infection के लिए)</li>
                             <li>Anti-inflammatory दवाइयां</li>
                             <li>Anxiety management</li>

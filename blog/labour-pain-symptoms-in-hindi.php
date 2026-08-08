@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Labour Pain Symptoms in Hindi - प्रसव पीड़ा के लक्षण",
-        "description": "प्रसव पीड़ा के लक्षण - प्रसव के संकेत, असली vs झूठी पीड़ा, कब hospital जाएं। RAJ Hospital Ranchi में best maternity care।",
+        "description": "प्रसव पीड़ा के लक्षण - प्रसव के संकेत, असली vs झूठी पीड़ा, कब hospital जाएं। RAJ Hospital Ranchi में best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> care।",
         "url": "https://rajhospitals.com/blog/labour-pain-symptoms-in-hindi/",
         "author": {
             "@type": "Organization",
@@ -117,7 +117,7 @@
                 "name": "प्रसव के लिए कब hospital जाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "इन संकेतों पर तुरंत hospital जाएं: 1) 5 मिनट के अंदर regular contractions 2) Amniotic fluid का टूटना 3) Heavy bleeding 4) बच्चे की movement में कमी 5) तेज दर्द जो unbearable है 6) blurred vision या severe headache।"
+                    "text": "इन संकेतों पर तुरंत hospital जाएं: 1) 5 मिनट के अंदर regular contractions 2) Amniotic fluid का टूटना 3) Heavy bleeding 4) बच्चे की movement में कमी 5) तेज दर्द जो unbearable है 6) blurred vision या severe <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>।"
                 }
             },
             {
@@ -125,7 +125,7 @@
                 "name": "प्रसव पीड़ा में दर्द कैसे manage करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "प्रसव में दर्द management: 1) Breathing exercises (deep breathing, patterned breathing) 2) Position changes (walking, squatting, changing sides) 3) Massage और warmth 4) Labor tub या shower 5) Pain medications (doctor की सलाह से) 6) epidural anesthesia (अगर needed हो तो)।"
+                    "text": "प्रसव में दर्द management: 1) <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> exercises (deep breathing, patterned breathing) 2) Position changes (walking, squatting, changing sides) 3) Massage और warmth 4) Labor tub या shower 5) Pain medications (doctor की सलाह से) 6) epidural anesthesia (अगर needed हो तो)।"
                 }
             },
             {
@@ -133,7 +133,7 @@
                 "name": "Normal delivery में कितना समय लगता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "First-time mothers में average labour duration: early labour 6-12 hours, active labour 4-8 hours, pushing 1-2 hours। Experienced mothers में यह कम हो सकता है। हर pregnancy अलग होती है। RAJ Hospital में continuous monitoring होती है।"
+                    "text": "First-time mothers में average labour duration: early labour 6-12 hours, active labour 4-8 hours, pushing 1-2 hours। Experienced mothers में यह कम हो सकता है। हर <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> अलग होती है। RAJ Hospital में continuous monitoring होती है।"
                 }
             }
         ]
@@ -203,7 +203,7 @@
 
                 <div class="bg-pink-100 border-2 border-pink-500 p-4 rounded-lg mb-6">
                     <strong class="text-pink-600 text-lg">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> हर pregnancy अलग होती है। अगर आपको कोई भी असामान्य symptom दिखे, तो immediately अपने doctor से contact करें। RAJ Hospital Ranchi में 24/7 emergency maternity care available है।</span>
+                    <span class="text-gray-700"> हर <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> अलग होती है। अगर आपको कोई भी असामान्य symptom दिखे, तो immediately अपने doctor से contact करें। RAJ Hospital Ranchi में 24/7 emergency maternity care available है।</span>
                 </div>
 
                 <h2 class="raj-h2-secondary">प्रसव पीड़ा (Labour Pain) क्या है?</h2>
@@ -318,7 +318,7 @@
                         <li>Amniotic fluid का टूटना (भले ही contractions न हों)</li>
                         <li>Heavy vaginal bleeding</li>
                         <li>बच्चे की movement में कमी</li>
-                        <li>Blurred vision, severe headache, या sudden swelling</li>
+                        <li>Blurred vision, severe <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>, या sudden swelling</li>
                         <li>Fever या chills</li>
                         <li>Persistent severe pain</li>
                     </ul>
@@ -334,7 +334,7 @@
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">1. Natural Pain Relief Methods</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>Deep breathing exercises</li>
+                            <li>Deep <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a> exercises</li>
                             <li>Position changes (walking, squatting, hands-and-knees)</li>
                             <li>Warm shower या bath</li>
                             <li>Massage (lower back, shoulders)</li>
@@ -348,7 +348,7 @@
                             <li>Epidural anesthesia (सबसे common और effective)</li>
                             <li>Spinal block</li>
                             <li>IV pain medications</li>
-                            <li>Nitrous oxide (gas/air)</li>
+                            <li>Nitrous oxide (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a>/air)</li>
                         </ul>
                     </div>
                 </div>
@@ -367,7 +367,7 @@
                             <li>Labour plan (birth plan) बनाएं</li>
                             <li>Delivery bag pack करें</li>
                             <li>Doctor से pain relief options discuss करें</li>
-                            <li>Labour breathing techniques सीखें</li>
+                            <li>Labour <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a> techniques सीखें</li>
                             <li>Support person की arrangement करें</li>
                         </ul>
                     </div>
@@ -386,7 +386,7 @@
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">गर्भावस्था और प्रसव में Expert Care</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में best maternity services - experienced gynecologists, modern labour rooms, और 24/7 emergency care। <a href="/blog/best-maternity-hospital-in-ranchi/" class="underline">Best Maternity Hospital in Ranchi</a> पर visit करें।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> services - experienced gynecologists, modern labour rooms, और 24/7 emergency care। <a href="/blog/best-maternity-hospital-in-ranchi/" class="underline">Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi</a> पर visit करें।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
@@ -403,7 +403,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">कब hospital जाना चाहिए?</h4>
-                        <p class="text-gray-700">इन संकेतों पर immediately hospital जाएं: <strong>5 मिनट के अंदर regular contractions, amniotic fluid का टूटना, heavy bleeding, baby की movement में कमी, blurred vision, या severe headache</strong>।</p>
+                        <p class="text-gray-700">इन संकेतों पर immediately hospital जाएं: <strong>5 मिनट के अंदर regular contractions, amniotic fluid का टूटना, heavy bleeding, baby की movement में कमी, blurred vision, या severe <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></strong>।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">प्रसव पीड़ा में दर्द कैसे manage करें?</h4>

@@ -281,7 +281,7 @@
                             </div>
                             <div class="bg-purple-50 p-4 rounded-xl">
                                 <h4 class="font-bold text-purple-700 mb-2">2. Secondary Shighrapatan</h4>
-                                <p class="text-gray-600 text-sm">पहले normal था, बाद में problem आई। यह stress, anxiety, या physical cause की वजह से होता है।</p>
+                                <p class="text-gray-600 text-sm">पहले normal था, बाद में problem आई। यह <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, anxiety, या physical cause की वजह से होता है।</p>
                             </div>
                         </div>
                     </div>
@@ -297,9 +297,9 @@
                             <h3 class="text-lg font-bold text-gray-800 mb-3"><i data-feather="cpu" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> मनोवैज्ञानिक कारण (Psychological)</h3>
                             <div class="grid md:grid-cols-2 gap-3">
                                 <ul class="list-disc list-inside text-gray-600 space-y-1">
-                                    <li><strong>Anxiety:</strong> Performance की चिंता</li>
-                                    <li><strong>Stress:</strong> Work या personal life की stress</li>
-                                    <li><strong>Depression:</strong> Mental health issues</li>
+                                    <li><strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a>:</strong> Performance की चिंता</li>
+                                    <li><strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a>:</strong> Work या personal life की <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a></li>
+                                    <li><strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a>:</strong> <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Mental health</a> issues</li>
                                 </ul>
                                 <ul class="list-disc list-inside text-gray-600 space-y-1">
                                     <li><strong>Guilt:</strong> पहले की negative experiences</li>
@@ -316,10 +316,10 @@
                                 <ul class="list-disc list-inside text-gray-600 space-y-1">
                                     <li><strong>Hormonal imbalances:</strong> Serotonin levels low</li>
                                     <li><strong>Prostate issues:</strong> Prostatitis या BPH</li>
-                                    <li><strong>Thyroid problems:</strong> Hyperthyroidism</li>
+                                    <li><strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> problems:</strong> Hyperthyroidism</li>
                                 </ul>
                                 <ul class="list-disc list-inside text-gray-600 space-y-1">
-                                    <li><strong>Diabetes:</strong> Nerve damage</li>
+                                    <li><strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a>:</strong> Nerve damage</li>
                                     <li><strong>High BP:</strong> Blood flow affected</li>
                                     <li><strong>Neurological conditions:</strong> Nerve-related issues</li>
                                 </ul>
@@ -382,8 +382,8 @@
                                 <h3 class="text-lg font-bold text-purple-700 mb-3">Related Problems (संबंधित समस्याएं)</h3>
                                 <ul class="list-disc list-inside text-gray-700 space-y-2">
                                     <li>Low confidence और self-esteem</li>
-                                    <li>Performance anxiety बढ़ना</li>
-                                    <li>Stress और frustration</li>
+                                    <li>Performance <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> बढ़ना</li>
+                                    <li><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> और frustration</li>
                                     <li>Partner से दूरी</li>
                                     <li>शर्म और shame की feeling</li>
                                 </ul>
@@ -433,8 +433,8 @@
                                     <p class="text-gray-600 text-sm">Pelvic floor muscles को strengthen करने से control बेहतर होता है।</p>
                                 </div>
                                 <div>
-                                    <h4 class="font-semibold text-teal-700 mb-2">Pause Breathing</h4>
-                                    <p class="text-gray-600 text-sm">Deep breathing से anxiety कम होती है और performance बेहतर होती है।</p>
+                                    <h4 class="font-semibold text-teal-700 mb-2">Pause <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a></h4>
+                                    <p class="text-gray-600 text-sm">Deep <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a> से anxiety कम होती है और performance बेहतर होती है।</p>
                                 </div>
                             </div>
                         </div>

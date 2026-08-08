@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Headache Treatment at Home: 10 Effective Remedies for Quick Relief | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: 10 Effective Remedies for Quick Relief | RAJ Hospital Ranchi</title>
     <meta name="description" content="Headache treatment at home — 10 doctor-approved remedies for fast, natural relief from tension headaches and migraines, plus the warning signs that mean you should see a doctor. From RAJ Hospital Ranchi.">
     <meta name="keywords" content="headache treatment at home, home remedies for headache, headache relief at home, natural headache remedies, how to cure headache at home, quick headache relief, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Headache Treatment at Home: 10 Effective Remedies for Quick Relief",
+        "headline": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: 10 Effective Remedies for Quick Relief",
         "description": "Doctor-approved home remedies for fast, natural headache relief, with guidance on when to seek medical care.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Headache Treatment at Home" }
+            { "@type": "ListItem", "position": 3, "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home" }
         ]
     }
     </script>
@@ -75,7 +75,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Headache Treatment at Home",
+        "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home",
         "description": "Ten evidence-informed home remedies for headache relief, with clear guidance on warning signs and when to see a doctor.",
         "url": "https://rajhospitals.com/blog/headache-treatment-at-home/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -98,7 +98,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "How can I get rid of a headache fast at home?",
+                "name": "How can I get rid of a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> fast at home?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Drink a glass or two of water, rest in a quiet dark room, apply a cold or warm compress to your head or neck, gently massage your temples, and try a small cup of caffeine if you are not caffeine-sensitive. Most tension headaches ease within an hour with these steps. An over-the-counter pain reliever can help occasional headaches when used as directed."
@@ -109,7 +109,7 @@
                 "name": "What is the most common cause of everyday headaches?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The most common type is the tension headache, usually caused by dehydration, stress, poor posture, eye strain from screens, skipped meals, lack of sleep, or muscle tightness in the neck and shoulders. Migraines are the next most common and often have specific triggers such as certain foods, hormonal changes, bright light or missed sleep."
+                    "text": "The most common type is the tension headache, usually caused by dehydration, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, poor posture, eye strain from screens, skipped meals, lack of sleep, or muscle tightness in the neck and shoulders. Migraines are the next most common and often have specific triggers such as certain foods, hormonal changes, bright light or missed sleep."
                 }
             },
             {
@@ -151,7 +151,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Headache Treatment at Home</span>
+            <span class="text-gray-700"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home</span>
         </nav>
     </div>
 
@@ -164,19 +164,19 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Headache Treatment at Home: 10 Effective Remedies for Quick Relief</h1>
+                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: 10 Effective Remedies for Quick Relief</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> July 31, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Neurology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    Almost everyone gets a headache from time to time — and most of them can be eased at home without a trip to the pharmacy. From dehydration and screen strain to stress and skipped meals, everyday headaches usually have simple, fixable causes. The neurologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, have put together these <strong>10 effective home remedies for quick headache relief</strong> — along with the warning signs that tell you it's time to see a doctor instead of reaching for another painkiller.
+                    Almost everyone gets a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> from time to time — and most of them can be eased at home without a trip to the pharmacy. From dehydration and screen strain to <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> and skipped meals, everyday headaches usually have simple, fixable causes. The neurologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, have put together these <strong>10 effective home remedies for quick headache relief</strong> — along with the warning signs that tell you it's time to see a doctor instead of reaching for another painkiller.
                 </p>
 
                 <div class="raj-callout raj-callout-info">

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital</title>
+    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Thyroid symptoms in Hindi जानें। Thyroid ke lakshan, thyroid problems ke symptoms, hypothyroidism aur hyperthyroidism ke signs। Treatment और prevention।">
     <meta name="keywords" content="thyroid symptoms in hindi, thyroid ke lakshan, thyroid problems symptoms, thyroid in hindi, thyroid disease symptoms">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Thyroid Symptoms in Hindi | Thyroid ke Lakshan में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital",
+        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital",
         "description": "Thyroid symptoms in Hindi जानें। Thyroid ke lakshan, thyroid problems ke symptoms, hypothyroidism aur hyperthyroidism ke signs। Treatment और prevention।",
         "url": "https://rajhospitals.com/blog/thyroid-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/thyroid-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital"
+                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital"
             }
         ]
     }
@@ -202,7 +202,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Thyroid Symptoms in Hindi</span>
+            <span class="text-gray-700"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi</span>
         </nav>
     </div>
 
@@ -214,7 +214,7 @@
 
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Endocrinology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
@@ -224,18 +224,18 @@
 
             <div class="p-6 md:p-10">
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Thyroid symptoms in Hindi</strong> जानना आजकल बहुत important है क्योंकि thyroid disorders भारत में बहुत common हो गए हैं। लगभग 42 million Indians में thyroid disorders हैं। इस article में हम <strong>thyroid ke lakshan</strong> और उनके treatment के बारे में detail से जानेंगे।
+                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> symptoms in Hindi</strong> जानना आजकल बहुत important है क्योंकि <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> disorders भारत में बहुत common हो गए हैं। लगभग 42 million Indians में thyroid disorders हैं। इस article में हम <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> ke lakshan</strong> और उनके treatment के बारे में detail से जानेंगे।
                 </p>
 
-                <h2 class="raj-h2">Thyroid क्या है? (What is Thyroid?)</h2>
+                <h2 class="raj-h2"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> क्या है? (What is Thyroid?)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Thyroid</strong> एक छोटा butterfly-shaped gland है जो आपकी गर्दन के सामने, Adam's apple के नीचे स्थित होता है। यह दो important hormones produce करता है - <strong>T3 (Triiodothyronine)</strong> और <strong>T4 (Thyroxine)</strong> - जो आपके शरीर की metabolism, energy, और growth को control करते हैं।
+                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a></strong> एक छोटा butterfly-shaped gland है जो आपकी गर्दन के सामने, Adam's apple के नीचे स्थित होता है। यह दो important hormones produce करता है - <strong>T3 (Triiodothyronine)</strong> और <strong>T4 (Thyroxine)</strong> - जो आपके शरीर की metabolism, energy, और growth को control करते हैं।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> Thyroid hormones का असर लगभग हर organ पर पड़ता है - दिल, मस्तिष्क, मांसपेशियां, और भी कई system। Thyroid की properly function करना overall health के लिए जरूरी है।</span>
+                    <span class="text-gray-700"> <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> hormones का असर लगभग हर organ पर पड़ता है - दिल, मस्तिष्क, मांसपेशियां, और भी कई system। Thyroid की properly function करना overall health के लिए जरूरी है।</span>
                 </div>
 
                 <h2 class="raj-h2">Hypothyroidism के Symptoms (कम thyroid)</h2>

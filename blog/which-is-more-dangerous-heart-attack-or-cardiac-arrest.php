@@ -8,7 +8,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Which Is More Dangerous: Heart Attack or Cardiac Arrest? Doctor-Explained | RAJ Hospital Ranchi</title>
+    <title>Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest? Doctor-Explained | RAJ Hospital Ranchi</title>
     <meta name="description" content="Which is more dangerous: heart attack or cardiac arrest? Cardiologists at RAJ Hospital Ranchi explain the survival rates, time-criticality, and how to respond to each emergency.">
     <meta name="keywords" content="which is more dangerous heart attack or cardiac arrest, heart attack vs cardiac arrest survival, sudden cardiac arrest survival, CPR survival rate, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
@@ -43,7 +43,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Which Is More Dangerous: Heart Attack or Cardiac Arrest? Doctor-Explained",
+        "headline": "Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest? Doctor-Explained",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-16",
@@ -60,7 +60,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Which Is More Dangerous: Heart Attack or Cardiac Arrest?" }
+            { "@type": "ListItem", "position": 3, "name": "Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest?" }
         ]
     }
     </script>
@@ -70,7 +70,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Which Is More Dangerous: Heart Attack or Cardiac Arrest?",
+        "name": "Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest?",
         "description": "A cardiologist-reviewed comparison of acute myocardial infarction and sudden cardiac arrest, with survival statistics and emergency response protocols.",
         "url": "https://rajhospitals.com/blog/which-is-more-dangerous-heart-attack-or-cardiac-arrest/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -93,7 +93,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Which is more dangerous: heart attack or cardiac arrest?",
+                "name": "Which is more dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> or cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Cardiac arrest is the more immediately fatal event. Without CPR and defibrillation within 3-5 minutes, brain death begins and survival drops by 7-10% per minute. A heart attack is also life-threatening but usually allows more time — modern primary angioplasty can save heart muscle and life if performed within 90-120 minutes."
@@ -128,7 +128,7 @@
                 "name": "What is the best way to protect yourself from both?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Control the shared risk factors: stop smoking, keep LDL cholesterol low, manage blood pressure and diabetes, exercise 150 minutes a week, manage stress, learn CPR, and know your family history. RAJ Hospital's preventive cardiology clinic in Ranchi offers all of these under one roof."
+                    "text": "Control the shared risk factors: stop smoking, keep LDL cholesterol low, manage blood pressure and <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, exercise 150 minutes a week, manage <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, learn CPR, and know your family history. RAJ Hospital's preventive cardiology clinic in Ranchi offers all of these under one roof."
                 }
             }
         ]
@@ -146,7 +146,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Which Is More Dangerous: Heart Attack or Cardiac Arrest?</span>
+            <span class="text-gray-700">Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest?</span>
         </nav>
     </div>
 
@@ -158,7 +158,7 @@
 
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Emergency Medicine</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Which Is More Dangerous: Heart Attack or Cardiac Arrest?</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest?</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 16, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
@@ -169,12 +169,12 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Which is more dangerous: heart attack or cardiac arrest?</strong> It is one of the most-Googled cardiology questions in India, and one that the emergency and cardiology team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, fields every week. The short answer is: <em>cardiac arrest is the more immediately fatal event, but a heart attack is the more common cause of cardiac arrest, and both are time-critical emergencies.</em> This guide, written by a cardiologist for patients and families, compares the two on survival, time-to-treatment, and what you can do today to lower your risk.
+                    <strong>Which is more dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> or cardiac arrest?</strong> It is one of the most-Googled cardiology questions in India, and one that the emergency and cardiology team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, fields every week. The short answer is: <em><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> arrest is the more immediately fatal event, but a heart attack is the more common cause of cardiac arrest, and both are time-critical emergencies.</em> This guide, written by a cardiologist for patients and families, compares the two on survival, time-to-treatment, and what you can do today to lower your risk.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-red-700">Quick Answer:</strong>
-                    <span class="text-gray-700"> <strong>Cardiac arrest is more immediately fatal</strong> — without CPR within minutes, survival is &lt;5% in India. A heart attack is also life-threatening but modern primary angioplasty at a centre like <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a> can save heart muscle and life if done within 90–120 minutes. The single most useful thing a family can do is <strong>learn hands-only CPR</strong> — it more than doubles the odds of a loved one surviving a cardiac arrest.</span>
+                    <span class="text-gray-700"> <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Cardiac</a> arrest is more immediately fatal</strong> — without CPR within minutes, survival is &lt;5% in India. A heart attack is also life-threatening but modern primary angioplasty at a centre like <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a> can save heart muscle and life if done within 90–120 minutes. The single most useful thing a family can do is <strong>learn hands-only CPR</strong> — it more than doubles the odds of a loved one surviving a cardiac arrest.</span>
                 </div>
 
                 <h2 class="raj-h2">The Two Emergencies — A Quick Recap</h2>

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Is Yawning a Sign of a Heart Attack? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
+    <title>Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Is yawning a sign of a heart attack? Cardiologists at RAJ Hospital Ranchi explain the link between excessive yawning, vasovagal response, and heart attack — when to worry and when it is harmless.">
     <meta name="keywords" content="is yawning a sign of heart attack, excessive yawning heart, yawning before heart attack, vagus nerve yawn, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Is Yawning a Sign of a Heart Attack? Doctor-Explained Guide",
+        "headline": "Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-10",
@@ -59,7 +59,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Is Yawning a Sign of a Heart Attack?" }
+            { "@type": "ListItem", "position": 3, "name": "Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?" }
         ]
     }
     </script>
@@ -69,7 +69,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Is Yawning a Sign of a Heart Attack?",
+        "name": "Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?",
         "description": "Cardiologist-reviewed guide to excessive yawning, the vagus nerve, and when yawning may signal a heart attack or other medical condition.",
         "url": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -93,7 +93,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Is excessive yawning a sign of a heart attack?",
+                "name": "Is excessive yawning a sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Yawning alone is not a heart attack symptom. However, sudden and excessive yawning combined with chest discomfort, cold sweat, lightheadedness, or breathlessness can occasionally precede a heart attack — particularly in women, diabetics, and the elderly. The mechanism is thought to be vagal: the vagus nerve, when stimulated by reduced cardiac output, triggers yawning as a way to increase oxygen intake."
@@ -112,7 +112,7 @@
                 "name": "What other conditions cause excessive yawning?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Excessive yawning is most often caused by sleep deprivation, fatigue, anxiety, medications (SSRIs, antihistamines), low blood pressure, anaemia, hypothyroidism, or brain-stem disorders such as multiple sclerosis. It is only rarely a cardiac warning sign — but when it is, it is almost always accompanied by other symptoms."
+                    "text": "Excessive yawning is most often caused by sleep deprivation, fatigue, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a>, medications (SSRIs, antihistamines), low blood pressure, anaemia, hypothyroidism, or brain-stem disorders such as multiple sclerosis. It is only rarely a cardiac warning sign — but when it is, it is almost always accompanied by other symptoms."
                 }
             },
             {
@@ -146,7 +146,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Is Yawning a Sign of a Heart Attack?</span>
+            <span class="text-gray-700">Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?</span>
         </nav>
     </div>
 
@@ -157,24 +157,24 @@
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-blue-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Neurology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Is Yawning a Sign of a Heart Attack? Doctor-Explained Guide</h1>
+                <span class="inline-block bg-blue-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 10, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology & Neurology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology & <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Is yawning a sign of a heart attack?</strong> On its own, no. But sudden, repetitive yawning minutes before chest tightness is a symptom that cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, take seriously — especially in women, diabetics, and elderly patients. This guide explains the science behind pre-heart-attack yawning, the role of the vagus nerve, the red flags that warrant an ER visit, and the more common (and benign) reasons people yawn too much.
+                    <strong>Is yawning a sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?</strong> On its own, no. But sudden, repetitive yawning minutes before chest tightness is a symptom that cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, take seriously — especially in women, diabetics, and elderly patients. This guide explains the science behind pre-heart-attack yawning, the role of the vagus nerve, the red flags that warrant an ER visit, and the more common (and benign) reasons people yawn too much.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Quick Answer:</strong>
-                    <span class="text-gray-700"> Yawning <strong>alone</strong> is not a heart attack symptom. But <strong>sudden, excessive yawning combined with chest discomfort, sweating, lightheadedness, or breathlessness</strong> can be a vagal warning sign of a heart attack, especially in women and diabetics. If you have these together, treat it as a possible heart attack and visit the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac ER at RAJ Hospital Ranchi</a> for an ECG and troponin test.</span>
+                    <span class="text-gray-700"> Yawning <strong>alone</strong> is not a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> symptom. But <strong>sudden, excessive yawning combined with chest discomfort, sweating, lightheadedness, or breathlessness</strong> can be a vagal warning sign of a heart attack, especially in women and diabetics. If you have these together, treat it as a possible heart attack and visit the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac ER at RAJ Hospital Ranchi</a> for an ECG and troponin test.</span>
                 </div>
 
                 <h2 class="raj-h2">Why We Yawn — The Vagus Nerve Connection</h2>

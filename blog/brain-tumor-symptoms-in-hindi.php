@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brain Tumor Symptoms in Hindi - Complete Guide | RAJ Hospital Ranchi</title>
+    <title>Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> Symptoms in Hindi - Complete Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Brain Tumor के लक्षण, प्रकार, कारण और इलाज के बारे में जानें। कब doctor से मिलें - Complete Hindi Guide। Ranchi के best neurologists।">
     <meta name="keywords" content="brain tumor, brain tumor symptoms, मस्तिष्क घातुक, लक्षण, neurology, ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Brain Tumor Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -50,7 +50,7 @@
         },
         {
             "@type": "Question",
-            "name": "क्या Brain Tumor Symptoms in Hindi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
+            "name": "क्या <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Brain Tumor</a> Symptoms in Hindi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
@@ -89,8 +89,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Brain Tumor Symptoms in Hindi - Complete Guide | RAJ Hospital Ranchi",
-        "description": "Brain Tumor के लक्षण, प्रकार, कारण और इलाज के बारे में जानें। कब doctor से मिलें - Complete Hindi Guide। Ranchi के best neurologists।",
+        "headline": "Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> Symptoms in Hindi - Complete Guide | RAJ Hospital Ranchi",
+        "description": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Brain Tumor</a> के लक्षण, प्रकार, कारण और इलाज के बारे में जानें। कब doctor से मिलें - Complete Hindi Guide। Ranchi के best neurologists।",
         "url": "https://rajhospitals.com/blog/brain-tumor-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/brain-tumor-symptoms-in-hindi.png",
         "author": {
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Brain Tumor Symptoms in Hindi - Complete Guide | RAJ Hospital Ranchi"
+                "name": "Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> Symptoms in Hindi - Complete Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Brain Tumor - Complete Guide</span>
+            <span class="text-gray-700">Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> - Complete Guide</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-purple-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Brain Tumor Symptoms in Hindi - Complete Guide</h1>
+                <span class="inline-block bg-purple-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> Symptoms in Hindi - Complete Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Brain Tumor</strong> (मस्तिष्क घातुक) एक गंभीर स्वास्थ्य समस्या है जो किसी भी उम्र में हो सकती है। समय पर पहचान से इलाज की संभावना बढ़ जाती है। यह लेख Brain Tumor के लक्षणों, प्रकारों और उपचार के बारे में विस्तार से बताएगा।
+                    <strong>Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a></strong> (मस्तिष्क घातुक) एक गंभीर स्वास्थ्य समस्या है जो किसी भी उम्र में हो सकती है। समय पर पहचान से इलाज की संभावना बढ़ जाती है। यह लेख Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> के लक्षणों, प्रकारों और उपचार के बारे में विस्तार से बताएगा।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -237,7 +237,7 @@
                 </div>
 
                 <!-- Section 1: What is Brain Tumor -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-purple-600 pb-2 mt-8 mb-4">Brain Tumor क्या है?</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-purple-600 pb-2 mt-8 mb-4">Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Brain Tumor</strong> तब बनता है जब मस्तिष्क की कोशिकाएं असामान्य रूप से बढ़ने लगती हैं और एक mass बनाती हैं। यह <strong>Primary Tumor</strong> (मस्तिष्क में शुरू) या <strong>Secondary Tumor</strong> (शरीर के दूसरे भाग से फैला) हो सकता है।

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Maternity Hospital in Ranchi | RAJ Hospital - Top Women's Care</title>
+    <title>Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi | RAJ Hospital - Top Women's Care</title>
     <meta name="description" content="Ranchi में best maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।">
     <meta name="keywords" content="best maternity hospital ranchi, delivery hospital ranchi, pregnancy hospital ranchi, gynecologist ranchi, normal delivery ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Best Maternity Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Best Maternity Hospital in Ranchi | RAJ Hospital - Top Women's Care",
+        "headline": "Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi | RAJ Hospital - Top Women's Care",
         "description": "Ranchi में best maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।",
         "url": "https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-maternity-hospital-in-ranchi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Best Maternity Hospital in Ranchi | RAJ Hospital - Top Women's Care"
+                "name": "Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi | RAJ Hospital - Top Women's Care"
             }
         ]
     }
@@ -203,15 +203,15 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Best Maternity Hospital in Ranchi</span>
+            <span class="text-gray-700">Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi</span>
         </nav>
     </div>
 
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Maternity Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best Maternity Hospital in Ranchi: Complete Guide for Expecting Mothers</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Care</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi: Complete Guide for Expecting Mothers</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
@@ -222,18 +222,18 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    Choosing the <strong>best maternity hospital in Ranchi</strong> is one of the most important decisions an expectant mother will make. Pregnancy and childbirth are beautiful yet complex journeys that require expert medical care, modern facilities, and compassionate support. With numerous hospitals offering maternity services in Ranchi, finding the right one can feel overwhelming.
+                    Choosing the <strong>best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospital in Ranchi</strong> is one of the most important decisions an expectant mother will make. <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> and childbirth are beautiful yet complex journeys that require expert medical care, modern facilities, and compassionate support. With numerous hospitals offering maternity services in Ranchi, finding the right one can feel overwhelming.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    In this comprehensive guide, we at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> will help you understand what makes a great maternity hospital, what services to look for, and how to prepare for a safe and memorable delivery experience. Whether you're planning for <strong>normal delivery</strong> or <strong>C-section</strong>, this guide will help you make an informed decision for you and your baby.
+                    In this comprehensive guide, we at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> will help you understand what makes a great <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospital, what services to look for, and how to prepare for a safe and memorable delivery experience. Whether you're planning for <strong>normal delivery</strong> or <strong>C-section</strong>, this guide will help you make an informed decision for you and your baby.
                 </p>
 
                 <!-- Section 1: What Makes Best Maternity Hospital -->
-                <h2 class="raj-h2">What Makes the Best Maternity Hospital?</h2>
+                <h2 class="raj-h2">What Makes the Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Not all maternity hospitals are created equal. The <strong>best maternity hospital</strong> combines skilled healthcare professionals, advanced medical equipment, comprehensive services, and a nurturing environment. Here are the key factors that set apart exceptional maternity care:
+                    Not all <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospitals are created equal. The <strong>best maternity hospital</strong> combines skilled healthcare professionals, advanced medical equipment, comprehensive services, and a nurturing environment. Here are the key factors that set apart exceptional maternity care:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">

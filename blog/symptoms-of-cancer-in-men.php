@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
+    <title>Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
     <meta name="description" content="Symptoms of cancer in men: learn the early warning signs, common cancers affecting men (prostate, lung, colorectal, bladder, skin), screening recommendations, and prevention tips from RAJ Hospital Ranchi.">
     <meta name="keywords" content="symptoms of cancer in men, cancer symptoms men, prostate cancer signs, lung cancer symptoms, colorectal cancer warning signs, cancer screening men, early cancer detection, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Symptoms of cancer in men: at what point should a doctor be consulted?",
+            "name": "Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> in men: at what point should a doctor be consulted?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "If symptoms are persistent, recurring, gradually worsening, or include unexplained weight loss, persistent fatigue, a new lump, abnormal bleeding, difficulty swallowing, changes in bowel or bladder habits, skin changes, or no relief with home care, a doctor should be consulted. Timely evaluation helps identify the real cause and prevents complications."
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
+        "headline": "Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
         "description": "Early warning signs of cancer in men, common cancers, screening by age, and prevention tips.",
         "url": "https://rajhospitals.com/blog/symptoms-of-cancer-in-men/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/symptoms-of-cancer-in-men.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
+                "name": "Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">&rsaquo;</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">&rsaquo;</span>
-            <span class="text-gray-700">Symptoms of Cancer in Men</span>
+            <span class="text-gray-700">Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cancer Awareness</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know</h1>
+                <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Awareness</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 1, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
@@ -228,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Cancer</strong> is one of the leading causes of death in men worldwide, yet many cases are diagnosed late because early symptoms are subtle or mistaken for everyday health issues. Recognising the <strong>symptoms of cancer in men</strong> early dramatically improves the chances of successful treatment and long-term recovery.
+                    <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a></strong> is one of the leading causes of death in men worldwide, yet many cases are diagnosed late because early symptoms are subtle or mistaken for everyday health issues. Recognising the <strong>symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> in men</strong> early dramatically improves the chances of successful treatment and long-term recovery.
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -236,21 +236,21 @@
                 </p>
 
                 <!-- Section 1: Why awareness matters -->
-                <h2 class="raj-h2">Why Cancer Awareness Matters for Men</h2>
+                <h2 class="raj-h2">Why <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Awareness Matters for Men</h2>
 
                 <p class="text-gray-700 mb-4">
                     Men are statistically more likely than women to develop several common cancers and to be diagnosed at a later stage. Reasons include lower rates of routine health checkups, reluctance to discuss symptoms, and occupational or lifestyle risk factors such as smoking, alcohol use, and exposure to chemicals at work.
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Raising <strong>cancer awareness</strong> in men encourages timely screening, prompt reporting of new symptoms, and adoption of protective lifestyle habits. Many cancers, when caught early, have survival rates well above 80-90 percent, which makes awareness a life-saving habit.
+                    Raising <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> awareness</strong> in men encourages timely screening, prompt reporting of new symptoms, and adoption of protective lifestyle habits. Many cancers, when caught early, have survival rates well above 80-90 percent, which makes awareness a life-saving habit.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <div class="raj-callout-icon"><i data-feather="info" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></div>
                     <div class="raj-callout-body">
                         <strong>Key point:</strong>
-                        <span> Not every symptom means cancer, but persistent or unusual changes should always be evaluated. Early evaluation is always cheaper, safer, and more effective than late-stage treatment.</span>
+                        <span> Not every symptom means <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a>, but persistent or unusual changes should always be evaluated. Early evaluation is always cheaper, safer, and more effective than late-stage treatment.</span>
                     </div>
                 </div>
 

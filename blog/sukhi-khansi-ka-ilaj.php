@@ -53,7 +53,7 @@
             "name": "क्या Sukhi Khansi Ka Ilaj - सूखी खांसी का इलाज घरेलू उपाय दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Acidity ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -308,7 +308,7 @@
                         <!-- Cause 3 -->
                         <div class="bg-white rounded-xl shadow p-5 border-l-4 border-green-500">
                             <h3 class="text-lg font-bold text-gray-800 mb-2">3. GERD (Gastroesophageal Reflux)</h3>
-                            <p class="text-gray-600 text-sm">Acidity जब stomach acid throat तक आता है, तो <strong>sukhi khansi</strong> होती है। खासकर रात को।</p>
+                            <p class="text-gray-600 text-sm"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> जब stomach acid throat तक आता है, तो <strong>sukhi khansi</strong> होती है। खासकर रात को।</p>
                         </div>
 
                         <!-- Cause 4 -->
@@ -372,7 +372,7 @@
                                 <ul class="list-disc list-inside text-gray-600 space-y-2 text-sm">
                                     <li>Chest tightness</li>
                                     <li>Fatigue</li>
-                                    <li>Headache</li>
+                                    <li><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></li>
                                     <li>Breathlessness</li>
                                 </ul>
                             </div>
@@ -739,7 +739,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Sukhi Khansi Ka Ilaj - सूखी खांसी का इलाज घरेलू उपाय पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">Sukhi Khansi Ka Ilaj in Hindi: सूखी खांसी क्या है, इसके कारण, और घरेलू उपाय जो 1 minute में राहत दें। जानिए khansi kaise thik kare, khansi ka gharelu upay और Sukhi Khansi का permanent treatment।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Sukhi Khansi Ka Ilaj - सूखी खांसी का इलाज घरेलू उपाय शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में श्वसन और सामान्य स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में श्वसन और सामान्य स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -748,11 +748,11 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/acidity-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Acidity ke Lakshan | Acidity Symptoms in Hindi</a></li>
-                        <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Migraine Symptoms in Hindi - माइग्रेन के लक्षण</a></li>
+                        <li><a href="/blog/acidity-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi</a></li>
+                        <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> Symptoms in Hindi - माइग्रेन के लक्षण</a></li>
                         <li><a href="/blog/dehydration-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi)</a></li>
-                        <li><a href="/blog/symptoms-of-depression-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Symptoms of Depression in Men in Hindi</a></li>
-                        <li><a href="/blog/stroke-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs</a></li>
+                        <li><a href="/blog/symptoms-of-depression-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Symptoms of <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> in Men in Hindi</a></li>
+                        <li><a href="/blog/stroke-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs</a></li>
                     </ul>
                 </section>
 
@@ -765,7 +765,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Sukhi Khansi Ka Ilaj - सूखी खांसी का इलाज घरेलू उपाय दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Acidity ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>

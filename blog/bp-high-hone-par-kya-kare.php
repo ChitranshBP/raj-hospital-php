@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "BP High होने पर क्या करें? - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "High blood pressure (BP High) के कारण, लक्षण और उपाय जानें। जानें कब डॉक्टर को दिखाना है और कब घरेलू उपाय काफी हैं। Ranchi के best heart specialists की advice।",
+        "description": "High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> (BP High) के कारण, लक्षण और उपाय जानें। जानें कब डॉक्टर को दिखाना है और कब घरेलू उपाय काफी हैं। Ranchi के best heart specialists की advice।",
         "url": "https://rajhospitals.com/blog/bp-high-hone-par-kya-kare/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/bp-high-hone-par-kya-kare.png",
         "author": {
@@ -228,18 +228,18 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    क्या आपका <strong>BP High</strong> है और आप समझ नहीं पा रहे कि इसे कैसे नियंत्रित करें? उच्च रक्तचाप (Hypertension) एक गंभीर स्वास्थ्य समस्या है जो दिल, दिमाग और किडनी को नुकसान पहुंचा सकती है। अगर आप भी BP High की समस्या से जूझ रहे हैं, तो यह लेख आपके लिए बहुत महत्वपूर्ण है।
+                    क्या आपका <strong>BP High</strong> है और आप समझ नहीं पा रहे कि इसे कैसे नियंत्रित करें? उच्च रक्तचाप (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Hypertension</a>) एक गंभीर स्वास्थ्य समस्या है जो दिल, दिमाग और किडनी को नुकसान पहुंचा सकती है। अगर आप भी BP High की समस्या से जूझ रहे हैं, तो यह लेख आपके लिए बहुत महत्वपूर्ण है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>उच्च रक्तचाप (High Blood Pressure)</strong> तब होता है जब आपकी धमनियों में रक्त का दबाव सामान्य से अधिक हो जाता है। सामान्य BP 120/80 mmHg से कम होता है, जबकि 140/90 mmHg या उससे अधिक को High BP माना जाता है।
+                    <strong>उच्च रक्तचाप (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>)</strong> तब होता है जब आपकी धमनियों में रक्त का दबाव सामान्य से अधिक हो जाता है। सामान्य BP 120/80 mmHg से कम होता है, जबकि 140/90 mmHg या उससे अधिक को High BP माना जाता है।
                 </p>
 
                 <!-- Section 1: What is BP High -->
                 <h2 class="raj-h2">BP High क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Blood Pressure</strong> वह दबाव है जो आपके हृदय से पंप होकर रक्त को पूरे शरीर में पहुंचाता है। जब यह दबाव सामान्य से अधिक हो जाता है, तो इसे <strong>Hypertension</strong> या High BP कहते हैं।
+                    <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a></strong> वह दबाव है जो आपके हृदय से पंप होकर रक्त को पूरे शरीर में पहुंचाता है। जब यह दबाव सामान्य से अधिक हो जाता है, तो इसे <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Hypertension</a></strong> या High BP कहते हैं।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -248,7 +248,7 @@
                 </div>
 
                 <!-- Section 2: BP Range -->
-                <h2 class="raj-h2">Blood Pressure की सामान्य सीमाएं</h2>
+                <h2 class="raj-h2"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> की सामान्य सीमाएं</h2>
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg text-center border-2 border-green-500">
@@ -257,7 +257,7 @@
                     </div>
                     <div class="bg-yellow-50 p-4 rounded-lg text-center border-2 border-yellow-500">
                         <div class="text-2xl font-bold text-yellow-600">120-139/80-89</div>
-                        <div class="text-sm text-gray-600">Pre-hypertension</div>
+                        <div class="text-sm text-gray-600">Pre-<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">hypertension</a></div>
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg text-center border-2 border-red-500">
                         <div class="text-2xl font-bold text-red-600">140+/90+</div>
@@ -278,7 +278,7 @@
                         <p class="text-sm text-gray-600">अधिक वजन से हृदय पर अतिरिक्त दबाव पड़ता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">3. तनाव (Stress)</h4>
+                        <h4 class="font-bold text-secondary-600">3. तनाव (<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a>)</h4>
                         <p class="text-sm text-gray-600">लगातार तनाव BP को बढ़ा सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -353,7 +353,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Heart Checkup की जरूरत है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में BP monitoring, ECG, और complete cardiac checkup available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में BP monitoring, ECG, और complete <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> checkup available है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -377,9 +377,9 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">BP High होने पर क्या करें? पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">High blood pressure (BP High) के कारण, लक्षण और उपाय जानें। जानें कब डॉक्टर को दिखाना है और कब घरेलू उपाय काफी हैं। Ranchi के best heart specialists की advice।</p>
+                    <p class="text-gray-700 mb-4">High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> (BP High) के कारण, लक्षण और उपाय जानें। जानें कब डॉक्टर को दिखाना है और कब घरेलू उपाय काफी हैं। Ranchi के best heart specialists की advice।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। BP High होने पर क्या करें? शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -391,7 +391,7 @@
                         <li><a href="/blog/pulse-rate-kitna-hona-chahiye/" class="text-secondary-600 hover:underline font-semibold">पल्स रेट कितना होना चाहिए — नॉर्मल हृदय गति की जानकारी (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/specialties/cardiology" class="text-secondary-600 hover:underline font-semibold">Ranchi में हृदय रोग विशेषज्ञ से सलाह लें — RAJ Hospital की Cardiology टीम (Ranchi)</a></li>
                         <li><a href="/blog/pulse-rate-50-hone-par-kya-karen.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पल्स रेट 50 होने पर क्या करें?</a></li>
-                        <li><a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण</a></li>
+                        <li><a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण</a></li>
                         <li><a href="/blog/heart-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi</a></li>
                         <li><a href="/blog/remedies-for-high-bp.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High BP (High Blood Pressure) Ke Gharelu Upchar</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दिल का दौरा लक्षण (Heart Attack Symptoms)</a></li>

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Joint Pain in Winter Causes and Remedies - सर्दियों में जोड़ों में दर्द के कारण और उपाय | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter Causes and Remedies - सर्दियों में जोड़ों में दर्द के कारण और उपाय | RAJ Hospital Ranchi</title>
     <meta name="description" content="सर्दियों में जोड़ों में दर्द (Joint Pain in Winter) के कारण, लक्षण, घरेलू उपाय और बचाव के उपाय हिंदी में। जानें कब डॉक्टर से मिलना है। Ranchi में best orthopedic treatment RAJ Hospital में।">
     <meta name="keywords" content="joint pain in winter, सर्दियों में जोड़ों में दर्द, joint pain causes, joint pain remedies, arthritis winter, osteoarthritis, गठिया का दर्द, जोड़ों में दर्द का इलाज, joint pain treatment ranchi">
     <meta name="robots" content="index, follow">
@@ -39,7 +39,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Joint Pain in Winter Causes and Remedies - सर्दियों में जोड़ों में दर्द",
+        "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter Causes and Remedies - सर्दियों में जोड़ों में दर्द",
         "description": "सर्दियों में जोड़ों में दर्द के कारण, लक्षण, घरेलू उपाय और बचाव के उपाय। RAJ Hospital Ranchi में expert orthopedic treatment।",
         "url": "https://rajhospitals.com/blog/joint-pain-in-winter-causes-remedies/",
         "author": {
@@ -85,7 +85,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Joint Pain in Winter"
+                "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter"
             }
         ]
     }
@@ -125,7 +125,7 @@
                 "name": "क्या exercise से जोड़ों का दर्द बढ़ सकता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "सही exercise से joint pain कम होता है, बढ़ता नहीं - बशर्ते सही technique और moderate intensity use करें। Low-impact exercises जैसे swimming, walking, और stretching बहुत helpful हैं। जो heavy weight training, running on hard surfaces, या high-impact activities से pain बढ़ सकता है। हमेशा gentle start करें और gradual increase करें।"
+                    "text": "सही exercise से <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> कम होता है, बढ़ता नहीं - बशर्ते सही technique और moderate intensity use करें। Low-impact exercises जैसे swimming, walking, और stretching बहुत helpful हैं। जो heavy weight training, running on hard surfaces, या high-impact activities से pain बढ़ सकता है। हमेशा gentle start करें और gradual increase करें।"
                 }
             },
             {
@@ -133,7 +133,7 @@
                 "name": "जोड़ों के दर्द में क्या खाना चाहिए और क्या नहीं खाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "जोड़ों के दर्द में beneficial foods: Omega-3 (fish, walnuts, flaxseed), Vitamin D (sunlight, fortified foods), Calcium (dairy, leafy greens), Antioxidants (berries, green tea), Ginger और turmeric। Avoid करें: Processed foods, refined sugar, excessive salt, saturated fats, और alcohol। ये inflammation बढ़ा सकते हैं।"
+                    "text": "जोड़ों के दर्द में beneficial foods: Omega-3 (fish, walnuts, flaxseed), Vitamin D (sunlight, fortified foods), Calcium (dairy, leafy greens), Antioxidants (berries, green tea), Ginger और turmeric। Avoid करें: Processed foods, refined <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a>, excessive salt, saturated fats, और alcohol। ये inflammation बढ़ा सकते हैं।"
                 }
             },
             {
@@ -184,7 +184,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Joint Pain in Winter</span>
+            <span class="text-gray-700"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter</span>
         </nav>
     </div>
 
@@ -192,7 +192,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Orthopedics</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Joint Pain in Winter - सर्दियों में जोड़ों में दर्द: कारण और उपाय</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - सर्दियों में जोड़ों में दर्द: कारण और उपाय</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 23, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 14 min read</span>
@@ -206,7 +206,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    मौसम बदलने के साथ ही कई लोगों को <strong>जोड़ों में अकड़न, दर्द, और सूजन</strong> का अनुभव होता है। गर्दन, कंधे, कोहनी, कलाई, घुटने, या टखनों में दर्द - ये सब सर्दियों की एक आम शिकायत है। इस blog post में हम <strong>joint pain in winter</strong> के कारणों, घरेलू उपायों, और prevention tips के बारे में विस्तार से जानेंगे।
+                    मौसम बदलने के साथ ही कई लोगों को <strong>जोड़ों में अकड़न, दर्द, और सूजन</strong> का अनुभव होता है। गर्दन, कंधे, कोहनी, कलाई, घुटने, या टखनों में दर्द - ये सब सर्दियों की एक आम शिकायत है। इस blog post में हम <strong><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> in winter</strong> के कारणों, घरेलू उपायों, और prevention tips के बारे में विस्तार से जानेंगे।
                 </p>
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">
@@ -235,7 +235,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">4. Vitamin D Deficiency</h4>
-                        <p class="text-sm text-gray-600">सर्दियों में sun exposure कम होता है, जिससे Vitamin D synthesis घटता है। Vitamin D bone health के लिए जरूरी है।</p>
+                        <p class="text-sm text-gray-600">सर्दियों में sun exposure कम होता है, जिससे Vitamin D synthesis घटता है। Vitamin D <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> health के लिए जरूरी है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">5. Dehydration</h4>
@@ -243,7 +243,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">6. Inactivity</h4>
-                        <p class="text-sm text-gray-600">Cold weather में लोग कम active होते हैं। यह muscles को weak बनाता है और joints पर pressure बढ़ाता है। <a href="/blog/joint-pain-treatment-ranchi/" class="text-primary-600 hover:underline">Joint pain treatment</a> में exercise important है।</p>
+                        <p class="text-sm text-gray-600">Cold weather में लोग कम active होते हैं। यह muscles को weak बनाता है और joints पर pressure बढ़ाता है। <a href="/blog/joint-pain-treatment-ranchi/" class="text-primary-600 hover:underline"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint pain</a> treatment</a> में exercise important है।</p>
                     </div>
                 </div>
 
@@ -259,7 +259,7 @@
                         <p class="text-sm text-gray-600">सबसे आम joint disorder, especially 50+ उम्र में। Cartilage के wear से दर्द और stiffness होती है। यह condition cold weather में बहुत बिगड़ सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
-                        <h4 class="font-bold text-primary-600">2. Rheumatoid Arthritis (रूमेटॉइड अर्थराइटिस)</h4>
+                        <h4 class="font-bold text-primary-600">2. Rheumatoid <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Arthritis</a> (रूमेटॉइड अर्थराइटिस)</h4>
                         <p class="text-sm text-gray-600">एक autoimmune disease जिसमें immune system joints पर attack करता है। Morning stiffness, swelling, और fatigue के साथ दर्द होता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
@@ -275,7 +275,7 @@
                 <h2 class="raj-h2-secondary">जोड़ों के दर्द के घरेलू उपाय</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Joint pain home remedies</strong> जोड़ों के दर्द को manage करने में helpful हैं। ये नुस्खे generations से use हो रहे हैं:
+                    <strong><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint pain</a> home remedies</strong> जोड़ों के दर्द को manage करने में helpful हैं। ये नुस्खे generations से use हो रहे हैं:
                 </p>
 
                 <div class="space-y-4 mb-6">

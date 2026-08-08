@@ -39,7 +39,7 @@ $base_url = '../';
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "ब्लड प्रेशर कैसे कंट्रोल करें?",
-        "description": "High blood pressure को कंट्रोल करने के घरेलू उपाय, lifestyle changes, diet और आयुर्वेदिक नुस्खे।",
+        "description": "High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> को कंट्रोल करने के घरेलू उपाय, lifestyle changes, diet और आयुर्वेदिक नुस्खे।",
         "author": {
             "@type": "Organization",
             "name": "RAJ Hospital Ranchi"
@@ -71,7 +71,7 @@ $base_url = '../';
                 "name": "ब्लड प्रेशर कितना होना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "सामान्य ब्लड प्रेशर 120/80 mmHg होता है। 130/80 से ऊपर को high blood pressure माना जाता है। 90/60 से नीचे low blood pressure है।"
+                    "text": "सामान्य ब्लड प्रेशर 120/80 mmHg होता है। 130/80 से ऊपर को high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> माना जाता है। 90/60 से नीचे low blood pressure है।"
                 }
             },
             {
@@ -111,7 +111,7 @@ $base_url = '../';
                 "name": "तनाव और BP में क्या संबंध है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "तनाव BP बढ़ाता है क्योंकि stress hormones adrenaline और cortisol released होते हैं। लंबे समय तक तनाव से chronic hypertension हो सकता है।"
+                    "text": "तनाव BP बढ़ाता है क्योंकि <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> hormones adrenaline और cortisol released होते हैं। लंबे समय तक तनाव से chronic hypertension हो सकता है।"
                 }
             }
         ]
@@ -234,7 +234,7 @@ $base_url = '../';
             </div>
 
             <p class="text-lg text-gray-700 mb-6 leading-relaxed">
-                <strong>ब्लड प्रेशर (रक्तचाप)</strong> एक ऐसी समस्या है जो आज लगभग हर घर में देखी जाती है। <a href="https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="text-hospital-blue hover:underline">High BP के लक्षण</a> कई बार धीरे-धीरे दिखते हैं जिन्हें हम अनदेखा कर देते हैं। लेकिन अगर BP कंट्रोल में न हो तो यह <a href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/" class="text-hospital-blue hover:underline">हृदयाघात</a> और <a href="https://rajhospitals.com/blog/brain-stroke-ke-lakshan/" class="text-hospital-blue hover:underline">आघात (stroke)</a> का कारण बन सकता है। इस ब्लॉग में जानेंगे कि <strong>ब्लड प्रेशर कैसे कंट्रोल करें</strong>।
+                <strong>ब्लड प्रेशर (रक्तचाप)</strong> एक ऐसी समस्या है जो आज लगभग हर घर में देखी जाती है। <a href="https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="text-hospital-blue hover:underline">High BP के लक्षण</a> कई बार धीरे-धीरे दिखते हैं जिन्हें हम अनदेखा कर देते हैं। लेकिन अगर BP कंट्रोल में न हो तो यह <a href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/" class="text-hospital-blue hover:underline">हृदयाघात</a> और <a href="https://rajhospitals.com/blog/brain-stroke-ke-lakshan/" class="text-hospital-blue hover:underline">आघात (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a>)</a> का कारण बन सकता है। इस ब्लॉग में जानेंगे कि <strong>ब्लड प्रेशर कैसे कंट्रोल करें</strong>।
             </p>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -272,7 +272,7 @@ $base_url = '../';
                 High BP के प्रमुख कारण
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                <strong>High blood pressure</strong> कई कारणों से हो सकता है। कुछ कारण control करने योग्य हैं और कुछ नहीं:
+                <strong>High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a></strong> कई कारणों से हो सकता है। कुछ कारण control करने योग्य हैं और कुछ नहीं:
             </p>
 
             <div class="grid md:grid-cols-2 gap-4 mb-6">
@@ -330,7 +330,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">b) सही आहार लें (Diet)</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                <strong>DASH Diet</strong> (Dietary Approaches to Stop Hypertension) ब्लड प्रेशर कम करने में बहुत प्रभावी है:
+                <strong>DASH Diet</strong> (Dietary Approaches to Stop <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Hypertension</a>) ब्लड प्रेशर कम करने में बहुत प्रभावी है:
             </p>
 
             <div class="grid md:grid-cols-2 gap-4 mb-6">
@@ -365,7 +365,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">d) तनाव कम करें</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                <strong>Stress hormones</strong> (adrenaline और cortisol) BP बढ़ाते हैं। तनाव management के तरीके:
+                <strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> hormones</strong> (adrenaline और cortisol) BP बढ़ाते हैं। तनाव management के तरीके:
             </p>
             <ul class="list-disc pl-6 mb-4 text-gray-700 space-y-2">
                 <li><strong>मेडिटेशन</strong> - रोज़ाना 10-15 मिनट</li>
@@ -551,7 +551,7 @@ $base_url = '../';
             <div class="space-y-4 mb-8">
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: ब्लड प्रेशर कितना होना चाहिए?</h4>
-                    <p class="text-gray-700 text-sm">सामान्य ब्लड प्रेशर 120/80 mmHg होता है। 130/80 से ऊपर को high blood pressure माना जाता है। 90/60 से नीचे low blood pressure है।</p>
+                    <p class="text-gray-700 text-sm">सामान्य ब्लड प्रेशर 120/80 mmHg होता है। 130/80 से ऊपर को high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> माना जाता है। 90/60 से नीचे low blood pressure है।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -576,7 +576,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: तनाव और BP में क्या संबंध है?</h4>
-                    <p class="text-gray-700 text-sm">तनाव BP बढ़ाता है क्योंकि stress hormones adrenaline और cortisol released होते हैं। लंबे समय तक तनाव से chronic hypertension हो सकता है।</p>
+                    <p class="text-gray-700 text-sm">तनाव BP बढ़ाता है क्योंकि <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> hormones adrenaline और cortisol released होते हैं। लंबे समय तक तनाव से chronic <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">hypertension</a> हो सकता है।</p>
                 </div>
             </div>
 
@@ -606,7 +606,7 @@ $base_url = '../';
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">High BP के लक्षण</h4>
-                        <p class="text-gray-500 text-xs">High blood pressure की पहचान</p>
+                        <p class="text-gray-500 text-xs">High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> की पहचान</p>
                     </div>
                 </a>
                 <a href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
@@ -619,7 +619,7 @@ $base_url = '../';
                 <a href="https://rajhospitals.com/blog/brain-stroke-ke-lakshan/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
-                        <h4 class="font-semibold text-gray-800 text-sm">Brain Stroke के लक्षण</h4>
+                        <h4 class="font-semibold text-gray-800 text-sm">Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण</h4>
                         <p class="text-gray-500 text-xs">आघात (पक्षाघात) की जानकारी</p>
                     </div>
                 </a>

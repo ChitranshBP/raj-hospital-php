@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Breast Cancer Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="Breast Cancer Symptoms in Hindi - स्तन कैंसर के लक्षण, self-examination तरीका और prevention tips। Early detection से बचाव करें।">
     <meta name="keywords" content="breast cancer symptoms, breast cancer in hindi, स्तन कैंसर, लक्षण, oncology, ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Breast Cancer Symptoms in Hindi - जानें लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Breast Cancer Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi",
         "description": "Breast Cancer Symptoms in Hindi - स्तन कैंसर के लक्षण, self-examination तरीका और prevention tips। Early detection से बचाव करें।",
         "url": "https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/breast-cancer-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Breast Cancer Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Breast Cancer Symptoms in Hindi</span>
+            <span class="text-gray-700"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-pink-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Oncology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Breast Cancer Symptoms in Hindi - जानें लक्षण</h1>
+                <span class="inline-block bg-pink-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Oncology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,12 +228,12 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Breast Cancer</strong> (स्तन कैंसर) की early detection के लिए symptoms पहचानना बहुत ज़रूरी है। इस लेख में हम <strong>Breast Cancer Symptoms in Hindi</strong> में जानेंगे - स्तन कैंसर के शुरुआती और गंभीर लक्षण क्या हैं।
+                    <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a></strong> (स्तन कैंसर) की early detection के लिए symptoms पहचानना बहुत ज़रूरी है। इस लेख में हम <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi</strong> में जानेंगे - स्तन कैंसर के शुरुआती और गंभीर लक्षण क्या हैं।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-pink-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> अधिकतर early stage में breast cancer का कोई दर्द नहीं होता। यही वजह है कि regular screening और self-examination ज़रूरी है।</span>
+                    <span class="text-gray-700"> अधिकतर early stage में <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">breast cancer</a> का कोई दर्द नहीं होता। यही वजह है कि regular screening और self-examination ज़रूरी है।</span>
                 </div>
 
                 <!-- Section 1: Warning Signs -->
@@ -262,7 +262,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-pink-600">
                         <h4 class="font-bold text-pink-600">5. दर्द</h4>
-                        <p class="text-sm text-gray-600">स्तन में लगातार दर्द जो periods से related न हो।</p>
+                        <p class="text-sm text-gray-600">स्तन में लगातार दर्द जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> से related न हो।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-pink-600">
                         <h4 class="font-bold text-pink-600">6. बगल में गांठ</h4>
@@ -300,7 +300,7 @@
                 </div>
 
                 <!-- Section 3: Types of Breast Cancer -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-pink-600 pb-2 mt-8 mb-4">Breast Cancer के प्रकार</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-pink-600 pb-2 mt-8 mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> के प्रकार</h2>
 
                 <div class="overflow-x-auto mb-6">
                     <table class="w-full text-sm">

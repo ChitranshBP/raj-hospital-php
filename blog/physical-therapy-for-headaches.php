@@ -264,8 +264,8 @@
                         <p class="text-sm text-gray-600">Those with whiplash or neck injuries often develop chronic headaches that respond well to PT.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">Stress-Related Headache Sufferers</h4>
-                        <p class="text-sm text-gray-600">Chronic stress causes muscle tension in neck and shoulders, leading to frequent tension headaches.</p>
+                        <h4 class="font-bold text-secondary-600"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a>-Related <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Sufferers</h4>
+                        <p class="text-sm text-gray-600">Chronic <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> causes muscle tension in neck and shoulders, leading to frequent tension headaches.</p>
                     </div>
                 </div>
 
@@ -276,12 +276,12 @@
                     <div class="relative">
                         <div class="absolute -left-8 w-6 h-6 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xs font-bold">1</div>
                         <div class="font-bold text-secondary-600">Initial Evaluation</div>
-                        <p class="text-sm text-gray-600">Your physical therapist assesses posture, neck mobility, muscle tension, and identifies headache triggers.</p>
+                        <p class="text-sm text-gray-600">Your physical therapist assesses posture, neck mobility, muscle tension, and identifies <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> triggers.</p>
                     </div>
                     <div class="relative">
                         <div class="absolute -left-8 w-6 h-6 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xs font-bold">2</div>
                         <div class="font-bold text-secondary-600">Treatment Plan Development</div>
-                        <p class="text-sm text-gray-600">A personalized plan is created based on your specific headache type and contributing factors.</p>
+                        <p class="text-sm text-gray-600">A personalized plan is created based on your specific <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> type and contributing factors.</p>
                     </div>
                     <div class="relative">
                         <div class="absolute -left-8 w-6 h-6 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xs font-bold">3</div>
@@ -339,7 +339,7 @@
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-green-600">50%</div>
-                        <div class="text-sm text-gray-600">Reduction in headache frequency</div>
+                        <div class="text-sm text-gray-600">Reduction in <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> frequency</div>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-green-600">60%</div>
@@ -380,7 +380,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Physical Therapy for Headaches - Effective Treatment Options पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">Physical Therapy for Headaches - Effective treatment options for tension headaches, migraines and cervicogenic headaches. Learn about PT techniques and benefits.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Physical Therapy for Headaches - Effective Treatment Options शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -392,11 +392,11 @@
                         <li><a href="/specialties/physiotherapy-and-rehabilitation" class="text-secondary-600 hover:underline font-semibold">Ranchi में फिजियोथेरेपी और रिहैबिलिटेशन — RAJ Hospital, Ranchi</a></li>
                         <li><a href="/blog/physical-therapy-for-headaches-benefits-techniques-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Physical Therapy for Headaches - Benefits, Techniques and Treatment</a></li>
                         <li><a href="/blog/headaches-types-causes-treatment-solutions.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Headaches Types, Causes aur Treatment Solutions</a></li>
-                        <li><a href="/blog/difference-between-migraine-and-headache-key-differences-explained.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Migraine vs Headache - Key Differences Explained</a></li>
-                        <li><a href="/blog/can-allergies-cause-headaches-causes-symptoms-relief.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Allergy Headache - Causes, Symptoms और Relief Guide</a></li>
+                        <li><a href="/blog/difference-between-migraine-and-headache-key-differences-explained.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> vs Headache - Key Differences Explained</a></li>
+                        <li><a href="/blog/can-allergies-cause-headaches-causes-symptoms-relief.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide</a></li>
                         <li><a href="/blog/can-allergies-cause-headaches.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Can Allergies Cause Headaches?</a></li>
                         <li><a href="/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Green Tea on Empty Stomach - Benefits and Side Effects</a></li>
-                        <li><a href="/blog/bone-hydrogel-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Bone Hydrogel Treatment in Hindi</a></li>
+                        <li><a href="/blog/bone-hydrogel-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Hydrogel Treatment in Hindi</a></li>
                     </ul>
                 </section>
 

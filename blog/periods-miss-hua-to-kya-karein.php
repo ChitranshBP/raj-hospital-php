@@ -39,7 +39,7 @@ $base_url = '../';
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "पीरियड्स मिस हो गए तो क्या करें?",
-        "description": "Periods miss होने के कारण, pregnancy test, और कब डॉक्टर से मिलना चाहिए इसकी जानकारी।",
+        "description": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Periods</a> miss होने के कारण, pregnancy test, और कब डॉक्टर से मिलना चाहिए इसकी जानकारी।",
         "author": {
             "@type": "Organization",
             "name": "RAJ Hospital Ranchi"
@@ -71,7 +71,7 @@ $base_url = '../';
                 "name": "पीरियड्स मिस होने के क्या कारण हो सकते हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "पीरियड्स मिस होने के कारणों में pregnancy सबसे आम है। इसके अलावा stress, PCOD/PCOS, thyroid problems, ज़्यादा वज़न या कम वज़न, और hormonal changes भी कारण हो सकते हैं।"
+                    "text": "पीरियड्स मिस होने के कारणों में <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> सबसे आम है। इसके अलावा <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, PCOD/PCOS, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> problems, ज़्यादा वज़न या कम वज़न, और hormonal changes भी कारण हो सकते हैं।"
                 }
             },
             {
@@ -228,13 +228,13 @@ $base_url = '../';
                     <i data-feather="alert-triangle" class="w-5 h-5 text-orange-500 mt-0.5"></i>
                     <div class="ml-3">
                         <p class="font-semibold text-orange-700">महत्वपूर्ण जानकारी</p>
-                        <p class="text-gray-700 text-sm">Periods का miss होना कई कारणों से हो सकता है। Pregnancy सबसे आम कारण है, खासकर sexually active women के लिए। सही कारण जानना ज़रूरी है।</p>
+                        <p class="text-gray-700 text-sm"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Periods</a> का miss होना कई कारणों से हो सकता है। Pregnancy सबसे आम कारण है, खासकर sexually active women के लिए। सही कारण जानना ज़रूरी है।</p>
                     </div>
                 </div>
             </div>
 
             <p class="text-lg text-gray-700 mb-6 leading-relaxed">
-                <strong>पीरियड्स का मिस होना</strong> कई महिलाओं के लिए चिंता का विषय हो सकता है। कई बार यह pregnancy का संकेत होता है, तो कई बार hormonal imbalance या कोई और समस्या। <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi/" class="text-hospital-blue hover:underline">PCOD</a> भी periods को प्रभावित करता है। इस ब्लॉग में जानेंगे कि <strong>periods miss होने पर क्या करना चाहिए</strong>।
+                <strong>पीरियड्स का मिस होना</strong> कई महिलाओं के लिए चिंता का विषय हो सकता है। कई बार यह <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> का संकेत होता है, तो कई बार hormonal imbalance या कोई और समस्या। <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi/" class="text-hospital-blue hover:underline"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a></a> भी <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> को प्रभावित करता है। इस ब्लॉग में जानेंगे कि <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> miss होने पर क्या करना चाहिए</strong>।
             </p>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -242,13 +242,13 @@ $base_url = '../';
                 पीरियड्स मिस होने के क्या कारण हैं?
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                <strong>Periods miss</strong> होने के कई कारण हो सकते हैं। आइए इन्हें विस्तार से समझें:
+                <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Periods</a> miss</strong> होने के कई कारण हो सकते हैं। आइए इन्हें विस्तार से समझें:
             </p>
 
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-pink-50 p-4 rounded-lg border border-pink-200">
-                    <h4 class="font-bold text-pink-700 mb-2">1. Pregnancy</h4>
-                    <p class="text-gray-600 text-sm">Sexually active women के लिए सबसे आम कारण। अगर periods नियमित थे और अचानक miss हो गए, तो pregnancy test ज़रूर करें।</p>
+                    <h4 class="font-bold text-pink-700 mb-2">1. <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a></h4>
+                    <p class="text-gray-600 text-sm">Sexually active women के लिए सबसे आम कारण। अगर <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> नियमित थे और अचानक miss हो गए, तो pregnancy test ज़रूर करें।</p>
                 </div>
                 <div class="bg-purple-50 p-4 rounded-lg border border-purple-200">
                     <h4 class="font-bold text-purple-700 mb-2">2. PCOD/PCOS</h4>

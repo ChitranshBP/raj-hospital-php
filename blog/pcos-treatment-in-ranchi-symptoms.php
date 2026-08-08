@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> Treatment in Ranchi - Symptoms, Causes and Best Doctors | RAJ Hospital Ranchi</title>
     <meta name="description" content="PCOS Treatment in Ranchi - Best gynecologists, symptoms, causes, diagnosis and treatment options. Complete guide to PCOS/PCOD management in Ranchi, Jharkhand।">
     <meta name="keywords" content="PCOS treatment Ranchi, PCOS symptoms, PCOD treatment Ranchi, gynecologist Ranchi, PCOS doctors Ranchi, best gynecologist Ranchi, women's health Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> Treatment in Ranchi - Symptoms, Causes and Best Doctors में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> Treatment in Ranchi - Symptoms, Causes and Best Doctors | RAJ Hospital Ranchi",
         "description": "PCOS Treatment in Ranchi - Best gynecologists, symptoms, causes, diagnosis and treatment options. Complete guide to PCOS/PCOD management in Ranchi, Jharkhand।",
         "url": "https://rajhospitals.com/blog/pcos-treatment-in-ranchi-symptoms/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pcos-treatment-in-ranchi-symptoms.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> Treatment in Ranchi - Symptoms, Causes and Best Doctors | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">PCOS Treatment in Ranchi</span>
+            <span class="text-gray-700"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> Treatment in Ranchi</span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Women's Health</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> Treatment in Ranchi - Symptoms, Causes and Best Doctors</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 24, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,18 +228,18 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>PCOS (Polycystic Ovary Syndrome)</strong> is a common hormonal disorder affecting women of reproductive age in Ranchi and across India. Finding the right <strong>PCOS treatment in Ranchi</strong> is crucial for managing symptoms effectively and preventing long-term health complications.
+                    <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> (Polycystic Ovary Syndrome)</strong> is a common hormonal disorder affecting women of reproductive age in Ranchi and across India. Finding the right <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> treatment in Ranchi</strong> is crucial for managing symptoms effectively and preventing long-term health complications.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital Ranchi offers comprehensive <strong>PCOS/PCOD diagnosis and treatment</strong> with experienced gynecologists who provide personalized treatment plans. In this guide, we cover PCOS symptoms, causes, and available treatment options.
+                    RAJ Hospital Ranchi offers comprehensive <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a>/PCOD diagnosis and treatment</strong> with experienced gynecologists who provide personalized treatment plans. In this guide, we cover <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> symptoms, causes, and available treatment options.
                 </p>
 
                 <!-- Section 1: What is PCOS -->
-                <h2 class="raj-h2">What is PCOS?</h2>
+                <h2 class="raj-h2">What is <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a>?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>PCOS (Polycystic Ovary Syndrome)</strong> is a hormonal disorder characterized by:
+                    <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> (Polycystic Ovary Syndrome)</strong> is a hormonal disorder characterized by:
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">

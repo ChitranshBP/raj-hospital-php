@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Can Gas Cause a Heart Attack? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
+    <title>Can <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Can gas cause a heart attack? Top cardiologist at RAJ Hospital Ranchi explains how gas pain mimics heart attack, when to worry, and the exact emergency signs you should never ignore.">
     <meta name="keywords" content="can gas cause heart attack, gas pain vs heart attack, chest pain gas, acidity heart attack, stomach gas chest pain, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Can Gas Cause a Heart Attack? Doctor-Explained Guide",
+        "headline": "Can <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-06",
@@ -59,7 +59,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Can Gas Cause a Heart Attack?" }
+            { "@type": "ListItem", "position": 3, "name": "Can <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?" }
         ]
     }
     </script>
@@ -69,7 +69,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Can Gas Cause a Heart Attack?",
+        "name": "Can <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?",
         "description": "Cardiologist-reviewed explanation of how gas pain mimics a heart attack, with clear red-flag symptoms.",
         "url": "https://rajhospitals.com/blog/can-gas-cause-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -92,7 +92,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Can gas directly cause a heart attack?",
+                "name": "Can <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> directly cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "No. Stomach gas or bloating does not block a coronary artery and does not directly cause a heart attack. However, gas trapped in the upper abdomen, splenic flexure of the colon, or the oesophagus can produce chest pain that closely mimics a heart attack. Many patients arrive at the emergency department thinking they have gas, when in fact they are having a cardiac event."
@@ -119,7 +119,7 @@
                 "name": "When should I go to the ER for chest pain even if I think it's gas?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Go to the emergency room immediately if the chest pain is severe, lasts more than 10 minutes, comes with sweating, vomiting, fainting, or breathlessness, or if you are over 40 with risk factors like diabetes, high blood pressure, smoking, or family history of heart disease. RAJ Hospital Ranchi runs a 24×7 cardiac emergency with ECG and troponin testing available within minutes."
+                    "text": "Go to the emergency room immediately if the chest pain is severe, lasts more than 10 minutes, comes with sweating, vomiting, fainting, or breathlessness, or if you are over 40 with risk factors like <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high blood pressure, smoking, or family history of heart disease. RAJ Hospital Ranchi runs a 24×7 cardiac emergency with ECG and troponin testing available within minutes."
                 }
             },
             {
@@ -145,7 +145,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Can Gas Cause a Heart Attack?</span>
+            <span class="text-gray-700">Can Gas Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?</span>
         </nav>
     </div>
 

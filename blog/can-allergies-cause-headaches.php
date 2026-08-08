@@ -53,7 +53,7 @@
             "name": "क्या Can Allergies Cause Headaches? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Allergy Headache - Causes, Symptoms और Relief Guide जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "Can Allergies Cause Headaches? - Complete Guide | RAJ Hospital Ranchi",
-        "description": "Can allergies cause headaches? जानें allergy headache का connection, types, causes और treatment options। Complete guide by RAJ Hospital Ranchi।",
+        "description": "Can allergies cause headaches? जानें allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> का connection, types, causes और treatment options। Complete guide by RAJ Hospital Ranchi।",
         "url": "https://rajhospitals.com/blog/can-allergies-cause-headaches/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-allergies-cause-headaches.png",
         "author": {
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Allergy Headache Guide</span>
+            <span class="text-gray-700">Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Guide</span>
         </nav>
     </div>
 
@@ -228,29 +228,29 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Can allergies cause headaches?</strong> यह सवाल उन लोगों में common है जो बार-बार allergy और headache दोनों से जूझते हैं। जानिए कैसे allergies headache trigger कर सकती हैं।
+                    <strong>Can allergies cause headaches?</strong> यह सवाल उन लोगों में common है जो बार-बार allergy और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> दोनों से जूझते हैं। जानिए कैसे allergies headache trigger कर सकती हैं।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-amber-700">Quick Answer:</strong>
-                    <span class="text-gray-700"> <strong>हाँ!</strong> Allergies वास्तव में headaches का कारण बन सकती हैं, especially <strong>sinus headaches</strong> और <strong>migraine-like pain</strong>। histamine release और sinus congestion primary causes हैं।</span>
+                    <span class="text-gray-700"> <strong>हाँ!</strong> Allergies वास्तव में headaches का कारण बन सकती हैं, especially <strong>sinus headaches</strong> और <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a>-like pain</strong>। histamine release और sinus congestion primary causes हैं।</span>
                 </div>
 
                 <!-- Section 1: How Allergies Cause Headaches -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-amber-600 pb-2 mt-8 mb-4">Allergies कैसे Headache कराती हैं?</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-amber-600 pb-2 mt-8 mb-4">Allergies कैसे <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> कराती हैं?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    जब आप किसी allergen (जैसे pollen, dust, pet dander) के संपर्क में आते हैं, तो आपका body <strong>histamine</strong> release करता है। यह immune response कई symptoms produce करता है जो headache करा सकती हैं।
+                    जब आप किसी allergen (जैसे pollen, dust, pet dander) के संपर्क में आते हैं, तो आपका body <strong>histamine</strong> release करता है। यह immune response कई symptoms produce करता है जो <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> करा सकती हैं।
                 </p>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-amber-600">
                         <h4 class="font-bold text-amber-600">1. Sinus Congestion</h4>
-                        <p class="text-sm text-gray-600">Allergies से sinus passages swell हो जाते हैं। pressure buildup से sinus headache होती है जो forehead, cheeks और around eyes में महसूस होती है।</p>
+                        <p class="text-sm text-gray-600">Allergies से sinus passages swell हो जाते हैं। pressure buildup से sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> होती है जो forehead, cheeks और around eyes में महसूस होती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-amber-600">
                         <h4 class="font-bold text-amber-600">2. Histamine Response</h4>
-                        <p class="text-sm text-gray-600">Histamine blood vessels को dilate करता है, जिससे migraine-like headache हो सकती है।</p>
+                        <p class="text-sm text-gray-600">Histamine blood vessels को dilate करता है, जिससे <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a>-like headache हो सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-amber-600">
                         <h4 class="font-bold text-amber-600">3. Postnasal Drip</h4>
@@ -263,7 +263,7 @@
                 </div>
 
                 <!-- Section 2: Types of Allergy Headaches -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-amber-600 pb-2 mt-8 mb-4">Allergy Headache के प्रकार</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-amber-600 pb-2 mt-8 mb-4">Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> के प्रकार</h2>
 
                 <div class="overflow-x-auto mb-6">
                     <table class="w-full text-sm">
@@ -276,12 +276,12 @@
                         </thead>
                         <tbody class="divide-y divide-gray-200">
                             <tr>
-                                <td class="p-3 font-medium">Sinus Headache</td>
+                                <td class="p-3 font-medium">Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></td>
                                 <td class="p-3">Forehead, cheeks, nose bridge</td>
                                 <td class="p-3">Pressure-like, worsens with bending</td>
                             </tr>
                             <tr class="bg-gray-50">
-                                <td class="p-3 font-medium">Migraine Trigger</td>
+                                <td class="p-3 font-medium"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> Trigger</td>
                                 <td class="p-3">One side of head</td>
                                 <td class="p-3">Pulsating, nausea, light sensitivity</td>
                             </tr>

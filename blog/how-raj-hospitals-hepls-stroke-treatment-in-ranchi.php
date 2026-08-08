@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How RAJ Hospitals Helps Stroke Treatment in Ranchi | RAJ Hospital Ranchi</title>
+    <title>How RAJ Hospitals Helps <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment in Ranchi | RAJ Hospital Ranchi</title>
     <meta name="description" content="How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। Ranchi's best stroke treatment center।">
     <meta name="keywords" content="stroke treatment ranchi, raj hospitals stroke, neurology ranchi, brain stroke treatment, stroke emergency ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "How RAJ Hospitals Helps Stroke Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "How RAJ Hospitals Helps <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या How RAJ Hospitals Helps Stroke Treatment in Ranchi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Gas Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "How RAJ Hospitals Helps Stroke Treatment in Ranchi | RAJ Hospital Ranchi",
+        "headline": "How RAJ Hospitals Helps <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment in Ranchi | RAJ Hospital Ranchi",
         "description": "How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। Ranchi's best stroke treatment center।",
         "url": "https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "How RAJ Hospitals Helps Stroke Treatment in Ranchi | RAJ Hospital Ranchi"
+                "name": "How RAJ Hospitals Helps <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment in Ranchi | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">RAJ Hospitals Stroke Treatment</span>
+            <span class="text-gray-700">RAJ Hospitals <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Stroke Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">How RAJ Hospitals Helps Stroke Treatment in Ranchi</h1>
+                <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Care</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">How RAJ Hospitals Helps <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment in Ranchi</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
@@ -228,12 +228,12 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Stroke</strong> एक medical emergency है जहां <strong>"Time is Brain"</strong> - हर minute महत्वपूर्ण है। <strong>RAJ Hospital Ranchi</strong> Ranchi में best stroke treatment facility प्रदान करता है। जानिए कैसे हम stroke patients को comprehensive care देते हैं।
+                    <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a></strong> एक medical emergency है जहां <strong>"Time is Brain"</strong> - हर minute महत्वपूर्ण है। <strong>RAJ Hospital Ranchi</strong> Ranchi में best <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> treatment facility प्रदान करता है। जानिए कैसे हम stroke patients को comprehensive care देते हैं।
                 </p>
 
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Emergency:</strong>
-                    <span class="text-gray-700"> अगर stroke के लक्षण दिखें, तुरंत <strong>108</strong> call करें या RAJ Hospital emergency पर जाएं।</span>
+                    <span class="text-gray-700"> अगर <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> के लक्षण दिखें, तुरंत <strong>108</strong> call करें या RAJ Hospital emergency पर जाएं।</span>
                 </div>
 
                 <!-- Section 1: Why RAJ Hospital -->

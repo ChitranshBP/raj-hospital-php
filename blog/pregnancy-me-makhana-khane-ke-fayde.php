@@ -53,7 +53,7 @@
             "name": "क्या प्रेग्नेंसी में मखाना खाने के फायदे दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "प्रेग्नेंसी में मखाना खाने के फायदे - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "प्रेग्नेंसी में मखाना खाने के फायदे जानें। Makhana (Fox Nuts) pregnancy के दौरान क्यों beneficial है, nutrients और health benefits।",
+        "description": "प्रेग्नेंसी में मखाना खाने के फायदे जानें। Makhana (Fox Nuts) <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> के दौरान क्यों beneficial है, nutrients और health benefits।",
         "url": "https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnancy-me-makhana-khane-ke-fayde.png",
         "author": {
@@ -216,7 +216,7 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Pregnancy Nutrition</span>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Nutrition</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">प्रेग्नेंसी में मखाना खाने के फायदे - Complete Hindi Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 29, 2026</span>
@@ -228,11 +228,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>मखाना (Fox Nuts / Makhana)</strong> भारत में एक बहुत पौष्टिक snack के रूप में जाना जाता है। यह विशेषकर <strong>गर्भावस्था (pregnancy)</strong> के दौरान एक उत्कृष्ट food choice है। मखाना न केवल tasty है, بلکہ इसमें कई essential nutrients होते हैं जो pregnant women और उनके unborn baby के लिए फायदेमंद हैं।
+                    <strong>मखाना (Fox Nuts / Makhana)</strong> भारत में एक बहुत पौष्टिक snack के रूप में जाना जाता है। यह विशेषकर <strong>गर्भावस्था (<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>)</strong> के दौरान एक उत्कृष्ट food choice है। मखाना न केवल tasty है, بلکہ इसमें कई essential nutrients होते हैं जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women और उनके unborn baby के लिए फायदेमंद हैं।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस लेख में हम <strong>pregnancy में मखाना खाने के फायदे</strong>, इसके nutrition value, और कैसे इसे diet में शामिल करें इसके बारे में विस्तार से जानेंगे।
+                    इस लेख में हम <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में मखाना खाने के फायदे</strong>, इसके nutrition value, और कैसे इसे diet में शामिल करें इसके बारे में विस्तार से जानेंगे।
                 </p>
 
                 <!-- Section 1: What is Makhana -->
@@ -264,27 +264,27 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">2. Rich in Calcium</h4>
-                        <p class="text-sm text-gray-600">Calcium baby's bone development के लिए जरूरी है और mother's bone health भी maintain करता है।</p>
+                        <p class="text-sm text-gray-600">Calcium baby's <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> development के लिए जरूरी है और mother's bone health भी maintain करता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">3. Iron for Blood Health</h4>
-                        <p class="text-sm text-gray-600">Iron blood production में मदद करता है और anemia से बचाव करता है जो pregnancy में common है।</p>
+                        <p class="text-sm text-gray-600">Iron blood production में मदद करता है और anemia से बचाव करता है जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में common है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">4. Low Sodium</h4>
-                        <p class="text-sm text-gray-600">मखाना natural low sodium होता है जो pregnancy में high BP (preeclampsia) risk को manage करने में मदद करता है।</p>
+                        <p class="text-sm text-gray-600">मखाना natural low sodium होता है जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में high BP (preeclampsia) risk को manage करने में मदद करता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">5. Gluten-Free</h4>
-                        <p class="text-sm text-gray-600">Gluten sensitivity वाली pregnant women के लिए यह एक safe snack है।</p>
+                        <p class="text-sm text-gray-600">Gluten sensitivity वाली <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women के लिए यह एक safe snack है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">6. Anti-Inflammatory Properties</h4>
                         <p class="text-sm text-gray-600">मखाने में natural anti-inflammatory compounds होते हैं जो swelling और inflammation को reduce करते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
-                        <h4 class="font-bold text-green-600">7. Good for Digestion</h4>
-                        <p class="text-sm text-gray-600">Dietary fiber से भरपूर होने के कारण constipation को prevent करता है जो pregnancy में common है।</p>
+                        <h4 class="font-bold text-green-600">7. Good for <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Digestion</a></h4>
+                        <p class="text-sm text-gray-600">Dietary fiber से भरपूर होने के कारण constipation को prevent करता है जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में common है।</p>
                     </div>
                 </div>
 

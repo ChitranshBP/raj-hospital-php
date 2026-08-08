@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में थायरॉइड के लक्षण (Thyroid Symptoms in Men) - हाइपोथायरायडिज्म और हाइपरथायरायडिज्म के लक्षण, कारण और इलाज। Thyroid in men treatment।">
     <meta name="keywords" content="thyroid symptoms in men, thyroid in men, हाइपोथायरायडिज्म, हाइपरथायरायडिज्म, thyroid treatment, थायरॉइड, thyroid problem men">
     <meta name="robots" content="index, follow">
@@ -39,7 +39,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण",
+        "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण",
         "description": "पुरुषों में थायरॉइड के लक्षण, हाइपोथायरायडिज्म और हाइपरथायरायडिज्म। RAJ Hospital Ranchi में expert treatment।",
         "url": "https://rajhospitals.com/blog/thyroid-symptoms-in-men/",
         "author": {
@@ -72,10 +72,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "पुरुषों में थायरॉइड (Thyroid) के क्या लक्षण हैं?",
+                "name": "पुरुषों में थायरॉइड (<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a>) के क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Hypothyroidism (कम thyroid) के लक्षण: weight gain, fatigue, cold intolerance, constipation, dry skin, depression। Hyperthyroidism (ज्यादा thyroid) के लक्षण: weight loss, rapid heartbeat, heat intolerance, anxiety, tremor, increased sweating। Men में specific symptoms में libido की कमी और erectile dysfunction भी शामिल है।"
+                    "text": "Hypothyroidism (कम thyroid) के लक्षण: weight gain, fatigue, cold intolerance, constipation, dry skin, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a>। Hyperthyroidism (ज्यादा thyroid) के लक्षण: weight loss, rapid heartbeat, heat intolerance, anxiety, tremor, increased sweating। Men में specific symptoms में libido की कमी और erectile dysfunction भी शामिल है।"
                 }
             },
             {
@@ -118,7 +118,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -161,7 +161,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Thyroid Symptoms in Men</span>
+            <span class="text-gray-700"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men</span>
         </nav>
     </div>
 
@@ -169,7 +169,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Endocrinology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 23, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
@@ -179,11 +179,11 @@
 
             <div class="p-6 md:p-10">
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>थायरॉइड (Thyroid)</strong> एक butterfly-shaped gland है जो गले में, voice box के नीचे स्थित होती है। यह हमारे शरीर में metabolism, energy, और temperature regulation के लिए जिम्मेदार है। हालांकि thyroid problems अक्सर women को affect करती हैं, लेकिन <strong>पुरुषों में भी thyroid disorders</strong> common हैं और इन्हें ignore करना dangerous हो सकता है।
+                    <strong>थायरॉइड (<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a>)</strong> एक butterfly-shaped gland है जो गले में, voice box के नीचे स्थित होती है। यह हमारे शरीर में metabolism, energy, और temperature regulation के लिए जिम्मेदार है। हालांकि <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> problems अक्सर women को affect करती हैं, लेकिन <strong>पुरुषों में भी <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> disorders</strong> common हैं और इन्हें ignore करना dangerous हो सकता है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस blog post में हम <strong>thyroid symptoms in men</strong> (पुरुषों में थायरॉइड के लक्षण), दोनों प्रकारों (hypothyroidism और hyperthyroidism) के बारे में, और <a href="/blog/thyroid-symptoms-in-hindi/" class="text-primary-600 hover:underline font-semibold">thyroid treatment</a> के बारे में विस्तार से जानेंगे।
+                    इस blog post में हम <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> symptoms in men</strong> (पुरुषों में थायरॉइड के लक्षण), दोनों प्रकारों (hypothyroidism और hyperthyroidism) के बारे में, और <a href="/blog/thyroid-symptoms-in-hindi/" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> treatment</a> के बारे में विस्तार से जानेंगे।
                 </p>
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">

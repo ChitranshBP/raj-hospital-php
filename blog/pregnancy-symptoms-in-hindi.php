@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Symptoms in Hindi - गर्भावस्था के लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="Pregnancy Symptoms in Hindi - गर्भावस्था (Pregnancy) के सभी early symptoms, signs और detection methods जानें। Complete guide for expecting mothers।">
     <meta name="keywords" content="pregnancy symptoms in hindi, garbhavastha ke lakshan, early pregnancy symptoms in hindi, pregnancy signs, garbh dharan ke lakshan, pregnancy detection">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Symptoms in Hindi - गर्भावस्था के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Symptoms in Hindi - गर्भावस्था के लक्षण | RAJ Hospital Ranchi",
         "description": "Pregnancy Symptoms in Hindi - गर्भावस्था (Pregnancy) के सभी early symptoms, signs और detection methods जानें। Complete guide for expecting mothers।",
         "url": "https://rajhospitals.com/blog/pregnancy-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnancy-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Symptoms in Hindi - गर्भावस्था के लक्षण | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Pregnancy Symptoms in Hindi</span>
+            <span class="text-gray-700"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Symptoms in Hindi</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Pregnancy Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Care</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Symptoms in Hindi - गर्भावस्था के लक्षण</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 30, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,15 +228,15 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>गर्भावस्था (Pregnancy)</strong> एक खास और रोमांचक समय है हर महिला के जीवन में। लेकिन कई बार यह समझना मुश्किल हो सकता है कि आप pregnant तो नहीं हैं। <strong>Pregnancy symptoms</strong> हर woman में अलग हो सकते हैं, लेकिन कुछ common signs होते हैं जो गर्भावस्था की indication देते हैं।
+                    <strong>गर्भावस्था (<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a>)</strong> एक खास और रोमांचक समय है हर महिला के जीवन में। लेकिन कई बार यह समझना मुश्किल हो सकता है कि आप <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> तो नहीं हैं। <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> symptoms</strong> हर woman में अलग हो सकते हैं, लेकिन कुछ common signs होते हैं जो गर्भावस्था की indication देते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस लेख में हम <strong>garbhavastha ke lakshan</strong> (गर्भावस्था के लक्षण) के बारे में विस्तार से जानेंगे जिससे आप अपनी pregnancy की जल्दी से जल्दी पहचान कर सकें।
+                    इस लेख में हम <strong>garbhavastha ke lakshan</strong> (गर्भावस्था के लक्षण) के बारे में विस्तार से जानेंगे जिससे आप अपनी <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> की जल्दी से जल्दी पहचान कर सकें।
                 </p>
 
                 <!-- Section 1: Early Symptoms -->
-                <h2 class="raj-h2">Early Pregnancy Symptoms (प्रारंभिक लक्षण)</h2>
+                <h2 class="raj-h2">Early <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Symptoms (प्रारंभिक लक्षण)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>गर्भधारण (conception)</strong> के बाद 1-2 weeks के भीतर ही कई <strong>early pregnancy symptoms</strong> दिखना शुरू हो जाते हैं। हालांकि, हर woman को symptoms अलग-अलग time पर और अलग-अलग intensity के साथ अनुभव होते हैं।

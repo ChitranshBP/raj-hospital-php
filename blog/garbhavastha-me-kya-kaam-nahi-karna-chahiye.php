@@ -38,7 +38,7 @@
         },
         "about": {
             "@type": "MedicalCondition",
-            "name": "गर्भावस्था (Pregnancy)",
+            "name": "गर्भावस्था (<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a>)",
             "category": "Women's Health"
         },
         "medicalSpecialty": "Obstetrics"
@@ -539,7 +539,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए - जानिए किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital Ranchi के विशेषज्ञ डॉक्टरों द्वारा सुझाई गई महत्वपूर्ण बातें।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। गर्भावस्था में क्या काम नहीं करना चाहिए शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -551,9 +551,9 @@
                         <li><a href="/blog/low-vitamin-d-symptoms-female.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज</a></li>
                         <li><a href="/blog/most-common-dental-procedures-and-how-they-work.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दांतों के सबसे आम प्रक्रियाएं और उनका काम</a></li>
                         <li><a href="/blog/pair-me-dard-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द - कारण, घरेलू उपाय और इलाज</a></li>
-                        <li><a href="/blog/thyroid-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Thyroid Symptoms in Hindi | Thyroid ke Lakshan</a></li>
-                        <li><a href="/blog/pregnant-mein-kya-kya-khana-chahie.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए</a></li>
-                        <li><a href="/blog/acidity-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Acidity ke Lakshan | Acidity Symptoms in Hindi</a></li>
+                        <li><a href="/blog/thyroid-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan</a></li>
+                        <li><a href="/blog/pregnant-mein-kya-kya-khana-chahie.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए</a></li>
+                        <li><a href="/blog/acidity-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi</a></li>
                     </ul>
                 </section>
 

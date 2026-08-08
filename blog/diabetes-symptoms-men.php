@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diabetes Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
     <meta name="description" content="Diabetes symptoms in men - recognize early warning signs like frequent urination, fatigue, weight loss, and sexual dysfunction. Expert guidance on managing diabetes effectively.">
     <meta name="keywords" content="diabetes symptoms men, male diabetes warning signs, high blood sugar men, diabetes erectile dysfunction, male diabetes symptoms">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Diabetes Symptoms in Men - Warning Signs Every Man Should Know में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Diabetes Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
         "description": "Diabetes symptoms in men - recognize early warning signs like frequent urination, fatigue, weight loss, and sexual dysfunction. Expert guidance on managing diabetes effectively.",
         "url": "https://rajhospitals.com/blog/diabetes-symptoms-men/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/diabetes-symptoms-men.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Diabetes Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Diabetes Symptoms in Men</span>
+            <span class="text-gray-700"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men</span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Men's Health</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Diabetes Symptoms in Men - Warning Signs Every Man Should Know</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,18 +228,18 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Diabetes is one of the most common health conditions affecting men worldwide</strong>, and understanding its symptoms is crucial for early detection and management. Did you know that men are statistically more likely to develop type 2 diabetes than women? This could be due to biological factors, lifestyle choices, or simply because men are less likely to seek medical attention for symptoms.
+                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> is one of the most common health conditions affecting men worldwide</strong>, and understanding its symptoms is crucial for early detection and management. Did you know that men are statistically more likely to develop type 2 <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> than women? This could be due to biological factors, lifestyle choices, or simply because men are less likely to seek medical attention for symptoms.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    When diabetes goes undiagnosed, it can lead to serious complications including heart disease, kidney damage, nerve problems, and sexual dysfunction. The key to managing diabetes effectively is recognizing the warning signs early and taking action before the condition progresses. This comprehensive guide will walk you through all the diabetes symptoms specific to men, helping you understand what to look for and when to seek medical help.
+                    When <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> goes undiagnosed, it can lead to serious complications including <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, kidney damage, nerve problems, and sexual dysfunction. The key to managing diabetes effectively is recognizing the warning signs early and taking action before the condition progresses. This comprehensive guide will walk you through all the diabetes symptoms specific to men, helping you understand what to look for and when to seek medical help.
                 </p>
 
                 <!-- Section 1: Understanding Diabetes in Men -->
-                <h2 class="raj-h2">Understanding Diabetes in Men</h2>
+                <h2 class="raj-h2">Understanding <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> in Men</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Diabetes occurs when your body either doesn't produce enough insulin or can't effectively use the insulin it produces. Insulin is a hormone that regulates blood sugar levels, allowing glucose to enter cells for energy. When this process fails, glucose builds up in the bloodstream, leading to various health problems.
+                    <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> occurs when your body either doesn't produce enough insulin or can't effectively use the insulin it produces. Insulin is a hormone that regulates blood sugar levels, allowing glucose to enter cells for energy. When this process fails, glucose builds up in the bloodstream, leading to various health problems.
                 </p>
 
                 <p class="text-gray-700 mb-4">

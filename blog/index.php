@@ -181,14 +181,14 @@
                     'date' => 'May 22, 2026',
                     'image' => 'assets/img/hiv-symptoms.png'
                 ],
-                'anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues' => [
+                '<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a>-symptoms-in-men-common-signs-of-stress-and-mental-health-issues' => [
                     'title' => 'Anxiety Symptoms in Men | Signs of Stress & Mental Health Issues',
                     'excerpt' => 'Learn about anxiety symptoms in men, stress symptoms, anxiety attack symptoms, and mental health issues. Complete guide on high anxiety symptoms.',
                     'category' => 'Mental Health',
                     'date' => 'May 22, 2026',
                     'image' => 'assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png'
                 ],
-                'acidity-symptoms-in-hindi' => [
+                '<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a>-symptoms-in-hindi' => [
                     'title' => 'Acidity ke Lakshan | Acidity Symptoms in Hindi',
                     'excerpt' => 'Acidity ke lakshan in Hindi जानें। पेट में जलन, गैस, और एसिडिटी के symptoms, causes, और treatment options।',
                     'category' => 'Gastroenterology',

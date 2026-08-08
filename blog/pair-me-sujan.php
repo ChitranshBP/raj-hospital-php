@@ -53,7 +53,7 @@
             "name": "क्या प्रेग्नेंसी में पैर में सूजन दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "प्रेग्नेंसी में पैर में सूजन - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "प्रेग्नेंसी में पैर में सूजन (Swollen Feet) के कारण, घरेलू उपाय और कब डॉक्टर को दिखाना है। Pregnancy swelling treatment and tips in Hindi।",
+        "description": "प्रेग्नेंसी में पैर में सूजन (Swollen Feet) के कारण, घरेलू उपाय और कब डॉक्टर को दिखाना है। <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> swelling treatment and tips in Hindi।",
         "url": "https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pair-me-sujan.png",
         "author": {
@@ -216,7 +216,7 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Pregnancy Care</span>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Care</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">प्रेग्नेंसी में पैर में सूजन - Complete Hindi Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 21, 2026</span>
@@ -232,7 +232,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस लेख में हम <strong>pregnancy में पैर सूजन</strong> के कारण, घरेलू उपाय, और कब medical help लेना है इसके बारे में विस्तार से जानेंगे।
+                    इस लेख में हम <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में पैर सूजन</strong> के कारण, घरेलू उपाय, और कब medical help लेना है इसके बारे में विस्तार से जानेंगे।
                 </p>
 
                 <!-- Section 1 -->
@@ -296,7 +296,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> ध्यान दें:</strong>
-                    <span class="text-gray-700"> सूजन कम करने के लिए diuretics (पानी की गोलियां) न लें - ये pregnant women के लिए unsafe हैं।</span>
+                    <span class="text-gray-700"> सूजन कम करने के लिए diuretics (पानी की गोलियां) न लें - ये <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women के लिए unsafe हैं।</span>
                 </div>
 
                 <!-- Section 4: When to see doctor -->
@@ -309,7 +309,7 @@
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li>अचानक या अत्यधिक सूजन हो</li>
                     <li>हाथों या चेहरे में भी सूजन हो</li>
-                    <li>सूजन के साथ headache, blurred vision या abdominal pain हो</li>
+                    <li>सूजन के साथ <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>, blurred vision या abdominal pain हो</li>
                     <li>एक पैर में अधिक सूजन हो (blood clot का संकेत हो सकता है)</li>
                 </ul>
 
@@ -320,8 +320,8 @@
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">क्या आपको Pregnancy Checkup की जरूरत है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में complete pregnancy care और high-risk pregnancy management available है।</p>
+                    <h3 class="text-xl font-bold mb-2">क्या आपको <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Checkup की जरूरत है?</h3>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में complete <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> care और high-risk pregnancy management available है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -345,9 +345,9 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">प्रेग्नेंसी में पैर में सूजन पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">प्रेग्नेंसी में पैर में सूजन (Swollen Feet) के कारण, घरेलू उपाय और कब डॉक्टर को दिखाना है। Pregnancy swelling treatment and tips in Hindi।</p>
+                    <p class="text-gray-700 mb-4">प्रेग्नेंसी में पैर में सूजन (Swollen Feet) के कारण, घरेलू उपाय और कब डॉक्टर को दिखाना है। <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> swelling treatment and tips in Hindi।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। प्रेग्नेंसी में पैर में सूजन शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -356,8 +356,8 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/pregnant-mein-kya-kya-khana-chahie.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए</a></li>
-                        <li><a href="/blog/pregnancy-ke-lakshan-kitne-din-me-dikhte-hain.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnancy Ke Lakshan - Kitne Din Mein Dikhte Hain?</a></li>
+                        <li><a href="/blog/pregnant-mein-kya-kya-khana-chahie.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए</a></li>
+                        <li><a href="/blog/pregnancy-ke-lakshan-kitne-din-me-dikhte-hain.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Lakshan - Kitne Din Mein Dikhte Hain?</a></li>
                         <li><a href="/blog/pregnancy-ke-pehle-week-ke-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs</a></li>
                         <li><a href="/blog/pregnancy-me-makhana-khane-ke-fayde.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: प्रेग्नेंसी में मखाना खाने के फायदे</a></li>
                         <li><a href="/blog/pregnancy-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण</a></li>

@@ -24,7 +24,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं?",
-        "description": "Complete guide about what to eat and what to avoid in High Blood Pressure. DASH diet, low sodium foods, and healthy eating tips in Hindi.",
+        "description": "Complete guide about what to eat and what to avoid in High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>. DASH diet, low sodium foods, and healthy eating tips in Hindi.",
         "url": "https://rajhospitals.com/blog/high-bp-me-kya-khaye/",
         "author": {
             "@type": "Organization",
@@ -98,7 +98,7 @@
                 "name": "High BP में कौन से fruits खाने चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "High BP के लिए सबसे अच्छे fruits हैं - केला (पोटैशियम), संतरा, अंगूर, आम, और बेर। ये fruits blood pressure control करने में मदद करते हैं। रोज़ 2-3 servings fruits ज़रूर लें।"
+                    "text": "High BP के लिए सबसे अच्छे fruits हैं - केला (पोटैशियम), संतरा, अंगूर, आम, और बेर। ये fruits <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> control करने में मदद करते हैं। रोज़ 2-3 servings fruits ज़रूर लें।"
                 }
             },
             {
@@ -138,7 +138,7 @@
                 "name": "High BP control करने के लिए क्या drink करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "High BP control के लिए अच्छे drinks हैं - नारियल पानी, sugarcane juice, fresh fruit juices without sugar, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।"
+                    "text": "High BP control के लिए अच्छे drinks हैं - नारियल पानी, sugarcane juice, fresh fruit juices without <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a>, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।"
                 }
             }
         ]
@@ -179,7 +179,7 @@
             "name": "क्या High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए High BP (High Blood Pressure) Ke Gharelu Upchar जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -256,7 +256,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b-4 border-primary-500">
-                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Blood Pressure Diet</span>
+                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Diet</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं?</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
@@ -268,7 +268,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>High BP (उच्च रक्तचाप)</strong> एक ऐसी समस्या है जो लाखों भारतीयों को प्रभावित करती है। अगर आपका भी <a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="text-primary-600 hover:underline">high blood pressure</a> है, तो Diet सबसे Important step है। सही खान-पान से आप BP को नियंत्रित कर सकते हैं और दवाइयों की ज़रूरत भी कम हो सकती है।
+                    <strong>High BP (उच्च रक्तचाप)</strong> एक ऐसी समस्या है जो लाखों भारतीयों को प्रभावित करती है। अगर आपका भी <a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi/" class="text-primary-600 hover:underline">high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a></a> है, तो Diet सबसे Important step है। सही खान-पान से आप BP को नियंत्रित कर सकते हैं और दवाइयों की ज़रूरत भी कम हो सकती है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -276,10 +276,10 @@
                 </p>
 
                 <!-- What is High BP -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">High Blood Pressure क्या है?</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>High Blood Pressure (Hypertension)</strong> तब होता है जब आपकी arteries में blood का pressure बहुत high हो जाता है। Normal BP 120/80 mmHg से कम होता है। जब BP 130/80 से अधिक हो जाए, तो इसे High BP माना जाता है।
+                    <strong>High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> (Hypertension)</strong> तब होता है जब आपकी arteries में blood का pressure बहुत high हो जाता है। Normal BP 120/80 mmHg से कम होता है। जब BP 130/80 से अधिक हो जाए, तो इसे High BP माना जाता है।
                 </p>
 
                 <div class="bg-green-50 border-l-4 border-primary-500 p-4 rounded-r-lg mb-6">
@@ -288,14 +288,14 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    High BP अगर control नहीं किया जाए तो <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">stroke</a>, heart attack, और kidney problems जैसी गंभीर बीमारियाँ हो सकती हैं। इसलिए diet पर ध्यान देना बहुत ज़रूरी है।
+                    High BP अगर control नहीं किया जाए तो <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a>, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>, और kidney problems जैसी गंभीर बीमारियाँ हो सकती हैं। इसलिए diet पर ध्यान देना बहुत ज़रूरी है।
                 </p>
 
                 <!-- DASH Diet Section -->
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">DASH Diet क्या है - Best Diet for High BP</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>DASH (Dietary Approaches to Stop Hypertension)</strong> diet विशेष रूप से high BP patients के लिए design किया गया है। इस diet को follow करने से BP 8-14 mmHg तक कम हो सकता है।
+                    <strong>DASH (Dietary Approaches to Stop <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Hypertension</a>)</strong> diet विशेष रूप से high BP patients के लिए design किया गया है। इस diet को follow करने से BP 8-14 mmHg तक कम हो सकता है।
                 </p>
 
                 <div class="bg-primary-50 border border-primary-200 rounded-lg p-4 mb-6">
@@ -429,7 +429,7 @@
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Cold Drinks और Soda</h4>
-                        <p class="text-sm text-gray-600">इनमें excessive sugar और sodium होती है। Fresh juices या nimbu pani prefer करें।</p>
+                        <p class="text-sm text-gray-600">इनमें excessive <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> और sodium होती है। Fresh juices या nimbu pani prefer करें।</p>
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Tea और Coffee (अधिक)</h4>

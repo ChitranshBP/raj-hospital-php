@@ -45,7 +45,7 @@
             "name": "Pet me right side dard hona ka sabse common karan kya hai?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "पेट के right side में दर्द के कई कारण हो सकते हैं। सबसे common कारणों में gastritis, gas problem, constipation, appendix inflammation (appendicitis), gallbladder stones, kidney stones, और urinary tract infection शामिल हैं। दर्द की जगह (ऊपर या नीचे), its nature (sharp ya dull), और accompanying symptoms के आधार पर doctor सही diagnosis कर सकते हैं।"
+                "text": "पेट के right side में दर्द के कई कारण हो सकते हैं। सबसे common कारणों में gastritis, <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> problem, constipation, appendix inflammation (appendicitis), gallbladder stones, kidney stones, और urinary tract infection शामिल हैं। दर्द की जगह (ऊपर या नीचे), its nature (sharp ya dull), और accompanying symptoms के आधार पर doctor सही diagnosis कर सकते हैं।"
             }
         },
         {
@@ -69,7 +69,7 @@
             "name": "Right side stomach pain female में कब ज्यादा common होता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Women में right side stomach pain के additional causes हो सकते हैं - ovarian cysts, ectopic pregnancy, endometriosis, और menstrual cramps। Pregnancy के दौरान right side pain को especially seriously लेना चाहिए और तुरंत doctor से contact करना चाहिए।"
+                "text": "Women में right side stomach pain के additional causes हो सकते हैं - ovarian cysts, ectopic <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>, endometriosis, और menstrual cramps। Pregnancy के दौरान right side pain को especially seriously लेना चाहिए और तुरंत doctor से contact करना चाहिए।"
             }
         },
         {
@@ -238,7 +238,7 @@
             <h2 class="text-lg font-semibold text-gray-800 mb-4">Table of Contents</h2>
             <ul class="space-y-2">
                 <li><a href="#causes" class="text-secondary-600 hover:underline">1. Pet Me Right Side Dard Hona Ke Karan</a></li>
-                <li><a href="#symptoms" class="text-secondary-600 hover:underline">2. Right Side Stomach Pain Ke Symptoms</a></li>
+                <li><a href="#symptoms" class="text-secondary-600 hover:underline">2. Right Side <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Stomach Pain</a> Ke Symptoms</a></li>
                 <li><a href="#diagnosis" class="text-secondary-600 hover:underline">3. Right Side Pet Dard Ki Diagnosis</a></li>
                 <li><a href="#treatment" class="text-secondary-600 hover:underline">4. Pet Ke Right Side Me Dard Ka Treatment</a></li>
                 <li><a href="#home-remedies" class="text-secondary-600 hover:underline">5. पेट के राइट साइड में दर्द के घरेलू उपाय</a></li>
@@ -256,12 +256,12 @@
                     Pet Me Right Side Dard Hona Ke Karan - दर्द के मुख्य कारण
                 </h2>
                 <p class="text-gray-600 mb-4">
-                    <strong>Pet me right side dard hona</strong> एक ऐसी समस्या है जो अक्सर लोगों को परेशान करती है। Right side stomach pain ke reasons अलग-अलग हो सकते हैं - कभी gas ya acidity से, तो कभी किसी serious medical condition से। आइए विस्तार से जानते हैं:
+                    <strong>Pet me right side dard hona</strong> एक ऐसी समस्या है जो अक्सर लोगों को परेशान करती है। Right side <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">stomach pain</a> ke reasons अलग-अलग हो सकते हैं - कभी gas ya acidity से, तो कभी किसी serious medical condition से। आइए विस्तार से जानते हैं:
                 </p>
 
                 <h3 class="text-xl font-semibold text-gray-800 mb-3">1. Gastric Issues - पेट की समस्याएं</h3>
                 <p class="text-gray-600 mb-4">
-                    <strong>Pet ke right side me dard hona</strong> सबसे अधिक <strong>gas problem</strong> और <strong>gastritis</strong> की वजह से होता है। जब पेट में अधिक acid बनता है या gas trapped हो जाता है, तो दर्द right side में महसूस हो सकता है। <strong>Spicy food</strong>, <strong>irregular eating habits</strong>, और <strong>stress</strong> इस problem को बढ़ाते हैं।
+                    <strong>Pet ke right side me dard hona</strong> सबसे अधिक <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> problem</strong> और <strong>gastritis</strong> की वजह से होता है। जब पेट में अधिक acid बनता है या <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> trapped हो जाता है, तो दर्द right side में महसूस हो सकता है। <strong>Spicy food</strong>, <strong>irregular eating habits</strong>, और <strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a></strong> इस problem को बढ़ाते हैं।
                 </p>
 
                 <h3 class="text-xl font-semibold text-gray-800 mb-3">2. Appendicitis - आंतों की सूजन</h3>
@@ -279,9 +279,9 @@
                     Right side <strong>kidney stones</strong> से भी <strong>pet me right side dard</strong> हो सकता है। दर्द बहुत तेज होता है और back से लेकर groin तक फैल सकता है। <strong>Painful urination</strong>, <strong>blood in urine</strong>, और <strong>nausea</strong> इसके symptoms हैं।
                 </p>
 
-                <h3 class="text-xl font-semibold text-gray-800 mb-3">5. Liver Problems - लिवर की समस्याएं</h3>
+                <h3 class="text-xl font-semibold text-gray-800 mb-3">5. <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Problems - लिवर की समस्याएं</h3>
                 <p class="text-gray-600 mb-4">
-                    Liver में किसी भी प्रकार की समस्या (जैसे <strong>fatty liver</strong>, <strong>hepatitis</strong>) से <strong>pet ke right side upar</strong> दर्द हो सकता है। Liver पेट के right upper quadrant में स्थित होता है। <strong>Alcohol consumption</strong> और <strong>unhealthy diet</strong> liver problems के main causes हैं।
+                    <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> में किसी भी प्रकार की समस्या (जैसे <strong>fatty <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a></strong>, <strong>hepatitis</strong>) से <strong>pet ke right side upar</strong> दर्द हो सकता है। <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> पेट के right upper quadrant में स्थित होता है। <strong>Alcohol consumption</strong> और <strong>unhealthy diet</strong> <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> problems के main causes हैं।
                 </p>
 
                 <h3 class="text-xl font-semibold text-gray-800 mb-3">6. Intestinal Problems - आंतों की बीमारियां</h3>

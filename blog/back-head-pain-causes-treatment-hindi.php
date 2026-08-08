@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology & Orthopedics</span>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> & Orthopedics</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">गर्दन और सिर दर्द: कारण, लक्षण और इलाज - Complete Hindi Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
@@ -227,14 +227,14 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>गर्दन और सिर दर्द</strong> (Cervicogenic Headache) एक आम समस्या है जो कई कारणों से हो सकती है। यह आजकल बैठक वाली जीवनशैली (sedentary lifestyle), ज्यादा देर तक स्क्रीन देखना, और तनाव के कारण और भी आम हो गया है। कई बार यह दर्द इतना तेज होता है कि रोजमर्रा की जिंदगी प्रभावित होती है।
+                    <strong>गर्दन और सिर दर्द</strong> (Cervicogenic <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>) एक आम समस्या है जो कई कारणों से हो सकती है। यह आजकल बैठक वाली जीवनशैली (sedentary lifestyle), ज्यादा देर तक स्क्रीन देखना, और तनाव के कारण और भी आम हो गया है। कई बार यह दर्द इतना तेज होता है कि रोजमर्रा की जिंदगी प्रभावित होती है।
                 </p>
 
                 <!-- Section 1 -->
                 <h2 class="raj-h2">गर्दन और सिर दर्द क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>गर्दन और सिर दर्द</strong> एक प्रकार का दर्द है जो गर्दन से शुरू होकर सिर की तरफ फैलता है। इसे <strong>Cervicogenic Headache</strong> भी कहते हैं। यह गर्दन की हड्डियों, मांसपेशियों, या नसों में किसी समस्या के कारण होता है।
+                    <strong>गर्दन और सिर दर्द</strong> एक प्रकार का दर्द है जो गर्दन से शुरू होकर सिर की तरफ फैलता है। इसे <strong>Cervicogenic <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></strong> भी कहते हैं। यह गर्दन की हड्डियों, मांसपेशियों, या नसों में किसी समस्या के कारण होता है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -263,7 +263,7 @@
                         <p class="text-sm text-gray-600">गर्दन के बीच की चट्टानों (discs) में समस्या से नसों पर दबाव पड़ सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">5. मानसिक तनाव (Stress)</h4>
+                        <h4 class="font-bold text-secondary-600">5. मानसिक तनाव (<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a>)</h4>
                         <p class="text-sm text-gray-600">ज्यादा तनाव से गर्दन और कंधे की मांसपेशियां अकड़ जाती हैं, जिससे सिरदर्द होता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -337,7 +337,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको गर्दन और सिर दर्द की जांच की जरूरत है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में MRI, X-Ray, और Neurology experts available हैं।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में MRI, X-Ray, और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> experts available हैं।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -413,7 +413,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">गर्दन और सिर दर्द: कारण, लक्षण और इलाज पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists और orthopedists की advice।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। गर्दन और सिर दर्द: कारण, लक्षण और इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -424,12 +424,12 @@
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/sir-ke-piche-dard-hona/" class="text-secondary-600 hover:underline font-semibold">सिर के पीछे दर्द होना — कारण और उपचार (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: माइग्रेन के लक्षण - कारण, प्रकार और इलाज</a></li>
-                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Best Orthopedic Care</a></li>
+                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Treatment Ranchi - Best Orthopedic Care</a></li>
                         <li><a href="/blog/fits-ka-ilaj.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Fits Ka Ilaj - Epilepsy Treatment in Hindi</a></li>
-                        <li><a href="/blog/gas-se-peeth-dard-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi</a></li>
+                        <li><a href="/blog/gas-se-peeth-dard-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi</a></li>
                         <li><a href="/blog/headaches-types-causes-treatment-solutions.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Headaches Types, Causes aur Treatment Solutions</a></li>
-                        <li><a href="/blog/joint-pain-in-winter.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain in Winter - कारण और उपाय</a></li>
-                        <li><a href="/blog/seene-me-gas-ka-dard.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein?</a></li>
+                        <li><a href="/blog/joint-pain-in-winter.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - कारण और उपाय</a></li>
+                        <li><a href="/blog/seene-me-gas-ka-dard.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein?</a></li>
                     </ul>
                 </section>
 

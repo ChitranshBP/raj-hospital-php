@@ -45,7 +45,7 @@
             "name": "सिर के पीछे दर्द होना क्यों होता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "सिर के पीछे दर्द (sir ke piche dard hona) कई कारणों से हो सकता है - गर्दन का दर्द, tension headache, माइग्रेन, poor posture, stress, आंखों की थकान, high blood pressure, या cervical spondylosis। सही कारण जानने के लिए डॉक्टर से जांच जरूरी है।"
+                "text": "सिर के पीछे दर्द (sir ke piche dard hona) कई कारणों से हो सकता है - गर्दन का दर्द, tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>, माइग्रेन, poor posture, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, आंखों की थकान, high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a>, या cervical spondylosis। सही कारण जानने के लिए डॉक्टर से जांच जरूरी है।"
             }
         },
         {
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "सिर के पीछे दर्द होना | Sir ke piche dard hona Causes & Treatment in Hindi",
-        "description": "सिर के पीछे दर्द होना (sir ke piche dard hona) के कारण जानें। गर्दन दर्द, माइग्रेन, tension headache समेत अन्य कारण और उपाय। RAJ Hospital Ranchi से जानें।",
+        "description": "सिर के पीछे दर्द होना (sir ke piche dard hona) के कारण जानें। गर्दन दर्द, माइग्रेन, tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> समेत अन्य कारण और उपाय। RAJ Hospital Ranchi से जानें।",
         "url": "https://rajhospitals.com/blog/sir-ke-piche-dard-hona/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/sir-ke-piche-dard-hona.png",
         "author": {
@@ -216,7 +216,7 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology</span>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">सिर के पीछे दर्द होना | Sir ke piche dard hona - कारण और उपाय</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 25, 2026</span>
@@ -244,15 +244,15 @@
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">1. Tension Headache (तनाव सिरदर्द)</h4>
+                        <h4 class="font-bold text-secondary-600">1. Tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> (तनाव सिरदर्द)</h4>
                         <p class="text-sm text-gray-600">तनाव, चिंता और थकान से गर्दन और सिर की मांसपेशियों में तनाव आता है, जिससे <strong>sir me piche dard hona</strong> होता है। यह सबसे आम कारण है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">2. Cervicogenic Headache (गर्दन से संबंधित सिरदर्द)</h4>
+                        <h4 class="font-bold text-secondary-600">2. Cervicogenic <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> (गर्दन से संबंधित सिरदर्द)</h4>
                         <p class="text-sm text-gray-600">गर्दन की हड्डियों या मांसपेशियों में समस्या से <strong>sir ke pichle hisse me dard</strong> शुरू होकर सिर तक फैल सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">3. Migraine (माइग्रेन)</h4>
+                        <h4 class="font-bold text-secondary-600">3. <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> (माइग्रेन)</h4>
                         <p class="text-sm text-gray-600">माइग्रेन में सिर के पीछे या एक तरफ तेज दर्द होता है। नज़र में धुंधलापन, मतली और उल्टी भी हो सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -260,7 +260,7 @@
                         <p class="text-sm text-gray-600">ज्यादा देर तक कंप्यूटर या मोबाइल पर काम करने से गर्दन पर दबाव पड़ता है और <strong>back head pain</strong> होता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">5. High Blood Pressure (उच्च रक्तचाप)</h4>
+                        <h4 class="font-bold text-secondary-600">5. High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> (उच्च रक्तचाप)</h4>
                         <p class="text-sm text-gray-600">BP high होने पर सिर के पीछे धड़कने जैसा दर्द हो सकता है। इसके अन्य symptoms में चक्कर और थकान भी होती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -360,7 +360,7 @@
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>स्क्रीन time कम करें</strong> - हर घंटे 5-10 मिनट का break लें</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>तनाव प्रबंधन करें</strong> - yoga और meditation अपनाएं</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>सही तकिया चुनें</strong> - गर्दन को support देने वाला तकिया use करें</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>BP और sugar check कराते रहें</strong> - नियमित health checkup</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>BP और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> check कराते रहें</strong> - नियमित health checkup</li>
                     </ul>
                 </div>
 
@@ -375,7 +375,7 @@
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-800">दवाइयां</div>
-                        <p class="text-sm text-gray-600">Painkillers, muscle relaxants, या migraine medicines डॉक्टर की सलाह पर</p>
+                        <p class="text-sm text-gray-600">Painkillers, muscle relaxants, या <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a> medicines डॉक्टर की सलाह पर</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
@@ -402,7 +402,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">सिर के पीछे दर्द क्यों होता है (sir ke piche dard kyu hota hai)?</h4>
-                        <p class="text-gray-700">सिर के पीछे दर्द कई कारणों से हो सकता है - tension headache, गर्दन की समस्या, माइग्रेन, poor posture, high blood pressure, या आंखों की थकान।</p>
+                        <p class="text-gray-700">सिर के पीछे दर्द कई कारणों से हो सकता है - tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>, गर्दन की समस्या, माइग्रेन, poor posture, high blood pressure, या आंखों की थकान।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या गर्दन का दर्द सिर में फैल सकता है?</h4>

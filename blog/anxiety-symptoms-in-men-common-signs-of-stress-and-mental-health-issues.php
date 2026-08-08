@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital</title>
+    <title><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Anxiety symptoms in men - recognize stress, anxiety attack symptoms, and mental health issues. Learn about high anxiety symptoms, signs of stress, and when to seek help. Complete Hindi/English guide.">
     <meta name="keywords" content="anxiety symptoms in men, stress symptoms in men, anxiety attack symptoms male, symptoms of stress in men, symptoms of anxiety in men, signs of stress in men, high anxiety symptoms">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या Anxiety Symptoms in Men | Stress & Mental Health Issues Signs दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital",
+        "headline": "<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital",
         "description": "Anxiety symptoms in men - recognize stress, anxiety attack symptoms, and mental health issues. Learn about high anxiety symptoms, signs of stress, and when to seek help. Complete Hindi/English guide.",
         "url": "https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital"
+                "name": "<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Anxiety Symptoms in Men</span>
+            <span class="text-gray-700"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Mental Health</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Anxiety Symptoms in Men | Signs of Stress & Mental Health Issues</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Mental Health</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Signs of Stress & Mental Health Issues</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
@@ -228,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Anxiety symptoms in men</strong> are often overlooked or dismissed as stress. Many men struggle with <strong>anxiety and stress</strong> but hesitate to seek help due to societal expectations. Understanding these <strong>symptoms of anxiety in men</strong> is crucial for early intervention and treatment.
+                    <strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> symptoms in men</strong> are often overlooked or dismissed as <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>. Many men struggle with <strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> and stress</strong> but hesitate to seek help due to societal expectations. Understanding these <strong>symptoms of <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> in men</strong> is crucial for early intervention and treatment.
                 </p>
 
                 <p class="text-gray-700 mb-6">

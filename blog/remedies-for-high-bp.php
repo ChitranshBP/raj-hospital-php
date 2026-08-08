@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi</title>
+    <title>High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar | RAJ Hospital Ranchi</title>
     <meta name="description" content="High BP ke gharelu upchar, blood pressure ko control karne ke tarike, yoga asanas, aur diet tips। Blood pressure natural remedies जानें।">
     <meta name="keywords" content="high bp remedies, high blood pressure home remedies, bp control tips, blood pressure natural treatment, high blood pressure diet">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "High BP (High Blood Pressure) Ke Gharelu Upchar में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi",
+        "headline": "High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar | RAJ Hospital Ranchi",
         "description": "High BP ke gharelu upchar, blood pressure ko control karne ke tarike, yoga asanas, aur diet tips। Blood pressure natural remedies जानें।",
         "url": "https://rajhospitals.com/blog/remedies-for-high-bp",
         "image": "https://rajhospitals.com/blog/assets/img/featured/remedies-for-high-bp.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi"
+                "name": "High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Heart Health</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">High BP (High Blood Pressure) Ke Gharelu Upchar: Complete Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar: Complete Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -222,18 +222,18 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>High blood pressure</strong> (BP), जिसे hypertension कहते हैं, आजकल एक common health problem बन गया है। India में लगभग 30% adults high BP से affect हैं। अगर आपका BP 140/90 mmHg या उससे ज्यादा है, तो इसे high BP माना जाता है।
+                    <strong>High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a></strong> (BP), जिसे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">hypertension</a> कहते हैं, आजकल एक common health problem बन गया है। India में लगभग 30% adults high BP से affect हैं। अगर आपका BP 140/90 mmHg या उससे ज्यादा है, तो इसे high BP माना जाता है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>High BP</strong> को control करना जरूरी है क्योंकि यह heart disease, stroke, kidney problems जैसी serious health conditions का कारण बन सकता है। Medicines के अलावा, कई <strong>gharelu upchar (home remedies)</strong> और lifestyle changes BP control करने में मदद कर सकते हैं। <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी cardiology team इन natural remedies के साथ medical treatment भी provide करती है।
+                    <strong>High BP</strong> को control करना जरूरी है क्योंकि यह <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a>, kidney problems जैसी serious health conditions का कारण बन सकता है। Medicines के अलावा, कई <strong>gharelu upchar (home remedies)</strong> और lifestyle changes BP control करने में मदद कर सकते हैं। <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी cardiology team इन natural remedies के साथ medical treatment भी provide करती है।
                 </p>
 
                 <!-- Section 1: Understanding High BP -->
-                <h2 class="raj-h2">High Blood Pressure Kya Hai?</h2>
+                <h2 class="raj-h2">High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Kya Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    जब आपका <strong>blood pressure</strong> बहुत high हो जाता है, तो इसे high BP या hypertension कहते हैं। BP two numbers में measure होता है:
+                    जब आपका <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a></strong> बहुत high हो जाता है, तो इसे high BP या <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">hypertension</a> कहते हैं। BP two numbers में measure होता है:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">

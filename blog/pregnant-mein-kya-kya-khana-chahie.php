@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi</title>
     <meta name="description" content="Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए? Complete pregnancy diet guide in Hindi। nutrients, foods to avoid, और meal planning tips।">
     <meta name="keywords" content="pregnant mein kya khaana chahiye, garbhwali ko kya khana chahiye, pregnancy diet in hindi, garbhavastha mein kya khana chahiye, pregnant diet plan, pregnancy nutrition">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi",
         "description": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए? Complete pregnancy diet guide in Hindi। nutrients, foods to avoid, और meal planning tips।",
         "url": "https://rajhospitals.com/blog/pregnant-mein-kya-kya-khana-chahie/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnant-mein-kya-kya-khana-chahie.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Pregnancy Nutrition</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Nutrition</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 31, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,15 +228,15 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>गर्भावस्था (pregnancy)</strong> में nutrition का विशेष ध्यान रखना बहुत जरूरी है। इस समय आप जो खाती हैं वह न सिर्फ आपकी health के लिए, बल्कि आपके unborn baby की growth और development के लिए भी important है।
+                    <strong>गर्भावस्था (<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>)</strong> में nutrition का विशेष ध्यान रखना बहुत जरूरी है। इस समय आप जो खाती हैं वह न सिर्फ आपकी health के लिए, बल्कि आपके unborn baby की growth और development के लिए भी important है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस लेख में हम जानेंगे कि <strong>garbhwali ko kya khana chahiye</strong> (गर्भवती को क्या खाना चाहिए) और pregnancy diet में कौन से nutrients सबसे important हैं।
+                    इस लेख में हम जानेंगे कि <strong>garbhwali ko kya khana chahiye</strong> (गर्भवती को क्या खाना चाहिए) और <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> diet में कौन से nutrients सबसे important हैं।
                 </p>
 
                 <!-- Section 1: Key Nutrients -->
-                <h2 class="raj-h2">Pregnancy में जरूरी Nutrients</h2>
+                <h2 class="raj-h2"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> में जरूरी Nutrients</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
@@ -255,7 +255,7 @@
                         <h4 class="font-bold text-green-600">3. Calcium (कैल्शियम)</h4>
                         <p class="text-sm text-gray-600"><strong>Daily need:</strong> 1000 mg</p>
                         <p class="text-sm text-gray-600"><strong>Sources:</strong> Milk, cheese, yogurt, calcium-fortified foods, leafy greens</p>
-                        <p class="text-sm text-gray-600"><strong>Benefits:</strong> Baby की bone development के लिए essential।</p>
+                        <p class="text-sm text-gray-600"><strong>Benefits:</strong> Baby की <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> development के लिए essential।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">4. Protein (प्रोटीन)</h4>
@@ -349,7 +349,7 @@
                 </div>
 
                 <!-- Section 5: Tips -->
-                <h2 class="raj-h2">Pregnancy Diet Tips</h2>
+                <h2 class="raj-h2"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Diet Tips</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Small, frequent meals</strong> खाएं - 5-6 small meals daily</li>
@@ -361,7 +361,7 @@
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">क्या आपको Pregnancy Diet Consultation चाहिए?</h3>
+                    <h3 class="text-xl font-bold mb-2">क्या आपको <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Diet Consultation चाहिए?</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert dietitians द्वारा personalized pregnancy nutrition plan available है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>

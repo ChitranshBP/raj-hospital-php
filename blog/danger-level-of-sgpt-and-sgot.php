@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "Danger Level of SGPT and SGOT - When to Worry? | RAJ Hospital Ranchi",
-        "description": "Understand SGPT and SGOT danger levels, what values indicate liver damage, symptoms of high liver enzymes, and when to seek medical help. Expert guidance from Ranchi's best hospital.",
+        "description": "Understand SGPT and SGOT danger levels, what values indicate <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> damage, symptoms of high liver enzymes, and when to seek medical help. Expert guidance from Ranchi's best hospital.",
         "url": "https://rajhospitals.com/blog/danger-level-of-sgpt-and-sgot/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/danger-level-of-sgpt-and-sgot.png",
         "author": {
@@ -216,7 +216,7 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Liver Health</span>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Danger Level of SGPT and SGOT - When to Worry?</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
@@ -228,27 +228,27 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    If you've ever had a blood test and found out that your <strong>SGPT or SGOT levels</strong> are elevated, you might have wondered whether this is something to worry about. These liver enzyme tests are among the most commonly ordered blood tests, and understanding what they mean could be crucial for your health.
+                    If you've ever had a blood test and found out that your <strong>SGPT or SGOT levels</strong> are elevated, you might have wondered whether this is something to worry about. These <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> enzyme tests are among the most commonly ordered blood tests, and understanding what they mean could be crucial for your health.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    Your liver is one of the most vital organs in your body, performing over 500 essential functions including detoxification, protein synthesis, and bile production. When the liver is damaged or under stress, it releases these enzymes into the bloodstream, causing elevated SGPT and SGOT levels. But how do you know when the elevation is dangerous? Let's dive deep into understanding <strong>SGPT and SGOT danger levels</strong> and what they mean for your health.
+                    Your <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> is one of the most vital organs in your body, performing over 500 essential functions including detoxification, protein synthesis, and bile production. When the liver is damaged or under <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, it releases these enzymes into the bloodstream, causing elevated SGPT and SGOT levels. But how do you know when the elevation is dangerous? Let's dive deep into understanding <strong>SGPT and SGOT danger levels</strong> and what they mean for your health.
                 </p>
 
                 <!-- Section 1: What are SGPT and SGOT? -->
                 <h2 class="raj-h2">What are SGPT and SGOT?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>SGPT (Serum Glutamic Pyruvic Transaminase)</strong>, also known as <strong>ALT (Alanine Aminotransferase)</strong>, is an enzyme primarily found in the liver. When liver cells are damaged, SGPT leaks into the bloodstream, making it a sensitive marker for liver injury.
+                    <strong>SGPT (Serum Glutamic Pyruvic Transaminase)</strong>, also known as <strong>ALT (Alanine Aminotransferase)</strong>, is an enzyme primarily found in the <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>. When liver cells are damaged, SGPT leaks into the bloodstream, making it a sensitive marker for liver injury.
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>SGOT (Serum Glutamic Oxaloacetic Transaminase)</strong>, also known as <strong>AST (Aspartate Aminotransferase)</strong>, is found in various organs including the liver, heart, muscles, and kidneys. While SGOT is less specific to the liver than SGPT, elevated levels still indicate potential liver damage or other health issues.
+                    <strong>SGOT (Serum Glutamic Oxaloacetic Transaminase)</strong>, also known as <strong>AST (Aspartate Aminotransferase)</strong>, is found in various organs including the <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>, heart, muscles, and kidneys. While SGOT is less specific to the liver than SGPT, elevated levels still indicate potential liver damage or other health issues.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Difference:</strong>
-                    <span class="text-gray-700"> SGPT is more liver-specific, while SGOT can also indicate issues with the heart, muscles, or kidneys. That's why doctors often look at both tests together for a complete picture.</span>
+                    <span class="text-gray-700"> SGPT is more <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>-specific, while SGOT can also indicate issues with the heart, muscles, or kidneys. That's why doctors often look at both tests together for a complete picture.</span>
                 </div>
 
                 <!-- Section 2: Normal Ranges -->
@@ -296,13 +296,13 @@
                 <h2 class="raj-h2">What Causes Elevated SGPT and SGOT Levels?</h2>
 
                 <p class="text-gray-700 mb-6">
-                    Elevated liver enzymes don't happen in isolation. There are numerous factors that can cause your SGPT and SGOT levels to rise:
+                    Elevated <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> enzymes don't happen in isolation. There are numerous factors that can cause your SGPT and SGOT levels to rise:
                 </p>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">1. Liver Diseases</h4>
-                        <p class="text-sm text-gray-600">Hepatitis (A, B, C), fatty liver disease, cirrhosis, and liver cancer can all cause significant elevation in these enzymes.</p>
+                        <h4 class="font-bold text-secondary-600">1. <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Diseases</h4>
+                        <p class="text-sm text-gray-600">Hepatitis (A, B, C), fatty <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> disease, cirrhosis, and liver <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> can all cause significant elevation in these enzymes.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Alcohol Consumption</h4>

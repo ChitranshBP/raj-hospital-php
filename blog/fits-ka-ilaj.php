@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Fits Ka Ilaj - Epilepsy Treatment in Hindi",
-        "description": "Fits (मिरगी/अपस्मार) का इलाज, दवाइयां, कारण और नियंत्रण के उपाय। RAJ Hospital Ranchi में expert neurology treatment।",
+        "description": "Fits (मिरगी/अपस्मार) का इलाज, दवाइयां, कारण और नियंत्रण के उपाय। RAJ Hospital Ranchi में expert <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> treatment।",
         "url": "https://rajhospitals.com/blog/fits-ka-ilaj/",
         "author": {
             "@type": "Organization",
@@ -124,7 +124,7 @@
                 "name": "Fits (मिरगी) क्या है और इसके क्या कारण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Fits या मिरगी (Epilepsy) एक neurological disorder है जिसमें brain की nerve cells में अचानक विद्युतीय गतिविधि में अनियमितता आ जाती है, जिससे दौरे (seizures) आते हैं। कारणों में brain injury, infections, genetic factors, brain tumors, और stroke शामिल हैं।"
+                    "text": "Fits या मिरगी (Epilepsy) एक neurological disorder है जिसमें brain की nerve cells में अचानक विद्युतीय गतिविधि में अनियमितता आ जाती है, जिससे दौरे (seizures) आते हैं। कारणों में brain injury, infections, genetic factors, brain tumors, और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> शामिल हैं।"
                 }
             },
             {
@@ -164,7 +164,7 @@
                 "name": "Fits के patients को क्या खांचा चाहिए और क्या नहीं खाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Fits के patients को: 1) Alcohol और caffeine से बचें 2) नियमित meal patterns बनाएं 3) Green vegetables, fruits, और protein rich food खाएं 4) Enough water पिएं 5) Processed food और excessive sugar से बचें 6) Doctor की सलाह पर keto diet कुछ cases में helpful हो सकती है।"
+                    "text": "Fits के patients को: 1) Alcohol और caffeine से बचें 2) नियमित meal patterns बनाएं 3) Green vegetables, fruits, और protein rich food खाएं 4) Enough water पिएं 5) Processed food और excessive <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> से बचें 6) Doctor की सलाह पर keto diet कुछ cases में helpful हो सकती है।"
                 }
             },
             {
@@ -172,7 +172,7 @@
                 "name": "Fits से पीड़ित मरीज़ों के लिए रोज़मर्रा की ज़िंदगी में क्या सावधानियां रखनी चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Fits patients को: 1) समय पर दवाइयां लें 2) नियमित sleep लें (sleep deprivation से seizures बढ़ सकते हैं) 3) तैराकी और ऊंचाई वाली जगहों से बचें 4) Driving से पहले doctor की permission लें 5) stress management करें 6) नियमित checkups कराएं 7) Medical alert bracelet पहनें।"
+                    "text": "Fits patients को: 1) समय पर दवाइयां लें 2) नियमित sleep लें (sleep deprivation से seizures बढ़ सकते हैं) 3) तैराकी और ऊंचाई वाली जगहों से बचें 4) Driving से पहले doctor की permission लें 5) <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> management करें 6) नियमित checkups कराएं 7) Medical alert bracelet पहनें।"
                 }
             }
         ]
@@ -273,7 +273,7 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
-                <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology</span>
+                <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Fits Ka Ilaj - मिरगी/अपस्मार का complete इलाज़ और नियंत्रण</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
@@ -289,7 +289,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital Ranchi में हमारी expert neurology team <strong>epilepsy treatment</strong> में specialized है। हमारे पास advanced diagnostic tools और latest treatment protocols उपलब्ध हैं। अगर आप या आपके किसी परिचित को fits की समस्या है, तो हमारे <a href="/doctor-profile.php" class="text-primary-600 hover:underline font-semibold">experienced neurologists</a> से ज़रूर मिलें।
+                    RAJ Hospital Ranchi में हमारी expert <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> team <strong>epilepsy treatment</strong> में specialized है। हमारे पास advanced diagnostic tools और latest treatment protocols उपलब्ध हैं। अगर आप या आपके किसी परिचित को fits की समस्या है, तो हमारे <a href="/doctor-profile.php" class="text-primary-600 hover:underline font-semibold">experienced neurologists</a> से ज़रूर मिलें।
                 </p>
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">
@@ -347,12 +347,12 @@
                         <p class="text-sm text-gray-600">Meningitis, encephalitis, या brain abscess जैसी infections से brain damage हो सकती है जो fits का कारण बनती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
-                        <h4 class="font-bold text-primary-600">4. Stroke</h4>
-                        <p class="text-sm text-gray-600">Brain stroke के बाद epilepsy develop हो सकती है। Stroke patients को especially ध्यान देना चाहिए। <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Stroke treatment</a> में comprehensive care available है।</p>
+                        <h4 class="font-bold text-primary-600">4. <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a></h4>
+                        <p class="text-sm text-gray-600">Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> के बाद epilepsy develop हो सकती है। Stroke patients को especially ध्यान देना चाहिए। <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> treatment</a> में comprehensive care available है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">5. Brain Tumors</h4>
-                        <p class="text-sm text-gray-600">Brain tumor या lesion से भी seizures हो सकते हैं। MRI या CT scan से tumor detect किया जा सकता है।</p>
+                        <p class="text-sm text-gray-600"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">tumor</a></a> या lesion से भी seizures हो सकते हैं। MRI या CT scan से tumor detect किया जा सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">6. Other Factors</h4>
@@ -397,7 +397,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">2. MRI (Magnetic Resonance Imaging)</h4>
-                        <p class="text-sm text-gray-600">Brain की detailed images लेता है। Tumor, scar tissue, या structural abnormalities detect करने में helpful।</p>
+                        <p class="text-sm text-gray-600">Brain की detailed images लेता है। <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a>, scar tissue, या structural abnormalities detect करने में helpful।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">3. CT Scan</h4>

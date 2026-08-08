@@ -256,7 +256,7 @@
                         <p class="text-sm text-gray-600">गर्दन हिलाने या घुमाने में कठिनाई और दर्द।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">2. सिर में दर्द (Cervicogenic Headache)</h4>
+                        <h4 class="font-bold text-secondary-600">2. सिर में दर्द (Cervicogenic <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>)</h4>
                         <p class="text-sm text-gray-600">गर्दन से शुरू होकर सिर तक फैलने वाला दर्द।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -350,7 +350,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">गर्दन में दर्द के लक्षण (Cervical Pain) पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">Cervical Pain (गर्दन में दर्द) के प्रमुख लक्षण, कारण और इलाज जानें। जानें कब डॉक्टर को दिखाना है और कब घरेलू उपाय काफी हैं।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। गर्दन में दर्द के लक्षण (Cervical Pain) शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -362,9 +362,9 @@
                         <li><a href="/blog/gardan-mein-dard/" class="text-secondary-600 hover:underline font-semibold">गर्दन में दर्द — कारण, लक्षण और इलाज (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/specialties/orthopaedics-and-joint-replacement" class="text-secondary-600 hover:underline font-semibold">Ranchi में सर्वाइकल और हड्डी-जोड़ का इलाज — RAJ Hospital Orthopaedics (Ranchi)</a></li>
                         <li><a href="/blog/cervical-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भाशय ग्रीवा कैंसर के लक्षण</a></li>
-                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Maternity Hospital in Ranchi</a></li>
-                        <li><a href="/blog/breast-cancer-news.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Breast Cancer News - Latest Updates &amp; Treatment</a></li>
-                        <li><a href="/blog/breast-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Breast Cancer Symptoms in Hindi - जानें लक्षण</a></li>
+                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi</a></li>
+                        <li><a href="/blog/breast-cancer-news.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates &amp; Treatment</a></li>
+                        <li><a href="/blog/breast-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण</a></li>
                         <li><a href="/blog/hiv-symptoms-in-women-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: HIV Symptoms in Women in Hindi - महिलाओं में HIV के लक्षण</a></li>
                         <li><a href="/blog/nursing-care-of-newborn-baby-first-day-guide.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड</a></li>
                         <li><a href="/blog/pair-me-sujan.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: प्रेग्नेंसी में पैर में सूजन</a></li>
@@ -402,7 +402,7 @@
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 16, 2026 | Reviewed by Senior Orthopedic</p>
+                        <p class="text-sm text-gray-500">Last Updated: May 16, 2026 | Reviewed by Senior <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Orthopedic</a></p>
                     </div>
                 </div>
             </div>

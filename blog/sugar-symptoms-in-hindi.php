@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital</title>
+    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital</title>
     <meta name="description" content="Sugar symptoms in Hindi - diabetes ke early warning signs aur symptoms। High aur low blood sugar के symptoms, causes, prevention aur treatment।">
     <meta name="keywords" content="sugar symptoms in hindi, diabetes symptoms in hindi, high blood sugar symptoms, low blood sugar symptoms, sugar ki bimari">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital",
+        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital",
         "description": "Sugar symptoms in Hindi - diabetes ke early warning signs aur symptoms। High aur low blood sugar के symptoms, causes, prevention aur treatment।",
         "url": "https://rajhospitals.com/blog/sugar-symptoms-in-hindi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/sugar-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital"
+                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital"
             }
         ]
     }
@@ -203,15 +203,15 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Sugar Symptoms in Hindi</span>
+            <span class="text-gray-700"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi</span>
         </nav>
     </div>
 
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Diabetes Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Sugar Symptoms in Hindi - Diabetes Ke Lakshan</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Care</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
@@ -222,11 +222,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Diabetes</strong> या <strong>"sugar ki bimari"</strong> आजकल एक epidemic बन गया है। India में लगभग 77 million से ज्यादा लोग diabetes से affect हैं। Early stage में <strong>diabetes ke symptoms</strong> mild हो सकते हैं aur अक्सर ignore कर दिए जाते हैं। लेकिन early detection से इसे manage करना aur complications से बचना much easier है।
+                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></strong> या <strong>"<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> ki bimari"</strong> आजकल एक epidemic बन गया है। India में लगभग 77 million से ज्यादा लोग <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> से affect हैं। Early stage में <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> ke symptoms</strong> mild हो सकते हैं aur अक्सर ignore कर दिए जाते हैं। लेकिन early detection से इसे manage करना aur complications से बचना much easier है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस article में <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के diabetes experts <strong>high blood sugar (sugar high)</strong> aur <strong>low blood sugar (sugar low)</strong> के symptoms, causes, aur prevention के बारे में detail से बताएंगे।
+                    इस article में <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> experts <strong>high blood sugar (sugar high)</strong> aur <strong>low blood sugar (sugar low)</strong> के symptoms, causes, aur prevention के बारे में detail से बताएंगे।
                 </p>
 
                 <!-- Section 1: Understanding Blood Sugar -->

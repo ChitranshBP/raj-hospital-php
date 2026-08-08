@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>सिरदर्द का घरेलू इलाज | Headache Treatment at Home in Hindi - तुरंत राहत के उपाय | RAJ Hospital Ranchi</title>
+    <title>सिरदर्द का घरेलू इलाज | <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi - तुरंत राहत के उपाय | RAJ Hospital Ranchi</title>
     <meta name="description" content="सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय जानें। पानी, आराम, सिकाई, मसाज और सही आदतों से headache में राहत पाएं। RAJ Hospital Ranchi के डॉक्टरों से जानें कब डॉक्टर को दिखाना जरूरी है।">
     <meta name="keywords" content="headache treatment at home in hindi, सिरदर्द का घरेलू इलाज, sir dard ka gharelu ilaj, सिरदर्द के घरेलू उपाय, sir dard ka ilaj, माइग्रेन का घरेलू इलाज, तुरंत सिरदर्द से राहत, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (Headache Treatment at Home in Hindi)",
+        "headline": "सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)",
         "description": "सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय, कारण, और कब डॉक्टर को दिखाना चाहिए — डॉक्टर द्वारा समीक्षित गाइड।",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -76,7 +76,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "सिरदर्द का घरेलू इलाज (Headache Treatment at Home in Hindi)",
+        "name": "सिरदर्द का घरेलू इलाज (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)",
         "description": "सिरदर्द के घरेलू उपाय, कारण और चेतावनी संकेत — डॉक्टर द्वारा समीक्षित हिंदी गाइड।",
         "url": "https://rajhospitals.com/blog/headache-treatment-at-home-in-hindi/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -103,7 +103,7 @@
                 "name": "सिरदर्द का तुरंत घरेलू इलाज क्या है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "तुरंत राहत के लिए एक-दो गिलास पानी पिएं, शांत और अंधेरे कमरे में आराम करें, माथे या गर्दन पर ठंडी या गर्म सिकाई करें, कनपटी (temple) की हल्की मालिश करें और गहरी सांस लें। ज्यादातर tension headache इन उपायों से एक घंटे के भीतर ठीक हो जाते हैं। कभी-कभी डॉक्टर की सलाह से पैरासिटामोल जैसी दवा भी ली जा सकती है।"
+                    "text": "तुरंत राहत के लिए एक-दो गिलास पानी पिएं, शांत और अंधेरे कमरे में आराम करें, माथे या गर्दन पर ठंडी या गर्म सिकाई करें, कनपटी (temple) की हल्की मालिश करें और गहरी सांस लें। ज्यादातर tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> इन उपायों से एक घंटे के भीतर ठीक हो जाते हैं। कभी-कभी डॉक्टर की सलाह से पैरासिटामोल जैसी दवा भी ली जा सकती है।"
                 }
             },
             {
@@ -166,8 +166,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology · न्यूरोलॉजी</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (Headache Treatment at Home in Hindi)</h1>
+                <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> · न्यूरोलॉजी</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> 31 जुलाई, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 मिनट पढ़ें</span>
@@ -178,7 +178,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    सिरदर्द (headache) एक ऐसी समस्या है जो लगभग हर किसी को कभी न कभी होती है — और अच्छी बात यह है कि इनमें से ज्यादातर सिरदर्द को <strong>घर पर ही आसान उपायों से ठीक</strong> किया जा सकता है। पानी की कमी, तनाव, नींद पूरी न होना, स्क्रीन पर ज्यादा समय और भूखे रहना — इन आम कारणों को समझकर आप जल्दी राहत पा सकते हैं। <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची के सबसे अच्छे अस्पताल</a> के न्यूरोलॉजी विशेषज्ञों ने यहां <strong>सिरदर्द के 10 असरदार घरेलू उपाय</strong> बताए हैं — साथ ही यह भी कि कब आराम करने के बजाय डॉक्टर को दिखाना जरूरी है।
+                    सिरदर्द (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>) एक ऐसी समस्या है जो लगभग हर किसी को कभी न कभी होती है — और अच्छी बात यह है कि इनमें से ज्यादातर सिरदर्द को <strong>घर पर ही आसान उपायों से ठीक</strong> किया जा सकता है। पानी की कमी, तनाव, नींद पूरी न होना, स्क्रीन पर ज्यादा समय और भूखे रहना — इन आम कारणों को समझकर आप जल्दी राहत पा सकते हैं। <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची के सबसे अच्छे अस्पताल</a> के न्यूरोलॉजी विशेषज्ञों ने यहां <strong>सिरदर्द के 10 असरदार घरेलू उपाय</strong> बताए हैं — साथ ही यह भी कि कब आराम करने के बजाय डॉक्टर को दिखाना जरूरी है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -201,7 +201,7 @@
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="thermometer" class="raj-icon raj-icon-md raj-icon-secondary"></i> 3. ठंडी या गर्म सिकाई</h3>
-                        <p class="raj-card-body">माथे पर ठंडी सिकाई माइग्रेन में और गर्दन-कंधों पर गर्म सिकाई tension headache में राहत देती है। 10-15 मिनट करें।</p>
+                        <p class="raj-card-body">माथे पर ठंडी सिकाई माइग्रेन में और गर्दन-कंधों पर गर्म सिकाई tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> में राहत देती है। 10-15 मिनट करें।</p>
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="wind" class="raj-icon raj-icon-md raj-icon-secondary"></i> 4. सिर और गर्दन की मालिश</h3>
@@ -225,7 +225,7 @@
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="feather" class="raj-icon raj-icon-md raj-icon-secondary"></i> 9. अदरक या पुदीना</h3>
-                        <p class="raj-card-body">अदरक की चाय सिरदर्द के साथ होने वाली मिचली में राहत दे सकती है, और कनपटी पर पतला किया हुआ पुदीना (peppermint) तेल tension headache में सुकून देता है।</p>
+                        <p class="raj-card-body">अदरक की चाय सिरदर्द के साथ होने वाली मिचली में राहत दे सकती है, और कनपटी पर पतला किया हुआ पुदीना (peppermint) तेल tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> में सुकून देता है।</p>
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="sunrise" class="raj-icon raj-icon-md raj-icon-secondary"></i> 10. नींद सुधारें</h3>
@@ -242,7 +242,7 @@
 
                 <h2 class="raj-h2"><i data-feather="pill" class="raj-h2-icon"></i> दर्द निवारक दवा के बारे में सावधानी</h2>
                 <p class="text-gray-700 mb-4">
-                    कभी-कभार होने वाले सिरदर्द में डॉक्टर की सलाह से पैरासिटामोल या इबुप्रोफेन जैसी दवा लेना ठीक है। लेकिन असली नियम है <strong>कितनी बार</strong>: हफ्ते में 2-3 दिन से ज्यादा दर्द निवारक दवा लेने से <em>medication-overuse (rebound) headache</em> हो सकता है, जिसमें दवा खुद ही सिरदर्द का चक्र बनाए रखती है। अगर बार-बार गोली लेनी पड़ रही है, तो और दवा लेने के बजाय यह डॉक्टर को दिखाने का संकेत है।
+                    कभी-कभार होने वाले सिरदर्द में डॉक्टर की सलाह से पैरासिटामोल या इबुप्रोफेन जैसी दवा लेना ठीक है। लेकिन असली नियम है <strong>कितनी बार</strong>: हफ्ते में 2-3 दिन से ज्यादा दर्द निवारक दवा लेने से <em>medication-overuse (rebound) <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></em> हो सकता है, जिसमें दवा खुद ही सिरदर्द का चक्र बनाए रखती है। अगर बार-बार गोली लेनी पड़ रही है, तो और दवा लेने के बजाय यह डॉक्टर को दिखाने का संकेत है।
                 </p>
 
                 <h2 class="raj-h2"><i data-feather="shield" class="raj-h2-icon"></i> सिरदर्द से बचाव कैसे करें</h2>
@@ -252,10 +252,10 @@
                     <li>स्क्रीन से बीच-बीच में ब्रेक लें और बैठने का posture सही रखें।</li>
                     <li>व्यायाम, गहरी सांस या योग से तनाव कम करें।</li>
                     <li>ज्यादा caffeine और शराब से बचें — ये दोनों सिरदर्द ट्रिगर कर सकते हैं।</li>
-                    <li>एक छोटी headache diary रखें ताकि अपने ट्रिगर पहचान सकें।</li>
+                    <li>एक छोटी <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> diary रखें ताकि अपने ट्रिगर पहचान सकें।</li>
                 </ul>
                 <p class="text-gray-700 mb-4">
-                    यह समझना कि आपको किस तरह का सिरदर्द होता है, बचाव को आसान बनाता है। इन गाइड को भी पढ़ें: <a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">माइग्रेन के लक्षण (Migraine Symptoms in Hindi)</a>, <a href="/blog/sir-ke-piche-dard-hona.php" class="text-secondary-600 hover:underline font-semibold">सिर के पीछे दर्द होना</a>, और <a href="/blog/gardan-mein-dard.php" class="text-secondary-600 hover:underline font-semibold">गर्दन में दर्द के कारण और उपाय</a>. English में पढ़ें: <a href="/blog/headache-treatment-at-home.php" class="text-secondary-600 hover:underline font-semibold">Headache Treatment at Home — 10 Remedies</a>.
+                    यह समझना कि आपको किस तरह का सिरदर्द होता है, बचाव को आसान बनाता है। इन गाइड को भी पढ़ें: <a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">माइग्रेन के लक्षण (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> Symptoms in Hindi)</a>, <a href="/blog/sir-ke-piche-dard-hona.php" class="text-secondary-600 hover:underline font-semibold">सिर के पीछे दर्द होना</a>, और <a href="/blog/gardan-mein-dard.php" class="text-secondary-600 hover:underline font-semibold">गर्दन में दर्द के कारण और उपाय</a>. English में पढ़ें: <a href="/blog/headache-treatment-at-home.php" class="text-secondary-600 hover:underline font-semibold">Headache Treatment at Home — 10 Remedies</a>.
                 </p>
 
                 <div class="raj-callout raj-callout-danger">

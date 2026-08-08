@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Is Heart Attack Genetic? Family Risk, Inherited Causes & Prevention | RAJ Hospital Ranchi</title>
+    <title>Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic? Family Risk, Inherited Causes & Prevention | RAJ Hospital Ranchi</title>
     <meta name="description" content="Is heart attack genetic? Cardiologists at RAJ Hospital Ranchi explain family risk, inherited conditions like FH and Lp(a), genetic testing, and how to protect yourself if heart disease runs in your family.">
     <meta name="keywords" content="is heart attack genetic, hereditary heart disease, family history heart attack, familial hypercholesterolemia, Lp(a), genetic testing heart, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Is Heart Attack Genetic? Family Risk, Inherited Causes & Prevention",
+        "headline": "Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic? Family Risk, Inherited Causes & Prevention",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-12",
@@ -59,7 +59,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Is Heart Attack Genetic?" }
+            { "@type": "ListItem", "position": 3, "name": "Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic?" }
         ]
     }
     </script>
@@ -69,7 +69,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Is Heart Attack Genetic?",
+        "name": "Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic?",
         "description": "A cardiologist-reviewed guide to genetic and familial risk of heart attack, including familial hypercholesterolemia, Lp(a), and prevention strategies.",
         "url": "https://rajhospitals.com/blog/is-heart-attack-genetic/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -93,7 +93,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Is heart attack genetic?",
+                "name": "Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> genetic?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Heart attack itself is not inherited as a single gene, but the risk of having one is strongly influenced by genetics. Having a first-degree relative (parent, sibling) who had a heart attack before age 55 (men) or 65 (women) raises your own risk by 2-7 times. Some specific inherited conditions — familial hypercholesterolemia, elevated Lp(a), Long QT syndrome, hypertrophic cardiomyopathy — are directly genetic and can cause heart attacks in young adults."
@@ -128,7 +128,7 @@
                 "name": "If my father had a heart attack at 50, what should I do?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Start preventive cardiology screening at age 30 — not 40. This includes a fasting lipid panel, Lp(a), hs-CRP, blood pressure, BMI, blood sugar (HbA1c), ECG and a coronary calcium score (CT) at age 40. The cardiologists at RAJ Hospital Ranchi run a dedicated 'Family Heart Risk' clinic for exactly this scenario."
+                    "text": "Start preventive cardiology screening at age 30 — not 40. This includes a fasting lipid panel, Lp(a), hs-CRP, blood pressure, BMI, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">blood sugar</a> (HbA1c), ECG and a coronary calcium score (CT) at age 40. The cardiologists at RAJ Hospital Ranchi run a dedicated 'Family Heart Risk' clinic for exactly this scenario."
                 }
             }
         ]
@@ -146,7 +146,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Is Heart Attack Genetic?</span>
+            <span class="text-gray-700">Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic?</span>
         </nav>
     </div>
 
@@ -158,7 +158,7 @@
 
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-emerald-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Genetics</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Is Heart Attack Genetic? Family Risk, Inherited Causes & Prevention</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic? Family Risk, Inherited Causes & Prevention</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 12, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
@@ -169,12 +169,12 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Is heart attack genetic?</strong> The honest answer from the cardiology team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is "yes, partly." You do not inherit a heart attack the way you inherit eye colour, but the risk of having one is heavily influenced by the DNA you carry — and in some families, the genetic contribution is large enough to cause heart attacks in the 30s and 40s. This guide explains what the science says, when to consider genetic testing, and what to do if heart disease runs in your family.
+                    <strong>Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> genetic?</strong> The honest answer from the cardiology team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is "yes, partly." You do not inherit a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> the way you inherit eye colour, but the risk of having one is heavily influenced by the DNA you carry — and in some families, the genetic contribution is large enough to cause heart attacks in the 30s and 40s. This guide explains what the science says, when to consider genetic testing, and what to do if heart disease runs in your family.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-emerald-700">Quick Answer:</strong>
-                    <span class="text-gray-700"> Heart attack is <strong>not directly inherited</strong>, but the risk is. A first-degree relative with premature heart attack (&lt;55 in men, &lt;65 in women) raises your risk <strong>2–7 times</strong>. Specific inherited conditions — familial hypercholesterolemia (FH), elevated Lp(a), HCM, Long QT — are 100% genetic and can cause heart attacks in young adults. If heart disease runs in your family, <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">book a preventive cardiology consultation at RAJ Hospital</a> by age 30.</span>
+                    <span class="text-gray-700"> <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a> is <strong>not directly inherited</strong>, but the risk is. A first-degree relative with premature <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> (&lt;55 in men, &lt;65 in women) raises your risk <strong>2–7 times</strong>. Specific inherited conditions — familial hypercholesterolemia (FH), elevated Lp(a), HCM, Long QT — are 100% genetic and can cause heart attacks in young adults. If heart disease runs in your family, <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">book a preventive cardiology consultation at RAJ Hospital</a> by age 30.</span>
                 </div>
 
                 <h2 class="raj-h2">The Numbers — How Strong Is the Genetic Link?</h2>

@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "माइग्रेन के लक्षण - कारण, प्रकार और इलाज | RAJ Hospital Ranchi",
         "description": "माइग्रेन के प्रमुख लक्षण, कारण और प्रभावी इलाज जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists की advice।",
-        "url": "https://rajhospitals.com/blog/migraine-symptoms-in-hindi/",
+        "url": "https://rajhospitals.com/blog/<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a>-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/migraine-symptoms-in-hindi.png",
         "author": {
             "@type": "Organization",
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology</span>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">माइग्रेन के लक्षण - कारण, प्रकार और इलाज</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
@@ -223,7 +223,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    क्या आपको <strong>अक्सर सिर में असहनीय दर्द</strong> होता है? क्या दर्द के साथ <strong>आंखों में धुंधलापन</strong> और <strong>मतली</strong> भी होती है? ये <strong>माइग्रेन (Migraine)</strong> के लक्षण हो सकते हैं।
+                    क्या आपको <strong>अक्सर सिर में असहनीय दर्द</strong> होता है? क्या दर्द के साथ <strong>आंखों में धुंधलापन</strong> और <strong>मतली</strong> भी होती है? ये <strong>माइग्रेन (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a>)</strong> के लक्षण हो सकते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -247,19 +247,19 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600">Migraine without Aura</h4>
+                        <h4 class="font-bold text-secondary-600"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> without Aura</h4>
                         <p class="text-sm text-gray-600">सबसे आम प्रकार। बिना किसी पहले के लक्षण के सिरदर्द होता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600">Migraine with Aura</h4>
+                        <h4 class="font-bold text-secondary-600"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> with Aura</h4>
                         <p class="text-sm text-gray-600">दर्द से पहले sensory disturbances जैसे चमकते spots, दृष्टि में परिवर्तन।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600">Chronic Migraine</h4>
+                        <h4 class="font-bold text-secondary-600">Chronic <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a></h4>
                         <p class="text-sm text-gray-600">15 या ज्यादा दिनों में माइग्रेन होना। महीने में आधे से ज्यादा दिन प्रभावित।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600">Hemiplegic Migraine</h4>
+                        <h4 class="font-bold text-secondary-600">Hemiplegic <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a></h4>
                         <p class="text-sm text-gray-600">दुर्लभ प्रकार जिसमें दर्द के साथ शरीर के एक तरफ कमज़ोरी होती है।</p>
                     </div>
                 </div>
@@ -298,9 +298,9 @@
                 <h2 class="raj-h2">माइग्रेन के कारण (Triggers)</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>तनाव और चिंता:</strong> सबसे आम trigger। mental stress से दर्द शुरू हो सकता है।</li>
+                    <li><strong>तनाव और चिंता:</strong> सबसे आम trigger। mental <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> से दर्द शुरू हो सकता है।</li>
                     <li><strong>खान-पान:</strong> चॉकलेट, पनीर, processed foods, caffeine, alcohol।</li>
-                    <li><strong>Hormonal changes:</strong> महिलाओं में periods के दौरान या pregnancy में।</li>
+                    <li><strong>Hormonal changes:</strong> महिलाओं में <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> के दौरान या pregnancy में।</li>
                     <li><strong>नींद:</strong> कम नींद या ज्यादा नींद, irregular sleep patterns।</li>
                     <li><strong>मौसम:</strong> गर्मी, humidity, तेज़ रोशनी या बदलता मौसम।</li>
                     <li><strong>आंखों की थकान:</strong> लंबे समय तक screen देखना।</li>
@@ -321,7 +321,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">Lifestyle Changes</h4>
-                        <p class="text-sm text-gray-600">नियमित व्यायाम, stress management, पर्याप्त नींद।</p>
+                        <p class="text-sm text-gray-600">नियमित व्यायाम, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> management, पर्याप्त नींद।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">Alternative Therapies</h4>
@@ -332,7 +332,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">माइग्रेन की जांच करवाएं</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में Neurology experts MRI और specialized migraine treatment available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> experts MRI और specialized migraine treatment available है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -377,7 +377,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">माइग्रेन के लक्षण - कारण, प्रकार और इलाज पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">माइग्रेन के प्रमुख लक्षण, कारण और प्रभावी इलाज जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists की advice।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। माइग्रेन के लक्षण - कारण, प्रकार और इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>

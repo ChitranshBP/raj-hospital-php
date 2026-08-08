@@ -248,7 +248,7 @@
                         <p class="text-sm text-gray-600">Originate from neck structures (cervical spine, muscles, joints). Pain starts in neck and spreads to head.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">3. Migraine Headaches</h4>
+                        <h4 class="font-bold text-secondary-600">3. <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> Headaches</h4>
                         <p class="text-sm text-gray-600">Intense, throbbing pain often with nausea, light sensitivity. Physical therapy helps reduce frequency and severity.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -305,7 +305,7 @@
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Posture correction</li>
                             <li>Ergonomic advice</li>
-                            <li>Stress management</li>
+                            <li><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> management</li>
                             <li>Workstation setup</li>
                         </ul>
                     </div>
@@ -319,7 +319,7 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li>Medical history and headache diary review</li>
+                    <li>Medical history and <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> diary review</li>
                     <li>Posture assessment</li>
                     <li>Cervical range of motion testing</li>
                     <li>Muscle strength and tension evaluation</li>
@@ -332,7 +332,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Treatment Duration:</strong>
-                    <span class="text-gray-700"> Typically 6-12 sessions over 4-8 weeks, depending on headache type and severity.</span>
+                    <span class="text-gray-700"> Typically 6-12 sessions over 4-8 weeks, depending on <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> type and severity.</span>
                 </div>
 
                 <!-- CTA Box -->
@@ -348,7 +348,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Is physical therapy effective for migraines?</h4>
-                        <p class="text-gray-700">Yes, studies show physical therapy can reduce migraine frequency by 40-50% and decrease severity of attacks.</p>
+                        <p class="text-gray-700">Yes, studies show physical therapy can reduce <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a> frequency by 40-50% and decrease severity of attacks.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">How many sessions are needed?</h4>
@@ -364,7 +364,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Physical Therapy for Headaches - Benefits, Techniques and Treatment पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">Physical Therapy for Headaches - Learn about benefits, techniques and treatment options for tension headaches, migraines and cervicogenic headaches.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Physical Therapy for Headaches - Benefits, Techniques and Treatment शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -375,11 +375,11 @@
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/physical-therapy-for-headaches.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Physical Therapy for Headaches - Effective Treatment Options</a></li>
                         <li><a href="/blog/headaches-types-causes-treatment-solutions.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Headaches Types, Causes aur Treatment Solutions</a></li>
-                        <li><a href="/blog/can-allergies-cause-headaches-causes-symptoms-relief.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Allergy Headache - Causes, Symptoms और Relief Guide</a></li>
+                        <li><a href="/blog/can-allergies-cause-headaches-causes-symptoms-relief.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide</a></li>
                         <li><a href="/blog/can-allergies-cause-headaches.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Can Allergies Cause Headaches?</a></li>
-                        <li><a href="/blog/difference-between-migraine-and-headache-key-differences-explained.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Migraine vs Headache - Key Differences Explained</a></li>
+                        <li><a href="/blog/difference-between-migraine-and-headache-key-differences-explained.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> vs Headache - Key Differences Explained</a></li>
                         <li><a href="/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Green Tea on Empty Stomach - Benefits and Side Effects</a></li>
-                        <li><a href="/blog/bone-hydrogel-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Bone Hydrogel Treatment in Hindi</a></li>
+                        <li><a href="/blog/bone-hydrogel-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Hydrogel Treatment in Hindi</a></li>
                     </ul>
                 </section>
 
@@ -413,8 +413,8 @@
                 <section class="mt-8 bg-orange-50 border border-orange-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Practical Next Steps for Patients</h2>
                     <p class="text-gray-700 mb-4">If symptoms are mild, start by noting their frequency, duration, triggers, and any medicine already taken. This simple symptom diary helps the doctor understand whether the pattern is occasional, seasonal, injury-related, infection-related, lifestyle-related, or linked with an underlying medical condition. Patients should also carry old prescriptions, blood reports, imaging reports, and discharge summaries if available.</p>
-                    <p class="text-gray-700 mb-4">Do not wait for symptoms to become severe before taking advice. Early consultation is especially important when symptoms affect sleep, work, walking, breathing, appetite, concentration, or daily activity. At RAJ Hospital, the care team can guide patients on whether they need emergency care, outpatient consultation, physiotherapy, diagnostic testing, medicine review, or follow-up with a specialist department.</p>
-                    <p class="text-gray-700">For long-term prevention, focus on regular checkups, balanced diet, hydration, safe exercise, correct posture, adequate sleep, stress control, and avoiding tobacco. These steps support recovery and reduce the chances of repeated episodes, but they should be personalised according to age, pregnancy status, chronic illness, and current medications.</p>
+                    <p class="text-gray-700 mb-4">Do not wait for symptoms to become severe before taking advice. Early consultation is especially important when symptoms affect sleep, work, walking, <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a>, appetite, concentration, or daily activity. At RAJ Hospital, the care team can guide patients on whether they need emergency care, outpatient consultation, physiotherapy, diagnostic testing, medicine review, or follow-up with a specialist department.</p>
+                    <p class="text-gray-700">For long-term prevention, focus on regular checkups, balanced diet, hydration, safe exercise, correct posture, adequate sleep, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> control, and avoiding tobacco. These steps support recovery and reduce the chances of repeated episodes, but they should be personalised according to age, <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> status, chronic illness, and current medications.</p>
                 </section>
                 <!-- RAJ SEO DEPTH END -->
 

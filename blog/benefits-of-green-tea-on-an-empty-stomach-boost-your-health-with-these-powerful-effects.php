@@ -237,7 +237,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    The history of <strong>green tea</strong> dates back thousands of years, originating in China and later spreading throughout Asia and the world. Traditional Chinese medicine has long recognized green tea for its medicinal properties, including improved digestion, mental clarity, and longevity. Modern scientific research has validated many of these traditional claims, showing that regular consumption of green tea can have profound effects on various aspects of health.
+                    The history of <strong>green tea</strong> dates back thousands of years, originating in China and later spreading throughout Asia and the world. Traditional Chinese medicine has long recognized green tea for its medicinal properties, including improved <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">digestion</a>, mental clarity, and longevity. Modern scientific research has validated many of these traditional claims, showing that regular consumption of green tea can have profound effects on various aspects of health.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -266,8 +266,8 @@
                         <p class="text-sm text-gray-600">The moderate caffeine content (25-50mg per cup) provides gentle energy without the jitters, enhancing focus and concentration throughout the morning.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">4. Better Blood Sugar Control</h4>
-                        <p class="text-sm text-gray-600">Studies show that green tea improves insulin sensitivity, which is particularly beneficial for those managing diabetes. Learn more about our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diabetes management programs</a>.</p>
+                        <h4 class="font-bold text-secondary-600">4. Better <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Blood Sugar</a> Control</h4>
+                        <p class="text-sm text-gray-600">Studies show that green tea improves insulin sensitivity, which is particularly beneficial for those managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>. Learn more about our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> management programs</a>.</p>
                     </div>
                 </div>
 
@@ -278,12 +278,12 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">6. Digestive System Benefits</h3>
                 <p class="text-gray-700 mb-4">
-                    When consumed on an empty stomach, <strong>green tea</strong> can stimulate the production of digestive enzymes and gastric juices. This preparation effect helps improve digestion throughout the day and can prevent common digestive issues like <a href="/blog/acidity-symptoms-in-hindi/" class="text-secondary-600 hover:underline">acidity and bloating</a>. The mild antibacterial properties also support a healthy gut microbiome.
+                    When consumed on an empty stomach, <strong>green tea</strong> can stimulate the production of digestive enzymes and gastric juices. This preparation effect helps improve <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">digestion</a> throughout the day and can prevent common digestive issues like <a href="/blog/acidity-symptoms-in-hindi/" class="text-secondary-600 hover:underline"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a> and bloating</a>. The mild antibacterial properties also support a healthy gut microbiome.
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">7. Natural Detoxification</h3>
                 <p class="text-gray-700 mb-4">
-                    Green tea acts as a natural detoxifier when consumed in the morning. The antioxidants help neutralize free radicals and support liver function, which is the body's primary detox organ. This gentle detoxification process can improve skin health, boost energy levels, and enhance overall vitality.
+                    Green tea acts as a natural detoxifier when consumed in the morning. The antioxidants help neutralize free radicals and support <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> function, which is the body's primary detox organ. This gentle detoxification process can improve skin health, boost energy levels, and enhance overall vitality.
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">8. Weight Management Support</h3>
@@ -305,11 +305,11 @@
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">2. Increased Acid Production</h4>
-                        <p class="text-sm text-gray-600">Green tea can stimulate gastric acid secretion, which may worsen conditions like <a href="/blog/acidity-symptoms-in-hindi/" class="text-secondary-600 hover:underline">acidity, GERD, or peptic ulcers</a>.</p>
+                        <p class="text-sm text-gray-600">Green tea can stimulate gastric acid secretion, which may worsen conditions like <a href="/blog/acidity-symptoms-in-hindi/" class="text-secondary-600 hover:underline"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a>, GERD, or peptic ulcers</a>.</p>
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">3. Caffeine Sensitivity</h4>
-                        <p class="text-sm text-gray-600">Some individuals may experience anxiety, restlessness, or sleep disturbances, especially if sensitive to caffeine.</p>
+                        <p class="text-sm text-gray-600">Some individuals may experience <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a>, restlessness, or sleep disturbances, especially if sensitive to caffeine.</p>
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">4. Iron Absorption Interference</h4>
@@ -330,10 +330,10 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>People with gastric problems</strong> - Those with acidity, GERD, or stomach ulcers should avoid empty stomach consumption.</li>
-                    <li><strong>Pregnant women</strong> - Limit intake to 1-2 cups daily and always with food.</li>
+                    <li><strong>People with gastric problems</strong> - Those with <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a>, GERD, or stomach ulcers should avoid empty stomach consumption.</li>
+                    <li><strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> women</strong> - Limit intake to 1-2 cups daily and always with food.</li>
                     <li><strong>People with anemia</strong> - The tannins can further reduce iron absorption.</li>
-                    <li><strong>Those with anxiety disorders</strong> - Caffeine may exacerbate symptoms.</li>
+                    <li><strong>Those with <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> disorders</strong> - Caffeine may exacerbate symptoms.</li>
                     <li><strong>People taking medications</strong> - Consult your doctor as green tea can interact with certain drugs.</li>
                     <li><strong>Those with heart conditions</strong> - High doses of caffeine may not be suitable. Check with our <a href="/specialties/cardiology" class="text-secondary-600 hover:underline">cardiology specialists</a>.</li>
                 </ul>

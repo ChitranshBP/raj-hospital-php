@@ -378,11 +378,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Booster dose कब लगवाना चाहिए?</h4>
-                        <p class="text-gray-700">High-risk groups (बुजुर्ग, immunocompromised, pregnant women) को हर 6-12 months में booster की सलाह दी जाती है।</p>
+                        <p class="text-gray-700">High-risk groups (बुजुर्ग, immunocompromised, <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women) को हर 6-12 months में booster की सलाह दी जाती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">अगर COVID हो तो क्या करें?</h4>
-                        <p class="text-gray-700">घर पर isolate हों, symptoms track करें, और अगर breathing difficulty या chest pain हो तो तुरंत hospital जाएं।</p>
+                        <p class="text-gray-700">घर पर isolate हों, symptoms track करें, और अगर <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a> difficulty या chest pain हो तो तुरंत hospital जाएं।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
@@ -390,7 +390,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">कोरोनावायरस रोग 2019 (COVID-19) पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">कोरोनावायरस रोग 2019 (COVID-19) के लक्षण, कारण, इलाज और बचाव के उपाय जानें। Prevention, vaccination और latest guidelines।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। कोरोनावायरस रोग 2019 (COVID-19) शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>

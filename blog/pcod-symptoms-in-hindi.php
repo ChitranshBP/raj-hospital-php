@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi</title>
     <meta name="description" content="PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज जानें। PCOD vs PCOS अंतर, treatment options और lifestyle changes के बारे में विस्तृत जानकारी।">
     <meta name="keywords" content="PCOD symptoms in hindi, पीसीओडी के लक्षण, pcod symptoms, pcod treatment, women's health, hormonal imbalance, gynecological problems ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi",
         "description": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज जानें। PCOD vs PCOS अंतर, treatment options और lifestyle changes के बारे में विस्तृत जानकारी।",
         "url": "https://rajhospitals.com/blog/pcod-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pcod-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">PCOD Symptoms in Hindi</span>
+            <span class="text-gray-700"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi</span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Women's Health</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 23, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,23 +228,23 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>PCOD (पीसीओडी)</strong> या Polycystic Ovarian Disease महिलाओं में होने वाला एक आम hormonal disorder है। भारत में लगभग 1 out of 5 women इस समस्या से ग्रस्त हैं। यह बीमारी विशेषकर reproductive age की महिलाओं को प्रभावित करती है।
+                    <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> (पीसीओडी)</strong> या Polycystic Ovarian Disease महिलाओं में होने वाला एक आम hormonal disorder है। भारत में लगभग 1 out of 5 women इस समस्या से ग्रस्त हैं। यह बीमारी विशेषकर reproductive age की महिलाओं को प्रभावित करती है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस लेख में हम <strong>PCOD symptoms in Hindi</strong> (पीसीओडी के लक्षण), कारण, और इलाज के बारे में विस्तार से जानेंगे ताकि आप इस समस्या को पहचान सकें और सही उपचार प्राप्त कर सकें।
+                    इस लेख में हम <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> symptoms in Hindi</strong> (पीसीओडी के लक्षण), कारण, और इलाज के बारे में विस्तार से जानेंगे ताकि आप इस समस्या को पहचान सकें और सही उपचार प्राप्त कर सकें।
                 </p>
 
                 <!-- Section 1: What is PCOD -->
-                <h2 class="raj-h2">PCOD क्या है?</h2>
+                <h2 class="raj-h2"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>PCOD (Polycystic Ovarian Disease)</strong> एक ऐसी स्थिति है जिसमें महिला की ovaries में कई छोटे cysts बन जाते हैं। यह hormonal imbalance के कारण होता है - विशेषकर <strong>androgens</strong> (पुरुष हार्मोन) की मात्रा बढ़ने से और <strong>insulin resistance</strong> के कारण।
+                    <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> (Polycystic Ovarian Disease)</strong> एक ऐसी स्थिति है जिसमें महिला की ovaries में कई छोटे cysts बन जाते हैं। यह hormonal imbalance के कारण होता है - विशेषकर <strong>androgens</strong> (पुरुष हार्मोन) की मात्रा बढ़ने से और <strong>insulin resistance</strong> के कारण।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
-                    <strong class="text-blue-700">PCOD vs PCOS:</strong>
-                    <span class="text-gray-700"> PCOD एक कम गंभीर रूप है, जबकि <strong>PCOS (Polycystic Ovarian Syndrome)</strong> एक अधिक गंभीर metabolic disorder है। PCOD को lifestyle changes से manage किया जा सकता है।</span>
+                    <strong class="text-blue-700"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> vs PCOS:</strong>
+                    <span class="text-gray-700"> <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> एक कम गंभीर रूप है, जबकि <strong>PCOS (Polycystic Ovarian Syndrome)</strong> एक अधिक गंभीर metabolic disorder है। PCOD को lifestyle changes से manage किया जा सकता है।</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->

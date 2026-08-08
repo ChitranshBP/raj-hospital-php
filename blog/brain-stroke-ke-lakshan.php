@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi</title>
+    <title>Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। Ranchi के best neurologists की advice।">
     <meta name="keywords" content="brain stroke, stroke symptoms, लक्षण, brain health, न्यूरोलॉजी, ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Brain Stroke के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "headline": "Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi",
         "description": "Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। Ranchi के best neurologists की advice।",
         "url": "https://rajhospitals.com/blog/brain-stroke-ke-lakshan/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/brain-stroke-ke-lakshan.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi"
+                "name": "Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Brain Stroke - Complete Guide</span>
+            <span class="text-gray-700">Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> - Complete Guide</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Brain Stroke के लक्षण - Complete Hindi Guide</h1>
+                <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
@@ -228,19 +228,19 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Brain Stroke</strong> एक गंभीर medical emergency है जो तब होता है जब मस्तिष्क में रक्त प्रवाह बाधित हो जाता है। भारत में हर साल लाखों लोग stroke का शिकार होते हैं। समय पर पहचान और इलाज से जान बचाई जा सकती है।
+                    <strong>Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a></strong> एक गंभीर medical emergency है जो तब होता है जब मस्तिष्क में रक्त प्रवाह बाधित हो जाता है। भारत में हर साल लाखों लोग <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> का शिकार होते हैं। समय पर पहचान और इलाज से जान बचाई जा सकती है।
                 </p>
 
                 <div class="bg-red-100 border-2 border-red-500 p-4 rounded-lg mb-6">
                     <strong class="text-red-700 text-lg"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> आपातकालीन चेतावनी:</strong>
-                    <span class="text-gray-700"> अगर stroke के लक्षण दिखें, तुरंत 108 (ambulance) या नजदीकी hospital जाएं। "Time is Brain" - हर मिनट महत्वपूर्ण है।</span>
+                    <span class="text-gray-700"> अगर <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> के लक्षण दिखें, तुरंत 108 (ambulance) या नजदीकी hospital जाएं। "Time is Brain" - हर मिनट महत्वपूर्ण है।</span>
                 </div>
 
                 <!-- Section 1: What is Stroke -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-red-600 pb-2 mt-8 mb-4">Brain Stroke क्या है?</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-red-600 pb-2 mt-8 mb-4">Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Stroke</strong> तब होता है जब मस्तिष्क में रक्त की आपूर्ति बंद हो जाती है या कम हो जाती है। इससे मस्तिष्क की कोशिकाएं मरने लगती हैं। दो प्रकार के stroke होते हैं:
+                    <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a></strong> तब होता है जब मस्तिष्क में रक्त की आपूर्ति बंद हो जाती है या कम हो जाती है। इससे मस्तिष्क की कोशिकाएं मरने लगती हैं। दो प्रकार के stroke होते हैं:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">

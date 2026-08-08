@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi</title>
     <meta name="description" content="Kidney Stone Ka Ilaj - गुर्दे में पथरी का complete treatment। ESWL, laser treatment, और surgery options। Ranchi में best kidney stone treatment।">
     <meta name="keywords" content="kidney stone ilaj, kidney stone treatment, पथरी का इलाज, gall stone treatment, kidney stone surgery">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Ka Ilaj - गुर्दे में पथरी का इलाज में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Acidity ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi",
         "description": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का complete treatment। ESWL, laser treatment, और surgery options। Ranchi में best kidney stone treatment।",
         "url": "https://rajhospitals.com/blog/kidney-stone-ka-ilaj/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/kidney-stone-ka-ilaj.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Kidney Stone Treatment</span>
+            <span class="text-gray-700"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Treatment</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-purple-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Urology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज</h1>
+                <span class="inline-block bg-purple-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Ka Ilaj - गुर्दे में पथरी का इलाज</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Kidney Stone Ka Ilaj</strong> (गुर्दे में पथरी का इलाज) एक common problem है। दर्दनाक होने के बावजूद, modern treatment options से kidney stones effectively treat किए जा सकते हैं। जानिए सभी treatment options के बारे में।
+                    <strong><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Ka Ilaj</strong> (गुर्दे में पथरी का इलाज) एक common problem है। दर्दनाक होने के बावजूद, modern treatment options से kidney stones effectively treat किए जा सकते हैं। जानिए सभी treatment options के बारे में।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -237,7 +237,7 @@
                 </div>
 
                 <!-- Section 1: Treatment Options -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-purple-600 pb-2 mt-8 mb-4">Kidney Stone Treatment Options</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-purple-600 pb-2 mt-8 mb-4"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Treatment Options</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-purple-600">
@@ -284,7 +284,7 @@
                             <tr>
                                 <td class="p-3 font-medium">Struvite</td>
                                 <td class="p-3">Large, horn-shaped</td>
-                                <td class="p-3">UTI, urea-splitting bacteria</td>
+                                <td class="p-3"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">UTI</a>, urea-splitting bacteria</td>
                             </tr>
                             <tr class="bg-gray-50">
                                 <td class="p-3 font-medium">Uric Acid</td>
@@ -326,7 +326,7 @@
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-purple-600 to-purple-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">Kidney Stone Treatment at RAJ Hospital</h3>
+                    <h3 class="text-xl font-bold mb-2"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Treatment at RAJ Hospital</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में ESWL, laser treatment, और complete urology services available हैं।</p>
                     <a href="/contact.php" class="inline-block bg-white text-purple-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>

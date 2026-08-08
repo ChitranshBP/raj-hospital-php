@@ -75,7 +75,7 @@
                 "name": "वायरल बुखार (Viral Fever) क्या है और इसके क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "वायरल बुखार viruses के infection से होने वाला fever है। लक्षण: high fever (101-104°F), headache, body aches, fatigue, sore throat, cough, runny nose, और weakness। यह आमतौर पर 3-7 दिन में ठीक हो जाता है।"
+                    "text": "वायरल बुखार viruses के infection से होने वाला fever है। लक्षण: high fever (101-104°F), <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>, body aches, fatigue, sore throat, cough, runny nose, और weakness। यह आमतौर पर 3-7 दिन में ठीक हो जाता है।"
                 }
             },
             {
@@ -220,7 +220,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">COVID-19</h4>
-                        <p class="text-sm text-gray-600">SARS-CoV-2 virus। fever, cough, breathing difficulty। Testing और isolation important।</p>
+                        <p class="text-sm text-gray-600">SARS-CoV-2 virus। fever, cough, <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a> difficulty। Testing और isolation important।</p>
                     </div>
                 </div>
 
@@ -234,7 +234,7 @@
                     <h4 class="font-bold text-primary-600 mb-2">Primary Symptoms (मुख्य लक्षण):</h4>
                     <ul class="text-gray-700 space-y-2">
                         <li><strong>1. Fever</strong> - आमतौर पर 101-104°F। बुखार waves में आ सकता है - कभी high, कभी normal।</li>
-                        <li><strong>2. Headache</strong> - especially forehead पर, mild to moderate।</li>
+                        <li><strong>2. <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></strong> - especially forehead पर, mild to moderate।</li>
                         <li><strong>3. Body Aches (शरीर में दर्द)</strong> - muscles और joints में aches। यह बहुत common और characteristic है।</li>
                         <li><strong>4. Fatigue और Weakness</strong> - extreme tiredness, energy की कमी।</li>
                         <li><strong>5. Chills (सर्दी लगना)</strong> - fever के साथ shivering और cold sensation।</li>
@@ -354,7 +354,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">5. Boost Immunity</h4>
-                        <p class="text-sm text-gray-600">balanced diet, regular exercise, adequate sleep, और stress management से immune system strong रखें।</p>
+                        <p class="text-sm text-gray-600">balanced diet, regular exercise, adequate sleep, और <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> management से immune system strong रखें।</p>
                     </div>
                 </div>
 
@@ -363,8 +363,8 @@
                     <ul class="text-gray-700 space-y-1">
                         <li>Fever 3 दिन से ज्यादा</li>
                         <li>Fever 104°F+</li>
-                        <li>Severe headache या stiff neck</li>
-                        <li>Difficulty breathing</li>
+                        <li>Severe <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> या stiff neck</li>
+                        <li>Difficulty <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a></li>
                         <li>Persistent vomiting</li>
                         <li>Rash on body</li>
                         <li>Confusion या altered consciousness</li>
@@ -383,7 +383,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">वायरल बुखार के क्या लक्षण हैं?</h4>
-                        <p class="text-gray-700"><strong>लक्षण:</strong> high fever (101-104°F), headache, body aches, fatigue, sore throat, cough, runny nose। यह आमतौर पर 3-7 दिन में ठीक हो जाता है।</p>
+                        <p class="text-gray-700"><strong>लक्षण:</strong> high fever (101-104°F), <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>, body aches, fatigue, sore throat, cough, runny nose। यह आमतौर पर 3-7 दिन में ठीक हो जाता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">वायरल और बैक्टीरियल बुखार में क्या अंतर है?</h4>

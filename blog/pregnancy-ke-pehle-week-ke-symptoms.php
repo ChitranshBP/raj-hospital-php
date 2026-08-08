@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi</title>
     <meta name="description" content="Pregnancy Ke Pehle Week Ke Symptoms जानें। First week pregnancy signs, conception के बाद earliest symptoms और जल्दी पहचानने के तरीके।">
     <meta name="keywords" content="pregnancy ke pehle week ke symptoms, first week pregnancy symptoms, early pregnancy signs, conception symptoms, early signs of pregnancy in hindi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms - First Week Signs में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi",
         "description": "Pregnancy Ke Pehle Week Ke Symptoms जानें। First week pregnancy signs, conception के बाद earliest symptoms और जल्दी पहचानने के तरीके।",
         "url": "https://rajhospitals.com/blog/pregnancy-ke-pehle-week-ke-symptoms/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnancy-ke-pehle-week-ke-symptoms.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Pregnancy Ke Pehle Week Ke Symptoms</span>
+            <span class="text-gray-700"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Pregnancy Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Care</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms - First Week Signs</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 28, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
@@ -228,18 +228,18 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    क्या आप जानना चाहती हैं कि <strong>pregnancy के पहले week के symptoms</strong> (Pregnancy Ke Pehle Week Ke Symptoms) क्या होते हैं? जब एक woman pregnant होती है, तो उसके शरीर में कई बदलाव होते हैं जो शुरुआती stage में ही दिखना शुरू हो जाते हैं।
+                    क्या आप जानना चाहती हैं कि <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> के पहले week के symptoms</strong> (<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms) क्या होते हैं? जब एक woman pregnant होती है, तो उसके शरीर में कई बदलाव होते हैं जो शुरुआती stage में ही दिखना शुरू हो जाते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    यह लेख आपको बताएगा कि <strong>conception के बाद first week symptoms</strong> कब और कैसे दिखते हैं, ताकि आप अपनी pregnancy को जल्दी से जल्दी पहचान सकें।
+                    यह लेख आपको बताएगा कि <strong>conception के बाद first week symptoms</strong> कब और कैसे दिखते हैं, ताकि आप अपनी <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> को जल्दी से जल्दी पहचान सकें।
                 </p>
 
                 <!-- Section 1: Understanding Timeline -->
-                <h2 class="raj-h2">Pregnancy Timeline कैसे गिनते हैं?</h2>
+                <h2 class="raj-h2"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Timeline कैसे गिनते हैं?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Doctors <strong>pregnancy weeks</strong> last menstrual period (LMP) से गिनते हैं, conception से नहीं। इसलिए:
+                    Doctors <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> weeks</strong> last menstrual period (LMP) से गिनते हैं, conception से नहीं। इसलिए:
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">

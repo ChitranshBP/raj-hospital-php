@@ -249,7 +249,7 @@ $base_url = '../';
             </p>
             <ul class="list-disc pl-6 mb-6 text-gray-700 space-y-2">
                 <li><strong>E. coli बैक्टीरिया</strong> - सबसे आम कारण, आंत से आता है</li>
-                <li><strong>मूत्रमार्ग संक्रमण (UTI)</strong> जो इलाज नहीं हुआ</li>
+                <li><strong>मूत्रमार्ग संक्रमण (<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">UTI</a>)</strong> जो इलाज नहीं हुआ</li>
                 <li><strong>किडनी स्टोन</strong> - पथरी रुकावट पैदा करती है</li>
                 <li><strong>प्रेग्नेंसी</strong> - गर्भावस्था में यूरीन फ्लो प्रभावित होता है</li>
                 <li><strong>डायबिटीज़</strong> - शुगर बैक्टीरिया के विकास को बढ़ावा देती है</li>
@@ -395,7 +395,7 @@ $base_url = '../';
                 <li><strong>Ciprofloxacin</strong> - फ्लोरोक्विनोलोन एंटीबायोटिक</li>
                 <li><strong>Levofloxacin</strong> - श्वसन और मूत्र संक्रमण के लिए</li>
                 <li><strong>Ceftriaxone</strong> - IV एंटीबायोटिक</li>
-                <li><strong>Nitrofurantoin</strong> - हल्के UTI के लिए</li>
+                <li><strong>Nitrofurantoin</strong> - हल्के <a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">UTI</a> के लिए</li>
             </ul>
             <div class="raj-callout raj-callout-warning">
                 <p class="text-gray-700 text-sm"><strong>नोट:</strong> दवाइयाँ केवल डॉक्टर की सलाह पर ही लें। खुद से इलाज न करें - यह खतरनाक हो सकता है।</p>
@@ -519,7 +519,7 @@ $base_url = '../';
                         <i data-feather="check" class="w-5 h-5 text-white"></i>
                     </div>
                     <div class="ml-4">
-                        <h4 class="font-semibold text-gray-800">UTI का तुरंत इलाज कराएं</h4>
+                        <h4 class="font-semibold text-gray-800"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">UTI</a> का तुरंत इलाज कराएं</h4>
                         <p class="text-gray-600 text-sm">मूत्रमार्ग संक्रमण को बढ़ने न दें। शुरुआत में ही इलाज कराएँ।</p>
                     </div>
                 </div>

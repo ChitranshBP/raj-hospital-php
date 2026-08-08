@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bone Hydrogel Treatment in Hindi | RAJ Hospital Ranchi - Orthopedic Care</title>
+    <title><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Hydrogel Treatment in Hindi | RAJ Hospital Ranchi - Orthopedic Care</title>
     <meta name="description" content="Bone hydrogel treatment क्या है, यह कैसे काम करता है, इसके benefits, procedure, और cost के बारे में जानें। RAJ Hospital Ranchi में advanced orthopedic treatments।">
     <meta name="keywords" content="bone hydrogel treatment, hydrogel for bones, bone healing treatment, orthopedic treatment, cartilage repair">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Bone Hydrogel Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Hydrogel Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Bone Hydrogel Treatment in Hindi | RAJ Hospital Ranchi - Orthopedic Care",
+        "headline": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Hydrogel Treatment in Hindi | RAJ Hospital Ranchi - Orthopedic Care",
         "description": "Bone hydrogel treatment क्या है, यह कैसे काम करता है, इसके benefits, procedure, और cost के बारे में जानें। RAJ Hospital Ranchi में advanced orthopedic treatments।",
         "url": "https://rajhospitals.com/blog/bone-hydrogel-treatment",
         "image": "https://rajhospitals.com/blog/assets/img/featured/bone-hydrogel-treatment.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Bone Hydrogel Treatment in Hindi | RAJ Hospital Ranchi - Orthopedic Care"
+                "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Hydrogel Treatment in Hindi | RAJ Hospital Ranchi - Orthopedic Care"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Bone Hydrogel Treatment</span>
+            <span class="text-gray-700"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Hydrogel Treatment</span>
         </nav>
     </div>
 
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Orthopedics</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Bone Hydrogel Treatment: Complete Guide in Hindi</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Hydrogel Treatment: Complete Guide in Hindi</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -222,18 +222,18 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Bone hydrogel treatment</strong> एक innovative और minimally invasive orthopedic procedure है जो bone और cartilage injuries के treatment में revolution ला रहा है। Traditional surgical methods के मुकाबले, यह technique कम pain, faster recovery, और बेहतर outcomes प्रदान करती है।
+                    <strong><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> hydrogel treatment</strong> एक innovative और minimally invasive <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">orthopedic</a> procedure है जो bone और cartilage injuries के treatment में revolution ला रहा है। Traditional surgical methods के मुकाबले, यह technique कम pain, faster recovery, और बेहतर outcomes प्रदान करती है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस comprehensive guide में, <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के orthopedic specialists bone hydrogel treatment के बारे में detail से बताएंगे - यह क्या है, कैसे काम करता है, इसके benefits, candidates, और recovery process।
+                    इस comprehensive guide में, <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">orthopedic</a> specialists bone hydrogel treatment के बारे में detail से बताएंगे - यह क्या है, कैसे काम करता है, इसके benefits, candidates, और recovery process।
                 </p>
 
                 <!-- Section 1: What is Bone Hydrogel -->
-                <h2 class="raj-h2">Bone Hydrogel Treatment Kya Hai?</h2>
+                <h2 class="raj-h2"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Hydrogel Treatment Kya Hai?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Bone hydrogel</strong> एक specially designed bio-compatible material है जो water-based polymer network से बना होता है। इसकी structure bone tissue जैसी natural properties रखती है - यह flexible yet strong होता है और body के साथ compatibility maintain करता है।
+                    <strong><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> hydrogel</strong> एक specially designed bio-compatible material है जो water-based polymer network से बना होता है। इसकी structure <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> tissue जैसी natural properties रखती है - यह flexible yet strong होता है और body के साथ compatibility maintain करता है।
                 </p>
 
                 <p class="text-gray-700 mb-4">

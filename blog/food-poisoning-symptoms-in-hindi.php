@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital</title>
+    <title>खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi - RAJ Hospital</title>
     <meta name="description" content="खाद्य विषाक्तता के लक्षण (Food Poisoning Symptoms in Hindi) जानें। उल्टी, दस्त, पेट दर्द के कारण, लक्षण, और घरेलू उपाय। RAJ Hospital Ranchi में विशेषज्ञ उपचार।">
     <meta name="keywords" content="खाद्य विषाक्तता के लक्षण, food poisoning symptoms in hindi, food poisoning Hindi, खाना विषाक्त, food infection in Hindi, उल्टी दस्त के लक्षण">
     <meta name="robots" content="index, follow">
@@ -38,7 +38,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi",
+        "headline": "खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi",
         "description": "खाद्य विषाक्तता के लक्षण, कारण, और घरेलू उपाय - Complete Hindi Guide",
         "author": {
             "@type": "Organization",
@@ -164,7 +164,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi - RAJ Hospital में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -253,7 +253,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b-4 border-medical-500">
                 <span class="inline-block bg-medical-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Gastroenterology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
@@ -264,15 +264,15 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>खाद्य विषाक्तता (Food Poisoning)</strong> एक common health problem है जो दूषित खाना या पानी खाने से होती है। हर साल लाखों लोग इस समस्या से पीड़ित होते हैं। <strong>खाद्य विषाक्तता के लक्षण</strong> को पहचानना बहुत जरूरी है ताकि आप सही समय पर उपचार ले सकें और गंभीर जटिलताओं से बच सकें।
+                    <strong>खाद्य विषाक्तता (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a>)</strong> एक common health problem है जो दूषित खाना या पानी खाने से होती है। हर साल लाखों लोग इस समस्या से पीड़ित होते हैं। <strong>खाद्य विषाक्तता के लक्षण</strong> को पहचानना बहुत जरूरी है ताकि आप सही समय पर उपचार ले सकें और गंभीर जटिलताओं से बच सकें।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस blog post में हम <strong>food poisoning symptoms in Hindi</strong> के बारे में detail से जानेंगे - इनके कारण, लक्षण, treatment options, और <a href="/contact.php" class="text-medical-600 hover:underline font-semibold">घरेलू उपाय</a>। RAJ Hospital Ranchi में हमारी expert medical team इस समस्या में मदद के लिए हमेशा तैयार है।
+                    इस blog post में हम <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">food poisoning</a> symptoms in Hindi</strong> के बारे में detail से जानेंगे - इनके कारण, लक्षण, treatment options, और <a href="/contact.php" class="text-medical-600 hover:underline font-semibold">घरेलू उपाय</a>। RAJ Hospital Ranchi में हमारी expert medical team इस समस्या में मदद के लिए हमेशा तैयार है।
                 </p>
 
                 <!-- Section 1: What is Food Poisoning -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता क्या है? (What is Food Poisoning?)</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता क्या है? (What is <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a>?)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>खाद्य विषाक्तता</strong> तब होती है जब आप विषाक्त बैक्टीरिया, वायरस, परजीवी, या रसायनों से दूषित भोजन या पानी खाते हैं। यह <a href="/neuropathy-treatment-in-ranchi.php" class="text-medical-600 hover:underline">पाचन तंत्र</a> को प्रभावित करती है और कई अप्रिय symptoms पैदा करती है।
@@ -288,7 +288,7 @@
                 </div>
 
                 <!-- Section 2: Main Symptoms -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता के लक्षण (Food Poisoning Symptoms in Hindi)</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता के लक्षण (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>खाद्य विषाक्तता के लक्षण</strong> खाने के बाद कुछ घंटों से लेकर कई दिनों बाद तक दिखाई दे सकते हैं। यह pathogen पर निर्भर करता है। यहां प्रमुख symptoms की list दी गई है:
@@ -328,7 +328,7 @@
                 </div>
 
                 <!-- Section 3: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता के कारण (Causes of Food Poisoning)</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता के कारण (Causes of <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a>)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>खाद्य विषाक्तता</strong> कई कारणों से हो सकती है। इन्हें समझना prevention के लिए जरूरी है:
@@ -358,10 +358,10 @@
                 </div>
 
                 <!-- Section 4: Types -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता के प्रकार (Types of Food Poisoning)</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता के प्रकार (Types of <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a>)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Food poisoning in Hindi</strong> के कई प्रकार होते हैं, जिनमें से कुछ major हैं:
+                    <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food poisoning</a> in Hindi</strong> के कई प्रकार होते हैं, जिनमें से कुछ major हैं:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
@@ -412,7 +412,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-medical-500 pb-2 mt-8 mb-4">खाद्य विषाक्तता से बचाव के उपाय (Prevention Tips)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Food poisoning se bachav</strong> के लिए ये simple steps follow करें:
+                    <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food poisoning</a> se bachav</strong> के लिए ये simple steps follow करें:
                 </p>
 
                 <div class="bg-green-50 border-l-4 border-medical-500 p-4 rounded-r-lg mb-6">

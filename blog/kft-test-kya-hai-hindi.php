@@ -61,7 +61,7 @@
             "name": "KFT Test Ki Tayaari Kaise Kare - KFT Test Preparation in Hindi",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "KFT test ke liye usually 8-12 hours fasting required hoti hai। आप सामान्य पानी पी सकते हैं। अगर आप कोई दवा ले रहे हैं (जैसे blood pressure की दवाएं) तो doctor से पूछें कि kya unhe continue karna चाहिए ya nahi। कुछ vitamins aur supplements ko test se pehle band karna pad sakta hai।"
+                "text": "KFT test ke liye usually 8-12 hours fasting required hoti hai। आप सामान्य पानी पी सकते हैं। अगर आप कोई दवा ले रहे हैं (जैसे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> की दवाएं) तो doctor से पूछें कि kya unhe continue karna चाहिए ya nahi। कुछ vitamins aur supplements ko test se pehle band karna pad sakta hai।"
             }
         },
         {
@@ -69,7 +69,7 @@
             "name": "KFT Aur LFT Mein Kya Farak Hai - Difference Between KFT and LFT in Hindi",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "KFT (Kidney Function Test) kidney ki health check karta है जबकि LFT (Liver Function Test) liver ki health assess karta hai। KFT में creatinine, BUN, GFR, aur electrolytes check hote hain। LFT में SGOT, SGPT, bilirubin, ALP, aur albumin check hota hai। Dono tests alag-alag organs की जांच के लिए kiye jate hain।"
+                "text": "KFT (Kidney Function Test) kidney ki health check karta है जबकि LFT (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Function Test) liver ki health assess karta hai। KFT में creatinine, BUN, GFR, aur electrolytes check hote hain। LFT में SGOT, SGPT, bilirubin, ALP, aur albumin check hota hai। Dono tests alag-alag organs की जांच के लिए kiye jate hain।"
             }
         },
         {
@@ -345,10 +345,10 @@
                     <div class="bg-white border rounded-xl p-5 shadow-sm">
                         <h3 class="font-semibold text-gray-800 mb-2 flex items-center gap-2">
                             <i data-feather="heart" class="w-5 h-5 text-red-500"></i>
-                            Diabetes ya High BP
+                            <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> ya High BP
                         </h3>
                         <p class="text-gray-600 text-sm">
-                            <strong>Diabetes</strong> और <strong>high blood pressure</strong> kidney को damage कर सकते हैं। इन conditions में नियमित <strong>KFT monitoring</strong> जरूरी है।
+                            <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></strong> और <strong>high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a></strong> kidney को damage कर सकते हैं। इन conditions में नियमित <strong>KFT monitoring</strong> जरूरी है।
                         </p>
                     </div>
 
@@ -397,7 +397,7 @@
                     <div class="bg-white border rounded-xl p-6 shadow-sm">
                         <h3 class="font-semibold text-gray-800 mb-2 text-xl">2. Blood Urea Nitrogen (BUN)</h3>
                         <p class="text-gray-600 text-sm mb-2">
-                            <strong>BUN</strong> protein metabolism का waste product है जो liver से बनता है और kidney बाहर निकालते हैं। BUN की level kidney function aur hydration status दोनों को reflect करती है।
+                            <strong>BUN</strong> protein metabolism का waste product है जो <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> से बनता है और kidney बाहर निकालते हैं। BUN की level kidney function aur hydration status दोनों को reflect करती है।
                         </p>
                         <div class="bg-green-50 p-3 rounded-lg">
                             <span class="text-sm"><strong>Normal Range:</strong> 7-20 mg/dL</span>
@@ -674,14 +674,14 @@
                             <tr>
                                 <th class="px-4 py-3 text-left">Aspect</th>
                                 <th class="px-4 py-3 text-left">KFT (Kidney Function Test)</th>
-                                <th class="px-4 py-3 text-left">LFT (Liver Function Test)</th>
+                                <th class="px-4 py-3 text-left">LFT (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Function Test)</th>
                             </tr>
                         </thead>
                         <tbody class="divide-y">
                             <tr class="hover:bg-gray-50">
                                 <td class="px-4 py-3 font-medium">Organ Tested</td>
                                 <td class="px-4 py-3">Kidney (गुर्दा)</td>
-                                <td class="px-4 py-3">Liver (जिगर)</td>
+                                <td class="px-4 py-3"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> (जिगर)</td>
                             </tr>
                             <tr class="hover:bg-gray-50">
                                 <td class="px-4 py-3 font-medium">Parameters</td>
@@ -691,7 +691,7 @@
                             <tr class="hover:bg-gray-50">
                                 <td class="px-4 py-3 font-medium">Purpose</td>
                                 <td class="px-4 py-3">Kidney health assess करना</td>
-                                <td class="px-4 py-3">Liver health assess करना</td>
+                                <td class="px-4 py-3"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> health assess करना</td>
                             </tr>
                             <tr class="hover:bg-gray-50">
                                 <td class="px-4 py-3 font-medium">Common Symptoms</td>
@@ -733,7 +733,7 @@
                         <h3 class="font-semibold text-blue-600 mb-3">High Potassium Ke Karan</h3>
                         <ul class="text-gray-600 space-y-1 text-sm">
                             <li>Kidney failure</li>
-                            <li>Certain blood pressure medicines</li>
+                            <li>Certain <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> medicines</li>
                             <li>Addison's disease</li>
                             <li>Severe burns ya injuries</li>
                             <li>Metabolic acidosis</li>
@@ -744,8 +744,8 @@
                         <h3 class="font-semibold text-orange-600 mb-3">Low Sodium Ke Karan</h3>
                         <ul class="text-gray-600 space-y-1 text-sm">
                             <li>Heart failure</li>
-                            <li>Liver cirrhosis</li>
-                            <li>Thyroid problems</li>
+                            <li><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> cirrhosis</li>
+                            <li><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> problems</li>
                             <li>Dehydration</li>
                             <li>Overhydration</li>
                         </ul>

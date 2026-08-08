@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bone Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant</title>
+    <title><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant</title>
     <meta name="description" content="Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में bone marrow transplant और treatment।">
     <meta name="keywords" content="bone marrow treatment in hindi, bone marrow transplant, stem cell transplant, bone marrow donation, hematology">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Bone Marrow Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Bone Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant",
+        "headline": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant",
         "description": "Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में bone marrow transplant और treatment।",
         "url": "https://rajhospitals.com/blog/bone-marrow-kya-hai-treatment",
         "image": "https://rajhospitals.com/blog/assets/img/featured/bone-marrow-kya-hai-treatment.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Bone Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant"
+                "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Bone Marrow Treatment</span>
+            <span class="text-gray-700"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment</span>
         </nav>
     </div>
 
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Hematology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Bone Marrow Treatment Kya Hai? - Complete Hindi Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment Kya Hai? - Complete Hindi Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
@@ -222,15 +222,15 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Bone marrow</strong> एक महत्वपूर्ण tissue है जो हमारी bones के अंदर पाया जाता है और blood cells का production करता है। जब bone marrow में कोई disease होती है, तो <strong>bone marrow treatment</strong> life-saving option बन जाता है। लेकिन bone marrow treatment के बारे में अक्सर confusion और myths होते हैं।
+                    <strong><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> marrow</strong> एक महत्वपूर्ण tissue है जो हमारी bones के अंदर पाया जाता है और blood cells का production करता है। जब <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> marrow में कोई disease होती है, तो <strong><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> marrow treatment</strong> life-saving option बन जाता है। लेकिन <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> marrow treatment के बारे में अक्सर confusion और myths होते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस comprehensive guide में, <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के hematology experts bone marrow के बारे में, treatment options, procedure, और जरूरी जानकारी detail से बताएंगे।
+                    इस comprehensive guide में, <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के hematology experts <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> marrow के बारे में, treatment options, procedure, और जरूरी जानकारी detail से बताएंगे।
                 </p>
 
                 <!-- Section 1: What is Bone Marrow -->
-                <h2 class="raj-h2">Bone Marrow Kya Hai? (What is Bone Marrow?)</h2>
+                <h2 class="raj-h2"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Kya Hai? (What is Bone Marrow?)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Bone marrow</strong> हमारी bones के अंदर एक soft, spongy tissue है जो इक्वल कहा जाता है। यह दो प्रकार का होता है:

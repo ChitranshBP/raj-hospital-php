@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thyroid Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital</title>
+    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital</title>
     <meta name="description" content="Thyroid problems in women symptoms and treatment in Hindi - जानें women में thyroid ke problems, symptoms, और latest treatment options। PCOS और pregnancy से connection।">
     <meta name="keywords" content="thyroid problems in women, thyroid ke problems women, thyroid symptoms women, thyroid treatment women, thyroid in hindi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Thyroid Problems in Women | Symptoms and Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या Thyroid Problems in Women | Symptoms and Treatment in Hindi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए PCOD Problems in Women - Symptoms, Causes and Health Effects जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -89,8 +89,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Thyroid Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital",
-        "description": "Thyroid problems in women symptoms and treatment in Hindi - जानें women में thyroid ke problems, symptoms, और latest treatment options। PCOS और pregnancy से connection।",
+        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital",
+        "description": "Thyroid problems in women symptoms and treatment in Hindi - जानें women में thyroid ke problems, symptoms, और latest treatment options। <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> और pregnancy से connection।",
         "url": "https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/thyroid-problems-in-women-symptoms-and-treatment.png",
         "author": {
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Thyroid Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital"
+                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital"
             }
         ]
     }
@@ -202,7 +202,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Thyroid Problems in Women</span>
+            <span class="text-gray-700"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women</span>
         </nav>
     </div>
 
@@ -214,7 +214,7 @@
 
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Endocrinology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Thyroid Problems in Women | Symptoms and Treatment in Hindi</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
@@ -224,11 +224,11 @@
 
             <div class="p-6 md:p-10">
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Thyroid problems in women</strong> आज के समय में एक common health issue है। हर 8 women में से 1 को अपने life में कभी न कभी <strong>thyroid disorder</strong> होता है। यह hormone imbalance से related एक serious condition है जो अगर untreated रहे तो कई health complications पैदा कर सकती है।
+                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> problems in women</strong> आज के समय में एक common health issue है। हर 8 women में से 1 को अपने life में कभी न कभी <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> disorder</strong> होता है। यह hormone imbalance से related एक serious condition है जो अगर untreated रहे तो कई health complications पैदा कर सकती है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस article में हम <strong>thyroid problems in women</strong> के symptoms, causes, और treatment options के बारे में detail से जानेंगे। साथ ही यह भी समझेंगे कि thyroid और pregnancy, PCOS में क्या connection है।
+                    इस article में हम <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> problems in women</strong> के symptoms, causes, और treatment options के बारे में detail से जानेंगे। साथ ही यह भी समझेंगे कि <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> और pregnancy, PCOS में क्या connection है।
                 </p>
 
                 <h2 class="raj-h2">Thyroid क्या है और यह कैसे काम करता है?</h2>

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Migraine vs Headache - Key Differences Explained | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> vs Headache - Key Differences Explained | RAJ Hospital Ranchi</title>
     <meta name="description" content="Understanding the key differences between migraine and headache. Learn symptoms, causes, triggers, and effective treatment options for both conditions.">
     <meta name="keywords" content="migraine vs headache, migraine symptoms, tension headache, cluster headache, migraine treatment, headache types">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Migraine vs Headache - Key Differences Explained में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> vs Headache - Key Differences Explained में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Migraine vs Headache - Key Differences Explained | RAJ Hospital Ranchi",
+        "headline": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> vs Headache - Key Differences Explained | RAJ Hospital Ranchi",
         "description": "Understanding the key differences between migraine and headache. Learn symptoms, causes, triggers, and effective treatment options for both conditions.",
         "url": "https://rajhospitals.com/blog/difference-between-migraine-and-headache-key-differences-explained/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/difference-between-migraine-and-headache-key-differences-explained.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Migraine vs Headache - Key Differences Explained | RAJ Hospital Ranchi"
+                "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> vs Headache - Key Differences Explained | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Migraine vs Headache</span>
+            <span class="text-gray-700"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> vs Headache</span>
         </nav>
     </div>
 
@@ -216,8 +216,8 @@
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Migraine vs Headache - Key Differences Explained</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a> vs Headache - Key Differences Explained</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,18 +228,18 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>"My head is killing me"</strong> - we've all said it, but do you really know what type of head pain you're experiencing? Many people use the word "migraine" casually to describe any bad headache, but migraine is a distinct neurological condition that goes far beyond simple head pain. Understanding the difference between a common headache and a migraine can help you seek the right treatment and get relief faster.
+                    <strong>"My head is killing me"</strong> - we've all said it, but do you really know what type of head pain you're experiencing? Many people use the word "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a>" casually to describe any bad headache, but migraine is a distinct neurological condition that goes far beyond simple head pain. Understanding the difference between a common headache and a migraine can help you seek the right treatment and get relief faster.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    According to the World Health Organization, headaches are among the most common disorders of the nervous system, affecting nearly half of the adult population globally. Migraines alone affect about 1 billion people worldwide, making it one of the leading causes of disability. Despite this prevalence, many people suffer without proper diagnosis or treatment because they don't understand that their symptoms point to migraine rather than a simple tension headache.
+                    According to the World Health Organization, headaches are among the most common disorders of the nervous system, affecting nearly half of the adult population globally. Migraines alone affect about 1 billion people worldwide, making it one of the leading causes of disability. Despite this prevalence, many people suffer without proper diagnosis or treatment because they don't understand that their symptoms point to <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a> rather than a simple tension headache.
                 </p>
 
                 <!-- Section 1: What is a Headache? -->
                 <h2 class="raj-h2">Understanding Headaches</h2>
 
                 <p class="text-gray-700 mb-4">
-                    A <strong>headache</strong> is a broad term referring to pain in the head, face, or upper neck region. Headaches can be primary (the pain itself is the condition) or secondary (caused by another medical condition). The most common types include tension headaches, cluster headaches, and sinus headaches.
+                    A <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></strong> is a broad term referring to pain in the head, face, or upper neck region. Headaches can be primary (the pain itself is the condition) or secondary (caused by another medical condition). The most common types include tension headaches, cluster headaches, and sinus headaches.
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Types of Headaches</h3>
@@ -263,7 +263,7 @@
                     </div>
                 </div>
 
-                <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Common Headache Symptoms</h3>
+                <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Common <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Symptoms</h3>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li>Dull, aching pain (tension) or sharp, stabbing pain (cluster)</li>
                     <li>Pain on both sides of the head (tension) or one side (cluster)</li>
@@ -276,7 +276,7 @@
                 <h2 class="raj-h2">Understanding Migraines</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Migraine</strong> is a neurological disease characterized by recurrent moderate to severe headaches, often accompanied by nausea, vomiting, and sensitivity to light, sound, or smell. It's not just "a bad headache" - it's a complex neurological condition that affects the entire nervous system.
+                    <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Migraine</a></strong> is a neurological disease characterized by recurrent moderate to severe headaches, often accompanied by nausea, vomiting, and sensitivity to light, sound, or smell. It's not just "a bad headache" - it's a complex neurological condition that affects the entire nervous system.
                 </p>
 
                 <p class="text-gray-700 mb-6">

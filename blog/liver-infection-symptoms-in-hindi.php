@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "लिवर इन्फेक्शन के लक्षण - कारण, निदान और इलाज | RAJ Hospital Ranchi",
         "description": "लिवर इन्फेक्शन के प्रमुख लक्षण, कारण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best gastroenterologists की advice।",
-        "url": "https://rajhospitals.com/blog/liver-infection-symptoms-in-hindi/",
+        "url": "https://rajhospitals.com/blog/<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>-infection-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/liver-infection-symptoms-in-hindi.png",
         "author": {
             "@type": "Organization",
@@ -295,7 +295,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>वायरल इन्फेक्शन:</strong> Hepatitis A, B, C वायरस</li>
-                    <li><strong>शराब:</strong> ज्यादा शराब पीने से alcoholic hepatitis और fatty liver</li>
+                    <li><strong>शराब:</strong> ज्यादा शराब पीने से alcoholic hepatitis और fatty <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a></li>
                     <li><strong>दवाइयाँ:</strong> कुछ दवाइयों के अत्यधिक use से drug-induced hepatitis</li>
                     <li><strong>फैटी लिवर:</strong> मोटापे, डायबिटीज़ और high cholesterol से</li>
                     <li><strong>ऑटोइम्यून:</strong> शरीर की रोग प्रतिरोधक क्षमता लिवर पर हमला करे</li>
@@ -326,7 +326,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">लिवर की जांच करवाएं</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में Liver Function Test, Ultrasound और Hepatitis screening available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Function Test, Ultrasound और Hepatitis screening available है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -362,7 +362,7 @@
                         <p class="text-gray-700">Hepatitis A मल-मूत्र के रास्ते से फैलता है। B और C mainly खून के संपर्क से फैलते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600 mb-2">Liver Function Test क्या है?</h4>
+                        <h4 class="font-bold text-secondary-600 mb-2"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Function Test क्या है?</h4>
                         <p class="text-gray-700">यह एक खून की जांच है जो यह बताती है कि लिवर कितना अच्छा काम कर रहा है।</p>
                     </div>
                 </div>
@@ -371,7 +371,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">लिवर इन्फेक्शन के लक्षण - कारण, निदान और इलाज पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">लिवर इन्फेक्शन के प्रमुख लक्षण, कारण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best gastroenterologists की advice।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। लिवर इन्फेक्शन के लक्षण - कारण, निदान और इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>

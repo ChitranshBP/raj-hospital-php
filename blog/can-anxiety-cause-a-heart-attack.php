@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Can Anxiety Cause a Heart Attack? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
+    <title>Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Can anxiety cause a heart attack? Top cardiologist at RAJ Hospital Ranchi explains the link between anxiety, panic attacks and heart attack risk — with symptoms checklist and when to seek emergency care.">
     <meta name="keywords" content="can anxiety cause a heart attack, anxiety heart attack, panic attack vs heart attack, anxiety and heart disease, stress cardiomyopathy, broken heart syndrome, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Can Anxiety Cause a Heart Attack? Doctor-Explained Guide",
+        "headline": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide",
         "description": "Cardiologist-reviewed guide on the link between anxiety, panic attacks and heart attack risk.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Can Anxiety Cause a Heart Attack?" }
+            { "@type": "ListItem", "position": 3, "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?" }
         ]
     }
     </script>
@@ -75,7 +75,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Can Anxiety Cause a Heart Attack?",
+        "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?",
         "description": "Doctor-reviewed guide explaining the relationship between anxiety, panic attacks and heart attack risk, with emergency warning signs.",
         "url": "https://rajhospitals.com/blog/can-anxiety-cause-a-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -100,7 +100,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Can anxiety directly cause a heart attack?",
+                "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> directly cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "A single anxiety episode does not directly cause a heart attack in a healthy heart. However, chronic anxiety contributes to long-term risk factors — high blood pressure, inflammation, unhealthy coping habits — that increase the likelihood of a cardiac event over years. In rare cases, sudden extreme stress can trigger stress cardiomyopathy (Takotsubo or 'broken heart' syndrome), which mimics a heart attack."
@@ -153,7 +153,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Can Anxiety Cause a Heart Attack?</span>
+            <span class="text-gray-700">Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?</span>
         </nav>
     </div>
 

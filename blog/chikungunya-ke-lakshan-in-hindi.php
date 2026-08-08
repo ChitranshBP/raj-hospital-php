@@ -251,7 +251,7 @@
                 <h2 class="raj-h2">चिकनगुनिया के लक्षण (Chikungunya Ke Lakshan)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Chikungunya symptoms</strong> संक्रमण के बाद 3-7 दिनों के बाद दिखना शुरू होते हैं। symptoms आमतौर पर 1-2 सप्ताह तक रहते हैं, लेकिन कुछ patients में joint pain months तक रह सकता है।
+                    <strong>Chikungunya symptoms</strong> संक्रमण के बाद 3-7 दिनों के बाद दिखना शुरू होते हैं। symptoms आमतौर पर 1-2 सप्ताह तक रहते हैं, लेकिन कुछ patients में <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> months तक रह सकता है।
                 </p>
 
                 <div class="space-y-4 mb-6">
@@ -260,7 +260,7 @@
                         <p class="text-sm text-gray-600">अचानक तेज बुखार (104°F तक) जो 2-4 दिनों तक रह सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">2. गंभीर जोड़ों में दर्द (Severe Joint Pain)</h4>
+                        <h4 class="font-bold text-secondary-600">2. गंभीर जोड़ों में दर्द (Severe <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a>)</h4>
                         <p class="text-sm text-gray-600">यह चिकनगुनिया का सबसे प्रमुख और characteristic लक्षण है। हाथों, पैरों, घुटनों, और wrist joints में तेज दर्द।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -268,7 +268,7 @@
                         <p class="text-sm text-gray-600">पूरे शरीर में मांसपेशियों में दर्द और अकड़न।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">4. सिरदर्द (Headache)</h4>
+                        <h4 class="font-bold text-secondary-600">4. सिरदर्द (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>)</h4>
                         <p class="text-sm text-gray-600">तीव्र सिरदर्द जो forehead area में अधिक हो सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -340,7 +340,7 @@
                         <div class="font-bold text-green-700 mb-2">दवाइयां</div>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Paracetamol (बुखार और दर्द के लिए)</li>
-                            <li>NSAIDs (joint pain के लिए, doctor की सलाह से)</li>
+                            <li>NSAIDs (<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> के लिए, doctor की सलाह से)</li>
                             <li>Antihistamines (rash के लिए)</li>
                             <li>कोई antibiotics नहीं (यह viral है)</li>
                         </ul>
@@ -399,7 +399,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">चिकनगुनिया कितने दिनों में ठीक होता है?</h4>
-                        <p class="text-gray-700">अधिकतर लोग 1-2 सप्ताह में ठीक हो जाते हैं, लेकिन joint pain कुछ महीनों तक रह सकता है।</p>
+                        <p class="text-gray-700">अधिकतर लोग 1-2 सप्ताह में ठीक हो जाते हैं, लेकिन <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> कुछ महीनों तक रह सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">चिकनगुनिया से मौत हो सकती है?</h4>
@@ -415,7 +415,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">चिकनगुनिया के लक्षण (Chikungunya Symptoms) पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">चिकनगुनिया (Chikungunya) के प्रमुख लक्षण, कारण, इलाज और बचाव के उपाय जानें। Dengue और Chikungunya में अंतर और effective treatment।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। चिकनगुनिया के लक्षण (Chikungunya Symptoms) शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>

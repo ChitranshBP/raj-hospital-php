@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kidney Stone Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में | RAJ Hospital Ranchi</title>
+    <title><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में | RAJ Hospital Ranchi</title>
     <meta name="description" content="पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय हिंदी में। Ranchi में best kidney stone treatment RAJ Hospital में।">
     <meta name="keywords" content="kidney stone symptoms men, पथरी के लक्षण पुरुषों में, kidney stone treatment, पथरी का इलाज, kidney stone in hindi, renal stone, मूत्रपथरी">
     <meta name="robots" content="index, follow">
@@ -39,7 +39,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Kidney Stone Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में",
+        "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में",
         "description": "पथरी के लक्षण पुरुषों में, कारण, इलाज और बचाव के उपाय। RAJ Hospital Ranchi में expert kidney stone treatment।",
         "url": "https://rajhospitals.com/blog/kidney-stone-symptoms-in-men-in-hindi/",
         "author": {
@@ -85,7 +85,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Kidney Stone Symptoms in Men"
+                "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men"
             }
         ]
     }
@@ -98,7 +98,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "पथरी (Kidney Stone) क्या है और पुरुषों में इसके क्या लक्षण हैं?",
+                "name": "पथरी (<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a>) क्या है और पुरुषों में इसके क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "पथरी एक solid mass है जो kidney में minerals और salts के crystallizing से बनती है। पुरुषों में लक्षणों में तेज पीठ दर्द (विशेषकर पसलियों के नीचे), पेशाब में दर्द जलन, blood in urine, बार-बार पेशाब, मतली और उल्टी शामिल हैं।"
@@ -176,15 +176,15 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-primary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Kidney Stone Symptoms in Men</span>
+            <span class="text-gray-700"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men</span>
         </nav>
     </div>
 
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10 border-b border-gray-100">
-                <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Urology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Kidney Stone Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में</h1>
+                <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 23, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
@@ -194,11 +194,11 @@
 
             <div class="p-6 md:p-10">
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>पथरी (Kidney Stone)</strong> एक आम health problem है जो भारत में लाखों पुरुषों को प्रभावित करती है। यह तब बनती है जब मूत्र में कुछ minerals और salts की मात्रा बहुत ज्यादा हो जाती है और वे crystallize होकर एक solid mass बनाते हैं। इस blog post में हम <strong>kidney stone symptoms in men</strong> के बारे में विस्तार से जानेंगे।
+                    <strong>पथरी (<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a>)</strong> एक आम health problem है जो भारत में लाखों पुरुषों को प्रभावित करती है। यह तब बनती है जब मूत्र में कुछ minerals और salts की मात्रा बहुत ज्यादा हो जाती है और वे crystallize होकर एक solid mass बनाते हैं। इस blog post में हम <strong><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">kidney stone</a> symptoms in men</strong> के बारे में विस्तार से जानेंगे।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital Ranchi में हमारी expert urology team <a href="/blog/kidney-stone-ka-ilaj/" class="text-primary-600 hover:underline font-semibold">kidney stone treatment</a> में specialized है। हमारे पास latest diagnostic और treatment facilities उपलब्ध हैं।
+                    RAJ Hospital Ranchi में हमारी expert <a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">urology</a> team <a href="/blog/kidney-stone-ka-ilaj/" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">kidney stone</a> treatment</a> में specialized है। हमारे पास latest diagnostic और treatment facilities उपलब्ध हैं।
                 </p>
 
                 <div class="bg-red-100 border-2 border-red-500 p-4 rounded-lg mb-6">
@@ -206,7 +206,7 @@
                     <span class="text-gray-700"> अगर तेज दर्द के साथ fever, पेशाब में ज्यादा खून, या पेशाब न आना जैसी गंभीर symptoms हों, तुरंत hospital जाएं।</span>
                 </div>
 
-                <h2 class="raj-h2-secondary">पथरी (Kidney Stone) क्या है?</h2>
+                <h2 class="raj-h2-secondary">पथरी (<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a>) क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>पथरी या मूत्रपथरी (Renal Calculus)</strong> एक solid crystalline mass है जो एक या दोनों kidneys में बनती है। यह विभिन्न substances से बन सकती है:

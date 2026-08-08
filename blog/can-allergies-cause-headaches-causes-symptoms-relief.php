@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Allergy Headache - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi</title>
+    <title>Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Allergy Headache का complete guide - causes, symptoms और relief options। जानें कैसे allergies headache कराती हैं और कैसे relief पाएं।">
     <meta name="keywords" content="allergy headache, allergies cause headaches, causes symptoms relief, sinus headache, allergic headache treatment">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Allergy Headache - Causes, Symptoms और Relief Guide में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Allergy Headache - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi",
+        "headline": "Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi",
         "description": "Allergy Headache का complete guide - causes, symptoms और relief options। जानें कैसे allergies headache कराती हैं और कैसे relief पाएं।",
         "url": "https://rajhospitals.com/blog/can-allergies-cause-headaches-causes-symptoms-relief/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-allergies-cause-headaches-causes-symptoms-relief.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Allergy Headache - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi"
+                "name": "Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Allergy Headache Guide</span>
+            <span class="text-gray-700">Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Guide</span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-amber-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Allergy & Immunology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Allergy Headache - Causes, Symptoms और Relief Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -228,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Allergy Headache</strong> एक common problem है जो millions लोगों को affect करती है। जब allergies headache का कारण बनती हैं, तो understand करना important है कि यह कैसे होती है और क्या options available हैं।
+                    <strong>Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></strong> एक common problem है जो millions लोगों को affect करती है। जब allergies <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> का कारण बनती हैं, तो understand करना important है कि यह कैसे होती है और क्या options available हैं।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -237,16 +237,16 @@
                 </div>
 
                 <!-- Section 1: Causes -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-amber-600 pb-2 mt-8 mb-4">Allergy Headache के कारण (Causes)</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-amber-600 pb-2 mt-8 mb-4">Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> के कारण (Causes)</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-amber-600">
                         <h4 class="font-bold text-amber-600">1. Histamine Release</h4>
-                        <p class="text-sm text-gray-600">Allergen exposure पर immune system histamine release करता है। Histamine blood vessels को dilate करता है और inflammation cause करता है, जो headache कराता है।</p>
+                        <p class="text-sm text-gray-600">Allergen exposure पर immune system histamine release करता है। Histamine blood vessels को dilate करता है और inflammation cause करता है, जो <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> कराता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-amber-600">
                         <h4 class="font-bold text-amber-600">2. Sinus Congestion</h4>
-                        <p class="text-sm text-gray-600">Allergies से nasal passages swell हो जाते हैं। यह sinus drainage को block करता है, pressure buildup होती है, और frontal headache होती है।</p>
+                        <p class="text-sm text-gray-600">Allergies से nasal passages swell हो जाते हैं। यह sinus drainage को block करता है, pressure buildup होती है, और frontal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> होती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-amber-600">
                         <h4 class="font-bold text-amber-600">3. Postnasal Drip</h4>
@@ -254,7 +254,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-amber-600">
                         <h4 class="font-bold text-amber-600">4. Dehydration from Congestion</h4>
-                        <p class="text-sm text-gray-600">Stuffy nose से mouth breathing बढ़ जाती है, जो dehydration कराती है और headache को worse बनाती है।</p>
+                        <p class="text-sm text-gray-600">Stuffy nose से mouth breathing बढ़ जाती है, जो dehydration कराती है और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> को worse बनाती है।</p>
                     </div>
                 </div>
 

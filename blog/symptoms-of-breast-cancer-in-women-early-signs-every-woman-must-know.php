@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-23",
         "dateModified": "2026-05-23",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/symptoms-of-breast-cancer-in-women-early-signs-every-woman-must-know/",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/symptoms-of-breast-<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a>-in-women-early-signs-every-woman-must-know/",
         "keywords": ["breast cancer symptoms", "breast cancer early signs", "mahilaon mein cancer"],
         "about": {
             "@type": "MedicalCondition",
@@ -87,7 +87,7 @@ $base_url = '../';
                 "name": "Self breast examination कैसे करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हर महीने periods के 5-7 दिन बाद shower में या mirror के सामने खड़े होकर छाती की जाँच करें। गांठ, असमानता, या त्वचा में बदलाव देखें।"
+                    "text": "हर महीने <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> के 5-7 दिन बाद shower में या mirror के सामने खड़े होकर छाती की जाँच करें। गांठ, असमानता, या त्वचा में बदलाव देखें।"
                 }
             },
             {
@@ -163,7 +163,7 @@ $base_url = '../';
                 "@type": "ListItem",
                 "position": 3,
                 "name": "कैंसर",
-                "item": "https://rajhospitals.com/blog?category=cancer"
+                "item": "https://rajhospitals.com/blog?category=<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a>"
             },
             {
                 "@type": "ListItem",
@@ -234,7 +234,7 @@ $base_url = '../';
             </div>
 
             <p class="text-lg text-gray-700 mb-6 leading-relaxed">
-                <strong>स्तन कैंसर (Breast Cancer)</strong> की early detection बहुत ज़रूरी है। जितनी जल्दी पहचान हो, उतना आसान इलाज। <a href="https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi/" class="text-hospital-blue hover:underline">स्तन कैंसर के बारे में</a> हर महिला को पता होना चाहिए कि कौन से लक्षण normal हैं और कौन से चिंताजनक।
+                <strong>स्तन कैंसर (<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a>)</strong> की early detection बहुत ज़रूरी है। जितनी जल्दी पहचान हो, उतना आसान इलाज। <a href="https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi/" class="text-hospital-blue hover:underline">स्तन कैंसर के बारे में</a> हर महिला को पता होना चाहिए कि कौन से लक्षण normal हैं और कौन से चिंताजनक।
             </p>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -323,7 +323,7 @@ $base_url = '../';
             </div>
 
             <div class="bg-blue-50 border-l-4 border-hospital-blue p-4 rounded-r-lg mb-6">
-                <p class="text-gray-700 text-sm"><strong>कब करें:</strong> हर महीने periods के 5-7 दिन बाद (जब hormonal changes कम हों)। Menopause के बाद हर month की same तारीख को।</p>
+                <p class="text-gray-700 text-sm"><strong>कब करें:</strong> हर महीने <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> के 5-7 दिन बाद (जब hormonal changes कम हों)। Menopause के बाद हर month की same तारीख को।</p>
             </div>
 
             <!-- CTA Box -->
@@ -352,7 +352,7 @@ $base_url = '../';
                         <li><strong>Family History</strong> - माँ, बहन में कैंसर</li>
                         <li><strong>BRCA1/BRCA2 Genes</strong> - genetic mutation</li>
                         <li><strong>पहले स्तन कैंसर होना</strong></li>
-                        <li><strong>Early periods (12 से पहले)</strong></li>
+                        <li><strong>Early <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> (12 से पहले)</strong></li>
                         <li><strong>Late menopause (55+)</strong></li>
                     </ul>
                 </div>
@@ -461,7 +461,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">Breastfeeding करें</h4>
-                        <p class="text-gray-600 text-sm">जितनी देर possible हो, breastfeeding करें। यह breast cancer risk कम करता है।</p>
+                        <p class="text-gray-600 text-sm">जितनी देर possible हो, breastfeeding करें। यह <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">breast cancer</a> risk कम करता है।</p>
                     </div>
                 </div>
 
@@ -493,7 +493,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: Self breast examination कैसे करें?</h4>
-                    <p class="text-gray-700 text-sm">हर महीने periods के 5-7 दिन बाद shower में या mirror के सामने खड़े होकर छाती की जाँच करें। गांठ, असमानता, या त्वचा में बदलाव देखें।</p>
+                    <p class="text-gray-700 text-sm">हर महीने <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> के 5-7 दिन बाद shower में या mirror के सामने खड़े होकर छाती की जाँच करें। गांठ, असमानता, या त्वचा में बदलाव देखें।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -520,7 +520,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की oncology टीम कैंसर की early detection और treatment में विशेषज्ञ है। Screening और consultation के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">oncology</a> टीम कैंसर की early detection और treatment में विशेषज्ञ है। Screening और consultation के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>
@@ -538,14 +538,14 @@ $base_url = '../';
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">स्तन कैंसर के लक्षण</h4>
-                        <p class="text-gray-500 text-xs">Breast cancer symptoms in Hindi</p>
+                        <p class="text-gray-500 text-xs"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast cancer</a> symptoms in Hindi</p>
                     </div>
                 </a>
                 <a href="https://rajhospitals.com/blog/cervical-cancer-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
                         <h4 class="font-semibold text-gray-800 text-sm">गर्भाशय ग्रीवा कैंसर</h4>
-                        <p class="text-gray-500 text-xs">Cervical cancer symptoms</p>
+                        <p class="text-gray-500 text-xs">Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> symptoms</p>
                     </div>
                 </a>
                 <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
@@ -558,7 +558,7 @@ $base_url = '../';
                 <a href="https://rajhospitals.com/blog/pcod-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
-                        <h4 class="font-semibold text-gray-800 text-sm">PCOD Symptoms</h4>
+                        <h4 class="font-semibold text-gray-800 text-sm"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms</h4>
                         <p class="text-gray-500 text-xs">PCOD in women</p>
                     </div>
                 </a>

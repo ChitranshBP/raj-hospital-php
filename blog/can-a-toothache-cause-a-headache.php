@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Can a Toothache Cause a Headache? - Complete Guide | RAJ Hospital Ranchi</title>
+    <title>Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Can a toothache cause a headache? जानें दांत दर्द और सिरदर्द का connection, causes, और treatment options। Complete guide by RAJ Hospital Ranchi doctors।">
     <meta name="keywords" content="toothache headache, tooth pain, headache causes, dental health, tooth headache connection">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Can a Toothache Cause a Headache? में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Can a Toothache Cause a Headache? - Complete Guide | RAJ Hospital Ranchi",
+        "headline": "Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide | RAJ Hospital Ranchi",
         "description": "Can a toothache cause a headache? जानें दांत दर्द और सिरदर्द का connection, causes, और treatment options। Complete guide by RAJ Hospital Ranchi doctors।",
         "url": "https://rajhospitals.com/blog/can-a-toothache-cause-a-headache/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-a-toothache-cause-a-headache.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Can a Toothache Cause a Headache? - Complete Guide | RAJ Hospital Ranchi"
+                "name": "Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Toothache Headache Guide</span>
+            <span class="text-gray-700">Toothache <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Guide</span>
         </nav>
     </div>
 
@@ -217,7 +217,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-teal-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Dental Health</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Can a Toothache Cause a Headache? - Complete Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
@@ -228,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Can a toothache cause a headache?</strong> यह एक common question है जो कई लोग पूछते हैं। जब आपको दांत में दर्द होता है, तो क्या वह सिरदर्द का कारण बन सकता है? जानिए इस article में।
+                    <strong>Can a toothache cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>?</strong> यह एक common question है जो कई लोग पूछते हैं। जब आपको दांत में दर्द होता है, तो क्या वह सिरदर्द का कारण बन सकता है? जानिए इस article में।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -237,7 +237,7 @@
                 </div>
 
                 <!-- Section 1: Connection -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-teal-600 pb-2 mt-8 mb-4">Toothache और Headache का Connection</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-teal-600 pb-2 mt-8 mb-4">Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> का Connection</h2>
 
                 <p class="text-gray-700 mb-4">
                     दांत और सिर के बीच connection <strong>Trigeminal Nerve</strong> की वजह से होता है। यह nerve मुखमंडल, दांतों और सिर के हिस्सों में sensation प्रदान करती है। जब दांत में दर्द होता है, तो यह nerve उस pain signal को सिर तक पहुंचा सकती है।
@@ -249,7 +249,7 @@
                 </div>
 
                 <!-- Section 2: How Toothache Causes Headache -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-teal-600 pb-2 mt-8 mb-4">Toothache कैसे Headache कराता है?</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-teal-600 pb-2 mt-8 mb-4">Toothache कैसे <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> कराता है?</h2>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
@@ -258,11 +258,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">2. Jaw Muscle Tension</h4>
-                        <p class="text-sm text-gray-600">दांत दर्द से jaw muscles tight हो जाती हैं, जिससे tension headache हो सकती है।</p>
+                        <p class="text-sm text-gray-600">दांत दर्द से jaw muscles tight हो जाती हैं, जिससे tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> हो सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">3. Sinus Pressure</h4>
-                        <p class="text-sm text-gray-600">upper back teeth के problems sinus inflammation करा सकते हैं, जो headache कराता है।</p>
+                        <p class="text-sm text-gray-600">upper back teeth के problems sinus inflammation करा सकते हैं, जो <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> कराता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">4. TMJ Disorder</h4>
@@ -271,7 +271,7 @@
                 </div>
 
                 <!-- Section 3: Types of Tooth Problems -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-teal-600 pb-2 mt-8 mb-4">दांत की कौन सी problems headache कराती हैं?</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-teal-600 pb-2 mt-8 mb-4">दांत की कौन सी problems <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> कराती हैं?</h2>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">

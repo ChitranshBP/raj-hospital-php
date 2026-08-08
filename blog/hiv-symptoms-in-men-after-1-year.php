@@ -143,7 +143,7 @@
             ],
             [
                 '@type' => 'Question',
-                'name' => 'क्या HIV से पीड़ित पुरुषों में mental health issues होती हैं?',
+                'name' => 'क्या HIV से पीड़ित पुरुषों में <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">mental health</a> issues होती हैं?',
                 'acceptedAnswer' => [
                     '@type' => 'Answer',
                     'text' => 'हां, depression, anxiety, और cognitive issues (memory problems, difficulty concentrating) common हैं। HIV directly brain को affect कर सकता है और ART side effects से भी mental health impacts हो सकते हैं। समय पर psychiatric consultation लेना important है।'
@@ -421,7 +421,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">6. Neurological Symptoms (न्यूरोलॉजिकल लक्षण)</h4>
-                        <p class="text-sm text-gray-600">Memory problems, difficulty concentrating, mood changes, और peripheral neuropathy (hand/feet में numbness या tingling)। HIV directly nervous system को affect कर सकता है। हमारी <a href="/movement-disorders-treatment-in-ranchi.php" class="text-teal-600 hover:underline">neurology team</a> इन symptoms को manage करने में help कर सकती है।</p>
+                        <p class="text-sm text-gray-600">Memory problems, difficulty concentrating, mood changes, और peripheral neuropathy (hand/feet में numbness या tingling)। HIV directly nervous system को affect कर सकता है। हमारी <a href="/movement-disorders-treatment-in-ranchi.php" class="text-teal-600 hover:underline"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> team</a> इन symptoms को manage करने में help कर सकती है।</p>
                     </div>
                 </div>
 
@@ -438,7 +438,7 @@
                         <li>Unprotected sexual contact के 3 months बाद</li>
                         <li>Sharing needles के exposure के बाद</li>
                         <li>HIV positive partner के साथ relationship में</li>
-                        <li>Pregnancy planning या pregnancy के दौरान</li>
+                        <li><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> planning या pregnancy के दौरान</li>
                         <li>Surgery या blood transfusion से पहले</li>
                     </ul>
                 </div>
@@ -467,7 +467,7 @@
                 </ul>
 
                 <p class="text-gray-700 mb-6">
-                    अगर आपको <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-teal-600 hover:underline">stroke</a> या अन्य neurological problems के symptoms हों, तो यह HIV-related भी हो सकते हैं। RAJ Hospital में comprehensive neurological evaluation available है।
+                    अगर आपको <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-teal-600 hover:underline"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a> या अन्य neurological problems के symptoms हों, तो यह HIV-related भी हो सकते हैं। RAJ Hospital में comprehensive neurological evaluation available है।
                 </p>
 
                 <!-- Section 5 -->
@@ -487,8 +487,8 @@
                         <p class="text-sm text-gray-600">Regular moderate exercise fatigue कम करता है और overall health improve करता है। हमारी physiotherapy services के बारे में जानें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
-                        <h4 class="font-bold text-teal-600">Mental Health (मानसिक स्वास्थ्य)</h4>
-                        <p class="text-sm text-gray-600">Depression और anxiety common हैं। समय पर mental health professional से support लें। हमारी team counseling में help कर सकती है।</p>
+                        <h4 class="font-bold text-teal-600"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Mental Health</a> (मानसिक स्वास्थ्य)</h4>
+                        <p class="text-sm text-gray-600"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> और anxiety common हैं। समय पर mental health professional से support लें। हमारी team counseling में help कर सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">Regular Monitoring (नियमित जांच)</h4>
@@ -528,8 +528,8 @@
                         <p class="text-gray-700">1 साल बाद skin problems में rashes, fungal infections (oral thrush), herpes simplex, seborrheic dermatitis, और unexplained bruises/shots हो सकते हैं। Skin changes often immune system की weakness का sign होते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-teal-600 mb-2">क्या HIV से पीड़ित पुरुषों में mental health issues होती हैं?</h4>
-                        <p class="text-gray-700">हां, depression, anxiety, और cognitive issues (memory problems, difficulty concentrating) common हैं। HIV directly brain को affect कर सकता है और ART side effects से भी mental health impacts हो सकते हैं। समय पर psychiatric consultation लेना important है।</p>
+                        <h4 class="font-bold text-teal-600 mb-2">क्या HIV से पीड़ित पुरुषों में <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">mental health</a> issues होती हैं?</h4>
+                        <p class="text-gray-700">हां, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a>, anxiety, और cognitive issues (memory problems, difficulty concentrating) common हैं। HIV directly brain को affect कर सकता है और ART side effects से भी mental health impacts हो सकते हैं। समय पर psychiatric consultation लेना important है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">HIV testing कहां से free करवा सकते हैं?</h4>
@@ -541,7 +541,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">पुरुषों में HIV के लक्षण 1 साल बाद कैसे दिखते हैं। जानें HIV infection के 1 साल बाद कौन से symptoms appear होते हैं, कब testing करनी चाहिए, और treatment options। Complete Hindi guide।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>

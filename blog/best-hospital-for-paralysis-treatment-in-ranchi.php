@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Hospital for Paralysis Treatment in Ranchi | RAJ Hospital</title>
+    <title>Best Hospital for <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a> Treatment in Ranchi | RAJ Hospital</title>
     <meta name="description" content="Ranchi में paralysis treatment के लिए सबसे अच्छा hospital कैसे चुनें। Latest treatments, experienced neurologists, और success rates के बारे में जानकारी। RAJ Hospital Ranchi में comprehensive stroke और paralysis care।">
     <meta name="keywords" content="best hospital for paralysis treatment ranchi, paralysis treatment, stroke treatment ranchi, best neurologist ranchi, physiotherapy ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Best Hospital for Paralysis Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Best Hospital for <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a> Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Best Hospital for Paralysis Treatment in Ranchi | RAJ Hospital",
+        "headline": "Best Hospital for <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a> Treatment in Ranchi | RAJ Hospital",
         "description": "Ranchi में paralysis treatment के लिए सबसे अच्छा hospital कैसे चुनें। Latest treatments, experienced neurologists, और success rates के बारे में जानकारी। RAJ Hospital Ranchi में comprehensive stroke और paralysis care।",
         "url": "https://rajhospitals.com/blog/best-hospital-for-paralysis-treatment-in-ranchi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-hospital-for-paralysis-treatment-in-ranchi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Best Hospital for Paralysis Treatment in Ranchi | RAJ Hospital"
+                "name": "Best Hospital for <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a> Treatment in Ranchi | RAJ Hospital"
             }
         ]
     }
@@ -203,15 +203,15 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Paralysis Treatment in Ranchi</span>
+            <span class="text-gray-700"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a> Treatment in Ranchi</span>
         </nav>
     </div>
 
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neurology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best Hospital for Paralysis Treatment in Ranchi: Complete Guide</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best Hospital for <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a> Treatment in Ranchi: Complete Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
@@ -222,11 +222,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Paralysis</strong> (लकवा) is a medical condition that affects millions of people worldwide and requires immediate, specialized care. When searching for the <strong>best hospital for paralysis treatment in Ranchi</strong>, it's crucial to understand what makes a hospital suitable for this complex neurological condition. Whether you're dealing with paralysis caused by <strong>stroke</strong>, <strong>spinal cord injury</strong>, or other neurological disorders, choosing the right healthcare facility can make a significant difference in recovery outcomes.
+                    <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a></strong> (लकवा) is a medical condition that affects millions of people worldwide and requires immediate, specialized care. When searching for the <strong>best hospital for <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">paralysis</a> treatment in Ranchi</strong>, it's crucial to understand what makes a hospital suitable for this complex neurological condition. Whether you're dealing with <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">paralysis</a> caused by <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></strong>, <strong>spinal cord injury</strong>, or other neurological disorders, choosing the right healthcare facility can make a significant difference in recovery outcomes.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    In this comprehensive guide, we will explore everything you need to know about <strong>paralysis treatment options</strong>, how to choose the best hospital, what treatments are available in Ranchi, and the rehabilitation process. At <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>, we provide world-class <strong>neurology and rehabilitation services</strong> designed to help patients regain function and independence after paralysis.
+                    In this comprehensive guide, we will explore everything you need to know about <strong><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">paralysis</a> treatment options</strong>, how to choose the best hospital, what treatments are available in Ranchi, and the rehabilitation process. At <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>, we provide world-class <strong>neurology and rehabilitation services</strong> designed to help patients regain function and independence after paralysis.
                 </p>
 
                 <!-- Section 1: What is Paralysis -->

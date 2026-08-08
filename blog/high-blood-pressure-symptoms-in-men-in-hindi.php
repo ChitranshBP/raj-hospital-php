@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण | RAJ Hospital Ranchi</title>
+    <title>High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में उच्च रक्तचाप (High BP) के लक्षण जानें। सिरदर्द, सांस फूलना, चक्कर आना जैसे early signs पहचानें। Ranchi के best neurologists से मुफ्त consultation।">
     <meta name="keywords" content="high blood pressure symptoms men, उच्च रक्तचाप के लक्षण, high bp symptoms in hindi, पुरुषों में bp, hypertension men, रक्तचाप, bp high symptoms">
     <meta name="robots" content="index, follow">
@@ -23,7 +23,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "High Blood Pressure Symptoms in Men in Hindi",
+        "name": "High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Symptoms in Men in Hindi",
         "description": "पुरुषों में उच्च रक्तचाप (High BP) के लक्षण, कारण और बचाव के उपाय",
         "author": {
             "@type": "Organization",
@@ -50,7 +50,7 @@
             "name": "High Blood Pressure Symptoms",
             "signOrSymptom": {
                 "@type": "MedicalSymptom",
-                "name": "Headache, Dizziness, Shortness of Breath"
+                "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>, Dizziness, Shortness of Breath"
             }
         }
     }
@@ -76,7 +76,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "High Blood Pressure Symptoms in Men in Hindi",
+                "name": "High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Symptoms in Men in Hindi",
                 "item": "https://rajhospitals.com/blog/high-blood-pressure-symptoms-in-men-in-hindi/"
             }
         ]
@@ -101,7 +101,7 @@
                 "name": "पुरुषों में high BP क्यों ज्यादा होती है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "पुरुषों में high BP ज्यादा होने के कई कारण हैं - अधिक तनाव, अनhealthy lifestyle, शराब और धूम्रपान की आदत, अधिक नमक का सेवन, व्यायाम की कमी, और मोटापा। पुरुषों में generally stress hormones ज्यादा active होते हैं जो BP बढ़ाते हैं।"
+                    "text": "पुरुषों में high BP ज्यादा होने के कई कारण हैं - अधिक तनाव, अनhealthy lifestyle, शराब और धूम्रपान की आदत, अधिक नमक का सेवन, व्यायाम की कमी, और मोटापा। पुरुषों में generally <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> hormones ज्यादा active होते हैं जो BP बढ़ाते हैं।"
                 }
             },
             {
@@ -109,15 +109,15 @@
                 "name": "BP कितना होने पर खतरनाक माना जाता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "सामान्य BP 120/80 mmHg से कम होना चाहिए। 140/90 mmHg या उससे ज्यादा होने पर high BP (Hypertension) माना जाता है। 180/120 mmHg से ज्यादा होने पर यह गंभीर emergency है और तुरंत medical help लेना चाहिए।"
+                    "text": "सामान्य BP 120/80 mmHg से कम होना चाहिए। 140/90 mmHg या उससे ज्यादा होने पर high BP (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Hypertension</a>) माना जाता है। 180/120 mmHg से ज्यादा होने पर यह गंभीर emergency है और तुरंत medical help लेना चाहिए।"
                 }
             },
             {
                 "@type": "Question",
-                "name": "उच्च रक्तचाप से brain stroke हो सकता है?",
+                "name": "उच्च रक्तचाप से brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> हो सकता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हां, उच्च रक्तचाप brain stroke का सबसे बड़ा कारण है। High BP से मस्तिष्क की रक्त वाहिकाओं पर दबाव पड़ता है जिससे stroke या paralysis का खतरा बढ़ जाता है। RAJ Hospital Ranchi में <a href='https://rajhospitals.com/stroke-and-tia-treatment-in-ranchi.php'>stroke और TIA treatment</a> available है।"
+                    "text": "हां, उच्च रक्तचाप brain stroke का सबसे बड़ा कारण है। High BP से मस्तिष्क की रक्त वाहिकाओं पर दबाव पड़ता है जिससे stroke या paralysis का खतरा बढ़ जाता है। RAJ Hospital Ranchi में <a href='https://rajhospitals.com/stroke-and-tia-treatment-in-ranchi.php'><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> और TIA treatment</a> available है।"
                 }
             },
             {
@@ -125,7 +125,7 @@
                 "name": "पुरुषों में BP control करने के घरेलू उपाय क्या हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "BP control करने के लिए daily walk या light exercise करें, नमक कम खाएं, fresh fruits और vegetables ज्यादा खाएं, stress management के लिए yoga और meditation करें, शराब और smoking छोड़ें, और enough water पिएं। अधिक जानकारी के लिए <a href='https://rajhospitals.com/blog/high-bp-me-kya-khaye/'>high BP में क्या खाएं</a> guide पढ़ें।"
+                    "text": "BP control करने के लिए daily walk या light exercise करें, नमक कम खाएं, fresh fruits और vegetables ज्यादा खाएं, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> management के लिए yoga और meditation करें, शराब और smoking छोड़ें, और enough water पिएं। अधिक जानकारी के लिए <a href='https://rajhospitals.com/blog/high-bp-me-kya-khaye/'>high BP में क्या खाएं</a> guide पढ़ें।"
                 }
             },
             {
@@ -171,7 +171,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -251,7 +251,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">High Blood Pressure Symptoms in Men</span>
+            <span class="text-gray-700">High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Symptoms in Men</span>
         </nav>
     </div>
 
@@ -260,7 +260,7 @@
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b-2 border-primary-500">
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 14 min read</span>

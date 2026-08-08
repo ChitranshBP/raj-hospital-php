@@ -111,7 +111,7 @@ $base_url = '../';
                 "name": "महिलाओं में बाल झड़ने के कारण क्या हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "महिलाओं में बाल झड़ने के कारणों में हार्मोनल बदलाव (गर्भावस्था, मेनोपॉज़), PCOD/PCOS, आयरन की कमी, तनाव, और अत्यधिक हेयर स्टाइलिंग शामिल हैं।"
+                    "text": "महिलाओं में बाल झड़ने के कारणों में हार्मोनल बदलाव (गर्भावस्था, मेनोपॉज़), <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a>/PCOS, आयरन की कमी, तनाव, और अत्यधिक हेयर स्टाइलिंग शामिल हैं।"
                 }
             }
         ]
@@ -270,7 +270,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">b) हार्मोनल असंतुलन</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                थायरॉयड समस्याएं, टेस्टोस्टेरॉन का असंतुलन, और महिलाओं में PCOS/PCOD बालों के झड़ने का कारण बन सकते हैं। <a href="https://rajhospitals.com/blog/thyroid-symptoms-in-men/" class="text-hospital-blue hover:underline">थायरॉयड समस्याओं</a> के बारे में अधिक जानने के लिए हमारा ब्लॉग पढ़ें।
+                थायरॉयड समस्याएं, टेस्टोस्टेरॉन का असंतुलन, और महिलाओं में <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a>/PCOD बालों के झड़ने का कारण बन सकते हैं। <a href="https://rajhospitals.com/blog/thyroid-symptoms-in-men/" class="text-hospital-blue hover:underline">थायरॉयड समस्याओं</a> के बारे में अधिक जानने के लिए हमारा ब्लॉग पढ़ें।
             </p>
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">c) पोषण की कमी</h3>
@@ -515,7 +515,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: महिलाओं में बाल झड़ने के कारण क्या हैं?</h4>
-                    <p class="text-gray-700 text-sm">महिलाओं में बाल झड़ने के कारणों में हार्मोनल बदलाव (गर्भावस्था, मेनोपॉज़), PCOD/PCOS, आयरन की कमी, तनाव, और अत्यधिक हेयर स्टाइलिंग शामिल हैं।</p>
+                    <p class="text-gray-700 text-sm">महिलाओं में बाल झड़ने के कारणों में हार्मोनल बदलाव (गर्भावस्था, मेनोपॉज़), <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a>/PCOS, आयरन की कमी, तनाव, और अत्यधिक हेयर स्टाइलिंग शामिल हैं।</p>
                 </div>
             </div>
 

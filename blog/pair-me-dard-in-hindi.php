@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "पैर में दर्द - कारण, घरेलू उपाय और इलाज | RAJ Hospital Ranchi",
-        "description": "पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, arthritis, gout में अंतर। जानें कब डॉक्टर जाना है।",
+        "description": "पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a>, gout में अंतर। जानें कब डॉक्टर जाना है।",
         "url": "https://rajhospitals.com/blog/pair-me-dard-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pair-me-dard-in-hindi.png",
         "author": {
@@ -239,8 +239,8 @@
                         <p class="text-sm text-gray-600">एड़ी और तलवे में तेज़ दर्द, खासकर सुबह उठने पर। पैर के bottom में fascia ligament में सूजन।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">2. Arthritis (गठिया)</h4>
-                        <p class="text-sm text-gray-600">जोड़ों में सूजन और दर्द। osteoarthritis, rheumatoid arthritis या gout।</p>
+                        <h4 class="font-bold text-secondary-600">2. <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Arthritis</a> (गठिया)</h4>
+                        <p class="text-sm text-gray-600">जोड़ों में सूजन और दर्द। osteoarthritis, rheumatoid <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a> या gout।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Flat Feet (सपाट पैर)</h4>
@@ -278,7 +278,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">पैर के ऊपर दर्द</h4>
-                        <p class="text-sm text-gray-600">Extensor tendinitis, stress fracture</p>
+                        <p class="text-sm text-gray-600">Extensor tendinitis, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> fracture</p>
                     </div>
                 </div>
 
@@ -331,7 +331,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">पैर की जांच करवाएं</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में X-Ray, MRI और Orthopedic experts available हैं।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में X-Ray, MRI और <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Orthopedic</a> experts available हैं।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -370,9 +370,9 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">पैर में दर्द - कारण, घरेलू उपाय और इलाज पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, arthritis, gout में अंतर। जानें कब डॉक्टर जाना है।</p>
+                    <p class="text-gray-700 mb-4">पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a>, gout में अंतर। जानें कब डॉक्टर जाना है।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। पैर में दर्द - कारण, घरेलू उपाय और इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital में रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
                 </section>
@@ -384,7 +384,7 @@
                         <li><a href="/blog/garbhavastha-me-kya-kaam-nahi-karna-chahiye.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भावस्था में क्या काम नहीं करना चाहिए</a></li>
                         <li><a href="/blog/low-vitamin-d-symptoms-female.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: विटामिन D की कमी के लक्षण महिलाओं में - कारण और इलाज</a></li>
                         <li><a href="/blog/most-common-dental-procedures-and-how-they-work.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दांतों के सबसे आम प्रक्रियाएं और उनका काम</a></li>
-                        <li><a href="/blog/thyroid-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Thyroid Symptoms in Hindi | Thyroid ke Lakshan</a></li>
+                        <li><a href="/blog/thyroid-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan</a></li>
                         <li><a href="/blog/pair-me-dard-kyu-hota-h.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द क्यों होता है? - सभी कारण और समाधान</a></li>
                         <li><a href="/blog/subah-uthte-hi-pair-me-dard-kyon-hota-hai.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Subah Uthne Ke Baad Pair Mein Dard - Kyon Hota Hai?</a></li>
                     </ul>
@@ -421,7 +421,7 @@
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026 | Reviewed by Senior Orthopedic</p>
+                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026 | Reviewed by Senior <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Orthopedic</a></p>
                     </div>
                 </div>
             </div>

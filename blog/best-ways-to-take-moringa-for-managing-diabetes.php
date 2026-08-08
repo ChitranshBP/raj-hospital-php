@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Ways to Take Moringa for Managing Diabetes | RAJ Hospital</title>
+    <title>Best Ways to Take Moringa for Managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> | RAJ Hospital</title>
     <meta name="description" content="Moringa for diabetes - सही तरीका, dosage, और benefits जानें। Moringa powder, capsules, और tea के through diabetes control करें। Scientific evidence और expert advice।">
     <meta name="keywords" content="moringa diabetes, moringa for diabetes, moringa powder benefits, moringa dosage diabetes, drumstick leaves diabetes">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Best Ways to Take Moringa for Managing Diabetes में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Best Ways to Take Moringa for Managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Best Ways to Take Moringa for Managing Diabetes | RAJ Hospital",
+        "headline": "Best Ways to Take Moringa for Managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> | RAJ Hospital",
         "description": "Moringa for diabetes - सही तरीका, dosage, और benefits जानें। Moringa powder, capsules, और tea के through diabetes control करें। Scientific evidence और expert advice।",
         "url": "https://rajhospitals.com/blog/best-ways-to-take-moringa-for-managing-diabetes",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-ways-to-take-moringa-for-managing-diabetes.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Best Ways to Take Moringa for Managing Diabetes | RAJ Hospital"
+                "name": "Best Ways to Take Moringa for Managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> | RAJ Hospital"
             }
         ]
     }
@@ -203,15 +203,15 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Moringa for Diabetes</span>
+            <span class="text-gray-700">Moringa for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></span>
         </nav>
     </div>
 
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
-                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Diabetes Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best Ways to Take Moringa for Managing Diabetes: Complete Guide</h1>
+                <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Care</span>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best Ways to Take Moringa for Managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a>: Complete Guide</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
@@ -222,11 +222,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Moringa oleifera</strong>, often called the <strong>"miracle tree"</strong> or <strong>"drumstick tree"</strong>, has been used for centuries in traditional medicine. Modern scientific research has validated what ancient healers knew - moringa is exceptionally rich in nutrients and offers remarkable benefits for <strong>managing diabetes</strong>. If you're looking for natural ways to control blood sugar levels, moringa might be the answer you've been searching for.
+                    <strong>Moringa oleifera</strong>, often called the <strong>"miracle tree"</strong> or <strong>"drumstick tree"</strong>, has been used for centuries in traditional medicine. Modern scientific research has validated what ancient healers knew - moringa is exceptionally rich in nutrients and offers remarkable benefits for <strong>managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a></strong>. If you're looking for natural ways to control <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">blood sugar</a> levels, moringa might be the answer you've been searching for.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    In this comprehensive guide, we at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> will explain the science behind moringa's anti-diabetic properties, the best ways to consume it, proper dosages, and how to integrate it into your <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diabetes management plan</a>.
+                    In this comprehensive guide, we at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> will explain the science behind moringa's anti-diabetic properties, the best ways to consume it, proper dosages, and how to integrate it into your <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> management plan</a>.
                 </p>
 
                 <!-- Section 1: What is Moringa -->
@@ -265,7 +265,7 @@
                 </div>
 
                 <!-- Section 2: How Moringa Helps Diabetes -->
-                <h2 class="raj-h2">How Moringa Helps Manage Diabetes</h2>
+                <h2 class="raj-h2">How Moringa Helps Manage <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></h2>
 
                 <p class="text-gray-700 mb-4">
                     Moringa's <strong>anti-diabetic properties</strong> work through multiple mechanisms:
@@ -273,7 +273,7 @@
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">1. Slows Sugar Absorption</h4>
+                        <h4 class="font-bold text-secondary-600">1. Slows <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Absorption</h4>
                         <p class="text-sm text-gray-600">Moringa contains compounds that inhibit enzymes that break down carbohydrates in the digestive system, slowing glucose absorption and preventing blood sugar spikes after meals.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
