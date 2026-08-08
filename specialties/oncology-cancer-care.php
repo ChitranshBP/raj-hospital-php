@@ -678,6 +678,50 @@ Cancer Treatment in Jharkhand
         </div>
     </section>
 
+    
+    <!-- Informative Videos Section -->
+    <section class="py-8 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12 fade-in">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">Informative Videos</h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+                    Learn more about treatments and prevention from our specialists
+                </p>
+            </div>
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 fade-in">
+
+                <div class="bg-white rounded-xl shadow-md overflow-hidden">
+                    <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/PSeLDtNAwVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <div class="p-4">
+                        <h3 class="text-lg font-semibold text-gray-900 line-clamp-2">World Ovarian Cancer Day</h3>
+                    </div>
+                </div>
+
+                <div class="bg-white rounded-xl shadow-md overflow-hidden">
+                    <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/jjE2r36sxG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <div class="p-4">
+                        <h3 class="text-lg font-semibold text-gray-900 line-clamp-2">महिलाओं में कैंसर का खतरा</h3>
+                    </div>
+                </div>
+
+                <div class="bg-white rounded-xl shadow-md overflow-hidden">
+                    <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/g3mlIjk_JXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <div class="p-4">
+                        <h3 class="text-lg font-semibold text-gray-900 line-clamp-2">फेफड़ों के कैंसर से बचाव</h3>
+                    </div>
+                </div>
+
+                <div class="bg-white rounded-xl shadow-md overflow-hidden">
+                    <iframe class="w-full aspect-video" src="https://www.youtube.com/embed/CrGn6vyRbRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <div class="p-4">
+                        <h3 class="text-lg font-semibold text-gray-900 line-clamp-2">World Lung Cancer Day</h3>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
         <div class="max-w-7xl mx-auto px-4">
