@@ -138,7 +138,8 @@
               { month: 'March', year: '2026', status: 'completed', pdfUrl: 'assets/bmw/BMW report March 26.pdf' },
               { month: 'April', year: '2026', status: 'completed', pdfUrl: 'assets/bmw/Biomedical waste report April 26.pdf' },
               { month: 'May', year: '2026', status: 'completed', pdfUrl: 'assets/bmw/Bmw-report-may-2026.pdf' },
-              { month: 'June', year: '2026', status: 'completed', pdfUrl: 'assets/bmw/Bio medical weste June 2026.pdf' }
+              { month: 'June', year: '2026', status: 'completed', pdfUrl: 'assets/bmw/Bio medical weste June 2026.pdf' },
+              { month: 'July', year: '2026', status: 'completed', pdfUrl: 'assets/bmw/bmw-jul-2026.pdf' }
             ],
              2025: [
               { month: 'January', year: '2025', status: 'completed', pdfUrl: 'assets/bmw/BMW-January-2025.pdf' },
