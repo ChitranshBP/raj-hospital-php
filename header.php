@@ -132,15 +132,15 @@
         "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
         },
         "sameAs": [
-            "https://www.facebook.com/rajhospitalsranchi",
-            "https://www.instagram.com/rajhospitalsranchi",
-            "https://www.youtube.com/@rajhospitalsranchi"
+            "https://www.facebook.com/RajHospitals",
+            "https://www.instagram.com/raj.hospitals/",
+            "https://youtube.com/@rajhospitals6364?si=TfGXzxHhg8zqU4O0"
         ]
     }
     </script>
