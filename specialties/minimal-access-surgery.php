@@ -482,21 +482,6 @@ Minimally Invasive Surgery in Jharkhand
                     </div>
                 </div>
 
-                <!-- Service 4 -->
-                <div
-                    class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden fade-in">
-                    <div class="h-48 overflow-hidden">
-                        <img src="../assets/specialties/Minimal Access Surgery/Laparoscopy-Surgery.webp"
-                            alt="Laparoscopy Surgery"
-                            class="w-full h-full object-cover hover:scale-105 transition-transform duration-300">
-                    </div>
-                    <div class="p-6">
-                        <h3 class="text-xl font-semibold text-gray-900 mb-3">Laparoscopy Surgery</h3>
-                        <p class="text-gray-600 mb-4">Keyhole procedures for faster recovery, less scarring and better
-                            results.</p>
-                    </div>
-                </div>
-
                 <!-- Service 5 -->
                 <div
                     class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden fade-in">

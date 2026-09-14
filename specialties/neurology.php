@@ -312,7 +312,7 @@
 
                 <div class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden fade-in">
                     <div class="h-48 overflow-hidden">
-                        <img src="../assets/specialties/Neurology/Movement-Disorders.webp" alt="Neuroimmunology"
+                        <img src="../assets/specialties/Neurology/Neuroimmunology.webp" alt="Neuroimmunology"
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300">
                     </div>
                     <div class="p-6">
