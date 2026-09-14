@@ -1,6 +1,67 @@
 <!-- Custom Code Injected in Head -->
 <meta name="google-site-verification" content="68gERuOjtmX4ai5qH8foc1K5VnPkurMVPF6avntlnLc" />
 
+<!-- Google reCAPTCHA Enterprise -->
+<script src="https://www.google.com/recaptcha/enterprise.js?render=6LeYl7otAAAAAI9TQ4jDR4YP3ypsgI6-y58yS9aG"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var siteKey = '6LeYl7otAAAAAI9TQ4jDR4YP3ypsgI6-y58yS9aG';
+    
+    document.querySelectorAll('form').forEach(function(form) {
+        if (form.id === 'homepage-search-form') return;
+
+        var captchaInput = form.querySelector('input[name="g-recaptcha-response"]');
+        if (!captchaInput) {
+            captchaInput = document.createElement('input');
+            captchaInput.type = 'hidden';
+            captchaInput.name = 'g-recaptcha-response';
+            form.appendChild(captchaInput);
+        }
+
+        form.addEventListener('submit', function(e) {
+            if (form.dataset.recaptchaSubmitting === 'true') {
+                return;
+            }
+            e.preventDefault();
+
+            function submitForm(token) {
+                if (token) {
+                    captchaInput.value = token;
+                }
+                form.dataset.recaptchaSubmitting = 'true';
+                form.submit();
+            }
+
+            if (typeof grecaptcha !== 'undefined') {
+                if (grecaptcha.enterprise && typeof grecaptcha.enterprise.ready === 'function') {
+                    grecaptcha.enterprise.ready(function() {
+                        grecaptcha.enterprise.execute(siteKey, {action: 'submit'}).then(function(token) {
+                            submitForm(token);
+                        }).catch(function(err) {
+                            console.error('reCAPTCHA Enterprise execution error:', err);
+                            submitForm('');
+                        });
+                    });
+                } else if (typeof grecaptcha.ready === 'function') {
+                    grecaptcha.ready(function() {
+                        grecaptcha.execute(siteKey, {action: 'submit'}).then(function(token) {
+                            submitForm(token);
+                        }).catch(function(err) {
+                            console.error('reCAPTCHA execution error:', err);
+                            submitForm('');
+                        });
+                    });
+                } else {
+                    submitForm('');
+                }
+            } else {
+                submitForm('');
+            }
+        });
+    });
+});
+</script>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EETLNH2YGP"></script>
 <script>

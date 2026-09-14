@@ -181,6 +181,7 @@
                         <h2 class="text-2xl font-bold text-gray-900">Send us a Message</h2>
                     </div>
                     <form accept-charset='UTF-8' action='https://app.formester.com/forms/kIewn1CO8/submissions' method='POST' class="space-y-6">
+                        <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
                         <div class="grid md:grid-cols-2 gap-6">
                             <div>
                                 <label class="block text-sm font-medium text-gray-700 mb-2">First Name *</label>
