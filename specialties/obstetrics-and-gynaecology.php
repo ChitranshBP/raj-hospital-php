@@ -605,7 +605,7 @@ Pregnancy Care Hospital in Jharkhand
                 <div
                     class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden fade-in">
                     <div class="h-48 overflow-hidden">
-                        <img src="../assets/specialties/Obstetrics & Gynaecology/Infertility-Treatment_1.webp"
+                        <img src="../assets/specialties/Obstetrics & Gynaecology/Infertility-Solutions.webp"
                             alt="Infertility Treatment"
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300">
                     </div>
