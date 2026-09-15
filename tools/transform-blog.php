@@ -10,7 +10,8 @@
  *   3. Normalizes 5+ callout variants (bg-{color}-{shade} border-l-4 border-{color}-{shade})
  *      to the 4 canonical .raj-callout-{info|warning|danger|success} classes.
  *   4. Normalizes H2 class strings to <h2 class="raj-h2"> (or .raj-h2-secondary).
- *   5. Inserts <link> to blog-components.css in <head> if missing.
+ *   5. Inserts <link> to blog-components.css in <head>
+    <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png"> if missing.
  *   6. Adds <script>feather.replace();</script> before </body> if missing.
  *   7. Detects Cyrillic / Chinese / Korean / Arabic and writes a per-file report
  *      to tools/reports/{slug}-leaks.txt — does NOT auto-replace (the LLM agent

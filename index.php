@@ -1736,8 +1736,9 @@ Best Hospital in Jharkhand
                 { id: 'suraj-mani-bhattacharjee', name: 'Dr. Suraj Mani Bhattacharjee', qualifications: 'BDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dental-Surgeon - Dr. Surajmani-bhattacharjee.webp', profileUrl: 'doctors/suraj-mani-bhattacharjee.php' },
                 { id: 'abhishek-bhattacharjee', name: 'Dr. Abhishek Bhattacharjee', qualifications: 'BDS, MDS', specialty: 'Dental', experience: '10+ Years', image: 'assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Maxillofacial Surgeon - Dr. Abhishek-Bhattacharjee.webp', profileUrl: 'doctors/abhishek-bhattacharjee.php' },
 
-                // Dermatology (1 doctor)
+                // Dermatology (2 doctors)
                 { id: 'kumar-prateek', name: 'Dr. Kumar Prateek', qualifications: 'MBBS, MD - Dermatology', specialty: 'Dermatology', experience: '', image: 'assets/doctor-latest/kumar-pathik.webp', profileUrl: 'doctors/kumar-prateek.php' },
+                { id: 'shagun-raj', name: 'Dr. Shagun Raj', qualifications: 'MD Dermatology', specialty: 'Dermatology', experience: '', image: 'assets/doctor-latest/Dr-Shagun.webp', profileUrl: 'doctors/shagun-raj.php' },
 
                 // Eye Care (1 doctor)
                 { id: 'abid-akhtar', name: 'Dr. Abid Akhtar', qualifications: 'MBBS, MS', specialty: 'Eye Care', experience: '20+ Years', image: 'assets/Doc-Side/Dr. Abid Akhtar (Opthal).webp', profileUrl: 'doctors/abid-akhtar.php' },
