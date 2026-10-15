@@ -303,7 +303,7 @@
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत जो आपको जानना जरूरी हैं</a></li>
-                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Guide</a></li>
                         <li><a href="/blog/can-gas-cause-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Gas Cause a Heart Attack? — Symptoms & Red Flags</a></li>
                         <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk & Prevention</a></li>
                         <li><a href="/blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Se Kaise Bachen — 15 Tips for a Healthy Heart</a></li>
