@@ -220,6 +220,10 @@
                             <label class="block text-sm font-medium text-gray-700 mb-2">Message *</label>
                             <textarea name="message" rows="5" required class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#ea5234] focus:border-transparent outline-none" placeholder="Enter your message here..."></textarea>
                         </div>
+                        <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                            <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                            <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                        </label>
                         <button type="submit" class="w-full bg-[#ea5234] text-white py-4 rounded-lg hover:bg-[#d64528] transition-colors font-semibold text-lg flex items-center justify-center space-x-2">
                             <i data-feather="send" class="w-5 h-5"></i>
                             <span>Send Message</span>

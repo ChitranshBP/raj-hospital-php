@@ -245,9 +245,9 @@
                     </div>
 
                      <div class="flex items-start">
-                        <input type="checkbox" id="consent" required class="mt-1 mr-2 w-4 h-4 text-[#ea5234] focus:ring-[#ea5234] border-gray-300 rounded">
+                        <input type="checkbox" id="consent" name="privacy_consent" value="yes" required class="mt-1 mr-2 w-4 h-4 text-[#ea5234] focus:ring-[#ea5234] border-gray-300 rounded">
                         <label for="consent" class="text-sm text-gray-600 cursor-pointer">
-                            I consent to Raj Hospitals storing and processing my personal data for the purpose of this job application. *
+                            I agree that Raj Hospitals may use the details and CV I have submitted to assess this job application, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>. *
                         </label>
                     </div>
 
