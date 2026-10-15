@@ -6,9 +6,9 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Patient Testimonials | Raj Hospitals</title>
-    <meta name="description" content="Read real patient testimonials and reviews about Raj Hospital Ranchi. See why patients trust us for advanced multispeciality healthcare in Jharkhand." />
-    <meta name="robots" content="index, follow" />
+    <title>Patient Feedback | Raj Hospitals</title>
+    <meta name="description" content="Share feedback about your experience at Raj Hospitals, Ranchi, or raise a concern." />
+    <meta name="robots" content="noindex, follow" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
     <style>
@@ -22,8 +22,8 @@
     <link rel="canonical" href="https://rajhospitals.com/testimonials" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Patient Testimonials | Raj Hospitals" />
-    <meta property="og:description" content="Read real patient testimonials and reviews about Raj Hospital Ranchi. See why patients trust us for advanced multispeciality healthcare in Jharkhand." />
+    <meta property="og:title" content="Patient Feedback | Raj Hospitals" />
+    <meta property="og:description" content="Share feedback about your experience at Raj Hospitals, Ranchi, or raise a concern." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rajhospitals.com/testimonials" />
     <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
@@ -57,167 +57,34 @@
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center fade-in">
                 <h1 class="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
-                Patient <span class="text-[#ea5234]">Testimonials</span>
+                Patient <span class="text-[#ea5234]">Feedback</span>
                 </h1>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                Real stories from real patients who have experienced our compassionate care and medical excellence
+                In line with the National Medical Commission's guidelines on ethical advertising, we do not publish patient testimonials or treatment stories on this website.
                 </p>
             </div>
         </div>
     </section>
 
-    <!-- Tabs Section -->
-    <section class="py-8 bg-white border-b border-gray-100 sticky top-[100px] z-30 transition-all duration-300" id="tabs-section">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="flex flex-col gap-6">
-                <!-- Tab Navigation -->
-                <div class="flex justify-center gap-4">
-                    <button onclick="switchTab('written')" id="tab-written" class="px-8 py-3 rounded-lg font-semibold transition-all duration-200 bg-[#fc684b] text-white shadow-lg">
-                        Written Testimonials
-                    </button>
-                    <button onclick="switchTab('video')" id="tab-video" class="px-8 py-3 rounded-lg font-semibold transition-all duration-200 flex items-center gap-2 bg-gray-100 text-gray-700 hover:bg-gray-200">
-                        <i data-feather="play" class="w-4 h-4"></i>
-                        Video Testimonials
-                    </button>
-                </div>
+    <!-- Feedback Section -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-3xl mx-auto px-4">
+            <div class="bg-white rounded-2xl shadow-md p-8 fade-in">
+                <h2 class="text-2xl font-bold text-gray-900 mb-4">Share your feedback</h2>
+                <p class="text-gray-700 mb-6">We would like to hear about your experience at Raj Hospitals, including anything we could do better. Feedback is used to improve our services and is not published on this website.</p>
+                <ul class="space-y-4 text-gray-700">
+                    <li class="flex items-center gap-3"><i data-feather="phone" class="w-5 h-5 text-[#ea5234]"></i><a href="tel:+919771488888" class="hover:text-[#ea5234]">+91 977 14 88888</a></li>
+                    <li class="flex items-center gap-3"><i data-feather="mail" class="w-5 h-5 text-[#ea5234]"></i><a href="mailto:info@rajhospitals.com" class="hover:text-[#ea5234]">info@rajhospitals.com</a></li>
+                    <li class="flex items-center gap-3"><i data-feather="message-square" class="w-5 h-5 text-[#ea5234]"></i><a href="/contact.php" class="hover:text-[#ea5234]">Contact form (choose &ldquo;Feedback&rdquo; as the subject)</a></li>
+                </ul>
             </div>
         </div>
     </section>
-
-    <!-- Content Section -->
-    <section class="py-16 bg-gray-50 min-h-screen">
-        <div class="max-w-7xl mx-auto px-4">
-            
-            <!-- Written Testimonials -->
-            <div id="content-written" class="block fade-in">
-                <!-- Review Pixel -->
-                <script type="text/javascript">
-                !function(){var e,t=document;e=function(){if(window.EMRPixel)return console.info("EMR: Pixel already loaded");var e=t.createElement("script");e.defer=!0,e.src="https://cdn2.revw.me/js/pixel.js?t="+864e5*Math.ceil(new Date/864e5);var n=t.getElementsByTagName("script")[0];n.charset="utf-8",n.parentNode.insertBefore(e,n),e.onload=function(){EMRPixel.init("reviewmagnet.in",87)}},"interactive"===t.readyState||"complete"===t.readyState?e():t.addEventListener("DOMContentLoaded",e)}();
-                </script>
-                <emr-simple-grid widget-id="c6b582dc-ab67-4532-a480-0bd4416bacce"></emr-simple-grid>
-                <!-- Review Pixel End -->
-            </div>
-
-            <!-- Video Testimonials -->
-            <div id="content-video" class="hidden fade-in">
-                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6" id="video-testimonials-grid">
-                     <!-- Javascript will populate this -->
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Video Modal -->
-    <div id="video-modal" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4 hidden" onclick="closeModal()">
-        <div class="relative w-full max-w-4xl bg-black rounded-lg overflow-hidden" onclick="event.stopPropagation()">
-            <button onclick="closeModal()" class="absolute top-4 right-4 z-10 text-white bg-black bg-opacity-50 hover:bg-opacity-75 rounded-full p-2 transition-all">
-                <i data-feather="x" class="w-6 h-6"></i>
-            </button>
-            <div class="relative pt-[56.25%]">
-                <iframe id="modal-iframe" class="absolute top-0 left-0 w-full h-full" src="" title="Video Testimonial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>
-    </div>
 
     <!-- Footer -->
     <?php include $base_url . 'components/footer.php'; ?>
 
     <script>
-
-        // Video Testimonials Data
-        const videoTestimonials = [
-            {
-                videoId: "Qn2AtWqFZro",
-                patient: "4.7 सेकंड के लिए रुक गया था दिल! | Pacemaker ने बचाई जान | Real Patient Story | Raj Hospitals",
-                desc: "बार-बार फिट्स (Seizures), बेहोशी और अत्यधिक पसीना आने जैसी समस्या को कभी भी हल्के में न लें। इस वीडियो में अनुराज किशोर प्रसाद अपनी वास्तविक स्वास्थ्य यात्रा साझा कर रहे हैं।",
-                thumbnail: "https://img.youtube.com/vi/Qn2AtWqFZro/maxresdefault.jpg",
-            },
-            {
-                videoId: "Gi1WhJ1dR6g",
-                patient: "Emergency Brain Care That Saved Prem Kumar Singh | Raj Hospitals",
-                desc: "I felt cared for every step of the way.",
-                thumbnail: "https://img.youtube.com/vi/Gi1WhJ1dR6g/maxresdefault.jpg",
-            },
-            {
-                videoId: "HARE579wkdY",
-                patient: "Knee replacement surgery | Raj Hospitals",
-                desc: "Mr. Rajwar brought his wife, Mrs. Neelam Rajwar, to Raj Hospitals for a knee replacement surgery — and today, they walk away with smiles and gratitude.",
-                thumbnail: "https://img.youtube.com/vi/HARE579wkdY/maxresdefault.jpg",
-            },
-            {
-                videoId: "mHiO2RYdgds",
-                patient: "Cancer treatment | Patient Testimonial ",
-                desc: "The doctors and staff were exceptional.",
-                thumbnail: "https://img.youtube.com/vi/mHiO2RYdgds/maxresdefault.jpg",
-            },
-            {
-                videoId: "vg59yGKWz_s",
-                patient: "Neurosurgery Success Story at Raj Hospitals",
-                desc: "Under the expert care of Dr. Ahmad Hussain (Neurologist) and Dr. Neelam Kumari, our patient has made an incredible recovery.",
-                thumbnail: "https://img.youtube.com/vi/vg59yGKWz_s/maxresdefault.jpg",
-            },
-            {
-                videoId: "-QcubD0G-A4",
-                patient: "Appendix Treatment | Patient Testimonial | Raj Hospitals",
-                desc: "Exceptional care and treatment experience.",
-                thumbnail: "https://img.youtube.com/vi/-QcubD0G-A4/maxresdefault.jpg",
-            },
-            {
-                videoId: "7aQnhMDBKRM",
-                patient: "Breathing Treatment | Patient Testimonial | Raj Hospitals",
-                desc: "Watch this real patient testimonial sharing their experience with breathing treatment at Raj Hospitals under the expert care of Dr. Sainik Dutta.",
-                thumbnail: "https://img.youtube.com/vi/7aQnhMDBKRM/maxresdefault.jpg",
-            },
-            {
-                videoId: "yThRjkoljvc",
-                patient: "Jaundice Treatment | Patient Testimonial | Raj Hospitals",
-                desc: "Watch this real patient testimonial where Ms. Divya Kumari shares her experience of jaundice treatment at Raj Hospitals under the expert care of Dr. Ravish Ranjan.",
-                thumbnail: "https://img.youtube.com/vi/yThRjkoljvc/maxresdefault.jpg",
-            },
-            {
-                videoId: "aQBEpvueG5U",
-                patient: "Jaundice Treatment | Patient Testimonial | Raj Hospitals",
-                desc: "Watch this real patient testimonial where Mrs. Anita Kumari shares her experience of jaundice treatment at Raj Hospitals under the expert care of Dr. Ravish Ranjan.",
-                thumbnail: "https://img.youtube.com/vi/aQBEpvueG5U/maxresdefault.jpg",
-            },
-            {
-                videoId: "nrBUSAEFOnc",
-                patient: "Little Finger Fracture Treatment | Patient Testimonial | Raj Hospitals",
-                desc: "After slipping in his washroom, Mr. Aniket suffered a fracture in the little finger of his right hand. He was immediately brought to the Emergency Department at Raj Hospitals, where an X-ray confirmed the fracture. The surgery was successfully performed by Dr. Mozammil Pheroz using K-wire fixation.",
-                thumbnail: "https://img.youtube.com/vi/nrBUSAEFOnc/maxresdefault.jpg",
-            },
-            {
-                videoId: "8BIt5vJVgYI",
-                patient: "How Knee Replacement Changed Her Life | Testimonial of Shejhari Devi",
-                desc: "After months of severe knee pain that affected even her daily routine, Mrs. Shejhari Devi finally found relief under the expert care of Dr. Deepak Verma.",
-                thumbnail: "https://img.youtube.com/vi/8BIt5vJVgYI/maxresdefault.jpg",
-            },
-            {
-                videoId: "DOSuZZjZiZ8",
-                patient: "Stomach cancer treatment | Patient Testimonial",
-                desc: "Meet Mr. Anil Prasad Sahu, who came to us with advanced stomach cancer and a heart full of questions.",
-                thumbnail: "https://img.youtube.com/vi/DOSuZZjZiZ8/maxresdefault.jpg",
-            },
-            {
-                videoId: "Z1upwLku59Q",
-                patient: "I walked on the 4th day! | Knee Surgery Success Story",
-                desc: "A success story of knee surgery under the care of Dr. Abhishek Roy at Raj Hospitals.",
-                thumbnail: "https://img.youtube.com/vi/Z1upwLku59Q/maxresdefault.jpg",
-            },
-            {
-                videoId: "1-h4RF4NhpQ",
-                patient: "What Happens Inside a Hospital? Real Patient Journey!",
-                desc: "In this video, we take you inside Raj Hospital to understand the real patient treatment process.",
-                thumbnail: "https://img.youtube.com/vi/1-h4RF4NhpQ/maxresdefault.jpg",
-            },
-            {
-                videoId: "U-xuZbaK01Y",
-                patient: "Hospital Treatment Process Explained | Patient Testimonial",
-                desc: "Watch the real patient journey inside Raj Hospitals—from diagnosis to treatment and recovery.",
-                thumbnail: "https://img.youtube.com/vi/U-xuZbaK01Y/maxresdefault.jpg",
-            }
-        ];
-
         // Navbar scroll effect
         const header = document.getElementById('main-header');
         const logo = document.getElementById('main-logo');
@@ -242,74 +109,6 @@
             }
         });
 
-        function renderVideoTestimonials() {
-            const container = document.getElementById('video-testimonials-grid');
-            if (!container || !videoTestimonials || videoTestimonials.length === 0) return;
-
-            container.innerHTML = videoTestimonials.map((v, index) => `
-                <div class="bg-white border border-[#fde9e6] rounded-xl shadow-md flex flex-col overflow-hidden hover:shadow-lg transition-shadow fade-in" style="animation-delay: ${index * 0.1}s">
-                    <button onclick="openModal('${v.videoId}')" class="relative group w-full text-left cursor-pointer">
-                        <img src="${v.thumbnail}" alt="Testimonial by ${v.patient}" class="w-full h-48 object-cover">
-                        <div class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center group-hover:bg-opacity-50 transition-all">
-                            <div class="w-16 h-16 bg-white bg-opacity-90 rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
-                                <i data-feather="play" class="w-8 h-8 text-[#ea5234] ml-1"></i>
-                            </div>
-                        </div>
-                    </button>
-                    <div class="p-4 flex-grow flex flex-col">
-                        <h3 class="text-sm font-semibold text-gray-900 mb-2 line-clamp-2">${v.patient}</h3>
-                        <p class="text-xs text-gray-600 line-clamp-2">${v.desc}</p>
-                    </div>
-                </div>
-            `).join('');
-            feather.replace();
-        }
-
-        window.switchTab = function(tabId) {
-            const contentWritten = document.getElementById('content-written');
-            const contentVideo = document.getElementById('content-video');
-            const tabWritten = document.getElementById('tab-written');
-            const tabVideo = document.getElementById('tab-video');
-
-            if (tabId === 'written') {
-                contentWritten.classList.remove('hidden');
-                contentWritten.classList.add('block');
-                contentVideo.classList.remove('block');
-                contentVideo.classList.add('hidden');
-
-                tabWritten.classList.remove('bg-gray-100', 'text-gray-700', 'hover:bg-gray-200');
-                tabWritten.classList.add('bg-[#fc684b]', 'text-white', 'shadow-lg');
-                
-                tabVideo.classList.remove('bg-[#fc684b]', 'text-white', 'shadow-lg');
-                tabVideo.classList.add('bg-gray-100', 'text-gray-700', 'hover:bg-gray-200');
-            } else {
-                contentWritten.classList.remove('block');
-                contentWritten.classList.add('hidden');
-                contentVideo.classList.remove('hidden');
-                contentVideo.classList.add('block');
-
-                tabVideo.classList.remove('bg-gray-100', 'text-gray-700', 'hover:bg-gray-200');
-                tabVideo.classList.add('bg-[#fc684b]', 'text-white', 'shadow-lg');
-
-                tabWritten.classList.remove('bg-[#fc684b]', 'text-white', 'shadow-lg');
-                tabWritten.classList.add('bg-gray-100', 'text-gray-700', 'hover:bg-gray-200');
-            }
-        }
-
-        window.openModal = function(videoId) {
-            const modal = document.getElementById('video-modal');
-            const iframe = document.getElementById('modal-iframe');
-            iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-            modal.classList.remove('hidden');
-        }
-
-        window.closeModal = function() {
-            const modal = document.getElementById('video-modal');
-            const iframe = document.getElementById('modal-iframe');
-            iframe.src = ''; 
-            modal.classList.add('hidden');
-        }
-
         // Fade-in animation
         const observerOptions = { root: null, rootMargin: '0px', threshold: 0.1 };
         const observer = new IntersectionObserver((entries, observer) => {
@@ -322,13 +121,7 @@
         }, observerOptions);
 
         document.addEventListener('DOMContentLoaded', () => {
-             // Initialize Feathers
             feather.replace();
-
-            // Render Testimonials
-            renderVideoTestimonials();
-
-            // Initialize Animations
             document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
         });
     </script>

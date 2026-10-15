@@ -252,7 +252,7 @@ function getSpecialtySlug($name, $category)
                     <a href="/index.php"
                         class="<?php echo $active_page == 'index.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">Home</a>
                     <a href="/testimonials.php"
-                        class="<?php echo $active_page == 'testimonials.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">Testimonials</a>
+                        class="<?php echo $active_page == 'testimonials.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">Feedback</a>
                     <a href="/careers.php"
                         class="<?php echo $active_page == 'careers.php' ? 'text-orange-500' : 'text-gray-700 hover:text-gray-900'; ?> transition-colors font-medium text-sm lg:text-base">Careers</a>
                     <a href="/news-media.php"
@@ -374,7 +374,7 @@ function getSpecialtySlug($name, $category)
                 class="block py-3 <?php echo $active_page == 'find-a-doctor.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Find
                 a Doctor</a>
             <a href="/testimonials.php"
-                class="block py-3 <?php echo $active_page == 'testimonials.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Testimonials</a>
+                class="block py-3 <?php echo $active_page == 'testimonials.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">Feedback</a>
             <a href="/news-media.php"
                 class="block py-3 <?php echo $active_page == 'news-media.php' ? 'text-orange-500' : 'text-gray-700'; ?> font-medium border-b border-gray-100">News
                 & Media</a>
