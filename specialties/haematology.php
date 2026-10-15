@@ -24,11 +24,6 @@
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -526,55 +521,6 @@
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Haematology department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Successful Bone Marrow Transplant</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Priya Sharma, 28</p>
-                    <p class="text-gray-700 mb-6">Priya was diagnosed with severe aplastic anaemia and required an urgent bone marrow transplant. Our team found a matching donor and successfully performed the transplant. After weeks of dedicated care and follow-up, Priya has made a complete recovery and returned to her normal life.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800"></span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Thalassemia Management Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Rahul Kumar, 12</p>
-                    <p class="text-gray-700 mb-6">Young Rahul was diagnosed with beta-thalassemia major at a young age. Our haematology team provided comprehensive care including regular blood transfusions and iron chelation therapy. With proper management, Rahul is now able to attend school regularly and live an active life.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Improved quality of life with regular management</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     
     <!-- Informative Videos Section -->

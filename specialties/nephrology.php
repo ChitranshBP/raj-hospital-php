@@ -45,11 +45,6 @@ Dialysis Centre in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -551,59 +546,6 @@ Dialysis Centre in Jharkhand
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Nephrology department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="droplet" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Life-saving Dialysis for Acute Kidney Failure
-                        </h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Kumar</p>
-                    <p class="text-gray-700 mb-6">Emergency dialysis restored my kidney function after sudden acute
-                        kidney injury. The caring nephrologists ensured my quick stabilization and recovery.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Full recovery and regular
-                                follow-up.</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="droplet" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Successful Kidney Stone Management</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mrs. Sharma</p>
-                    <p class="text-gray-700 mb-6">I was treated with minimally invasive techniques for painful kidney
-                        stones and am now symptom-free thanks to Raj Hospitals.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Pain-free and healthy.</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">

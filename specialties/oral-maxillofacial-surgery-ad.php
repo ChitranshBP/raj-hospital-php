@@ -44,11 +44,6 @@ Oral Surgery Hospital in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -455,47 +450,6 @@ Oral Surgery Hospital in Jharkhand
         </div>
     </section>
 
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Real stories of recovery from our Oral &
-                    Maxillofacial Surgery department</p>
-            </div>
-            <div class="grid md:grid-cols-2 gap-8">
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="smile" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Successful Jaw Realignment</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Rajan</p>
-                    <p class="text-gray-700 mb-6">After years of difficulty eating and speaking due to jaw misalignment,
-                        orthognathic surgery at Raj Hospitals transformed my life. The team was exceptional.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Improved facial symmetry and normal jaw function</span></div>
-                    </div>
-                </div>
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="smile" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Painless Wisdom Tooth Removal</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Ms. Neha</p>
-                    <p class="text-gray-700 mb-6">I was terrified of getting my impacted wisdom teeth removed, but the
-                        surgery was quick and virtually painless. Recovery was faster than expected.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Complete relief from pain with quick recovery</span></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="py-8 bg-white">
         <div class="max-w-7xl mx-auto px-4">

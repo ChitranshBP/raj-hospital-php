@@ -41,11 +41,6 @@ Skin Care Hospital in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -457,50 +452,6 @@ Skin Care Hospital in Jharkhand
         </div>
     </section>
 
-    <!-- Success Stories -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Real stories of healing and recovery from our
-                    Dermatology department</p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="sun" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Acne Treatment Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Tara</p>
-                    <p class="text-gray-700 mb-6">I struggled with acne for years until I started treatment at Raj
-                        Hospitals Dermatology Department. Within 3 weeks, my acne was fully under control.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Clear, blemish-free skin with restored confidence</span></div>
-                    </div>
-                </div>
-
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="sun" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Pigmentation & Scar Removal</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Esha</p>
-                    <p class="text-gray-700 mb-6">Raj Hospitals helped me treat pigmentation and acne scars with
-                        advanced dermatology procedures. My skin feels brighter, smoother, and completely renewed.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Skin rejuvenation with long-lasting, natural results</span></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs Section -->
     <section class="py-8 bg-white">

@@ -46,11 +46,6 @@ Nervous System Specialist in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -455,48 +450,6 @@ Nervous System Specialist in Jharkhand
         </div>
     </section>
 
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Real stories of recovery from our Neurology
-                    department</p>
-            </div>
-            <div class="grid md:grid-cols-2 gap-8">
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="zap" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Accurate Epilepsy Diagnosis with EEG</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Sunita</p>
-                    <p class="text-gray-700 mb-6">I visited Raj Hospitals for recurring seizures. The EEG test quickly
-                        helped diagnose epilepsy and the doctor started the right treatment immediately.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Seizures well-controlled with targeted medication and care</span></div>
-                    </div>
-                </div>
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="zap" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Recovery from Stroke</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Ravi</p>
-                    <p class="text-gray-700 mb-6">After a stroke, I received neurology care and rehabilitation at Raj
-                        Hospitals. The coordinated approach by doctors and therapists helped me regain strength and
-                        balance.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Steady recovery and improved quality of life post-stroke</span></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="py-8 bg-white">
         <div class="max-w-7xl mx-auto px-4">

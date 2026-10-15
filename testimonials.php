@@ -29,7 +29,7 @@
     <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
     <meta property="og:site_name" content="Raj Hospitals" />
 
-    <!-- Hospital + AggregateRating Schema -->
+    <!-- Hospital Schema -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -44,40 +44,7 @@
         "addressRegion": "Jharkhand",
         "postalCode": "834001",
         "addressCountry": "IN"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.6",
-        "bestRating": "5",
-        "worstRating": "1",
-        "ratingCount": "380"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": { "@type": "Person", "name": "Prem Kumar Singh" },
-          "reviewBody": "Emergency brain care that saved my life. The doctors were exceptional and I felt cared for every step of the way.",
-          "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" }
-        },
-        {
-          "@type": "Review",
-          "author": { "@type": "Person", "name": "Mrs. Neelam Rajwar" },
-          "reviewBody": "Knee replacement surgery was successful. We walk away with smiles and gratitude. Excellent care by the orthopaedics team.",
-          "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" }
-        },
-        {
-          "@type": "Review",
-          "author": { "@type": "Person", "name": "Mrs. Shejhari Devi" },
-          "reviewBody": "After months of severe knee pain, I found relief under the expert care of Dr. Deepak Verma. Knee replacement changed my life.",
-          "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" }
-        },
-        {
-          "@type": "Review",
-          "author": { "@type": "Person", "name": "Anil Prasad Sahu" },
-          "reviewBody": "Came with advanced stomach cancer. The treatment and care at Raj Hospital gave me hope and recovery.",
-          "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" }
-        }
-      ]
+      }
     }
     </script>
 </head>

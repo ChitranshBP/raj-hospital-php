@@ -69,12 +69,7 @@ Private Hospital in Ranchi
     "latitude": "23.3441",
     "longitude": "85.3096"
   },
-  "openingHours": "Mo-Su 00:00-23:59",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  }
+  "openingHours": "Mo-Su 00:00-23:59"
 }
 </script>
 

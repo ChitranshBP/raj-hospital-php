@@ -44,11 +44,6 @@ Physiotherapist in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -456,47 +451,6 @@ Physiotherapist in Jharkhand
         </div>
     </section>
 
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Real stories of recovery from our Physiotherapy
-                    department</p>
-            </div>
-            <div class="grid md:grid-cols-2 gap-8">
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="activity" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Stroke Rehabilitation Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Mehta</p>
-                    <p class="text-gray-700 mb-6">Post-stroke, I underwent neurological physiotherapy at Raj Hospitals,
-                        regaining mobility and independence far quicker than expected.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Full stroke rehabilitation and improved quality of life</span></div>
-                    </div>
-                </div>
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="activity" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Cardiac Recovery</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mrs. Sharma</p>
-                    <p class="text-gray-700 mb-6">After cardiac surgery, structured physiotherapy plans helped with
-                        breathing exercises and a safe return to routine activities.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Improved heart function and daily endurance</span></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="py-8 bg-white">
         <div class="max-w-7xl mx-auto px-4">

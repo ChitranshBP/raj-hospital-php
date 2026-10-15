@@ -44,11 +44,6 @@ Cancer Treatment in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -624,59 +619,6 @@ Cancer Treatment in Jharkhand
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Oncology department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="shield" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Successful Head & Neck Cancer Treatment</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Singh</p>
-                    <p class="text-gray-700 mb-6">Received comprehensive combined surgery and radiotherapy leading to
-                        successful remission. The entire care team was supportive and professional.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Complete remission with excellent quality
-                                of life.</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="shield" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Breast Cancer Reconstruction Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Ms. Sharma</p>
-                    <p class="text-gray-700 mb-6">Underwent breast conservation surgery with oncoplastic reconstruction
-                        and chemotherapy. Excellent recovery and follow-up care.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Healthy and cancer-free after 5
-                                years.</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     
     <!-- Informative Videos Section -->

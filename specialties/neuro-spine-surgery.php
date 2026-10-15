@@ -22,12 +22,7 @@
       "@context": "https://schema.org",
       "@type": "Hospital",
       "name": "Raj Hospital",
-      "url": "https://rajhospitals.com/",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.6",
-        "reviewCount": "380"
-      }
+      "url": "https://rajhospitals.com/"
     }
     </script>
 
@@ -419,55 +414,6 @@
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Neuro & Spine Surgery department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Brain Tumor Surgery Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Rajesh Kumar</p>
-                    <p class="text-gray-700 mb-6">Mr. Rajesh was diagnosed with a brain tumor and was referred to Raj Hospital for surgery. Our neuro team performed a successful tumor resection using advanced neuro-navigation. The patient recovered well with minimal post-operative complications and has returned to his normal life.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Complete tumor removal with no neurological deficits</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Spinal Fusion Surgery Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Ms. Sunita Devi</p>
-                    <p class="text-gray-700 mb-6">Ms. Sunita had been suffering from severe back pain and leg weakness due to spinal stenosis. After comprehensive evaluation, our spine surgeons performed a successful spinal fusion surgery. The patient experienced significant pain relief and improved mobility within weeks.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Pain-free mobility and return to daily activities</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
