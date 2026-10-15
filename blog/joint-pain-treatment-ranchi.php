@@ -302,7 +302,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-600">
                         <h4 class="font-bold text-blue-600">4. Surgery</h4>
-                        <p class="text-sm text-gray-600">Arthroscopy, joint replacement (knee/hip), minimally invasive procedures। Advanced surgical facilities।</p>
+                        <p class="text-sm text-gray-600">Arthroscopy, joint replacement (knee/hip), minimally invasive procedures। Surgical facilities।</p>
                     </div>
                 </div>
 
@@ -311,7 +311,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Expert Orthopedic Team:</strong> Experienced joint specialists और surgeons</li>
-                    <li><strong>Advanced Diagnostics:</strong> MRI, CT Scan, digital X-ray available</li>
+                    <li><strong>Diagnostics:</strong> MRI, CT Scan, digital X-ray available</li>
                     <li><strong>Modern OT:</strong> Fully equipped operation theater</li>
                     <li><strong>Rehabilitation:</strong> Complete physiotherapy और recovery support</li>
                 </div>

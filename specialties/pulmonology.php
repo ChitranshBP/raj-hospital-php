@@ -12,7 +12,7 @@
     <title>Pulmonology Hospital in Ranchi | Chest Specialist in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is a pulmonology hospital in Ranchi offering advanced treatment for lung, chest and respiratory diseases." />
+        content="Raj Hospital is a pulmonology hospital in Ranchi offering treatment for lung, chest and respiratory diseases." />
 
     <meta name="robots" content="index, follow" />
 
@@ -261,8 +261,7 @@ Pulmonary Care Hospital in Jharkhand
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">Raj Hospital in Ranchi is proud to offer
                             specialized pulmonology services to patients suffering from lung and respiratory system
                             conditions. Our experienced pulmonologists provide personalized care for diseases such as
-                            asthma, COPD, pneumonia, tuberculosis, sleep disorders, and more. Equipped with advanced
-                            diagnostic and treatment facilities, we ensure accurate diagnosis and effective management
+                            asthma, COPD, pneumonia, tuberculosis, sleep disorders, and more. Equipped with diagnostic and treatment facilities, we aim for accurate diagnosis and effective management
                             tailored to every patient’s needs.</p>
 
                         <!-- Why Choose Us Box -->
@@ -311,7 +310,7 @@ Pulmonary Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced respiratory therapy and pulmonary
+                                    <span class="text-gray-700">Respiratory therapy and pulmonary
                                         rehabilitation</span>
                                 </div>
                             </div>
@@ -475,7 +474,7 @@ Pulmonary Care Hospital in Jharkhand
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Advanced treatments for all types of respiratory and sleep disorders
+                    Treatments for all types of respiratory and sleep disorders
                 </p>
             </div>
 

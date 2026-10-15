@@ -11,7 +11,7 @@
     <title>Emergency Hospital in Ranchi | 24x7 Emergency Services in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital provides 24x7 emergency medical services in Ranchi with rapid response, expert doctors, advanced trauma care and critical support." />
+        content="Raj Hospital provides 24x7 emergency medical services in Ranchi with rapid response, expert doctors, trauma care and critical support." />
 
     <meta name="robots" content="index, follow" />
 
@@ -269,7 +269,7 @@ Emergency Medical Services in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Team of experienced specialists with advanced training
+                                    <span class="text-gray-700">Team of experienced specialists with specialised training
                                         and expertise</span>
                                 </li>
                                 <li class="flex items-start">
@@ -384,7 +384,7 @@ Emergency Medical Services in Jharkhand
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive Emergency care with advanced techniques and personalized treatment plans
+                    Comprehensive Emergency care with personalized treatment plans
                 </p>
             </div>
 

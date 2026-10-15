@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dental Care - Dental Hospital in Ranchi | Raj Hospitals</title>
     <meta name="description"
-        content="Raj Hospital is a dental hospital in Ranchi offering advanced dental treatment, experienced dentists and modern dental care facilities." />
+        content="Raj Hospital is a dental hospital in Ranchi offering dental treatment, experienced dentists and modern dental care facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -85,7 +85,7 @@ Dental Care Hospital in Jharkhand
       "name": "Does Raj Hospital offer dental treatment in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital in Ranchi provides advanced dental care and treatment."
+        "text": "Yes, Raj Hospital in Ranchi provides dental care and treatment."
       }
     },
     {
@@ -231,8 +231,8 @@ Dental Care Hospital in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Dental Care</h1>
-                    <p class="text-xl text-gray-200">Expert dental & maxillofacial care in Ranchi with advanced
-                        technology, cosmetic dentistry, implantology, and preventive treatments</p>
+                    <p class="text-xl text-gray-200">Expert dental & maxillofacial care in Ranchi including
+                        cosmetic dentistry, implantology, and preventive treatments</p>
                 </div>
             </div>
         </div>
@@ -247,7 +247,7 @@ Dental Care Hospital in Jharkhand
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Dental Care Department at Raj
                             Hospitals, Ranchi, offers comprehensive oral health care ranging from preventive dentistry
-                            to advanced cosmetic and maxillofacial surgeries. With a specialized team of dentists, oral
+                            to cosmetic and maxillofacial surgeries. With a specialized team of dentists, oral
                             surgeons, implantologists, orthodontists, periodontists, and dental hygienists, we deliver
                             dental treatments with precision and safety. Our focus is on comfortable,
                             affordable, and aesthetic oral health services, helping patients achieve healthy gums,
@@ -270,13 +270,13 @@ Dental Care Hospital in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Comfort-focused dentistry with advanced anesthesia and laser
+                                    <span class="text-gray-700">Comfort-focused dentistry with anesthesia and laser
                                         technology</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Digital X-ray, 3D imaging & advanced diagnostics</span>
+                                    <span class="text-gray-700">Digital X-ray, 3D imaging & diagnostics</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check"
@@ -306,7 +306,7 @@ Dental Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Comfort-focused dentistry with advanced anesthesia and
+                                    <span class="text-gray-700">Comfort-focused dentistry with anesthesia and
                                         laser</span>
                                 </div>
                             </div>
@@ -325,7 +325,7 @@ Dental Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Digital X-ray, 3D imaging & advanced diagnostics</span>
+                                    <span class="text-gray-700">Digital X-ray, 3D imaging & diagnostics</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -412,8 +412,8 @@ Dental Care Hospital in Jharkhand
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive dental care with advanced techniques
-                    and personalized treatment plans</p>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive dental care with
+                    personalized treatment plans</p>
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -439,7 +439,7 @@ Dental Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Root Canal Treatment (RCT)</h3>
-                        <p class="text-gray-600 mb-4">Root canal treatments under local anaesthesia with advanced rotary endodontics
+                        <p class="text-gray-600 mb-4">Root canal treatments under local anaesthesia with rotary endodontics
                             for long-term tooth preservation.</p>
                     </div>
                 </div>
@@ -492,7 +492,7 @@ Dental Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Laser Gum Surgery & Pyorrhea Care</h3>
-                        <p class="text-gray-600 mb-4">Advanced laser treatments for gum diseases and periodontal
+                        <p class="text-gray-600 mb-4">Laser treatments for gum diseases and periodontal
                             therapy.</p>
                     </div>
                 </div>
@@ -586,7 +586,7 @@ Dental Care Hospital in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, we use advanced pain management and laser dentistry techniques to minimise discomfort during
+                                <p>Yes, we use pain management and laser dentistry techniques to minimise discomfort during
                                     procedures.</p>
                             </div>
                         </div>

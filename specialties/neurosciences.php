@@ -10,7 +10,7 @@
     <title>Neurologist in Ranchi | Neuro Hospital | Raj Hospital</title>
     <!-- ================= META TAGS ================= -->
 
-    <meta name="description" content="Looking for a neurologist in Ranchi? Raj Hospital offers advanced brain and spine care. Check our neurologist doctor list." />
+    <meta name="description" content="Looking for a neurologist in Ranchi? Raj Hospital offers brain and spine care. Check our neurologist doctor list." />
     <meta name="keywords" content="neurologist in Ranchi, raj hospital Ranchi, neurologist Ranchi, raj hospital Ranchi neurologist doctor list" />
     <meta name="robots" content="index, follow" />
 
@@ -82,7 +82,7 @@
       "name": "How is stroke managed at Raj Hospitals?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We provide rapid assessment, acute treatment, and multidisciplinary rehabilitation in our dedicated stroke unit with advanced technologies."
+        "text": "We provide rapid assessment, acute treatment, and multidisciplinary rehabilitation in our dedicated stroke unit."
       }
     },
     {
@@ -268,7 +268,7 @@
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Team of experienced specialists with advanced training
+                                    <span class="text-gray-700">Team of experienced specialists with specialised training
                                         and expertise</span>
                                 </li>
                                 <li class="flex items-start">
@@ -304,7 +304,7 @@
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced neuroimaging (MRI, CT, PET)</span>
+                                    <span class="text-gray-700">Neuroimaging (MRI, CT, PET)</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -456,7 +456,7 @@
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive Neurosciences care with advanced techniques and personalized treatment plans
+                    Comprehensive Neurosciences care with personalized treatment plans
                 </p>
             </div>
 
@@ -500,7 +500,7 @@
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Brain & Spine Tumor Surgery</h3>
-                        <p class="text-gray-600 mb-4">Advanced neurosurgical removal and care for tumors.</p>
+                        <p class="text-gray-600 mb-4">Neurosurgical removal and care for tumors.</p>
                     </div>
                 </div>
 
@@ -663,7 +663,7 @@
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
                                 <p>We provide rapid assessment, acute treatment, and multidisciplinary rehabilitation in
-                                    our dedicated stroke unit with advanced technologies.</p>
+                                    our dedicated stroke unit.</p>
                             </div>
                         </div>
 

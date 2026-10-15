@@ -188,9 +188,9 @@
             image: '../assets/doctor-latest/Gastroenterologist - Dr. Ravish Ranjan.webp',
             description: 'Dr. Ravish Ranjan is a skilled Gastroenterologist at Raj Hospital, Ranchi, with 12 years of experience in digestive health. He specializes in upper and lower GI endoscopy, liver disease management, and treatment of gastrointestinal disorders.',
             expertise: [
-                'Therapeutic and Diagnostic Advance Upper GI Endoscopy',
-                'Therapeutic and Diagnostic Advance Lower GI Endoscopy (Colonoscopy)',
-                'ERCP – Management of advanced CBD, Pancreatic Duct & Gallbladder Diseases',
+                'Therapeutic and Diagnostic Upper GI Endoscopy',
+                'Therapeutic and Diagnostic Lower GI Endoscopy (Colonoscopy)',
+                'ERCP – Management of CBD, Pancreatic Duct & Gallbladder Diseases',
                 'Fibro Scan',
                 'Capsule Endoscopy',
                 'Hepatology Unit – Dealing with ALF and Complications of CLD',

@@ -285,7 +285,7 @@ Pregnancy Care Hospital in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Advanced neonatal intensive care unit (NICU)</span>
+                                    <span class="text-gray-700">Neonatal intensive care unit (NICU)</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check"
@@ -309,7 +309,7 @@ Pregnancy Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced 4D Ultrasound and Fetal Medicine</span>
+                                    <span class="text-gray-700">4D Ultrasound and Fetal Medicine</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -442,7 +442,7 @@ Pregnancy Care Hospital in Jharkhand
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Nisha Jha</h3>
                                 <p class="text-primary-600 font-medium mb-2">MBBS, MS, DNB, FMAS</p>
-                                <p class="text-secondary-600 text-sm mb-3">Obstetrics & Gynaecology, Advanced Laparoscopic & Vaginal Surgery, Fetal Medicine, Infertility, PCOS</p>
+                                <p class="text-secondary-600 text-sm mb-3">Obstetrics & Gynaecology, Laparoscopic & Vaginal Surgery, Fetal Medicine, Infertility, PCOS</p>
                                 <div class="flex items-center text-sm text-gray-500 mb-4">
                                     <i data-feather="award" class="w-4 h-4 mr-2"></i>
                                     <span>Consultant – Obstetrics & Gynaecology</span>
@@ -606,7 +606,7 @@ Pregnancy Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Infertility Treatment</h3>
-                        <p class="text-gray-600 mb-4">Advanced fertility solutions including IUI, IVF, and hormonal
+                        <p class="text-gray-600 mb-4">Fertility solutions including IUI, IVF, and hormonal
                             therapies for couples planning a family.</p>
                     </div>
                 </div>

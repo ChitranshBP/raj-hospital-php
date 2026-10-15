@@ -80,7 +80,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Sunil Kumar",
-    "description": "Dr. Sunil Kumar is an experienced Urologist at Raj Hospital, Ranchi, with over 18 years of expertise in urological procedures. He specializes in kidney stone treatment, prostate surgery, and advanced urological interventions including laser lithotripsy.",
+    "description": "Dr. Sunil Kumar is an experienced Urologist at Raj Hospital, Ranchi, with over 18 years of expertise in urological procedures. He specializes in kidney stone treatment, prostate surgery, and urological interventions including laser lithotripsy.",
     "medicalSpecialty": "Urology",
     "qualifications": "MBBS, MS (General Surgery), MCh (Urology)",
     "image": "https://rajhospitals.com/assets/doctor-latest/sunil kumar.webp",
@@ -186,7 +186,7 @@
             specialty: 'Urology',
             experience: '18+ Years',
             image: '../assets/doctor-latest/sunil kumar.webp',
-            description: 'Dr. Sunil Kumar is an experienced Urologist at Raj Hospital, Ranchi, with over 18 years of expertise in urological procedures. He specializes in kidney stone treatment, prostate surgery, and advanced urological interventions including laser lithotripsy.',
+            description: 'Dr. Sunil Kumar is an experienced Urologist at Raj Hospital, Ranchi, with over 18 years of expertise in urological procedures. He specializes in kidney stone treatment, prostate surgery, and urological interventions including laser lithotripsy.',
             expertise: [
                 'Robotic Surgery',
                 'Renal Transplantation',

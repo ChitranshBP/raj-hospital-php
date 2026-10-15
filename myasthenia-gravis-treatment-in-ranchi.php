@@ -10,7 +10,7 @@
     <title>Myasthenia Gravis Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Myasthenia Gravis treatment in Ranchi. Raj Hospital's neuroscience team offers advanced immunosuppressive therapies, plasmapheresis, and neurology care." />
+    <meta name="description" content="Myasthenia Gravis treatment in Ranchi. Raj Hospital's neuroscience team offers immunosuppressive therapies, plasmapheresis, and neurology care." />
     <meta name="keywords" content="myasthenia gravis treatment in Ranchi, autoimmune disease neurologist Ranchi, muscle weakness treatment Ranchi, MG specialist Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
@@ -222,7 +222,7 @@
                     </div>
 
                     <div class="fade-in">
-                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
                             Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>

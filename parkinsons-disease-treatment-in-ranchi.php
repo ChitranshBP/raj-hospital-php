@@ -10,7 +10,7 @@
     <title>Parkinson's Disease Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Find advanced Parkinson's Disease treatment in Ranchi. Raj Hospital provides neurological care, medication management, and movement disorder therapies." />
+    <meta name="description" content="Find Parkinson's Disease treatment in Ranchi. Raj Hospital provides neurological care, medication management, and movement disorder therapies." />
     <meta name="keywords" content="Parkinsons disease treatment in Ranchi, movement disorder specialist Ranchi, hand tremors treatment Ranchi, neurologist for Parkinson in Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
@@ -230,7 +230,7 @@
                     </div>
 
                     <div class="fade-in">
-                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
                             Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>

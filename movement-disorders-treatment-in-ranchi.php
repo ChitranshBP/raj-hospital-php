@@ -10,7 +10,7 @@
     <title>Movement Disorders Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Movement Disorders treatment in Ranchi. Raj Hospital provides advanced neurology for Dystonia, Ataxia, Essential Tremors, and spasticity." />
+    <meta name="description" content="Movement Disorders treatment in Ranchi. Raj Hospital provides neurology care for Dystonia, Ataxia, Essential Tremors, and spasticity." />
     <meta name="keywords" content="movement disorders treatment in Ranchi, ataxia treatment Ranchi, dystonia neurologist Ranchi, neurological hospital in Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
@@ -214,7 +214,7 @@
                     </div>
 
                     <div class="fade-in">
-                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
                             Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>

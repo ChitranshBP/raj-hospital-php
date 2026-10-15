@@ -10,7 +10,7 @@
     <title>Brain Tumor Treatment in Ranchi | Neurosurgery | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Looking for brain tumor treatment in Ranchi? Raj Hospital offers advanced brain tumor surgery, awake craniotomy, and comprehensive neuro-oncology care by our neurosurgery team." />
+    <meta name="description" content="Looking for brain tumor treatment in Ranchi? Raj Hospital offers brain tumor surgery, awake craniotomy, and comprehensive neuro-oncology care by our neurosurgery team." />
     <meta name="keywords" content="brain tumor treatment in Ranchi, brain tumor surgery in Ranchi, neurosurgeon for brain tumor in Ranchi, neurosurgery hospital in Ranchi, Raj Hospital Ranchi brain tumor, awake craniotomy Ranchi, neuro-oncology Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
@@ -262,7 +262,7 @@
                     </div>
 
                     <div class="fade-in">
-                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
                             Accurate diagnosis is crucial. Diagnosis is based on detailed brain imaging and, when needed, a tissue biopsy.
                         </p>
@@ -272,7 +272,7 @@
                                     <i data-feather="crosshair" class="w-5 h-5 text-gray-700"></i>
                                 </div>
                                 <div>
-                                    <h4 class="font-semibold text-gray-900">Advanced MRI & CT Scans</h4>
+                                    <h4 class="font-semibold text-gray-900">MRI & CT Scans</h4>
                                     <p class="text-gray-600">High-resolution imaging to evaluate the exact size and location of the tumor.</p>
                                 </div>
                             </li>

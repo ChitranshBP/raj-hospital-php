@@ -12,7 +12,7 @@
     <title>Oral & Maxillofacial Surgery in Ranchi | Maxillofacial Surgeon in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital offers advanced oral and maxillofacial surgery in Ranchi with expert surgeons for jaw, facial trauma and oral surgical procedures." />
+        content="Raj Hospital offers oral and maxillofacial surgery in Ranchi with expert surgeons for jaw, facial trauma and oral surgical procedures." />
 
     <meta name="robots" content="index, follow" />
 
@@ -97,7 +97,7 @@ Oral Surgery Hospital in Jharkhand
       "name": "Does Raj Hospital treat jaw and facial trauma?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital provides advanced treatment for jaw, facial trauma and oral surgical conditions."
+        "text": "Yes, Raj Hospital provides treatment for jaw, facial trauma and oral surgical conditions."
       }
     }
   ]
@@ -185,7 +185,7 @@ Oral Surgery Hospital in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Oral & Maxillofacial Surgery</h1>
-                    <p class="text-xl text-gray-200">Advanced surgical care for jaw, face, and oral conditions with
+                    <p class="text-xl text-gray-200">Surgical care for jaw, face, and oral conditions with
                         modern techniques and expert precision</p>
                 </div>
             </div>
@@ -203,7 +203,7 @@ Oral Surgery Hospital in Jharkhand
                             the mouth, jaw, face, and neck. Our team of skilled surgeons specializes in complex
                             procedures including wisdom tooth extraction, dental implants, corrective jaw surgery
                             (orthognathic surgery), facial trauma reconstruction, TMJ disorders, and removal of cysts
-                            and tumors. With modern surgical facilities and advanced imaging technology, we
+                            and tumors. With modern surgical facilities and imaging technology, we
                             deliver precise, safe, and effective treatment with minimal discomfort and faster recovery
                             times.</p>
 
@@ -214,7 +214,7 @@ Oral Surgery Hospital in Jharkhand
                             <ul class="space-y-3">
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">Advanced surgical suites with modern equipment</span></li>
+                                        class="text-gray-700">Surgical suites with modern equipment</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
                                         class="text-gray-700">3D imaging and digital treatment planning</span></li>
@@ -237,7 +237,7 @@ Oral Surgery Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">Advanced surgical suites with modern equipment</span>
+                                        class="text-gray-700">Surgical suites with modern equipment</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">

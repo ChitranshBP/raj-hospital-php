@@ -62,7 +62,7 @@ $specialties = [
         ]
     ],
     [
-        'category' => 'Advanced Diagnostics',
+        'category' => 'Diagnostics',
         'items' => [
             'Radiology',
             'Neurology',
@@ -105,8 +105,8 @@ $specialtyIcons = [
 function getSpecialtySlug($name, $category)
 {
     $specialtyUrlMap = [
-        'Cardiology' => ['Advanced Diagnostics' => 'cardiology-ad'],
-        'FNAC, Biopsy, Blood & Laboratory Investigations' => ['Advanced Diagnostics' => 'laboratory-investigations'],
+        'Cardiology' => ['Diagnostics' => 'cardiology-ad'],
+        'FNAC, Biopsy, Blood & Laboratory Investigations' => ['Diagnostics' => 'laboratory-investigations'],
         'Oral & Maxillofacial Surgery' => ['Allied Specialties' => 'oral-maxillofacial-surgery-ad'],
         'Neurology' => ['Key Specialties' => 'neurology'],
         'Neuro & Spine Surgery' => ['Key Specialties' => 'neuro-spine-surgery'],

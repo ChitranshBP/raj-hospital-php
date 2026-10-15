@@ -80,7 +80,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Vivek Raj",
-    "description": "Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi, with over 9 years of experience in brain and spine surgery. He specializes in craniotomy, spinal fusion, and advanced neurosurgical procedures for complex neurological conditions.",
+    "description": "Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi, with over 9 years of experience in brain and spine surgery. He specializes in craniotomy, spinal fusion, and neurosurgical procedures for complex neurological conditions.",
     "medicalSpecialty": "Neurosciences",
     "qualifications": "MBBS, ECFMG Certified (USA) Neurosurgery, DNB Neurosurgery (Brain & Spine Surgery)",
     "image": "https://rajhospitals.com/assets/new-doctors-side/vivek raj.webp",
@@ -186,7 +186,7 @@
             specialty: 'Neuro & Spine Surgery',
             experience: '9+ Years',
             image: '../assets/new-doctors-side/vivek raj.webp',
-            description: 'Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi, with over 9 years of experience in brain and spine surgery. He specializes in craniotomy, spinal fusion, and advanced neurosurgical procedures for complex neurological conditions.',
+            description: 'Dr. Vivek Raj is an ECFMG-certified Neurosurgeon at Raj Hospital, Ranchi, with over 9 years of experience in brain and spine surgery. He specializes in craniotomy, spinal fusion, and neurosurgical procedures for complex neurological conditions.',
             expertise: [
                 'Headache',
                 'Backache & Stroke',

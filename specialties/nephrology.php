@@ -13,7 +13,7 @@
     <title>Nephrology Hospital in Ranchi | Kidney Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is a nephrology hospital in Ranchi offering advanced kidney treatment, dialysis services and expert nephrologists." />
+        content="Raj Hospital is a nephrology hospital in Ranchi offering kidney treatment, dialysis services and expert nephrologists." />
 
     <meta name="robots" content="index, follow" />
 
@@ -97,7 +97,7 @@ Dialysis Centre in Jharkhand
       "name": "Does Raj Hospital provide dialysis services?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital provides advanced dialysis and kidney treatment services in Ranchi."
+        "text": "Yes, Raj Hospital provides dialysis and kidney treatment services in Ranchi."
       }
     }
   ]
@@ -244,8 +244,8 @@ Dialysis Centre in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Nephrology</h1>
-                    <p class="text-xl text-gray-200">Kidney care and dialysis services in Ranchi with advanced
-                        equipment and experienced nephrologists.</p>
+                    <p class="text-xl text-gray-200">Kidney care and dialysis services in Ranchi with
+                        experienced nephrologists.</p>
                 </div>
             </div>
         </div>
@@ -277,7 +277,7 @@ Dialysis Centre in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Team of experienced specialists with advanced training
+                                    <span class="text-gray-700">Team of experienced specialists with specialised training
                                         and expertise</span>
                                 </li>
                                 <li class="flex items-start">
@@ -331,7 +331,7 @@ Dialysis Centre in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced diagnostic lab services</span>
+                                    <span class="text-gray-700">Diagnostic lab services</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -399,7 +399,7 @@ Dialysis Centre in Jharkhand
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive Nephrology care with advanced techniques and personalized treatment plans
+                    Comprehensive Nephrology care with personalized treatment plans
                 </p>
             </div>
 
@@ -473,7 +473,7 @@ Dialysis Centre in Jharkhand
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">CRRT (Continuous Renal Replacement Therapy)
                         </h3>
-                        <p class="text-gray-600 mb-4">Advanced therapy for critically ill patients requiring continuous
+                        <p class="text-gray-600 mb-4">Therapy for critically ill patients requiring continuous
                             renal support.</p>
                     </div>
                 </div>

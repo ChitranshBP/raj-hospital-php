@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dermatology Hospital in Ranchi | Skin Care Hospital in Ranchi – Raj Hospital</title>
     <meta name="description"
-        content="Raj Hospital is a dermatology hospital in Ranchi offering advanced skin treatment, expert dermatologists and modern skin care facilities." />
+        content="Raj Hospital is a dermatology hospital in Ranchi offering skin treatment, expert dermatologists and modern skin care facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -85,7 +85,7 @@ Skin Care Hospital in Jharkhand
       "name": "Does Raj Hospital offer dermatology treatment in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital in Ranchi offers dermatology care including advanced skin treatment."
+        "text": "Yes, Raj Hospital in Ranchi offers dermatology care for skin, hair and nail conditions."
       }
     },
     {
@@ -221,10 +221,10 @@ Skin Care Hospital in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Dermatology &
-                            Cosmetology at Raj Hospitals, Ranchi, is dedicated to providing advanced medical and
+                            Cosmetology at Raj Hospitals, Ranchi, is dedicated to providing medical and
                             cosmetic skincare solutions. Our expert dermatologists and cosmetologists specialize in
                             treatments for acne, pigmentation, eczema, psoriasis, vitiligo, hair loss, and various
-                            pediatric skin concerns. We also provide advanced cosmetic procedures including anti-aging
+                            pediatric skin concerns. We also provide cosmetic procedures including anti-aging
                             therapies, chemical peels, laser skin rejuvenation, and hair transplant surgeries. Equipped
                             with modern diagnostic and treatment technologies, Raj Hospitals aims to provide
                             effective, safe, and personalized care for every skin and hair condition.</p>
@@ -283,7 +283,7 @@ Skin Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">Advanced treatment for acne, psoriasis, eczema,
+                                        class="text-gray-700">Treatment for acne, psoriasis, eczema,
                                         pigmentation</span>
                                 </div>
                             </div>
@@ -338,8 +338,7 @@ Skin Care Hospital in Jharkhand
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive dermatology care with advanced
-                    techniques</p>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive dermatology care</p>
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -366,7 +365,7 @@ Skin Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Acne & Acne Scar Treatment</h3>
-                        <p class="text-gray-600 mb-4">Advanced medical and cosmetic dermatology solutions for acne,
+                        <p class="text-gray-600 mb-4">Medical and cosmetic dermatology solutions for acne,
                             scars, and skin rejuvenation.</p>
                     </div>
                 </div>
@@ -516,7 +515,7 @@ Skin Care Hospital in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, we specialize in hair disorder management including advanced transplant
+                                <p>Yes, we specialize in hair disorder management including transplant
                                     procedures and medical therapies for hair regrowth.</p>
                             </div>
                         </div>

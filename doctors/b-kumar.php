@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '12 Years',
     'regNo' => '',
     'image' => '../assets/doc-dummy/male-dummy-raj.webp',
-    'description' => "Dr. B Kumar is a skilled Minimal Access Surgeon at Raj Hospital, Ranchi, with 12 years of experience in laparoscopic and laser surgical procedures. He specializes in diagnostic and therapeutic endoscopy, laser proctology, and advanced minimally invasive surgeries.",
+    'description' => "Dr. B Kumar is a skilled Minimal Access Surgeon at Raj Hospital, Ranchi, with 12 years of experience in laparoscopic and laser surgical procedures. He specializes in diagnostic and therapeutic endoscopy, laser proctology, and minimally invasive surgeries.",
     'expertise' => [
         'Laparoscopy Surgery',
         'Laser Surgery for Proctology',

@@ -80,7 +80,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Saurabh Kumar",
-    "description": "Dr. Saurabh Kumar is an experienced Critical Care specialist at Raj Hospital, Ranchi, with 26 years of expertise in intensive care medicine. He provides advanced ICU management, ventilator care, and treatment for critically ill patients.",
+    "description": "Dr. Saurabh Kumar is an experienced Critical Care specialist at Raj Hospital, Ranchi, with 26 years of expertise in intensive care medicine. He provides ICU management, ventilator care, and treatment for critically ill patients.",
     "medicalSpecialty": "Critical Care",
     "qualifications": "MBBS, MD",
     "image": "https://rajhospitals.com/assets/new-doctors-side/Dr. Saurabh Kumar.webp",
@@ -186,12 +186,12 @@
             specialty: 'Critical Care',
             experience: '26 Years',
             image: '../assets/new-doctors-side/Dr. Saurabh Kumar.webp',
-            description: 'Dr. Saurabh Kumar is a highly experienced Critical Care specialist at Raj Hospital, Ranchi, with 26 years of expertise in intensive care medicine. He provides advanced ICU management, ventilator care, and treatment for critically ill patients.',
+            description: 'Dr. Saurabh Kumar is a highly experienced Critical Care specialist at Raj Hospital, Ranchi, with 26 years of expertise in intensive care medicine. He provides ICU management, ventilator care, and treatment for critically ill patients.',
             expertise: [
                 'ECMO',
                 'Cardiac Anaesthesiology',
                 'Critical Care',
-                'Advance Hemodynamic Monitoring'
+                'Hemodynamic Monitoring'
             ],
             education: [
                 { degree: 'MBBS', institution: '', year: '' },

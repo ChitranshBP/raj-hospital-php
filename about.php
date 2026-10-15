@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us | Raj Hospitals</title>
-    <meta name="description" content="Learn about Raj Hospital Ranchi — a NABH-accredited multispeciality hospital with 100+ experienced doctors, advanced infrastructure, and 24/7 emergency care in Jharkhand." />
+    <meta name="description" content="Learn about Raj Hospital Ranchi — a NABH-accredited multispeciality hospital with 100+ experienced doctors and 24/7 emergency care in Jharkhand." />
     <meta name="robots" content="index, follow" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/feather-icons"></script>
@@ -23,7 +23,7 @@
 
     <!-- Open Graph -->
     <meta property="og:title" content="About Us | Raj Hospitals" />
-    <meta property="og:description" content="Learn about Raj Hospital Ranchi — a NABH-accredited multispeciality hospital with 100+ experienced doctors, advanced infrastructure, and 24/7 emergency care in Jharkhand." />
+    <meta property="og:description" content="Learn about Raj Hospital Ranchi — a NABH-accredited multispeciality hospital with 100+ experienced doctors and 24/7 emergency care in Jharkhand." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rajhospitals.com/about" />
     <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
@@ -36,7 +36,7 @@
       "@type": "AboutPage",
       "name": "About Raj Hospital",
       "url": "https://rajhospitals.com/about",
-      "description": "Learn about Raj Hospital Ranchi — a NABH-accredited multispeciality hospital with 100+ experienced doctors, advanced infrastructure, and 24/7 emergency care in Jharkhand.",
+      "description": "Learn about Raj Hospital Ranchi — a NABH-accredited multispeciality hospital with 100+ experienced doctors and 24/7 emergency care in Jharkhand.",
       "mainEntity": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -351,7 +351,7 @@
                                      <li class="text-sm text-gray-700">Started Knee Replacement surgeries (with international collaboration)</li>
                                 <li class="text-sm text-gray-700">Installed PSA-based Oxygen Generation facility</li>
                                 <li class="text-sm text-gray-700">Expanded to 100+ beds</li>
-                                <li class="text-sm text-gray-700">Opened advanced Neuro & Radio Diagnostics (1.5 Tesla MRI, EEG, EMG etc.)</li>
+                                <li class="text-sm text-gray-700">Opened Neuro & Radio Diagnostics (1.5 Tesla MRI, EEG, EMG etc.)</li>
                                 </ul>
                              </div>
                         </div>
@@ -439,7 +439,7 @@
                                 <ul class="space-y-2 text-left md:text-right">
                                     <li class="text-sm text-gray-700">Launched Gastroenterology Suite</li>
                                     <li class="text-sm text-gray-700">Facilities include Endoscopy, ERCP, Colonoscopy, Capsule Endoscopy</li>
-                                    <li class="text-sm text-gray-700">Advanced management of liver failure with PLEX & CRRT</li>
+                                    <li class="text-sm text-gray-700">Management of liver failure with PLEX & CRRT</li>
                                     <li class="text-sm text-gray-700">Performed more than 30,000 diagnostic and therapeutic procedures</li>
                                 </ul>
                              </div>
@@ -474,7 +474,7 @@
                              <div class="bg-white rounded-xl shadow-md p-5 border-l-4 md:border-l-0 md:border-r-4 border-orange-500 hover:shadow-lg transition">
                                 <span class="inline-block px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-sm font-bold mb-3">12th May 2023</span>
                                 <ul class="space-y-2 text-left md:text-right">
-                                    <li class="text-sm text-gray-700">Introduced Advanced Kidney Care with CRRT</li>
+                                    <li class="text-sm text-gray-700">Introduced Kidney Care with CRRT</li>
                                     <li class="text-sm text-gray-700">Comprehensive kidney care for renal failure</li>
                                 </ul>
                              </div>
@@ -493,7 +493,7 @@
                                 <ul class="space-y-2">
                                      <li class="text-sm text-gray-700">Launched Leica-Provido Operating Microscope</li>
                                      <li class="text-sm text-gray-700">Complicated brain tumor & spine surgeries</li>
-                                     <li class="text-sm text-gray-700">Advanced neurology diagnostics including EEG, EMG, NCS</li>
+                                     <li class="text-sm text-gray-700">Neurology diagnostics including EEG, EMG, NCS</li>
                                 </ul>
                              </div>
                         </div>

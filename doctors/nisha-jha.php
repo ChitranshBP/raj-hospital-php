@@ -8,10 +8,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Nisha Jha – Obstetrics & Gynaecology in Ranchi</title>
-    <meta name="description" content="Dr. Nisha Jha is a Consultant Obstetrician & Gynaecologist at Raj Hospital, Ranchi with expertise in advanced laparoscopic surgery, fetal medicine, high-risk obstetrics, infertility, PCOS and menopausal care. Creator of the Empowered Mother Blueprint.">
+    <meta name="description" content="Dr. Nisha Jha is a Consultant Obstetrician & Gynaecologist at Raj Hospital, Ranchi with expertise in laparoscopic surgery, fetal medicine, high-risk obstetrics, infertility, PCOS and menopausal care. Creator of the Empowered Mother Blueprint.">
     <meta name="keywords" content="Dr. Nisha Jha, Gynaecologist in Ranchi, Obstetrician Ranchi, laparoscopic gynaecology Ranchi, fetal medicine doctor Ranchi, high-risk pregnancy doctor Ranchi, Empowered Mother Blueprint, Dr. Nisha Jha Raj Hospital">
     <meta property="og:title" content="Dr. Nisha Jha – Obstetrics & Gynaecology in Ranchi">
-    <meta property="og:description" content="Dr. Nisha Jha is a Consultant Obstetrician & Gynaecologist at Raj Hospital, Ranchi with expertise in advanced laparoscopic surgery, fetal medicine, high-risk obstetrics, infertility, PCOS and menopausal care.">
+    <meta property="og:description" content="Dr. Nisha Jha is a Consultant Obstetrician & Gynaecologist at Raj Hospital, Ranchi with expertise in laparoscopic surgery, fetal medicine, high-risk obstetrics, infertility, PCOS and menopausal care.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://rajhospitals.com/doctors/nisha-jha">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
@@ -80,9 +80,9 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Nisha Jha",
-    "description": "Dr. Nisha Jha is a Consultant Obstetrician & Gynaecologist at Raj Hospital, Ranchi with expertise in advanced laparoscopic surgery, fetal medicine, high-risk obstetrics, infertility, PCOS and menopausal care. Creator of the Empowered Mother Blueprint.",
+    "description": "Dr. Nisha Jha is a Consultant Obstetrician & Gynaecologist at Raj Hospital, Ranchi with expertise in laparoscopic surgery, fetal medicine, high-risk obstetrics, infertility, PCOS and menopausal care. Creator of the Empowered Mother Blueprint.",
     "medicalSpecialty": "Obstetrics & Gynaecology",
-    "qualifications": "MBBS, MS (Obstetrics & Gynaecology), DNB (Obstetrics & Gynaecology), FMAS (Advanced Laparoscopic Surgery)",
+    "qualifications": "MBBS, MS (Obstetrics & Gynaecology), DNB (Obstetrics & Gynaecology), FMAS (Fellowship in Minimal Access Surgery)",
     "worksFor": {
         "@type": "Hospital",
         "name": "Raj Hospital",
@@ -177,14 +177,14 @@
         const doctorData = {
             id: 'nisha-jha',
             name: 'Dr. Nisha Jha',
-            qualifications: 'MBBS, MS, DNB (Obstetrics & Gynaecology), FMAS (Advanced Laparoscopic Surgery)',
+            qualifications: 'MBBS, MS, DNB (Obstetrics & Gynaecology), FMAS (Fellowship in Minimal Access Surgery)',
             specialty: 'Obstetrics & Gynaecology',
             experience: '',
             image: '../assets/doctor-latest/dr-nisha-jha.webp',
-            description: "Dr. Nisha Jha is a Consultant in Obstetrics and Gynaecology at Raj Hospital, Ranchi, and the creator of the <strong>Empowered Mother Blueprint</strong>. With advanced qualifications in minimally invasive surgery (FMAS) and a DNB in Obstetrics & Gynaecology, she brings a comprehensive, modern approach to women's health — from adolescence and pregnancy to motherhood and menopause. Her clinical focus spans high-risk obstetrics, advanced laparoscopic and vaginal surgery, fetal medicine, infertility, PCOS, adolescent care, menopausal care, and holistic birthing preparation through Lamaze, hypnobirthing and Garbhasanskar.",
+            description: "Dr. Nisha Jha is a Consultant in Obstetrics and Gynaecology at Raj Hospital, Ranchi, and the creator of the <strong>Empowered Mother Blueprint</strong>. With a fellowship in minimal access surgery (FMAS) and a DNB in Obstetrics & Gynaecology, she brings a comprehensive, modern approach to women's health — from adolescence and pregnancy to motherhood and menopause. Her clinical focus spans high-risk obstetrics, laparoscopic and vaginal surgery, fetal medicine, infertility, PCOS, adolescent care, menopausal care, and holistic birthing preparation through Lamaze, hypnobirthing and Garbhasanskar.",
             expertise: [
                 'Creator of Empowered Mother Blueprint',
-                'Advanced Laparoscopic Surgery',
+                'Laparoscopic Surgery',
                 'Vaginal Surgery',
                 'Fetal Development Counselling',
                 'Lamaze and Hypnobirthing',
@@ -201,7 +201,7 @@
                 { degree: 'MBBS', institution: '', year: '' },
                 { degree: 'MS (Obstetrics & Gynaecology)', institution: '', year: '' },
                 { degree: 'DNB (Obstetrics & Gynaecology)', institution: '', year: '' },
-                { degree: 'FMAS (Advanced Laparoscopic Surgery)', institution: '', year: '' }
+                { degree: 'FMAS (Fellowship in Minimal Access Surgery)', institution: '', year: '' }
             ],
             memberships: [],
             awards: [],

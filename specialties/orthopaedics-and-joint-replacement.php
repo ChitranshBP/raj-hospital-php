@@ -13,7 +13,7 @@
     </title>
 
     <meta name="description"
-        content="Raj Hospital is an orthopaedics and joint replacement hospital in Ranchi offering advanced bone, joint and knee replacement treatment." />
+        content="Raj Hospital is an orthopaedics and joint replacement hospital in Ranchi offering bone, joint and knee replacement treatment." />
 
     <meta name="robots" content="index, follow" />
 
@@ -89,7 +89,7 @@ Orthopedic Surgeon in Jharkhand
       "name": "Does Raj Hospital offer orthopaedics and joint replacement in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital in Ranchi offers advanced orthopaedic and joint replacement care."
+        "text": "Yes, Raj Hospital in Ranchi offers orthopaedic and joint replacement care."
       }
     },
     {
@@ -97,7 +97,7 @@ Orthopedic Surgeon in Jharkhand
       "name": "Does Raj Hospital provide knee and joint replacement surgery?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital provides advanced knee and joint replacement surgery in Ranchi."
+        "text": "Yes, Raj Hospital provides knee and joint replacement surgery in Ranchi."
       }
     }
   ]
@@ -247,8 +247,7 @@ Orthopedic Surgeon in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Orthopaedics & Joint Replacement</h1>
-                    <p class="text-xl text-gray-200">Comprehensive orthopaedic and joint replacement care with advanced
-                        surgical techniques in Ranchi.</p>
+                    <p class="text-xl text-gray-200">Comprehensive orthopaedic and joint replacement care in Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -285,7 +284,7 @@ Orthopedic Surgeon in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Advanced joint replacement technology</span>
+                                    <span class="text-gray-700">Joint replacement technology</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check"
@@ -314,7 +313,7 @@ Orthopedic Surgeon in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced joint replacement technology</span>
+                                    <span class="text-gray-700">Joint replacement technology</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -567,7 +566,7 @@ Orthopedic Surgeon in Jharkhand
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Advanced orthopaedic procedures and personalized care for all musculoskeletal conditions
+                    Orthopaedic procedures and personalized care for all musculoskeletal conditions
                 </p>
             </div>
 
@@ -596,7 +595,7 @@ Orthopedic Surgeon in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Arthritis</h3>
-                        <p class="text-gray-600 mb-4">Expert care and advanced therapies for arthritis to reduce pain,
+                        <p class="text-gray-600 mb-4">Expert care and therapies for arthritis to reduce pain,
                             improve joint function, and enhance quality of life.</p>
                     </div>
                 </div>
@@ -610,7 +609,7 @@ Orthopedic Surgeon in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Joint Replacements</h3>
-                        <p class="text-gray-600 mb-4">Advanced joint replacement surgeries for Knee, Hip, Shoulder,
+                        <p class="text-gray-600 mb-4">Joint replacement surgeries for Knee, Hip, Shoulder,
                             Elbow & Ankle to improve mobility and relieve pain.</p>
                     </div>
                 </div>

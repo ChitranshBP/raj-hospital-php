@@ -475,7 +475,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-purple-500 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Care for Migraines and Headaches</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers comprehensive neurology services including migraine diagnosis, treatment planning, and advanced therapies. Don't suffer in silence.</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers comprehensive neurology services including migraine diagnosis, treatment planning, and therapies. Don't suffer in silence.</p>
                     <a href="/contact.php" class="inline-block bg-white text-purple-500 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 

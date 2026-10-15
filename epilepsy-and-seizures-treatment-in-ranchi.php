@@ -230,7 +230,7 @@
                     </div>
 
                     <div class="fade-in">
-                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
                             Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>

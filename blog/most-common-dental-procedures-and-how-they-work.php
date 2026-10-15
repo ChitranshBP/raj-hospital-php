@@ -227,7 +227,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    आजकल <strong>डेंटिस्ट्री</strong> में कई advanced procedures available हैं जो दांतों की समस्याओं को effectively treat करती हैं। इस article में हम सबसे common dental procedures के बारे में details में बात करेंगे।
+                    आजकल <strong>डेंटिस्ट्री</strong> में कई procedures available हैं जो दांतों की समस्याओं को effectively treat करती हैं। इस article में हम सबसे common dental procedures के बारे में details में बात करेंगे।
                 </p>
 
                 <!-- Section 1 -->

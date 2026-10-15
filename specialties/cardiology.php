@@ -11,7 +11,7 @@
     <!-- ================= META TAGS ================= -->
 
     <meta name="description"
-        content="Cardiology hospital in Ranchi offering advanced heart treatment, experienced cardiologists, emergency cardiac care and modern facilities at Raj Hospital." />
+        content="Cardiology hospital in Ranchi offering heart treatment, experienced cardiologists, emergency cardiac care and modern facilities at Raj Hospital." />
 
     <meta name="robots" content="index, follow" />
 
@@ -87,7 +87,7 @@ Cardiac Care Hospital in Jharkhand
       "name": "Does Raj Hospital offer cardiology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital in Ranchi offers cardiology services for advanced heart care."
+        "text": "Yes, Raj Hospital in Ranchi offers cardiology services for heart conditions."
       }
     },
     {
@@ -272,7 +272,7 @@ Cardiac Care Hospital in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Team of experienced specialists with advanced training
+                                    <span class="text-gray-700">Team of experienced specialists with specialised training
                                         and expertise</span>
                                 </li>
                                 <li class="flex items-start">
@@ -314,7 +314,7 @@ Cardiac Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced Cardiac ICU</span>
+                                    <span class="text-gray-700">Cardiac ICU</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -439,7 +439,7 @@ Cardiac Care Hospital in Jharkhand
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive Cardiology care with advanced techniques and personalized treatment plans
+                    Comprehensive Cardiology care with personalized treatment plans
                 </p>
             </div>
 
@@ -481,7 +481,7 @@ Cardiac Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">IVUS, Colling & RFA</h3>
-                        <p class="text-gray-600 mb-4">Advanced imaging and therapeutic techniques including
+                        <p class="text-gray-600 mb-4">Imaging and therapeutic techniques including
                             Intravascular Ultrasound (IVUS), Colling, and Radiofrequency Ablation (RFA).</p>
                     </div>
                 </div>

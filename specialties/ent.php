@@ -14,7 +14,7 @@
     <title>ENT Hospital in Ranchi | ENT Specialist in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is an ENT hospital in Ranchi offering advanced ear, nose and throat treatment by experienced ENT specialists." />
+        content="Raj Hospital is an ENT hospital in Ranchi offering ear, nose and throat treatment by experienced ENT specialists." />
 
     <meta name="robots" content="index, follow" />
 
@@ -192,7 +192,7 @@ ENT Care Hospital in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">ENT (Ear, Nose & Throat)</h1>
-                    <p class="text-xl text-gray-200">ENT hospital in Ranchi with advanced treatments for ear, nose,
+                    <p class="text-xl text-gray-200">ENT hospital in Ranchi with treatments for ear, nose,
                         throat, and voice disorders</p>
                 </div>
             </div>
@@ -207,10 +207,10 @@ ENT Care Hospital in Jharkhand
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The ENT Department at Raj Hospitals,
                             Ranchi, provides comprehensive ear, nose, and
-                            throat treatments. With advanced diagnostic tools, modern surgical equipment, and highly
+                            throat treatments. With diagnostic tools, modern surgical equipment, and highly
                             skilled ENT specialists, we provide care for patients suffering from ear
                             infections, sinus problems, throat disorders, hearing loss, allergies, and balance issues.
-                            Our facilities include advanced audiology, speech therapy, and minimally invasive surgical
+                            Our facilities include audiology, speech therapy, and minimally invasive surgical
                             procedures.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
@@ -229,7 +229,7 @@ ENT Care Hospital in Jharkhand
                                         class="text-gray-700">Vertigo clinic and vestibular rehab program</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">Advanced diagnostic audiology services</span></li>
+                                        class="text-gray-700">Diagnostic audiology services</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
                                         class="text-gray-700">Modern operating theatres</span></li>
@@ -267,7 +267,7 @@ ENT Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">Advanced diagnostic audiology services</span>
+                                        class="text-gray-700">Diagnostic audiology services</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -334,7 +334,7 @@ ENT Care Hospital in Jharkhand
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive ENT care with advanced techniques</p>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive ENT care</p>
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -345,7 +345,7 @@ ENT Care Hospital in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Rhinology & Sinus Care</h3>
-                        <p class="text-gray-600 mb-4">Advanced diagnosis and minimally invasive procedures for
+                        <p class="text-gray-600 mb-4">Diagnosis and minimally invasive procedures for
                             sinusitis, nasal polyps, and rhinology-related conditions.</p>
                     </div>
                 </div>
@@ -379,7 +379,7 @@ ENT Care Hospital in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Audiology & Hearing Aids</h3>
-                        <p class="text-gray-600 mb-4">Hearing assessments, audiometry, and advanced hearing aids for
+                        <p class="text-gray-600 mb-4">Hearing assessments, audiometry, and hearing aids for
                             hearing loss.</p>
                     </div>
                 </div>

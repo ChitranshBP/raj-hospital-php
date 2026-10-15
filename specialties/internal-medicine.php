@@ -261,8 +261,7 @@ Medical Specialist in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">Raj Hospitals offers
-                            Internal Medicine services in Ranchi, Jharkhand. Our department provides advanced
-                            diagnostic services, preventive care, and treatment for lifestyle and chronic diseases. With
+                            Internal Medicine services in Ranchi, Jharkhand. Our department provides diagnostic services, preventive care, and treatment for lifestyle and chronic diseases. With
                             a team of experienced physicians and modern technology, we specialize in
                             diabetes care, heart problems, chest and lung diseases, gastroenterology, infectious
                             diseases, and more. We focus on holistic patient wellness with preventive counselling,
@@ -643,7 +642,7 @@ Medical Specialist in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Gastroenterology</h3>
-                        <p class="text-gray-600 mb-4">Advanced care for digestive system disorders including acidity,
+                        <p class="text-gray-600 mb-4">Care for digestive system disorders including acidity,
                             ulcers, and intestinal diseases.</p>
                     </div>
                 </div>
@@ -775,7 +774,7 @@ Medical Specialist in Jharkhand
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
                                 <p>Yes, Raj Hospitals in Ranchi provides Internal Medicine care, offering
-                                    advanced care for diabetes, heart problems, chest issues, infections, and chronic
+                                    care for diabetes, heart problems, chest issues, infections, and chronic
                                     diseases.</p>
                             </div>
                         </div>

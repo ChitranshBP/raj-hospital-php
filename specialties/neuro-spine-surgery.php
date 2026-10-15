@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Neuro & Spine Surgeon in Ranchi | Raj Hospital</title>
-    <meta name="description" content="Looking for a neuro & spine surgeon in Ranchi? Raj Hospital offers advanced brain and spine surgery with experienced neurosurgeons. Book consultation today." />
+    <meta name="description" content="Looking for a neuro & spine surgeon in Ranchi? Raj Hospital offers brain and spine surgery with experienced neurosurgeons. Book consultation today." />
     <meta name="keywords" content="neuro surgeon in Ranchi, spine surgery Ranchi, neurosurgeon Ranchi, brain tumor surgery Ranchi, Raj Hospital neuro surgery" />
     <meta name="robots" content="index, follow" />
 
@@ -75,7 +75,7 @@
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Neuro & Spine Surgery</h1>
-                    <p class="text-xl text-gray-200">Neuro & Spine Surgeons in Ranchi at Raj Hospital. Advanced brain and spine surgery with modern facilities and experienced surgical care.</p>
+                    <p class="text-xl text-gray-200">Neuro & Spine Surgeons in Ranchi at Raj Hospital. Brain and spine surgery with modern facilities and experienced surgical care.</p>
                 </div>
             </div>
         </div>
@@ -88,7 +88,7 @@
                 <div class="lg:col-span-2">
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview - Neuro & Spine Surgery Hospital in Ranchi</h2>
-                        <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neuro & Spine Surgery at Raj Hospitals provides comprehensive surgical care for brain and spine disorders. As the <strong>neuro and spine surgery department of Raj Hospitals in Ranchi</strong>, our expert neurosurgeons utilize advanced surgical techniques and modern equipment to perform complex brain and spine procedures including brain tumor removal, spinal fusion, minimally invasive spine surgery, and more.</p>
+                        <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neuro & Spine Surgery at Raj Hospitals provides comprehensive surgical care for brain and spine disorders. As the <strong>neuro and spine surgery department of Raj Hospitals in Ranchi</strong>, our expert neurosurgeons use modern equipment to perform complex brain and spine procedures including brain tumor removal, spinal fusion, minimally invasive spine surgery, and more.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
                             <h3 class="text-xl font-semibold text-gray-900 mb-4 flex items-center">
@@ -106,7 +106,7 @@
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Advanced neuroimaging and navigation systems</span>
+                                    <span class="text-gray-700">Neuroimaging and navigation systems</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
@@ -278,7 +278,7 @@
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Conditions We Treat</h2>
-                <p class="text-xl text-gray-600">Surgical conditions we treat with advanced neuro and spine procedures</p>
+                <p class="text-xl text-gray-600">Surgical conditions we treat with neuro and spine procedures</p>
             </div>
 
             <div class="bg-white rounded-xl p-8 shadow-sm border border-gray-100 fade-in">
@@ -341,7 +341,7 @@
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
-                <p class="text-xl text-gray-600">Advanced surgical treatments for brain and spine conditions</p>
+                <p class="text-xl text-gray-600">Surgical treatments for brain and spine conditions</p>
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -352,7 +352,7 @@
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Brain Tumor Surgery</h3>
-                        <p class="text-gray-600 mb-4">Advanced surgical removal of benign and malignant brain tumors with neuro-navigation and intraoperative monitoring.</p>
+                        <p class="text-gray-600 mb-4">Surgical removal of benign and malignant brain tumors with neuro-navigation and intraoperative monitoring.</p>
                     </div>
                 </div>
 

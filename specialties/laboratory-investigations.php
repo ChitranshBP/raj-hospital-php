@@ -12,7 +12,7 @@
     <title>Diagnostic Laboratory in Ranchi | Pathology Lab in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital provides advanced laboratory investigations in Ranchi with accurate diagnostic tests, modern pathology lab and experienced technicians." />
+        content="Raj Hospital provides laboratory investigations in Ranchi with accurate diagnostic tests, modern pathology lab and experienced technicians." />
 
     <meta name="robots" content="index, follow" />
 
@@ -182,7 +182,7 @@ Blood Test Lab in Jharkhand
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">FNAC, Biopsy, Blood & Laboratory Investigations</h1>
                     <p class="text-xl text-gray-200">Comprehensive and reliable blood tests and laboratory
-                        investigations in Ranchi with advanced diagnostic technology</p>
+                        investigations in Ranchi</p>
                 </div>
             </div>
         </div>
@@ -436,7 +436,7 @@ Blood Test Lab in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Comprehensive Blood Testing</h3>
-                        <p class="text-gray-600 mb-4">Routine and advanced testing including CBC, lipid profile, blood
+                        <p class="text-gray-600 mb-4">Routine and specialised testing including CBC, lipid profile, blood
                             glucose, liver and kidney function, thyroid and hormonal analysis.</p>
                     </div>
                 </div>

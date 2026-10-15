@@ -447,7 +447,7 @@
                         <li class="flex items-start gap-2"><span class="text-primary-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>दवा प्रबंधन (Medication Management)</strong> - गैस और दर्द के लिए उचित दवाइयां</li>
                         <li class="flex items-start gap-2"><span class="text-primary-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>फिजियोथेरेपी (Physiotherapy)</strong> - पीठ की मांसपेशियों को मजबूत करना</li>
                         <li class="flex items-start gap-2"><span class="text-primary-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>डायट प्लानिंग (Diet Planning)</strong> - गैस कम करने के लिए खान-पान की सलाह</li>
-                        <li class="flex items-start gap-2"><span class="text-primary-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>उन्नत इलाज (Advanced Treatment)</strong> - <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline">back pain treatment in Ranchi</a> के लिए आधुनिक तकनीकें</li>
+                        <li class="flex items-start gap-2"><span class="text-primary-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>इलाज (Treatment)</strong> - <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-600 hover:underline">back pain treatment in Ranchi</a> के लिए आधुनिक तकनीकें</li>
                     </ul>
                 </div>
 

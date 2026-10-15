@@ -190,7 +190,7 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Neuropathies Treatment in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Peripheral Neuropathy results from damage to the peripheral nerves, often causing weakness, numbness, and burning pain, usually in your hands and feet. Raj Hospital provides comprehensive <strong>Neuropathy treatment in Ranchi</strong>, meticulously identifying the underlying cause while supplying advanced multi-modal nerve pain relief strategies.
+                            Peripheral Neuropathy results from damage to the peripheral nerves, often causing weakness, numbness, and burning pain, usually in your hands and feet. Raj Hospital provides comprehensive <strong>Neuropathy treatment in Ranchi</strong>, meticulously identifying the underlying cause while supplying multi-modal nerve pain relief strategies.
                         </p>
                     </div>
 
@@ -218,7 +218,7 @@
                     </div>
 
                     <div class="fade-in">
-                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
                             Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>

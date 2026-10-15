@@ -80,7 +80,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Abhishek Roy",
-    "description": "Dr. Abhishek Roy is a specialized Orthopedic Surgeon at Raj Hospital, Ranchi, with over 6 years of expertise in joint replacement and sports injury management. He provides advanced treatment for fractures, arthroscopy, and total knee and hip replacement surgeries.",
+    "description": "Dr. Abhishek Roy is a specialized Orthopedic Surgeon at Raj Hospital, Ranchi, with over 6 years of expertise in joint replacement and sports injury management. He provides treatment for fractures, arthroscopy, and total knee and hip replacement surgeries.",
     "medicalSpecialty": "Orthopaedics & Joint Replacement",
     "qualifications": "MBBS, MS (Orthopaedics), FIJR, FIAMS",
     "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp",
@@ -186,7 +186,7 @@
             specialty: 'Orthopaedics & Joint Replacement',
             experience: '6+ Years',
             image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Orthopedic Surgeon - Dr. Abhishek-Roy.webp',
-            description: 'Dr. Abhishek Roy is a specialized Orthopedic Surgeon at Raj Hospital, Ranchi, with over 6 years of expertise in joint replacement and sports injury management. He provides advanced treatment for fractures, arthroscopy, and total knee and hip replacement surgeries.',
+            description: 'Dr. Abhishek Roy is a specialized Orthopedic Surgeon at Raj Hospital, Ranchi, with over 6 years of expertise in joint replacement and sports injury management. He provides treatment for fractures, arthroscopy, and total knee and hip replacement surgeries.',
             expertise: [
                 'Joint Replacement',
                 'Sports Injury',

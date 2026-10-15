@@ -12,7 +12,7 @@
     <title>Physiotherapy & Rehabilitation in Ranchi | Physiotherapy Centre in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital offers advanced physiotherapy and rehabilitation services in Ranchi for pain management, injury recovery and post-surgery rehabilitation." />
+        content="Raj Hospital offers physiotherapy and rehabilitation services in Ranchi for pain management, injury recovery and post-surgery rehabilitation." />
 
     <meta name="robots" content="index, follow" />
 
@@ -198,7 +198,7 @@ Physiotherapist in Jharkhand
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Physiotherapy Department at Raj
                             Hospitals provides expert rehabilitative care tailored for patients with orthopaedic,
                             neurological, cardiological, gynecological, and sports injuries. Our physiotherapists use
-                            advanced techniques and modern equipment for pain management,
+                            techniques and modern equipment for pain management,
                             post-surgical rehabilitation, injury recovery, and mobility restoration. Special emphasis is
                             placed on cardiac physiotherapy, ergonomic lifestyle interventions, bedside physiotherapy
                             for ICU and ward patients, and pediatric rehabilitation for children with developmental
@@ -223,7 +223,7 @@ Physiotherapist in Jharkhand
                                         class="text-gray-700">Laser & Ultrasonic Therapy</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">Advanced balance, mobility and exercise equipment</span>
+                                        class="text-gray-700">Balance, mobility and exercise equipment</span>
                                 </li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
@@ -310,8 +310,7 @@ Physiotherapist in Jharkhand
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive physiotherapy care with advanced
-                    techniques</p>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive physiotherapy care</p>
             </div>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div

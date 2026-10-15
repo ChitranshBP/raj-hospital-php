@@ -222,7 +222,7 @@
                     </div>
 
                     <div class="fade-in">
-                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-6">Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
                             Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
@@ -254,7 +254,7 @@
                         <div class="grid sm:grid-cols-2 gap-6">
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Acute Pain-Relieving Medications</h4>
-                                <p class="text-gray-600">Triptans, anti-nausea drugs, and advanced painkillers designed to stop a migraine during an attack.</p>
+                                <p class="text-gray-600">Triptans, anti-nausea drugs, and other painkillers designed to stop a migraine during an attack.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Preventive Medications</h4>

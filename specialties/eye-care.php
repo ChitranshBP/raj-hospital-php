@@ -12,7 +12,7 @@
     <title>Eye Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is an eye care hospital in Ranchi offering advanced eye treatment, experienced ophthalmologists and modern eye care facilities." />
+        content="Raj Hospital is an eye care hospital in Ranchi offering eye treatment, experienced ophthalmologists and modern eye care facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -185,7 +185,7 @@ Eye Care Clinic in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Eye Care</h1>
-                    <p class="text-xl text-gray-200">Eye hospital in Ranchi offering advanced treatments for
+                    <p class="text-xl text-gray-200">Eye hospital in Ranchi offering treatments for
                         cataract, LASIK, glaucoma, and comprehensive vision care</p>
                 </div>
             </div>
@@ -220,7 +220,7 @@ Eye Care Clinic in Jharkhand
                                         ultrasound)</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">Facilities for LASIK and advanced laser treatments</span>
+                                        class="text-gray-700">Facilities for LASIK and other laser treatments</span>
                                 </li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
@@ -251,7 +251,7 @@ Eye Care Clinic in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">Facilities for LASIK and advanced laser treatments</span>
+                                        class="text-gray-700">Facilities for LASIK and other laser treatments</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -311,7 +311,7 @@ Eye Care Clinic in Jharkhand
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive eye care with advanced techniques</p>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive eye care</p>
             </div>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div
@@ -320,7 +320,7 @@ Eye Care Clinic in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">LASIK (WaveFront & Standard)</h3>
-                        <p class="text-gray-600 mb-4">Advanced laser vision correction procedures to reduce dependence
+                        <p class="text-gray-600 mb-4">Laser vision correction procedures to reduce dependence
                             on glasses and contact lenses.</p>
                     </div>
                 </div>
@@ -342,7 +342,7 @@ Eye Care Clinic in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Glaucoma Diagnosis & Surgery</h3>
-                        <p class="text-gray-600 mb-4">Comprehensive diagnostics and advanced glaucoma surgeries
+                        <p class="text-gray-600 mb-4">Comprehensive diagnostics and glaucoma surgeries
                             including intraocular pressure measurement.</p>
                     </div>
                 </div>
@@ -364,7 +364,7 @@ Eye Care Clinic in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Retina & Vitreous Services</h3>
-                        <p class="text-gray-600 mb-4">Advanced diagnostics and treatments for retinal disorders,
+                        <p class="text-gray-600 mb-4">Diagnostics and treatments for retinal disorders,
                             including diabetic retinopathy and AMD.</p>
                     </div>
                 </div>

@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '10+ Years',
     'regNo' => '',
     'image' => '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Maxillofacial Surgeon - Dr. Abhishek-Bhattacharjee.webp',
-    'description' => "Dr. Abhishek Bhattacharjee is an experienced Oral & Maxillofacial Surgeon at Raj Hospital, Ranchi, with over 10 years of expertise in dental implants, cosmetic dentistry, and complex jaw surgeries. He provides advanced surgical solutions for facial trauma, oral pathology, and reconstructive procedures.",
+    'description' => "Dr. Abhishek Bhattacharjee is an experienced Oral & Maxillofacial Surgeon at Raj Hospital, Ranchi, with over 10 years of expertise in dental implants, cosmetic dentistry, and complex jaw surgeries. He provides surgical solutions for facial trauma, oral pathology, and reconstructive procedures.",
     'expertise' => [
         'Dental Implants',
         'Tooth Extraction',

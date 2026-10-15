@@ -80,7 +80,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Suprova Chakraborty",
-    "description": "Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi, with over 12 years of experience in respiratory medicine. She specializes in the treatment of asthma, COPD, tuberculosis, and other lung diseases with advanced pulmonary care.",
+    "description": "Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi, with over 12 years of experience in respiratory medicine. She specializes in the treatment of asthma, COPD, tuberculosis, and other lung diseases.",
     "medicalSpecialty": "Pulmonology",
     "qualifications": "MBBS, DNB, EDARM (Cert.), AAAI",
     "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Pulmonologist - Dr. Suprova-Chakraborty.webp",
@@ -186,7 +186,7 @@
             specialty: 'Pulmonology',
             experience: '12+ Years',
             image: '../assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Pulmonologist - Dr. Suprova-Chakraborty.webp',
-            description: 'Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi, with over 12 years of experience in respiratory medicine. She specializes in the treatment of asthma, COPD, tuberculosis, and other lung diseases with advanced pulmonary care.',
+            description: 'Dr. Suprova Chakraborty is a Pulmonologist at Raj Hospital, Ranchi, with over 12 years of experience in respiratory medicine. She specializes in the treatment of asthma, COPD, tuberculosis, and other lung diseases.',
             expertise: [
                 'Allergies',
                 'Asthma and Lung Disease Treatment',

@@ -8,10 +8,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Ved Prakash Verma – Urology in Ranchi</title>
-    <meta name="description" content="Dr. Ved Prakash Verma is a senior Urologist at Raj Hospital, Ranchi with 18+ years in advanced urological surgery & kidney stone management. Book now.">
+    <meta name="description" content="Dr. Ved Prakash Verma is a senior Urologist at Raj Hospital, Ranchi with 18+ years in urological surgery & kidney stone management. Book now.">
     <meta name="keywords" content="Dr. Ved Prakash Verma, Urology in Ranchi, Urologist in Ranchi, Dr. Ved Prakash Verma Raj Hospital Ranchi, urology doctor Ranchi">
     <meta property="og:title" content="Dr. Ved Prakash Verma – Urology in Ranchi">
-    <meta property="og:description" content="Dr. Ved Prakash Verma is a senior Urologist at Raj Hospital, Ranchi with 18+ years in advanced urological surgery & kidney stone management. Book now.">
+    <meta property="og:description" content="Dr. Ved Prakash Verma is a senior Urologist at Raj Hospital, Ranchi with 18+ years in urological surgery & kidney stone management. Book now.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://rajhospitals.com/doctors/ved-prakash">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
@@ -80,7 +80,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Ved Prakash Verma",
-    "description": "Dr. Ved Prakash is a senior Urologist at Raj Hospital, Ranchi, with over 18 years of experience in advanced urological surgery. He specializes in kidney stone management, prostate disorders, urinary tract conditions, and minimally invasive urological procedures.",
+    "description": "Dr. Ved Prakash is a senior Urologist at Raj Hospital, Ranchi, with over 18 years of experience in urological surgery. He specializes in kidney stone management, prostate disorders, urinary tract conditions, and minimally invasive urological procedures.",
     "medicalSpecialty": "Urology",
     "qualifications": "MBBS, MS (General Surgery), MCh (Urology)",
     "image": "https://rajhospitals.com/assets/doctor-latest/ved prakash.webp",
@@ -186,7 +186,7 @@
             specialty: 'Urology',
             experience: '18+ Years',
             image: '../assets/doctor-latest/ved prakash.webp',
-            description: 'Dr. Ved Prakash is a senior Urologist at Raj Hospital, Ranchi, with over 18 years of experience in advanced urological surgery. He specializes in kidney stone management, prostate disorders, urinary tract conditions, and minimally invasive urological procedures.',
+            description: 'Dr. Ved Prakash is a senior Urologist at Raj Hospital, Ranchi, with over 18 years of experience in urological surgery. He specializes in kidney stone management, prostate disorders, urinary tract conditions, and minimally invasive urological procedures.',
             expertise: [
                 'Endourology',
                 'Reconstructive Urology',

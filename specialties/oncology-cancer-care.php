@@ -12,7 +12,7 @@
     <title>Oncology Hospital in Ranchi | Cancer Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is an oncology and cancer care hospital in Ranchi offering advanced cancer diagnosis, treatment and comprehensive oncology care." />
+        content="Raj Hospital is an oncology and cancer care hospital in Ranchi offering cancer diagnosis, treatment and comprehensive oncology care." />
 
     <meta name="robots" content="index, follow" />
 
@@ -96,7 +96,7 @@ Cancer Treatment in Jharkhand
       "name": "Does Raj Hospital provide complete cancer treatment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital provides advanced diagnosis and comprehensive treatment for various types of cancer."
+        "text": "Yes, Raj Hospital provides diagnosis and comprehensive treatment for various types of cancer."
       }
     }
   ]
@@ -262,7 +262,7 @@ Cancer Treatment in Jharkhand
                             diagnosis, staging, treatment, and management of various cancer types. We offer surgical
                             oncology, chemotherapy, radiation therapy, and supportive care for all solid organ
                             malignancies including head & neck, breast, GI, gynae, and uro oncology. Our experienced
-                            oncologists use advanced diagnostic tools and individualized treatment protocols to ensure
+                            oncologists use diagnostic tools and individualized treatment protocols to ensure
                             appropriate, evidence-based care.</p>
 
                         <!-- Why Choose Us Box -->
@@ -275,7 +275,7 @@ Cancer Treatment in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Team of experienced specialists with advanced training
+                                    <span class="text-gray-700">Team of experienced specialists with specialised training
                                         and expertise</span>
                                 </li>
                                 <li class="flex items-start">
@@ -311,7 +311,7 @@ Cancer Treatment in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced modular operation theaters with ICU and HDU
+                                    <span class="text-gray-700">Modular operation theaters with ICU and HDU
                                         support</span>
                                 </div>
                             </div>
@@ -458,7 +458,7 @@ Cancer Treatment in Jharkhand
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive Oncology care with advanced techniques and personalized treatment plans
+                    Comprehensive Oncology care with personalized treatment plans
                 </p>
             </div>
 
@@ -473,7 +473,7 @@ Cancer Treatment in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Medical Oncology & Chemotherapy</h3>
-                        <p class="text-gray-600 mb-4">Safe administration of chemotherapy and advanced drug therapies
+                        <p class="text-gray-600 mb-4">Safe administration of chemotherapy and other drug therapies
                             for various cancers.</p>
                     </div>
                 </div>

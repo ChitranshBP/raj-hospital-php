@@ -245,7 +245,7 @@
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Comprehensive diagnostic services including advanced blood tests and biopsies</span>
+                                    <span class="text-gray-700">Comprehensive diagnostic services including blood tests and biopsies</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
@@ -272,7 +272,7 @@
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced Diagnostic Laboratory</span>
+                                    <span class="text-gray-700">Diagnostic Laboratory</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -358,7 +358,7 @@
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive haematology care with advanced techniques and personalized treatment plans
+                    Comprehensive haematology care with personalized treatment plans
                 </p>
             </div>
 
@@ -381,7 +381,7 @@
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Chemotherapy</h3>
-                        <p class="text-gray-600 mb-4">Advanced chemotherapy protocols for haematological malignancies including leukaemia, lymphoma, and multiple myeloma with dedicated day care facilities.</p>
+                        <p class="text-gray-600 mb-4">Chemotherapy protocols for haematological malignancies including leukaemia, lymphoma, and multiple myeloma with dedicated day care facilities.</p>
                     </div>
                 </div>
 

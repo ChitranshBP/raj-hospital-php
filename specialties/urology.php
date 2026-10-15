@@ -12,7 +12,7 @@
     <title>Urology Hospital in Ranchi | Urologist in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is a urology hospital in Ranchi offering advanced treatment for kidney, bladder and urinary tract disorders." />
+        content="Raj Hospital is a urology hospital in Ranchi offering treatment for kidney, bladder and urinary tract disorders." />
 
     <meta name="robots" content="index, follow" />
 
@@ -96,7 +96,7 @@ Urinary Disorder Specialist in Jharkhand
       "name": "Does Raj Hospital treat kidney stones and urinary problems?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital provides advanced treatment for kidney stones and urinary tract disorders."
+        "text": "Yes, Raj Hospital provides treatment for kidney stones and urinary tract disorders."
       }
     }
   ]
@@ -243,7 +243,7 @@ Urinary Disorder Specialist in Jharkhand
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Urology & Stone Care</h1>
                     <p class="text-xl text-gray-200">Urology Hospital in Ranchi offering comprehensive urological
-                        care for adults and children with advanced medical technology.</p>
+                        care for adults and children.</p>
                 </div>
             </div>
         </div>
@@ -280,7 +280,7 @@ Urinary Disorder Specialist in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Advanced laser and lithotripsy technology for kidney
+                                    <span class="text-gray-700">Laser and lithotripsy technology for kidney
                                         stones</span>
                                 </li>
                                 <li class="flex items-start">
@@ -305,7 +305,7 @@ Urinary Disorder Specialist in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced endoscopic and laparoscopic surgical
+                                    <span class="text-gray-700">Endoscopic and laparoscopic surgical
                                         suites</span>
                                 </div>
                             </div>
@@ -511,7 +511,7 @@ Urinary Disorder Specialist in Jharkhand
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Advanced treatments for all urological conditions
+                    Treatments for all urological conditions
                 </p>
             </div>
 
@@ -596,7 +596,7 @@ Urinary Disorder Specialist in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Robotic Surgery</h3>
-                        <p class="text-gray-600 mb-4">Advanced robotic-assisted surgical techniques for precision and
+                        <p class="text-gray-600 mb-4">Robotic-assisted surgical techniques for precision and
                             quicker recovery.</p>
                     </div>
                 </div>

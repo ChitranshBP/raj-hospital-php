@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Neurologist in Ranchi | Neurology Hospital | Raj Hospital</title>
-    <meta name="description" content="Looking for a neurologist in Ranchi? Raj Hospital offers advanced brain and neurological care. Consult our neurologist today." />
+    <meta name="description" content="Looking for a neurologist in Ranchi? Raj Hospital offers brain and neurological care. Consult our neurologist today." />
     <meta name="keywords" content="neurologist in Ranchi, Raj Hospital Ranchi, neurology hospital Ranchi" />
     <meta name="robots" content="index, follow" />
 
@@ -88,7 +88,7 @@
                 <div class="lg:col-span-2">
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview - Neurology Hospital in Ranchi</h2>
-                        <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neurology at Raj Hospitals provides comprehensive care for brain and nervous system disorders. As the <strong>neurology department of Raj Hospitals in Ranchi</strong>, our expert neurologists utilize advanced diagnostic technologies to diagnose and treat a wide range of neurological conditions including stroke, epilepsy, movement disorders, neuro infections, and more.</p>
+                        <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neurology at Raj Hospitals provides comprehensive care for brain and nervous system disorders. As the <strong>neurology department of Raj Hospitals in Ranchi</strong>, our expert neurologists utilize diagnostic technologies to diagnose and treat a wide range of neurological conditions including stroke, epilepsy, movement disorders, neuro infections, and more.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
                             <h3 class="text-xl font-semibold text-gray-900 mb-4 flex items-center">
@@ -98,7 +98,7 @@
                             <ul class="space-y-3">
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Qualified neurologists with advanced training</span>
+                                    <span class="text-gray-700">Qualified neurologists with specialised training</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
@@ -122,7 +122,7 @@
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced neuroimaging (MRI, CT, PET)</span>
+                                    <span class="text-gray-700">Neuroimaging (MRI, CT, PET)</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -257,7 +257,7 @@
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
-                <p class="text-xl text-gray-600">Advanced treatments for neurological conditions</p>
+                <p class="text-xl text-gray-600">Treatments for neurological conditions</p>
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -360,7 +360,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>We provide rapid assessment, acute treatment, and multidisciplinary rehabilitation in our dedicated stroke unit with advanced technologies.</p>
+                                <p>We provide rapid assessment, acute treatment, and multidisciplinary rehabilitation in our dedicated stroke unit.</p>
                             </div>
                         </div>
                     </div>

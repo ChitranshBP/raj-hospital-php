@@ -14,7 +14,7 @@
     <title>Neurology Hospital in Ranchi | Neuro Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is a neurology hospital in Ranchi offering advanced treatment for brain, spine and nervous system disorders by expert neurologists." />
+        content="Raj Hospital is a neurology hospital in Ranchi offering treatment for brain, spine and nervous system disorders by expert neurologists." />
 
     <meta name="robots" content="index, follow" />
 
@@ -90,7 +90,7 @@ Nervous System Specialist in Jharkhand
       "name": "Does Raj Hospital offer neurology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital in Ranchi offers advanced neurological care."
+        "text": "Yes, Raj Hospital in Ranchi offers neurological care."
       }
     },
     {
@@ -185,7 +185,7 @@ Nervous System Specialist in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Neurology</h1>
-                    <p class="text-xl text-gray-200">Comprehensive neurology care in Ranchi with advanced EEG, NCS, and
+                    <p class="text-xl text-gray-200">Comprehensive neurology care in Ranchi with EEG, NCS, and
                         expert neurologists for accurate diagnosis and treatment</p>
                 </div>
             </div>
@@ -202,7 +202,7 @@ Nervous System Specialist in Jharkhand
                             Hospitals, Ranchi, provides modern diagnosis and treatment for disorders of the brain,
                             nerves, and muscles. Our team of highly qualified neurologists specializes in managing
                             conditions such as stroke, epilepsy, migraine, neuropathy, Parkinson's disease, and muscle
-                            disorders. Supported by advanced neuro-diagnostic tools like EEG (Electroencephalogram) and
+                            disorders. Supported by neuro-diagnostic tools like EEG (Electroencephalogram) and
                             NCS (Nerve Conduction Study), we ensure accurate detection and effective management of
                             neurological conditions. Focused on patient comfort, efficiency, and clinical precision, Raj
                             Hospitals continues to provide neurological care across Ranchi and Jharkhand.</p>
@@ -217,7 +217,7 @@ Nervous System Specialist in Jharkhand
                                         class="text-gray-700">Modern EEG and NCS testing facilities</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">Advanced neuro-diagnostic systems with digital data
+                                        class="text-gray-700">Neuro-diagnostic systems with digital data
                                         monitoring</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
@@ -246,7 +246,7 @@ Nervous System Specialist in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">Advanced neuro-diagnostic systems</span>
+                                        class="text-gray-700">Neuro-diagnostic systems</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -311,8 +311,7 @@ Nervous System Specialist in Jharkhand
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive neurological care with advanced
-                    diagnostics</p>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive neurological care</p>
             </div>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div
@@ -369,7 +368,7 @@ Nervous System Specialist in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Migraine & Headache Management</h3>
-                        <p class="text-gray-600 mb-4">Advanced diagnosis and personalized treatment plans for chronic
+                        <p class="text-gray-600 mb-4">Diagnosis and personalized treatment plans for chronic
                             headaches and migraines.</p>
                     </div>
                 </div>

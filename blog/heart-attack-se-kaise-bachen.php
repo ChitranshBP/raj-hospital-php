@@ -598,7 +598,7 @@
                         <p class="text-sm text-gray-600">Round-the-clock emergency services for heart attacks and strokes. Our <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">emergency team</a> is trained to handle cardiac emergencies within golden hour.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
-                        <h4 class="font-bold text-primary-600">Advanced Diagnostic Facilities</h4>
+                        <h4 class="font-bold text-primary-600">Diagnostic Facilities</h4>
                         <p class="text-sm text-gray-600">ECG, Echocardiography, Stress Tests, CT Angiography and Cath Lab facilities for diagnosis and treatment.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">

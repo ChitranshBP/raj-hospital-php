@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '50+ Years',
     'regNo' => '',
     'image' => '../assets/Doc-Side/Dr. Prakash Chandra (Neuro Surgeon).webp',
-    'description' => "Dr. Prakash Chandra is an experienced Neurosurgeon at Raj Hospital, Ranchi, with over 50 years of experience in brain and spine surgery. He specializes in cranial surgeries, spinal procedures, and advanced neurosurgical interventions for complex neurological conditions.",
+    'description' => "Dr. Prakash Chandra is an experienced Neurosurgeon at Raj Hospital, Ranchi, with over 50 years of experience in brain and spine surgery. He specializes in cranial surgeries, spinal procedures, and neurosurgical interventions for complex neurological conditions.",
     'expertise' => [
         'Neurosurgery',
         'Spine Surgery',

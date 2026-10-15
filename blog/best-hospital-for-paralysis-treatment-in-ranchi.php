@@ -285,7 +285,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Spinal Cord Injury</h4>
-                        <p class="text-sm text-gray-600">Trauma to the spine can sever or damage nerve pathways, leading to paralysis below the injury level. Our <a href="/spinal-cord-injury-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">spinal cord injury specialists</a> provide advanced treatment.</p>
+                        <p class="text-sm text-gray-600">Trauma to the spine can sever or damage nerve pathways, leading to paralysis below the injury level. Our <a href="/spinal-cord-injury-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">spinal cord injury specialists</a> provide treatment.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Traumatic Brain Injury</h4>
@@ -318,7 +318,7 @@
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>IV Thrombolysis</strong> - Clot-busting medication (tPA) within 4.5 hours</li>
-                    <li><strong>Mechanical Thrombectomy</strong> - Advanced procedure to remove large clots</li>
+                    <li><strong>Mechanical Thrombectomy</strong> - Procedure to remove large clots</li>
                     <li><strong>24/7 Neurology Emergency</strong> - Round-the-clock specialized care</li>
                     <li><strong>Neuroimaging</strong> - CT, MRI, and angiography for accurate diagnosis</li>
                 </ul>
@@ -374,7 +374,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Emergency Services</h4>
-                        <p class="text-sm text-gray-600">Stroke and paralysis emergencies require immediate intervention. Choose a hospital with <strong>24/7 emergency services</strong>, advanced imaging capabilities, and trained emergency physicians.</p>
+                        <p class="text-sm text-gray-600">Stroke and paralysis emergencies require immediate intervention. Choose a hospital with <strong>24/7 emergency services</strong>, imaging capabilities, and trained emergency physicians.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Rehabilitation Infrastructure</h4>
@@ -382,7 +382,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Diagnostic Capabilities</h4>
-                        <p class="text-sm text-gray-600">Advanced diagnostic tools like <strong>MRI, CT scans, EEG, and EMG</strong> are essential for accurate diagnosis and treatment planning.</p>
+                        <p class="text-sm text-gray-600">Diagnostic tools like <strong>MRI, CT scans, EEG, and EMG</strong> are essential for accurate diagnosis and treatment planning.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. Multidisciplinary Approach</h4>
@@ -430,7 +430,7 @@
                         <p class="text-sm text-gray-600">Our neurology team manages stroke and paralysis cases together with rehabilitation specialists. <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">Meet our specialists</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">Advanced Infrastructure</h4>
+                        <h4 class="font-bold text-secondary-600">Infrastructure</h4>
                         <p class="text-sm text-gray-600">ICU, operation theatres and a rehabilitation unit.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">

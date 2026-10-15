@@ -73,7 +73,7 @@ $page_title = 'Dr. Ashish Kumar Modi – Minimal Access Surgery in Ranchi';
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Ashish Kumar Modi",
-    "description": "Dr. Ashish Modi is a Minimal Access Surgeon at Raj Hospital, Ranchi, with over 12 years of experience in laparoscopic and minimally invasive procedures. He specializes in advanced laparoscopic surgery, hernia repair, and diagnostic endoscopy.",
+    "description": "Dr. Ashish Modi is a Minimal Access Surgeon at Raj Hospital, Ranchi, with over 12 years of experience in laparoscopic and minimally invasive procedures. He specializes in laparoscopic surgery, hernia repair, and diagnostic endoscopy.",
     "medicalSpecialty": "Minimal Access Surgery",
     "qualifications": "MBBS, MS (General Surgery), FMAS",
     "image": "https://rajhospitals.com/assets/new-doctors-side/Dr. Ashish Kumar Modi-new.png",
@@ -163,7 +163,7 @@ $page_title = 'Dr. Ashish Kumar Modi – Minimal Access Surgery in Ranchi';
                 specialty: 'Minimal Access Surgery',
                 experience: '12+ Years',
                 image: '../assets/new-doctors-side/Dr. Ashish Kumar Modi-new.png',
-                description: 'Dr. Ashish Modi is an expert Minimal Access Surgeon at Raj Hospital, Ranchi, with over 12 years of experience in laparoscopic and minimally invasive procedures. He specializes in advanced laparoscopic surgery, hernia repair, and diagnostic endoscopy.',
+                description: 'Dr. Ashish Modi is an expert Minimal Access Surgeon at Raj Hospital, Ranchi, with over 12 years of experience in laparoscopic and minimally invasive procedures. He specializes in laparoscopic surgery, hernia repair, and diagnostic endoscopy.',
                 expertise: [
                   'Laparoscopy Surgery',
                   'Laser Surgery For Proctology',

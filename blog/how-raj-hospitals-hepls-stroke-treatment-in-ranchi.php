@@ -8,13 +8,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>How RAJ Hospitals Helps Stroke Treatment in Ranchi | RAJ Hospital Ranchi</title>
-    <meta name="description" content="How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। RAJ Hospital Ranchi में stroke care की जानकारी।">
+    <meta name="description" content="How RAJ Hospitals helps stroke treatment in Ranchi - stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। RAJ Hospital Ranchi में stroke care की जानकारी।">
     <meta name="keywords" content="stroke treatment ranchi, raj hospitals stroke, neurology ranchi, brain stroke treatment, stroke emergency ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/">
 
     <meta property="og:title" content="How RAJ Hospitals Helps Stroke Treatment in Ranchi">
-    <meta property="og:description" content="How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care services।">
+    <meta property="og:description" content="How RAJ Hospitals helps stroke treatment in Ranchi - stroke care services।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.png">
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "How RAJ Hospitals Helps Stroke Treatment in Ranchi | RAJ Hospital Ranchi",
-        "description": "How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। RAJ Hospital Ranchi में stroke care की जानकारी।",
+        "description": "How RAJ Hospitals helps stroke treatment in Ranchi - stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। RAJ Hospital Ranchi में stroke care की जानकारी।",
         "url": "https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.png",
         "author": {
@@ -249,7 +249,7 @@
                         <p class="text-sm text-gray-600">Neurologists और neuro-surgeons stroke protocols के अनुसार care करते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
-                        <h4 class="font-bold text-red-600">Advanced Imaging</h4>
+                        <h4 class="font-bold text-red-600">Imaging</h4>
                         <p class="text-sm text-gray-600">CT Scan, MRI, और DSA available - stroke type diagnose करने के लिए।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
@@ -358,7 +358,7 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">How RAJ Hospitals Helps Stroke Treatment in Ranchi पर ज़रूरी जानकारी</h2>
-                    <p class="text-gray-700 mb-4">How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। Ranchi</p>
+                    <p class="text-gray-700 mb-4">How RAJ Hospitals helps stroke treatment in Ranchi - stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। Ranchi</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। How RAJ Hospitals Helps Stroke Treatment in Ranchi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>

@@ -387,7 +387,7 @@
                 <h2 class="raj-h2-secondary">Fits का Diagnosis</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Epilepsy diagnosis</strong> के लिए एक comprehensive evaluation ज़रूरी है। RAJ Hospital Ranchi में हम advanced diagnostic facilities प्रदान करते हैं:
+                    <strong>Epilepsy diagnosis</strong> के लिए एक comprehensive evaluation ज़रूरी है। RAJ Hospital Ranchi में हम diagnostic facilities प्रदान करते हैं:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">

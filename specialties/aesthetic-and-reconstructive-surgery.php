@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plastic Surgery Hospital in Ranchi | Raj Hospitals</title>
     <meta name="description"
-        content="Raj Hospital offers advanced aesthetic and reconstructive surgery in Ranchi with experienced plastic surgeons, modern facilities and safe surgical care." />
+        content="Raj Hospital offers aesthetic and reconstructive surgery in Ranchi with experienced plastic surgeons, modern facilities and safe surgical care." />
 
     <meta name="robots" content="index, follow" />
 
@@ -254,7 +254,7 @@ Plastic Surgeon in Ranchi
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Aesthetic &
-                            Reconstructive Surgery at Raj Hospitals, Ranchi, combines advanced cosmetic procedures with
+                            Reconstructive Surgery at Raj Hospitals, Ranchi, combines cosmetic procedures with
                             reconstructive expertise to deliver comprehensive care. Led by qualified plastic
                             surgeons, the department provides individualized treatments for scars, birth defects, facial
                             reconstruction, and body reshaping. Using modern technology and minimally invasive
@@ -328,7 +328,7 @@ Plastic Surgeon in Ranchi
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced anti-aging & skin rejuvenation
+                                    <span class="text-gray-700">Anti-aging & skin rejuvenation
                                         treatments</span>
                                 </div>
                             </div>
@@ -397,7 +397,7 @@ Plastic Surgeon in Ranchi
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive aesthetic & reconstructive surgery care with advanced techniques and personalized
+                    Comprehensive aesthetic & reconstructive surgery care with personalized
                     treatment plans
                 </p>
             </div>
@@ -471,7 +471,7 @@ Plastic Surgeon in Ranchi
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Hair Restoration Surgery</h3>
-                        <p class="text-gray-600 mb-4">Advanced hair transplantation and restoration techniques.</p>
+                        <p class="text-gray-600 mb-4">Hair transplantation and restoration techniques.</p>
                     </div>
                 </div>
 

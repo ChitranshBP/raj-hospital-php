@@ -233,7 +233,7 @@
                 <h2 class="raj-h2">What Makes a Good <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Not all <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospitals are created equal. The <strong>right maternity hospital</strong> combines skilled healthcare professionals, advanced medical equipment, comprehensive services, and a nurturing environment. Here are the key factors that set apart exceptional maternity care:
+                    Not all <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospitals are created equal. The <strong>right maternity hospital</strong> combines skilled healthcare professionals, medical equipment, comprehensive services, and a nurturing environment. Here are the key factors that set apart exceptional maternity care:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -246,7 +246,7 @@
                         <p class="text-sm text-gray-600">Childbirth doesn't follow a schedule. Round-the-clock availability of doctors and operation theaters is essential.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">Advanced NICU</h4>
+                        <h4 class="font-bold text-secondary-600">NICU</h4>
                         <p class="text-sm text-gray-600">Neonatal Intensive Care Unit for premature or high-risk babies is crucial. Our NICU at RAJ Hospital is equipped for Level III care.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -302,7 +302,7 @@
                     <li>Respiratory distress syndrome</li>
                     <li>Neonatal infections</li>
                     <li>Jaundice management</li>
-                    <li>Advanced monitoring systems</li>
+                    <li>Monitoring systems</li>
                 </ul>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">4. Postnatal Care</h3>
@@ -335,7 +335,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Infrastructure and Facilities</h4>
-                        <p class="text-sm text-gray-600">Modern labor rooms, well-equipped NICU, blood bank availability, and advanced monitoring systems are essential infrastructure elements.</p>
+                        <p class="text-sm text-gray-600">Modern labor rooms, well-equipped NICU, blood bank availability, and monitoring systems are essential infrastructure elements.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Success Rates and Statistics</h4>

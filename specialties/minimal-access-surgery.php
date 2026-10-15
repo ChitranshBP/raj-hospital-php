@@ -12,7 +12,7 @@
     <title>Minimal Access Surgery in Ranchi | Laparoscopic Surgery Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital offers advanced minimal access and laparoscopic surgery in Ranchi with experienced surgeons, modern operation theatres and faster recovery." />
+        content="Raj Hospital offers minimal access and laparoscopic surgery in Ranchi with experienced surgeons, modern operation theatres and faster recovery." />
 
     <meta name="robots" content="index, follow" />
 
@@ -243,7 +243,7 @@ Minimally Invasive Surgery in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Minimal Access Surgery</h1>
-                    <p class="text-xl text-gray-200">Advanced laparoscopic, laser, and general surgery with highly
+                    <p class="text-xl text-gray-200">Laparoscopic, laser, and general surgery with highly
                         skilled surgeons and comprehensive care in Ranchi.</p>
                 </div>
             </div>
@@ -276,7 +276,7 @@ Minimally Invasive Surgery in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Team of experienced specialists with advanced training
+                                    <span class="text-gray-700">Team of experienced specialists with specialised training
                                         and expertise</span>
                                 </li>
                                 <li class="flex items-start">
@@ -312,7 +312,7 @@ Minimally Invasive Surgery in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced operation theatres with modern
+                                    <span class="text-gray-700">Operation theatres with modern
                                         equipment</span>
                                 </div>
                             </div>
@@ -427,7 +427,7 @@ Minimally Invasive Surgery in Jharkhand
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive Minimal Access Surgery care with advanced techniques and personalized treatment plans
+                    Comprehensive Minimal Access Surgery care with personalized treatment plans
                 </p>
             </div>
 
@@ -442,7 +442,7 @@ Minimally Invasive Surgery in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Laparoscopic & Laser Surgery</h3>
-                        <p class="text-gray-600 mb-4">Gall Bladder, Hernia, Appendix & advanced general surgery using
+                        <p class="text-gray-600 mb-4">Gall Bladder, Hernia, Appendix & general surgery using
                             minimal access and laser technology.</p>
                     </div>
                 </div>
@@ -487,7 +487,7 @@ Minimally Invasive Surgery in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Laser Surgery For Proctology</h3>
-                        <p class="text-gray-600 mb-4">Advanced laser treatment for fissures, fistulas, piles, and
+                        <p class="text-gray-600 mb-4">Laser treatment for fissures, fistulas, piles, and
                             hemorrhoids using laser.</p>
                     </div>
                 </div>
@@ -502,8 +502,7 @@ Minimally Invasive Surgery in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Diagnostic and Therapeutic Endoscopy</h3>
-                        <p class="text-gray-600 mb-4">Procedures for both diagnosis and treatment using advanced
-                            endoscopic techniques.</p>
+                        <p class="text-gray-600 mb-4">Procedures for both diagnosis and treatment using endoscopic techniques.</p>
                     </div>
                 </div>
             </div>

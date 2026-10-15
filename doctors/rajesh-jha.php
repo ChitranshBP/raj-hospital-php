@@ -80,7 +80,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Rajesh Kumar Jha",
-    "description": "Dr. Rajesh Jha is an experienced Interventional Cardiologist at Raj Hospital, Ranchi, with over 16 years of expertise in heart disease management. He specializes in coronary angioplasty, cardiac stenting, and advanced interventional cardiac procedures.",
+    "description": "Dr. Rajesh Jha is an experienced Interventional Cardiologist at Raj Hospital, Ranchi, with over 16 years of expertise in heart disease management. He specializes in coronary angioplasty, cardiac stenting, and interventional cardiac procedures.",
     "medicalSpecialty": "Cardiology",
     "qualifications": "MBBS, MD, DM, AFFCS",
     "image": "https://rajhospitals.com/assets/doctor-latest/Cardiologist - Dr. Rajesh Kumar Jha.webp",
@@ -186,7 +186,7 @@
             specialty: 'Cardiology',
             experience: '16+ Years',
             image: '../assets/doctor-latest/Cardiologist - Dr. Rajesh Kumar Jha.webp',
-            description: 'Dr. Rajesh Jha is an experienced Interventional Cardiologist at Raj Hospital, Ranchi, with over 16 years of expertise in heart disease management. He specializes in coronary angioplasty, cardiac stenting, and advanced interventional cardiac procedures.',
+            description: 'Dr. Rajesh Jha is an experienced Interventional Cardiologist at Raj Hospital, Ranchi, with over 16 years of expertise in heart disease management. He specializes in coronary angioplasty, cardiac stenting, and interventional cardiac procedures.',
             expertise: ['Interventional Cardiology'],
             education: [
                 { degree: 'DM (Cardiology)', institution: 'Safdarjung Hospital, New Delhi' },

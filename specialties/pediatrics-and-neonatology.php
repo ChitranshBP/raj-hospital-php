@@ -12,7 +12,7 @@
     <title>Pediatrics & Neonatology Hospital in Ranchi | Child Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is a pediatrics and neonatology hospital in Ranchi offering expert child care, newborn care and advanced NICU facilities." />
+        content="Raj Hospital is a pediatrics and neonatology hospital in Ranchi offering expert child care, newborn care and NICU facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -96,7 +96,7 @@ Child Specialist in Jharkhand
       "name": "Does Raj Hospital provide NICU facilities?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital provides advanced NICU and neonatal care services in Ranchi."
+        "text": "Yes, Raj Hospital provides NICU and neonatal care services in Ranchi."
       }
     }
   ]
@@ -199,7 +199,7 @@ Child Specialist in Jharkhand
                             Hospitals delivers comprehensive healthcare services tailored for children
                             from birth up to sixteen years. With dedicated pediatricians, skilled nurses, and child life
                             experts, the department focuses on child healthcare, diagnosis,
-                            compassionate support, preventive medicine, and advanced treatments. Specialized services
+                            compassionate support, preventive medicine, and treatment. Specialized services
                             range from pediatric and neonatal intensive care to immunization and surgical management for
                             various childhood diseases and health concerns.</p>
 
@@ -325,7 +325,7 @@ Child Specialist in Jharkhand
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive pediatric care with advanced techniques
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Comprehensive pediatric care
                 </p>
             </div>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -338,7 +338,7 @@ Child Specialist in Jharkhand
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Respiratory Support (Ventilation &
                             Surfactant)</h3>
-                        <p class="text-gray-600 mb-4">Advanced management for respiratory distress in newborns requiring
+                        <p class="text-gray-600 mb-4">Management for respiratory distress in newborns requiring
                             ventilators and surfactant therapy.</p>
                     </div>
                 </div>
@@ -486,7 +486,7 @@ Child Specialist in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>We use intensive monitoring, IV antibiotics, and advanced NICU facilities for
+                                <p>We use intensive monitoring, IV antibiotics, and NICU facilities for
                                     treating neonatal sepsis and related complications.</p>
                             </div>
                         </div>
@@ -498,7 +498,7 @@ Child Specialist in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Our NICU and PICU are fully equipped for ventilatory support and advanced respiratory
+                                <p>Our NICU and PICU are fully equipped for ventilatory support and respiratory
                                     therapies for infants and children.</p>
                             </div>
                         </div>

@@ -12,7 +12,7 @@
     <title>Multispeciality Hospital in Ranchi | Raj Hospital Jharkhand</title>
 
     <meta name="description"
-        content="Raj Hospital is a multispeciality hospital in Ranchi offering advanced medical care, experienced doctors, emergency services and modern facilities." />
+        content="Raj Hospital is a multispeciality hospital in Ranchi offering medical care, experienced doctors, emergency services and modern facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -21,7 +21,7 @@
 
     <!-- ================= OPEN GRAPH ================= -->
     <meta property="og:title" content="Multispeciality Hospital in Ranchi | Raj Hospital Jharkhand" />
-    <meta property="og:description" content="Raj Hospital is a multispeciality hospital in Ranchi offering advanced medical care, experienced doctors, emergency services and modern facilities." />
+    <meta property="og:description" content="Raj Hospital is a multispeciality hospital in Ranchi offering medical care, experienced doctors, emergency services and modern facilities." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rajhospitals.com/" />
     <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
@@ -54,7 +54,7 @@ Private Hospital in Ranchi
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
   "image": "https://rajhospitals.com/images/hospital-building.jpg",
-  "description": "Raj Hospital is a multispeciality hospital in Ranchi providing advanced healthcare services across major medical specialties.",
+  "description": "Raj Hospital is a multispeciality hospital in Ranchi providing healthcare services across major medical specialties.",
   "telephone": "+91-9771488888",
   "address": {
     "@type": "PostalAddress",
@@ -370,7 +370,7 @@ Private Hospital in Ranchi
                 <div class="specialty-panel grid grid-cols-1 lg:grid-cols-5 gap-8" id="cardiology">
                     <div class="lg:col-span-3 flex flex-col">
                         <h3 class="text-2xl font-semibold text-gray-900 mb-4">Cardiology</h3>
-                        <p class="text-gray-700 mb-6">Specialized cardiac care including advanced diagnostics,
+                        <p class="text-gray-700 mb-6">Specialized cardiac care including diagnostics,
                             interventional procedures, and heart failure management.</p>
                         <h4 class="text-lg font-semibold mb-3">Key Services & Treatments</h4>
                         <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-gray-700 list-disc list-inside mb-6">
@@ -399,7 +399,7 @@ Private Hospital in Ranchi
                 <div class="specialty-panel grid grid-cols-1 lg:grid-cols-5 gap-8 hidden" id="critical-care">
                     <div class="lg:col-span-3 flex flex-col">
                         <h3 class="text-2xl font-semibold text-gray-900 mb-4">Critical Care</h3>
-                        <p class="text-gray-700 mb-6">Advanced ICU services for medical, surgical, cardiac, and neuro-critical patients.</p>
+                        <p class="text-gray-700 mb-6">ICU services for medical, surgical, cardiac, and neuro-critical patients.</p>
                         <h4 class="text-lg font-semibold mb-3">Key Services & Treatments</h4>
                         <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-gray-700 list-disc list-inside mb-6">
                             <li>Dedicated medical, surgical, neuro & cardiac ICUs</li>
@@ -454,7 +454,7 @@ Private Hospital in Ranchi
                 <div class="specialty-panel grid grid-cols-1 lg:grid-cols-5 gap-8 hidden" id="gastroenterology">
                     <div class="lg:col-span-3 flex flex-col">
                         <h3 class="text-2xl font-semibold text-gray-900 mb-4">Gastroenterology</h3>
-                        <p class="text-gray-700 mb-6">Advanced digestive and liver care through endoscopy and minimally
+                        <p class="text-gray-700 mb-6">Digestive and liver care through endoscopy and minimally
                             invasive treatments.</p>
                         <h4 class="text-lg font-semibold mb-3">Key Services & Treatments</h4>
                         <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-gray-700 list-disc list-inside mb-6">
@@ -620,7 +620,7 @@ Private Hospital in Ranchi
                 <div class="specialty-panel grid grid-cols-1 lg:grid-cols-5 gap-8 hidden" id="nephrology">
                     <div class="lg:col-span-3 flex flex-col">
                         <h3 class="text-2xl font-semibold text-gray-900 mb-4">Nephrology</h3>
-                        <p class="text-gray-700 mb-6">Advanced kidney care with dialysis and continuous renal
+                        <p class="text-gray-700 mb-6">Kidney care with dialysis and continuous renal
                             replacement therapy.</p>
                         <h4 class="text-lg font-semibold mb-3">Key Services & Treatments</h4>
                         <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-gray-700 list-disc list-inside mb-6">
@@ -648,7 +648,7 @@ Private Hospital in Ranchi
                 <div class="specialty-panel grid grid-cols-1 lg:grid-cols-5 gap-8 hidden" id="urology">
                     <div class="lg:col-span-3 flex flex-col">
                         <h3 class="text-2xl font-semibold text-gray-900 mb-4">Urology</h3>
-                        <p class="text-gray-700 mb-6">Advanced urological care including prostate, kidney, and
+                        <p class="text-gray-700 mb-6">Urological care including prostate, kidney, and
                             infertility treatments.</p>
                         <h4 class="text-lg font-semibold mb-3">Key Services & Treatments</h4>
                         <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-gray-700 list-disc list-inside mb-6">
@@ -929,7 +929,7 @@ Private Hospital in Ranchi
                                 class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                         </div>
                         <div class="p-6">
-                            <h3 class="font-semibold text-[#0191C7] text-xl mb-2">Advanced Kidney Care with Continuous
+                            <h3 class="font-semibold text-[#0191C7] text-xl mb-2">Kidney Care with Continuous
                                 Renal Replacement Therapy (CRRT)</h3>
                             <p class="text-gray-600 leading-relaxed">24/7 continuous dialysis support for critically ill
                                 patients with acute kidney injury</p>
@@ -945,7 +945,7 @@ Private Hospital in Ranchi
                         <div class="p-6">
                             <h3 class="font-semibold text-[#0191C7] text-xl mb-2">Gastroenterology
                                 Suite at Raj Hospitals, Ranchi</h3>
-                            <p class="text-gray-600 leading-relaxed">Advanced endoscopy and colonoscopy facilities for
+                            <p class="text-gray-600 leading-relaxed">Endoscopy and colonoscopy facilities for
                                 precise digestive system diagnosis and treatment</p>
                         </div>
                     </div>
@@ -957,7 +957,7 @@ Private Hospital in Ranchi
                                 class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                         </div>
                         <div class="p-6">
-                            <h3 class="font-semibold text-[#0191C7] text-xl mb-2">Advanced Leica-Provido Operating
+                            <h3 class="font-semibold text-[#0191C7] text-xl mb-2">Leica-Provido Operating
                                 Microscope at Raj Hospitals,</h3>
                             <p class="text-gray-600 leading-relaxed">High-precision surgical microscope for complex
                                 brain, spine, and neurosurgical procedures</p>

@@ -12,7 +12,7 @@
     <title>Gastroenterology Hospital in Ranchi | Gastro Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is a gastroenterology hospital in Ranchi offering advanced treatment for digestive, liver and gastrointestinal disorders." />
+        content="Raj Hospital is a gastroenterology hospital in Ranchi offering treatment for digestive, liver and gastrointestinal disorders." />
 
     <meta name="robots" content="index, follow" />
 
@@ -88,7 +88,7 @@ Liver Specialist in Ranchi
       "name": "Does Raj Hospital offer gastroenterology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital in Ranchi provides advanced digestive and liver care."
+        "text": "Yes, Raj Hospital in Ranchi provides digestive and liver care."
       }
     },
     {
@@ -243,7 +243,7 @@ Liver Specialist in Ranchi
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Gastroenterology & Endoscopy</h1>
-                    <p class="text-xl text-gray-200">Gastroenterology care in Ranchi with advanced diagnostics,
+                    <p class="text-xl text-gray-200">Gastroenterology care in Ranchi with diagnostics,
                         minimally invasive surgeries and expert gastroenterologists.</p>
                 </div>
             </div>
@@ -263,7 +263,7 @@ Liver Specialist in Ranchi
                             including gastroenterology, hepatology, and gastrointestinal surgery. Our minimally invasive
                             procedures like laparoscopy and endoscopy offer faster recovery, fewer complications and
                             less post-operative follow-up. We offer minimal-scar access
-                            surgery and advanced laparoscopic, biliary, pancreatic, and colorectal oncologic procedures.
+                            surgery and laparoscopic, biliary, pancreatic, and colorectal oncologic procedures.
                         </p>
 
                         <!-- Why Choose Us Box -->
@@ -276,7 +276,7 @@ Liver Specialist in Ranchi
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Team of experienced specialists with advanced training
+                                    <span class="text-gray-700">Team of experienced specialists with specialised training
                                         and expertise</span>
                                 </li>
                                 <li class="flex items-start">
@@ -319,7 +319,7 @@ Liver Specialist in Ranchi
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced Diagnostic Endoscopy Suite</span>
+                                    <span class="text-gray-700">Diagnostic Endoscopy Suite</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -405,7 +405,7 @@ Liver Specialist in Ranchi
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive Gastroenterology care with advanced techniques and personalized treatment plans
+                    Comprehensive Gastroenterology care with personalized treatment plans
                 </p>
             </div>
 
@@ -421,7 +421,7 @@ Liver Specialist in Ranchi
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Therapeutic and Diagnostic Upper GI
                             Endoscopy</h3>
-                        <p class="text-gray-600 mb-4">Advanced endoscopic procedure to examine and treat conditions of
+                        <p class="text-gray-600 mb-4">Endoscopic procedure to examine and treat conditions of
                             the upper digestive tract including esophagus, stomach, and duodenum.</p>
                     </div>
                 </div>
@@ -467,7 +467,7 @@ Liver Specialist in Ranchi
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Endoscopic Ultrasound (EUS)</h3>
-                        <p class="text-gray-600 mb-4">Advanced imaging technique combining endoscopy with ultrasound for
+                        <p class="text-gray-600 mb-4">Imaging technique combining endoscopy with ultrasound for
                             detailed visualization of digestive tract and surrounding organs.</p>
                     </div>
                 </div>

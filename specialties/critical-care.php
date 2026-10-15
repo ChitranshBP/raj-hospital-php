@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Critical Care - ICU Hospital in Ranchi | Raj Hospitals</title>
     <meta name="description"
-        content="Raj Hospital is a critical care hospital in Ranchi offering advanced ICU facilities, emergency care, ventilator support and expert critical care doctors." />
+        content="Raj Hospital is a critical care hospital in Ranchi offering ICU facilities, emergency care, ventilator support and expert critical care doctors." />
 
     <meta name="robots" content="index, follow" />
 
@@ -85,7 +85,7 @@ Emergency Critical Care in Jharkhand
       "name": "Does Raj Hospital offer critical care services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, Raj Hospital in Ranchi offers critical care with advanced ICU facilities and experienced doctors."
+        "text": "Yes, Raj Hospital in Ranchi offers critical care with ICU facilities and experienced doctors."
       }
     },
     {
@@ -238,7 +238,7 @@ Emergency Critical Care in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Critical Care</h1>
-                    <p class="text-xl text-gray-200">Advanced ICU services for medical, surgical, cardiac, and
+                    <p class="text-xl text-gray-200">ICU services for medical, surgical, cardiac, and
                         neuro-critical patients.</p>
                 </div>
             </div>
@@ -269,7 +269,7 @@ Emergency Critical Care in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Team of experienced specialists with advanced training
+                                    <span class="text-gray-700">Team of experienced specialists with specialised training
                                         and expertise</span>
                                 </li>
                                 <li class="flex items-start">
@@ -441,7 +441,7 @@ Emergency Critical Care in Jharkhand
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Treatments We Offer</h2>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive Critical Care with advanced techniques and personalized treatment plans
+                    Comprehensive Critical Care with personalized treatment plans
                 </p>
             </div>
 
@@ -456,8 +456,7 @@ Emergency Critical Care in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Cardiac & Neuro ICU</h3>
-                        <p class="text-gray-600 mb-4">Expert cardiac and neurological intensive care with advanced
-                            monitoring systems.</p>
+                        <p class="text-gray-600 mb-4">Expert cardiac and neurological intensive care with monitoring systems.</p>
                     </div>
                 </div>
 
@@ -509,11 +508,11 @@ Emergency Critical Care in Jharkhand
                     class="bg-white rounded-xl shadow-md hover:shadow-lg transition-all duration-300 overflow-hidden fade-in">
                     <div class="h-48 overflow-hidden">
                         <img src="../assets/specialties/Critical Care & Emergency/Advanced-Ventilatory-Support.webp"
-                            alt="Advanced Ventilatory Support"
+                            alt="Ventilatory Support"
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300">
                     </div>
                     <div class="p-6">
-                        <h3 class="text-xl font-semibold text-gray-900 mb-3">Advanced Ventilatory Support</h3>
+                        <h3 class="text-xl font-semibold text-gray-900 mb-3">Ventilatory Support</h3>
                         <p class="text-gray-600 mb-4">Invasive and non-invasive ventilation for respiratory distress.
                         </p>
                     </div>
@@ -528,7 +527,7 @@ Emergency Critical Care in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">ECMO</h3>
-                        <p class="text-gray-600 mb-4">Life-saving advanced circulatory and respiratory support.</p>
+                        <p class="text-gray-600 mb-4">Life-saving circulatory and respiratory support.</p>
                     </div>
                 </div>
             </div>
@@ -677,7 +676,7 @@ Emergency Critical Care in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Extra Corporeal Membrane Oxygenation is advanced life support for patients with
+                                <p>Extra Corporeal Membrane Oxygenation is a form of life support for patients with
                                     severe cardiac or respiratory failure.</p>
                             </div>
                         </div>
