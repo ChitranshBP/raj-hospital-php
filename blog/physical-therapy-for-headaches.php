@@ -233,7 +233,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    If you suffer from <strong>frequent headaches</strong> that don't respond to medication, or want to avoid long-term drug use, physical therapy may be the solution you've been looking for.
+                    If you suffer from <strong>frequent headaches</strong> that don't respond to medication, first get evaluated by a doctor to rule out other causes (including medicine-overuse headache); physical therapy may then be part of your treatment plan.
                 </p>
 
                 <!-- Section 1: Why Physical Therapy -->
@@ -245,7 +245,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Note:</strong>
-                    <span class="text-gray-700"> Physical therapy is as effective as medication for tension-type headaches, with better long-term outcomes and fewer side effects.</span>
+                    <span class="text-gray-700"> Physical therapy may help some people with tension-type headaches and can be used along with treatment advised by a doctor.</span>
                 </div>
 
                 <!-- Section 2: Who Benefits -->
@@ -337,21 +337,6 @@
                     Some patients notice <strong>significant improvement</strong> over several sessions; results vary from person to person.
                 </p>
 
-                <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl font-bold text-green-600">50%</div>
-                        <div class="text-sm text-gray-600">Reduction in <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> frequency</div>
-                    </div>
-                    <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl font-bold text-green-600">60%</div>
-                        <div class="text-sm text-gray-600"></div>
-                    </div>
-                    <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl font-bold text-green-600">80%</div>
-                        <div class="text-sm text-gray-600">Patient satisfaction rate</div>
-                    </div>
-                </div>
-
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Physical Therapy Consultation for Headaches</h3>
@@ -373,7 +358,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Do I need a doctor's referral?</h4>
-                        <p class="text-gray-700">In most cases, you can directly book with our physical therapy department. However, some insurance plans may require a referral.</p>
+                        <p class="text-gray-700">For new, severe or changing headaches, please see a doctor first; for known tension-type or neck-related headaches you can book directly with our physiotherapy department. However, some insurance plans may require a referral.</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

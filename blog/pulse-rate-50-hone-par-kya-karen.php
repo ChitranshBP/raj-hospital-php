@@ -324,7 +324,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">पल्स रेट बढ़ाने के घरेलू उपाय क्या हैं?</h4>
-                        <p class="text-gray-700">गर्म पानी पिएं, व्यायाम करें, कैफीन लें, और हाइड्रेटेड रहें। गंभीर cases में doctor consult करें।</p>
+                        <p class="text-gray-700">पल्स रेट बढ़ाने का कोई प्रमाणित घरेलू उपाय नहीं है। अगर कोई लक्षण नहीं हैं तो doctor की सलाह से monitoring काफी हो सकती है; चक्कर, थकान, सांस फूलना या बेहोशी हो तो खुद से उपाय आज़माने के बजाय doctor से ECG जांच कराएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">कब तुरंत डॉक्टर जाएं?</h4>

@@ -344,7 +344,7 @@
                     <div class="bg-green-50 p-4 rounded-lg text-center">
                         <div class="text-2xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-gray" aria-hidden="true"></i></div>
                         <h4 class="font-bold text-green-600 text-sm">Nasal Spray</h4>
-                        <p class="text-xs text-gray-600">Clear nasal passages</p>
+                        <p class="text-xs text-gray-600">Clear nasal passages (doctor की सलाह से; decongestant spray 3 दिन से ज़्यादा नहीं)</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg text-center">
                         <div class="text-2xl mb-2"><i data-feather="wind" class="raj-icon raj-icon-sm raj-icon-blue" aria-hidden="true"></i></div>
@@ -363,7 +363,7 @@
                     <li><strong>Allergy testing:</strong> जानें कौन से allergens trigger करते हैं</li>
                     <li><strong>Immunotherapy:</strong> Allergy shots या sublingual drops</li>
                     <li><strong>Environmental control:</strong> Bedroom में air purifier, dust mites covers</li>
-                    <li><strong>Neti pot:</strong> Salt water nasal irrigation</li>
+                    <li><strong>Neti pot:</strong> Salt water nasal irrigation (उबालकर ठंडा किया या sterile पानी ही इस्तेमाल करें)</li>
                     <li><strong>Prevention:</strong> Allergen avoidance strategies</li>
                 </ul>
 
@@ -388,7 +388,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600 mb-2">कितने दिन में ठीक होगा?</h4>
-                        <p class="text-gray-700">Allergen exposure stop करने पर 30 minutes से 2 hours में relief मिलती है। Chronic cases में 2-4 weeks treatment ज़रूरी।</p>
+                        <p class="text-gray-700">Allergen exposure कम करने और सही इलाज से कुछ घंटों से कुछ दिनों में relief मिल सकती है। Chronic cases में 2-4 weeks treatment ज़रूरी।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

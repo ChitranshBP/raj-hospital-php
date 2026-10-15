@@ -95,7 +95,7 @@
                 "name": "दमा के मरीज को क्या खाना चाहिए और क्या नहीं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दमा के मरीजों को ताजे फल, सब्जियां, और omega-3 युक्त खाद्य पदार्थ खाने चाहिए। मसालेदार भोजन, processed food, और ठंडे पेय पदार्थों से बचना चाहिए। कुछ लोगों को eggs, peanuts, या seafood से एलर्जी हो सकती है।"
+                    "text": "दमा के मरीजों को ताजे फल, सब्जियां, और omega-3 युक्त खाद्य पदार्थ खाने चाहिए। जिन खाद्य पदार्थों या पेय से आपके लक्षण बढ़ते हों, उनसे बचें। कुछ लोगों को eggs, peanuts, या seafood से एलर्जी हो सकती है।"
                 }
             },
             {
@@ -753,9 +753,9 @@
             <ol>
                 <li><strong>शांत रहें</strong> और सीधे बैठें</li>
                 <li>अपनी <strong>reliever inhaler</strong> (salbutamol) use करें</li>
-                <li>2-4 पuffs के बाद <strong>4 मिनट</strong> इंतजार करें</li>
-                <li>अगर राहत नहीं मिलती तो <strong>4 पuffs और लें</strong></li>
-                <li>अगर फिर भी राहत नहीं - <strong>तुरंत डॉक्टर या Hospital जाएं</strong></li>
+                <li>डॉक्टर के बताए Asthma Action Plan के अनुसार puffs लेने के बाद <strong>4 मिनट</strong> इंतजार करें</li>
+                <li>अगर राहत नहीं मिलती तो <strong>Action Plan के अनुसार दोबारा dose लें</strong></li>
+                <li>अगर फिर भी राहत नहीं - <strong>तुरंत 108/112 पर ambulance बुलाएं या नज़दीकी Emergency जाएं</strong></li>
             </ol>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
@@ -870,7 +870,7 @@
 
                 <div class="faq-item">
                     <h3>6. दमा के मरीज को क्या खाना चाहिए और क्या नहीं?</h3>
-                    <p>दमा के मरीजों को <strong>ताजे फल, सब्जियां, और omega-3 युक्त खाद्य पदार्थ</strong> खाने चाहिए। मसालेदार भोजन, processed food, और ठंडे पेय पदार्थों से बचना चाहिए। कुछ लोगों को eggs, peanuts, या seafood से एलर्जी हो सकती है।</p>
+                    <p>दमा के मरीजों को <strong>ताजे फल, सब्जियां, और omega-3 युक्त खाद्य पदार्थ</strong> खाने चाहिए। जिन खाद्य पदार्थों या पेय से आपके लक्षण बढ़ते हों, उनसे बचें। कुछ लोगों को eggs, peanuts, या seafood से एलर्जी हो सकती है।</p>
                 </div>
 
                 <div class="faq-item">

@@ -53,7 +53,7 @@
             "name": "क्या Blood Infection (Sepsis) Kaise Hota Hai? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Symptoms of AIDS in Men - Early Signs and Treatment जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए फेफड़ों में इन्फेक्शन के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -69,7 +69,7 @@
             "name": "क्या इस समस्या में खुद से दवा लेना सुरक्षित है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "खुद से दवा लेने से जरूरी warning signs छिप सकते हैं या दवाओं का interaction हो सकता है। हल्की समस्या में आराम, पानी और संतुलित भोजन मदद कर सकते हैं, लेकिन लगातार या गंभीर लक्षणों में RAJ Hospital या नजदीकी योग्य डॉक्टर से सलाह लेना बेहतर है।"
+                "text": "खुद से दवा लेने से जरूरी warning signs छिप सकते हैं या दवाओं का interaction हो सकता है। Sepsis का शक होने पर घरेलू उपाय या खुद से antibiotic लेकर समय न गंवाएं — infection के साथ तेज़ सांस, confusion, BP गिरना या पेशाब कम होना हो तो तुरंत emergency care लें।"
             }
         },
         {
@@ -321,7 +321,7 @@
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">High-Risk Groups:</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
-                            <li><strong>90+ age</strong> - बुजुर्गों में immune system weak होता है</li>
+                            <li><strong>65+ age</strong> - बुजुर्गों में immune system weak होता है</li>
                             <li><strong>0-1 age</strong> - नवजात babies में immune system underdeveloped होता है</li>
                             <li><strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> women</strong> - <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में immune changes होते हैं</li>
                             <li><strong>Chronic diseases</strong> - <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, kidney disease, lung disease patients</li>
@@ -335,10 +335,10 @@
                 <h2 class="raj-h2">Sepsis Ke Symptoms (Symptoms of Sepsis)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Sepsis के early symptoms</strong> को पहचानना बहुत जरूरी है। अगर आपको नीचे दिए symptoms हों, तो तुरंत doctor से मिलें:
+                    <strong>Sepsis के early symptoms</strong> को पहचानना बहुत जरूरी है। अगर किसी infection के साथ नीचे दिए symptoms हों, तो इसे emergency मानें — तुरंत नज़दीकी hospital emergency जाएं या 108/112 पर call करें:
                 </p>
 
-                <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Primary Symptoms (qSOFA Signs)</h3>
+                <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">मुख्य Warning Signs</h3>
                 <div class="raj-callout raj-callout-danger">
                     <ul class="space-y-2 text-gray-700">
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> <strong>High fever (38.3°C+)</strong> या low temperature (36°C below)</li>
@@ -508,7 +508,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Blood Infection (Sepsis) Kaise Hota Hai? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Symptoms of AIDS in Men - Early Signs and Treatment जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए फेफड़ों में इन्फेक्शन के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>
@@ -516,7 +516,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या इस समस्या में खुद से दवा लेना सुरक्षित है?</h3>
-                        <p class="text-gray-700">खुद से दवा लेने से जरूरी warning signs छिप सकते हैं या दवाओं का interaction हो सकता है। हल्की समस्या में आराम, पानी और संतुलित भोजन मदद कर सकते हैं, लेकिन लगातार या गंभीर लक्षणों में RAJ Hospital या नजदीकी योग्य डॉक्टर से सलाह लेना बेहतर है।</p>
+                        <p class="text-gray-700">खुद से दवा लेने से जरूरी warning signs छिप सकते हैं या दवाओं का interaction हो सकता है। Sepsis का शक होने पर घरेलू उपाय या खुद से antibiotic लेकर समय न गंवाएं — infection के साथ तेज़ सांस, confusion, BP गिरना या पेशाब कम होना हो तो तुरंत emergency care लें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>

@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>माइग्रेन के लक्षण - कारण, प्रकार और इलाज | RAJ Hospital Ranchi</title>
     <meta name="description" content="माइग्रेन के प्रमुख लक्षण, कारण और प्रभावी इलाज जानें। जानें कब डॉक्टर को दिखाना है। ">
-    <meta name="keywords" content="migraine symptoms, माइग्रेन, headache, migraine in Hindi, पक्षघात, माइग्रेन का इलाज, severe headache">
+    <meta name="keywords" content="migraine symptoms, माइग्रेन, headache, migraine in Hindi, अधकपारी, माइग्रेन का इलाज, severe headache">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/migraine-symptoms-in-hindi/">
 
@@ -228,7 +228,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>माइग्रेन</strong> एक गंभीर प्रकार का सिरदर्द है जो hours से लेकर days तक रह सकता है। यह सिर के एक तरफ होता है और साथ में light sensitivity, sound sensitivity और nausea जैसे लक्षण हो सकते हैं। भारत में करोड़ों लोग माइग्रेन से प्रभावित हैं।
+                    <strong>माइग्रेन</strong> एक गंभीर प्रकार का सिरदर्द है जो hours से लेकर days तक रह सकता है। यह अक्सर सिर के एक तरफ होता है (कभी-कभी दोनों तरफ भी) और साथ में light sensitivity, sound sensitivity और nausea जैसे लक्षण हो सकते हैं। भारत में करोड़ों लोग माइग्रेन से प्रभावित हैं।
                 </p>
 
                 <!-- Section 1 -->
@@ -286,7 +286,7 @@
                         <p class="text-sm text-gray-600">तेज़ आवाज़ सुनने में परेशानी। शांत जगह पसंद करना।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">5. Aura (प्रोड्रोमल लक्षण)</h4>
+                        <h4 class="font-bold text-secondary-600">5. Aura (ऑरा)</h4>
                         <p class="text-sm text-gray-600">चमकते spots, दृष्टि में परिवर्तन, हाथों में सुन्नपन, बोलने में कठिनाई।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -300,7 +300,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>तनाव और चिंता:</strong> सबसे आम trigger। mental <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> से दर्द शुरू हो सकता है।</li>
-                    <li><strong>खान-पान:</strong> चॉकलेट, पनीर, processed foods, caffeine, alcohol।</li>
+                    <li><strong>खान-पान:</strong> चॉकलेट, पुराना (aged) cheese, processed foods, caffeine, alcohol (triggers हर व्यक्ति में अलग होते हैं)।</li>
                     <li><strong>Hormonal changes:</strong> महिलाओं में <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> के दौरान या pregnancy में।</li>
                     <li><strong>नींद:</strong> कम नींद या ज्यादा नींद, irregular sleep patterns।</li>
                     <li><strong>मौसम:</strong> गर्मी, humidity, तेज़ रोशनी या बदलता मौसम।</li>
@@ -314,11 +314,11 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">दवाइयाँ (Acute Treatment)</h4>
-                        <p class="text-sm text-gray-600">Pain killers, Triptans (Sumatriptan, Rizatriptan), anti-nausea दवाइयाँ।</p>
+                        <p class="text-sm text-gray-600">डॉक्टर की सलाह से: Pain killers, Triptans (जैसे Sumatriptan, Rizatriptan), anti-nausea दवाइयाँ। Triptans दिल की बीमारी, अनियंत्रित BP या hemiplegic migraine में नहीं दी जातीं, इसलिए खुद से न लें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">दवाइयाँ (Preventive)</h4>
-                        <p class="text-sm text-gray-600">Beta-blockers, Antidepressants, Anti-epileptics जो दर्द की frequency कम करती हैं।</p>
+                        <p class="text-sm text-gray-600">Beta-blockers, Antidepressants, Anti-epileptics जो दर्द की frequency कम करती हैं (केवल doctor के prescription पर)।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">Lifestyle Changes</h4>
@@ -343,7 +343,7 @@
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> तुरंत डॉक्टर से मिलें अगर:</strong>
                     <ul class="list-disc list-inside space-y-1 text-gray-700 mt-2">
-                        <li>पहली बार सबसे तेज़ सिरदर्द हो जो पहले कभी नहीं हुआ</li>
+                        <li>अचानक, अब तक का सबसे तेज़ सिरदर्द हो (thunderclap) - तुरंत emergency में जाएं</li>
                         <li>दृष्टि में बदलाव, बोलने में कठिनाई, या शरीर में कमज़ोरी</li>
                         <li>गर्दन में अकड़न और बुखार के साथ सिरदर्द</li>
                         <li>दर्द हफ्तों से ज्यादा बार-बार हो रहा है</li>

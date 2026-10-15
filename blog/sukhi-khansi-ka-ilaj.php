@@ -411,7 +411,7 @@
                                     </div>
                                     <div class="bg-amber-50 p-3 rounded-lg">
                                         <h4 class="font-semibold text-amber-700 text-sm">Direct Honey</h4>
-                                        <p class="text-gray-600 text-xs">दिन में 3-4 बार एक चम्मच शहद चाटें</p>
+                                        <p class="text-gray-600 text-xs">दिन में 3-4 बार एक चम्मच शहद चाटें (1 साल से छोटे बच्चों को शहद बिल्कुल न दें; diabetes हो तो doctor से पूछें)</p>
                                     </div>
                                 </div>
                             </div>
@@ -498,7 +498,7 @@
                                 <div class="grid md:grid-cols-2 gap-3">
                                     <div class="bg-yellow-50 p-3 rounded-lg">
                                         <h4 class="font-semibold text-yellow-700 text-sm">Mulethi Powder</h4>
-                                        <p class="text-gray-600 text-xs">1/2 tsp powder + warm water</p>
+                                        <p class="text-gray-600 text-xs">1/2 tsp powder + warm water (BP, heart या kidney की बीमारी या pregnancy में doctor से पूछे बिना न लें)</p>
                                     </div>
                                     <div class="bg-yellow-50 p-3 rounded-lg">
                                         <h4 class="font-semibold text-yellow-700 text-sm">Mulethi Stick</h4>
@@ -627,9 +627,6 @@
                                 <h4 class="font-bold text-blue-700 mb-2">Cough Syrups</h4>
                                 <ul class="text-blue-600 text-sm space-y-1 list-disc list-inside">
                                     <li>Dextromethorphan</li>
-                                    <li>Benadryl Dry Cough</li>
-                                    <li>Ascoril D</li>
-                                    <li>Corex DX</li>
                                 </ul>
                                 <p class="text-gray-500 text-xs mt-2">Doctor's prescription जरूरी है</p>
                             </div>
@@ -641,7 +638,7 @@
                                     <li>Loratadine</li>
                                     <li>Diphenhydramine</li>
                                 </ul>
-                                <p class="text-gray-500 text-xs mt-2">Allergy cough के लिए</p>
+                                <p class="text-gray-500 text-xs mt-2">Allergy cough के लिए — doctor की सलाह से; इनसे नींद/सुस्ती आ सकती है, बच्चों को खुद से न दें</p>
                             </div>
                             <div class="bg-green-50 p-4 rounded-xl">
                                 <h4 class="font-bold text-green-700 mb-2">Natural Supplements</h4>
@@ -714,7 +711,7 @@
 
                         <div class="bg-gray-50 p-4 rounded-lg">
                             <h4 class="font-bold text-secondary-600 mb-2">Q: गर्भवती हो तो खांसी का इलाज कैसे करें?</h4>
-                            <p class="text-gray-700">A: <strong>खांसी का इलाज घरेलू</strong> तरीकों से करें - शहद, तुलसी, गर्म पानी। दवाइयाँ doctor की सलाह के बिना न लें।</p>
+                            <p class="text-gray-700">A: <strong>खांसी का इलाज घरेलू</strong> तरीकों में गर्म पानी, भाप और सीमित मात्रा में शहद मदद कर सकते हैं। Pregnancy में कोई भी जड़ी-बूटी (जैसे तुलसी, मुलेठी) या दवा doctor की सलाह के बिना न लें, और खांसी के साथ बुखार या सांस फूलना हो तो तुरंत doctor से मिलें।</p>
                         </div>
                     </div>
                 </section>

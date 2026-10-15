@@ -7,14 +7,14 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies &amp; Medical Treatments | RAJ Hospital Ranchi</title>
+    <title>How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies &amp; Medical Treatments | RAJ Hospital Ranchi</title>
     <meta name="description" content="How to cure a sinus headache fast — steam, saline rinse, hydration and commonly used home remedies, plus the medical treatments and warning signs doctors at RAJ Hospital Ranchi recommend you never ignore.">
     <meta name="keywords" content="how to cure a sinus headache, sinus headache remedies, sinus headache treatment, sinus headache relief, sinus pressure headache, home remedies for sinus headache, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/how-to-cure-a-sinus-headache/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
-    <meta property="og:title" content="How to Cure a Sinus Headache: Home Remedies &amp; Medical Treatments">
+    <meta property="og:title" content="How to Relieve a Sinus Headache: Home Remedies &amp; Medical Treatments">
     <meta property="og:description" content="Guide to relieving a sinus headache — home remedies, medical options and when to see a doctor.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/how-to-cure-a-sinus-headache/">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies & Medical Treatments",
+        "headline": "How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies & Medical Treatments",
         "description": "Guide to relieving a sinus headache with home remedies and medical treatment, plus warning signs.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>" }
+            { "@type": "ListItem", "position": 3, "name": "How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>" }
         ]
     }
     </script>
@@ -75,7 +75,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>",
+        "name": "How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>",
         "description": "Home remedies and medical treatments for sinus headaches, with guidance on when to see a doctor.",
         "url": "https://rajhospitals.com/blog/how-to-cure-a-sinus-headache/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -152,7 +152,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></span>
+            <span class="text-gray-700">How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></span>
         </nav>
     </div>
 
@@ -160,13 +160,13 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="/blog/assets/img/featured/how-to-cure-a-sinus-headache.png" alt="How to Cure a Sinus Headache - Home Remedies and Medical Treatments, RAJ Hospital Ranchi" class="w-full h-full object-contain" onerror="this.onerror=null;this.src='/blog/assets/img/Copy-of-Raj-Hospitals.jpg';">
+                <img src="/blog/assets/img/featured/how-to-cure-a-sinus-headache.png" alt="How to Relieve a Sinus Headache - Home Remedies and Medical Treatments, RAJ Hospital Ranchi" class="w-full h-full object-contain" onerror="this.onerror=null;this.src='/blog/assets/img/Copy-of-Raj-Hospitals.jpg';">
             </div>
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">ENT · <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies &amp; Medical Treatments</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies &amp; Medical Treatments</h1>
                 <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> July 31, 2026</span>
@@ -272,7 +272,7 @@
                     When home care isn't enough, doctors have effective, targeted options. At RAJ Hospital, treatment is matched to the true cause:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Pain relievers</strong> — paracetamol or NSAIDs (like ibuprofen) for short-term pain, used as directed.</li>
+                    <li><strong>Pain relievers</strong> — paracetamol or NSAIDs (like ibuprofen) for short-term pain, as advised by a doctor or pharmacist (NSAIDs may not suit people with stomach ulcers, kidney disease, asthma or pregnancy).</li>
                     <li><strong>Nasal corticosteroid sprays</strong> — reduce sinus lining inflammation; first-line for allergy-related and recurrent sinusitis.</li>
                     <li><strong>Antihistamines</strong> — helpful when allergies are driving the congestion.</li>
                     <li><strong>Antibiotics</strong> — only for confirmed <em>bacterial</em> sinusitis; most sinus infections are viral and don't need them.</li>
@@ -327,7 +327,7 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">How do I get rid of a sinus headache fast?</h3>
-                            <p class="text-gray-700">Inhale steam, do a saline nasal rinse, apply a warm compress, drink fluids and rest upright. A short course of an over-the-counter pain reliever or a decongestant (max 3 days for nasal sprays) can speed relief. If it's severe or lasting, get assessed at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>.</p>
+                            <p class="text-gray-700">Inhale steam, do a saline nasal rinse, apply a warm compress, drink fluids and rest upright. A short course of an over-the-counter pain reliever or a decongestant (max 3 days for nasal sprays), taken as advised by a doctor or pharmacist, can speed relief; check first if you are pregnant, have high blood pressure or heart disease, or for a child. If it's severe or lasting, get assessed at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Are antibiotics needed for a sinus headache?</h3>
@@ -339,7 +339,7 @@
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Is steam inhalation safe for sinus headaches?</h3>
-                            <p class="text-gray-700">Yes, for most adults, when done carefully. Keep a safe distance from the hot water to avoid burns, limit sessions to 5–10 minutes, and supervise children closely. If steam makes you feel worse, stop and try saline rinses and warm compresses instead.</p>
+                            <p class="text-gray-700">Yes, for most adults, when done carefully. Keep a safe distance from the hot water to avoid burns, limit sessions to 5–10 minutes, and do not use bowls of hot water for steam inhalation in young children because of the scald risk. If steam makes you feel worse, stop and try saline rinses and warm compresses instead.</p>
                         </div>
                     </div>
                 </section>

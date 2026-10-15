@@ -240,7 +240,7 @@
                 <h2 class="raj-h2"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> क्या है? (What is Acidity?)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Acidity</strong> तब होती है जब stomach में बहुत अधिक acid बनता है। यह acid food को digest करने में मदद करता है, लेकिन जब इसका quantity बढ़ जाता है, तो यह <strong>acid reflux</strong> और <strong>heartburn</strong> का कारण बनता है।
+                    <strong>Acidity</strong> अक्सर तब होती है जब पेट का acid ऊपर food pipe (esophagus) में वापस आता है या पेट की lining irritate होती है। यह acid food को digest करने में मदद करता है, लेकिन जब इसका quantity बढ़ जाता है, तो यह <strong>acid reflux</strong> और <strong>heartburn</strong> का कारण बनता है।
                 </p>
 
                 <p class="text-gray-700 mb-4">
@@ -355,11 +355,11 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>ठंडा दूध पिएं</strong> - दूध acid को neutralize करता है</li>
+                    <li><strong>ठंडा दूध पिएं</strong> - ठंडा दूध थोड़ी देर राहत दे सकता है, लेकिन बाद में acid फिर बढ़ सकता है</li>
                     <li><strong>अदरक की चाय</strong> - अदरक पाचन में मदद करता है</li>
-                    <li><strong>नींबू पानी</strong> - हल्का नींबू पानी acidity को कम कर सकता है</li>
+                    <li><strong>नींबू पानी</strong> - कुछ लोगों को आराम दे सकता है, लेकिन खट्टी चीज़ें कई लोगों में जलन बढ़ाती हैं — तकलीफ बढ़े तो न लें</li>
                     <li><strong>पपीते का सेवन</strong> - पपीते में digestive enzymes होते हैं</li>
-                    <li><strong>छोटी पत्तियों का चबाना</strong> - ताजा पुदीना acid को कम करता है</li>
+                    <li><strong>रात का खाना जल्दी खाएं</strong> - सोने से 2-3 घंटे पहले खाना खा लें (पुदीना कुछ लोगों में heartburn बढ़ा सकता है)</li>
                     <li><strong>सोने से पहले head ऊपर रखें</strong> - acid reflux prevent करता है</li>
                 </ul>
 
@@ -370,7 +370,7 @@
                     <ul class="space-y-2 text-gray-700">
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>छोटे-छोटे भोजन करें</strong> - बड़े meals की जगह 5-6 छोटे भोजन करें</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Spicy और oily food कम करें</strong></li>
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>धूप में न जाएं</strong> - खाना खाने के बाद immediately न लेटें</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>खाने के बाद तुरंत न लेटें</strong> - खाना खाने के बाद immediately न लेटें</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>पर्याप्त पानी पिएं</strong> - daily 8-10 glasses</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular exercise करें</strong> - हल्की walking भी helpful है</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Weight maintain करें</strong> - obesity acidity बढ़ा सकती है</li>

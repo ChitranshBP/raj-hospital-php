@@ -445,7 +445,7 @@
                     <li><strong>Maintain healthy weight</strong> - Weight loss can reverse fatty liver disease</li>
                     <li><strong>Eat a balanced diet</strong> - Focus on vegetables, fruits, lean proteins, and whole grains</li>
                     <li><strong>Exercise regularly</strong> - At least 30 minutes of moderate activity daily</li>
-                    <li><strong>Avoid unnecessary medications</strong> - Especially acetaminophen (Tylenol) if liver is compromised</li>
+                    <li><strong>Avoid unnecessary medications</strong> - Take any painkiller, including paracetamol, only in the dose your doctor advises if your liver is affected</li>
                 </ul>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Medical Treatment</h3>
@@ -474,7 +474,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-xl font-bold text-secondary-600 mb-2">Annual Testing</div>
-                        <p class="text-sm text-gray-600">Recommended for individuals over 40, those with family history of liver disease, or anyone with metabolic risk factors.</p>
+                        <p class="text-sm text-gray-600">May be advised by your doctor if you have metabolic risk factors (diabetes, obesity, high cholesterol), regular alcohol use or a family history of liver disease.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-xl font-bold text-secondary-600 mb-2">Every 3-6 Months</div>

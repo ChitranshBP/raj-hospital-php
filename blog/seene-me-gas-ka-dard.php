@@ -307,7 +307,7 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Sharp pain</strong> - Seene में अचानक तेज दर्द</li>
+                    <li><strong>Sharp pain</strong> - पेट या सीने के निचले हिस्से में चुभने जैसा दर्द (अचानक तेज सीने का दर्द emergency हो सकता है)</li>
                     <li><strong>Bloating</strong> - पेट में फैलाव aur भारीपन</li>
                     <li><strong>Burping</strong> - बार-बार डकार आना</li>
                     <li><strong>Flatulence</strong> - बहुत ज्यादा gas pass होना</li>
@@ -319,7 +319,7 @@
                 <h2 class="raj-h2">Kab Doctor Ke Paas Jaina Chahiye?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Usually gas pain home treatment से ठीक हो जाती है, लेकिन कुछ symptoms serious हो सकती हैं:
+                    Usually gas pain home treatment से ठीक हो जाती है, लेकिन seene ke dard ko sirf gas maan lena risky hai। Chest pain ke saath pasina, saans phoolna, haath/jabde/peeth tak dard, ghabrahat ya chakkar ho to turant emergency care lein। Ye symptoms bhi serious ho sakte hain:
                 </p>
 
                 <div class="raj-callout raj-callout-danger">
@@ -340,11 +340,11 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Antacids</h4>
-                        <p class="text-sm text-gray-600">Acid reflux aur gas ke liye - Tums, Rolaids</p>
+                        <p class="text-sm text-gray-600">Acid reflux aur gas ke liye - doctor ya pharmacist ki salah se</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Simethicone</h4>
-                        <p class="text-sm text-gray-600">Gas bubbles को break करता है - Gas-X, Mylicon</p>
+                        <p class="text-sm text-gray-600">Gas bubbles को break करता है - doctor ya pharmacist ki salah se</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Probiotics</h4>
@@ -415,7 +415,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya gas pain heart attack जैसी feel करती hai?</h4>
-                        <p class="text-gray-700">Haan, कभी-कभी gas pain chest में heart attack जैसी महसूस हो सकती है। Difference के लिए: gas pain usually sharp aur localized hota hai, burping ya position change se relief मिलती है। Heart pain spreading aur associated symptoms के साथ होता है।</p>
+                        <p class="text-gray-700">Haan, कभी-कभी gas pain chest में heart attack जैसी महसूस हो सकती है। Difference के लिए: Gas aur heart ke dard ko ghar par pakka alag pehchanna mumkin nahi hai. Heart attack ka dard bina faile bhi ho sakta hai, khaas kar diabetes, mahilaon aur buzurgon mein. Seene mein naya, tez ya pasine/saans phoolne ke saath dard ho to gas maankar intezaar na karein — turant 108/emergency care lein aur ECG karwayein।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya stress gas problem बढ़ाती hai?</h4>

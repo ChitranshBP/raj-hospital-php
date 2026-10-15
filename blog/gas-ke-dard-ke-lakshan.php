@@ -54,7 +54,7 @@
                 "name": "Gas का दर्द दिल की बीमारी से कैसे अलग है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Gas का दर्द आमतौर पर खाने के बाद या lying down के बाद बढ़ता है, जबकि दिल की बीमारी में दर्द exercise के साथ बढ़ता है और सांस लेने में दिक्कत, पसीना आना जैसे लक्षण भी होते हैं। अगर दर्द तेज हो और दिल की बीमारी का संदेह हो तो तुरंत doctor से मिलें।"
+                    "text": "Gas और दिल के दर्द में फर्क करना मुश्किल हो सकता है — heart attack आराम करते समय या खाने के बाद भी हो सकता है, खासकर जब सीने में दबाव हो और सांस लेने में दिक्कत, पसीना आना जैसे लक्षण भी होते हैं। अगर दर्द तेज हो और दिल की बीमारी का संदेह हो तो तुरंत doctor से मिलें।"
                 }
             },
             {
@@ -459,7 +459,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">1. Ajwain (Carom Seeds)</h4>
-                        <p class="text-sm text-gray-600">एक चम्मच ajwain को warm water के साथ लें। यह gas को quickly relieve करता है।</p>
+                        <p class="text-sm text-gray-600">थोड़ी ajwain warm water के साथ लेने से कुछ लोगों को आराम मिल सकता है।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">2. Jeera Water</h4>
@@ -579,7 +579,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Gas का दर्द दिल की बीमारी से कैसे अलग है?</h4>
-                        <p class="text-gray-700">Gas का दर्द आमतौर पर खाने के बाद या lying down के बाद बढ़ता है, जबकि दिल की बीमारी में दर्द exercise के साथ बढ़ता है और सांस लेने में दिक्कत, पसीना आना जैसे लक्षण भी होते हैं। अगर दर्द तेज हो और दिल की बीमारी का संदेह हो तो तुरंत <a href="/contact.php" class="text-primary-600 underline">doctor से मिलें</a>।</p>
+                        <p class="text-gray-700">Gas और दिल के दर्द में फर्क करना मुश्किल हो सकता है — heart attack आराम करते समय या खाने के बाद भी हो सकता है, खासकर जब सीने में दबाव हो और सांस लेने में दिक्कत, पसीना आना जैसे लक्षण भी होते हैं। अगर दर्द तेज हो और दिल की बीमारी का संदेह हो तो तुरंत <a href="/contact.php" class="text-primary-600 underline">doctor से मिलें</a>।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Pet की Gas से कैसे छुटकारा पाएं?</h4>

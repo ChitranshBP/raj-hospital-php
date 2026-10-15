@@ -278,7 +278,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-green-600 pb-2 mt-8 mb-4">ग्रीन टी क्या है? (What is Green Tea?)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Green Tea (ग्रीन टी)</strong> <em>Camellia sinensis</em> पौधे की पत्तियों से बनती है। इसे बनाने की process black tea से अलग है - ग्रीन टी में leaves को minimal processing दी जाती है जिससे इसके natural antioxidants और nutrients erhalten bleiben।
+                    <strong>Green Tea (ग्रीन टी)</strong> <em>Camellia sinensis</em> पौधे की पत्तियों से बनती है। इसे बनाने की process black tea से अलग है - ग्रीन टी में leaves को minimal processing दी जाती है जिससे इसके natural antioxidants और nutrients संरक्षित रहते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-4">
@@ -319,13 +319,13 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> prevention</a> में भी ग्रीन टी के antioxidants महत्वपूर्ण भूमिका निभाते हैं। <a href="/neuropathy-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Neurological conditions</a> के treatment में भी nutrition एक crucial role play करता है।
+                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> prevention</a> में ग्रीन टी की भूमिका साबित नहीं है; BP, sugar और cholesterol control ज़्यादा ज़रूरी हैं। <a href="/neuropathy-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Neurological conditions</a> के treatment में भी nutrition एक crucial role play करता है।
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Memory Improvement:</strong> L-theanine और caffeine का combination memory और reaction time को improve करता है</li>
                     <li><strong>Alertness:</strong> Caffeine brain waves को stimulate करके mental alertness बढ़ाता है</li>
-                    <li><strong>Parkinson's & Alzheimer's Prevention:</strong> EGCG इन diseases के risk को reduce कर सकता है</li>
+                    <li><strong>Parkinson's & Alzheimer's (शोध जारी):</strong> EGCG इन diseases के risk को reduce कर सकता है</li>
                     <li><strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> Reduction:</strong> L-theanine <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> को कम करके calm feeling देता है</li>
                 </ul>
 
@@ -348,7 +348,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">2. <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Regulation</h4>
-                        <p class="text-sm text-gray-600">Grape seed extract और catechins blood vessels को relax करने में मदद करते हैं, जिससे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> normal रहती है।</p>
+                        <p class="text-sm text-gray-600">Catechins blood vessels को relax करने में थोड़ी मदद कर सकते हैं, जिससे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> normal रहती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">3. Anti-inflammatory Effects</h4>
@@ -380,7 +380,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">Diabetes Control</h4>
-                        <p class="text-sm text-gray-600">Insulin sensitivity improve करती है और blood sugar levels regulate करती है। Type 2 diabetes management में helpful है।</p>
+                        <p class="text-sm text-gray-600">कुछ studies में blood sugar पर हल्का असर देखा गया है, लेकिन यह diabetes की दवा या डॉक्टर की सलाह का विकल्प नहीं है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">Anti-Aging</h4>
@@ -448,7 +448,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-500">
                         <h4 class="font-bold text-red-600">Iron Absorption</h4>
-                        <p class="text-sm text-gray-600">Grape tea tannins iron absorption को interfere कर सकते हैं। Anemia के patients को meals के साथ नहीं पीनी चाहिए।</p>
+                        <p class="text-sm text-gray-600">Green tea के tannins/catechins iron absorption को कम कर सकते हैं। Anemia के patients को meals के साथ नहीं पीनी चाहिए।</p>
                     </div>
                 </div>
 
@@ -492,7 +492,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">ग्रीन टी और black tea में क्या अंतर है?</h4>
-                        <p class="text-gray-700">Green tea minimally processed होता है और इसमें ज्यादा antioxidants erhalten bleiben। Black tea fermented होता है और इसमें caffeine अधिक होती है। Green tea में EGCG जैसे powerful catechins अधिक होते हैं जो black tea में oxidation process में खो जाते हैं।</p>
+                        <p class="text-gray-700">Green tea minimally processed होता है और इसमें ज्यादा antioxidants संरक्षित रहते हैं। Black tea fermented होता है और इसमें caffeine अधिक होती है। Green tea में EGCG जैसे powerful catechins अधिक होते हैं जो black tea में oxidation process में खो जाते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">क्या ग्रीन टी weight loss में मदद करती है?</h4>
@@ -508,7 +508,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">क्या ग्रीन टी heart के लिए फायदेमंद है?</h4>
-                        <p class="text-gray-700">हां, regular ग्रीन टी consumption LDL cholesterol को reduce करता है, blood pressure को regulate करता है, और heart disease का risk कम करता है। इसके antioxidants inflammation भी कम करते हैं। <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline">Heart और stroke prevention</a> में यह helpful है।</p>
+                        <p class="text-gray-700">Regular ग्रीन टी, संतुलित आहार के साथ, LDL cholesterol पर हल्का असर डाल सकती है, लेकिन यह BP या heart disease के इलाज का विकल्प नहीं है। इसके antioxidants inflammation भी कम करते हैं। <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline">Heart और stroke prevention</a> में यह helpful है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

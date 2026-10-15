@@ -72,7 +72,7 @@
           "name": "What is the fastest way to relieve acute sciatica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Acute sciatica requires immediate rest followed closely by specific clinical physiotherapy and targeted epidural steroid injections for massive inflammation control."
+            "text": "Most acute sciatica improves by staying gently active, with pain relief advised by your doctor and physiotherapy. Prolonged bed rest is not recommended. Epidural steroid injections are considered only for severe or persistent leg pain after specialist evaluation."
           }
         },
         {
@@ -241,7 +241,7 @@
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Epidural Steroid Injections</h4>
-                                <p class="text-gray-600">Direct anti-inflammatory medication injected around the spinal nerve for immediate pain relief.</p>
+                                <p class="text-gray-600">Anti-inflammatory (steroid) medication injected near the irritated spinal nerve; it may give short-term relief in selected patients with persistent leg pain.</p>
                             </div>
 
                         </div>
@@ -325,7 +325,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Acute sciatica requires immediate rest followed closely by specific clinical physiotherapy and targeted epidural steroid injections for massive inflammation control.</p>
+                                <p>Most acute sciatica improves by staying gently active, with pain relief advised by your doctor and physiotherapy. Prolonged bed rest is not recommended. Epidural steroid injections are considered only for severe or persistent leg pain after specialist evaluation.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">

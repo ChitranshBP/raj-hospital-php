@@ -207,7 +207,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    A pattern we see constantly in the surgical outpatient department: a patient in their forties describes six years of pain after heavy meals. They have stopped eating mutton. They have given up ghee, fried snacks and anything at a wedding. They carry a folder with three ultrasound reports, each showing the same gallstones, and they say some version of the same sentence &mdash; <em>"I am managing it with diet, doctor."</em> Then we explain that the operation they have been avoiding for six years involves three small cuts, one night in hospital, and a return to desk work in about a week. 
+                    Many people with gallstone pain try to manage it with diet alone for years. They have stopped eating mutton. They have given up ghee, fried snacks and anything at a wedding. They carry a folder with three ultrasound reports, each showing the same gallstones, and they say some version of the same sentence &mdash; <em>"I am managing it with diet, doctor."</em> Then we explain that the operation they have been avoiding for six years involves three small cuts, one night in hospital, and a return to desk work in about a week. 
                 </p>
 
                 <div class="raj-callout raj-callout-info">

@@ -267,13 +267,13 @@
                 <h2 class="raj-h2-secondary">पुरुषों में विशेष Thyroid Symptoms</h2>
 
                 <p class="text-gray-700 mb-4">
-                    पुरुषों में thyroid disorders कुछ specific symptoms भी produce करते हैं जो women में नहीं होते:
+                    पुरुषों में thyroid disorders कुछ ऐसे symptoms भी दे सकते हैं जिन पर अक्सर ध्यान नहीं जाता:
                 </p>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Sexual Dysfunction</h4>
-                        <p class="text-sm text-gray-600">Low thyroid से testosterone production affected होता है। Result: <strong>low libido (sex drive में कमी), erectile dysfunction, और premature ejaculation</strong>। यह often overlooked होता है लेकिन significant quality of life को affect करता है।</p>
+                        <p class="text-sm text-gray-600">Low thyroid से testosterone production affected होता है। Result: <strong>low libido (sex drive में कमी), erectile dysfunction और delayed ejaculation (hyperthyroidism में premature ejaculation ज़्यादा देखा जाता है)</strong>। यह often overlooked होता है लेकिन significant quality of life को affect करता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Muscle Weakness</h4>
@@ -318,7 +318,7 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Hypothyroidism Treatment:</h3>
                 <div class="bg-blue-50 p-4 rounded-lg mb-6">
-                    <p class="text-gray-700 mb-2"><strong>Levothyroxine (Synthroid)</strong> - यह synthetic thyroid hormone है जो missing hormones की replace करता है।</p>
+                    <p class="text-gray-700 mb-2"><strong>Levothyroxine</strong> - यह synthetic thyroid hormone है जो missing hormones की replace करता है।</p>
                     <ul class="text-gray-700 space-y-1">
                         <li>Daily morning medication (empty stomach)</li>
                         <li>Lifetime treatment usually</li>
@@ -331,7 +331,7 @@
                 <div class="bg-orange-50 p-4 rounded-lg mb-6">
                     <ul class="text-gray-700 space-y-2">
                         <li><strong>Antithyroid Medications:</strong> Methimazole (MMI), Propylthiouracil (PTU) - thyroid hormone production reduce करते हैं।</li>
-                        <li><strong>Radioactive Iodine Ablation:</strong> I-131 radioactive iodine thyroid को shrink करता है। Often definitive cure। Side effect: hypothyroidism eventually।</li>
+                        <li><strong>Radioactive Iodine Ablation:</strong> I-131 radioactive iodine thyroid को shrink करता है। अक्सर definitive treatment, लेकिन बाद में ज़्यादातर मरीज़ों में hypothyroidism हो जाता है, जिसके लिए lifelong levothyroxine लेनी पड़ती है।</li>
                         <li><strong>Thyroid Surgery:</strong> Partial या complete thyroid removal। Cancer cases में जरूरी।</li>
                         <li><strong>Beta Blockers:</strong> Symptoms (rapid heartbeat, tremor) manage करने के लिए।</li>
                     </ul>
@@ -354,10 +354,9 @@
                         <h4 class="font-bold text-primary-600 mb-2">Foods to Include</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Iodized salt</li>
-                            <li>Seafood (fish, seaweed)</li>
+                            <li>Seafood (fish) — hyperthyroidism में iodine-rich foods (जैसे seaweed) और iodine/selenium supplements doctor की सलाह के बिना न लें</li>
                             <li>Eggs</li>
                             <li>Dairy products</li>
-                            <li>Brazil nuts (selenium)</li>
                         </ul>
                     </div>
                 </div>

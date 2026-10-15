@@ -76,7 +76,7 @@
           "name": "Can MND be definitively cured?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Currently, there is no known cure for MND. Our primary medical focus at Raj Hospital is dramatically slowing disease progression and smartly managing side-symptoms to keep patients comfortable."
+            "text": "Currently, there is no known cure for MND. Care at Raj Hospital focuses on managing symptoms, supporting breathing, nutrition and mobility, and using medicines that may modestly slow progression, to keep patients as comfortable and independent as possible."
           }
         },
         {
@@ -84,7 +84,7 @@
           "name": "Are cognitive abilities lost during MND?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In most MND cases, cognitive function remains completely sharp. The profound degeneration is typically isolated specifically within motor movement muscles."
+            "text": "Many people with MND keep their thinking abilities, but up to about half develop some changes in thinking or behaviour, and a smaller number develop frontotemporal dementia. The disease mainly affects the motor nerve cells that control the muscles."
           }
         },
         {
@@ -254,7 +254,7 @@
                         <div class="grid sm:grid-cols-2 gap-6">
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Disease-Modifying Medications</h4>
-                                <p class="text-gray-600">Drugs like Riluzole that clinically slow the progression of symptoms and extend life expectancy.</p>
+                                <p class="text-gray-600">Medicines such as riluzole may modestly slow progression and prolong survival by a few months on average; your neurologist will discuss benefits and side effects.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Respiratory Therapy</h4>
@@ -346,7 +346,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Currently, there is no known cure for MND. Our primary medical focus at Raj Hospital is dramatically slowing disease progression and smartly managing side-symptoms to keep patients comfortable.</p>
+                                <p>Currently, there is no known cure for MND. Care at Raj Hospital focuses on managing symptoms, supporting breathing, nutrition and mobility, and using medicines that may modestly slow progression, to keep patients as comfortable and independent as possible.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -355,7 +355,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>In most MND cases, cognitive function remains completely sharp. The profound degeneration is typically isolated specifically within motor movement muscles.</p>
+                                <p>Many people with MND keep their thinking abilities, but up to about half develop some changes in thinking or behaviour, and a smaller number develop frontotemporal dementia. The disease mainly affects the motor nerve cells that control the muscles.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">

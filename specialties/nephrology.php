@@ -268,7 +268,7 @@ Dialysis Centre in Jharkhand
                             Services at Raj Hospitals provides evaluation,
                             diagnosis, and comprehensive treatment for hypertension, kidney disease, dialysis, and renal
                             disorders. Our nephrology experts serve adults and children, offering diagnostic,
-                            management, operative services, and chronic dialysis therapy for acute kidney failure.
+                            management, operative services, and dialysis for acute and chronic kidney failure.
                             Dedicated to prevention and early diagnosis, we deliver personalized, compassionate care for
                             every kidney-related condition.</p>
 

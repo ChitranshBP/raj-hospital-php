@@ -491,7 +491,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Exercise के दौरान pulse rate कितनी होनी चाहिए?</h4>
-                        <p class="text-gray-700">Exercise के दौरान <strong>maximum heart rate</strong> = 220 - आपकी उम्र। मतलब 40 साल के व्यक्ति की maximum heart rate 180 BPM होगी।</p>
+                        <p class="text-gray-700">Exercise के दौरान <strong>maximum heart rate</strong> = लगभग 220 - आपकी उम्र (यह सिर्फ अनुमान है)। मतलब 40 साल के व्यक्ति की estimated maximum heart rate लगभग 180 BPM होगी; सामान्य exercise में target आमतौर पर इसका 50-85% रखा जाता है। Heart disease हो या BP/heart की दवा ले रहे हों तो doctor से अपना target पूछें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">रात को सोते समय pulse rate कम होना normal है?</h4>

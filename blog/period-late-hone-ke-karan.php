@@ -284,7 +284,7 @@
                     <div class="bg-white rounded-2xl shadow-lg p-6 mb-6 border-l-4 border-purple-500">
                         <h3 class="text-xl font-bold text-gray-800 mb-3">2. PCOS/PCOD (Polycystic Ovary Syndrome)</h3>
                         <p class="text-gray-700 mb-3">
-                            <strong>Periods delay reasons in Hindi</strong> में PCOS सबसे major कारण है। भारत में 1 में से 5 women को PCOS की problem होती है।
+                            <strong>Periods delay reasons in Hindi</strong> में PCOS एक आम कारण है। भारत में बड़ी संख्या में women को PCOS की problem होती है।
                         </p>
                         <div class="grid md:grid-cols-2 gap-4">
                             <div>
@@ -313,7 +313,7 @@
                     <div class="bg-white rounded-2xl shadow-lg p-6 mb-6 border-l-4 border-blue-500">
                         <h3 class="text-xl font-bold text-gray-800 mb-3">3. Stress और Anxiety (तनाव)</h3>
                         <p class="text-gray-700 mb-3">
-                            <strong>Period kyu late hota hai</strong> इसका सबसे common reason stress है। Modern lifestyle में stress एक major factor है।
+                            <strong>Period kyu late hota hai</strong> इसका एक common reason stress है। Modern lifestyle में stress एक major factor है।
                         </p>
                         <ul class="list-disc list-inside text-gray-600 space-y-1">
                             <li>Work pressure या exam stress</li>
@@ -447,7 +447,6 @@
                             <ul class="list-disc list-inside text-gray-600 space-y-2">
                                 <li><strong>Alcohol:</strong> Liver function प्रभावित</li>
                                 <li><strong>Jet Lag:</strong> Body clock disturbed</li>
-                                <li><strong>Climate Change:</strong> Extreme weather effects</li>
                                 <li><strong>Infection:</strong> Pelvic infections</li>
                             </ul>
                         </div>
@@ -503,7 +502,7 @@
                             <li>Heavy bleeding हो रही है</li>
                             <li>Severe pain के साथ periods</li>
                             <li>Fever और अत्यधिक pain</li>
-                            <li>Pregnancy test positive है</li>
+                            <li>Pregnancy test positive होने के साथ पेट में तेज़ दर्द, bleeding या चक्कर/बेहोशी (ectopic pregnancy का संकेत हो सकता है)</li>
                         </ul>
                     </div>
 
@@ -549,7 +548,7 @@
                                     <span class="text-2xl"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></span>
                                     <div>
                                         <strong>Ginger Tea</strong>
-                                        <p class="text-gray-600 text-sm">Periods को regular करने में मदद करता है</p>
+                                        <p class="text-gray-600 text-sm">पेट की ऐंठन या bloating में कुछ आराम दे सकती है; periods regular करने का प्रमाण सीमित है</p>
                                     </div>
                                 </li>
                                 <li class="flex items-start gap-3">
@@ -563,7 +562,7 @@
                                     <span class="text-2xl"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></span>
                                     <div>
                                         <strong>Papaya</strong>
-                                        <p class="text-gray-600 text-sm">Uterus contraction stimulate करता है</p>
+                                        <p class="text-gray-600 text-sm">Periods लाने के लिए papaya या कोई घरेलू नुस्खा न अपनाएं - pregnancy की संभावना हो तो पहले pregnancy test करें</p>
                                     </div>
                                 </li>
                                 <li class="flex items-start gap-3">
@@ -632,7 +631,7 @@
                                 <h3 class="text-lg font-bold text-green-700 mb-3"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> Diet Tips</h3>
                                 <ul class="list-disc list-inside text-green-700 space-y-2">
                                     <li>Iron-rich food खाएं (spinach, lentils)</li>
-                                    <li>Vitamin B complex लें</li>
+                                    <li>Vitamin B से भरपूर भोजन लें (supplement केवल डॉक्टर की सलाह से)</li>
                                     <li>Omega-3 fatty acids include करें</li>
                                     <li>Junk food कम करें</li>
                                     <li>Water intake बढ़ाएं</li>

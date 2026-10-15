@@ -265,7 +265,7 @@
                     <strong>Pet ke right side me dard hona</strong> सबसे अधिक <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> problem</strong> और <strong>gastritis</strong> की वजह से होता है। जब पेट में अधिक acid बनता है या <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> trapped हो जाता है, तो दर्द right side में महसूस हो सकता है। <strong>Spicy food</strong>, <strong>irregular eating habits</strong>, और <strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a></strong> इस problem को बढ़ाते हैं।
                 </p>
 
-                <h3 class="text-xl font-semibold text-gray-800 mb-3">2. Appendicitis - आंतों की सूजन</h3>
+                <h3 class="text-xl font-semibold text-gray-800 mb-3">2. Appendicitis - अपेंडिक्स की सूजन</h3>
                 <p class="text-gray-600 mb-4">
                     <strong>Nabhi ke right side mein dard hona</strong> appendicitis का संकेत हो सकता है। Appendix का inflammation तेज दर्द देता है जो बढ़ता जाता है। इसमें <strong>fever</strong>, <strong>nausea</strong>, और <strong>appetite loss</strong> भी होता है। यह एक <strong>medical emergency</strong> है और तुरंत treatment जरूरी है।
                 </p>
@@ -396,7 +396,7 @@
 
                 <div class="space-y-4">
                     <div class="bg-white border rounded-xl p-6 shadow-sm">
-                        <h3 class="font-semibold text-gray-800 mb-2">1. Medications</h3>
+                        <h3 class="font-semibold text-gray-800 mb-2">1. Medications (केवल डॉक्टर की सलाह से)</h3>
                         <p class="text-gray-600 text-sm">
                             <strong>Antacids</strong> - acidity aur gas के लिए<br>
                             <strong>Antibiotics</strong> - infection के लिए<br>
@@ -432,7 +432,7 @@
                     पेट के राइट साइड में दर्द के घरेलू उपाय - Gharelu Upay
                 </h2>
                 <p class="text-gray-600 mb-4">
-                    <strong>Pet ke right side me dard hona</strong> के लिए कई effective <strong>gharelu upay</strong> हैं जो mild cases में helpful हैं:
+                    <strong>Pet ke right side me dard hona</strong> के लिए कई effective <strong>gharelu upay</strong> हैं जो डॉक्टर से गंभीर कारण (जैसे appendicitis, पथरी, ectopic pregnancy) rule out होने के बाद हल्की gas/अपच में helpful हो सकते हैं:
                 </p>
 
                 <div class="grid md:grid-cols-2 gap-4">
@@ -472,7 +472,7 @@
                     </div>
 
                     <div class="bg-green-50 p-4 rounded-xl">
-                        <h3 class="font-semibold text-gray-800 mb-2">6. Warm Compress - गर्म सिकाई</h3>
+                        <h3 class="font-semibold text-gray-800 mb-2">6. Warm Compress - गर्म सिकाई (केवल हल्के gas/muscle दर्द में; बुखार, उल्टी या बढ़ते दर्द में न करें)</h3>
                         <p class="text-gray-600 text-sm">
                             <strong>Pet ke right side</strong> पर <strong>warm compress</strong> करने से <strong>muscle relaxation</strong> होता है और <strong>pain</strong> कम होता है। <strong>Heating pad</strong> ya <strong>warm towel</strong> use करें।
                         </p>

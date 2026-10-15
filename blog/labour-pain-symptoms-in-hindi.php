@@ -232,7 +232,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">Stage 3: Placental Delivery</h4>
-                        <p class="text-sm text-gray-600">Placenta (आंत) निकलने की प्रक्रिया। यह 5-30 minutes में हो जाती है। generally कम painful होती है।</p>
+                        <p class="text-sm text-gray-600">Placenta (आँवल/अपरा) निकलने की प्रक्रिया। यह 5-30 minutes में हो जाती है। generally कम painful होती है।</p>
                     </div>
                 </div>
 
@@ -280,7 +280,7 @@
                     <ul class="text-gray-700 space-y-2">
                         <li><strong>1. Contractions (संकुचन)</strong> - Uterus की tightening जो regular intervals पर होती है। दर्द wave-like होता है - शुरू होता है, peak होता है, और कम होता है।</li>
                         <li><strong>2. Lower Back Pain (कमर दर्द)</strong> - कई women को contraction के साथ lower back में तेज दर्द होता है। यह "back labour" कहलाता है।</li>
-                        <li><strong>3. Bloody Show (रक्तस्त्राव)</strong> - Mucous plug का निकलना जो cervix को seal किए रखता था। गुलाबी या brownish discharge दिख सकता है।</li>
+                        <li><strong>3. Bloody Show (खून मिला हल्का mucus discharge)</strong> - Mucous plug का निकलना जो cervix को seal किए रखता था। गुलाबी या brownish discharge दिख सकता है।</li>
                         <li><strong>4. Amniotic Fluid का टूटना (Water Breaking)</strong> - membranes का टूटना। यह एक sudden gush या continuous leaking के रूप में हो सकता है।</li>
                         <li><strong>5. Feeling of Pressure</strong> - Baby pelvis में नीचे आने का sensation। आपको bathroom जाने का urge बढ़ सकता है।</li>
                     </ul>
@@ -316,7 +316,7 @@
                     <h4 class="font-bold text-red-700 mb-2">Emergency Signs - तुरंत Hospital जाएं:</h4>
                     <ul class="text-gray-700 space-y-1">
                         <li><strong>5-1-1 Rule:</strong> contractions हर 5 मिनट में, 1 minute के लिए, 1 hour से ज्यादा</li>
-                        <li>Amniotic fluid का टूटना (भले ही contractions न हों)</li>
+                        <li>Amniotic fluid का टूटना (भले ही contractions न हों); 37 हफ्ते से पहले contractions, पानी का रिसाव या लगातार कमर/पेट दर्द हो तो भी तुरंत hospital जाएं</li>
                         <li>Heavy vaginal bleeding</li>
                         <li>बच्चे की movement में कमी</li>
                         <li>Blurred vision, severe <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>, या sudden swelling</li>

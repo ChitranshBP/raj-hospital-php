@@ -36,7 +36,7 @@
         },
         {
           "@type": "MedicalProcedure",
-          "name": "Memantine (Namenda)"
+          "name": "Memantine"
         },
         {
           "@type": "MedicalProcedure",
@@ -265,8 +265,8 @@
                                 <p class="text-gray-600">Medications that boost cell-to-cell communication by preserving an essential chemical messenger.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
-                                <h4 class="text-xl font-bold text-primary-600 mb-3">Memantine (Namenda)</h4>
-                                <p class="text-gray-600">Works within another brain cell communication network to slow symptom progression.</p>
+                                <h4 class="text-xl font-bold text-primary-600 mb-3">Memantine</h4>
+                                <p class="text-gray-600">Acts on a different brain chemical (glutamate) and may modestly help memory and daily function in moderate to severe Alzheimer's; it does not stop the disease.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Cognitive Stimulation Therapy</h4>

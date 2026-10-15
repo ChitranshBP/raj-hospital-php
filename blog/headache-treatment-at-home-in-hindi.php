@@ -194,7 +194,7 @@
                 <div class="raj-grid">
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="droplet" class="raj-icon raj-icon-md raj-icon-secondary"></i> 1. पानी पिएं</h3>
-                        <p class="raj-card-body">पानी की कमी सिरदर्द का सबसे आम कारण है। दर्द शुरू होते ही 1-2 गिलास पानी पिएं — dehydration का सिरदर्द अक्सर 30-60 मिनट में कम हो जाता है।</p>
+                        <p class="raj-card-body">पानी की कमी सिरदर्द का एक आम कारण है। दर्द शुरू होते ही 1-2 गिलास पानी पिएं — dehydration का सिरदर्द अक्सर 30-60 मिनट में कम हो जाता है।</p>
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="moon" class="raj-icon raj-icon-md raj-icon-secondary"></i> 2. अंधेरे, शांत कमरे में आराम</h3>

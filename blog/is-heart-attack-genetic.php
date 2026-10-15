@@ -96,7 +96,7 @@
                 "name": "Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> genetic?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart attack itself is not inherited as a single gene, but the risk of having one is strongly influenced by genetics. Having a first-degree relative (parent, sibling) who had a heart attack before age 55 (men) or 65 (women) raises your own risk by 2-7 times. Some specific inherited conditions — familial hypercholesterolemia, elevated Lp(a), Long QT syndrome, hypertrophic cardiomyopathy — are directly genetic and can cause heart attacks in young adults."
+                    "text": "Heart attack itself is not inherited as a single gene, but the risk of having one is strongly influenced by genetics. Having a first-degree relative (parent, sibling) who had a heart attack before age 55 (men) or 65 (women) raises your own risk by 2-7 times. Some specific inherited conditions — familial hypercholesterolemia, elevated Lp(a), Long QT syndrome, hypertrophic cardiomyopathy — are directly genetic; FH and high Lp(a) raise early heart-attack risk, while Long QT and HCM mainly cause sudden cardiac arrest in young adults."
                 }
             },
             {
@@ -104,7 +104,7 @@
                 "name": "What is familial hypercholesterolemia?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Familial hypercholesterolemia (FH) is an inherited condition affecting 1 in 250 people. The LDL receptor, APOB or PCSK9 gene is faulty, leading to very high LDL cholesterol from birth. Untreated FH patients have a 20-fold higher risk of heart attack before age 40. The good news: FH is highly treatable with statins, ezetimibe and PCSK9 inhibitors available at RAJ Hospital Ranchi."
+                    "text": "Familial hypercholesterolemia (FH) is an inherited condition affecting 1 in 250 people. The LDL receptor, APOB or PCSK9 gene is faulty, leading to very high LDL cholesterol from birth. Untreated FH patients have a 20-fold higher risk of heart attack before age 40. The good news: FH is highly treatable with cholesterol-lowering medicines prescribed and monitored by a doctor."
                 }
             },
             {
@@ -175,7 +175,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-emerald-700">Quick Answer:</strong>
-                    <span class="text-gray-700"> <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a> is <strong>not directly inherited</strong>, but the risk is. A first-degree relative with premature <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> (&lt;55 in men, &lt;65 in women) raises your risk <strong>2–7 times</strong>. Specific inherited conditions — familial hypercholesterolemia (FH), elevated Lp(a), HCM, Long QT — are 100% genetic and can cause heart attacks in young adults. If heart disease runs in your family, <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">book a preventive cardiology consultation at RAJ Hospital</a> by age 30.</span>
+                    <span class="text-gray-700"> <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a> is <strong>not directly inherited</strong>, but the risk is. A first-degree relative with premature <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> (&lt;55 in men, &lt;65 in women) raises your risk <strong>2–7 times</strong>. Specific inherited conditions — familial hypercholesterolemia (FH), elevated Lp(a), HCM, Long QT — have a strong genetic basis; FH and high Lp(a) can cause early heart attacks, while HCM and Long QT mainly cause dangerous rhythm problems and sudden cardiac arrest in young adults. If heart disease runs in your family, <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">book a preventive cardiology consultation at RAJ Hospital</a> by age 30.</span>
                 </div>
 
                 <h2 class="raj-h2">The Numbers — How Strong Is the Genetic Link?</h2>
@@ -186,7 +186,7 @@
                     In practical terms at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's Family Heart Risk clinic</a>, a 35-year-old whose father had an MI at 47 and mother an MI at 52 carries roughly 4× the population risk. Adding a high Lp(a) increases it to 6×. Add smoking, and the risk doubles again.
                 </p>
 
-                <h2 class="raj-h2">Inherited Conditions That Directly Cause Heart Attacks</h2>
+                <h2 class="raj-h2">Inherited Conditions That Raise Heart Attack or Sudden Cardiac Arrest Risk</h2>
                 <p class="text-gray-700 mb-4">
                     A small but important group of patients carry single-gene mutations that cause heart attacks even with perfect lifestyle. The <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">cardiologists at RAJ Hospital</a> screen for these:
                 </p>
@@ -198,7 +198,7 @@
                     </div>
                     <div class="bg-white border-l-4 border-emerald-500 p-4 rounded-r-lg">
                         <h4 class="font-bold text-emerald-700"><i data-feather="circle" class="raj-icon raj-icon-sm"></i> 2. Elevated Lipoprotein(a) — Lp(a)</h4>
-                        <p class="text-sm text-gray-700 mt-1">Affects 20% of the population. LPA gene variants cause high Lp(a), which doubles heart attack risk independent of LDL. Should be measured once in every adult's life. No specific therapy yet, but very close — pelacarsen, an antisense drug in Phase-3 trials, will be available in India soon.</p>
+                        <p class="text-sm text-gray-700 mt-1">Affects 20% of the population. LPA gene variants cause high Lp(a), which doubles heart attack risk independent of LDL. Should be measured once in every adult's life. No specific therapy yet, but very close — several Lp(a)-lowering drugs are being tested in clinical trials, but none is yet approved for routine use.</p>
                     </div>
                     <div class="bg-white border-l-4 border-emerald-500 p-4 rounded-r-lg">
                         <h4 class="font-bold text-emerald-700"><i data-feather="circle" class="raj-icon raj-icon-sm"></i> 3. Hypertrophic Cardiomyopathy (HCM)</h4>
@@ -220,7 +220,7 @@
                     <li>Tendon xanthomas, corneal arcus before age 45, or xanthelasma</li>
                     <li>Unexplained sudden cardiac death in a family member under 40</li>
                     <li>Personal history of heart attack before age 50 with normal traditional risk factors</li>
-                    <li>Recurrent pancreatitis or family history of high Lp(a)</li>
+                    <li>Family history of high Lp(a) (very high triglycerides or recurrent pancreatitis need a separate lipid-disorder evaluation)</li>
                 </ul>
 
                 <h2 class="raj-h2">The Family Heart Risk Clinic at RAJ Hospital</h2>
@@ -244,7 +244,7 @@
                     Genetics loads the gun, but lifestyle pulls the trigger. The 2023 <em>JAMA Cardiology</em> analysis of 55,000 adults found that a favourable lifestyle (non-smoker, regular exercise, healthy diet, healthy weight) cut the polygenic risk of coronary events by <strong>50%</strong>. The same applies to people with inherited FH or high Lp(a). The prevention plan at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a> is the same as for the general population, just more aggressive and started earlier:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Annual lipid panel + Lp(a) check</strong> from age 20 if family history positive</li>
+                    <li><strong>Regular lipid panel (Lp(a) at least once)</strong> from age 20 if family history positive</li>
                     <li><strong>Statin therapy</strong> is started at lower LDL thresholds in genetically high-risk patients</li>
                     <li><strong>Strict blood pressure control</strong> — target &lt;130/80 mmHg</li>
                     <li><strong>No smoking, no chewing tobacco</strong> — the single biggest modifiable lever</li>
@@ -257,12 +257,9 @@
                     <span class="text-gray-700"> If you are under 40 with a strong family history, do not assume "I'm too young for a heart attack." 1 in 5 heart attacks in India now occur under 50. The Family Heart Risk clinic at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a> is built for exactly this — <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">book a screening today</a>.</span>
                 </div>
 
-                <h2 class="raj-h2">Real Patient Story (Anonymised)</h2>
+                <h2 class="raj-h2">Testing Family Members (Cascade Screening)</h2>
                 <p class="text-gray-700 mb-4">
-                    A 32-year-old software engineer from Ranchi came to <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's Family Heart Risk clinic</a> because his father had died of a heart attack at 42 and his uncle at 38. He was asymptomatic, a non-smoker, BMI 24. His lipid panel showed LDL 220 mg/dL, Lp(a) 180 nmol/L (both very high). Echo and ECG were normal. Genetic testing confirmed familial hypercholesterolemia with an LDLR mutation.
-                </p>
-                <p class="text-gray-700 mb-4">
-                    The team started him on a high-intensity statin (atorvastatin 80 mg) and ezetimibe 10 mg, brought his LDL to 70 mg/dL, and recommended his brother and sister get tested. His sister, also a carrier, started treatment at age 28 — preventing what could have been a tragedy in her 30s. This is the practical value of cascade screening.
+                    When one person is diagnosed with an inherited cholesterol disorder such as familial hypercholesterolaemia, doctors usually advise testing close relatives — parents, brothers, sisters and children. This is called cascade screening. It can find relatives who need treatment before they have any symptoms. Ask your doctor whether your family members should be tested.
                 </p>
 
                 <!-- CTA -->

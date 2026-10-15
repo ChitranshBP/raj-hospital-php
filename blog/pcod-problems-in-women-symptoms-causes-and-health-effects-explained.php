@@ -331,13 +331,13 @@
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
-                        <div class="font-bold text-blue-700 mb-2">Medical Treatment</div>
+                        <div class="font-bold text-blue-700 mb-2">Medical Treatment (only on doctor's prescription)</div>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Birth control pills (period regulation)</li>
                             <li>Anti-androgens (for hair/acne)</li>
                             <li>Metformin (insulin resistance)</li>
-                            <li>Clomiphene (for ovulation)</li>
-                            <li>Inositrol supplements</li>
+                            <li>Letrozole or Clomiphene (for ovulation, under a gynaecologist's supervision)</li>
+                            <li>Inositol supplements (limited evidence; only if advised by your doctor)</li>
                         </ul>
                     </div>
                 </div>

@@ -23,7 +23,7 @@
     <meta property="og:locale" content="en_IN">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Silent Heart Attack Symptoms Families Miss">
-    <meta name="twitter:description" content="Only a minority of heart attacks present as the classic chest clutch. Here is what the rest look like.">
+    <meta name="twitter:description" content="Many heart attacks do not present as the classic chest clutch. Here is what the rest look like.">
     <meta name="twitter:image" content="https://rajhospitals.com/blog/assets/img/featured/silent-heart-attack-symptoms.jpg">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -320,7 +320,7 @@
                     <li><strong>Insurance and TPA processing runs in parallel</strong>, not before treatment. Our <a href="/corporate-tpa" class="text-secondary-600 hover:underline font-semibold">corporate and TPA desk</a> handles cashless approvals while the patient is already being treated. No family should ever delay bringing a patient in over paperwork.</li>
                 </ul>
                 <p class="text-gray-700 mb-4">
-                    For patients coming from outside Ranchi &mdash; from Hazaribagh, Ramgarh, Bokaro, Khunti, Lohardaga or further &mdash; our ambulance fleet and helipad exist for exactly this arithmetic. The nearest hospital is not always the right hospital when what you need is a catheterisation lab, and the transfer time is part of the total ischaemic time whether anyone counts it or not.
+                    For patients coming from outside Ranchi &mdash; from Hazaribagh, Ramgarh, Bokaro, Khunti, Lohardaga or further &mdash; our ambulance fleet and helipad exist for exactly this arithmetic. In a suspected heart attack, call 108 and go to the nearest hospital that can give emergency heart-attack treatment (clot-dissolving medicine or angioplasty); the emergency team will arrange transfer to a catheterisation lab if needed. Do not delay treatment to travel a long distance.
                 </p>
 
                 <h2 class="raj-h2"><i data-feather="check-square" class="raj-h2-icon"></i> A Family Checklist You Can Act On, Not Just Read</h2>
@@ -401,7 +401,6 @@
                         <li><a href="/blog/chest-pain-ka-ilaj/" class="text-secondary-600 hover:underline font-semibold">Chest pain ka ilaj &mdash; कारण, जांच और इलाज</a></li>
                         <li><a href="/specialties/cardiology" class="text-secondary-600 hover:underline font-semibold">Cardiology at Raj Hospitals Ranchi &mdash; angiography, angioplasty and cardiac care</a></li>
                         <li><a href="/doctors/rajesh-jha" class="text-secondary-600 hover:underline font-semibold">Dr. Rajesh Kumar Jha &mdash; Cardiology, Raj Hospitals Ranchi</a></li>
-                        <li><a href="/testimonials" class="text-secondary-600 hover:underline font-semibold">Patient experiences at Raj Hospitals</a></li>
                     </ul>
                 </section>
 

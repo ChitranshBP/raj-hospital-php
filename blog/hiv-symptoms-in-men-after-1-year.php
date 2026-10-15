@@ -138,7 +138,7 @@
                 'name' => 'पुरुषों में HIV के 1 साल बाद skin symptoms क्या होते हैं?',
                 'acceptedAnswer' => [
                     '@type' => 'Answer',
-                    'text' => '1 साल बाद skin problems में rashes, fungal infections (oral thrush), herpes simplex, seborrheic dermatitis, और unexplained bruises/shots हो सकते हैं। Skin changes often immune system की weakness का sign होते हैं।'
+                    'text' => '1 साल बाद skin problems में rashes, fungal infections (oral thrush), herpes simplex, seborrheic dermatitis, और unexplained bruises हो सकते हैं। Skin changes often immune system की weakness का sign होते हैं।'
                 ]
             ],
             [
@@ -281,7 +281,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -374,7 +374,7 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
-                        <h4 class="font-bold text-teal-600">Acute HIV Infection (0-6 months)</h4>
+                        <h4 class="font-bold text-teal-600">Acute HIV Infection (पहले 2-12 हफ्ते)</h4>
                         <p class="text-sm text-gray-600">Initial stage में flu-like symptoms, fever, rash, और fatigue हो सकती है। यह period infection के बाद 2-4 weeks में शुरू होता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
@@ -383,7 +383,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">Symptomatic HIV (1 साल बाद)</h4>
-                        <p class="text-sm text-gray-600">1 साल बाद अगर treatment नहीं हुई, तो symptoms more prominent होने लगते हैं। Immune system gradually weak होता है।</p>
+                        <p class="text-sm text-gray-600">ज़्यादातर लोगों में 1 साल पर कोई खास लक्षण नहीं होते, लेकिन virus immune system को धीरे-धीरे कमजोर करता रहता है। इसलिए लक्षणों का इंतज़ार किए बिना test करवाएं। Immune system gradually weak होता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">AIDS (Without Treatment)</h4>
@@ -436,7 +436,7 @@
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Testing कब करवानी चाहिए:</strong>
                     <ul class="text-gray-700 mt-2 space-y-1 list-disc list-inside">
-                        <li>Unprotected sexual contact के 3 months बाद</li>
+                        <li>Unprotected sexual contact के बाद (72 घंटे के अंदर हो तो तुरंत doctor/ICTC से PEP के बारे में पूछें; test 4-6 हफ्ते और फिर 3 महीने बाद करवाएं)</li>
                         <li>Sharing needles के exposure के बाद</li>
                         <li>HIV positive partner के साथ relationship में</li>
                         <li><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> planning या pregnancy के दौरान</li>
@@ -468,7 +468,7 @@
                 </ul>
 
                 <p class="text-gray-700 mb-6">
-                    अगर आपको <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-teal-600 hover:underline"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a> या अन्य neurological problems के symptoms हों, तो यह HIV-related भी हो सकते हैं। RAJ Hospital में comprehensive neurological evaluation available है।
+                    अगर आपको <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-teal-600 hover:underline"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a> या अन्य neurological problems के symptoms हों (stroke के लक्षणों में तुरंत 108/emergency जाएं), तो यह HIV-related भी हो सकते हैं। RAJ Hospital में comprehensive neurological evaluation available है।
                 </p>
 
                 <!-- Section 5 -->
@@ -489,7 +489,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Mental Health</a> (मानसिक स्वास्थ्य)</h4>
-                        <p class="text-sm text-gray-600"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> और anxiety common हैं। समय पर mental health professional से support लें। हमारी team counseling में help कर सकती है।</p>
+                        <p class="text-sm text-gray-600"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> और anxiety common हैं। समय पर mental health professional से support लें। खुद को नुकसान पहुंचाने के विचार आएं तो तुरंत Tele-MANAS helpline 14416 पर call करें या नज़दीकी emergency जाएं। हमारी team counseling में help कर सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">Regular Monitoring (नियमित जांच)</h4>
@@ -526,7 +526,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">पुरुषों में HIV के 1 साल बाद skin symptoms क्या होते हैं?</h4>
-                        <p class="text-gray-700">1 साल बाद skin problems में rashes, fungal infections (oral thrush), herpes simplex, seborrheic dermatitis, और unexplained bruises/shots हो सकते हैं। Skin changes often immune system की weakness का sign होते हैं।</p>
+                        <p class="text-gray-700">1 साल बाद skin problems में rashes, fungal infections (oral thrush), herpes simplex, seborrheic dermatitis, और unexplained bruises हो सकते हैं। Skin changes often immune system की weakness का sign होते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">क्या HIV से पीड़ित पुरुषों में <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">mental health</a> issues होती हैं?</h4>

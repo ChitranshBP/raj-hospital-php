@@ -264,7 +264,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">1. Fever</h4>
-                        <p class="text-sm text-gray-600">Low-grade fever (usually 100-102°F) that doesn't respond to usual fever reducers. Often accompanied by night sweats.</p>
+                        <p class="text-sm text-gray-600">Fever (often 100-102°F), sometimes with night sweats. Often accompanied by night sweats.</p>
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">2. Sore Throat</h4>
@@ -358,7 +358,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Window Period</h4>
-                        <p class="text-sm text-gray-600">After exposure, it can take 2-12 weeks for HIV antibodies to be detectable. Most tests are accurate after 3 months, with some advanced tests accurate at 2 weeks.</p>
+                        <p class="text-sm text-gray-600">After exposure, it can take 2-12 weeks for HIV antibodies to be detectable. Modern 4th-generation (antigen/antibody) tests can usually detect HIV 18-45 days after exposure, and nucleic acid tests about 10-33 days after; your doctor may advise a repeat test at 3 months to confirm a negative result.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Testing Options</h4>
@@ -379,7 +379,7 @@
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Get tested</strong> regularly for HIV and other STIs</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Don't share needles</strong> - use clean needles</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>PrEP (Pre-Exposure Prophylaxis)</strong> - medication to prevent HIV for high-risk individuals</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>PEP (Post-Exposure Prophylaxis)</strong> - emergency medication if exposed to HIV</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>PEP (Post-Exposure Prophylaxis)</strong> - emergency medication that must be started as soon as possible, within 72 hours of exposure; go to a hospital or government ART/ICTC centre immediately</li>
                     </ul>
                 </div>
 

@@ -228,7 +228,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>लिवर</strong> हमारे शरीर का सबसे बड़ा अंग है जो खून को साफ करने, पाचन में मदद करने और विषाक्त पदार्थों को बाहर निकालने का काम करता है। जब लिवर में इन्फेक्शन होता है, तो यह सही से काम नहीं कर पाता और कई गंभीर समस्याएं हो सकती हैं।
+                    <strong>लिवर</strong> हमारे शरीर का सबसे बड़ा आंतरिक अंग है जो खून को साफ करने, पाचन में मदद करने और विषाक्त पदार्थों को बाहर निकालने का काम करता है। जब लिवर में इन्फेक्शन होता है, तो यह सही से काम नहीं कर पाता और कई गंभीर समस्याएं हो सकती हैं।
                 </p>
 
                 <!-- Section 1 -->
@@ -287,12 +287,12 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">6. मल का रंग बदलना</h4>
-                        <p class="text-sm text-gray-600">मल हल्का या चाकलेट रंग का हो जाना।</p>
+                        <p class="text-sm text-gray-600">मल का रंग हल्का (मिट्टी जैसा/clay-coloured) हो जाना। काला या खून वाला मल हो तो तुरंत डॉक्टर को दिखाएं।</p>
                     </div>
                 </div>
 
                 <!-- Section 4: Causes -->
-                <h2 class="raj-h2">लिवर इन्फेक्शन के कारण</h2>
+                <h2 class="raj-h2">लिवर में सूजन (Hepatitis) और इन्फेक्शन के कारण</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>वायरल इन्फेक्शन:</strong> Hepatitis A, B, C वायरस</li>
@@ -352,7 +352,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या लिवर इन्फेक्शन पूरी तरह ठीक हो सकता है?</h4>
-                        <p class="text-gray-700">Hepatitis A और E generally पूरी तरह ठीक हो जाते हैं। Hepatitis B और C के लिए treatment available है जो virus को control करता है।</p>
+                        <p class="text-gray-700">Hepatitis A और E generally पूरी तरह ठीक हो जाते हैं। Hepatitis C का आधुनिक इलाज (antiviral दवाएं) ज़्यादातर मरीजों में virus को खत्म कर सकता है, जबकि Hepatitis B में दवाएं virus को control करती हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">लिवर इन्फेक्शन कितने दिनों में ठीक होता है?</h4>
@@ -360,7 +360,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या लिवर इन्फेक्शन छूकर फैलता है?</h4>
-                        <p class="text-gray-700">Hepatitis A मल-मूत्र के रास्ते से फैलता है। B और C mainly खून के संपर्क से फैलते हैं।</p>
+                        <p class="text-gray-700">Hepatitis A और E दूषित खाने-पानी (fecal-oral route) से फैलते हैं। B और C mainly संक्रमित खून, सुई और असुरक्षित यौन संबंध से फैलते हैं; साधारण छूने से नहीं फैलते।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Function Test क्या है?</h4>

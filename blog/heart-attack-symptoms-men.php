@@ -70,7 +70,7 @@
                 "name": "दिल के दौरे की आपातकालीन स्थिति में क्या करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दिल के दौरे की आपातकालीन स्थिति में तुरंत 108 (ambulance) को कॉल करें। मरीज को आराम से बैठाएं और सीने में दर्द हो तो एक एस्पिरिन दें (अगर एलर्जी नहीं है)। किसी भी स्थिति में खाना पीना न दें और चिकित्सा सहायता आने तक प्रतीक्षा करें।"
+                    "text": "दिल के दौरे की आपातकालीन स्थिति में तुरंत 108 (ambulance) को कॉल करें। मरीज को आराम से बैठाएं; aspirin सिर्फ 108 emergency या doctor की सलाह पर ही दें। किसी भी स्थिति में खाना पीना न दें और चिकित्सा सहायता आने तक प्रतीक्षा करें।"
                 }
             },
             {
@@ -289,7 +289,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">हार्मोनल कारक</h4>
-                        <p class="text-sm text-gray-600">महिलाओं में estrogen hormone की वजह से दिल की बीमारी का खतरा कम रहता है। Menopause के बाद यह खतरा बराबर हो जाता है।</p>
+                        <p class="text-sm text-gray-600">महिलाओं में estrogen hormone की वजह से दिल की बीमारी का खतरा कम रहता है। Menopause के बाद महिलाओं में भी यह खतरा तेजी से बढ़ता है।</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">जीवनशैली</h4>
@@ -357,7 +357,7 @@
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">50-60 वर्ष</h4>
-                        <p class="text-sm text-gray-600">इस उम्र में heart attack का खतरा सबसे अधिक होता है। Regular checkup बहुत जरूरी है। <a href="/doctor-profile.php">हमारे specialists से मिलें</a>।</p>
+                        <p class="text-sm text-gray-600">इस उम्र में heart attack का खतरा और बढ़ जाता है। Regular checkup बहुत जरूरी है। <a href="/doctor-profile.php">हमारे specialists से मिलें</a>।</p>
                     </div>
                 </div>
 
@@ -370,7 +370,7 @@
 
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> Silent heart attack का पता ECG या blood tests से चलता है। 40+ उम्र के पुरुषों को नियमित cardiac checkup कराना चाहिए।</span>
+                    <span class="text-gray-700"> Silent heart attack का पता अक्सर बाद में ECG या echocardiography जैसी जांच से चलता है। 40+ उम्र के पुरुषों को नियमित cardiac checkup कराना चाहिए।</span>
                 </div>
 
                 <!-- Section 5: Risk Factors -->
@@ -447,7 +447,7 @@
                 <h2 class="raj-h2-secondary">डॉक्टर से कब मिलें?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    निम्न स्थितियों में तुरंत डॉक्टर से मिलें:
+                    निम्न स्थितियों में तुरंत डॉक्टर से मिलें (सीने में दर्द, सांस फूलना या बेहोशी अचानक हो तो तुरंत 108 call करें):
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">

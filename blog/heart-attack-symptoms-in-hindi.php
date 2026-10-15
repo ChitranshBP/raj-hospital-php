@@ -127,7 +127,7 @@
                 "name": "Heart Attack के दौरान क्या करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart Attack के दौरान तुरंत 108 (ambulance) को कॉल करें। मरीज को आराम से बैठाएं और सीने पर दबाव न डालें। अगर दिल की दवाइयां (nitroglycerin) available हों तो दें, लेकिन aspirin's लेने से पहले doctor से पूछें। मरीज को हवा देते रहें और घबराएं नहीं।"
+                    "text": "Heart Attack के दौरान तुरंत 108 (ambulance) को कॉल करें। मरीज को आराम से बैठाएं और सीने पर दबाव न डालें। अगर doctor ने मरीज के लिए nitroglycerin पहले से prescribe की है तो doctor के बताए तरीके से ही दें; aspirin भी सिर्फ doctor या 108 emergency की सलाह पर दें। मरीज को हवा देते रहें और घबराएं नहीं।"
                 }
             },
             {
@@ -159,7 +159,7 @@
                 "name": "Heart Attack का इलाज क्या है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart Attack का treatment immediately hospital में शुरू होता है। Primary treatment में aspirin, blood thinners (anticoagulants), और oxygen दिया जाता है। Serious cases में angiography और angioplasty (stent placement) या bypass surgery की जरूरत पड़ सकती है। Treatment जितना जल्दी शुरू हो, उतना बेहतर नतीजा।"
+                    "text": "Heart Attack का treatment immediately hospital में शुरू होता है। Primary treatment में aspirin और दूसरी blood thinner दवाएं दी जाती हैं, oxygen ज़रूरत होने पर दी जाती है, और जल्दी से जल्दी blocked artery खोलने (angioplasty या clot घोलने की दवा) की कोशिश की जाती है। Serious cases में angiography और angioplasty (stent placement) या bypass surgery की जरूरत पड़ सकती है। Treatment जितना जल्दी शुरू हो, उतना बेहतर नतीजा।"
                 }
             }
         ]
@@ -312,7 +312,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600 mb-2">2. बांह में दर्द (Arm Pain)</h4>
-                        <p class="text-sm text-gray-600">दर्द सीने से शुरू होकर बाईं बांह, कंधे, गर्दन, जबड़े, या पीठ तक फैल सकता है। कई बार सिर्फ बांह में दर्द होता है बिना chest pain के, जिसे 'silent heart attack' भी कहते हैं। यह symptom पुरुषों में ज्यादा common है।</p>
+                        <p class="text-sm text-gray-600">दर्द सीने से शुरू होकर बाईं बांह, कंधे, गर्दन, जबड़े, या पीठ तक फैल सकता है। कई बार सिर्फ बांह में दर्द होता है बिना chest pain के, इसे भी गंभीरता से लें। (बहुत हल्के या बिना लक्षण वाले heart attack को 'silent heart attack' कहते हैं।) यह symptom पुरुषों में ज्यादा common है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600 mb-2">3. सांस लेने में तकलीफ (Shortness of Breath)</h4>
@@ -439,7 +439,7 @@
                     <div class="bg-red-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="slash" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-red-700">धूम्रपान छोड़ें</div>
-                        <p class="text-xs text-gray-600">Smoking heart disease का biggest cause है।</p>
+                        <p class="text-xs text-gray-600">Smoking heart disease के सबसे बड़े controllable risk factors में से एक है।</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
@@ -472,7 +472,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-blue-600 mb-2"><a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="hover:underline">Back Pain और Sciatica</a></h4>
-                        <p class="text-sm text-gray-600">Heart attack का दर्द कभी-कभी <strong>back pain</strong> की तरह feel हो सकता है। खासकर lower back में। इसे sciatica से confuse न करें। अगर back pain के साथ chest discomfort भी हो, तो तुरंत checkup करें।</p>
+                        <p class="text-sm text-gray-600">Heart attack का दर्द कभी-कभी <strong>back pain</strong> की तरह feel हो सकता है। खासकर upper back (कंधों के बीच) में। इसे sciatica से confuse न करें। अगर back pain के साथ chest discomfort भी हो, तो तुरंत checkup करें।</p>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2"><a href="/head-injury-treatment-in-ranchi.php" class="hover:underline">Head Injury और Brain Health</a></h4>
@@ -499,7 +499,7 @@
                         <li><strong>तुरंत 108 (Ambulance) को कॉल करें।</strong> किसी और चीज़ पर time waste न करें।</li>
                         <li><strong>मरीज को आराम से बैठाएं</strong> और सीना ऊपर रहे।</li>
                         <li><strong>अगर aspirin available हो</strong> और doctor ने पहले allow किया हो, तो एक chewable aspirin दें।</li>
-                        <li><strong> Nitroglycerin (GTN) tablet</strong> अगर मरीज के पास पहले से हो तो दें।</li>
+                        <li><strong> Nitroglycerin (GTN) tablet</strong> अगर doctor ने मरीज के लिए पहले से prescribe की हो, तो doctor के बताए तरीके से ही दें।</li>
                         <li><strong> घबराएं नहीं</strong> - calm रहें और मरीज को भी calm रखें।</li>
                         <li><strong>सहायता के लिए call करें</strong> और किसी को hospital ले जाने की व्यवस्था करने दें।</li>
                     </ol>
@@ -519,7 +519,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">Heart Attack के दौरान क्या करना चाहिए?</h4>
-                        <p class="text-gray-700">Heart Attack के दौरान <strong>तुरंत 108 (ambulance) को कॉल करें</strong>। मरीज को आराम से बैठाएं और सीने पर दबाव न डालें। अगर दिल की दवाइयां (nitroglycerin) available हों तो दें, लेकिन aspirin's लेने से पहले doctor से पूछें। मरीज को हवा देते रहें और घबराएं नहीं। "Time is Heart" - जितनी जल्दी treatment शुरू हो, उतना बेहतर नतीजा।</p>
+                        <p class="text-gray-700">Heart Attack के दौरान <strong>तुरंत 108 (ambulance) को कॉल करें</strong>। मरीज को आराम से बैठाएं और सीने पर दबाव न डालें। अगर doctor ने मरीज के लिए nitroglycerin पहले से prescribe की है तो doctor के बताए तरीके से ही दें; aspirin भी सिर्फ doctor या 108 emergency की सलाह पर दें। मरीज को हवा देते रहें और घबराएं नहीं। "Time is Heart" - जितनी जल्दी treatment शुरू हो, उतना बेहतर नतीजा।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">महिलाओं में Heart Attack के लक्षण पुरुषों से अलग होते हैं?</h4>
@@ -535,7 +535,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">Heart Attack का इलाज क्या है?</h4>
-                        <p class="text-gray-700"><strong>Heart Attack का treatment</strong> immediately hospital में शुरू होता है। Primary treatment में aspirin, blood thinners (anticoagulants), और oxygen दिया जाता है। Serious cases में <strong>angiography और angioplasty</strong> (stent placement) या bypass surgery की जरूरत पड़ सकती है। Treatment जितना जल्दी शुरू हो, उतना बेहतर नतीजा। RAJ Hospital Ranchi में 24x7 cardiac emergency और experienced cardiologists available हैं।</p>
+                        <p class="text-gray-700"><strong>Heart Attack का treatment</strong> immediately hospital में शुरू होता है। Primary treatment में aspirin और दूसरी blood thinner दवाएं दी जाती हैं, oxygen ज़रूरत होने पर दी जाती है, और जल्दी से जल्दी blocked artery खोलने (angioplasty या clot घोलने की दवा) की कोशिश की जाती है। Serious cases में <strong>angiography और angioplasty</strong> (stent placement) या bypass surgery की जरूरत पड़ सकती है। Treatment जितना जल्दी शुरू हो, उतना बेहतर नतीजा। RAJ Hospital Ranchi में 24x7 cardiac emergency और experienced cardiologists available हैं।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

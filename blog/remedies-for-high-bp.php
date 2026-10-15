@@ -271,7 +271,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Salt Intake Kam Karein</h4>
-                        <p class="text-sm text-gray-600">Daily salt intake 5-6 grams से कम रखें। Processed foods, pickles, papads से बचें।</p>
+                        <p class="text-sm text-gray-600">Daily salt intake 5 grams (लगभग 1 छोटा चम्मच) से कम रखें। Processed foods, pickles, papads से बचें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Alcohol और Caffeine Kam Karein</h4>
@@ -284,7 +284,7 @@
                 </div>
 
                 <!-- Section 3: Home Remedies -->
-                <h2 class="raj-h2">High BP Ke Gharelu Upchar (Home Remedies)</h2>
+                <h2 class="raj-h2">High BP Mein Madadgar Gharelu Aadatein (दवा का विकल्प नहीं)</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">1. Garlic (Lehsun)</h3>
                 <div class="raj-callout raj-callout-success">
@@ -294,13 +294,13 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">2. Honey (Madhu)</h3>
                 <div class="raj-callout raj-callout-success">
-                    <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Honey heart को strengthen करता है और BP को balance करता है।</p>
+                    <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Honey का BP कम करने में असर साबित नहीं है; diabetes हो तो honey भी सीमित मात्रा में ही लें।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Morning में empty stomach 1 teaspoon honey + warm water में mix करके पिएं।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">3. Cinnamon (Dalchini)</h3>
                 <div class="raj-callout raj-callout-success">
-                    <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Cinnamon blood circulation improve करती है और BP reduce करती है।</p>
+                    <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Cinnamon का BP पर असर कुछ छोटे studies तक सीमित है; इसे BP की दवा का विकल्प न मानें।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Daily food में cinnamon powder add करें या cinnamon tea पिएं।</p>
                 </div>
 
@@ -319,7 +319,7 @@
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">6. Coconut Water (Nariyal Paani)</h3>
                 <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Coconut water potassium और magnesium से भरपूर है जो BP balance करता है।</p>
-                    <p class="text-gray-700"><strong>How to use:</strong> Daily 1 glass fresh coconut water पिएं।</p>
+                    <p class="text-gray-700"><strong>How to use:</strong> Daily 1 glass fresh coconut water ले सकते हैं; kidney disease हो या BP की कुछ दवाएं (जैसे ACE inhibitor, ARB, spironolactone) ले रहे हों तो पहले doctor से पूछें।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">7. Watermelon Seeds</h3>
@@ -331,7 +331,7 @@
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">8. Banana</h3>
                 <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Banana में potassium होती है जो sodium के effect को counter करती है।</p>
-                    <p class="text-gray-700"><strong>How to use:</strong> Daily 1-2 bananas खाएं।</p>
+                    <p class="text-gray-700"><strong>How to use:</strong> Daily 1-2 bananas खा सकते हैं; kidney disease हो या doctor ने potassium सीमित करने को कहा हो तो पहले doctor से पूछें।</p>
                 </div>
 
                 <!-- Section 4: Yoga Asanas -->
@@ -421,7 +421,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya garlic high BP reduce कर सकता hai?</h4>
-                        <p class="text-gray-700">Haan, garlic में allicin होता है जो BP reduce करने में मदद करता है। Regular consumption से systolic BP 8-10 mmHg तक कम हो सकता है।</p>
+                        <p class="text-gray-700">Haan, garlic में allicin होता है जो BP reduce करने में मदद करता है। कुछ studies में garlic supplements से BP में थोड़ी कमी देखी गई है, लेकिन यह BP की दवा का विकल्प नहीं है। Blood thinner ले रहे हों तो garlic supplements से पहले doctor से पूछें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya walking BP control कर सकती hai?</h4>
@@ -437,7 +437,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya home remedies alone se BP control ho sakti hai?</h4>
-                        <p class="text-gray-700">Mild hypertension में home remedies sufficient ho sakte hain, लेकिन moderate to severe cases में doctor की prescribed medicines जरूरी होती hai। Combination approach best hai।</p>
+                        <p class="text-gray-700">Mild hypertension में lifestyle changes (कम नमक, exercise, weight control) से BP कम हो सकता है, लेकिन home remedies दवा का विकल्प नहीं हैं। BP की prescribed दवा doctor की सलाह के बिना बंद या कम न करें। Lifestyle changes और doctor की बताई treatment साथ में अपनाना उचित है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

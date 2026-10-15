@@ -377,7 +377,7 @@
                     <li><strong>Panic attacks</strong> occurring frequently (more than once a week)</li>
                     <li><strong>Using alcohol or drugs</strong> to cope with anxiety</li>
                     <li><strong>Withdrawing from loved ones</strong> completely</li>
-                    <li><strong>Thoughts of self-harm</strong> or suicide</li>
+                    <li><strong>Thoughts of self-harm</strong> or suicide – seek help immediately (Tele-MANAS 14416, free 24x7 helpline, or 112 in an emergency)</li>
                     <li><strong>Unable to perform</strong> at work or daily responsibilities</li>
                     <li><strong>Sleep completely disrupted</strong> for extended periods</li>
                 </ul>
@@ -396,7 +396,7 @@
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700 mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Medication</h4>
-                        <p class="text-sm text-gray-600">Antidepressants and anti-anxiety medications can help manage symptoms effectively.</p>
+                        <p class="text-sm text-gray-600">Antidepressants or other medicines, prescribed and monitored by a psychiatrist, can help manage symptoms. Do not start or stop these medicines on your own.</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700 mb-2"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Lifestyle Changes</h4>
@@ -448,7 +448,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">When should men seek help for anxiety?</h4>
-                        <p class="text-gray-700">Men should seek help when <strong>symptoms of anxiety</strong> persist for more than 2 weeks, interfere with daily life, cause panic attacks, lead to substance use, or include thoughts of self-harm.</p>
+                        <p class="text-gray-700">Men should seek help when <strong>symptoms of anxiety</strong> persist for more than 2 weeks, interfere with daily life, cause panic attacks or lead to substance use. If there are any thoughts of self-harm or suicide – seek help immediately (Tele-MANAS 14416, free 24x7 helpline, or 112 in an emergency), do not wait — seek help immediately: call Tele-MANAS 14416 (free, 24x7), dial 112 in an emergency, or go to the nearest hospital emergency.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Is anxiety treatable in men?</h4>

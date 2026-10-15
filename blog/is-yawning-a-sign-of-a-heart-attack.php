@@ -96,7 +96,7 @@
                 "name": "Is excessive yawning a sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yawning alone is not a heart attack symptom. However, sudden and excessive yawning combined with chest discomfort, cold sweat, lightheadedness, or breathlessness can occasionally precede a heart attack — particularly in women, diabetics, and the elderly. The mechanism is thought to be vagal: the vagus nerve, when stimulated by reduced cardiac output, triggers yawning as a way to increase oxygen intake."
+                    "text": "Yawning alone is not a heart attack symptom. However, sudden and excessive yawning combined with chest discomfort, cold sweat, lightheadedness, or breathlessness can occasionally precede a heart attack — particularly in women, diabetics, and the elderly. A vagal (nerve) reflex has been suggested, but the link is not well established."
                 }
             },
             {
@@ -104,7 +104,7 @@
                 "name": "Why do I yawn a lot before a heart attack?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Pre-heart-attack yawning is thought to be a vagal response. When coronary flow drops, the brain's chemoreceptors detect a slight rise in CO2 and trigger repeated yawning to bring in more oxygen. Patients in cardiac rehab at RAJ Hospital Ranchi often describe a 'yawning spell' 30-60 minutes before chest tightness began."
+                    "text": "Pre-heart-attack yawning is thought to be a vagal response. The reason is not well understood. Yawning has occasionally been reported around cardiac events, possibly through vagal nerve activity, but it is not a reliable warning sign on its own. "
                 }
             },
             {
@@ -120,7 +120,7 @@
                 "name": "When should I go to the ER for yawning and chest discomfort?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "If yawning is unusually frequent and is accompanied by chest pressure, sweating, lightheadedness, nausea, or breathlessness, treat it as a possible heart attack and call 108 or visit the 24×7 cardiac ER at RAJ Hospital Ranchi. An ECG and troponin test can rule out a cardiac cause in under 30 minutes."
+                    "text": "If yawning is unusually frequent and is accompanied by chest pressure, sweating, lightheadedness, nausea, or breathlessness, treat it as a possible heart attack and call 108 or visit the 24×7 cardiac ER at RAJ Hospital Ranchi. An ECG and blood tests such as troponin (often repeated over a few hours) help doctors check for a heart attack."
                 }
             },
             {
@@ -175,7 +175,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Quick Answer:</strong>
-                    <span class="text-gray-700"> Yawning <strong>alone</strong> is not a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> symptom. But <strong>sudden, excessive yawning combined with chest discomfort, sweating, lightheadedness, or breathlessness</strong> can be a vagal warning sign of a heart attack, especially in women and diabetics. If you have these together, treat it as a possible heart attack and visit the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac ER at RAJ Hospital Ranchi</a> for an ECG and troponin test.</span>
+                    <span class="text-gray-700"> Yawning <strong>alone</strong> is not a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> symptom. But <strong>sudden, excessive yawning combined with chest discomfort, sweating, lightheadedness, or breathlessness</strong> can be a vagal warning sign of a heart attack, especially in women and diabetics. If you have these together, treat it as a possible heart attack: call 108 or have someone take you to the nearest emergency department, such as the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac ER at RAJ Hospital Ranchi</a> for an ECG and troponin test.</span>
                 </div>
 
                 <h2 class="raj-h2">Why We Yawn — The Vagus Nerve Connection</h2>
@@ -183,7 +183,7 @@
                     Yawning is a deep, involuntary inhalation followed by a slower exhalation. The exact purpose is debated, but the most accepted theory is <strong>brain thermoregulation</strong>: a deep yawn cools the brain and improves alertness. It is also contagious — seeing, hearing, or even reading about yawning triggers it in about 60–70% of people.
                 </p>
                 <p class="text-gray-700 mb-4">
-                    The <strong>vagus nerve</strong> — the longest cranial nerve in the body — controls yawning. The vagus also slows the heart rate, drops blood pressure, and stimulates the gut. When cardiac output falls (as in early heart attack), vagal tone rises, and the brain interprets the resulting mild hypercapnia (slight rise in CO2) as a signal to yawn repeatedly. This is why some patients yawn six, eight, ten times in the hour before crushing chest pain sets in.
+                    The <strong>vagus nerve</strong> — the longest cranial nerve in the body — is one of several nerve pathways linked with yawning, which is mainly triggered by the brain. The vagus also slows the heart rate, drops blood pressure, and stimulates the gut. When cardiac output falls (as in early heart attack), vagal tone rises, and the brain interprets the resulting mild hypercapnia (slight rise in CO2) as a signal to yawn repeatedly. 
                 </p>
                 <p class="text-gray-700 mb-4">
                     A 2018 study in the <em>American Journal of Cardiology</em> <strong>32% reported excessive yawning</strong> in the 24 hours preceding the event — most often in women (44%) and diabetics (38%), groups in which atypical heart attack presentations are the norm.
@@ -258,7 +258,7 @@
                     <li><strong>Unexplained anxiety or impending doom</strong> — patients describe a "something is wrong" feeling</li>
                 </ul>
                 <p class="text-gray-700 mb-4">
-                    Add <strong>excessive yawning</strong> to that list as a fifth 'U', and the threshold for an ECG should be very low. Don't rationalise. Walk into the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital cardiac ER</a> and ask.
+                    Add <strong>excessive yawning</strong> to that list as a fifth 'U', and the threshold for an ECG should be very low. Don't rationalise — call 108 (do not drive yourself) or go to the nearest emergency department, such as the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital cardiac ER</a> and ask.
                 </p>
 
                 <!-- CTA -->
@@ -286,11 +286,11 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Why do I yawn so much before a heart attack?</h3>
-                            <p class="text-gray-700">Reduced cardiac output triggers the vagus nerve and a slight rise in CO2, which the brain interprets as a yawning signal. <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a> report this in the 24 hours before chest pain began. It is more common in women and diabetics.</p>
+                            <p class="text-gray-700">A vagal (nerve) reflex has been suggested as a possible link, but the evidence is limited. <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a> report this in the 24 hours before chest pain began. It is more common in women and diabetics.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Is yawning a lot a sign of low blood pressure?</h3>
-                            <p class="text-gray-700">Yes. Chronic low blood pressure reduces cerebral perfusion; the brain triggers yawning to raise CO2 and improve blood flow. The internal medicine team at <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a> can evaluate persistent low BP and rule out endocrine causes.</p>
+                            <p class="text-gray-700">Possibly. Low blood pressure can cause tiredness and light-headedness, and some people notice more yawning, but yawning alone does not diagnose low BP. The internal medicine team at <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a> can evaluate persistent low BP and rule out endocrine causes.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">How much yawning is too much?</h3>
@@ -298,7 +298,7 @@
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can SSRIs cause excessive yawning?</h3>
-                            <p class="text-gray-700">Yes. SSRIs (escitalopram, sertraline, fluoxetine) increase yawning in 5–10% of patients. The mechanism is serotonergic activation of the yawning centre. If yawning is bothersome, dose adjustment or switch to SNRI usually helps. The psychiatry team at RAJ Hospital can advise.</p>
+                            <p class="text-gray-700">Yes. SSRIs (escitalopram, sertraline, fluoxetine) increase yawning in 5–10% of patients. The mechanism is serotonergic activation of the yawning centre. If yawning is bothersome, do not stop or change the medicine yourself — discuss it with the doctor who prescribed it. The psychiatry team at RAJ Hospital can advise.</p>
                         </div>
                     </div>
                 </section>

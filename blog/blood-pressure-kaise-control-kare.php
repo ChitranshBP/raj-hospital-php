@@ -71,7 +71,7 @@ $base_url = '../';
                 "name": "ब्लड प्रेशर कितना होना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "सामान्य ब्लड प्रेशर 120/80 mmHg होता है। 130/80 से ऊपर को high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> माना जाता है। 90/60 से नीचे low blood pressure है।"
+                    "text": "सामान्य ब्लड प्रेशर 120/80 mmHg से कम होता है। 130/80 या उससे ऊपर को high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> माना जाता है। 90/60 से नीचे low blood pressure है।"
                 }
             },
             {
@@ -361,7 +361,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">c) वज़न कम करें</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                मोटापा High BP का प्रमुख कारण है। हर <strong>1 किलो वज़न कम करने से BP 1 mmHg</strong> तक कम हो सकता है। पेट की चर्बी (belly fat) सबसे खतरनाक है - पुरुषों में 40 inch, महिलाओं में 35 inch से कम रखें।
+                मोटापा High BP का प्रमुख कारण है। हर <strong>1 किलो वज़न कम करने से BP 1 mmHg</strong> तक कम हो सकता है। पेट की चर्बी (belly fat) सबसे खतरनाक है - पुरुषों में 90 cm (लगभग 35 inch), महिलाओं में 80 cm (लगभग 31.5 inch) से कम रखें।
             </p>
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">d) तनाव कम करें</h3>
@@ -388,7 +388,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">लहसुन खाएं</h4>
-                        <p class="text-gray-600 text-sm">लहसुन में allicin होता है जो blood vessels को आराम देता है। रोज़ाना 1-2 कच्चे लहसुन की कलियाँ चबाकर खाएं।</p>
+                        <p class="text-gray-600 text-sm">लहसुन में allicin होता है जो blood vessels को आराम देता है। रोज़ाना 1-2 कच्चे लहसुन की कलियाँ खा सकते हैं (blood thinner दवा ले रहे हों तो पहले डॉक्टर से पूछें)।</p>
                     </div>
                 </div>
 
@@ -398,7 +398,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">नींबू पानी पिएं</h4>
-                        <p class="text-gray-600 text-sm">गर्म पानी में नींबू का रस मिलाकर पिएं। यह blood vessels को लचीला बनाता है। सुबह खाली पेट पिएं।</p>
+                        <p class="text-gray-600 text-sm">गर्म पानी में नींबू का रस मिलाकर पिएं। यह hydration में मदद कर सकता है, लेकिन यह BP की दवा का विकल्प नहीं है।</p>
                     </div>
                 </div>
 
@@ -408,7 +408,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">अजमोद का रस</h4>
-                        <p class="text-gray-600 text-sm">अजमोद (parsley) में पोटेशियम होता है जो BP कम करता है। दिन में एक बार अजमोद का रस पिएं।</p>
+                        <p class="text-gray-600 text-sm">अजमोद (parsley) में पोटेशियम होता है; इसे संतुलित आहार के हिस्से के रूप में ले सकते हैं।</p>
                     </div>
                 </div>
 
@@ -418,7 +418,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">हाइड्रेटेड रहें</h4>
-                        <p class="text-gray-600 text-sm">रोज़ाना 8-10 गिलास पानी पिएं। शरीर में पानी की कमी से blood vessels सिकुड़ जाते हैं और BP बढ़ता है।</p>
+                        <p class="text-gray-600 text-sm">पर्याप्त पानी पिएं; अगर heart failure या kidney रोग है तो पानी की मात्रा डॉक्टर से पूछें।</p>
                     </div>
                 </div>
 
@@ -428,7 +428,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">पोटेशियम युक्त खाना</h4>
-                        <p class="text-gray-600 text-sm">केला, अमरूद, संतरा, पालक, और टमाटर में पोटेशियम होता है जो sodium को balance करता है और BP कम करता है।</p>
+                        <p class="text-gray-600 text-sm">केला, अमरूद, संतरा, पालक, और टमाटर में पोटेशियम होता है जो sodium को balance करने में मदद करता है। Kidney रोग हो या BP की कुछ दवाएं (जैसे ACE inhibitor/ARB) ले रहे हों तो पोटेशियम बढ़ाने से पहले डॉक्टर से पूछें।</p>
                     </div>
                 </div>
 
@@ -459,7 +459,7 @@ $base_url = '../';
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
                 <span class="w-8 h-8 bg-hospital-blue text-white rounded-full flex items-center justify-center text-sm mr-3">5</span>
-                आयुर्वेदिक नुस्खे BP कम करने के लिए
+                आयुर्वेदिक जड़ी-बूटियाँ: डॉक्टर की सलाह क्यों ज़रूरी है
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
                 आयुर्वेद में BP को <strong>Vyana Vata Dushti</strong> माना जाता है। ये घरेलू नुस्खे मदद कर सकते हैं:
@@ -468,15 +468,15 @@ $base_url = '../';
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-yellow-50 p-4 rounded-lg">
                     <h4 class="font-bold text-yellow-700 mb-2">अश्वगंधा (Ashwagandha)</h4>
-                    <p class="text-gray-600 text-sm">यह एक adaptogen है जो तनाव कम करता है। 1 चम्मच अश्वगंधा चूर्ण गर्म दूध में मिलाकर सोने से पहले पिएं।</p>
+                    <p class="text-gray-600 text-sm">यह एक adaptogen है जो तनाव कम करता है। इसे लेने से पहले डॉक्टर से सलाह लें, खासकर अगर आप BP, thyroid या sugar की दवा ले रहे हैं या गर्भवती हैं।</p>
                 </div>
                 <div class="bg-yellow-50 p-4 rounded-lg">
-                    <h4 class="font-bold text-yellow-700 mb-2">अरणी (Arjuna)</h4>
-                    <p class="text-gray-600 text-sm">अरणी की छाल हृदय को मज़बूत करती है। अरणी चूर्ण 3-5 ग्राम दूध में मिलाकर लें।</p>
+                    <h4 class="font-bold text-yellow-700 mb-2">अर्जुन (Arjuna)</h4>
+                    <p class="text-gray-600 text-sm">अर्जुन की छाल पारंपरिक रूप से हृदय स्वास्थ्य के लिए उपयोग होती है। इसे लेने से पहले डॉक्टर से सलाह लें।</p>
                 </div>
                 <div class="bg-yellow-50 p-4 rounded-lg">
                     <h4 class="font-bold text-yellow-700 mb-2">सर्पगंधा</h4>
-                    <p class="text-gray-600 text-sm">यह रक्तचाप को नियंत्रित करने में मदद करता है। टैबलेट या चूर्ण के रूप में लें।</p>
+                    <p class="text-gray-600 text-sm">इसके गंभीर side effects हो सकते हैं, इसलिए इसे केवल डॉक्टर की देखरेख में ही लें — खुद से शुरू न करें।</p>
                 </div>
                 <div class="bg-yellow-50 p-4 rounded-lg">
                     <h4 class="font-bold text-yellow-700 mb-2">त्रिफला</h4>
@@ -485,7 +485,7 @@ $base_url = '../';
             </div>
 
             <div class="raj-callout raj-callout-warning">
-                <p class="text-gray-700 text-sm"><strong>सावधानी:</strong> आयुर्वेदिक दवाइयाँ भी दवाइयों की तरह प्रभावशाली हैं। अपॉइंटमेंट लेने से पहले अपने डॉक्टर से ज़रूर पूछें, खासकर अगर आप पहले से दवाइयाँ ले रहे हैं।</p>
+                <p class="text-gray-700 text-sm"><strong>सावधानी:</strong> आयुर्वेदिक दवाइयाँ भी दवाइयों की तरह प्रभावशाली हैं। इन्हें लेने से पहले अपने डॉक्टर से ज़रूर पूछें, खासकर अगर आप पहले से दवाइयाँ ले रहे हैं।</p>
             </div>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -552,7 +552,7 @@ $base_url = '../';
             <div class="space-y-4 mb-8">
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: ब्लड प्रेशर कितना होना चाहिए?</h4>
-                    <p class="text-gray-700 text-sm">सामान्य ब्लड प्रेशर 120/80 mmHg होता है। 130/80 से ऊपर को high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> माना जाता है। 90/60 से नीचे low blood pressure है।</p>
+                    <p class="text-gray-700 text-sm">सामान्य ब्लड प्रेशर 120/80 mmHg से कम होता है। 130/80 या उससे ऊपर को high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> माना जाता है। 90/60 से नीचे low blood pressure है।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">

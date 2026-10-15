@@ -45,7 +45,7 @@
             "name": "How RAJ Hospitals Helps <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
+                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। Stroke के किसी भी लक्षण में घरेलू उपाय न आजमाएं - तुरंत 108 call करें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
             }
         },
         {
@@ -69,7 +69,7 @@
             "name": "क्या इस समस्या में खुद से दवा लेना सुरक्षित है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "खुद से दवा लेने से जरूरी warning signs छिप सकते हैं या दवाओं का interaction हो सकता है। हल्की समस्या में आराम, पानी और संतुलित भोजन मदद कर सकते हैं, लेकिन लगातार या गंभीर लक्षणों में RAJ Hospital या नजदीकी योग्य डॉक्टर से सलाह लेना बेहतर है।"
+                "text": "खुद से दवा लेने से जरूरी warning signs छिप सकते हैं या दवाओं का interaction हो सकता है। Stroke के लक्षण (चेहरा टेढ़ा होना, हाथ-पैर में कमजोरी, बोलने में दिक्कत) हल्के हों या कुछ मिनट में ठीक हो जाएं, तब भी खुद से दवा न लें और तुरंत 108 call करें या नजदीकी emergency department जाएं।"
             }
         },
         {
@@ -345,7 +345,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">RAJ Hospital में thrombolysis (tPA) available है?</h4>
-                        <p class="text-gray-700">हाँ, हमारे पास 24x7 thrombolysis facility है। Ischemic stroke patients को 4.5 hours window में treatment मिल सकता है।</p>
+                        <p class="text-gray-700">हाँ, हमारे पास 24x7 thrombolysis facility है। Eligible ischemic stroke patients को symptoms शुरू होने के 4.5 घंटे के अंदर clot-buster treatment दिया जा सकता है, इसलिए एक भी minute देर न करें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">ICU bed available है stroke patients के लिए?</h4>
@@ -385,7 +385,7 @@
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">How RAJ Hospitals Helps Stroke Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?</h3>
-                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
+                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। Stroke के किसी भी लक्षण में घरेलू उपाय न आजमाएं - तुरंत 108 call करें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या How RAJ Hospitals Helps Stroke Treatment in Ranchi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
@@ -397,7 +397,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या इस समस्या में खुद से दवा लेना सुरक्षित है?</h3>
-                        <p class="text-gray-700">खुद से दवा लेने से जरूरी warning signs छिप सकते हैं या दवाओं का interaction हो सकता है। हल्की समस्या में आराम, पानी और संतुलित भोजन मदद कर सकते हैं, लेकिन लगातार या गंभीर लक्षणों में RAJ Hospital या नजदीकी योग्य डॉक्टर से सलाह लेना बेहतर है।</p>
+                        <p class="text-gray-700">खुद से दवा लेने से जरूरी warning signs छिप सकते हैं या दवाओं का interaction हो सकता है। Stroke के लक्षण (चेहरा टेढ़ा होना, हाथ-पैर में कमजोरी, बोलने में दिक्कत) हल्के हों या कुछ मिनट में ठीक हो जाएं, तब भी खुद से दवा न लें और तुरंत 108 call करें या नजदीकी emergency department जाएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
@@ -409,7 +409,7 @@
 <!-- RAJ SEO DEPTH START -->
                 <section class="mt-8 bg-orange-50 border border-orange-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Practical Next Steps for Patients</h2>
-                    <p class="text-gray-700 mb-4">If symptoms are mild, start by noting their frequency, duration, triggers, and any medicine already taken. This simple symptom diary helps the doctor understand whether the pattern is occasional, seasonal, injury-related, infection-related, lifestyle-related, or linked with an underlying medical condition. Patients should also carry old prescriptions, blood reports, imaging reports, and discharge summaries if available.</p>
+                    <p class="text-gray-700 mb-4">If you notice any stroke warning sign, even if mild or short-lived, call 108 immediately. For other non-urgent symptoms, note their frequency, duration, triggers, and any medicine already taken. This simple symptom diary helps the doctor understand whether the pattern is occasional, seasonal, injury-related, infection-related, lifestyle-related, or linked with an underlying medical condition. Patients should also carry old prescriptions, blood reports, imaging reports, and discharge summaries if available.</p>
                     <p class="text-gray-700 mb-4">Do not wait for symptoms to become severe before taking advice. Early consultation is especially important when symptoms affect sleep, work, walking, breathing, appetite, concentration, or daily activity. At RAJ Hospital, the care team can guide patients on whether they need emergency care, outpatient consultation, physiotherapy, diagnostic testing, medicine review, or follow-up with a specialist department.</p>
                     <p class="text-gray-700">For long-term prevention, focus on regular checkups, balanced diet, hydration, safe exercise, correct posture, adequate sleep, stress control, and avoiding tobacco. These steps support recovery and reduce the chances of repeated episodes, but they should be personalised according to age, pregnancy status, chronic illness, and current medications.</p>
                 </section>

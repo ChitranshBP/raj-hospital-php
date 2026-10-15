@@ -234,7 +234,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-purple-700">Key Point:</strong>
-                    <span class="text-gray-700"> आजकल <strong>90% से अधिक kidney stones non-invasive या minimally invasive treatments</strong> से remove किए जा सकते हैं। Surgery की जरूरत rare है।</span>
+                    <span class="text-gray-700"> आजकल <strong>ज़्यादातर kidney stones दवाओं, ESWL या minimally invasive procedures</strong> से remove किए जा सकते हैं। Open surgery की जरूरत अब कम पड़ती है, लेकिन URS और PCNL जैसे procedures भी anaesthesia में किए जाने वाले operations हैं।</span>
                 </div>
 
                 <!-- Section 1: Treatment Options -->
@@ -243,7 +243,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-purple-600">
                         <h4 class="font-bold text-purple-600">1. Conservative Management (5mm से छोटी stones)</h4>
-                        <p class="text-sm text-gray-600">High water intake (3-4 liters daily), pain medications, alpha-blockers (stones को pass करने में help करते हैं)। Stones खुद pass हो सकती हैं।</p>
+                        <p class="text-sm text-gray-600">Doctor की बताई मात्रा में ज़्यादा पानी (आमतौर पर 2.5-3 liters; heart/kidney failure में कम), doctor की सलाह से pain medications और alpha-blockers (stones को pass करने में help करते हैं)। Stones खुद pass हो सकती हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-purple-600">
                         <h4 class="font-bold text-purple-600">2. ESWL (Extracorporeal Shock Wave Lithotripsy)</h4>
@@ -338,7 +338,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2">Stone pass होने में कितना time लगता है?</h4>
-                        <p class="text-gray-700">5mm से छोटी stones 1-2 weeks में pass हो सकती हैं। Pain medications और alpha-blockers help करते हैं।</p>
+                        <p class="text-gray-700">5mm से छोटी stones अक्सर कुछ हफ्तों में doctor की निगरानी में pass हो सकती हैं। अगर दर्द के साथ बुखार, ठंड लगना, पेशाब बंद होना या लगातार उल्टी हो, तो तुरंत emergency जाएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2">ESWL painful है?</h4>

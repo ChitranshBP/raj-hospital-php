@@ -212,7 +212,7 @@
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="droplet" class="raj-icon raj-icon-md raj-icon-secondary"></i> Drink plenty of fluids</h3>
-                        <p class="raj-card-body">Staying well hydrated supports healthy spinal-fluid levels. Water, oral rehydration drinks and soups are all good — keep sipping steadily through the day.</p>
+                        <p class="raj-card-body">Staying hydrated is a common supportive measure, though it has not been shown to speed healing of the leak. Water, oral rehydration drinks and soups are all good — keep sipping steadily through the day.</p>
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="coffee" class="raj-icon raj-icon-md raj-icon-secondary"></i> Try caffeine</h3>

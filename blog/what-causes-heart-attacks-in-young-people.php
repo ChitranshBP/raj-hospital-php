@@ -367,7 +367,7 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can a 25-year-old have a heart attack?</h3>
-                            <p class="text-gray-700">Yes. Though far less common than after 45, heart attacks do happen in the 20s and 30s — usually from SCAD, inherited high cholesterol, stimulant use, uncontrolled diabetes, smoking or vaping, or coronary spasm. Any young adult with chest pain, breathlessness or fainting should be checked promptly at a cardiac unit such as <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>.</p>
+                            <p class="text-gray-700">Yes. Though far less common than after 45, heart attacks do happen in the 20s and 30s — most often from early plaque build-up driven by smoking or vaping, diabetes and high (sometimes inherited) cholesterol; less common causes include SCAD, stimulant use and coronary spasm. Any young adult with chest pain, breathlessness or fainting should be checked promptly at a cardiac unit such as <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can a fit, non-smoking young person still have a heart attack?</h3>

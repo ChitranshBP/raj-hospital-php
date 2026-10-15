@@ -64,7 +64,7 @@
           "name": "What is the critical 'Golden Hour' in spinal injuries?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The first few hours after severe trauma are vital. Rapid medical intervention massively reduces immense spinal cord swelling and secondary cellular death, dramatically improving chances of functional recovery."
+            "text": "The first few hours after severe trauma are vital. If a spinal injury is suspected, do not move the person unnecessarily and call 108. Keeping the spine immobilised and getting rapid specialist care can help limit secondary damage to the spinal cord and improve the chances of recovery."
           }
         },
         {
@@ -72,7 +72,7 @@
           "name": "Is complete paralysis always permanent?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "If an injury completely severs the spinal cord, paralysis is generally permanent. However, severe 'incomplete' injuries routinely allow patients to regain critical functional mobility over months of rehabilitation."
+            "text": "In a complete spinal cord injury, recovery below the level of injury is usually very limited. People with incomplete injuries often regain some function with rehabilitation over months, although the extent varies from person to person."
           }
         },
         {
@@ -329,7 +329,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>The first few hours after severe trauma are vital. Rapid medical intervention massively reduces immense spinal cord swelling and secondary cellular death, dramatically improving chances of functional recovery.</p>
+                                <p>The first few hours after severe trauma are vital. If a spinal injury is suspected, do not move the person unnecessarily and call 108. Keeping the spine immobilised and getting rapid specialist care can help limit secondary damage to the spinal cord and improve the chances of recovery.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -338,7 +338,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>If an injury completely severs the spinal cord, paralysis is generally permanent. However, severe 'incomplete' injuries routinely allow patients to regain critical functional mobility over months of rehabilitation.</p>
+                                <p>In a complete spinal cord injury, recovery below the level of injury is usually very limited. People with incomplete injuries often regain some function with rehabilitation over months, although the extent varies from person to person.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -429,7 +429,7 @@
                             </button>
 
                             <!-- Info Text -->
-                            <p class="text-xs text-gray-500 text-center mt-4">Our team will respond within 24 hours</p>
+                            <p class="text-xs text-gray-500 text-center mt-4">Our team will respond within 24 hours. In an emergency, call 108 or our 24x7 helpline +91 97714 88888 immediately.</p>
                         </form>
                     </div>
                 </div>

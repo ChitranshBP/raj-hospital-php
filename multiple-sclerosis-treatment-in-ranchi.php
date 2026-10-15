@@ -68,7 +68,7 @@
           "name": "Can Multiple Sclerosis be cured?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Currently, there is clearly no definitive absolute cure for MS. However, existing modern disease-modifying therapies are profoundly effective at radically altering the disease course and preventing disabling symptoms."
+            "text": "Currently, there is clearly no definitive absolute cure for MS. However, disease-modifying therapies can reduce relapses and slow the build-up of disability, especially in relapsing forms of MS."
           }
         },
         {
@@ -76,7 +76,7 @@
           "name": "How is an acute MS relapse physically treated?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A typical relapse (or sudden flare-up) is frequently managed smoothly with a massive short course of high-dose intensive corticosteroids to abruptly reduce inflammation and rapidly accelerate natural recovery."
+            "text": "A significant relapse (flare-up) is often treated with a short course of high-dose corticosteroids, which can speed up recovery but do not change the long-term outcome; mild relapses may not need treatment. Your neurologist will decide what is appropriate."
           }
         },
         {
@@ -100,7 +100,7 @@
           "name": "Can I effectively exercise frequently with MS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Absolutely! Gentle heavily modified rigorous exercise comprehensively improves sheer strength, decreases disabling fatigue securely, and profoundly manages tight clinical nerve spasticity very favorably for long-term health."
+            "text": "Yes. Regular exercise suited to your ability, ideally planned with a physiotherapist, can improve strength and fitness, reduce fatigue and help manage spasticity."
           }
         }
 
@@ -242,7 +242,7 @@
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900">Lumbar Puncture (Spinal Tap)</h4>
-                                    <p class="text-gray-600">Fluid analysis to detect antibodies associated with MS.</p>
+                                    <p class="text-gray-600">Fluid analysis to look for oligoclonal bands, a marker of immune activity in the nervous system that supports an MS diagnosis.</p>
                                 </div>
                             </li>
 
@@ -337,7 +337,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Currently, there is clearly no definitive absolute cure for MS. However, existing modern disease-modifying therapies are profoundly effective at radically altering the disease course and preventing disabling symptoms.</p>
+                                <p>Currently, there is clearly no definitive absolute cure for MS. However, disease-modifying therapies can reduce relapses and slow the build-up of disability, especially in relapsing forms of MS.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -346,7 +346,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>A typical relapse (or sudden flare-up) is frequently managed smoothly with a massive short course of high-dose intensive corticosteroids to abruptly reduce inflammation and rapidly accelerate natural recovery.</p>
+                                <p>A significant relapse (flare-up) is often treated with a short course of high-dose corticosteroids, which can speed up recovery but do not change the long-term outcome; mild relapses may not need treatment. Your neurologist will decide what is appropriate.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -373,7 +373,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Absolutely! Gentle heavily modified rigorous exercise comprehensively improves sheer strength, decreases disabling fatigue securely, and profoundly manages tight clinical nerve spasticity very favorably for long-term health.</p>
+                                <p>Yes. Regular exercise suited to your ability, ideally planned with a physiotherapist, can improve strength and fitness, reduce fatigue and help manage spasticity.</p>
                             </div>
                         </div>
 

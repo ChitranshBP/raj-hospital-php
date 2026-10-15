@@ -315,7 +315,6 @@
                     <li><strong>Advanced Diagnostics:</strong> MRI, CT Scan, digital X-ray available</li>
                     <li><strong>Modern OT:</strong> Fully equipped operation theater</li>
                     <li><strong>Rehabilitation:</strong> Complete physiotherapy और recovery support</li>
-                    <li><strong>Affordable Treatment:</strong> </li>
                 </div>
 
                 <!-- CTA Box -->
@@ -331,7 +330,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-blue-600 mb-2">Joint replacement surgery में कितना time लगता है?</h4>
-                        <p class="text-gray-700">Knee या hip replacement surgery usually 1-2 hours लगता है। Hospital stay 3-5 days। Full recovery 6-8 weeks में।</p>
+                        <p class="text-gray-700">Knee या hip replacement surgery usually 1-2 hours लगता है। Hospital stay 3-5 days। ज़्यादातर daily activities 6-12 हफ्तों में शुरू हो जाती हैं, लेकिन full recovery में 3-6 महीने (कभी-कभी 1 साल तक) लग सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-blue-600 mb-2">Physiotherapy कितने sessions ज़रूरी हैं?</h4>
@@ -339,7 +338,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-blue-600 mb-2">Pain मैनेजमेंट के लिए क्या options हैं?</h4>
-                        <p class="text-gray-700">NSAIDs, topical creams, heat/cold therapy, TENS machine, acupuncture, और lifestyle modifications - combination approach सबसे effective है।</p>
+                        <p class="text-gray-700">Doctor की सलाह से NSAIDs, topical creams, heat/cold therapy, TENS machine, acupuncture, और lifestyle modifications - combination approach अक्सर उपयोगी रहता है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

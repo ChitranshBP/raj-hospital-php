@@ -227,7 +227,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    This comprehensive guide presents a <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>-friendly Indian diet plan</strong> compiled for general awareness by <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>. Whether you're dealing with Type 1, Type 2, or gestational <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, these dietary guidelines can help you maintain stable blood glucose levels while enjoying the flavors of authentic Indian cooking.
+                    This comprehensive guide presents a <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>-friendly Indian diet plan</strong> compiled for general awareness by <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>. If you have Type 2 diabetes (Type 1 and gestational diabetes need an individual plan from your doctor and dietitian) or a family history of <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, these dietary guidelines can help you maintain stable blood glucose levels while enjoying the flavors of authentic Indian cooking.
                 </p>
 
                 <!-- Section 1: Understanding Diabetes -->
@@ -243,7 +243,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Fact:</strong>
-                    <span class="text-gray-700"> According to the International Diabetes Federation, India has over 77 million people living with diabetes, making it the second most affected country in the world. Proper diet and lifestyle can prevent or delay diabetes complications.</span>
+                    <span class="text-gray-700"> According to the ICMR-INDIAB study (2023), more than 10 crore (about 101 million) people in India are living with diabetes. Proper diet and lifestyle can prevent or delay diabetes complications.</span>
                 </div>
 
                 <!-- Section 2: Understanding GI -->
@@ -276,7 +276,7 @@
                     </div>
                     <div class="flex justify-between items-center bg-gray-50 p-3 rounded-lg">
                         <span class="text-gray-700">Brown rice</span>
-                        <span class="font-bold text-green-600">Low GI (~68)</span>
+                        <span class="font-bold text-green-600">Medium GI (~68)</span>
                     </div>
                     <div class="flex justify-between items-center bg-gray-50 p-3 rounded-lg">
                         <span class="text-gray-700">White rice</span>
@@ -327,7 +327,7 @@
                     <li><strong>Leafy greens</strong> - Spinach (palak), fenugreek (methi), mustard greens (sarson)</li>
                     <li><strong>Bitter vegetables</strong> - Bitter gourd (karela), bottle gourd (lauki), ridge gourd (torai)</li>
                     <li><strong> Cruciferous vegetables</strong> - Cauliflower, broccoli, cabbage</li>
-                    <li><strong>Okra (bhindi)</strong> - Known for blood sugar lowering properties</li>
+                    <li><strong>Okra (bhindi)</strong> - High in fibre, which helps slow sugar absorption</li>
                     <li><strong>Tomatoes, cucumbers, carrots</strong> - Low-calorie options</li>
                 </ul>
 
@@ -359,7 +359,7 @@
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Sugary Foods</h4>
-                        <p class="text-sm text-gray-600">Sweets, candies, pastries, ice cream, sugary drinks (lassi, nimbu pani with sugar), and desserts. Use natural sweeteners in moderation if needed.</p>
+                        <p class="text-sm text-gray-600">Sweets, candies, pastries, ice cream, sugary drinks (lassi, nimbu pani with sugar), and desserts. Honey, jaggery and other 'natural' sweeteners also raise blood sugar; if needed, use a non-nutritive sweetener in moderation as advised by your doctor.</p>
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Fried Foods</h4>
@@ -372,7 +372,7 @@
                 </div>
 
                 <!-- Section 5: Sample Diet Plan -->
-                <h2 class="raj-h2">Sample Indian Diet Plan for Diabetes (2000 Calories)</h2>
+                <h2 class="raj-h2">Sample Indian Diet Plan for Diabetes (Example only – calories and portions to be set by your doctor/dietitian)</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Early Morning (6:00-7:00 AM)</h3>
                 <div class="bg-gray-50 p-4 rounded-lg mb-6">
@@ -461,7 +461,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Spice Benefits</h4>
-                        <p class="text-sm text-gray-600">Turmeric, cinnamon, and fenugreek have proven anti-diabetic properties that enhance the diet's effectiveness.</p>
+                        <p class="text-sm text-gray-600">Turmeric, cinnamon and fenugreek may have small effects on blood sugar in some studies, but the evidence is limited and they cannot replace diabetes medicines.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Cultural Compatibility</h4>
@@ -483,7 +483,7 @@
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Stress Management:</strong> Practice meditation or deep breathing - stress hormones affect blood sugar</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quality Sleep:</strong> 7-8 hours of sleep helps regulate hormones</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Monitoring:</strong> Check blood sugar levels as recommended by your doctor</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Moringa Supplement:</strong> Consider adding <a href="/blog/best-ways-to-take-moringa-for-managing-diabetes/" class="text-secondary-600 hover:underline">moringa to your routine</a></li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Moringa Supplement:</strong> Ask your doctor before adding <a href="/blog/best-ways-to-take-moringa-for-managing-diabetes/" class="text-secondary-600 hover:underline">moringa to your routine</a></li>
                     </ul>
                 </div>
 

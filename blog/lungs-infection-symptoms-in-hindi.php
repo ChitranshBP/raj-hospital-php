@@ -317,7 +317,7 @@
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700"><i data-feather="thermometer" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i>️ बुखार पर नियंत्रण</h4>
-                        <p class="text-sm text-gray-600">पैरासिटामोल लें। ठंडी स्पंजिंग करें।</p>
+                        <p class="text-sm text-gray-600">डॉक्टर की सलाह से बुखार की दवा (जैसे पैरासिटामोल) लें। गुनगुने पानी से स्पंजिंग करें।</p>
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i> गर्म पानी और शहद</h4>
@@ -344,7 +344,7 @@
                         <li>छाती में तेज़ दर्द हो</li>
                         <li>होंठ या नाखून नीले पड़ने लगें</li>
                         <li>Confusion या बेहोशी जैसे लक्षण हों</li>
-                        <li>2-3 दिनों से ज्यादा खांसी न रुके</li>
+                        <li>खांसी 2 हफ्ते से ज्यादा रहे (TB की जांच के लिए)</li>
                     </ul>
                 </div>
 
@@ -362,7 +362,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">फेफड़ों के इन्फेक्शन में क्या खाना चाहिए?</h4>
-                        <p class="text-gray-700">गर्म soups, fruits rich in Vitamin C, vegetables, और प्रोटीन युक्त खाना खाएं। processed food और dairy से बचें।</p>
+                        <p class="text-gray-700">गर्म soups, fruits rich in Vitamin C, vegetables, और प्रोटीन युक्त खाना खाएं। processed food कम करें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या vaccine से बचाव हो सकता है?</h4>

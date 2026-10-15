@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Joint Replacement Recovery: An Honest Week-by-Week Timeline">
-    <meta property="og:description" content="Not the sanitised brochure version. What week one actually feels like, when the walking aid goes, and what patients say surprised them.">
+    <meta property="og:description" content="Not the sanitised brochure version. What week one actually feels like, when the walking aid goes, and common surprises during recovery.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/knee-replacement-recovery-timeline/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/knee-replacement-recovery-timeline.jpg">
@@ -293,9 +293,9 @@
                     <strong>The question every Indian patient asks:</strong> can I sit cross-legged and squat again? Be wary of anyone who answers this breezily. After a conventional total knee replacement, deep squatting, floor sitting and kneeling are generally discouraged, because they load the implant heavily and can shorten its life. Many patients regain enough bend to manage these occasionally, but they are not recommended as a daily habit. If floor-level living, Indian-style toilets or floor seating are unavoidable in your home, raise it <em>before</em> surgery. It genuinely affects planning, implant choice and the home modifications worth making in advance.
                 </p>
 
-                <h2 class="raj-h2"><i data-feather="message-square" class="raj-h2-icon"></i> What Patients Say Surprised Them, Honestly</h2>
+                <h2 class="raj-h2"><i data-feather="message-square" class="raj-h2-icon"></i> Common Experiences During Recovery</h2>
                 <p class="text-gray-700 mb-4">
-                    These are the things that come up in follow-up clinic again and again, and almost none of them appear in patient information leaflets.
+                    These are common experiences during recovery that are worth knowing in advance.
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>"Nobody told me I would be standing the same day."</strong> Most people expect a week of bed rest and are alarmed when asked to stand within hours. It is deliberate and it is safe.</li>
@@ -304,7 +304,7 @@
                     <li><strong>"The knee felt warm for months."</strong> Warmth and mild swelling around the joint can persist for six to twelve months. On its own, without fever or spreading redness, it is normal healing.</li>
                     <li><strong>"There is a numb patch on the outer side of the scar."</strong> Almost universal after knee replacement. Small skin nerves are unavoidably cut during the incision. It shrinks over time and is harmless.</li>
                     <li><strong>"It clicks."</strong> Occasional clicking or a soft clunk from a metal and plastic joint is expected and is not a sign of loosening.</li>
-                    <li><strong>"I wish I had done it four years earlier."</strong> The most common statement of all, and the reason this article exists. Waiting until walking is severely limited means starting rehabilitation with weaker muscles, which slows everything.</li>
+                    <li><strong>""</strong> The most common statement of all, and the reason this article exists. Waiting until walking is severely limited means starting rehabilitation with weaker muscles, which slows everything.</li>
                     <li><strong>"Sleep was the worst part."</strong> Disturbed sleep for the first few weeks affects mood and makes everything feel harder. Say so at follow-up, because it can be helped.</li>
                 </ul>
 

@@ -306,7 +306,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    यह समझना ज़रूरी है कि <strong>fits एक बीमारी है, कोई curse या evil spirit नहीं</strong>। पुराने समय में लोग इसे अंधविश्वास से जोड़ते थे, लेकिन modern medicine में यह completely treatable है। अगर आपको या आपके परिवार में किसी को यह problem है, तो घबराएं नहीं - <a href="/epilepsy-and-seizures-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">proper medical treatment</a> से नियंत्रण मिल सकता है।
+                    यह समझना ज़रूरी है कि <strong>fits एक बीमारी है, कोई curse या evil spirit नहीं</strong>। पुराने समय में लोग इसे अंधविश्वास से जोड़ते थे, लेकिन modern medicine में ज़्यादातर मरीजों में दवाइयों से दौरे नियंत्रित किए जा सकते हैं, हालांकि कुछ मरीजों में दवाइयों के बावजूद दौरे आते रहते हैं। अगर आपको या आपके परिवार में किसी को यह problem है, तो घबराएं नहीं - <a href="/epilepsy-and-seizures-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">proper medical treatment</a> से नियंत्रण मिल सकता है।
                 </p>
 
                 <!-- Section 2: Types -->
@@ -394,7 +394,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">1. EEG (Electroencephalogram)</h4>
-                        <p class="text-sm text-gray-600">Brain की electrical activity को measure करता है। यह diagnosis में most important test है। Seizure patterns identify करने में helpful है।</p>
+                        <p class="text-sm text-gray-600">Brain की electrical activity को measure करता है। यह diagnosis में एक महत्वपूर्ण test है, लेकिन normal EEG होने से epilepsy rule out नहीं होती। Seizure patterns identify करने में helpful है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">2. MRI (Magnetic Resonance Imaging)</h4>
@@ -459,7 +459,7 @@
                         <li>2. Patient को <strong>सुरक्षित जगह</strong> पर लिटाएं</li>
                         <li>3. <strong>Tight clothes</strong> ढीले करें</li>
                         <li>4. सिर के नीचे <strong>soft thing</strong> रखें</li>
-                        <li>5. चीज़ें दांतों में न डालें (ज़बान काटने का risk है)</li>
+                        <li>5. मुंह में चम्मच, उंगली या कपड़ा जैसी कोई चीज़ न डालें (इससे दांत टूटने या दम घुटने का खतरा होता है)</li>
                         <li>6. दौरे के दौरान <strong>पकड़कर रोकने</strong> की कोशिश न करें</li>
                         <li>7. Patient को <strong>करवट की position</strong> में रखें (ताकि vomit/ saliva बाहर आए)</li>
                     </ul>

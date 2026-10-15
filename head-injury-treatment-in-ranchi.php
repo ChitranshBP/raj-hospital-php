@@ -84,7 +84,7 @@
           "name": "How long does a concussion take to heal?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Most concussions resolve within two to four weeks with strict physical and cognitive rest. However, recurring concussions or severe impact traumas may leave lingering symptoms requiring specific medical therapies."
+            "text": "Most concussions improve within two to four weeks. Current advice is relative rest for the first day or two, followed by a gradual, symptom-guided return to normal activities as advised by your doctor. However, recurring concussions or severe impact traumas may leave lingering symptoms requiring specific medical therapies."
           }
         },
         {
@@ -92,7 +92,7 @@
           "name": "What is Intracranial Pressure (ICP)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "ICP is the internal pressure inside your skull. Severe head trauma typically causes huge brain swelling, dramatically increasing this pressure. Unchecked high ICP ultimately destroys healthy brain tissue entirely, requiring immediate surgical release."
+            "text": "ICP is the internal pressure inside your skull. Severe head trauma typically causes huge brain swelling, dramatically increasing this pressure. Uncontrolled high ICP reduces blood flow to the brain and can cause further brain damage, so it needs urgent treatment in intensive care, with medicines and, in some cases, surgery."
           }
         },
         {
@@ -100,7 +100,7 @@
           "name": "Why is clear fluid leaking from my nose dangerous?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Clear fluid explicitly leaking directly deeply from the nose or ears post-trauma is critically usually cerebrospinal fluid (CSF). This effectively signifies a direct massive fracture totally in the absolute base of the heavy skull, heavily inviting deadly infections."
+            "text": "Clear fluid leaking from the nose or ears after a head injury may be cerebrospinal fluid (CSF). This can indicate a fracture at the base of the skull and carries a risk of infection such as meningitis, so emergency medical care is needed."
           }
         }
 
@@ -359,7 +359,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Most concussions resolve within two to four weeks with strict physical and cognitive rest. However, recurring concussions or severe impact traumas may leave lingering symptoms requiring specific medical therapies.</p>
+                                <p>Most concussions improve within two to four weeks. Current advice is relative rest for the first day or two, followed by a gradual, symptom-guided return to normal activities as advised by your doctor. However, recurring concussions or severe impact traumas may leave lingering symptoms requiring specific medical therapies.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -368,7 +368,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>ICP is the internal pressure inside your skull. Severe head trauma typically causes huge brain swelling, dramatically increasing this pressure. Unchecked high ICP ultimately destroys healthy brain tissue entirely, requiring immediate surgical release.</p>
+                                <p>ICP is the internal pressure inside your skull. Severe head trauma typically causes huge brain swelling, dramatically increasing this pressure. Uncontrolled high ICP reduces blood flow to the brain and can cause further brain damage, so it needs urgent treatment in intensive care, with medicines and, in some cases, surgery.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -377,7 +377,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Clear fluid explicitly leaking directly deeply from the nose or ears post-trauma is critically usually cerebrospinal fluid (CSF). This effectively signifies a direct massive fracture totally in the absolute base of the heavy skull, heavily inviting deadly infections.</p>
+                                <p>Clear fluid leaking from the nose or ears after a head injury may be cerebrospinal fluid (CSF). This can indicate a fracture at the base of the skull and carries a risk of infection such as meningitis, so emergency medical care is needed.</p>
                             </div>
                         </div>
 
@@ -441,7 +441,7 @@
                             </button>
 
                             <!-- Info Text -->
-                            <p class="text-xs text-gray-500 text-center mt-4">Our team will respond within 24 hours</p>
+                            <p class="text-xs text-gray-500 text-center mt-4">Our team will respond within 24 hours. In an emergency, call 108 or our 24x7 helpline +91 97714 88888 immediately.</p>
                         </form>
                     </div>
                 </div>

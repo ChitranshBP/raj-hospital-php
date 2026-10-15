@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -252,7 +252,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">PCOS vs PCOD:</strong>
-                    <span class="text-gray-700"> PCOS is a more severe metabolic condition, while PCOD is primarily an ovarian condition. PCOS requires more intensive medical management.</span>
+                    <span class="text-gray-700"> PCOD and PCOS are often used for the same condition; international guidelines use the term PCOS. Severity and treatment needs vary from woman to woman and are decided after medical evaluation.</span>
                 </div>
 
                 <!-- Section 2: PCOS Symptoms -->
@@ -327,7 +327,7 @@
                         <div class="font-bold text-blue-700 mb-2">Medications</div>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Combined oral contraceptives</li>
-                            <li>Anti-androgens (spironolactone)</li>
+                            <li>Anti-androgens (only on prescription; not to be used during pregnancy)</li>
                             <li>Metformin</li>
                             <li>Clomiphene/Letrozole (for fertility)</li>
                         </ul>
@@ -348,7 +348,6 @@
                     <li>Personalized treatment plans</li>
                     <li>Fertility counseling and treatment</li>
                     <li>Long-term management and follow-up</li>
-                    <li></li>
                 </ul>
 
                 <!-- CTA Box -->
@@ -420,7 +419,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

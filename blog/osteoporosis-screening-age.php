@@ -139,7 +139,7 @@
                 "name": "How much calcium and vitamin D do adults need for bone health?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Most adults need roughly 1000 to 1200 mg of calcium daily, ideally from food such as milk, curd, paneer, ragi, sesame seeds, green leafy vegetables and small fish eaten with bones. Vitamin D is needed for calcium to be absorbed at all, and deficiency is extremely common in India despite the sunshine, because of indoor lifestyles, covering clothing and darker skin. Vitamin D requirements are individual, so dosing should follow a blood level rather than guesswork."
+                    "text": "Most adults need roughly 1000 to 1200 mg of calcium daily, ideally from food such as milk, curd, paneer, ragi, sesame seeds, green leafy vegetables and small fish eaten with bones. Vitamin D is needed for calcium to be absorbed efficiently, and deficiency is extremely common in India despite the sunshine, because of indoor lifestyles, covering clothing and darker skin. Vitamin D requirements are individual, so dosing should follow a blood level rather than guesswork."
                 }
             },
             {
@@ -220,7 +220,7 @@
                     Bone is not inert scaffolding. It is living tissue in constant turnover, with cells called osteoclasts removing old bone and osteoblasts laying down new bone. Through youth, building outpaces removal. Peak bone mass is reached around the late twenties. After that the two roughly balance for a couple of decades, and then removal starts to win.
                 </p>
                 <p class="text-gray-700 mb-4">
-                    In women, this tips sharply at menopause. Oestrogen restrains the bone-removing cells, and when it falls, they work unopposed. The years immediately around and after menopause see the steepest bone loss of a woman's life, and it happens with no sensation whatsoever, because <strong>bone tissue itself has no pain fibres inside it</strong>. Pain comes from the periosteum covering the bone, from muscle and from nerves, none of which are affected by thinning within. A bone can lose a third of its density and feel exactly like it did at thirty.
+                    In women, this tips sharply at menopause. Oestrogen restrains the bone-removing cells, and when it falls, they work unopposed. The years immediately around and after menopause see the steepest bone loss of a woman's life, and it happens with no sensation whatsoever, because <strong>the slow thinning inside bone does not trigger pain</strong>. Pain comes from the periosteum covering the bone, from muscle and from nerves, none of which are affected by thinning within. A bone can lose a third of its density and feel exactly like it did at thirty.
                 </p>
                 <p class="text-gray-700 mb-4">
                     What you might notice, if you are paying close attention over years, are indirect clues rather than symptoms:
@@ -391,7 +391,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">How much calcium and vitamin D do adults need for bone health?</h3>
-                        <p class="text-gray-700">Roughly 1000 to 1200 mg of calcium daily for most adults, ideally from milk, curd, paneer, ragi, sesame, green leafy vegetables and small fish eaten with bones. Vitamin D is needed for calcium to be absorbed at all, and deficiency is common in India despite the sunshine. Vitamin D dosing should follow a measured blood level rather than guesswork.</p>
+                        <p class="text-gray-700">Roughly 1000 to 1200 mg of calcium daily for most adults, ideally from milk, curd, paneer, ragi, sesame, green leafy vegetables and small fish eaten with bones. Vitamin D is needed for calcium to be absorbed efficiently, and deficiency is common in India despite the sunshine. Vitamin D dosing should follow a measured blood level rather than guesswork.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">What exercise actually strengthens bone?</h3>

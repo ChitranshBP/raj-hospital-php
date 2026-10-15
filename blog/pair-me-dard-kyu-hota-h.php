@@ -299,7 +299,7 @@
                 <h2 class="raj-h2">कब यह गंभीर हो सकता है?</h2>
 
                 <div class="raj-callout raj-callout-danger">
-                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> इन लक्षणों पर ध्यान दें:</strong>
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> इन लक्षणों पर तुरंत डॉक्टर को दिखाएं (एक पैर की पिंडली में अचानक दर्द-सूजन हो, या पैर ठंडा, फीका/नीला पड़ जाए तो तुरंत emergency जाएं):</strong>
                     <ul class="list-disc list-inside space-y-1 text-gray-700 mt-2">
                         <li>पैर में सुन्नपन जो जा नहीं रहा</li>
                         <li>घाव जो भर नहीं रहे</li>
@@ -347,7 +347,7 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>दवाइयाँ:</strong> Pain killers, anti-inflammatories, gout की दवाइयाँ</li>
+                    <li><strong>दवाइयाँ:</strong> Pain killers, anti-inflammatories, gout की दवाइयाँ (केवल डॉक्टर की सलाह से)</li>
                     <li><strong>Physical therapy:</strong> Exercises और stretches</li>
                     <li><strong>Orthotics:</strong> Custom insoles जो support करें</li>
                     <li><strong>Surgery:</strong> गंभीर cases में (bunion, heel spur)</li>
@@ -390,7 +390,7 @@
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients</a></li>
-                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Ways to Take Moringa for Managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></a></li>
+                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Moringa और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></a></li>
                         <li><a href="/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार</a></li>
                         <li><a href="/blog/diabetes-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Symptoms in Men - Warning Signs Every Man Should Know</a></li>
                         <li><a href="/blog/immunity-kaise-badhaye.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Immunity Kaise Badhaye - Immunity Boost करने के तरीके</a></li>

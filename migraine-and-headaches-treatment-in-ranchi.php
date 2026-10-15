@@ -100,7 +100,7 @@
           "name": "Can botox be used for migraines?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. For chronic migraines, targeted botox injections can precisely reduce pain pathways directly offering significant multi-month relief."
+            "text": "Yes. For chronic migraine (headache on 15 or more days a month), botulinum toxin injections given by a trained specialist can reduce the number of headache days in some patients; injections are usually repeated about every 12 weeks."
           }
         }
 
@@ -262,7 +262,7 @@
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">CGRP Antagonists</h4>
-                                <p class="text-gray-600">Newer, highly effective preventative treatments specifically targeting the migraine pathway.</p>
+                                <p class="text-gray-600">Newer preventive treatments that target the CGRP pathway involved in migraine; usually considered when other preventive medicines have not worked.</p>
                             </div>
 
                         </div>
@@ -373,7 +373,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes. For chronic migraines, targeted botox injections can precisely reduce pain pathways directly offering significant multi-month relief.</p>
+                                <p>Yes. For chronic migraine (headache on 15 or more days a month), botulinum toxin injections given by a trained specialist can reduce the number of headache days in some patients; injections are usually repeated about every 12 weeks.</p>
                             </div>
                         </div>
 

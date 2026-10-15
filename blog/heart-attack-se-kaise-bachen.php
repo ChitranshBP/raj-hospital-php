@@ -99,7 +99,7 @@
                 "name": "Heart attack ke lakshan kya hain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart attack ke common lakshan hain: chest mein dard ya pressure, haath ya turn mein pain, shoulder ya back mein dard, saans lena mushkil, cold sweat, nausea, fatigue, aur chhati mein burning sensation. Agar ye symptoms dikhein to turant doctor se milein. RAJ Hospital Ranchi mein <a href='../stroke-and-tia-treatment-in-ranchi.php'>emergency <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> and <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> care</a> available hai."
+                    "text": "Heart attack ke common lakshan hain: chest mein dard ya pressure, haath ya turn mein pain, shoulder ya back mein dard, saans lena mushkil, cold sweat, nausea, fatigue, aur chhati mein burning sensation. Agar ye symptoms dikhein to turant 108/ambulance call karein ya nazdeeki emergency mein pahunchein. RAJ Hospital Ranchi mein <a href='../stroke-and-tia-treatment-in-ranchi.php'>emergency <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> and <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> care</a> available hai."
                 }
             },
             {
@@ -327,7 +327,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Statistics:</strong>
-                    <span class="text-gray-700"> WHO ke anusar, heart disease duniya bhar mein sabse bada murder reason hai. India mein har saal 17 million+ log heart-related problems se marte hain. Prevention is always better than cure - heart attack se bachein is tarike se.</span>
+                    <span class="text-gray-700"> WHO ke anusar, heart disease duniya bhar mein maut ka sabse bada kaaran hai. Duniya bhar mein har saal lagbhag 1.79 crore (17.9 million) log cardiovascular diseases se marte hain (WHO). Prevention is always better than cure - heart attack se bachein is tarike se.</span>
                 </div>
 
                 <!-- Section 3: 15 Prevention Tips -->
@@ -355,7 +355,7 @@
                         <strong>Healthy diet</strong> heart attack prevention mein crucial role play karta hai. Fruits, vegetables, whole grains, lean proteins, aur omega-3 rich foods jaise salmon, walnuts, aur flaxseeds zyada khaein. Mediterranean diet ko consider karein jo research mein heart-healthy sabit hua hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Trans fats aur saturated fats se entirely bachein. Processed foods, fried items, aur sugary drinks kam karein. Salt intake 5g se kam rakhein. Ghee, butter, aur cheese ki jagah olive oil, mustard oil, ya canola oil use karein. Daily 2-3 servings of fruits aur vegetables ensure karein.
+                        Trans fats se bachein aur saturated fats kam karein. Processed foods, fried items, aur sugary drinks kam karein. Salt intake 5g se kam rakhein. Ghee, butter, aur cheese ki jagah olive oil, mustard oil, ya canola oil use karein. Daily kam se kam 5 servings (lagbhag 400 g) fruits aur vegetables ensure karein.
                     </p>
                 </div>
 
@@ -366,7 +366,7 @@
                         <strong>Smoking</strong> heart attack ka sabse big controllable risk factor hai. Cigarette smoking blood vessels ko damage karta hai, cholesterol levels badhata hai, aur blood pressure increase karta hai. Sirf 1 cigarette per day se bhi heart disease ka risk 50% badh jata hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Agar aap smoker hain, to abhi smoking chhodne ka decision lein. Withdrawal symptoms se bachne ke liye nicotine patches ya gum use karein. Doctor se consult karein jo aapko smoking cessation mein madad kar sakein. <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein smoking cessation program available hai.
+                        Agar aap smoker hain, to abhi smoking chhodne ka decision lein. Withdrawal symptoms ke liye doctor ki salah se nicotine patches ya gum use kar sakte hain. Doctor se consult karein jo aapko smoking cessation mein madad kar sakein. <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein smoking cessation program available hai.
                     </p>
                 </div>
 
@@ -407,7 +407,7 @@
                 <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600 mb-4">
                     <h3 class="text-lg font-bold text-primary-600 mb-2">7. Healthy Weight Maintain Karein</h3>
                     <p class="text-gray-700">
-                        <strong>Obesity</strong> heart attack ka significant risk factor hai. Extra weight se heart par pressure padta hai, blood pressure badhta hai, cholesterol levels disturb hote hain, aur diabetes risk badh jata hai. Body Mass Index (BMI) 18.5-24.9 ke beech hona chahiye.
+                        <strong>Obesity</strong> heart attack ka significant risk factor hai. Extra weight se heart par pressure padta hai, blood pressure badhta hai, cholesterol levels disturb hote hain, aur diabetes risk badh jata hai. Body Mass Index (BMI) Indian guidelines ke anusaar 18.5-22.9 ke beech hona behtar hai.
                     </p>
                     <p class="text-gray-700 mt-2">
                         Weight management ke liye calories intake control karein, regular exercise karein, processed foods se bachein, aur portion sizes manage karein. Slow steady weight loss (0.5-1 kg/week) healthy aur sustainable hai. Crash diets se bachein jo heart ke liye harmful ho sakte hain. <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein nutritionists available hain jo personalized diet plan de sakte hain.
@@ -421,7 +421,7 @@
                         <strong>Excessive alcohol</strong> blood pressure badhata hai, heart rhythm disturb karta hai, aur calories add karta hai jo weight gain ka karan banata hai. Regular heavy drinking se cardiomyopathy (heart muscle disease) ho sakta hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Agar aap alcohol drink karte hain, to limit rakhein - maximum 1 drink per day for women aur 2 drinks per day for men. Red wine ki ek small amount (occasionally) heart ke liye beneficial ho sakti hai due to antioxidants, but research limited hai. Alcohol completely chhod dena heart ke liye zyada surakshit hai.
+                        Agar aap alcohol drink karte hain, to limit rakhein - maximum 1 drink per day for women aur 2 drinks per day for men. Red wine ko heart ke liye faydemand maan kar peena shuru na karein - WHO ke anusaar alcohol ka koi bhi level poori tarah safe nahi hai. Alcohol completely chhod dena heart ke liye zyada surakshit hai.
                     </p>
                 </div>
 
@@ -466,7 +466,7 @@
                     </p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700 mt-2 mb-2">
                         <li>Chest mein dard, pressure, ya tightness</li>
-                        <li>Haath, turn, shoulder, ya back mein pain</li>
+                        <li>Haath, jaw (jabda), shoulder, ya back mein pain</li>
                         <li>Saans lena mushkil (shortness of breath)</li>
                         <li>-cold sweat, nausea, dizziness</li>
                         <li>Extreme fatigue, especially women mein</li>
@@ -491,10 +491,10 @@
                 <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600 mb-4">
                     <h3 class="text-lg font-bold text-primary-600 mb-2">14. Omega-3 Fatty Acids Apni Diet Mein Shamil Karein</h3>
                     <p class="text-gray-700">
-                        <strong>Omega-3 fatty acids</strong> heart health ke liye bahut beneficial hain. Ye triglycerides level kam karte hain, blood pressure manage karte hain, inflammation reduce karte hain, aur heart rhythm stable rakhte hain. Research shows ki omega-3 heart attack risk 10-20% tak kam kar sakte hain.
+                        <strong>Omega-3 fatty acids</strong> heart health ke liye bahut beneficial hain. Ye triglycerides level kam karte hain, blood pressure manage karte hain, inflammation reduce karte hain, aur heart rhythm stable rakhte hain. Kuch research mein omega-3 se heart health ko faayda dikha hai, lekin supplements ka benefit sabke liye clear nahi hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Omega-3 rich foods mein shamil hain: salmon, mackerel, sardines, walnuts, flaxseeds, chia seeds, aur soybeans. Weekly 2-3 times fish khaane ki recommended hai. Vegetarian sources bhi available hain. Consider fish oil supplements, especially vegetarian options jaise algae oil.
+                        Omega-3 rich foods mein shamil hain: salmon, mackerel, sardines, walnuts, flaxseeds, chia seeds, aur soybeans. Weekly 2-3 times fish khaane ki recommended hai. Vegetarian sources bhi available hain. Fish oil ya algae oil supplements sirf doctor ki salah se lein.
                     </p>
                 </div>
 
@@ -513,7 +513,7 @@
                             <li><strong>Triglycerides:</strong> Below 150 mg/dL</li>
                             <li><strong>Fasting Blood Sugar:</strong> Below 100 mg/dL</li>
                             <li><strong>BMI:</strong> 18.5-24.9</li>
-                            <li><strong>Waist Circumference:</strong> Men <40 inches, Women <35 inches</li>
+                            <li><strong>Waist Circumference:</strong> Men <90 cm (~35 inches), Women <80 cm (~31.5 inches)</li>
                         </ul>
                     </div>
                     <p class="text-gray-700 mt-2">
@@ -525,14 +525,14 @@
                 <h2 class="raj-h2-secondary">Heart Attack Ka Golden Hour: Har Minute Mahatvapurna Hai</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Heart attack</strong> ke baad first 90 minutes ko "golden hour" kaha jata hai. Is critical time ke andar treatment shuru karne se heart muscle ka damage limited hota hai aur survival chance significantly badhta hai. Research shows ki golden hour ke andar treatment se death risk 50% tak kam ho sakta hai.
+                    <strong>Heart attack</strong> ke baad pehle 60 minutes ko "golden hour" kaha jata hai. Is critical time ke andar treatment shuru karne se heart muscle ka damage limited hota hai aur survival chance significantly badhta hai. Research shows ki golden hour ke andar treatment se death risk 50% tak kam ho sakta hai.
                 </p>
 
                 <div class="bg-red-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <strong class="text-primary-600">Emergency Action Plan:</strong>
                     <ul class="space-y-2 text-gray-700 mt-2">
                         <li>1. Symptoms dekhte hi turant help call karein (ambulance)</li>
-                        <li>2. Aspirin 325mg chew karein agar allergic nahi</li>
+                        <li>2. Emergency services (108) ya doctor salah dein to hi aspirin lein</li>
                         <li>3. Turant hospital pahunchne ki koshish karein</li>
                         <li>4. Kisi ko bhi batayein ki aapko heart attack ke symptoms hain</li>
                         <li>5. Waiting ke time pressure on chest reduce karein - sit ya lie down</li>

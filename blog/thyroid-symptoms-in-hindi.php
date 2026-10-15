@@ -53,7 +53,7 @@
             "name": "क्या Thyroid Symptoms in Hindi | Thyroid ke Lakshan दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए गर्भावस्था में क्या काम नहीं करना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए सही कारण जानने के लिए thyroid function test और doctor की जांच ज़रूरी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -305,7 +305,7 @@
                         <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Autoimmune diseases</strong> - Hashimoto's और Graves' disease</li>
                         <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Family history</strong> - Genetics का role</li>
                         <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Pregnancy</strong> - Postpartum thyroiditis</li>
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Stress</strong> - Chronic stress hormone levels को affect करता है</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Stress</strong> - Stress को thyroid disease का सीधा कारण साबित नहीं किया गया है, पर यह कुछ लोगों में लक्षण बढ़ा सकता है</li>
                     </ul>
                 </div>
 
@@ -327,11 +327,11 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Medication</h4>
-                        <p class="text-sm text-gray-600">Levothyroxine (hypothyroidism), Methimazole/Propylthiouracil (hyperthyroidism)</p>
+                        <p class="text-sm text-gray-600">Levothyroxine (hypothyroidism), Methimazole/Propylthiouracil (hyperthyroidism) — सिर्फ doctor की prescription और नियमित blood test monitoring के साथ</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i>️ Radioactive Iodine</h4>
-                        <p class="text-sm text-gray-600">Hyperthyroidism को reduce करने के लिए used</p>
+                        <p class="text-sm text-gray-600">Hyperthyroidism को reduce करने के लिए used (pregnancy और breastfeeding में नहीं दिया जाता)</p>
                     </div>
                 </div>
 
@@ -394,7 +394,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Thyroid Symptoms in Hindi | Thyroid ke Lakshan दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए गर्भावस्था में क्या काम नहीं करना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए सही कारण जानने के लिए thyroid function test और doctor की जांच ज़रूरी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>

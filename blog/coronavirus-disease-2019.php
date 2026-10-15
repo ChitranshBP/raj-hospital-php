@@ -331,7 +331,7 @@
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Oxygen therapy</li>
                             <li>Remdesivir (doctor की सलाह से)</li>
-                            <li>Dexamethasone</li>
+                            <li>Dexamethasone (केवल hospital में, oxygen की जरूरत वाले मरीजों में doctor की सलाह से)</li>
                             <li>ICU care (गंभीर cases में)</li>
                         </ul>
                     </div>
@@ -348,7 +348,7 @@
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-700">Vaccination</div>
-                        <p class="text-xs text-gray-600">Updated booster लगवाएं</p>
+                        <p class="text-xs text-gray-600">डॉक्टर/सरकारी guidelines के अनुसार</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl mb-2"><i data-feather="shield" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
@@ -375,11 +375,11 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">COVID-19 vaccine कितनी effective है?</h4>
-                        <p class="text-gray-700">Vaccines severe disease, hospitalization, और death से बचाव में highly effective हैं। हालांकि infection नहीं रोक सकते, symptoms को हल्का रखते हैं।</p>
+                        <p class="text-gray-700">Vaccines severe disease, hospitalization, और death से बचाव में highly effective हैं। हालांकि ये हर बार infection नहीं रोक पाते, लेकिन बीमारी को हल्का रखने में मदद करते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Booster dose कब लगवाना चाहिए?</h4>
-                        <p class="text-gray-700">High-risk groups (बुजुर्ग, immunocompromised, <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women) को हर 6-12 months में booster की सलाह दी जाती है।</p>
+                        <p class="text-gray-700">High-risk groups (बुजुर्ग, immunocompromised, <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women) को booster के बारे में मौजूदा सरकारी guidelines के अनुसार अपने डॉक्टर से सलाह लेनी चाहिए।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">अगर COVID हो तो क्या करें?</h4>

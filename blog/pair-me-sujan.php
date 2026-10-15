@@ -287,7 +287,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">4. नमक का सेवन कम करें</h4>
-                        <p class="text-sm text-gray-600">Sodium intake कम करने से fluid retention कम होता है।</p>
+                        <p class="text-sm text-gray-600">बहुत ज़्यादा नमक और packaged/processed food से बचें; नमक बहुत कम करने की ज़रूरत नहीं, डॉक्टर की सलाह मानें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">5. ठंडाcompress</h4>
@@ -316,7 +316,7 @@
 
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> Pre-eclampsia Warning:</strong>
-                    <span class="text-gray-700"> अगर सूजन के साथ तेज बुखार, तेज सिरदर्द, दृष्टि में बदलाव, या तेज वजन बढ़ना हो तो यह pre-eclampsia का संकेत हो सकता है।</span>
+                    <span class="text-gray-700"> अगर सूजन के साथ तेज सिरदर्द, धुंधला दिखना, पेट के ऊपरी हिस्से में दर्द, सांस फूलना या अचानक वजन बढ़ना हो तो यह pre-eclampsia का संकेत हो सकता है - तुरंत अस्पताल जाकर BP और urine की जांच कराएं।</span>
                 </div>
 
                 <!-- CTA Box -->

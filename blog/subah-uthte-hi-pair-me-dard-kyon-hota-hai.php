@@ -239,7 +239,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li>Plantar fascia (foot ligament) contracted होता है</li>
-                    <li>Calories tissues stiffness बढ़ जाती है</li>
+                    <li>Calf muscles aur tissues में stiffness बढ़ जाती है</li>
                     <li>Blood flow feet में कम होती है</li>
                     <li>Swelling aur inflammation accumulate होता है</li>
                 </ul>
@@ -328,7 +328,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Medications</h4>
-                        <p class="text-sm text-gray-600">NSAIDs (ibuprofen) pain aur inflammation के लिए। Cortisone injections severe cases में।</p>
+                        <p class="text-sm text-gray-600">NSAIDs (जैसे ibuprofen) doctor की सलाह से pain aur inflammation के लिए; kidney disease, ulcer, BP या heart की समस्या हो तो पहले doctor से पूछें। Cortisone injections severe cases में।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Night Splints</h4>

@@ -223,7 +223,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></strong> या <strong>"<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> ki bimari"</strong> आजकल एक epidemic बन गया है। India में लगभग 77 million से ज्यादा लोग <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> से affect हैं। Early stage में <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> ke symptoms</strong> mild हो सकते हैं aur अक्सर ignore कर दिए जाते हैं। लेकिन early detection से इसे manage करना aur complications से बचना much easier है।
+                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></strong> या <strong>"<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> ki bimari"</strong> आजकल एक epidemic बन गया है। India में लगभग 10 करोड़ (100 million) से ज्यादा लोग <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> से affect हैं। Early stage में <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> ke symptoms</strong> mild हो सकते हैं aur अक्सर ignore कर दिए जाते हैं। लेकिन early detection से इसे manage करना aur complications से बचना much easier है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -307,23 +307,23 @@
 
                 <div class="space-y-4 mb-6">
                     <div class="raj-callout raj-callout-warning">
-                        <h4 class="font-bold text-yellow-700">1. Shakshamana (Shaking/Trembling)</h4>
+                        <h4 class="font-bold text-yellow-700">1. Kaanpna (Shaking/Trembling)</h4>
                         <p class="text-sm text-gray-600">Low glucose से muscles को energy नहीं मिलती, jis se tremors होती हैं।</p>
                     </div>
                     <div class="raj-callout raj-callout-warning">
-                        <h4 class="font-bold text-yellow-700">2. Svedaana (Sweating)</h4>
+                        <h4 class="font-bold text-yellow-700">2. Paseena aana (Sweating)</h4>
                         <p class="text-sm text-gray-600">Unexpected sweating, especially neck aur face area में।</p>
                     </div>
                     <div class="raj-callout raj-callout-warning">
-                        <h4 class="font-bold text-yellow-700">3. Chakitpurna Hridaya (Rapid heartbeat)</h4>
+                        <h4 class="font-bold text-yellow-700">3. Dil ki dhadkan tez hona (Rapid heartbeat)</h4>
                         <p class="text-sm text-gray-600">Heart compensation mode में ज्यादा पंप करता है।</p>
                     </div>
                     <div class="raj-callout raj-callout-warning">
-                        <h4 class="font-bold text-yellow-700">4. Sangaabuddhi (Confusion)</h4>
+                        <h4 class="font-bold text-yellow-700">4. Ghabrahat ya Confusion</h4>
                         <p class="text-sm text-gray-600">Brain को sufficient glucose नहीं मिल रहा, jis se difficulty concentrating।</p>
                     </div>
                     <div class="raj-callout raj-callout-warning">
-                        <h4 class="font-bold text-yellow-700">5. Mridu Siro Vehicle (Dizziness)</h4>
+                        <h4 class="font-bold text-yellow-700">5. Chakkar aana (Dizziness)</h4>
                         <p class="text-sm text-gray-600">Low glucose से dizziness aur lightheadedness।</p>
                     </div>
                 </div>
@@ -334,7 +334,7 @@
                         <li>Seizures ya convulsions</li>
                         <li>Unconsciousness</li>
                         <li>Loss of coordination</li>
-                        <li>इनमें से कोई भी हो तो immediately glucagon injection या medical help</li>
+                        <li>इनमें से कोई भी हो तो तुरंत 108 पर call करें; बेहोश व्यक्ति के मुंह में कुछ न डालें। अगर doctor ने glucagon दिया है और आपको सिखाया गया है, तो वही दें।</li>
                     </ul>
                 </div>
 
@@ -402,7 +402,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya sugar kam होने पर भी symptoms हो सकते hain?</h4>
-                        <p class="text-gray-700">Haan, low blood sugar (hypoglycemia) भी symptoms करता है - shaking, sweating, confusion, dizziness। यह usually diabetes medicines लेने वालों में होता है। Fast-acting carbs (juice, candy) से immediately treat करें।</p>
+                        <p class="text-gray-700">Haan, low blood sugar (hypoglycemia) भी symptoms करता है - shaking, sweating, confusion, dizziness। यह usually diabetes medicines लेने वालों में होता है। अगर व्यक्ति होश में है और निगल सकता है, तो fast-acting carbs (जैसे glucose, juice) से तुरंत treat करें और 15 minutes बाद sugar दोबारा check करें; बेहोशी हो तो 108 call करें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya blurry vision diabetes ka sign hai?</h4>

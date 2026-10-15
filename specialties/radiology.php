@@ -503,7 +503,7 @@ Ultrasound Centre in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, all imaging tests are conducted using international safety protocols, with
+                                <p>MRI and ultrasound do not use ionising radiation, while X-ray and CT use the lowest radiation dose needed for diagnosis; please tell staff if you are or may be pregnant. All scans follow standard safety protocols, with
                                     minimal or no radiation exposure depending on the type of scan.</p>
                             </div>
                         </div>

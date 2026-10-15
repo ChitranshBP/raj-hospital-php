@@ -53,7 +53,7 @@
             "name": "क्या दांतों के सबसे आम प्रक्रियाएं और उनका काम दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Revolutionary 50 Cent DNA Sensor - RAJ Hospital Science Update जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए मसूड़ों की बीमारी और दांतों के इन्फेक्शन जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -326,7 +326,7 @@
 
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> Wisdom Teeth:</strong>
-                    <span class="text-gray-700"> अक्सर wisdom teeth (दाढ़ी दांत) निकालने पड़ते हैं क्योंकि इनके आने की जगह नहीं होती।</span>
+                    <span class="text-gray-700"> कई बार wisdom teeth (अक्ल दाढ़) निकालने पड़ते हैं, खासकर जब जगह कम होने से वे फंस जाएं (impacted) या दर्द/इन्फेक्शन करें।</span>
                 </div>
 
                 <!-- Section 5 -->
@@ -393,7 +393,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl mb-2"><i data-feather="star" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i></div>
-                        <h4 class="font-bold text-secondary-600">Invisalign</h4>
+                        <h4 class="font-bold text-secondary-600">Clear Aligners</h4>
                         <p class="text-sm text-gray-600">Clear aligners। removable और nearly invisible।</p>
                     </div>
                 </div>
@@ -417,7 +417,7 @@
                 </div>
 
                 <!-- Section 9 -->
-                <h2 class="raj-h2">9. Dentures (हेयर डेंचर)</h2>
+                <h2 class="raj-h2">9. Dentures (नकली दांत / डेंचर)</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Dentures</strong> missing दांतों की replacement हैं। ये <strong>complete</strong> (सभी दांत) या <strong>partial</strong> (कुछ दांत) हो सकते हैं।
@@ -490,7 +490,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या दांतों के सबसे आम प्रक्रियाएं और उनका काम दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Revolutionary 50 Cent DNA Sensor - RAJ Hospital Science Update जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए मसूड़ों की बीमारी और दांतों के इन्फेक्शन जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>

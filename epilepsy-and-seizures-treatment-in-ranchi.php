@@ -80,7 +80,7 @@
           "name": "What should I do if someone has a seizure?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Keep them safe from injury by moving hard objects away, place them on their side to keep the airway clear, time the seizure, and do not put anything in their mouth."
+            "text": "Keep them safe from injury by moving hard objects away, place them on their side to keep the airway clear, time the seizure, and do not put anything in their mouth. Call 108 or emergency services if the seizure lasts more than 5 minutes, another seizure follows, it is a first seizure, the person is injured or pregnant, has trouble breathing, or does not wake up normally afterwards."
           }
         },
         {
@@ -96,7 +96,7 @@
           "name": "Is epilepsy genetically inherited?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Most epilepsy cases have no identifiable cause. However, certain types do have definitive genetic links where an individual inherits a mildly higher seizure threshold susceptibility."
+            "text": "Most epilepsy cases have no identifiable cause. However, certain types do have definitive genetic links where a person may inherit a lower seizure threshold, i.e. a greater tendency to have seizures."
           }
         },
         {
@@ -104,7 +104,7 @@
           "name": "Can I drive if I have epilepsy?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Driving laws restrict individuals actively experiencing seizures. Generally, you must be certified seizure-free for a predefined specific period (typically 6 to 12 months)."
+            "text": "Driving rules for people with epilepsy differ between countries. In India, epilepsy must be declared when applying for a driving licence and can affect eligibility. Do not drive until your neurologist advises it is safe and you meet the legal requirements."
           }
         }
 
@@ -358,7 +358,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Keep them safe from injury by moving hard objects away, place them on their side to keep the airway clear, time the seizure, and do not put anything in their mouth.</p>
+                                <p>Keep them safe from injury by moving hard objects away, place them on their side to keep the airway clear, time the seizure, and do not put anything in their mouth. Call 108 or emergency services if the seizure lasts more than 5 minutes, another seizure follows, it is a first seizure, the person is injured or pregnant, has trouble breathing, or does not wake up normally afterwards.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -376,7 +376,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Most epilepsy cases have no identifiable cause. However, certain types do have definitive genetic links where an individual inherits a mildly higher seizure threshold susceptibility.</p>
+                                <p>Most epilepsy cases have no identifiable cause. However, certain types do have definitive genetic links where a person may inherit a lower seizure threshold, i.e. a greater tendency to have seizures.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -385,7 +385,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Driving laws restrict individuals actively experiencing seizures. Generally, you must be certified seizure-free for a predefined specific period (typically 6 to 12 months).</p>
+                                <p>Driving rules for people with epilepsy differ between countries. In India, epilepsy must be declared when applying for a driving licence and can affect eligibility. Do not drive until your neurologist advises it is safe and you meet the legal requirements.</p>
                             </div>
                         </div>
 

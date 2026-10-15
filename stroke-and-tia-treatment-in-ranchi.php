@@ -72,7 +72,7 @@
           "name": "How quickly should someone be treated for a stroke?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Stroke patients should ideally be brought to our emergency department within the 'Golden Hour' (first 4.5 hours) to receive clot-busting medications."
+            "text": "Immediately, as every minute counts. Call 108 or go to the nearest hospital equipped to treat stroke as soon as symptoms start. Clot-busting medicine can usually be given only within about 4.5 hours of symptom onset, and the earlier it is given the better it works."
           }
         },
         {
@@ -270,7 +270,7 @@
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Hemorrhagic Stroke Surgery</h4>
-                                <p class="text-gray-600">Surgical clipping or coiling to repair ruptured blood vessels.</p>
+                                <p class="text-gray-600">Surgery to remove a large brain bleed or relieve pressure when needed; ruptured aneurysms may be treated with surgical clipping or endovascular coiling.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Neuro-Rehabilitation</h4>
@@ -349,7 +349,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Stroke patients should ideally be brought to our emergency department within the 'Golden Hour' (first 4.5 hours) to receive clot-busting medications.</p>
+                                <p>Immediately, as every minute counts. Call 108 or go to the nearest hospital equipped to treat stroke as soon as symptoms start. Clot-busting medicine can usually be given only within about 4.5 hours of symptom onset, and the earlier it is given the better it works.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -449,7 +449,7 @@
                             </button>
 
                             <!-- Info Text -->
-                            <p class="text-xs text-gray-500 text-center mt-4">Our team will respond within 24 hours</p>
+                            <p class="text-xs text-gray-500 text-center mt-4">Our team will respond within 24 hours. In an emergency, call 108 or our 24x7 helpline +91 97714 88888 immediately.</p>
                         </form>
                     </div>
                 </div>

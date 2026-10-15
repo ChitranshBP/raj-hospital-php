@@ -246,7 +246,7 @@
                         <div class="grid sm:grid-cols-2 gap-6">
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Targeted Oral Medications</h4>
-                                <p class="text-gray-600">Beta-blockers for essential tremors and complex anti-cholinergics for massive spasticity.</p>
+                                <p class="text-gray-600">Medicines chosen for the specific disorder, for example beta-blockers for essential tremor and anticholinergic medicines for some forms of dystonia.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Botulinum Toxin (Botox) Injections</h4>

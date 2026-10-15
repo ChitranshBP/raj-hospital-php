@@ -84,7 +84,7 @@
           "name": "Why is removing the thymus gland useful?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The thymus gland critically often produces specific abnormal destructive auto-antibodies. Removing it via highly specialized thymectomy frequently prompts significant long-term clinical remission."
+            "text": "The thymus gland is thought to drive production of the harmful antibodies in many people with MG, and a thymus tumour (thymoma) needs removal when present. In selected patients, thymectomy can improve symptoms and reduce the need for medicines over time."
           }
         },
         {
@@ -262,7 +262,7 @@
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Intravenous Immunoglobulin (IVIg) & Plasmapheresis</h4>
-                                <p class="text-gray-600">Critical therapies used to rapidly remove destructive antibodies during severe MG crises.</p>
+                                <p class="text-gray-600">Rapid-acting treatments for severe flare-ups or myasthenic crisis: plasmapheresis removes harmful antibodies from the blood, while IVIg modifies the immune response.</p>
                             </div>
 
                         </div>
@@ -355,7 +355,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>The thymus gland critically often produces specific abnormal destructive auto-antibodies. Removing it via highly specialized thymectomy frequently prompts significant long-term clinical remission.</p>
+                                <p>The thymus gland is thought to drive production of the harmful antibodies in many people with MG, and a thymus tumour (thymoma) needs removal when present. In selected patients, thymectomy can improve symptoms and reduce the need for medicines over time.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">

@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -296,8 +296,8 @@
                     <h4 class="font-bold text-pink-600 mb-2">अगर आप <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> हैं और HIV positive हैं:</h4>
                     <ul class="text-sm text-gray-600 space-y-1">
                         <li>Immediately treatment शुरू करें</li>
-                        <li>C-section delivery की planning करें</li>
-                        <li>Baby को antiretroviral prophylaxis दें</li>
+                        <li>Delivery का तरीका (normal या C-section) doctor viral load देखकर तय करेंगे - ART से viral load control में हो तो normal delivery भी safe हो सकती है</li>
+                        <li>जन्म के बाद baby को doctor की सलाह के अनुसार antiretroviral prophylaxis दिलवाएं</li>
                         <li>breastfeeding से पहले doctor से बात करें</li>
                     </ul>
                 </div>
@@ -311,7 +311,7 @@
                     <li><strong>Night Sweats:</strong> बार-बार उठना पसीने से</li>
                     <li><strong>Chronic Fatigue:</strong> बिना किसी reason के</li>
                     <li><strong>Skin Infections:</strong> rashes जो जल्दी spread हों</li>
-                    <li><strong>Opportunistic Infections:</strong> जैसे cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a>, TB</li>
+                    <li><strong>Opportunistic Infections और बीमारियां:</strong> जैसे TB; साथ ही cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> का खतरा भी बढ़ जाता है</li>
                 </ul>
 
                 <!-- CTA Box -->

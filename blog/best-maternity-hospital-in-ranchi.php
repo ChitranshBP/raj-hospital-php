@@ -258,7 +258,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Did You Know?</strong>
-                    <span class="text-gray-700"> According to the National Health Portal, institutional deliveries in India have increased from 39% in 2005 to over 88% in 2022, significantly reducing maternal and neonatal mortality rates.</span>
+                    <span class="text-gray-700"> According to National Family Health Survey data, institutional deliveries in India rose from about 39% (NFHS-3, 2005-06) to about 89% (NFHS-5, 2019-21), significantly reducing maternal and neonatal mortality rates.</span>
                 </div>
 
                 <!-- Section 2: Services Offered -->
@@ -445,7 +445,7 @@
                 <h2 class="raj-h2">Maternity Care Services at RAJ Hospital Ranchi</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>RAJ Hospital Ranchi</strong> has earned the trust of thousands of families in Jharkhand for maternity care:
+                    <strong>RAJ Hospital Ranchi</strong> offers the following for maternity care:
                 </p>
 
                 <div class="space-y-4 mb-6">

@@ -243,7 +243,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Statistics:</strong>
-                    <span class="text-gray-700"> According to the WHO, paralysis affects approximately 1 in 50 people globally. Stroke is the leading cause, responsible for about 80% of paralysis cases.</span>
+                    <span class="text-gray-700"> Stroke is one of the most common causes of paralysis.</span>
                 </div>
 
                 <!-- Section 2: Types -->
@@ -302,7 +302,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">6. Bell's Palsy</h4>
-                        <p class="text-sm text-gray-600">Temporary paralysis of one side of the face due to facial nerve inflammation. Usually resolves on its own within weeks to months.</p>
+                        <p class="text-sm text-gray-600">Temporary paralysis of one side of the face due to facial nerve inflammation. Most people improve over weeks to months, but see a doctor early (ideally within 72 hours) because early treatment can improve recovery and stroke must be ruled out.</p>
                     </div>
                 </div>
 
@@ -428,7 +428,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Experienced Neurology Team</h4>
-                        <p class="text-sm text-gray-600">Our neurologists have treated thousands of stroke and paralysis cases with high success rates. <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">Meet our specialists</a>.</p>
+                        <p class="text-sm text-gray-600">Our neurology team manages stroke and paralysis cases together with rehabilitation specialists. <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">Meet our specialists</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Advanced Infrastructure</h4>
@@ -493,7 +493,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">What is the golden hour for stroke treatment?</h4>
-                        <p class="text-gray-700">The first 4.5 hours after a stroke are crucial. Within this time window, clot-busting medications (tPA) can be administered. Our <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">stroke emergency team</a> is trained to act quickly.</p>
+                        <p class="text-gray-700">Every minute counts in stroke. Clot-dissolving medicine can be given to suitable patients only within about 4.5 hours of symptom onset, and clot removal (thrombectomy) may help selected patients later — so call 108/112 and reach a stroke-ready hospital immediately if you notice face drooping, arm weakness or speech difficulty. Within this time window, clot-busting medications (tPA) can be administered. Our <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">stroke emergency team</a> is trained to act quickly.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">How long does paralysis rehabilitation take?</h4>

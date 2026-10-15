@@ -260,8 +260,8 @@
                         <p class="text-sm text-gray-600">गर्दन की हड्डियों में wear and tear से यह समस्या होती है, खासकर 40-50 साल के बाद।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">4. गर्दन का रिकवerness (Herniated Disc)</h4>
-                        <p class="text-sm text-gray-600">गर्दन के बीच की चट्टानों (discs) में समस्या से नसों पर दबाव पड़ सकता है।</p>
+                        <h4 class="font-bold text-secondary-600">4. गर्दन की डिस्क खिसकना (Herniated Disc)</h4>
+                        <p class="text-sm text-gray-600">गर्दन की हड्डियों के बीच की गद्दियों (discs) में समस्या से नसों पर दबाव पड़ सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. मानसिक तनाव (<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a>)</h4>
@@ -292,7 +292,6 @@
                             <li>एक तरफ या दोनों तरफ दर्द</li>
                             <li>दर्द ज्यादातर गर्दन के पीछे</li>
                             <li>दर्द की तीव्रता धीरे-धीरे बढ़ना</li>
-                            <li>नज़रों में धुंधलापन</li>
                         </ul>
                     </div>
                 </div>
@@ -311,7 +310,7 @@
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> स्ट्रेचिंग एक्सरसाइज़</h4>
-                        <p class="text-sm text-gray-600">गर्दन की सरल स्ट्रेचिंग एक्सरसाइज़ करें। सिर को धीरे-धीरे आगे, पीछे, दाएं और बाएं घुमाएं।</p>
+                        <p class="text-sm text-gray-600">गर्दन की सरल स्ट्रेचिंग एक्सरसाइज़ करें। सिर को धीरे-धीरे आगे-पीछे और दाएं-बाएं झुकाएं; दर्द, चक्कर या हाथों में झनझनाहट हो तो रोकें और physiotherapist से सलाह लें।</p>
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> मालिश</h4>
@@ -352,7 +351,7 @@
                         <li>हाथों या पैरों में सुन्नपन या कमज़ोरी हो</li>
                         <li>चक्कर आना या संतुलन बिगड़ना</li>
                         <li>दृष्टि में धुंधलापन या दोहरी दृष्टि</li>
-                        <li>बुखार के साथ गर्दन दर्द हो</li>
+                        <li>बुखार के साथ गर्दन में अकड़न हो, या अचानक बहुत तेज़ सिरदर्द हो — ऐसे में तुरंत Emergency जाएं</li>
                         <li>दर्द हफ्तों से ज्यादा समय से हो</li>
                         <li>बेहोशी जैसे लक्षण हों</li>
                     </ul>

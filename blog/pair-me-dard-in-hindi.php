@@ -249,7 +249,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Bunion (अंगूठे का मोड़)</h4>
-                        <p class="text-sm text-gray-600">बड़ा toe अंगूठे की तरफ झुक जाता है और joint में सूजन होती है।</p>
+                        <p class="text-sm text-gray-600">पैर का बड़ा अंगूठा दूसरी उंगली की तरफ झुक जाता है और उसके base के joint पर उभार व सूजन होती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. Heel Spur (एड़ी Spur)</h4>
@@ -317,7 +317,7 @@
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Painkillers</h4>
-                        <p class="text-sm text-gray-600">NSAIDs जैसे ibuprofen pain और swelling कम करते हैं।</p>
+                        <p class="text-sm text-gray-600">दर्द की दवा (जैसे ibuprofen) केवल डॉक्टर की सलाह से लें; पेट के अल्सर, किडनी रोग, high BP, दिल की बीमारी या pregnancy में NSAIDs खुद से न लें।</p>
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Orthotics</h4>

@@ -401,7 +401,7 @@
                 </div>
 
                 <!-- Section 6: Home Remedies -->
-                <h2 class="raj-h2">Breathing Difficulty Ke Gharelu Upchar</h2>
+                <h2 class="raj-h2">Breathing Difficulty Ke Gharelu Upchar (sirf mild ya diagnosed cases mein; achanak ya tez saans phoolne par turant emergency care lein)</h2>
 
                 <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
@@ -418,7 +418,7 @@
 
                 <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quit Smoking:</strong> यह breathing problems का सबसे common cause है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quit Smoking:</strong> यह COPD और कई lung problems का एक बड़ा कारण है।</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Exercise:</strong> Cardiovascular fitness improve करता है।</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Healthy Weight:</strong> Obesity breathing difficulty बढ़ाती है।</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Avoid Pollutants:</strong> Dust, smoke, chemicals से बचें।</li>
@@ -443,11 +443,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya anemia breathing difficulty करती hai?</h4>
-                        <p class="text-gray-700">Haan, low hemoglobin oxygen carry करने की capacity kam kar deta hai, जिससे exertion पर breathing difficulty होती है। Iron supplements aur diet se treatment possible hai।</p>
+                        <p class="text-gray-700">Haan, low hemoglobin oxygen carry करने की capacity kam kar deta hai, जिससे exertion पर breathing difficulty होती है। Jaanch se anemia ka kaaran pata karke doctor ki salah se iron supplements aur diet se treatment possible hai।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600 mb-2">Ghar par BP machine se oxygen level check kar sakte hain?</h4>
-                        <p class="text-gray-700">Haan, pulse oximeter से SpO2 level check कर सकते hain। 94% se नीचे हो तो doctor consult करें।</p>
+                        <h4 class="font-bold text-secondary-600 mb-2">Ghar par oxygen level kaise check kar sakte hain?</h4>
+                        <p class="text-gray-700">Haan, pulse oximeter से SpO2 level check कर सकते hain। 94% se नीचे हो तो doctor consult करें; 92% या उससे कम हो, होंठ नीले हों या सांस बहुत फूल रही हो तो तुरंत emergency care लें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya exercise breathing capacity improve kar sakti hai?</h4>

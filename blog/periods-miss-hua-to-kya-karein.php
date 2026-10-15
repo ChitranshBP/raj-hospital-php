@@ -253,7 +253,7 @@ $base_url = '../';
                 </div>
                 <div class="bg-purple-50 p-4 rounded-lg border border-purple-200">
                     <h4 class="font-bold text-purple-700 mb-2">2. PCOD/PCOS</h4>
-                    <p class="text-gray-600 text-sm">Polycystic Ovary Syndrome में hormonal imbalance से periods irregular या miss हो सकते हैं। 1 in 5 women को affected करता है।</p>
+                    <p class="text-gray-600 text-sm">Polycystic Ovary Syndrome में hormonal imbalance से periods irregular या miss हो सकते हैं। यह महिलाओं में काफी आम समस्या है।</p>
                 </div>
                 <div class="bg-blue-50 p-4 rounded-lg border border-blue-200">
                     <h4 class="font-bold text-blue-700 mb-2">3. Stress</h4>
@@ -315,7 +315,7 @@ $base_url = '../';
                     <li>Clean container में पेशाब एकत्र करें</li>
                     <li>Test strip को 5-10 seconds तक पेशाब में डूबो</li>
                     <li>3-5 मिनट wait करें</li>
-                    <li>2 lines = Pregnant, 1 line = Not Pregnant</li>
+                    <li>Control line के साथ दूसरी line (हल्की भी) = positive; सिर्फ control line = negative; control line न दिखे तो test invalid है - kit के निर्देश पढ़ें</li>
                 </ul>
             </div>
 
@@ -395,7 +395,7 @@ $base_url = '../';
                 Periods Regular करने के घरेलू उपाय
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                Doctor से मिलने के अलावा, कुछ घरेलू उपाय भी मदद कर सकते हैं:
+                Pregnancy test negative आने के बाद, डॉक्टर की सलाह के साथ ये lifestyle उपाय मदद कर सकते हैं (periods लाने के लिए कोई जड़ी-बूटी या दवा खुद से न लें):
             </p>
 
             <div class="space-y-4 mb-6">
@@ -405,7 +405,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">अजमोद (Parsley) चाय</h4>
-                        <p class="text-gray-600 text-sm">अजमोद में apiol होता है जो periods को stimulate करता है। गर्म पानी में अजमोद डालकर चाय बनाएं।</p>
+                        <p class="text-gray-600 text-sm">Periods लाने के लिए अजमोद, जड़ी-बूटी या काढ़ा न लें - pregnancy की संभावना हो तो ये नुकसानदेह हो सकते हैं; पहले pregnancy test करें और डॉक्टर से मिलें।</p>
                     </div>
                 </div>
 
@@ -415,7 +415,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">अदरक की चाय</h4>
-                        <p class="text-gray-600 text-sm">अदरक में gingerol होता है जो menstruation को regular करने में मदद करता है। दिन में 2-3 बार पिएं।</p>
+                        <p class="text-gray-600 text-sm">अदरक की चाय पेट की ऐंठन में कुछ आराम दे सकती है, लेकिन periods regular करने का इसका प्रमाण सीमित है।</p>
                     </div>
                 </div>
 
@@ -425,7 +425,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">हल्दी (Turmeric)</h4>
-                        <p class="text-gray-600 text-sm">हल्दी में curcumin होता है जो hormones को balance करता है। गर्म दूध में हल्दी मिलाकर पिएं।</p>
+                        <p class="text-gray-600 text-sm">हल्दी वाला दूध सामान्य आहार का हिस्सा हो सकता है, लेकिन यह hormones balance करने या periods लाने का इलाज नहीं है।</p>
                     </div>
                 </div>
 

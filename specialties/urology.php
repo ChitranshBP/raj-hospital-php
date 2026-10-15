@@ -573,7 +573,7 @@ Urinary Disorder Specialist in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Infertility Treatment</h3>
-                        <p class="text-gray-600 mb-4">Care and surgical management of male and female infertility in the
+                        <p class="text-gray-600 mb-4">Care and surgical management of male infertility in the
                             reproductive age group.</p>
                     </div>
                 </div>

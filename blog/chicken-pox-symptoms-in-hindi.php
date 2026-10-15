@@ -240,7 +240,7 @@
                 <h2 class="raj-h2">चिकनपॉक्स क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>चिकनपॉक्स</strong> एक छोटे बच्चे के चिकन जैसे दिखने वाले spots (छोटे-छोटे दाने) पैदा करने के कारण इसका नाम पड़ा है। यह air through droplets के द्वारा फैलता है और संक्रमित व्यक्ति के contact से आसानी से पास हो जाता है।
+                    <strong>चिकनपॉक्स</strong> शरीर पर छोटे-छोटे खुजलीदार पानी भरे दाने (blisters) इसकी पहचान हैं। यह खांसी/छींक की droplets, हवा और दानों के fluid के संपर्क से फैलता है। यह air through droplets के द्वारा फैलता है और संक्रमित व्यक्ति के contact से आसानी से पास हो जाता है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -270,7 +270,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. थकान और कमजोरी</h4>
-                        <p class="text-sm text-gray-600">शरीर में allgemeine Unwohlsein और थकान महसूस होना।</p>
+                        <p class="text-sm text-gray-600">शरीर में सामान्य बेचैनी (malaise) और थकान महसूस होना।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. भूख न लगना</h4>
@@ -313,7 +313,7 @@
                 <h2 class="raj-h2">चिकनपॉक्स का इलाज और घरेलू देखभाल</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Chicken pox treatment</strong> में मुख्य रूप से symptoms की देखभाल और आराम शामिल है। कोई specific antiviral therapy healthy बच्चों के लिए आमतौर पर जरूरी नहीं होती।
+                    <strong>Chicken pox treatment</strong> में मुख्य रूप से symptoms की देखभाल और आराम शामिल है। कोई specific antiviral therapy healthy बच्चों के लिए आमतौर पर जरूरी नहीं होती, लेकिन बड़ों, गर्भवती महिलाओं, नवजात शिशुओं और कमजोर immunity वाले मरीजों में डॉक्टर जल्दी antiviral दवा दे सकते हैं — ऐसे में तुरंत डॉक्टर से मिलें।
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -347,7 +347,7 @@
                 <h2 class="raj-h2">चिकनपॉक्स से बचाव</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Varicella vaccine</strong> सबसे प्रभावी बचाव है। India में यह vaccine अब available है और 12-15 महीने के baby को पहली dose, और 4-6 साल में दूसरी dose दी जा सकती है।
+                    <strong>Varicella vaccine</strong> सबसे प्रभावी बचाव है। India में यह vaccine अब available है और आम तौर पर पहली dose 15 महीने पर और दूसरी dose 3-6 महीने बाद दी जाती है — सही schedule के लिए अपने paediatrician से सलाह लें।
                 </p>
 
                 <!-- CTA Box -->

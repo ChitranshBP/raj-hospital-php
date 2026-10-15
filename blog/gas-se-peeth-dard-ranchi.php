@@ -113,7 +113,7 @@
                 "name": "गैस से पीठ दर्द का घरेलू इलाज क्या है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "गैस से पीठ दर्द का घरेलू इलाज में गर्म पानी पीना, हल्की सैर करना, अदरक की चाय पीना, पेट पर गर्म सेक लगाना, और पiped कोफ्रा जैसी दवाइयां शामिल हैं। लेकिन बार-बार यह दर्द होने पर डॉक्टर से जांच कराना जरूरी है।"
+                    "text": "गैस से पीठ दर्द का घरेलू इलाज में गर्म पानी पीना, हल्की सैर करना, अदरक की चाय पीना, पेट पर गर्म सेक लगाना, और डॉक्टर की सलाह से गैस की दवा शामिल हो सकती है। लेकिन बार-बार यह दर्द होने पर डॉक्टर से जांच कराना जरूरी है।"
                 }
             },
             {
@@ -334,7 +334,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">6. नर्व कम्प्रेशन (Nerve Compression)</h4>
-                        <p class="text-sm text-gray-600">कुछ मामलों में, पेट की गैस से फैलाव इतना ज्यादा हो सकता है कि यह पीठ की रीढ़ की नसों पर दबाव डाले। <a href="/spinal-cord-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Spinal cord specialist</a> इसकी जांच कर सकते हैं।</p>
+                        <p class="text-sm text-gray-600">कुछ मामलों में,  <a href="/spinal-cord-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Spinal cord specialist</a> इसकी जांच कर सकते हैं।</p>
                     </div>
                 </div>
 
@@ -378,7 +378,7 @@
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> पैरों में कमजोरी या सुन्नपन हो</li>
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> पेशाब या शौच में दिक्कत हो</li>
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> दर्द बहुत तेज हो और आराम न हो</li>
-                        <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> खून में दर्द हो या उल्टी हो</li>
+                        <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> मल में खून आए या लगातार उल्टी हो</li>
                     </ul>
                     <p class="mt-3 text-sm text-gray-600">ये लक्षण गंभीर समस्या की तरफ इशारा कर सकते हैं जिनके लिए <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-red-600 hover:underline">neurological assessment</a> जरूरी हो सकती है।</p>
                 </div>
@@ -409,11 +409,11 @@
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">5. लेनेटिव पोजीशन</h4>
-                        <p class="text-sm text-gray-600">पेट के बल लेटकर और घुटने छाती पर रखने से गैस निकलने में मदद मिलती है।</p>
+                        <p class="text-sm text-gray-600">पीठ के बल लेटकर घुटनों को छाती की ओर लाने (पवनमुक्तासन) से गैस निकलने में मदद मिल सकती है।</p>
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">6. गैस की दवाइयां</h4>
-                        <p class="text-sm text-gray-600">Piped kofrA जैसी ओवर-द-काउंटर दवाइयां गैस कम करने में मदद करती हैं। लेकिन बार-बार लेने से पहले डॉक्टर से पूछें।</p>
+                        <p class="text-sm text-gray-600">गैस की ओवर-द-काउंटर दवाइयां केवल डॉक्टर या फार्मासिस्ट की सलाह से लें। लेकिन बार-बार लेने से पहले डॉक्टर से पूछें।</p>
                     </div>
                 </div>
 
@@ -479,7 +479,7 @@
                     <ul class="space-y-2 text-gray-700">
                         <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> गैस से पीठ दर्द आम है और अक्सर गंभीर नहीं होता</li>
                         <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> धीरे-धीरे खाना और गैस वाले पदार्थों से बचना इससे बचाव है</li>
-                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> घरेलू उपाय पहले आजमाएं, फिर डॉक्टर से मिलें</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> हल्के दर्द में घरेलू उपाय आजमा सकते हैं, लेकिन तेज या अचानक दर्द, सीने में दर्द, पसीना, बुखार या पेशाब में दिक्कत हो तो तुरंत डॉक्टर से मिलें</li>
                         <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> <strong>RAJ Hospital Ranchi</strong> में गैस और पीठ दर्द दोनों का इलाज उपलब्ध है</li>
                     </ul>
                 </div>

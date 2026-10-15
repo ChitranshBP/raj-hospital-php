@@ -229,7 +229,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>गर्भाशय ग्रीवा कैंसर (Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a>)</strong> महिलाओं में होने वाला एक गंभीर रोग है जो गर्भाशय की ग्रीवा (cervix) में प्रारंभ होता है। यह विश्व में महिलाओं में चौथा सबसे आम कैंसर है। India में हर साल लाखों महिलाएं इससे प्रभावित होती हैं, लेकिन समय पर पहचान और उपचार से इसका सफलतापूर्वक इलाज संभव है।
+                    <strong>गर्भाशय ग्रीवा कैंसर (Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a>)</strong> महिलाओं में होने वाला एक गंभीर रोग है जो गर्भाशय की ग्रीवा (cervix) में प्रारंभ होता है। यह विश्व में महिलाओं में चौथा सबसे आम कैंसर है। India में हर साल लगभग सवा लाख महिलाओं में इसका निदान होता है, लेकिन समय पर पहचान और उपचार से इसका सफलतापूर्वक इलाज संभव है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -297,12 +297,12 @@
                     <div class="bg-green-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-green-700">HPV Vaccine</div>
-                        <p class="text-sm text-gray-600">9-26 वर्ष की महिलाओं को vaccine लगवाना चाहिए</p>
+                        <p class="text-sm text-gray-600">9-14 वर्ष की लड़कियों को (और डॉक्टर की सलाह से 26 वर्ष तक) vaccine लगवाना चाहिए</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="search" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-green-700">Pap Smear Test</div>
-                        <p class="text-sm text-gray-600">21 वर्ष से ऊपर हर 3 साल में जांच करवाएं</p>
+                        <p class="text-sm text-gray-600">उम्र और जांच के प्रकार के अनुसार डॉक्टर की सलाह से नियमित screening करवाएं (आम तौर पर 30 वर्ष के बाद हर 3–5 साल में)</p>
                     </div>
                 </div>
 
@@ -330,7 +330,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या HPV Vaccine सुरक्षित है?</h4>
-                        <p class="text-gray-700">हां, HPV vaccine बहुत सुरक्षित है और cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> से बचाव में 90% से अधिक प्रभावी है।</p>
+                        <p class="text-gray-700">हां, HPV vaccine बहुत सुरक्षित है और cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> से बचाव में बहुत प्रभावी है, खासकर जब यह HPV संक्रमण से पहले (9–14 वर्ष की उम्र में) लगाया जाए।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> से बचाव कैसे करें?</h4>

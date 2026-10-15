@@ -467,7 +467,7 @@ Eye Care Clinic in Jharkhand
                     </div>
                     <p class="text-gray-500 mb-4">Patient: Anus</p>
                     <p class="text-gray-700 mb-6">Visited Raj Hospitals after years of redness in the eyes, found
-                        drastic improvement (almost 80%) in a week with the suggested medication and cataract treatment.
+                        
                     </p>
                     <div class="bg-green-50 p-4 rounded-lg border border-green-100">
                         <div class="flex items-center space-x-2"><i data-feather="check"
@@ -512,7 +512,7 @@ Eye Care Clinic in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Laser vision surgery is a popular treatment for refractive errors. It can reduce or
+                                <p>Glasses and contact lenses are the usual first options; for suitable adults, laser vision surgery is a popular treatment for refractive errors. It can reduce or
                                     eliminate the need for glasses or contacts by reshaping the cornea for optimal
                                     focus.</p>
                             </div>
@@ -550,7 +550,7 @@ Eye Care Clinic in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Fruits like oranges, papayas, and carrots rich in Vitamin A and C are beneficial for
+                                <p>Fruits like oranges and papayas, and vegetables like carrots, rich in Vitamin A and C are beneficial for
                                     eye health.</p>
                             </div>
                         </div>

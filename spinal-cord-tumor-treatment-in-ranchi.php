@@ -68,7 +68,7 @@
           "name": "Are all spinal tumors cancerous?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No, many spinal tumors (like meningiomas or schwannomas) are benign (non-cancerous). However, even benign tumors can cause severe damage by compressing the spinal cord and require surgical removal."
+            "text": "No, many spinal tumors (like meningiomas or schwannomas) are benign (non-cancerous). However, even benign tumors can damage the spinal cord by pressing on it, and they often need surgical removal; small tumors without symptoms are sometimes monitored with scans."
           }
         },
         {
@@ -84,7 +84,7 @@
           "name": "How do surgeons access deep spinal internal tumors?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Surgical masterful techniques utilize incredibly advanced precise microsurgical intensive tools comprehensively paired heavily with intensive exact intraoperative careful real-time nerve monitoring ensuring spinal cord safety."
+            "text": "Surgeons use an operating microscope and, where available, intraoperative nerve monitoring to help reduce the risk of injury to the spinal cord during tumor removal."
           }
         },
         {
@@ -92,7 +92,7 @@
           "name": "Can radiation shrink un-removable tumors?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Absolutely. High-powered pinpoint radiation is utilized highly effectively strictly for utterly inoperable massively intertwined severe complex tumors frequently or crucially to mop-up microscopically completely any tiny remaining tumor cells."
+            "text": "Often, yes. Radiation therapy, including focused techniques such as stereotactic radiosurgery, can be used to control tumors that cannot be fully removed or to treat tumor cells left after surgery; its suitability depends on the tumor type."
           }
         },
         {
@@ -266,7 +266,7 @@
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Radiation Therapy</h4>
-                                <p class="text-gray-600">Often utilized post-surgery to eliminate any remaining tumor cells or manage inoperable tumors.</p>
+                                <p class="text-gray-600">May be used after surgery to treat remaining tumor cells, or to control tumors that cannot be removed.</p>
                             </div>
 
                         </div>
@@ -341,7 +341,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>No, many spinal tumors (like meningiomas or schwannomas) are benign (non-cancerous). However, even benign tumors can cause severe damage by compressing the spinal cord and require surgical removal.</p>
+                                <p>No, many spinal tumors (like meningiomas or schwannomas) are benign (non-cancerous). However, even benign tumors can damage the spinal cord by pressing on it, and they often need surgical removal; small tumors without symptoms are sometimes monitored with scans.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -359,7 +359,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Surgical masterful techniques utilize incredibly advanced precise microsurgical intensive tools comprehensively paired heavily with intensive exact intraoperative careful real-time nerve monitoring ensuring spinal cord safety.</p>
+                                <p>Surgeons use an operating microscope and, where available, intraoperative nerve monitoring to help reduce the risk of injury to the spinal cord during tumor removal.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -368,7 +368,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Absolutely. High-powered pinpoint radiation is utilized highly effectively strictly for utterly inoperable massively intertwined severe complex tumors frequently or crucially to mop-up microscopically completely any tiny remaining tumor cells.</p>
+                                <p>Often, yes. Radiation therapy, including focused techniques such as stereotactic radiosurgery, can be used to control tumors that cannot be fully removed or to treat tumor cells left after surgery; its suitability depends on the tumor type.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">

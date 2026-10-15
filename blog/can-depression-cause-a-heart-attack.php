@@ -322,7 +322,7 @@
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">I feel chest heaviness when I'm low — is it my heart?</h3>
-                            <p class="text-gray-700">It may be anxiety or depression-related, but chest symptoms should never be assumed to be "only stress" without evaluation. If chest pain is new, severe, lasts more than a few minutes or radiates to the arm or jaw, treat it as an emergency. A quick ECG and troponin test at <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's cardiac ER</a> can rule out a heart cause.</p>
+                            <p class="text-gray-700">It may be anxiety or depression-related, but chest symptoms should never be assumed to be "only stress" without evaluation. If chest pain is new, severe, lasts more than a few minutes or radiates to the arm or jaw, treat it as an emergency. A quick ECG and troponin test at <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's cardiac ER</a> can help check for a heart cause (repeat tests are sometimes needed).</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Will treating my depression really help my heart?</h3>
@@ -340,7 +340,7 @@
                     </div>
                 </div>
 
-                <p class="text-xs text-gray-400 mt-6">This article is for general education and is not a substitute for professional medical advice. Always consult a qualified doctor for diagnosis and treatment. If you are having thoughts of self-harm, seek help immediately.</p>
+                <p class="text-xs text-gray-400 mt-6">This article is for general education and is not a substitute for professional medical advice. Always consult a qualified doctor for diagnosis and treatment. If you are having thoughts of self-harm, seek help immediately — call Tele-MANAS on 14416 (24×7, free) or emergency services on 112.</p>
             </div>
         </article>
     </main>

@@ -315,7 +315,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600">1. तेज और लगातार सिरदर्द (Severe Headache)</h4>
-                        <p class="text-sm text-gray-600">विशेषकर सुबह जल्दी उठने पर तेज सिरदर्द होना high BP का एक common symptom है। यह सिर के पीछे या ऊपर वाले हिस्से में ज्यादा होता है। अगर headache एकदम से suddenly शुरू हो और बहुत तेज हो, तो यह emergency sign हो सकता है।</p>
+                        <p class="text-sm text-gray-600">ज़्यादातर लोगों में high BP से कोई सिरदर्द नहीं होता; बहुत ज़्यादा बढ़े हुए BP (जैसे 180/120 या उससे ऊपर) में सुबह तेज सिरदर्द हो सकता है। यह सिर के पीछे या ऊपर वाले हिस्से में ज्यादा होता है। अगर headache एकदम से suddenly शुरू हो और बहुत तेज हो, तो यह emergency sign हो सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600">2. चक्कर आना और सिर घूमना (Dizziness)</h4>
@@ -331,7 +331,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600">5. नाक से खून आना (Nosebleeds)</h4>
-                        <p class="text-sm text-gray-600">अक्सर नाक से spontaneous bleeding होना high BP का sign हो सकता है। हालांकि यह कई अन्य reasons से भी हो सकता है, लेकिन अगर बार-बार हो, तो BP check जरूर करवाएं।</p>
+                        <p class="text-sm text-gray-600">नाक से खून आना आमतौर पर high BP का भरोसेमंद sign नहीं है, लेकिन बहुत ज़्यादा BP में हो सकता है। हालांकि यह कई अन्य reasons से भी हो सकता है, लेकिन अगर बार-बार हो, तो BP check जरूर करवाएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600">6. थकान और कमजोरी (Fatigue)</h4>
@@ -464,7 +464,6 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">Back Pain और Sciatica</h4>
-                        <p class="text-sm text-gray-600">High BP से related stress और poor circulation से <a href="/back-pain-and-sciatica-treatment-in-ranchi.php">back pain और sciatica</a> की problem बढ़ सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">Chronic Headaches</h4>

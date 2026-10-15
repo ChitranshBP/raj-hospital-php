@@ -234,7 +234,7 @@
                 <h2 class="raj-h2"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Kya Hai? (What is Bone Marrow?)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Bone marrow</strong> हमारी bones के अंदर एक soft, spongy tissue है जो इक्वल कहा जाता है। यह दो प्रकार का होता है:
+                    <strong>Bone marrow</strong> हमारी bones के अंदर एक soft, spongy tissue है जिसे अस्थि मज्जा कहा जाता है। यह दो प्रकार का होता है:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -424,11 +424,11 @@
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-secondary-600">70-90%</div>
-                        <div class="text-sm text-gray-600 mt-2">Identical sibling donor transplants - best outcomes</div>
+                        <div class="text-sm text-gray-600 mt-2">HLA-matched sibling donor transplants</div>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-secondary-600">40-60%</div>
-                        <div class="text-sm text-gray-600 mt-2">Unrelated donor transplants - still very good results</div>
+                        <div class="text-sm text-gray-600 mt-2">Unrelated donor transplants - results depend on match quality and disease</div>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-secondary-600">90%+</div>
@@ -498,11 +498,11 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Bone marrow donation painful hai?</h4>
-                        <p class="text-gray-700">Most donations painless hain। Peripheral blood stem cell donation (most common method) में mild discomfort होती है जो manageable hai। Bone marrow harvest में general anesthesia दिया जाता है, procedure के बाद mild soreness हो सकती hai।</p>
+                        <p class="text-gray-700">Donation में आमतौर पर हल्की-से-मध्यम तकलीफ होती है; PBSC donation से पहले कुछ दिन injections दिए जाते हैं जिनसे हड्डियों में दर्द हो सकता है। Peripheral blood stem cell donation (most common method) में mild discomfort होती है जो manageable hai। Bone marrow harvest में general anesthesia दिया जाता है, procedure के बाद mild soreness हो सकती hai।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Bone marrow transplant completely cure kar sakta hai?</h4>
-                        <p class="text-gray-700">Many conditions में bone marrow transplant potentially curative hai। Success depends on disease type, stage, patient age, और donor match। Some conditions में high cure rates (70-90%), while others में remission likely hai।</p>
+                        <p class="text-gray-700">Many conditions में bone marrow transplant potentially curative hai। Success depends on disease type, stage, patient age, और donor match। Some conditions में cure की अच्छी संभावना होती है, while others में remission लक्ष्य होता है — अपने case के लिए haematologist से बात करें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya bone marrow regenerate hota hai?</h4>
@@ -514,7 +514,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Family members mein match kaise check karein?</h4>
-                        <p class="text-gray-700">HLA (Human Leukocyte Antigen) typing test se match check hota hai। Siblings में 25-30% chance hain perfect match ka। Parents aur children mein usually partial match hota hai। Unrelated donor registries bhi available hain।</p>
+                        <p class="text-gray-700">HLA (Human Leukocyte Antigen) typing test se match check hota hai। हर sibling के साथ लगभग 25% chance होता है perfect match का। Parents aur children mein usually partial match hota hai। Unrelated donor registries bhi available hain।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -260,7 +260,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">4. Protein (प्रोटीन)</h4>
-                        <p class="text-sm text-gray-600"><strong>Daily need:</strong> 75-100g</p>
+                        <p class="text-sm text-gray-600"><strong>Daily need:</strong> लगभग 60-75g (trimester के अनुसार; डॉक्टर/dietitian से पूछें)</p>
                         <p class="text-sm text-gray-600"><strong>Sources:</strong> Lean meat, fish, eggs, dairy, beans, nuts</p>
                         <p class="text-sm text-gray-600"><strong>Benefits:</strong> Baby की growth और maternal tissue development के लिए।</p>
                     </div>
@@ -357,7 +357,7 @@
                     <li><strong>Hydration</strong> का ध्यान रखें - रोजाना 8-10 glasses water पिएं</li>
                     <li><strong>Iron supplements</strong> लें जैसा doctor ने prescribed किया</li>
                     <li><strong>Food hygiene</strong> का पालन करें - साफ-सुथरा खाना खाएं</li>
-                    <li><strong>Vitamin D</strong> - sunlight से कुछ time spend करें या supplements लें</li>
+                    <li><strong>Vitamin D</strong> - sunlight में कुछ समय बिताएं; supplements केवल डॉक्टर की सलाह से लें</li>
                 </ul>
 
                 <!-- CTA Box -->
@@ -429,7 +429,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

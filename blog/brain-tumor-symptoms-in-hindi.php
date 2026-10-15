@@ -45,7 +45,7 @@
             "name": "Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
+                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना जैसी स्थिति हो, तो बिना देर किए डॉक्टर से जांच करानी चाहिए। नया दौरा (seizure), लगातार बढ़ता सिरदर्द, उल्टी या शरीर के एक तरफ कमजोरी हो तो घरेलू उपाय पर निर्भर न रहें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
             }
         },
         {
@@ -229,7 +229,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a></strong> (मस्तिष्क घातुक) एक गंभीर स्वास्थ्य समस्या है जो किसी भी उम्र में हो सकती है। समय पर पहचान से इलाज की संभावना बढ़ जाती है। यह लेख Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> के लक्षणों, प्रकारों और उपचार के बारे में विस्तार से बताएगा।
+                    <strong>Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a></strong> (मस्तिष्क ट्यूमर) एक गंभीर स्वास्थ्य समस्या है जो किसी भी उम्र में हो सकती है। समय पर पहचान से इलाज की संभावना बढ़ जाती है। यह लेख Brain <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a> के लक्षणों, प्रकारों और उपचार के बारे में विस्तार से बताएगा।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -414,7 +414,7 @@
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Brain Tumor Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?</h3>
-                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
+                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना जैसी स्थिति हो, तो बिना देर किए डॉक्टर से जांच करानी चाहिए। नया दौरा (seizure), लगातार बढ़ता सिरदर्द, उल्टी या शरीर के एक तरफ कमजोरी हो तो घरेलू उपाय पर निर्भर न रहें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Brain Tumor Symptoms in Hindi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>

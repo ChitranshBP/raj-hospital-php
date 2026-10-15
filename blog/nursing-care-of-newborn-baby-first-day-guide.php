@@ -249,7 +249,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Eye Drops</h4>
-                        <p class="text-sm text-gray-600">चेमोथेरेपी (erythromycin) eye drops जो infection से बचाते हैं।</p>
+                        <p class="text-sm text-gray-600">Antibiotic (जैसे erythromycin) eye ointment/drops, जो कुछ अस्पतालों में आंखों के infection से बचाव के लिए दिए जाते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Newborn Screening Test</h4>
@@ -261,7 +261,7 @@
                 <h2 class="raj-h2">स्तनपान (Breastfeeding) कैसे करवाएं</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>स्तनपान</strong> नवजात के लिए आदर्श आहार है। पहली बार breastfeeding generally जन्म के 1-2 घंटे के भीतर शुरू होनी चाहिए।
+                    <strong>स्तनपान</strong> नवजात के लिए आदर्श आहार है। पहली बार breastfeeding जन्म के पहले 1 घंटे के भीतर शुरू होनी चाहिए।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -276,7 +276,7 @@
                             <li>बच्चे का पूरा body आपकी तरफ</li>
                             <li>मुंह निपल (nipple) के सामने</li>
                             <li>निपल होंठ के ऊपर नीचे</li>
-                            <li>Baby's chin निपल को छू रहा हो</li>
+                            <li>Baby की ठुड्डी (chin) स्तन को छू रही हो और मुंह पूरा खुला हो, ताकि निपल के साथ areola का ज़्यादातर हिस्सा मुंह में हो</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -321,7 +321,7 @@
                 <h2 class="raj-h2">नहाना कैसे कराएं</h2>
 
                 <p class="text-gray-700 mb-4">
-                    पहले दिन अस्पताल में staff bathing कराता है। घर आने के बाद <strong>Sponge Bath</strong> दें जब तक cord न गिर जाए।
+                    WHO के अनुसार पहला स्नान जन्म के कम से कम 24 घंटे बाद कराना चाहिए। घर आने के बाद <strong>Sponge Bath</strong> दें जब तक cord न गिर जाए।
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
@@ -355,8 +355,8 @@
                         <ul class="list-disc list-inside text-sm text-gray-600 mt-2 space-y-1">
                             <li>बच्चे को पीठ के बल सुलाएं (Back to Sleep)</li>
                             <li>सख्त mattress पर</li>
-                            <li>तकिये, गद्दे, stuffed animals न हों</li>
-                            <li>अपने बिस्तर पर nearby but separate</li>
+                            <li>तकिये, मोटे कंबल/रज़ाई, stuffed animals न हों</li>
+                            <li>माता-पिता के कमरे में, पर अलग पालने/बिस्तर पर (room-sharing, bed-sharing नहीं)</li>
                         </ul>
                     </div>
                 </div>
@@ -406,7 +406,7 @@
                     <li><strong>आराम करें:</strong> शरीर को recover होने में 6 weeks लगते हैं।</li>
                     <li><strong>पर्याप्त पानी पिएं:</strong> breastfeeding के लिए hydration जरूरी।</li>
                     <li><strong>पौष्टिक खाना खाएं:</strong> protein, iron, calcium युक्त आहार।</li>
-                    <li><strong>Emotionally support:</strong> baby blues (mood changes) normal है। अगर severe हो तो doctor consult करें।</li>
+                    <li><strong>Emotionally support:</strong> baby blues (mood changes) पहले 2 हफ्तों में normal है। अगर उदासी 2 हफ्ते से ज़्यादा रहे, बहुत ज़्यादा हो, या खुद को या बच्चे को नुकसान पहुंचाने के विचार आएं, तो तुरंत doctor से मिलें या Tele-MANAS helpline 14416 पर संपर्क करें।</li>
                 </ul>
 
                 <!-- CTA Box -->
@@ -426,7 +426,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">बच्चा कितना weight gain करेगा?</h4>
-                        <p class="text-gray-700">पहले सप्ताह में birth weight का 5-7% कम होना normal है। उसके बाद प्रतिदिन 20-30g weight gain होना चाहिए।</p>
+                        <p class="text-gray-700">पहले सप्ताह में birth weight का 7-10% तक कम होना normal है, और 10-14 दिनों में बच्चा birth weight वापस पा लेता है। उसके बाद प्रतिदिन 20-30g weight gain होना चाहिए।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">कब bath करानी शुरू करें?</h4>

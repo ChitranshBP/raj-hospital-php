@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब घरेलू उपाय काफी हैं। Heart और lungs की जांच।">
+    <meta name="description" content="सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब तुरंत emergency care जरूरी है। Heart और lungs की जांच।">
     <meta name="keywords" content="chest pain, सीने में दर्द, chest pain ka ilaj, heart pain, cardiac emergency, chest pain treatment in hindi, heart health ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/chest-pain-ka-ilaj/">
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब घरेलू उपाय काफी हैं। Heart और lungs की जांच।",
+        "description": "सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब तुरंत emergency care जरूरी है। Heart और lungs की जांच।",
         "url": "https://rajhospitals.com/blog/chest-pain-ka-ilaj/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/chest-pain-ka-ilaj.png",
         "author": {
@@ -296,7 +296,7 @@
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <div class="font-bold text-blue-700 mb-2">हृदय दर्द का इलाज</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>Aspirin और blood thinners</li>
+                            <li>Aspirin और blood thinners (केवल डॉक्टर/emergency team की सलाह पर)</li>
                             <li>Angioplasty (stent placement)</li>
                             <li>Bypass surgery (गंभीर cases में)</li>
                             <li>Beta blockers और statins</li>
@@ -355,7 +355,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Home remedy से सीने दर्द ठीक हो सकता है?</h4>
-                        <p class="text-gray-700">हल्के दर्द के लिए कुछ home remedies उपयोगी हैं, लेकिन गंभीर या बार-बार दर्द के लिए doctor consultation जरूरी है।</p>
+                        <p class="text-gray-700">सीने के दर्द में पहले डॉक्टर से कारण की जांच जरूरी है; heart की समस्या rule out होने के बाद ही डॉक्टर की सलाह से कोई घरेलू उपाय अपनाएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Stress से सीने दर्द हो सकता है?</h4>
@@ -365,7 +365,7 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">सीने में दर्द का इलाज (Chest Pain Treatment): जरूरी जानकारी</h2>
-                    <p class="text-gray-700 mb-4">सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब घरेलू उपाय काफी हैं। Heart और lungs की जांच।</p>
+                    <p class="text-gray-700 mb-4">सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब तुरंत emergency care जरूरी है। Heart और lungs की जांच।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। सीने में दर्द का इलाज (Chest Pain Treatment) शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>

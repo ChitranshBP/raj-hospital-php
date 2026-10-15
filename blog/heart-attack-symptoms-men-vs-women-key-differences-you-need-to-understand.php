@@ -256,7 +256,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -388,17 +388,17 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">Unique Heart Attack Symptoms in Women</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Women often experience <strong>atypical symptoms</strong> that are easily dismissed as other conditions. Studies show that women are <strong>50% more likely</strong> to experience these "silent" symptoms. Understanding these signs can save lives:
+                    Women often experience <strong>atypical symptoms</strong> that are easily dismissed as other conditions. Women are more likely than men to experience these subtle symptoms. Understanding these signs can save lives:
                 </p>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">1. Extreme Fatigue and Weakness</h4>
-                        <p class="text-sm text-gray-600">Many women report feeling <strong>overwhelmingly tired</strong> weeks before a heart attack. This fatigue is different from normal tiredness - it occurs even after adequate rest and may interfere with daily activities. Our cardiac care team has seen many cases where this symptom was initially dismissed as stress or overwork.</p>
+                        <p class="text-sm text-gray-600">Many women report feeling <strong>overwhelmingly tired</strong> weeks before a heart attack. This fatigue is different from normal tiredness - it occurs even after adequate rest and may interfere with daily activities. </p>
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">2. Sleep Disturbances</h4>
-                        <p class="text-sm text-gray-600">Difficulty falling asleep, staying asleep, or waking up frequently during the night can be early warning signs. Many women report having strange dreams or vivid nightmares in the days preceding a heart attack.</p>
+                        <p class="text-sm text-gray-600">Difficulty falling asleep, staying asleep, or waking up frequently during the night can be early warning signs. </p>
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">3. Indigestion and Stomach Issues</h4>
@@ -410,7 +410,7 @@
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">5. Upper Back and Shoulder Pain</h4>
-                        <p class="text-sm text-gray-600">Pain between the shoulder blades or in the upper back is more common in women than chest pain. This can radiate to the jaw and neck, often mistaken for muscle strain. Learn more about <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline">back pain conditions</a> we treat at RAJ Hospital.</p>
+                        <p class="text-sm text-gray-600">Pain between the shoulder blades or in the upper back is more common in women than in men, although chest pain or discomfort is still the most common symptom in both. This can radiate to the jaw and neck, often mistaken for muscle strain. Learn more about <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline">back pain conditions</a> we treat at RAJ Hospital.</p>
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">6. Lightheadedness and Dizziness</h4>
@@ -420,7 +420,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
-                    <span class="text-gray-700"> Research from the American Heart Association shows that 78% of women experience multiple subtle symptoms in the weeks before a heart attack, but only 30% seek medical help. Early recognition and immediate action are crucial for survival.</span>
+                    <span class="text-gray-700"> Studies have found that many women notice warning symptoms such as unusual fatigue or sleep problems in the weeks before a heart attack, yet many delay seeking help. Early recognition and immediate action are crucial for survival.</span>
                 </div>
 
                 <!-- Section 5: Why Symptoms Differ -->
@@ -453,7 +453,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">Silent Heart Attacks: What You Need to Know</h2>
 
                 <p class="text-gray-700 mb-4">
-                    A <strong>silent heart attack</strong> (also called silent ischemia) is a heart attack that occurs without obvious symptoms or with such mild symptoms that the person doesn't recognize it. These are more common in women, diabetics, and older adults.
+                    A <strong>silent heart attack</strong> (also called a silent myocardial infarction) is a heart attack that occurs without obvious symptoms or with such mild symptoms that the person doesn't recognize it. These are more common in women, diabetics, and older adults.
                 </p>
 
                 <p class="text-gray-700 mb-4">

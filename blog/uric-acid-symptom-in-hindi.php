@@ -75,7 +75,7 @@
                 "name": "यूरिक एसिड (Uric Acid) क्या है और इसके क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Uric acid एक waste product है जो purines के breakdown से बनता है। Normal level 3.5-7.2 mg/dL होती है। High uric acid (hyperuricemia) के symptoms: जोड़ों में तेज दर्द (विशेषकर big toe), swelling, redness, joint stiffness, kidney stones, और fatigue।"
+                    "text": "Uric acid एक waste product है जो purines के breakdown से बनता है। Normal level पुरुषों में लगभग 3.4-7.0 mg/dL और महिलाओं में लगभग 2.4-6.0 mg/dL होता है। High uric acid (hyperuricemia) के symptoms: जोड़ों में तेज दर्द (विशेषकर big toe), swelling, redness, joint stiffness, kidney stones, और fatigue।"
                 }
             },
             {
@@ -83,7 +83,7 @@
                 "name": "यूरिक एसिड कैसे कम करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Uric acid कम करने के उपाय: 1) Purine-rich foods avoid करें (red meat, seafood, alcohol) 2) ज्यादा पानी पिएं 3) Vitamin C supplements लें 4) Regular exercise करें 5) Weight management 6) Doctor prescribed medicines (allopurinol, febuxostat) लें।"
+                    "text": "Uric acid कम करने के उपाय: 1) Purine-rich foods avoid करें (red meat, seafood, alcohol) 2) ज्यादा पानी पिएं 3) Doctor की सलाह से Vitamin C ले सकते हैं 4) Regular exercise करें 5) Weight management 6) Doctor prescribed medicines (allopurinol, febuxostat) लें।"
                 }
             },
             {
@@ -197,7 +197,7 @@
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">
                     <strong class="text-primary-600 text-lg">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> Uric acid का normal level 3.5-7.2 mg/dL होता है। अगर यह 7 mg/dL से ऊपर चला जाए, तो इसे hyperuricemia कहते हैं और इसे manage करना जरूरी है।</span>
+                    <span class="text-gray-700"> Uric acid का normal level आम तौर पर पुरुषों में लगभग 3.4-7.0 mg/dL और महिलाओं में लगभग 2.4-6.0 mg/dL होता है (lab के अनुसार थोड़ा अलग हो सकता है)। अगर यह 7 mg/dL से ऊपर चला जाए, तो इसे hyperuricemia कहते हैं और इसे manage करना जरूरी है।</span>
                 </div>
 
                 <h2 class="raj-h2-secondary">यूरिक एसिड क्या है और यह कैसे बनता है?</h2>
@@ -249,7 +249,7 @@
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-primary-600 mb-2">General Symptoms</h4>
+                        <h4 class="font-bold text-primary-600 mb-2">Associated Conditions (साथ में पाई जाने वाली समस्याएं)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Fatigue</li>
                             <li>Weakness</li>
@@ -272,7 +272,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">1. Diet (High Purine Foods)</h4>
-                        <p class="text-sm text-gray-600">Red meat, organ meats (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>, kidney), seafood (fish, shellfish), और legumes (dal) high purine होते हैं। इनका ज्यादा consumption uric acid बढ़ाता है।</p>
+                        <p class="text-sm text-gray-600">Red meat, organ meats (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>, kidney), seafood (fish, shellfish) high purine होते हैं (dal जैसे plant sources का gout risk पर असर काफ़ी कम माना जाता है)। इनका ज्यादा consumption uric acid बढ़ाता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">2. Alcohol Consumption</h4>
@@ -356,7 +356,6 @@
                             <li>Allopurinol</li>
                             <li>Febuxostat</li>
                             <li>Probenecid</li>
-                            <li>Lesinurad</li>
                         </ul>
                     </div>
                 </div>

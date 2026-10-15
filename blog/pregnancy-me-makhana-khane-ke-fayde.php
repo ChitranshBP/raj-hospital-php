@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -264,16 +264,16 @@
                         <p class="text-sm text-gray-600">मखाना में good quality protein होता है जो baby's growth और development के लिए essential है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
-                        <h4 class="font-bold text-green-600">2. Rich in Calcium</h4>
+                        <h4 class="font-bold text-green-600">2. Calcium (थोड़ी मात्रा में)</h4>
                         <p class="text-sm text-gray-600">Calcium baby's <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> development के लिए जरूरी है और mother's bone health भी maintain करता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">3. Iron for Blood Health</h4>
-                        <p class="text-sm text-gray-600">Iron blood production में मदद करता है और anemia से बचाव करता है जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में common है।</p>
+                        <p class="text-sm text-gray-600">मखाने में iron थोड़ी मात्रा में होता है; anemia से बचाव के लिए डॉक्टर द्वारा दी गई iron-folic acid गोलियां और iron-rich diet ज़रूरी हैं, क्योंकि anemia <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में common है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">4. Low Sodium</h4>
-                        <p class="text-sm text-gray-600">मखाना natural low sodium होता है जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में high BP (preeclampsia) risk को manage करने में मदद करता है।</p>
+                        <p class="text-sm text-gray-600">मखाना natural low sodium होता है जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में बिना नमक वाला हल्का snack हो सकता है; preeclampsia की रोकथाम या इलाज के लिए डॉक्टर की बताई जांच और दवा ज़रूरी है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">5. Gluten-Free</h4>
@@ -281,7 +281,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">6. Anti-Inflammatory Properties</h4>
-                        <p class="text-sm text-gray-600">मखाने में natural anti-inflammatory compounds होते हैं जो swelling और inflammation को reduce करते हैं।</p>
+                        <p class="text-sm text-gray-600">मखाने में कुछ antioxidants होते हैं, लेकिन pregnancy में सूजन कम करने का इसका प्रमाण नहीं है; अचानक या ज़्यादा सूजन हो तो तुरंत डॉक्टर को दिखाएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">7. Good for <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Digestion</a></h4>
@@ -343,7 +343,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">प्रेग्नेंसी में रोजाना कितना मखाना खाना चाहिए?</h4>
-                        <p class="text-gray-700">रोजाना 20-30 grams (लगभग 8-10 मखाने) पर्याप्त है। Excess न करें।</p>
+                        <p class="text-gray-700">रोजाना लगभग एक मुट्ठी (करीब 20-30 grams) काफ़ी है। ज़्यादा न खाएं; gestational diabetes हो तो मात्रा डॉक्टर/dietitian से पूछें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या first trimester में मखाना खा सकते हैं?</h4>
@@ -399,7 +399,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

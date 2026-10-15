@@ -317,7 +317,7 @@
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600">4. Pain Relievers</h4>
-                        <p class="text-sm text-gray-600">ibuprofen या acetaminophen</p>
+                        <p class="text-sm text-gray-600">ibuprofen या paracetamol (label या doctor/pharmacist की सलाह के अनुसार; kidney, ulcer, pregnancy या blood thinner वाले मरीज पहले डॉक्टर से पूछें)</p>
                     </div>
                 </div>
 
@@ -370,7 +370,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">कितने दिन में ठीक होगा?</h4>
-                        <p class="text-gray-700">Treatment के बाद 1-2 weeks में improvement होती है। Infection हो तो antibiotics 7-10 days।</p>
+                        <p class="text-gray-700">Treatment के बाद 1-2 weeks में improvement होती है। Infection हो तो dentist द्वारा बताई antibiotics का पूरा course लें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">क्या root canal painful है?</h4>

@@ -262,7 +262,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> (उच्च रक्तचाप)</h4>
-                        <p class="text-sm text-gray-600">BP high होने पर सिर के पीछे धड़कने जैसा दर्द हो सकता है। इसके अन्य symptoms में चक्कर और थकान भी होती है।</p>
+                        <p class="text-sm text-gray-600">BP बहुत ज्यादा बढ़ने पर सिर के पीछे धड़कने जैसा दर्द हो सकता है, जो emergency हो सकता है। ज़्यादातर लोगों में high BP के कोई लक्षण नहीं होते, इसलिए नियमित BP check कराएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">6. Eye Strain (आंखों की थकान)</h4>
@@ -305,7 +305,7 @@
 
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> गंभीर लक्षण:</strong>
-                    <span class="text-gray-700"> अगर नीचे दिए गए लक्षण हों, तो तुरंत डॉक्टर से मिलें:</span>
+                    <span class="text-gray-700"> अगर नीचे दिए गए लक्षण हों, तो तुरंत emergency care लें (108 पर call करें):</span>
                 </div>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">

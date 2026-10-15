@@ -293,7 +293,7 @@
                     <div class="raj-callout-icon"><i data-feather="alert-triangle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></div>
                     <div class="raj-callout-body">
                         <strong>सावधानी:</strong>
-                        <span> अगर कोई व्यक्ति "सब छोड़ देने", जीवन बेकार लगने, या आत्म-हानि की बातें करे, तो तुरंत मदद लें। यह emergency है।</span>
+                        <span> अगर कोई व्यक्ति "सब छोड़ देने", जीवन बेकार लगने, या आत्म-हानि की बातें करे, तो तुरंत मदद लें। यह emergency है। Tele-MANAS helpline 14416 या 1-800-891-4416 (24x7, निःशुल्क) पर कॉल करें, या 112 पर कॉल करके नज़दीकी hospital जाएं।</span>
                     </div>
                 </div>
 
@@ -379,7 +379,7 @@
                     <div class="raj-card">
                         <i data-feather="heart" class="raj-card-icon" aria-hidden="true"></i>
                         <h3 class="raj-card-title">दवाइयां (Medication)</h3>
-                        <p class="raj-card-body">Psychiat antidepressant medicines prescribe करते हैं जो brain chemicals को balance करती हैं। बिना doctor की सलाह के दवा न लें।</p>
+                        <p class="raj-card-body">Psychiatrist ज़रूरत के अनुसार antidepressant medicines prescribe करते हैं, जो mood से जुड़े brain chemicals पर असर करके लक्षणों में सुधार लाती हैं। बिना doctor की सलाह के दवा न लें।</p>
                     </div>
                     <div class="raj-card">
                         <i data-feather="activity" class="raj-card-icon" aria-hidden="true"></i>
@@ -401,7 +401,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या पुरुषों में डिप्रेशन सामान्य है?</h4>
-                        <p class="text-gray-700">हां, यह उतना ही सामान्य है जितना महिलाओं में, लेकिन पुरुष अक्सर इसे report नहीं करते।</p>
+                        <p class="text-gray-700">हां, पुरुषों में डिप्रेशन आम है। आंकड़ों में यह महिलाओं में ज़्यादा दर्ज होता है, लेकिन पुरुष अक्सर इसे report नहीं करते, इसलिए उनके कई मामले पकड़ में नहीं आते।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या डिप्रेशन बिना दवा के ठीक हो सकता है?</h4>
@@ -427,7 +427,7 @@
                     <p class="text-gray-700 mb-4">पुरुषों में डिप्रेशन के लक्षण अक्सर शारीरिक बीमारियों की तरह प्रकट होते हैं, इसलिए सही diagnosis ज़रूरी है। लंबे समय तक चलने वाली थकान, सिरदर्द, पाचन समस्या या यौन समस्याओं के पीछे <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a> हो सकता है।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के पुरुष मरीज़ों के लिए सबसे ज़रूरी बात यह है कि वे symptoms को गंभीरता से लें और बिना किसी judgement के डॉक्टर से बात करें। पुरुषों में डिप्रेशन के लक्षण पहचाने जा सकते हैं, और इलाज से जीवन की quality बेहतर हो सकती है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">mental health</a> team confidentiality के साथ evaluation, counselling, और personalised treatment plan देती है। अगर लक्षण 2 सप्ताह से ज़्यादा हों, रोज़मर्रा के काम प्रभावित हों, या आत्म-हानि के विचार आ रहे हों, तो consultation delay न करें।</p>
-                    <p class="text-gray-700 mb-4">Doctor visit से पहले अपनी भावनाओं, physical symptoms, नींद-भूख के pattern और triggers को लिख लें। यह जानकारी diagnosis में बहुत उपयोगी होती है। अगर कोई गंभीर warning sign (जैसे आत्म-हानि के विचार) हो, तो तुरंत emergency helpline या नज़दीकी hospital में संपर्क करें।</p>
+                    <p class="text-gray-700 mb-4">Doctor visit से पहले अपनी भावनाओं, physical symptoms, नींद-भूख के pattern और triggers को लिख लें। यह जानकारी diagnosis में बहुत उपयोगी होती है। अगर कोई गंभीर warning sign (जैसे आत्म-हानि के विचार) हो, तो तुरंत Tele-MANAS (14416 या 1-800-891-4416) या 112 पर कॉल करें, या नज़दीकी hospital में संपर्क करें।</p>
                     <p class="text-gray-700 mb-4">यह article केवल awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें। अपने या किसी अपने की मानसिक सेहत को लेकर चिंता हो तो RAJ Hospital के mental health specialists से मिलकर सही रास्ता चुनें।</p>
                 </section>
 

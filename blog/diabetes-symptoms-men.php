@@ -53,7 +53,7 @@
             "name": "क्या Diabetes Symptoms in Men - Warning Signs Every Man Should Know दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Ways to Take Moringa for Managing Diabetes जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए diabetes में सही खान-पान और blood sugar monitoring जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -249,7 +249,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Fact:</strong>
-                    <span class="text-gray-700"> Men are 26% more likely to develop type 2 diabetes than women, even after adjusting for BMI. This makes recognizing symptoms even more critical for men's health.</span>
+                    <span class="text-gray-700"> Studies suggest men may be more likely than women to develop type 2 diabetes at the same body weight. This makes recognizing symptoms even more critical for men's health.</span>
                 </div>
 
                 <!-- Section 2: Common Diabetes Symptoms -->
@@ -341,7 +341,7 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Higher average BMI for diagnosis</strong> - Men typically develop type 2 diabetes at a higher BMI than women</li>
+                    <li><strong>Higher average BMI for diagnosis</strong> - Men typically develop type 2 diabetes at a lower BMI than women</li>
                     <li><strong>Less body awareness</strong> - Men are generally less likely to notice or act on subtle symptoms</li>
                     <li><strong>Less frequent doctor visits</strong> - Men visit doctors less often, missing opportunities for early detection</li>
                     <li><strong>Waist circumference</strong> - Men tend to carry weight in the abdomen, which is a significant risk factor</li>
@@ -380,7 +380,7 @@
                                 <td class="border border-gray-300 p-3">6.5% or higher</td>
                             </tr>
                             <tr>
-                                <td class="border border-gray-300 p-3 font-semibold">Random Blood Glucose</td>
+                                <td class="border border-gray-300 p-3 font-semibold">2-hour OGTT (75 g glucose)</td>
                                 <td class="border border-gray-300 p-3">Below 140 mg/dL</td>
                                 <td class="border border-gray-300 p-3">140-199 mg/dL</td>
                                 <td class="border border-gray-300 p-3">200 mg/dL or higher</td>
@@ -408,7 +408,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-500">
                         <h4 class="font-bold text-green-600 mb-2">2. Watch Your Waist</h4>
-                        <p class="text-sm text-gray-600">Men should aim to keep waist circumference below 40 inches (102 cm). Abdominal fat is strongly linked to insulin resistance.</p>
+                        <p class="text-sm text-gray-600">Indian men should aim to keep waist circumference below about 90 cm (35 inches). Abdominal fat is strongly linked to insulin resistance.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-500">
                         <h4 class="font-bold text-green-600 mb-2">3. Eat a Balanced Diet</h4>
@@ -507,7 +507,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Diabetes Symptoms in Men - Warning Signs Every Man Should Know दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Ways to Take Moringa for Managing Diabetes जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए diabetes में सही खान-पान और blood sugar monitoring जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>

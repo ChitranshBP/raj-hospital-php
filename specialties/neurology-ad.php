@@ -551,7 +551,7 @@ Nervous System Specialist in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>No, both EEG and NCS are safe, non-invasive, and painless diagnostic procedures.</p>
+                                <p>EEG is painless. NCS uses brief, mild electrical pulses that may cause slight, temporary tingling or discomfort. Both are safe, non-invasive diagnostic tests.</p>
                             </div>
                         </div>
                     </div>

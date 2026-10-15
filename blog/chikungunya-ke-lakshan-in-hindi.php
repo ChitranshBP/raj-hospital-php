@@ -229,7 +229,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>चिकनगुनिया (Chikungunya)</strong> एक mosquito-borne viral disease है जो <strong>Aedes aegypti</strong> और <strong>Aedes albopictus</strong> mosquitoes के काटने से फैलती है। इसका नाम Swahili भाषा से आया है जिसका मतलब "जो कुचलता है" है, जो इसके लक्षणों की तीव्रता को दर्शाता है।
+                    <strong>चिकनगुनिया (Chikungunya)</strong> एक mosquito-borne viral disease है जो <strong>Aedes aegypti</strong> और <strong>Aedes albopictus</strong> mosquitoes के काटने से फैलती है। इसका नाम Tanzania की Kimakonde भाषा से आया है जिसका मतलब "जो झुका देता है" है, जो इसके लक्षणों की तीव्रता को दर्शाता है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -245,7 +245,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> चिकनगुनिया का कोई specific vaccine या antiviral treatment नहीं है। Treatment मुख्य रूप से symptoms को manage करने पर focused है।</span>
+                    <span class="text-gray-700"> चिकनगुनिया का कोई specific antiviral treatment नहीं है, और India में इसका vaccine अभी आम तौर पर उपलब्ध नहीं है। Treatment मुख्य रूप से symptoms को manage करने पर focused है।</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->
@@ -350,7 +350,7 @@
                         <div class="font-bold text-blue-700 mb-2">घरेलू देखभाल</div>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>भरपूर आराम (complete bed rest)</li>
-                            <li>आंशिक रूप से नम और ठंडा</li>
+                            <li>भरपूर पानी और तरल पदार्थ; जोड़ों पर ठंडी सिकाई</li>
                             <li>हल्का पौष्टिक आहार</li>
                             <li>जोड़ों की gentle stretching</li>
                         </ul>
@@ -366,7 +366,7 @@
                 <h2 class="raj-h2">चिकनगुनिया से बचाव</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Prevention</strong> mosquito bites से बचाव पर based है क्योंकि कोई vaccine नहीं है।
+                    <strong>Prevention</strong> mosquito bites से बचाव पर based है क्योंकि India में vaccine अभी आम तौर पर उपलब्ध नहीं है।
                 </p>
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
@@ -390,7 +390,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Chikungunya की जांच की जरूरत है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में blood tests (NS1, IgM) और complete checkup available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में Chikungunya और Dengue की जांच (RT-PCR/IgM, NS1) और complete checkup available है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -408,7 +408,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">चिकनगुनिया एक बार होने के बाद फिर हो सकता है?</h4>
-                        <p class="text-gray-700">नहीं, एक बार होने के बाद lifelong immunity मिलती है।</p>
+                        <p class="text-gray-700">आमतौर पर नहीं — एक बार संक्रमण के बाद लंबे समय तक immunity मानी जाती है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

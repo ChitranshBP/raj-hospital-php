@@ -119,7 +119,7 @@
                 "name": "Can panic attacks damage the heart?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Panic attacks do not cause permanent damage to a healthy heart. During a panic attack the heart rate can reach 150-200 bpm and blood pressure rises, but these return to normal once the attack subsides. Repeated untreated panic attacks, however, increase long-term cardiovascular risk by 30-50% according to Circulation research published in 2023."
+                    "text": "Panic attacks do not cause permanent damage to a healthy heart. During a panic attack the heart rate can rise sharply (often 100-160 bpm) and blood pressure rises, but these return to normal once the attack subsides. Repeated untreated panic attacks, however, are associated with higher long-term cardiovascular risk in observational studies."
                 }
             },
             {
@@ -184,7 +184,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-indigo-700">Quick Answer:</strong>
-                    <span class="text-gray-700"> <strong>No</strong> — anxiety does not directly cause a heart attack in a structurally normal heart. <strong>Yes</strong> — chronic anxiety increases long-term heart disease risk by 30–50%, and acute extreme stress can trigger <em>broken heart syndrome</em>. If chest pain is new, severe, or radiating to the arm or jaw, treat it as a heart attack and call emergency services or visit the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac emergency at RAJ Hospital Ranchi</a>.</span>
+                    <span class="text-gray-700"> <strong>No</strong> — anxiety does not directly cause a heart attack in a structurally normal heart. <strong>Yes</strong> — chronic anxiety is associated with higher long-term heart disease risk, and acute extreme stress can trigger <em>broken heart syndrome</em>. If chest pain is new, severe, or radiating to the arm or jaw, treat it as a heart attack and call emergency services or visit the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac emergency at RAJ Hospital Ranchi</a>.</span>
                 </div>
 
                 <h2 class="raj-h2">What Happens to Your Heart During Anxiety or a Panic Attack?</h2>
@@ -249,7 +249,7 @@
                 </p>
                 <ol class="list-decimal list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>12-lead ECG</strong> — looks for ST-segment elevation/depression. A normal ECG during pain is reassuring but not definitive.</li>
-                    <li><strong>High-sensitivity troponin (hs-cTnI)</strong> — a blood test that rises within 1–3 hours of muscle damage. Two negative results 1 hour apart effectively rule out a heart attack.</li>
+                    <li><strong>High-sensitivity troponin (hs-cTnI)</strong> — a blood test that rises within 1–3 hours of muscle damage. Validated high-sensitivity troponin protocols, interpreted together with the ECG and symptoms, help rule out a heart attack.</li>
                     <li><strong>Echocardiography or CT coronary angiography</strong> — ordered if suspicion remains, to visualise the coronary arteries and ejection fraction.</li>
                 </ol>
                 <p class="text-gray-700 mb-4">
@@ -261,10 +261,10 @@
                     Managing anxiety is, in a very real sense, preventive cardiology. The treatment plan at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>, typically combines:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Cognitive behavioural therapy (CBT)</strong> — first-line for panic disorder; 60–80% of patients see meaningful improvement within 12 weeks.</li>
-                    <li><strong>SSRI / SNRI medication</strong> — long-term safety profile is excellent; cardiac-safe options exist for patients with existing heart disease.</li>
+                    <li><strong>Cognitive behavioural therapy (CBT)</strong> — first-line for panic disorder; many patients see meaningful improvement within a few months.</li>
+                    <li><strong>SSRI / SNRI medication</strong> — generally well tolerated, though side effects can occur; some options are considered safer for people with heart disease — the choice should be made by a doctor.</li>
                     <li><strong>Breathwork and HRV biofeedback</strong> — measurable reduction in resting heart rate within 4–6 weeks.</li>
-                    <li><strong>Moderate aerobic exercise</strong> — 150 minutes per week reduces anxiety scores by 30% and cardiac events by 25%.</li>
+                    <li><strong>Moderate aerobic exercise</strong> — 150 minutes per week can help reduce anxiety and lower cardiac risk.</li>
                     <li><strong>Sleep hygiene and limiting stimulants</strong> — caffeine, nicotine, and screen-time before bed amplify both anxiety and arrhythmia risk.</li>
                 </ul>
 
@@ -304,11 +304,11 @@
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Are anti-anxiety medicines safe for the heart?</h3>
-                            <p class="text-gray-700">SSRIs (escitalopram, sertraline) are considered cardiac-safe. Benzodiazepines (clonazepam, lorazepam) are short-term safe but habit-forming. Beta-blockers such as propranolol are often used to control both anxiety symptoms and heart-rate spikes. Always start under cardiologist + psychiatrist supervision.</p>
+                            <p class="text-gray-700">Sertraline is often preferred in heart patients; some SSRIs such as escitalopram can affect heart rhythm (QT) at higher doses, so the choice must be made by your doctor. Benzodiazepines (clonazepam, lorazepam) are short-term safe but habit-forming. Beta-blockers such as propranolol are often used to control both anxiety symptoms and heart-rate spikes. Always start under cardiologist + psychiatrist supervision.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">How long does anxiety chest pain last?</h3>
-                            <p class="text-gray-700">Typically 5–20 minutes. The peak is around 10 minutes. If chest pain lasts longer than 30 minutes, the diagnosis is more likely cardiac — go to the nearest emergency room or the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac ER at RAJ Hospital Ranchi</a>.</p>
+                            <p class="text-gray-700">Typically 5–20 minutes. The peak is around 10 minutes. If chest pain lasts more than 5 minutes, is severe, or spreads to the arm or jaw, treat it as a possible heart attack — go to the nearest emergency room or the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac ER at RAJ Hospital Ranchi</a>.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can you have a heart attack with normal blood pressure and cholesterol?</h3>

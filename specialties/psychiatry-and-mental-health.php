@@ -546,7 +546,7 @@ Counselling Services in Jharkhand
                 <div class="lg:sticky lg:top-24 h-fit">
                     <div class="bg-gradient-to-br from-primary-50 to-secondary-50 rounded-xl p-6 shadow-lg">
                         <h3 class="text-2xl font-bold text-gray-900 mb-2">Have More Questions?</h3>
-                        <p class="text-gray-600 mb-6">Get in touch with our Psychiatry specialists</p>
+                        <p class="text-gray-600 mb-6">Get in touch with our Psychiatry specialists. If you or someone you know is in crisis or thinking about self-harm, call 112 or Tele-MANAS 14416 (24x7, toll-free) or come to our 24x7 emergency immediately.</p>
                         <form accept-charset="UTF-8" action="https://app.formester.com/forms/kIewn1CO8/submissions" method="POST" class="space-y-4">
                             <div><label for="inquiry_name" class="block text-sm font-medium text-gray-700 mb-1">Full
                                     Name <span class="text-red-500">*</span></label><input type="text" id="inquiry_name"

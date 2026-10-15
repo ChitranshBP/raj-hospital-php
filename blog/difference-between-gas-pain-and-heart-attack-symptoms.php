@@ -377,7 +377,7 @@
                     <strong>Gas Pain:</strong> May change with position, deep breathing, or belching. Movement doesn't typically make it worse.
                 </p>
                 <p class="text-gray-700 mb-6">
-                    <strong>Heart Attack Pain:</strong> Often worsens with physical activity and doesn't improve with position changes. Deep breathing might increase the pain.
+                    <strong>Heart Attack Pain:</strong> Often worsens with physical activity and doesn't improve with position changes. It usually does not change with breathing.
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Associated Symptoms</h3>
@@ -465,7 +465,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>If you answered "yes" to two or more of these questions, call emergency services immediately.</strong> Don't wait to see if symptoms improve - time is muscle, and every minute counts in a heart attack.
+                    <strong>If you answered "yes" to any of these questions, call emergency services immediately.</strong> Don't wait to see if symptoms improve - time is muscle, and every minute counts in a heart attack.
                 </p>
 
                 <!-- CTA Box -->
@@ -493,7 +493,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">What should I do while waiting for emergency services?</h4>
-                        <p class="text-gray-700">Sit or lie down in a comfortable position. If you're not allergic, chew an aspirin (325mg) - this can help if it's a heart attack by reducing blood clotting. Stay calm and try to breathe slowly. Don't eat or drink anything. Keep your phone nearby in case symptoms worsen.</p>
+                        <p class="text-gray-700">Sit or lie down in a comfortable position. Call 108 / emergency services and follow their instructions — they may advise chewing an aspirin if it is safe for you (do not take it if you are allergic, have a bleeding problem or already take blood thinners). Stay calm and try to breathe slowly. Don't eat or drink anything. Keep your phone nearby in case symptoms worsen.</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

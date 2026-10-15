@@ -240,7 +240,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> Women में thyroid disorders पुरुषों की तुलना में 5-8 गुना ज्यादा common हैं। Hormonal fluctuations (menstruation, pregnancy, menopause) इसका एक major reason है।</span>
+                    <span class="text-gray-700"> Women में thyroid disorders पुरुषों की तुलना में 5-8 गुना ज्यादा common हैं। इसका एक बड़ा कारण यह है कि autoimmune thyroid diseases (जैसे Hashimoto's और Graves' disease) women में ज़्यादा होती हैं; delivery के बाद (postpartum) भी thyroid problems हो सकती हैं।</span>
                 </div>
 
                 <h2 class="raj-h2">Women में Thyroid Problems के प्रकार</h2>
@@ -303,7 +303,7 @@
                 <h2 class="raj-h2">Thyroid और Pregnancy (गर्भावस्था में Thyroid)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Thyroid और pregnancy</strong> का close connection है। Untreated thyroid disorders से pregnancy में complications हो सकते हैं:
+                    <strong>Thyroid और pregnancy</strong> का close connection है। Pregnancy plan करते समय और pregnancy confirm होते ही TSH test कराएं; thyroid की दवा खुद से बंद न करें — pregnancy में dose अक्सर doctor बदलते हैं। Untreated thyroid disorders से pregnancy में complications हो सकते हैं:
                 </p>
 
                 <div class="raj-callout raj-callout-warning">
@@ -330,7 +330,7 @@
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i>️ Radioactive Iodine</h4>
-                        <p class="text-sm text-gray-600">Hyperthyroidism treatment में used। Thyroid cells को reduce करता है।</p>
+                        <p class="text-sm text-gray-600">Hyperthyroidism treatment में used। Thyroid cells को reduce करता है। Pregnancy और breastfeeding के दौरान radioactive iodine नहीं दिया जाता — pregnancy plan कर रही हैं तो doctor को ज़रूर बताएं।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700"><i data-feather="scissors" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Surgery</h4>

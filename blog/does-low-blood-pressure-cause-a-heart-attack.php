@@ -264,7 +264,7 @@
 
                 <h2 class="raj-h2">Managing Low BP at Home — Practical Tips</h2>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Hydrate well</strong> — 2.5–3 litres of water daily; add a pinch of salt in summer.</li>
+                    <li><strong>Hydrate well</strong> — drink adequate fluids and add a little extra salt only if your doctor agrees (not in heart failure, kidney disease or high BP).</li>
                     <li><strong>Stand up slowly</strong> — pause at the edge of the bed for 30 seconds before walking.</li>
                     <li><strong>Avoid prolonged standing</strong> — flex calf muscles periodically.</li>
                     <li><strong>Compression stockings</strong> — class II (20–30 mmHg) for orthostatic hypotension.</li>
@@ -280,7 +280,7 @@
                     <li><strong>Low BP alone is not a heart attack cause</strong> — it is more often a sign that something else is wrong.</li>
                     <li><strong>Sudden drop in BP plus chest pain</strong> is a red-flag combination that needs immediate cardiac work-up.</li>
                     <li><strong>Chronic asymptomatic hypotension</strong> in a young, healthy person is usually benign — but persistent symptoms deserve an evaluation.</li>
-                    <li><strong>Cardiogenic shock</strong> is the most lethal complication of acute MI; the only effective treatment is rapid revascularisation at a centre with primary PCI capability — available round-the-clock at RAJ Hospital.</li>
+                    <li><strong>Cardiogenic shock</strong> is the most lethal complication of acute MI; the key treatment is rapid revascularisation at a centre with primary PCI capability, along with intensive cardiac support.</li>
                 </ul>
 
                 <!-- CTA -->

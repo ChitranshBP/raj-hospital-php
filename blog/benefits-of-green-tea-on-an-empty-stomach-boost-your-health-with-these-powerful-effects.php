@@ -238,7 +238,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    The history of <strong>green tea</strong> dates back thousands of years, originating in China and later spreading throughout Asia and the world. Traditional Chinese medicine has long recognized green tea for its medicinal properties, including improved <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">digestion</a>, mental clarity, and longevity. Modern scientific research has validated many of these traditional claims, showing that regular consumption of green tea can have profound effects on various aspects of health.
+                    The history of <strong>green tea</strong> dates back thousands of years, originating in China and later spreading throughout Asia and the world. Traditional Chinese medicine has long recognized green tea for its medicinal properties, including improved <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">digestion</a>, mental clarity, and longevity. Modern research has studied several of these traditional claims; some benefits are supported, while others need more evidence.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -256,7 +256,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">1. Enhanced Metabolism</h4>
-                        <p class="text-sm text-gray-600">The catechins in green tea, especially EGCG, boost metabolism by 4-8% when consumed on an empty stomach. This can aid in weight management and fat burning.</p>
+                        <p class="text-sm text-gray-600">The catechins and caffeine in green tea may slightly increase metabolism, but the effect is small. This can aid in weight management and fat burning.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Better Antioxidant Absorption</h4>
@@ -268,7 +268,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Better <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Blood Sugar</a> Control</h4>
-                        <p class="text-sm text-gray-600">Studies show that green tea improves insulin sensitivity, which is particularly beneficial for those managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>. Learn more about our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> diet guide</a>.</p>
+                        <p class="text-sm text-gray-600">Some studies suggest green tea may have a small effect on blood sugar, but it is not a treatment for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>. Learn more about our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> diet guide</a>.</p>
                     </div>
                 </div>
 
@@ -279,17 +279,17 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">6. Digestive System Benefits</h3>
                 <p class="text-gray-700 mb-4">
-                    When consumed on an empty stomach, <strong>green tea</strong> can stimulate the production of digestive enzymes and gastric juices. This preparation effect helps improve <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">digestion</a> throughout the day and can prevent common digestive issues like <a href="/blog/acidity-symptoms-in-hindi/" class="text-secondary-600 hover:underline"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a> and bloating</a>. The mild antibacterial properties also support a healthy gut microbiome.
+                    When consumed on an empty stomach, <strong>green tea</strong> can stimulate the production of digestive enzymes and gastric juices. This preparation effect helps improve <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">digestion</a> throughout the day in some people; however, on an empty stomach it can also trigger or worsen <a href="/blog/acidity-symptoms-in-hindi/" class="text-secondary-600 hover:underline"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a> and bloating</a>. The mild antibacterial properties also support a healthy gut microbiome.
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">7. Antioxidant Content</h3>
                 <p class="text-gray-700 mb-4">
-                    Green tea acts as a natural detoxifier when consumed in the morning. The antioxidants help neutralize free radicals and support <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> function, which is the body's primary detox organ. 
+                    Green tea contains antioxidants, but no drink 'detoxifies' the body — the liver and kidneys do this naturally. The antioxidants help neutralize free radicals and support <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> function, which is the body's primary detox organ. 
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">8. Weight Management Support</h3>
                 <p class="text-gray-700 mb-4">
-                    For those looking to <strong>lose weight</strong>, drinking green tea on an empty stomach can be particularly effective. The thermogenic properties of catechins increase fat oxidation, while the mild caffeine provides energy for morning exercise. Combined with a healthy diet, green tea can support sustainable weight management. Our nutritionists at RAJ Hospital can create personalized <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diet plans</a> to complement your health goals.
+                    For those looking to <strong>lose weight</strong>, green tea alone has only a small effect; diet and physical activity matter far more. The thermogenic properties of catechins increase fat oxidation, while the mild caffeine provides energy for morning exercise. Combined with a healthy diet, green tea can support sustainable weight management. Our nutritionists at RAJ Hospital can create personalized <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diet plans</a> to complement your health goals.
                 </p>
 
                 <!-- Section 3: Side Effects -->
@@ -332,7 +332,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>People with gastric problems</strong> - Those with <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a>, GERD, or stomach ulcers should avoid empty stomach consumption.</li>
-                    <li><strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> women</strong> - Limit intake to 1-2 cups daily and always with food.</li>
+                    <li><strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> women</strong> - Limit intake (keep total caffeine from all sources within about 200 mg a day), take it with food, and check with your obstetrician.</li>
                     <li><strong>People with anemia</strong> - The tannins can further reduce iron absorption.</li>
                     <li><strong>Those with <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> disorders</strong> - Caffeine may exacerbate symptoms.</li>
                     <li><strong>People taking medications</strong> - Consult your doctor as green tea can interact with certain drugs.</li>
@@ -353,7 +353,7 @@
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Steep for 2-3 minutes</strong> only - longer steeping increases bitterness</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Never drink extremely hot tea</strong> - it damages the esophagus</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Limit to 2-3 cups daily</strong> for optimal benefits</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Add a squeeze of lemon</strong> to enhance iron absorption</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Add a squeeze of lemon</strong> if you like (to protect iron absorption, avoid tea with iron-rich meals)</li>
                     </ul>
                 </div>
 
@@ -371,7 +371,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-secondary-600">Before Exercise</div>
-                        <div class="text-sm text-gray-600 mt-2">Ideal for fat burning - drink 30 minutes before workouts for increased fat oxidation.</div>
+                        <div class="text-sm text-gray-600 mt-2">Caffeine may slightly help exercise performance; any effect on fat loss is small.</div>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-secondary-600">Between Meals</div>
@@ -393,7 +393,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Matcha Green Tea</h4>
-                        <p class="text-sm text-gray-600">The most potent form - you consume the entire leaf, getting 10x more antioxidants than regular green tea.</p>
+                        <p class="text-sm text-gray-600">The most potent form - you consume the whole powdered leaf, so it usually contains more catechins and caffeine than regular brewed green tea.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Sencha Green Tea</h4>
@@ -413,7 +413,7 @@
                 <h2 class="raj-h2">Scientific Evidence Behind Green Tea Benefits</h2>
 
                 <p class="text-gray-700 mb-4">
-                    The <strong>health benefits of green tea</strong> are not just traditional claims - they are backed by extensive scientific research:
+                    The <strong>health benefits of green tea</strong> have been studied in scientific research, with mixed results:
                 </p>
 
                 <p class="text-gray-700 mb-4">
@@ -449,7 +449,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Can green tea help with diabetes management?</h4>
-                        <p class="text-gray-700">Yes, studies show green tea improves insulin sensitivity and helps regulate blood sugar levels. Combined with our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diabetes diet guide</a>, it can be a helpful addition to your routine.</p>
+                        <p class="text-gray-700">Green tea may have a small effect on blood sugar, but it does not replace diabetes medicines or diet control. Along with our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diabetes diet guide</a>, it can be a helpful addition to your routine.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">What is the right temperature for green tea?</h4>

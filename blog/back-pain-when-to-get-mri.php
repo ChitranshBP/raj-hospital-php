@@ -215,7 +215,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    Two patients walk into the spine clinic in the same week. The first has had severe lower back pain for eight days after lifting a water drum, cannot sit comfortably, and is convinced something is torn. The second has had a dull backache for three months, mentions almost in passing that his right foot has started catching on steps, and thinks he is simply getting older. The first will almost certainly be fine without any scan. The second needs an MRI this week. Pain severity is a poor guide to seriousness in the spine, and that mismatch is the single most useful thing to understand about <strong>back pain and when to get an MRI</strong>.
+                    Consider two illustrative (hypothetical) patients. The first has had severe lower back pain for eight days after lifting a water drum, cannot sit comfortably, and is convinced something is torn. The second has had a dull backache for three months, mentions almost in passing that his right foot has started catching on steps, and thinks he is simply getting older. The first will almost certainly be fine without any scan. The second needs an MRI this week. Pain severity is a poor guide to seriousness in the spine, and that mismatch is the single most useful thing to understand about <strong>back pain and when to get an MRI</strong>.
                 </p>
 
                 <div class="raj-callout raj-callout-info">

@@ -310,7 +310,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-purple-600">
                         <h4 class="font-bold text-purple-600">3. Rhabdomyoma (बच्चों में Common)</h4>
-                        <p class="text-sm text-gray-600">यह benign tumor है जो आमतौर पर बच्चों और infants में पाया जाता है। यह अक्सर tuberculosis के साथ associated होता है और अपने आप ठीक हो सकता है।</p>
+                        <p class="text-sm text-gray-600">यह benign tumor है जो आमतौर पर बच्चों और infants में पाया जाता है। यह अक्सर tuberous sclerosis (एक genetic बीमारी) के साथ associated होता है और कई बार अपने आप छोटा हो सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-purple-600">
                         <h4 class="font-bold text-purple-600">4. Metastatic Heart Tumors</h4>
@@ -346,7 +346,7 @@
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">5. चक्कर आना (Dizziness)</h4>
-                        <p class="text-sm text-gray-600">चक्कर आना या lightheadedness दिल के कैंसर का एक और symptom है। यह तब होता है जब heart की pumping capacity कम हो जाती है और brain में sufficient blood नहीं पहुंच पाता। कुछ patients को <a href="/head-injury-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">head injury treatment</a> की जरूरत भी पड़ सकती है अगर वे gefahr करके gefahr जाएं।</p>
+                        <p class="text-sm text-gray-600">चक्कर आना या lightheadedness दिल के कैंसर का एक और symptom है। यह तब होता है जब heart की pumping capacity कम हो जाती है और brain में sufficient blood नहीं पहुंच पाता। कुछ patients को <a href="/head-injury-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">head injury treatment</a> की जरूरत भी पड़ सकती है अगर चक्कर आने से वे गिरकर चोटिल हो जाएं।</p>
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">6. हाथ-पैरों में सूजन (Swelling in Hands and Feet)</h4>
@@ -464,7 +464,7 @@
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2">Heart Transplant</h4>
-                        <p class="text-sm text-gray-600">Very rare और severe cases में, जब tumor extensively फैला हो, heart transplant एक option हो सकता है। हालांकि, यह complex procedure है और strict criteria apply होती हैं।</p>
+                        <p class="text-sm text-gray-600">Very rare cases में, जब tumor surgery से निकालना संभव न हो लेकिन शरीर में कहीं और न फैला हो, heart transplant पर विचार किया जा सकता है। हालांकि, यह complex procedure है और strict criteria apply होती हैं।</p>
                     </div>
                 </div>
 

@@ -106,7 +106,7 @@
                 "name": "High BP में नमक कितना खाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "High BP में daily नमक 1500mg से 2300mg (1/2 से 1 चम्मच) से कम होना चाहिए। Processed foods, pickles, papads, और chips से बचें जिनमें ज़्यादा sodium होती है।"
+                    "text": "High BP में daily sodium 1500-2300 mg से कम होना चाहिए, यानी कुल नमक लगभग 5 ग्राम (एक छोटा चम्मच) से कम। Processed foods, pickles, papads, और chips से बचें जिनमें ज़्यादा sodium होती है।"
                 }
             },
             {
@@ -138,7 +138,7 @@
                 "name": "High BP control करने के लिए क्या drink करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "High BP control के लिए अच्छे drinks हैं - नारियल पानी, sugarcane juice, fresh fruit juices without <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a>, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।"
+                    "text": "High BP control के लिए अच्छे drinks हैं - नारियल पानी, fresh fruit juices without <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a>, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।"
                 }
             }
         ]
@@ -322,7 +322,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">केला (Banana)</h4>
-                        <p class="text-sm text-gray-600">केला potassium का excellent source है। रोज़ 1-2 केले खाने से BP control होता है। Potassium sodium के effects को balance करता है।</p>
+                        <p class="text-sm text-gray-600">केला potassium का अच्छा source है और BP control में मदद कर सकता है। (Kidney की बीमारी हो या BP की कुछ दवाइयां ले रहे हों तो potassium वाले foods के बारे में पहले doctor से पूछें।) Potassium sodium के effects को balance करता है।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">संतरा और जामुन (Orange & Berries)</h4>
@@ -350,7 +350,7 @@
                     </div>
                     <div class="flex items-start gap-3">
                         <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
-                        <p class="text-gray-700"><strong>करेला (Bitter Gourd)</strong> - BP control करने में very effective। Juicing करके पी सकते हैं।</p>
+                        <p class="text-gray-700"><strong>करेला (Bitter Gourd)</strong> - fiber से भरपूर सब्ज़ी है, इसे सब्ज़ी के रूप में खाएं। (Diabetes की दवा लेते हैं तो करेला जूस doctor से पूछकर ही लें।)</p>
                     </div>
                     <div class="flex items-start gap-3">
                         <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
@@ -426,7 +426,7 @@
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Ghee और Butter</h4>
-                        <p class="text-sm text-gray-600">Trans fats से भरपूर, ये cholesterol बढ़ाते हैं और BP पर bad effect डालते हैं।</p>
+                        <p class="text-sm text-gray-600">Saturated fat से भरपूर; ये cholesterol बढ़ा सकते हैं, इसलिए सीमित मात्रा में लें।</p>
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Cold Drinks और Soda</h4>
@@ -563,7 +563,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: High BP में नमक कितना खाना चाहिए?</h4>
-                        <p class="text-gray-700">A: High BP में daily नमक 1500mg से 2300mg (1/2 से 1 चम्मच) से कम होना चाहिए। Processed foods, pickles, papads, और chips से बचें जिनमें ज़्यादा sodium होती है।</p>
+                        <p class="text-gray-700">A: High BP में daily sodium 1500-2300 mg से कम होना चाहिए, यानी कुल नमक लगभग 5 ग्राम (एक छोटा चम्मच) से कम। Processed foods, pickles, papads, और chips से बचें जिनमें ज़्यादा sodium होती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: High BP में चाय-कॉफी पी सकते हैं?</h4>
@@ -579,7 +579,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: High BP control करने के लिए क्या drink करना चाहिए?</h4>
-                        <p class="text-gray-700">A: High BP control के लिए अच्छे drinks हैं - नारियल पानी, sugarcane juice, fresh fruit juices without sugar, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।</p>
+                        <p class="text-gray-700">A: High BP control के लिए अच्छे drinks हैं - नारियल पानी, fresh fruit juices without sugar, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

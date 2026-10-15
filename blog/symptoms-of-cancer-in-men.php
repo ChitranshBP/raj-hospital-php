@@ -281,7 +281,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. Persistent Pain</h4>
-                        <p class="text-sm text-gray-600">Pain that does not improve with rest or medication, especially headaches, back pain, or bone pain, can be an early signal of brain, bone, or prostate cancer.</p>
+                        <p class="text-sm text-gray-600">Pain that does not improve with rest or medication, especially headaches, back pain, or bone pain, can sometimes be a sign of brain or bone cancer, or of a cancer (such as prostate cancer) that has spread to the bones.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">6. Changes in Bowel or Bladder Habits</h4>
@@ -316,7 +316,7 @@
                         <tbody class="border">
                             <tr class="border">
                                 <td class="px-4 py-2 font-semibold">Prostate</td>
-                                <td class="px-4 py-2">Difficulty urinating, weak stream, blood in urine, pelvic pain</td>
+                                <td class="px-4 py-2">Often no early symptoms; later: difficulty urinating, weak stream, blood in urine, pelvic or bone pain (urinary symptoms are more often due to benign prostate enlargement)</td>
                                 <td class="px-4 py-2">Age over 50, family history</td>
                             </tr>
                             <tr class="border bg-gray-50">
@@ -369,7 +369,7 @@
                     <div class="raj-callout-icon"><i data-feather="alert-triangle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></div>
                     <div class="raj-callout-body">
                         <strong>Family history changes the plan:</strong>
-                        <span> Men with a first-degree relative who had prostate, colorectal, or pancreatic cancer often need to start screening 10 years earlier than the general population.</span>
+                        <span> Men with a first-degree relative who had prostate or colorectal cancer may need to start screening earlier than the general population; the doctor will advise the right age.</span>
                     </div>
                 </div>
 
@@ -431,7 +431,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">What is the most common cancer in men?</h4>
-                        <p class="text-gray-700">Prostate, lung, and colorectal cancers are the three most commonly diagnosed cancers in men worldwide, in that order.</p>
+                        <p class="text-gray-700">Worldwide, lung, prostate and colorectal cancers are among the most commonly diagnosed cancers in men. In India, mouth (oral) cancer and lung cancer are the most common cancers in men, largely linked to tobacco use.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">At what age should men start cancer screening?</h4>

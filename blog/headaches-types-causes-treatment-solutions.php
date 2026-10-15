@@ -118,7 +118,7 @@
                 "name": "Headache band karne ke medicines kya hain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Common headache medicines: 1) Paracetamol - mild headache ke liye, 2) Ibuprofen - tension headache ke liye, 3) Sumatriptan - migraine ke liye doctor prescription se, 4) Excedrin - migraine की संयुक्त medicine. IMPORTANT: Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein. Doctor se consult karke proper treatment plan banana chahiye."
+                    "text": "Common headache medicines: 1) Paracetamol - mild headache ke liye, 2) Ibuprofen - tension headache ke liye, 3) Sumatriptan - migraine ke liye doctor prescription se, 4) Combination painkillers - sirf doctor ki salah se. IMPORTANT: Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein. Doctor se consult karke proper treatment plan banana chahiye."
                 }
             },
             {
@@ -271,7 +271,7 @@
 
                 <div class="bg-blue-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <strong class="text-primary-700">Important Note:</strong>
-                    <span class="text-gray-700"> Agar aapko <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a> ya <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a></a> ka suspicion hai, toh immediately doctor se milna chahiye. RAJ Hospital Ranchi mein <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> experts available hain.</span>
+                    <span class="text-gray-700"> Agar aapko <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a> ya <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a></a> ka suspicion hai, toh doctor se milna chahiye - stroke ke lakshan (chehra tedha hona, ek taraf kamzori, bolne mein dikkat) dikhein to turant 108 call karein ya emergency jaayein. RAJ Hospital Ranchi mein <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> experts available hain.</span>
                 </div>
 
                 <!-- Section 1: Types of Headaches -->
@@ -319,7 +319,7 @@
 
                     <div class="bg-gray-50 p-5 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 text-lg mb-2">6. Rebound Headache (रिबाउंड हेडएक)</h4>
-                        <p class="text-gray-700 mb-2">Overuse of pain medications se hota hai. Jab aap frequently headache medicines lete ho, toh body unpe dependent ho jati hai aur medicine band karne pe rebound headache hota hai.</p>
+                        <p class="text-gray-700 mb-2">Overuse of pain medications se hota hai. Jab aap frequently headache medicines lete ho, toh headaches aur frequent ho jaate hain - ise medication-overuse (rebound) headache kehte hain. Isse nikalne ke liye doctor ki nigrani mein plan banana chahiye.</p>
                         <p class="text-sm text-gray-600"><strong>Symptoms:</strong> Daily headaches, worse in morning, continuing despite medication</p>
                         <p class="text-sm text-gray-600"><strong>Prevention:</strong> Pain medicines 2-3 days/week se zyada na lein</p>
                     </div>
@@ -427,7 +427,7 @@
                         </div>
                         <div>
                             <h4 class="font-bold text-gray-800">Diagnostic Tests</h4>
-                            <p class="text-sm text-gray-600">CT scan, MRI, blood tests, ya EEG tests kyun ki health conditions determine karne ke liye.</p>
+                            <p class="text-sm text-gray-600">Zarurat padne par (warning signs hone par) doctor CT scan, MRI ya blood tests ki salah de sakte hain taaki doosre causes rule out ho sakein.</p>
                         </div>
                     </div>
                     <div class="flex gap-4 items-start">
@@ -448,12 +448,12 @@
 
                 <div class="grid grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-600 mb-2">1. Over-the-Counter Medicines</h4>
+                        <h4 class="font-bold text-green-600 mb-2">1. Medicines (doctor ya pharmacist ki salah se)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Paracetamol - mild headache ke liye</li>
                             <li>Ibuprofen - inflammation reduce karta hai</li>
                             <li>Aspirin - adults ke liye</li>
-                            <li>Naproxen - longer relief ke liye</li>
+                            <li>Naproxen - sirf doctor ke prescription par</li>
                         </ul>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
@@ -624,7 +624,7 @@
 
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: Headache band karne ke medicines kya hain?</h4>
-                        <p class="text-gray-700"><strong>Answer:</strong> Common headache medicines: <strong>1) Paracetamol</strong> - mild headache ke liye, <strong>2) Ibuprofen</strong> - tension headache ke liye, <strong>3) Sumatriptan</strong> - migraine ke liye doctor prescription se, <strong>4) Excedrin</strong> - migraine की संयुक्त medicine. <strong>Important:</strong> Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein.</p>
+                        <p class="text-gray-700"><strong>Answer:</strong> Common headache medicines: <strong>1) Paracetamol</strong> - mild headache ke liye, <strong>2) Ibuprofen</strong> - tension headache ke liye, <strong>3) Sumatriptan</strong> - migraine ke liye doctor prescription se, <strong>4) Combination painkillers</strong> - sirf doctor ki salah se. <strong>Important:</strong> Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein.</p>
                     </div>
 
                     <div class="bg-gray-50 p-4 rounded-lg">

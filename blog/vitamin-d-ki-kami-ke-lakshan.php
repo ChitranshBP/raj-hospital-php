@@ -95,7 +95,7 @@ $base_url = '../';
                 "name": "विटामिन D की कमी से कौन सी बीमारियाँ हो सकती हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteoarthritis, कमज़ोर immunity, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> का खतरा बढ़ सकता है।"
+                    "text": "विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteomalacia (वयस्कों में हड्डियों का नरम होना), कमज़ोर immunity, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> का खतरा बढ़ सकता है।"
                 }
             },
             {
@@ -249,7 +249,7 @@ $base_url = '../';
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-blue-50 p-4 rounded-lg border border-blue-200">
                     <h4 class="font-bold text-blue-700 mb-2">कैल्शियम अवशोषण</h4>
-                    <p class="text-gray-600 text-sm">विटामिन D आंत से कैल्शियम को absorb करने में मदद करता है। बिना विटामिन D के, कैल्शियम सप्लीमेंट भी काम नहीं करते।</p>
+                    <p class="text-gray-600 text-sm">विटामिन D आंत से कैल्शियम को absorb करने में मदद करता है। विटामिन D कम होने पर कैल्शियम का absorption काफ़ी घट जाता है।</p>
                 </div>
                 <div class="bg-green-50 p-4 rounded-lg border border-green-200">
                     <h4 class="font-bold text-green-700 mb-2">हड्डियों की मज़बूती</h4>
@@ -261,7 +261,7 @@ $base_url = '../';
                 </div>
                 <div class="bg-orange-50 p-4 rounded-lg border border-orange-200">
                     <h4 class="font-bold text-orange-700 mb-2">मांसपेशियों की ताकत</h4>
-                    <p class="text-gray-600 text-sm">यह मांसपेशियों को मज़बूत रखता है और falls (गिरने) से बचाता है।</p>
+                    <p class="text-gray-600 text-sm">यह मांसपेशियों के सही काम के लिए ज़रूरी है; गंभीर कमी में मांसपेशियां कमज़ोर हो सकती हैं।</p>
                 </div>
             </div>
 
@@ -291,8 +291,6 @@ $base_url = '../';
                         <li>Rickets (बच्चों में - हड्डियों का नरम होना)</li>
                         <li>Osteomalacia (वयस्कों में - हड्डियों का कमज़ोर होना)</li>
                         <li>बार-बार infections होना</li>
-                        <li>धुंधलापन या चक्कर आना</li>
-                        <li>सीने में दर्द</li>
                     </ul>
                 </div>
                 <div class="bg-blue-50 p-4 rounded-lg">
@@ -481,7 +479,7 @@ $base_url = '../';
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
                         <li>बुज़ुर्ग (65+ उम्र)</li>
                         <li>गर्भवती और breastfeeding women</li>
-                        <li>दुबले लोग (low body fat)</li>
+                        <li>मोटापे (obesity) से ग्रस्त लोग</li>
                         <li>गहरी त्वचा वाले लोग</li>
                         <li>कम sun exposure वाले</li>
                         <li>Malabsorption syndromes</li>
@@ -562,7 +560,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: विटामिन D की कमी से कौन सी बीमारियाँ हो सकती हैं?</h4>
-                    <p class="text-gray-700 text-sm">विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteoarthritis, कमज़ोर immunity, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> का खतरा बढ़ सकता है।</p>
+                    <p class="text-gray-700 text-sm">विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteomalacia (वयस्कों में हड्डियों का नरम होना), कमज़ोर immunity, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> का खतरा बढ़ सकता है।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">

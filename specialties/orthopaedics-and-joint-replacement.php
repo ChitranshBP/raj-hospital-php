@@ -787,7 +787,7 @@ Orthopedic Surgeon in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, minimally invasive surgeries including arthroscopy and laparoscopic approaches
+                                <p>Yes, minimally invasive surgeries including arthroscopy and other keyhole approaches
                                     are frequently used for better outcomes.</p>
                             </div>
                         </div>

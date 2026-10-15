@@ -287,7 +287,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">3. Stay Hydrated</h4>
-                        <p class="text-sm text-gray-600">Daily 8-10 glasses water पिएं। Dehydration immune response को affect करता है।</p>
+                        <p class="text-sm text-gray-600">Daily पर्याप्त पानी पिएं (आमतौर पर 8-10 glasses; heart या kidney की बीमारी वाले लोग doctor की बताई मात्रा ही लें)। Dehydration immune response को affect करता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">4. <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> Management</h4>
@@ -364,7 +364,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">क्या giloy और ashwagandha helpful हैं?</h4>
-                        <p class="text-gray-700">हाँ, ये Ayurvedic herbs immune-boosting properties रखते हैं। लेकिन consultation के बाद ही लें।</p>
+                        <p class="text-gray-700">इनके immunity पर असर के बारे में मजबूत clinical evidence सीमित है, और giloy/ashwagandha से कुछ लोगों में liver की समस्या की reports आई हैं। Pregnancy, liver disease, autoimmune disease या regular दवाएं लेने वाले लोग इन्हें doctor की सलाह के बिना न लें।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

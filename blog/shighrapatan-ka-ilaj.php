@@ -53,7 +53,7 @@
             "name": "क्या Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए HIV Symptoms in Men in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए पुरुष स्वास्थ्य से जुड़े दूसरे विषयों को समझना भी उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -332,7 +332,6 @@
                             <h3 class="text-lg font-bold text-gray-800 mb-3"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> जीवनशैली से जुड़े कारण</h3>
                             <div class="grid md:grid-cols-2 gap-3">
                                 <ul class="list-disc list-inside text-gray-600 space-y-1">
-                                    <li><strong>Excessive masturbation:</strong> ज़्यादा हस्तमैथुन</li>
                                     <li><strong>Smoking:</strong> Nicotine effect</li>
                                     <li><strong>Alcohol:</strong> ज़्यादा शराब पीना</li>
                                 </ul>
@@ -451,14 +450,13 @@
                                         <li>Benzocaine creams</li>
                                         <li>Numbing agents</li>
                                     </ul>
-                                    <p class="text-gray-500 text-xs mt-2">15-30 minutes before apply करें</p>
+                                    <p class="text-gray-500 text-xs mt-2">Doctor की सलाह से ही use करें</p>
                                 </div>
                                 <div class="bg-purple-50 p-4 rounded-xl">
                                     <h4 class="font-bold text-purple-700 mb-2">Oral Medications</h4>
                                     <ul class="text-purple-600 text-sm space-y-1 list-disc list-inside">
                                         <li>SSRIs (Antidepressants)</li>
                                         <li>Dapoxetine</li>
-                                        <li>Tramadol (pain killer)</li>
                                     </ul>
                                     <p class="text-gray-500 text-xs mt-2">Doctor's prescription जरूरी</p>
                                 </div>
@@ -469,7 +467,7 @@
                                         <li>Sertraline</li>
                                         <li>Fluoxetine</li>
                                     </ul>
-                                    <p class="text-gray-500 text-xs mt-2">Daily या as-needed</p>
+                                    <p class="text-gray-500 text-xs mt-2">Doctor's prescription और monitoring जरूरी</p>
                                 </div>
                                 <div class="bg-orange-50 p-4 rounded-xl">
                                     <h4 class="font-bold text-orange-700 mb-2">Tricyclic Antidepressants</h4>
@@ -515,88 +513,11 @@
 
                 <!-- Home Remedies -->
                 <section id="home-remedies" class="mb-12">
-                    <h2 class="raj-h2">Shighrapatan Ke Gharelu Upay (घरेलू उपाय)</h2>
+                    <h2 class="raj-h2">Shighrapatan Ke Gharelu Upay (घरेलू उपाय): ज़रूरी सावधानी</h2>
 
                     <div class="bg-gradient-to-r from-green-50 to-emerald-50 rounded-2xl p-6">
-                        <div class="grid md:grid-cols-2 gap-6">
-                            <!-- Ashwagandha -->
-                            <div class="bg-white p-5 rounded-xl shadow">
-                                <div class="flex items-center gap-3 mb-3">
-                                    <span class="text-4xl"><i data-feather="feather" class="raj-icon raj-icon-lg raj-icon-green" aria-hidden="true"></i></span>
-                                    <h4 class="text-lg font-bold text-green-700">Ashwagandha</h4>
-                                </div>
-                                <p class="text-gray-600 text-sm mb-3">यह एक powerful adaptogen है जो stress कम करता है और stamina बढ़ाता है।</p>
-                                <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
-                                    <li>300-500mg daily लें</li>
-                                    <li>सुबह खाली पेट लेने से बेहतर results</li>
-                                    <li>3-4 months use करें</li>
-                                </ul>
-                            </div>
-
-                            <!-- Safed Musli -->
-                            <div class="bg-white p-5 rounded-xl shadow">
-                                <div class="flex items-center gap-3 mb-3">
-                                    <span class="text-4xl"><i data-feather="feather" class="raj-icon raj-icon-lg raj-icon-green" aria-hidden="true"></i></span>
-                                    <h4 class="text-lg font-bold text-green-700">Safed Musli</h4>
-                                </div>
-                                <p class="text-gray-600 text-sm mb-3">यह natural aphrodisiac है जो stamina और energy बढ़ाता है।</p>
-                                <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
-                                    <li>1 tsp powder दूध में मिलाकर पिएं</li>
-                                    <li>रात को सोने से पहले लें</li>
-                                    <li>Regular use से फायदा</li>
-                                </ul>
-                            </div>
-
-                            <!-- Shatavari -->
-                            <div class="bg-white p-5 rounded-xl shadow">
-                                <div class="flex items-center gap-3 mb-3">
-                                    <span class="text-4xl"><i data-feather="circle" class="raj-icon raj-icon-lg raj-icon-yellow" aria-hidden="true"></i></span>
-                                    <h4 class="text-lg font-bold text-green-700">Shatavari</h4>
-                                </div>
-                                <p class="text-gray-600 text-sm mb-3">यह stamina और endurance बढ़ाने में मदद करता है।</p>
-                                <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
-                                    <li>1 tsp Shatavari powder</li>
-                                    <li>गर्म दूध में मिलाकर पिएं</li>
-                                    <li>रात को सोने से 30 min पहले</li>
-                                </ul>
-                            </div>
-
-                            <!-- Gokshura -->
-                            <div class="bg-white p-5 rounded-xl shadow">
-                                <div class="flex items-center gap-3 mb-3">
-                                    <span class="text-4xl"><i data-feather="feather" class="raj-icon raj-icon-lg raj-icon-green" aria-hidden="true"></i></span>
-                                    <h4 class="text-lg font-bold text-green-700">Gokshura (Tribulus)</h4>
-                                </div>
-                                <p class="text-gray-600 text-sm mb-3">Testosterone level balanced करने में मदद करता है।</p>
-                                <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
-                                    <li>500mg capsule form में</li>
-                                    <li>दिन में दो बार लें</li>
-                                    <li>3 months minimum use करें</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- More Home Remedies -->
-                    <div class="bg-white rounded-2xl shadow-lg p-6 mt-6">
-                        <h3 class="text-xl font-bold text-gray-800 mb-4"><i data-feather="star" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> अन्य Gharelu Upay</h3>
-                        <div class="grid md:grid-cols-3 gap-4">
-                            <div class="text-center p-4 bg-amber-50 rounded-xl">
-                                <div class="text-4xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-lg raj-icon-yellow" aria-hidden="true"></i></div>
-                                <h4 class="font-bold text-amber-700">Almonds & Walnuts</h4>
-                                <p class="text-gray-600 text-sm">Zinc और omega-3 से भरपूर - stamina बढ़ाते हैं</p>
-                            </div>
-                            <div class="text-center p-4 bg-yellow-50 rounded-xl">
-                                <div class="text-4xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-lg raj-icon-yellow" aria-hidden="true"></i></div>
-                                <h4 class="font-bold text-yellow-700">Honey + Garlic</h4>
-                                <p class="text-gray-600 text-sm">शहद और लहसुन मिलाकर खाने से energy बढ़ती है</p>
-                            </div>
-                            <div class="text-center p-4 bg-orange-50 rounded-xl">
-                                <div class="text-4xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-lg raj-icon-blue" aria-hidden="true"></i></div>
-                                <h4 class="font-bold text-orange-700">Milk + Turmeric</h4>
-                                <p class="text-gray-600 text-sm">हल्दी वाला दूध - anti-inflammatory और calming</p>
-                            </div>
-                        </div>
+                        <p class="text-gray-700 mb-3">शीघ्रपतन के लिए किसी भी जड़ी-बूटी, supplement या "ताकत की दवा" का असर वैज्ञानिक रूप से साबित नहीं है। ऐसे कई products में बिना बताए दवाएं या नुकसानदेह तत्व मिले हो सकते हैं, और ये आपकी दूसरी दवाओं के साथ interaction कर सकते हैं। इसलिए Ashwagandha, Safed Musli, Shatavari, Gokshura या कोई भी supplement खुद से शुरू न करें — पहले doctor (urologist या sexual health specialist) से सलाह लें।</p>
+                        <p class="text-gray-700">जो कदम आम तौर पर मददगार माने जाते हैं: पर्याप्त नींद, तनाव कम करना, नियमित exercise, शराब और तंबाकू से दूरी, partner से खुलकर बातचीत, और doctor द्वारा बताई गई behavioural techniques (नीचे दी गई exercises देखें)।</p>
                     </div>
                 </section>
 
@@ -679,7 +600,6 @@
                                     <li>Stress management सीखें (yoga, meditation)</li>
                                     <li>Smoking छोड़ें</li>
                                     <li>Healthy weight maintain करें</li>
-                                    <li>अत्यधिक masturbation से बचें</li>
                                     <li>Proper hydration रखें</li>
                                 </ul>
                             </div>
@@ -796,7 +716,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए HIV Symptoms in Men in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए पुरुष स्वास्थ्य से जुड़े दूसरे विषयों को समझना भी उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>

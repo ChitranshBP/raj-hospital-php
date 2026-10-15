@@ -724,7 +724,7 @@ Pulmonary Care Hospital in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>It is a program of exercise, education, and support to help patients improve lung
+                                <p>It is a program of exercise, education, and support to help patients reduce breathlessness and improve physical
                                     function and quality of life.</p>
                             </div>
                         </div>

@@ -243,7 +243,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-600">
                         <h4 class="font-bold text-blue-600">1. Barometric Pressure Changes</h4>
-                        <p class="text-sm text-gray-600">Cold में atmospheric pressure गिरता है, जो joints में swelling और pain बढ़ाता है।</p>
+                        <p class="text-sm text-gray-600">मौसम बदलने पर barometric pressure के उतार-चढ़ाव से कुछ लोगों में joint pain बढ़ सकता है, हालांकि research के नतीजे mixed हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-600">
                         <h4 class="font-bold text-blue-600">2. Reduced Blood Flow</h4>
@@ -251,7 +251,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-600">
                         <h4 class="font-bold text-blue-600">3. Synovial Fluid Thickening</h4>
-                        <p class="text-sm text-gray-600">Joint fluid (synovial fluid) cold में thick हो जाता है, movement में resistance बढ़ता है।</p>
+                        <p class="text-sm text-gray-600">माना जाता है कि ठंड में joint fluid थोड़ा गाढ़ा हो सकता है, जिससे stiffness महसूस हो सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-blue-600">
                         <h4 class="font-bold text-blue-600">4. Muscle Stiffness</h4>
@@ -317,7 +317,7 @@
                     <li><strong>Omega-3 rich foods:</strong> Fish, walnuts, flaxseeds - inflammation कम करते हैं</li>
                     <li><strong>Vitamin D:</strong> Sunlight exposure, fortified foods</li>
                     <li><strong>Anti-inflammatory foods:</strong> Turmeric, ginger, green leafy vegetables</li>
-                    <li><strong>Hydration:</strong> सर्दियों में भी 8-10 glasses water पिएं</li>
+                    <li><strong>Hydration:</strong> सर्दियों में भी पर्याप्त पानी पिएं (आमतौर पर 8-10 glasses; heart या kidney की बीमारी में doctor की बताई मात्रा)</li>
                 </ul>
 
                 <!-- CTA Box -->

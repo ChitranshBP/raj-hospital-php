@@ -191,7 +191,7 @@
 
                 <h2 class="raj-h2">Cardiac Arrest — An Electrical Problem</h2>
                 <p class="text-gray-700 mb-4">
-                    A cardiac arrest (technically <em>sudden cardiac arrest</em>, SCA) is fundamentally different. The coronary arteries may be perfectly fine. The problem lies in the heart's electrical conduction system. A chaotic, fast rhythm called <strong>ventricular fibrillation (VF)</strong>, or an extreme slowdown called <strong>asystole</strong>, prevents the ventricles from contracting in a coordinated way. The heart quivers or stops; no blood is pumped; the patient collapses and loses consciousness within 10–15 seconds.
+                    A cardiac arrest (technically <em>sudden cardiac arrest</em>, SCA) is fundamentally different. The coronary arteries may be perfectly fine. The problem lies in the heart's electrical conduction system. A chaotic, fast rhythm called <strong>ventricular fibrillation (VF)</strong>, or a complete absence of electrical activity (flat line) called <strong>asystole</strong>, prevents the ventricles from contracting in a coordinated way. The heart quivers or stops; no blood is pumped; the patient collapses and loses consciousness within 10–15 seconds.
                 </p>
                 <p class="text-gray-700 mb-4">
                     Without immediate CPR and defibrillation, brain damage begins within 4 minutes and death follows within 8–10 minutes. Survival to hospital discharge for out-of-hospital cardiac arrest in India is currently estimated at &lt;2%, mainly because bystander CPR rates are below 5%. The single biggest lever to improve this is <strong>layperson CPR training</strong> — something RAJ Hospital conducts in schools, gyms, and corporate offices across Ranchi every quarter.
@@ -252,7 +252,7 @@
                         <h3 class="raj-card-title"><i data-feather="heart" class="raj-icon raj-icon-md raj-icon-red"></i> If a Heart Attack Is Suspected</h3>
                         <ol class="list-decimal list-inside text-sm space-y-2 text-gray-700">
                             <li>Sit the person down, loosen tight clothing.</li>
-                            <li>Chew a 300 mg aspirin (unless allergic).</li>
+                            <li>Chew an aspirin only if advised by the 108 operator or a doctor (not if allergic, on blood thinners or with a bleeding problem).</li>
                             <li>Call 108 and the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital cardiac ER</a>.</li>
                             <li>Do not let the person walk or drive themselves.</li>
                             <li>Reach a hospital with primary PCI as early as possible (ideally within 90 minutes).</li>

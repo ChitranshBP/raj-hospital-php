@@ -501,7 +501,7 @@ Cardiac Care Hospital in Jharkhand
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Leadless Pacemaker</h3>
                         <p class="text-gray-600 mb-4">Pacemaker technology without leads, offering
-                            safer and less invasive rhythm management.</p>
+                            a less invasive option for rhythm management in suitable patients.</p>
                     </div>
                 </div>
 

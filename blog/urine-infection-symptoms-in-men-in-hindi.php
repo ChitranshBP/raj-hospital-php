@@ -91,7 +91,7 @@
                 "name": "UTI का इलाज कैसे होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "UTI का इलाज primarily antibiotics से होता है। commonly used antibiotics: nitrofurantoin, trimethoprim-sulfamethoxazole, fluoroquinolones। treatment आमतौर पर 7-14 days की course होती है। severe cases में IV antibiotics भी दिए जा सकते हैं। Plenty of water पिएं।"
+                    "text": "UTI का इलाज primarily antibiotics से होता है। antibiotic का चुनाव doctor urine culture report और infection की जगह (bladder, prostate या kidney) के आधार पर करते हैं। treatment आमतौर पर 7-14 days की course होती है। severe cases में IV antibiotics भी दिए जा सकते हैं। Plenty of water पिएं।"
                 }
             },
             {
@@ -232,7 +232,7 @@
                         <li>Chills और shivering</li>
                         <li>तेज lower back pain (kidney area)</li>
                         <li>Nausea और vomiting</li>
-                        <li>बड़े prostate से pain (perineal area)</li>
+                        <li>Prostate में infection (prostatitis) होने पर perineal area में दर्द</li>
                         <li>General weakness और fatigue</li>
                     </ul>
                     <p class="text-red-700 font-bold mt-2">यह symptoms हों तो immediately doctor से मिलें!</p>
@@ -294,8 +294,8 @@
                 <div class="bg-blue-50 p-4 rounded-lg mb-6">
                     <ul class="text-gray-700 space-y-2">
                         <li>Nitrofurantoin</li>
-                        <li>Trimethoprim-sulfamethoxazole (Bactrim)</li>
-                        <li>Fluoroquinolones (Ciprofloxacin, Levofloxacin)</li>
+                        <li>Trimethoprim-sulfamethoxazole (Co-trimoxazole)</li>
+                        <li>Fluoroquinolones (Ciprofloxacin, Levofloxacin) — India में E. coli में इनके प्रति resistance बहुत ज़्यादा है; doctor urine culture report देखकर ही antibiotic और उसकी अवधि तय करते हैं। खुद से antibiotic न लें।</li>
                         <li>Fosfomycin</li>
                     </ul>
                     <p class="text-gray-700 mt-2"><strong>नोट:</strong> दवाई पूरी course complete करें, भले ही symptoms better feel हों।</p>

@@ -223,7 +223,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> hydrogel treatment</strong> एक innovative और minimally invasive <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">orthopedic</a> procedure है जो bone और cartilage injuries के treatment में revolution ला रहा है। Traditional surgical methods के मुकाबले, यह technique कम pain, faster recovery, और बेहतर outcomes प्रदान करती है।
+                    <strong><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> hydrogel treatment</strong> एक innovative और minimally invasive <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">orthopedic</a> procedure है जो bone और cartilage repair के लिए research में एक उभरती हुई technique है; इसके अधिकांश उपयोग अभी अध्ययन के स्तर पर हैं। Traditional surgical methods के मुकाबले, इसके संभावित फायदे और सीमाएं अभी अध्ययन में हैं; उपयुक्त इलाज orthopedic specialist की जांच के बाद तय होता है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -282,11 +282,11 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">1. Calcium Sulfate-Based</h4>
-                        <p class="text-sm text-gray-600">Most commonly used for bone defects. It provides structural support and gradually converts to bone over 6-12 weeks.</p>
+                        <p class="text-sm text-gray-600">Most commonly used for bone defects. It provides structural support and gradually resorbs over about 6-12 weeks as new bone grows in.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Hyaluronic Acid-Based</h4>
-                        <p class="text-sm text-gray-600">Excellent for cartilage repair. Provides lubrication and promotes cartilage regeneration. Commonly used for knee joint issues.</p>
+                        <p class="text-sm text-gray-600">Used as viscosupplement injections for knee osteoarthritis symptom relief in some patients; evidence for cartilage regeneration is limited.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Polymer-Based</h4>
@@ -308,7 +308,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">1. Osteoarthritis</h4>
-                        <p class="text-sm text-gray-600">Particularly effective in early to moderate knee osteoarthritis. The hydrogel can repair damaged cartilage and reduce pain significantly.</p>
+                        <p class="text-sm text-gray-600">Being studied for early knee osteoarthritis; evidence that injectable hydrogels regenerate cartilage in patients is still limited.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Cartilage Defects</h4>

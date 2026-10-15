@@ -109,7 +109,7 @@
                 "name": "सर्दियों में जोड़ों के दर्द से कैसे बचें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "सर्दियों में जोड़ों के दर्द से बचने के उपाय: 1) गर्म कपड़े पहनें और joints को warm रखें 2) नियमित stretching और gentle exercise करें 3) पर्याप्त पानी पिएं 4) Omega-3 fatty acids युक्त आहार लें 5) Vitamin D और calcium supplements लें 6) maintain healthy weight रखें 7) गर्म bath या compress use करें।"
+                    "text": "सर्दियों में जोड़ों के दर्द से बचने के उपाय: 1) गर्म कपड़े पहनें और joints को warm रखें 2) नियमित stretching और gentle exercise करें 3) पर्याप्त पानी पिएं 4) Omega-3 fatty acids युक्त आहार लें 5) Vitamin D या calcium की कमी हो तो जांच के बाद doctor की सलाह से supplements लें 6) maintain healthy weight रखें 7) गर्म bath या compress use करें।"
                 }
             },
             {
@@ -224,7 +224,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">1. Barometric Pressure Change</h4>
-                        <p class="text-sm text-gray-600">सर्दियों में atmospheric pressure कम होती है। यह joints में fluid पर pressure डालती है, जिससे swelling और pain बढ़ता है।</p>
+                        <p class="text-sm text-gray-600">मौसम बदलने पर atmospheric pressure में उतार-चढ़ाव होता है। यह joints में fluid पर pressure डालती है, जिससे swelling और pain बढ़ता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">2. Cold Temperature</h4>
@@ -286,7 +286,7 @@
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">2. Oil Massage</h4>
-                        <p class="text-sm text-gray-600">गर्म सरसों के तेल या तिल के तेल में अदरक और लहसुन डालकर massage करें। यह joints में circulation improve करता है और pain कम करता है।</p>
+                        <p class="text-sm text-gray-600">हल्के गुनगुने सरसों या तिल के तेल से हल्की massage करें (तेल ज़्यादा गर्म न हो; लाल, गर्म या सूजे जोड़ पर massage न करें)। यह joints में circulation improve करता है और pain कम करता है।</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">3. Turmeric Milk (हल्दी वाला दूध)</h4>
@@ -298,7 +298,7 @@
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 mb-2">5. Epsom Salt Bath</h4>
-                        <p class="text-sm text-gray-600">गर्म पानी में Epsom salt डालकर 15-20 minutes bath करें। Magnesium absorbed होता है जो muscles और joints को relax करता है।</p>
+                        <p class="text-sm text-gray-600">गर्म पानी में Epsom salt डालकर 15-20 minutes bath करें। गर्म पानी muscles को relax करने में मदद कर सकता है; Epsom salt से magnesium absorb होने का evidence कमजोर है।</p>
                     </div>
                 </div>
 
@@ -362,7 +362,7 @@
                 <h2 class="raj-h2-secondary">डॉक्टर से कब मिलें?</h2>
 
                 <div class="raj-callout raj-callout-danger">
-                    <h4 class="font-bold text-red-700 mb-2">Emergency Signs:</h4>
+                    <h4 class="font-bold text-red-700 mb-2">डॉक्टर से मिलने के संकेत (बुखार के साथ गर्म, लाल, सूजा जोड़ हो तो उसी दिन दिखाएं):</h4>
                     <ul class="text-gray-700 space-y-1">
                         <li>दर्द 2-3 हफ्ते से ज्यादा है</li>
                         <li>Joint में सूजन, लालिमा, या गर्मी है</li>
@@ -388,7 +388,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">सर्दियों में जोड़ों के दर्द से कैसे बचें?</h4>
-                        <p class="text-gray-700">गर्म कपड़े पहनें, नियमित stretching करें, पर्याप्त पानी पिएं, Omega-3 युक्त आहार लें, Vitamin D supplement लें, और healthy weight maintain करें।</p>
+                        <p class="text-gray-700">गर्म कपड़े पहनें, नियमित stretching करें, पर्याप्त पानी पिएं, Omega-3 युक्त आहार लें, Vitamin D की कमी हो तो doctor की सलाह से supplement लें, और healthy weight maintain करें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">जोड़ों में दर्द के घरेलू उपाय क्या हैं?</h4>

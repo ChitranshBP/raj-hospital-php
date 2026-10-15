@@ -241,7 +241,7 @@
 
                 <h2 class="raj-h2"><i data-feather="pill" class="raj-h2-icon"></i> What About Over-the-Counter Painkillers?</h2>
                 <p class="text-gray-700 mb-4">
-                    For an occasional headache, an over-the-counter pain reliever such as paracetamol or ibuprofen — taken as directed — is reasonable. The crucial rule is <strong>frequency</strong>: using painkillers more than 2–3 days a week can cause <em>medication-overuse (rebound) headaches</em>, a common and frustrating trap where the treatment keeps the headache cycle going. If you're reaching for tablets often, that's a signal to see a doctor rather than take more.
+                    For an occasional headache, an over-the-counter pain reliever such as paracetamol or ibuprofen — taken as directed, and after checking with a doctor or pharmacist if you are pregnant, have stomach, kidney or liver problems, or take other medicines — is reasonable. The crucial rule is <strong>frequency</strong>: using painkillers more than 2–3 days a week can cause <em>medication-overuse (rebound) headaches</em>, a common and frustrating trap where the treatment keeps the headache cycle going. If you're reaching for tablets often, that's a signal to see a doctor rather than take more.
                 </p>
 
                 <h2 class="raj-h2"><i data-feather="shield" class="raj-h2-icon"></i> How to Prevent Headaches in the First Place</h2>

@@ -96,7 +96,7 @@
                 "name": "Which is more dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> or cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Cardiac arrest is the more immediately fatal event. Without CPR and defibrillation within 3-5 minutes, brain death begins and survival drops by 7-10% per minute. A heart attack is also life-threatening but usually allows more time — modern primary angioplasty can save heart muscle and life if performed within 90-120 minutes."
+                    "text": "Cardiac arrest is the more immediately fatal event. Without CPR and defibrillation within 3-5 minutes, brain damage begins and survival drops by 7-10% per minute. A heart attack is also life-threatening but usually allows more time — modern primary angioplasty can save heart muscle and life if performed within 90-120 minutes."
                 }
             },
             {
@@ -120,7 +120,7 @@
                 "name": "Can you survive a cardiac arrest if your heart is restarted?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes — if circulation is restored quickly. Survival with good neurological outcome is highest when bystander CPR begins within 1 minute and defibrillation occurs within 3-5 minutes. Beyond 8-10 minutes without CPR, severe brain injury is likely even if the heart is restarted. Therapeutic hypothermia (cooling) at a tertiary centre like RAJ Hospital further improves outcomes."
+                    "text": "Yes — if circulation is restored quickly. Survival with good neurological outcome is highest when bystander CPR begins within 1 minute and defibrillation occurs within 3-5 minutes. Beyond 8-10 minutes without CPR, severe brain injury is likely even if the heart is restarted. Good post-resuscitation ICU care, including careful temperature control to prevent fever, helps improve outcomes."
                 }
             },
             {
@@ -195,7 +195,7 @@
                         </thead>
                         <tbody class="divide-y divide-gray-100 text-gray-700">
                             <tr><td class="p-3 font-semibold">Time to irreversible damage</td><td class="p-3">20–40 min (heart muscle)</td><td class="p-3">4–10 min (brain)</td></tr>
-                            <tr><td class="p-3 font-semibold">In-hospital mortality (best centres)</td><td class="p-3">4–8%</td><td class="p-3">20–40% (in-hospital); 70–95% (out-of-hospital)</td></tr>
+                            <tr><td class="p-3 font-semibold">In-hospital mortality (best centres)</td><td class="p-3">4–8%</td><td class="p-3">About 75–80% (in-hospital arrest); over 90% (out-of-hospital)</td></tr>
                             <tr><td class="p-3 font-semibold">Out-of-hospital survival (India)</td><td class="p-3">85–92% (if PCI in time)</td><td class="p-3">1–3%</td></tr>
                             <tr><td class="p-3 font-semibold">Survival in best systems (Scandinavia, Japan, Seattle)</td><td class="p-3">95%+</td><td class="p-3">10–25%</td></tr>
                             <tr><td class="p-3 font-semibold">Time to definitive treatment</td><td class="p-3">Door-to-balloon &lt;90 min</td><td class="p-3">Defibrillation &lt;3–5 min, ICU within 30 min</td></tr>
@@ -205,7 +205,7 @@
                     </table>
                 </div>
                 <p class="text-gray-700 mb-4 mt-4">
-                    The <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">cardiologists at RAJ Hospital Ranchi</a> summarise it bluntly: a heart attack gives you hours, a cardiac arrest gives you minutes. That asymmetry is why bystander CPR is one of the most powerful life-saving steps anyone can take.
+                    The <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">cardiologists at RAJ Hospital Ranchi</a> summarise it simply: a heart attack must be treated as early as possible — ideally within minutes to a few hours — while a cardiac arrest gives you only minutes. That asymmetry is why bystander CPR is one of the most powerful life-saving steps anyone can take.
                 </p>
 
                 <h2 class="raj-h2">Time Is Muscle vs Time Is Brain</h2>
@@ -235,7 +235,7 @@
                             <li>Public access to AEDs (Automated External Defibrillators)</li>
                             <li>EMS response time &lt;8 minutes</li>
                             <li>Initial rhythm (shockable VF/VT vs non-shockable asystole)</li>
-                            <li>Post-resuscitation care (therapeutic hypothermia, PCI)</li>
+                            <li>Post-resuscitation care (temperature control, PCI when indicated)</li>
                         </ul>
                     </div>
                 </div>
@@ -260,7 +260,7 @@
                     <li><strong>Exercise 150 minutes/week</strong> — moderate aerobic activity reduces cardiac events by 25–30%.</li>
                     <li><strong>Learn hands-only CPR</strong> — book a free 60-minute session at the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital community outreach programme</a>.</li>
                     <li><strong>Take prescribed medicines</strong> — statins, BP medicines, and diabetes drugs work only if taken consistently.</li>
-                    <li><strong>Recognise the warning signs</strong> — chest pressure, cold sweat, sudden breathlessness, fainting, sudden collapse. <em>When in doubt, get an ECG.</em></li>
+                    <li><strong>Recognise the warning signs</strong> — chest pressure, cold sweat, sudden breathlessness, fainting, sudden collapse. <em>When in doubt, call 108 or go to the nearest emergency department immediately.</em></li>
                 </ol>
 
                 <div class="raj-callout raj-callout-danger">
@@ -306,7 +306,7 @@
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can you survive a cardiac arrest if your heart stops?</h3>
-                            <p class="text-gray-700">Yes, but only with immediate bystander CPR and defibrillation. Even with optimal resuscitation, about 70–80% of out-of-hospital cardiac arrests in India are fatal. In-hospital cardiac arrest has a survival of 20–40% if treated in a tertiary centre like RAJ Hospital.</p>
+                            <p class="text-gray-700">Yes, but only with immediate bystander CPR and defibrillation. Even with good resuscitation, most out-of-hospital cardiac arrests are fatal — in India, survival is currently only about 1–3%. In-hospital cardiac arrest survival is generally around 20–25% even in well-equipped centres.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Which is more common: heart attack or cardiac arrest?</h3>

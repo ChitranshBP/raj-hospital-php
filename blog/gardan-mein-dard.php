@@ -316,7 +316,7 @@
                                     <p class="text-yellow-700 text-sm">40+ उम्र में ज्यादा common</p>
                                 </div>
                                 <div class="bg-yellow-50 p-3 rounded-lg">
-                                    <p class="text-yellow-700 text-sm">MRI से diagnose होता है</p>
+                                    <p class="text-yellow-700 text-sm">Clinical exam और X-ray से; ज़रूरत पड़ने पर MRI</p>
                                 </div>
                             </div>
                         </div>
@@ -505,7 +505,7 @@
                             </div>
                             <div class="md:w-2/3">
                                 <p class="text-gray-700 mb-3">
-                                    <strong>गर्दन दर्द</strong> में <strong>हल्दी वाला दूध</strong> anti-inflammatory properties के कारण बहुत मदद करता है।
+                                    <strong>गर्दन दर्द</strong> में <strong>हल्दी वाला दूध</strong> कुछ लोगों को आराम दे सकता है, हालांकि इसका वैज्ञानिक प्रमाण सीमित है।
                                 </p>
                                 <div class="bg-yellow-50 p-4 rounded-xl">
                                     <h4 class="font-bold text-yellow-700 mb-2">Recipe:</h4>
@@ -555,7 +555,7 @@
                         <div class="grid gap-4">
                             <!-- Exercise 1 -->
                             <div class="bg-white rounded-xl shadow p-5">
-                                <h3 class="text-lg font-bold text-green-700 mb-3">1. Neck Rotation (गर्दन घुमाना)</h3>
+                                <h3 class="text-lg font-bold text-green-700 mb-3">1. Side Neck Stretch (गर्दन को बगल में झुकाना)</h3>
                                 <div class="grid md:grid-cols-3 gap-4">
                                     <div class="bg-green-50 p-4 rounded-lg text-center">
                                         <p class="text-3xl mb-2"><i data-feather="arrow-left" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></p>
@@ -583,7 +583,7 @@
                                     </div>
                                     <div class="bg-blue-50 p-4 rounded-lg text-center">
                                         <p class="text-3xl mb-2"><i data-feather="arrow-up" class="raj-icon raj-icon-md raj-icon-gray" aria-hidden="true"></i></p>
-                                        <p class="text-gray-600 text-sm">Chin को chest की तरफ tuck करें</p>
+                                        <p class="text-gray-600 text-sm">Chin को सीधा पीछे की ओर खींचें (double chin बनाएं), सिर नीचे न झुकाएं</p>
                                     </div>
                                     <div class="bg-blue-50 p-4 rounded-lg text-center">
                                         <p class="text-3xl mb-2"><i data-feather="clock" class="raj-icon raj-icon-md raj-icon-gray" aria-hidden="true"></i></p>
@@ -733,7 +733,7 @@
                                     <span class="text-2xl"><i data-feather="activity" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></span>
                                     <div>
                                         <strong class="text-gray-800">Chiropractic</strong>
-                                        <p class="text-gray-600 text-sm">Spinal manipulation - alignment improve करता है</p>
+                                        <p class="text-gray-600 text-sm">Spinal manipulation — केवल qualified therapist से और doctor की सलाह के बाद; गर्दन की manipulation में दुर्लभ लेकिन गंभीर जोखिम हो सकते हैं</p>
                                     </div>
                                 </li>
                             </ul>

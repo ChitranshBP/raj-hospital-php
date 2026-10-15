@@ -117,7 +117,7 @@
                 "name": "पथरी का इलाज कैसे होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "पथरी का treatment size और type पर depend करता है: 1) छोटी पथरी (>5mm): दवाइयों से निकलने देना, pain management 2) बड़ी पथरी (>10mm): ESWL (lithotripsy), ureteroscopy, या surgery। RAJ Hospital Ranchi में सभी treatment options available हैं।"
+                    "text": "पथरी का treatment size और type पर depend करता है: 1) छोटी पथरी (5mm से छोटी): दवाइयों से निकलने देना, pain management 2) बड़ी पथरी (>10mm): ESWL (lithotripsy), ureteroscopy, या surgery। RAJ Hospital Ranchi में सभी treatment options available हैं।"
                 }
             },
             {
@@ -337,9 +337,9 @@
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">1. छोटी पथरी के लिए (Conservative Treatment)</h3>
                 <div class="bg-blue-50 p-4 rounded-lg mb-6">
                     <ul class="text-gray-700 space-y-2">
-                        <li><strong>Pain Management:</strong> NSAIDs (ibuprofen, naproxen) या prescribed painkillers</li>
-                        <li><strong>Medical Expulsion Therapy:</strong> Alpha blockers (जैसे tamsulosin) जो ureter को relax करते हैं और stone pass होने में मदद करते हैं</li>
-                        <li><strong>Hydration:</strong> ज्यादा पानी पीना (3-4 liters/day)</li>
+                        <li><strong>Pain Management:</strong> Doctor की सलाह से painkillers (NSAIDs dehydration, kidney की बीमारी या stomach ulcer में नुकसान कर सकते हैं)</li>
+                        <li><strong>Medical Expulsion Therapy:</strong> Doctor द्वारा prescribed alpha blockers (जैसे tamsulosin) जो ureter को relax करते हैं और stone pass होने में मदद करते हैं</li>
+                        <li><strong>Hydration:</strong> ज्यादा पानी पीना (doctor की सलाह अनुसार, आमतौर पर 2.5-3 liters/day; heart/kidney failure में कम)</li>
                         <li><strong>Watchful Waiting:</strong> अगर stone <5mm है, तो 4-6 weeks में self-pass हो सकती है</li>
                     </ul>
                 </div>
@@ -409,7 +409,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">पथरी का इलाज कैसे होता है?</h4>
-                        <p class="text-gray-700">छोटी पथरी (>5mm) के लिए दवाइयों से self-pass होने दिया जाता है। बड़ी पथरी के लिए <strong>ESWL (lithotripsy), ureteroscopy, या surgery</strong> की जाती है। RAJ Hospital Ranchi में सभी treatment options available हैं।</p>
+                        <p class="text-gray-700">5mm से छोटी पथरी के लिए दवाइयों से self-pass होने दिया जाता है। बड़ी पथरी के लिए <strong>ESWL (lithotripsy), ureteroscopy, या surgery</strong> की जाती है। RAJ Hospital Ranchi में सभी treatment options available हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">पथरी से कैसे बचें?</h4>

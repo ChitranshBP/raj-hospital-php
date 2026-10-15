@@ -269,7 +269,7 @@
                     <li>Dull, aching pain (tension) or sharp, stabbing pain (cluster)</li>
                     <li>Pain on both sides of the head (tension) or one side (cluster)</li>
                     <li>Tightness or pressure around the forehead</li>
-                    <li>Pain that worsens with physical activity</li>
+                    <li>Pain that usually does not worsen with routine physical activity (unlike migraine)</li>
                     <li>No nausea, vomiting, or visual disturbances</li>
                 </ul>
 
@@ -404,7 +404,7 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Headache Treatment</h3>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>OTC Pain Relievers:</strong> Acetaminophen, ibuprofen, aspirin</li>
+                    <li><strong>OTC Pain Relievers:</strong> Paracetamol or ibuprofen — occasional use only, as advised by a doctor or pharmacist (not more than 2–3 days a week; aspirin not for children)</li>
                     <li><strong>Stress Management:</strong> Relaxation techniques, massage, physical therapy</li>
                     <li><strong>Lifestyle Changes:</strong> Regular sleep, posture correction, screen breaks</li>
                     <li><strong>Hydration:</strong> Drinking enough water throughout the day</li>
@@ -419,7 +419,7 @@
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-purple-500">
                         <h4 class="font-bold text-purple-600 mb-2">Acute Medications (during attacks)</h4>
                         <ul class="text-sm text-gray-600 mt-2 space-y-1">
-                            <li>Triptans (sumatriptan, rizatriptan) - most effective</li>
+                            <li>Triptans (sumatriptan, rizatriptan) - prescription only, as advised by a doctor</li>
                             <li>NSAIDs (ibuprofen, naproxen)</li>
                             <li>Anti-nausea medications</li>
                             <li>Ergotamines</li>
@@ -431,7 +431,7 @@
                         <ul class="text-sm text-gray-600 mt-2 space-y-1">
                             <li>Beta-blockers (propranolol)</li>
                             <li>Antidepressants (amitriptyline)</li>
-                            <li>Anticonvulsants (topiramate, valproate)</li>
+                            <li>Anticonvulsants (topiramate, valproate) — only on a neurologist's prescription; special caution in women who may become pregnant</li>
                             <li>CGRP monoclonal antibodies (erenumab, fremanezumab)</li>
                             <li>Botox injections (for chronic migraine)</li>
                         </ul>

@@ -45,7 +45,7 @@
             "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
+                "text": "Stroke के किसी भी लक्षण (चेहरा टेढ़ा होना, हाथ-पैर में अचानक कमजोरी, बोलने में दिक्कत, अचानक तेज सिरदर्द या चक्कर) में appointment का इंतज़ार न करें — तुरंत 108 पर call करें और नज़दीकी stroke-ready hospital पहुंचें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
             }
         },
         {
@@ -330,7 +330,7 @@
                 <h2 class="raj-h2">Men में Stroke Symptoms - Gender Differences</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Research shows कि <strong>men और women में stroke symptoms</strong> कुछ different हो सकते हैं। Men में कुछ unique symptoms भी होती हैं:
+                    Research shows कि <strong>men और women में stroke symptoms</strong> कुछ different हो सकते हैं। Stroke के मुख्य symptoms men और women में ज़्यादातर एक जैसे होते हैं:
                 </p>
 
                 <div class="space-y-4 mb-6">
@@ -345,7 +345,7 @@
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">Risk Factors Unique to Men</h4>
+                        <h4 class="font-bold text-secondary-600">Men में ज़्यादा देखे जाने वाले Risk Factors</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
                             <li>Higher alcohol consumption</li>
                             <li>Smoking history</li>
@@ -401,7 +401,7 @@
 
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Important:</strong>
-                    <span class="text-gray-700"> TIA के बाद stroke का risk 10-15% बढ़ जाती है, especially पहले 48 hours में। अगर TIA symptoms हों तो भी immediately medical help लें।</span>
+                    <span class="text-gray-700"> TIA के बाद लगभग 10-15% लोगों को अगले 3 महीनों में stroke हो सकता है, और इनमें से कई पहले 48 hours में होते हैं। अगर TIA symptoms हों तो भी immediately medical help लें।</span>
                 </div>
 
                 <!-- Section 7: Treatment -->
@@ -459,7 +459,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya alcohol consumption stroke ka risk बढ़ाता hai?</h4>
-                        <p class="text-gray-700">Haan, heavy alcohol consumption BP increase करता है aur heart rhythm problems कर सकता है, जिससे stroke risk बढ़ता है। Moderate consumption (1-2 drinks/day) generally safe है।</p>
+                        <p class="text-gray-700">Haan, heavy alcohol consumption BP increase करता है aur heart rhythm problems कर सकता है, जिससे stroke risk बढ़ता है। Alcohol की कोई भी मात्रा पूरी तरह safe नहीं मानी जाती; बेहतर है कि न पिएं, और अगर पीते हैं तो बहुत कम मात्रा में और doctor की सलाह से।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya stress से stroke हो सकता hai?</h4>
@@ -495,7 +495,7 @@
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs में डॉक्टर को कब दिखाना चाहिए?</h3>
-                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
+                        <p class="text-gray-700">Stroke के किसी भी लक्षण (चेहरा टेढ़ा होना, हाथ-पैर में अचानक कमजोरी, बोलने में दिक्कत, अचानक तेज सिरदर्द या चक्कर) में appointment का इंतज़ार न करें — तुरंत 108 पर call करें और नज़दीकी stroke-ready hospital पहुंचें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>

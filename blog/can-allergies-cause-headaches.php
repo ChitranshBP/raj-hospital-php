@@ -339,7 +339,7 @@
                 <!-- Section 4: Treatment -->
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-amber-600 pb-2 mt-8 mb-4">Allergy Headache का इलाज</h2>
 
-                <h3 class="text-lg font-bold text-gray-800 mb-3">Medications</h3>
+                <h3 class="text-lg font-bold text-gray-800 mb-3">Medications (डॉक्टर या pharmacist की सलाह से ही लें)</h3>
                 <div class="grid grid-cols-2 gap-4 mb-6">
                     <div class="bg-amber-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600">Antihistamines</h4>
@@ -347,7 +347,7 @@
                     </div>
                     <div class="bg-amber-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600">Decongestants</h4>
-                        <p class="text-sm text-gray-600">Pseudoephedrine, Phenylephrine</p>
+                        <p class="text-sm text-gray-600">Pseudoephedrine, Phenylephrine (डॉक्टर की सलाह से ही; high BP, heart disease, pregnancy और बच्चों में सावधानी)</p>
                     </div>
                     <div class="bg-amber-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600">Nasal Steroids</h4>
@@ -385,7 +385,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600 mb-2">क्या food allergies से headache होती है?</h4>
-                        <p class="text-gray-700">हाँ, MSG, sulfites, tyramine और other food components headaches trigger कर सकते हैं।</p>
+                        <p class="text-gray-700">Food allergy से headache कम ही होता है; MSG, sulfites, tyramine जैसे food components कुछ लोगों में headache trigger कर सकते हैं (यह allergy नहीं, sensitivity है)।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600 mb-2">Allergy shots से headache कम होगी?</h4>

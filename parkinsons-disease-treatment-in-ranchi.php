@@ -88,7 +88,7 @@
           "name": "Can diet help manage Parkinson's?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "While diet cannot cure Parkinson's, a heavily antioxidant-rich diet combined with strategically timing complex proteins around medication doses dramatically helps manage systemic symptoms and drug absorption."
+            "text": "Diet cannot cure Parkinson's, but a balanced, high-fibre diet with enough fluids helps constipation, and some people taking levodopa benefit from taking it 30 to 60 minutes before protein-rich meals because protein can reduce its absorption. Discuss diet changes with your neurologist."
           }
         },
         {
@@ -104,7 +104,7 @@
           "name": "How fast does Parkinson's Disease usually progress?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The rate of symptomatic progression heavily varies between distinct individuals. Strategic medication and early physical therapy intervention demonstrably delay the onset of severe motor symptoms."
+            "text": "The rate of symptomatic progression heavily varies between distinct individuals. Medicines control symptoms, and regular exercise and early physiotherapy help maintain mobility; no treatment has yet been proven to slow the underlying disease."
           }
         }
 
@@ -367,7 +367,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>While diet cannot cure Parkinson's, a heavily antioxidant-rich diet combined with strategically timing complex proteins around medication doses dramatically helps manage systemic symptoms and drug absorption.</p>
+                                <p>Diet cannot cure Parkinson's, but a balanced, high-fibre diet with enough fluids helps constipation, and some people taking levodopa benefit from taking it 30 to 60 minutes before protein-rich meals because protein can reduce its absorption. Discuss diet changes with your neurologist.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -385,7 +385,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>The rate of symptomatic progression heavily varies between distinct individuals. Strategic medication and early physical therapy intervention demonstrably delay the onset of severe motor symptoms.</p>
+                                <p>The rate of symptomatic progression heavily varies between distinct individuals. Medicines control symptoms, and regular exercise and early physiotherapy help maintain mobility; no treatment has yet been proven to slow the underlying disease.</p>
                             </div>
                         </div>
 

@@ -92,7 +92,7 @@
           "name": "Are B vitamins good for neuropathy?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Vitamins B1, B6, and B12 are absolutely essential for healthy nerve function. Replenishing these directly helps if a clinical deficiency triggered the condition."
+            "text": "Vitamins B1, B6, and B12 are absolutely essential for healthy nerve function. Replacing them helps when a deficiency, confirmed by tests, has caused the neuropathy. Take supplements only on medical advice, as long-term high doses of vitamin B6 can themselves damage nerves."
           }
         },
         {
@@ -360,7 +360,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Vitamins B1, B6, and B12 are absolutely essential for healthy nerve function. Replenishing these directly helps if a clinical deficiency triggered the condition.</p>
+                                <p>Vitamins B1, B6, and B12 are absolutely essential for healthy nerve function. Replacing them helps when a deficiency, confirmed by tests, has caused the neuropathy. Take supplements only on medical advice, as long-term high doses of vitamin B6 can themselves damage nerves.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">

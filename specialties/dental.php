@@ -682,7 +682,7 @@ Dental Care Hospital in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, our expert dentists use clinically approved whitening methods that are safe and
+                                <p>Teeth whitening done under a dentist's supervision is generally safe; temporary sensitivity can occur, and our dentists use clinically approved methods that are
                                     effective under supervision.</p>
                             </div>
                         </div>

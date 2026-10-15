@@ -197,7 +197,7 @@
                 ],
                 'pulse-rate-50-hone-par-kya-karen' => [
                     'title' => 'पल्स रेट 50 होने पर क्या करें? | Low Pulse Rate Guide',
-                    'excerpt' => 'Low pulse rate (bradycardia) के कारण, लक्षण और उपाय जानें। जानें कब डॉक्टर को दिखाना है और कब घरेलू उपाय काफी हैं।',
+                    'excerpt' => 'Low pulse rate (bradycardia) के कारण, लक्षण और उपाय जानें। जानें कब तुरंत डॉक्टर को दिखाना ज़रूरी है।',
                     'category' => 'Heart Health',
                     'date' => 'April 9, 2026',
                     'image' => 'assets/img/The-Basics-of-Systolic-and-Diastolic-Blood-Pressure-visual-selection.png'

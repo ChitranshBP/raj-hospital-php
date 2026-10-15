@@ -119,7 +119,7 @@
                 "name": "When should I go to the ER for chest pain even if I think it's gas?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Go to the emergency room immediately if the chest pain is severe, lasts more than 10 minutes, comes with sweating, vomiting, fainting, or breathlessness, or if you are over 40 with risk factors like <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high blood pressure, smoking, or family history of heart disease. RAJ Hospital Ranchi has a 24×7 emergency with ECG and troponin testing."
+                    "text": "Go to the emergency room immediately if the chest pain is severe, lasts more than 5 minutes, comes with sweating, vomiting, fainting, or breathlessness, or if you are over 40 with risk factors like <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high blood pressure, smoking, or family history of heart disease. RAJ Hospital Ranchi has a 24×7 emergency with ECG and troponin testing."
                 }
             },
             {
@@ -174,12 +174,12 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-amber-700">Quick Answer:</strong>
-                    <span class="text-gray-700"> <strong>Gas does NOT directly cause a heart attack.</strong> However, gas, acidity and bloating can produce chest pain that is frequently mistaken for a cardiac event. If the chest pain is severe, lasts more than 10 minutes, comes with sweating or breathlessness, or you are over 40 with risk factors — treat it as a heart attack and visit the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac ER at RAJ Hospital Ranchi</a>.</span>
+                    <span class="text-gray-700"> <strong>Gas does NOT directly cause a heart attack.</strong> However, gas, acidity and bloating can produce chest pain that is frequently mistaken for a cardiac event. If the chest pain is severe, lasts more than 5 minutes, comes with sweating or breathlessness, or you are over 40 with risk factors — treat it as a heart attack and visit the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">24×7 cardiac ER at RAJ Hospital Ranchi</a>.</span>
                 </div>
 
                 <h2 class="raj-h2">Why Gas Pain Feels Like a Heart Attack</h2>
                 <p class="text-gray-700 mb-4">
-                    The stomach, oesophagus, and the heart share overlapping nerve pathways. Pain from the upper GI tract is carried by the <strong>vagus nerve</strong>, which converges on the same spinal segments that receive signals from the heart. The brain, particularly the thalamus, often cannot precisely localise the source — a phenomenon called <em>referred pain</em>. As a result, a gas bubble trapped in the splenic flexure of the colon or in the fundus of the stomach can produce tightness, burning or squeezing right under the sternum — exactly where heart pain is felt.
+                    The stomach, oesophagus, and the heart share overlapping nerve pathways. Pain from the oesophagus and upper stomach travels through visceral nerve fibres that enter the same upper thoracic spinal segments as nerves from the heart. The brain, particularly the thalamus, often cannot precisely localise the source — a phenomenon called <em>referred pain</em>. As a result, a gas bubble trapped in the splenic flexure of the colon or in the fundus of the stomach can produce tightness, burning or squeezing right under the sternum — exactly where heart pain is felt.
                 </p>
                 <p class="text-gray-700 mb-4">
                     In addition, large meals trigger the release of <em>vasoactive intestinal peptide (VIP)</em> and cause a transient dip in blood pressure. In a patient with pre-existing coronary artery disease, this can lower the heart's oxygen supply just enough to provoke chest tightness — a phenomenon called <strong>postprandial angina</strong>. This is real cardiac pain triggered by eating, not gas itself, but the patient often blames the meal.
@@ -211,7 +211,7 @@
 
                 <div class="raj-callout raj-callout-danger mt-6">
                     <strong class="text-red-700">Do not self-diagnose. Go to the ER if:</strong>
-                    <span class="text-gray-700"> chest pain is severe, lasts &gt;10 min, comes with sweating, vomiting, fainting, or breathlessness; pain radiates to left arm, jaw or back; you are &gt;40 with diabetes / BP / smoking / family history. RAJ Hospital's 24×7 emergency in Ranchi can do ECG and troponin tests — <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">contact the on-call cardiologist here</a>.</span>
+                    <span class="text-gray-700"> chest pain is severe, lasts &gt;5 min, comes with sweating, vomiting, fainting, or breathlessness; pain radiates to left arm, jaw or back; you are &gt;40 with diabetes / BP / smoking / family history. RAJ Hospital's 24×7 emergency in Ranchi can do ECG and troponin tests — <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">contact the on-call cardiologist here</a>.</span>
                 </div>
 
                 <h2 class="raj-h2">The 4 Common Conditions That Confuse Patients</h2>
@@ -245,13 +245,13 @@
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Eat slowly, chew well</strong> — reduces swallowed air, the most common cause of upper abdominal gas.</li>
                     <li><strong>Limit fermented milk, beans, cabbage, onion, and carbonated drinks</strong> — high-FODMAP foods that ferment in the colon.</li>
-                    <li><strong>Walk 10–15 minutes after meals</strong> — improves gastric emptying and reduces postprandial angina.</li>
+                    <li><strong>Walk 10–15 minutes after meals</strong> — improves gastric emptying (heart patients should ask their cardiologist about safe post-meal activity).</li>
                     <li><strong>Maintain a healthy weight</strong> — central obesity raises both GERD and coronary risk.</li>
                 </ul>
 
                 <h2 class="raj-h2">Final Word</h2>
                 <p class="text-gray-700 mb-4">
-                    Cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>, see at least 4–5 patients every week who say, "I ignored chest pain for two days because I thought it was gas." Some of them turn out to have had a small heart attack, a finding called a <em>silent MI</em> in diabetics. The single most important rule: <strong>if in doubt, get an ECG.</strong> It takes 5 minutes, costs little, and is available round-the-clock at our cardiac emergency unit.
+                    Cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>, often see patients who ignored chest pain for days because they thought it was gas. Some of them turn out to have had a small heart attack, a finding called a <em>silent MI</em> in diabetics. The single most important rule: <strong>if in doubt, get an ECG.</strong> It takes 5 minutes, costs little, and is available round-the-clock at our cardiac emergency unit.
                 </p>
 
                 <!-- CTA -->
@@ -279,18 +279,18 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can gas cause chest pain on the left side?</h3>
-                            <p class="text-gray-700">Yes. Gas trapped in the splenic flexure of the colon — located in the left upper abdomen — commonly produces pain that radiates to the left chest and even the left shoulder, mimicking a heart attack. Belching, peppermint water, and walking usually help. If the pain is severe, lasts &gt;10 minutes, or comes with sweating, get an ECG at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>.</p>
+                            <p class="text-gray-700">Yes. Gas trapped in the splenic flexure of the colon — located in the left upper abdomen — commonly produces pain that radiates to the left chest and even the left shoulder, mimicking a heart attack. Belching, peppermint water, and walking usually help. If the pain is severe, lasts &gt;5 minutes, or comes with sweating, get an ECG at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can acidity cause ECG changes?</h3>
-                            <p class="text-gray-700">Severe GERD can occasionally cause non-specific ST-T changes on ECG due to vagal stimulation. The troponin is normal and the changes resolve after antacid treatment. The <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">cardiologists at RAJ Hospital</a> always correlate ECG with symptoms, troponin and echo before making a final call.</p>
+                            <p class="text-gray-700">Severe GERD can occasionally cause non-specific ST-T changes on ECG due to vagal stimulation. In such cases troponin is normal, but cardiac causes must always be ruled out first by a doctor. The <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">cardiologists at RAJ Hospital</a> always correlate ECG with symptoms, troponin and echo before making a final call.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">How do I know if chest pain is serious?</h3>
                             <p class="text-gray-700">Any chest pain that is new, severe, lasts more than 5 minutes, is associated with sweating, vomiting, fainting, or breathlessness, or radiates to the arm or jaw is potentially serious. Don't self-medicate with antacids only — visit the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">cardiac ER at RAJ Hospital Ranchi</a> for an ECG and troponin test.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                            <h3 class="font-bold text-gray-800 mb-2">Is it safe to take Eno or Gelusil for chest pain?</h3>
+                            <h3 class="font-bold text-gray-800 mb-2">Is it safe to take an antacid for chest pain?</h3>
                             <p class="text-gray-700">For mild, recurring discomfort that is clearly tied to a heavy meal and has a history of GERD, an antacid is reasonable. If the pain is unusual in character, severe, or comes with sweating, antacids can delay a real diagnosis — go to the ER first.</p>
                         </div>
                     </div>

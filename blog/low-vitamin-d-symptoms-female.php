@@ -269,7 +269,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">6. वज़न बढ़ना</h4>
-                        <p class="text-sm text-gray-600">मेटाबॉलिज्म धीमा होने से वज़न नियंत्रित करना मुश्किल होना।</p>
+                        <p class="text-sm text-gray-600">मोटापे वाले लोगों में विटामिन D की कमी ज़्यादा देखी जाती है; वज़न बढ़ना इसका सीधा लक्षण साबित नहीं है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">7. त्वचा की समस्याएं</h4>
@@ -347,7 +347,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">दिन में कितनी धूप लेनी चाहिए?</h4>
-                        <p class="text-gray-700">सुबह 10-11 बजे के बीच 15-20 मिनट धूप में रहें। सनस्क्रीन न लगाएं।</p>
+                        <p class="text-gray-700">त्वचा के रंग और मौसम के अनुसार रोज़ थोड़ी देर (लगभग 15-30 मिनट) धूप लें, पर त्वचा को जलने न दें; लंबे समय धूप में रहना हो तो सनस्क्रीन लगाएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या विटामिन D supplements लेना सुरक्षित है?</h4>

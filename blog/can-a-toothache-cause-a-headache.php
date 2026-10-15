@@ -315,7 +315,7 @@
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-4">
                     <li>Salt water rinse से mouth clean करें</li>
                     <li>Cold compress बाहर से लगाएं</li>
-                    <li>Over-the-counter pain relievers लें</li>
+                    <li>Pharmacist या doctor की सलाह से over-the-counter pain reliever लें</li>
                     <li>Clove oil application for temporary relief</li>
                 </ul>
 
@@ -348,7 +348,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">कब dentist से मिलना चाहिए?</h4>
-                        <p class="text-gray-700">अगर दर्द 2 दिन से अधिक हो, swelling हो, या fever हो तो तुरंत dentist से मिलें।</p>
+                        <p class="text-gray-700">अगर दर्द 2 दिन से अधिक हो, swelling हो, या fever हो तो तुरंत dentist से मिलें। चेहरे/गर्दन में तेज़ी से बढ़ती सूजन, निगलने या सांस लेने में दिक्कत हो तो तुरंत emergency जाएं।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

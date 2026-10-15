@@ -40,7 +40,7 @@
         },
         {
           "@type": "MedicalProcedure",
-          "name": "Chemotherapy and Radiology"
+          "name": "Chemotherapy and Radiation Therapy"
         }
       ],
       "hospitalAffiliation": {
@@ -75,7 +75,7 @@
           "name": "Is brain tumor surgery safe?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "With advanced technologies such as navigation-guided surgery and awake craniotomy available at Raj Hospital, brain tumor surgeries have become highly safe with minimal risks and faster recovery times."
+            "text": "All brain surgery carries risks, which depend on the tumor's type, size and location and on the patient's overall health. Techniques such as image guidance and, in selected cases, awake craniotomy can help reduce risk to important brain areas. Your neurosurgeon will explain the specific risks and benefits before surgery."
           }
         },
         {
@@ -91,7 +91,7 @@
           "name": "What is the survival rate for brain tumor surgery in Ranchi?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The survival and recovery rate depends significantly on whether the tumor is benign or malignant. With early diagnosis and the advanced microsurgical techniques available at Raj Hospital, benign tumors often have excellent long-term outcomes and high success rates."
+            "text": "The survival and recovery rate depends significantly on whether the tumor is benign or malignant. Outcomes depend mainly on the tumor's type, grade and location and on how completely it can be removed. Many benign tumors have good long-term outcomes after treatment, while malignant tumors usually need further therapy; your treating team can explain what to expect in your case."
           }
         },
         {
@@ -297,7 +297,7 @@
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Awake Craniotomy</h4>
-                                <p class="text-gray-600">State-of-the-art procedure where the patient is awake during surgery to map brain function continuously, ensuring vision, speech, and movement are protected.</p>
+                                <p class="text-gray-600">Used for selected tumors near speech or movement areas: the patient is awake for part of the operation so brain function can be checked, helping reduce the risk to speech and movement.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Radiation Therapy</h4>
@@ -392,7 +392,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>With advanced technologies such as navigation-guided surgery, endoscopic assistance, and awake craniotomy available at Raj Hospital, neurosurgery for brain tumors in Ranchi has become highly safe, prioritizing minimal risks and faster recovery times.</p>
+                                <p>All brain surgery carries risks, which depend on the tumor's type, size and location and on the patient's overall health. Techniques such as image guidance and, in selected cases, awake craniotomy can help reduce risk to important brain areas. Your neurosurgeon will explain the specific risks and benefits before surgery.</p>
                             </div>
                         </div>
 
@@ -414,7 +414,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>The survival and recovery rate depends significantly on whether the tumor is benign or malignant. With early diagnosis and the advanced microsurgical techniques available at Raj Hospital, benign tumors often have excellent long-term outcomes and high success rates.</p>
+                                <p>The survival and recovery rate depends significantly on whether the tumor is benign or malignant. Outcomes depend mainly on the tumor's type, grade and location and on how completely it can be removed. Many benign tumors have good long-term outcomes after treatment, while malignant tumors usually need further therapy; your treating team can explain what to expect in your case.</p>
                             </div>
                         </div>
 
@@ -435,7 +435,7 @@
                 <div class="lg:sticky lg:top-24 h-fit">
                     <div class="rounded-xl p-6 sm:p-8" style="background-color: #fbfbf9; border: 1px solid #f5f5f5;">
                         <h3 class="text-2xl font-bold text-gray-900 mb-2">Have More Questions?</h3>
-                        <p class="text-gray-600 mb-6 font-medium">Get in touch with our Aesthetic & Reconstructive Surgery specialists</p>
+                        <p class="text-gray-600 mb-6 font-medium">Get in touch with our Brain Tumor specialists</p>
 
                         <form accept-charset="UTF-8" action="https://app.formester.com/forms/kIewn1CO8/submissions" method="POST" class="space-y-4">
                             <!-- Name -->

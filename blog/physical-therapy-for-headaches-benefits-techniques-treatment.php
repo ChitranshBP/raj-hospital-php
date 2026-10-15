@@ -349,7 +349,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Is physical therapy effective for migraines?</h4>
-                        <p class="text-gray-700">Physical therapy may help reduce <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a> frequency by 40-50% and decrease severity of attacks.</p>
+                        <p class="text-gray-700">Physical therapy may help reduce <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a> frequency or severity in some people, usually as part of a plan guided by a neurologist.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">How many sessions are needed?</h4>

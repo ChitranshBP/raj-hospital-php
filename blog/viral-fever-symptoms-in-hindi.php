@@ -246,7 +246,7 @@
                 <h2 class="raj-h2-secondary">Viral vs Bacterial Fever</h2>
 
                 <p class="text-gray-700 mb-4">
-                    यह पहचानना important है कि fever viral है या bacterial, क्योंकि treatment अलग होती है:
+                    यह पहचानना important है कि fever viral है या bacterial, क्योंकि treatment अलग होती है। लेकिन सिर्फ बुखार के तापमान या शुरुआत के तरीके से यह तय नहीं किया जा सकता — dengue और flu जैसे viral infections में भी अचानक तेज़ बुखार होता है; सही diagnosis के लिए doctor की जांच और blood tests ज़रूरी हैं। आम तौर पर देखे जाने वाले फर्क:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -293,7 +293,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">3. Fever Management</h4>
-                        <p class="text-sm text-gray-600">Paracetamol (Acetaminophen) 500-1000mg हर 4-6 hours में ले सकते हैं। Ibuprofen भी helpful है। Aspirin children को न दें।</p>
+                        <p class="text-sm text-gray-600">बुखार के लिए doctor की सलाह से paracetamol ले सकते हैं — बच्चों में dose वज़न के अनुसार doctor ही तय करें और दिन की अधिकतम मात्रा से ज़्यादा न लें। Dengue का शक हो (monsoon, तेज़ बदन दर्द, rash) तो ibuprofen, aspirin या दूसरी painkillers खुद से न लें — इनसे bleeding का खतरा बढ़ सकता है। Aspirin बच्चों को कभी न दें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">4. Throat Relief</h4>
