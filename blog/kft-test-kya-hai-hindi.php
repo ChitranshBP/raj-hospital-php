@@ -265,6 +265,7 @@
             <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
                 KFT Test Kya Hota Hai | KFT Test in Hindi - Complete Guide
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <p class="text-lg text-gray-600 mb-4">
                 <strong>KFT test kya hota hai</strong> - यह एक important blood test है जो kidney की health check करने के लिए किया जाता है। इस article में हम जानेंगे <strong>kidney function test in hindi</strong> के बारे में पूरी जानकारी - test procedure, normal values, cost, और interpretation।
             </p>

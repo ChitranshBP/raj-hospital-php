@@ -261,6 +261,7 @@
             <div class="p-6 md:p-10 border-b-2 border-primary-500">
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 14 min read</span>

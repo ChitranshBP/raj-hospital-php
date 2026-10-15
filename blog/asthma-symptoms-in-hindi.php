@@ -508,6 +508,7 @@
     <header class="blog-header">
         <div class="container">
             <h1>दमा के लक्षण | <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi</h1>
+            <?php include __DIR__ . '/../components/medical-disclaimer.php'; ?>
             <div class="meta">
                 <span>Published: May 22, 2026</span> |
                 <span>Reading Time: 9 min</span> |

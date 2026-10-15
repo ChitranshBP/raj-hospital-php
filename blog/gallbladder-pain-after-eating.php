@@ -196,6 +196,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-accent-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Minimal Access Surgery · Gastroenterology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Gallbladder Pain After Meals: When It's Time for Minimally Invasive Surgery</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> September 2, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>

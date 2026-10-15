@@ -4,6 +4,26 @@
 // Ensure $base_url is defined in the parent page before including this file
 $active_page = basename($_SERVER['PHP_SELF']);
 
+// Medical disclaimer safety net: every blog post must show the disclaimer below its H1.
+// Posts normally include components/medical-disclaimer.php themselves; if a new post
+// forgets, insert it after the first </h1> when the page is sent.
+if (preg_match('#/blog/(?!index\.php$)[^/]+\.php$#', $_SERVER['SCRIPT_NAME'] ?? '')) {
+    $raj_disclaimer_define_only = true;
+    include_once __DIR__ . '/medical-disclaimer.php';
+    unset($raj_disclaimer_define_only);
+    ob_start(function ($html) {
+        if (strpos($html, 'data-raj-medical-disclaimer') !== false) {
+            return $html;
+        }
+        $pos = stripos($html, '</h1>');
+        if ($pos === false) {
+            return $html;
+        }
+        $pos += strlen('</h1>');
+        return substr($html, 0, $pos) . "\n" . raj_medical_disclaimer_html() . substr($html, $pos);
+    });
+}
+
 // Configuration from React Version
 $specialties = [
     [

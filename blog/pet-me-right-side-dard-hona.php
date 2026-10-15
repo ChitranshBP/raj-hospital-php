@@ -221,6 +221,7 @@
             <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
                 Pet Me Right Side Dard Hona: कारण, लक्षण और घरेलू उपाय
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <p class="text-lg text-gray-600 mb-4">
                 पेट के राइट साइड में दर्द एक common problem है जो किसी भी उम्र में हो सकती है। यह दर्द हल्का से लेकर बहुत तेज और unbearable तक हो सकता है। इस article में हम जानेंगे <strong>pet me right side dard hona ke karan</strong>, symptoms और <strong>gharelu upay</strong> के बारे में।
             </p>

@@ -254,6 +254,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100 bg-gradient-to-r from-primary-500 to-primary-600 text-white">
                 <span class="inline-block bg-white/20 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold mb-4">Headaches Types, Causes aur Treatment Solutions - Complete Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <p class="text-lg opacity-90 mb-4">सिरदर्द के प्रकार, कारण और इलाज के तरीके - एक complete guide</p>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-white/80">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>

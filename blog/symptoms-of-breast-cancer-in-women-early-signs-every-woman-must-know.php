@@ -201,6 +201,7 @@ $base_url = '../';
             <h1 class="text-3xl md:text-4xl font-bold mb-4">
                 स्तन कैंसर के लक्षण - महिलाओं में शुरुआती संकेत
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <div class="flex items-center text-sm text-white/80 space-x-4">
                 <span class="flex items-center">
                     <i data-feather="user" class="w-4 h-4 mr-1"></i>

@@ -159,6 +159,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-blue-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 10, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>

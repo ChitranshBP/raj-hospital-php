@@ -250,6 +250,7 @@
             <div class="p-6 md:p-10 border-b-4 border-green-600">
                 <span class="inline-block bg-green-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Health & Nutrition</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">ग्रीन टी के फायदे | Green Tea Benefits in Hindi - Complete Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>

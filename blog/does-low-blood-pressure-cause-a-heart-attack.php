@@ -159,6 +159,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-cyan-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Internal Medicine</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack? Doctor-Explained Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 14, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>

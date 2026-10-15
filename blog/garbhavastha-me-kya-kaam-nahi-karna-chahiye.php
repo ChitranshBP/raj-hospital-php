@@ -249,6 +249,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-medical-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">गर्भावस्था स्वास्थ्य</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए - पूर्ण मार्गदर्शिका</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> 22 मई, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 मिनट पठन</span>
