@@ -7,15 +7,15 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Can anxiety cause a heart attack? Top cardiologist at RAJ Hospital Ranchi explains the link between anxiety, panic attacks and heart attack risk — with symptoms checklist and when to seek emergency care.">
+    <title>Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Complete Guide | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Can anxiety cause a heart attack? RAJ Hospital Ranchi explains the link between anxiety, panic attacks and heart attack risk — with symptoms checklist and when to seek emergency care.">
     <meta name="keywords" content="can anxiety cause a heart attack, anxiety heart attack, panic attack vs heart attack, anxiety and heart disease, stress cardiomyopathy, broken heart syndrome, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/can-anxiety-cause-a-heart-attack/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
-    <meta property="og:title" content="Can Anxiety Cause a Heart Attack? Doctor-Explained Guide">
-    <meta property="og:description" content="Cardiologist-reviewed guide on anxiety and heart attack risk. Symptoms, diagnosis and emergency warning signs.">
+    <meta property="og:title" content="Can Anxiety Cause a Heart Attack? Complete Guide">
+    <meta property="og:description" content="Guide on anxiety and heart attack risk. Symptoms, diagnosis and emergency warning signs.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/can-anxiety-cause-a-heart-attack/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/can-anxiety-cause-a-heart-attack.png">
@@ -42,8 +42,8 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide",
-        "description": "Cardiologist-reviewed guide on the link between anxiety, panic attacks and heart attack risk.",
+        "headline": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Complete Guide",
+        "description": "Guide on the link between anxiety, panic attacks and heart attack risk.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -76,7 +76,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?",
-        "description": "Doctor-reviewed guide explaining the relationship between anxiety, panic attacks and heart attack risk, with emergency warning signs.",
+        "description": "Guide explaining the relationship between anxiety, panic attacks and heart attack risk, with emergency warning signs.",
         "url": "https://rajhospitals.com/blog/can-anxiety-cause-a-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -161,25 +161,25 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="/blog/assets/img/featured/can-anxiety-cause-a-heart-attack.png" alt="Can Anxiety Cause a Heart Attack - Cardiologist Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/can-anxiety-cause-a-heart-attack.png" alt="Can Anxiety Cause a Heart Attack - Guide" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-indigo-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Mental Health</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Can Anxiety Cause a Heart Attack? Doctor-Explained Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Can Anxiety Cause a Heart Attack? Complete Guide</h1>
                 <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 4, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Ranchi</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Can anxiety cause a heart attack?</strong> It is one of the most searched questions on Google by patients who experience panic-like symptoms — racing heart, chest tightness, breathlessness. According to the cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, the short answer is: anxiety alone rarely causes a classic heart attack, but chronic anxiety meaningfully raises long-term cardiac risk and, in extreme cases, can trigger stress cardiomyopathy that mimics one. This guide explains the science, the symptoms, and exactly when to seek emergency help.
+                    <strong>Can anxiety cause a heart attack?</strong> It is one of the most searched questions on Google by patients who experience panic-like symptoms — racing heart, chest tightness, breathlessness. According to <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, the short answer is: anxiety alone rarely causes a classic heart attack, but chronic anxiety meaningfully raises long-term cardiac risk and, in extreme cases, can trigger stress cardiomyopathy that mimics one. This guide explains the science, the symptoms, and exactly when to seek emergency help.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -321,8 +321,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-indigo-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Cardiology & Psychiatry Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 4, 2026 · Reviewed by Consultant Cardiologist & Psychiatrist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <strong class="text-gray-800">RAJ Hospital Ranchi</strong>
+                        <p class="text-sm text-gray-500">Last Updated: June 4, 2026 · General health information · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

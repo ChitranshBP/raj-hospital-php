@@ -748,7 +748,7 @@ Pregnancy Care Hospital in Jharkhand
                         <h3 class="text-xl font-semibold text-gray-900">Infertility Treatment Joy</h3>
                     </div>
                     <p class="text-gray-500 mb-4">Patient: Mrs. Anjali</p>
-                    <p class="text-gray-700 mb-6">"After years of trying, we consulted Dr. Sweta Lal. With her expert
+                    <p class="text-gray-700 mb-6">"After years of trying, . With her expert
                         guidance and treatment, we are now proud parents of twins."</p>
                     <div class="bg-green-50 p-4 rounded-lg border border-green-100">
                         <div class="flex items-center space-x-2">

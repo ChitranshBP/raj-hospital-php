@@ -205,7 +205,7 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> September 2, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Oncology Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Ranchi</span>
                 </div>
             </div>
 
@@ -401,7 +401,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Does a self-exam replace a mammogram?</h3>
-                        <p class="text-gray-700">No. A mammogram can detect changes years before anything is large enough to feel, which is why screening exists as a separate activity. Self-examination and clinical examination find what has become palpable. They are complementary, and treating one as a substitute for the other is the most common misunderstanding we correct in clinic.</p>
+                        <p class="text-gray-700">No. A mammogram can detect changes years before anything is large enough to feel, which is why screening exists as a separate activity. Self-examination and clinical examination find what has become palpable. They are complementary, and treating one as a substitute for the other is a common misunderstanding.</p>
                     </div>
                 </div>
 
@@ -423,8 +423,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 shrink-0 rounded-full bg-pink-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Oncology Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Last updated: September 2, 2026 &middot; Medically reviewed by our consultant oncologists &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <strong class="text-gray-800">Raj Hospitals Ranchi</strong>
+                        <p class="text-sm text-gray-500">Last updated: September 2, 2026 &middot; General health information &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

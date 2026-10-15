@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Kidney Stone or Kidney Infection? How Doctors Tell the Difference">
-    <meta property="og:description" content="The pain can feel identical at first. The fever pattern, urine appearance and pain rhythm usually give it away. A specialist guide from Raj Hospitals Ranchi.">
+    <meta property="og:description" content="The pain can feel identical at first. The fever pattern, urine appearance and pain rhythm usually give it away. A patient guide from Raj Hospitals Ranchi.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/kidney-stone-vs-kidney-infection-symptoms/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/kidney-stone-vs-kidney-infection-symptoms.jpg">
@@ -198,7 +198,7 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> September 2, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Nephrology &amp; Urology Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Ranchi Editorial Team</span>
                 </div>
             </div>
 
@@ -416,7 +416,7 @@
                     <div class="w-16 h-16 shrink-0 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Nephrology &amp; Urology Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Last updated: September 2, 2026 &middot; Medically reviewed by our consultant nephrologists and urologists &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <p class="text-sm text-gray-500">Last updated: September 2, 2026  &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

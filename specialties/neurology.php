@@ -103,7 +103,7 @@
                             <ul class="space-y-3">
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Board-certified neurologists with advanced training</span>
+                                    <span class="text-gray-700">Qualified neurologists with advanced training</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>

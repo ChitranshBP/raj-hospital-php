@@ -8,14 +8,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference? | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Heart attack and cardiac arrest are NOT the same. Cardiologists at RAJ Hospital Ranchi explain the difference, the link between the two, and the exact emergency response that saves lives.">
+    <meta name="description" content="Heart attack and cardiac arrest are NOT the same. This RAJ Hospital Ranchi guide explains the difference, the link between the two, and the exact emergency response that saves lives.">
     <meta name="keywords" content="difference between heart attack and cardiac arrest, heart attack vs cardiac arrest, sudden cardiac arrest, CPR, AED, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Heart Attack vs Cardiac Arrest — What Is the Difference?">
-    <meta property="og:description" content="Cardiologist-explained guide on the difference between heart attack and cardiac arrest.">
+    <meta property="og:description" content="Patient guide on the difference between heart attack and cardiac arrest.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png">
@@ -70,7 +70,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference?",
-        "description": "A cardiologist-reviewed, citation-ready comparison of heart attack (myocardial infarction) and cardiac arrest (sudden cardiac arrest), with emergency response steps.",
+        "description": "A patient-education comparison of heart attack (myocardial infarction) and cardiac arrest (sudden cardiac arrest), with emergency response steps.",
         "url": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -153,7 +153,7 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="/blog/assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png" alt="Heart Attack vs Cardiac Arrest - Doctor Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png" alt="Heart Attack vs Cardiac Arrest - Patient Guide" class="w-full h-full object-contain">
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">
@@ -163,7 +163,7 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 8, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Written by RAJ Hospital Health Information Team</span>
                 </div>
             </div>
 
@@ -270,7 +270,7 @@
                     </div>
                 </div>
 
-                <h2 class="raj-h2">FAQs Patients Ask Cardiologists at RAJ Hospital</h2>
+                <h2 class="raj-h2">Frequently Asked Questions</h2>
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Can you have a cardiac arrest without warning?</h3>
@@ -314,7 +314,7 @@
                     <div class="w-16 h-16 rounded-full bg-red-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Cardiology & Emergency Medicine Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 8, 2026 · Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="text-sm text-gray-500">Last Updated: June 8, 2026 · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

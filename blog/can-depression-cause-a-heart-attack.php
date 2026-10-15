@@ -8,14 +8,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Understanding the Hidden Connection | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Can depression cause a heart attack? Cardiologists and psychiatrists at RAJ Hospital Ranchi explain the two-way link between depression and heart disease, the warning signs, and how treating your mind protects your heart.">
+    <meta name="description" content="Can depression cause a heart attack? RAJ Hospital Ranchi explains the two-way link between depression and heart disease, the warning signs, and how treating your mind protects your heart.">
     <meta name="keywords" content="can depression cause a heart attack, depression and heart disease, depression heart attack link, mental health and heart, does depression cause heart problems, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/can-depression-cause-a-heart-attack/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Can Depression Cause a Heart Attack? Understanding the Hidden Connection">
-    <meta property="og:description" content="Doctor-reviewed guide on the two-way link between depression and heart attack risk — mechanisms, warning signs and how to protect your heart.">
+    <meta property="og:description" content="Guide on the two-way link between depression and heart attack risk — mechanisms, warning signs and how to protect your heart.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/can-depression-cause-a-heart-attack/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/can-depression-cause-a-heart-attack.png">
@@ -43,7 +43,7 @@
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Understanding the Hidden Connection",
-        "description": "Doctor-reviewed guide on the bidirectional link between depression and heart attack risk, with warning signs and prevention.",
+        "description": "Guide on the bidirectional link between depression and heart attack risk, with warning signs and prevention.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -76,7 +76,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?",
-        "description": "Doctor-reviewed guide explaining the two-way relationship between depression and heart attack risk, including mechanisms and prevention.",
+        "description": "Guide explaining the two-way relationship between depression and heart attack risk, including mechanisms and prevention.",
         "url": "https://rajhospitals.com/blog/can-depression-cause-a-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -171,14 +171,14 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> July 31, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology &amp; Psychiatry Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Ranchi</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    We tend to think of depression as a condition of the mind and a heart attack as a problem of the arteries — two separate worlds. But decades of research have shown they are deeply connected. So, <strong>can depression cause a heart attack?</strong> According to the cardiologists and psychiatrists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, depression is not a single-moment trigger like a blood clot — but it is a genuine, measurable risk factor that can roughly <em>double</em> the long-term risk of heart disease and worsen recovery after a cardiac event. This guide explains the hidden connection, why it works both ways, and what you can do about it.
+                    We tend to think of depression as a condition of the mind and a heart attack as a problem of the arteries — two separate worlds. But decades of research have shown they are deeply connected. So, <strong>can depression cause a heart attack?</strong> According to <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, depression is not a single-moment trigger like a blood clot — but it is a genuine, measurable risk factor that can roughly <em>double</em> the long-term risk of heart disease and worsen recovery after a cardiac event. This guide explains the hidden connection, why it works both ways, and what you can do about it.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -300,7 +300,7 @@
                     <p class="text-gray-700 mb-4">Explore the mind–heart link and cardiac health further:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
-                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Guide</a></li>
                         <li><a href="/blog/what-causes-heart-attacks-in-young-people.php" class="text-secondary-600 hover:underline font-semibold">What Causes Heart Attacks in Young People? — Signs &amp; Prevention</a></li>
                         <li><a href="/blog/symptoms-of-depression-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">पुरुषों में डिप्रेशन के लक्षण — Depression Symptoms in Men (Hindi)</a></li>
                         <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk &amp; Prevention</a></li>
@@ -335,8 +335,8 @@
                 <div class="raj-author-box">
                     <div class="raj-author-avatar">RH</div>
                     <div>
-                        <strong class="raj-author-name">Cardiology &amp; Psychiatry Team, RAJ Hospital</strong>
-                        <p class="raj-author-meta">Last Updated: July 31, 2026 · Reviewed by Consultant Cardiologist &amp; Psychiatrist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <strong class="raj-author-name">RAJ Hospital Ranchi</strong>
+                        <p class="raj-author-meta">Last Updated: July 31, 2026 · General health information · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 

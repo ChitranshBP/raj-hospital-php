@@ -8,13 +8,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Health Blog | RAJ Hospital Ranchi - Health Tips & Medical Insights</title>
-    <meta name="description" content="RAJ Hospital Ranchi की official blog - Health tips, disease information in Hindi, medical updates, और specialist advice। जानें अपनी health के बारे में।">
+    <meta name="description" content="RAJ Hospital Ranchi की official blog - Health tips, disease information in Hindi, और medical updates। जानें अपनी health के बारे में।">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/">
 
     <!-- Open Graph -->
     <meta property="og:title" content="Health Blog | RAJ Hospital Ranchi">
-    <meta property="og:description" content="Health tips, disease information in Hindi, और medical updates। RAJ Hospital के specialists से जानें अपनी health के बारे में।">
+    <meta property="og:description" content="Health tips, disease information in Hindi, और medical updates। RAJ Hospital Health Blog पर जानें अपनी health के बारे में।">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://rajhospitals.com/blog/">
 
@@ -48,7 +48,7 @@
     <!-- Blog Hero -->
     <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white py-16 px-4 text-center mt-[120px]">
         <h1 class="text-3xl md:text-4xl font-bold mb-4">RAJ Hospital Health Blog</h1>
-        <p class="text-lg opacity-90 max-w-2xl mx-auto">Health tips, disease information in Hindi, और medical updates। RAJ Hospital के specialists से जानें अपनी health के बारे में।</p>
+        <p class="text-lg opacity-90 max-w-2xl mx-auto">Health tips, disease information in Hindi, और medical updates। RAJ Hospital Health Blog पर जानें अपनी health के बारे में।</p>
     </div>
 
     <!-- Blog Grid -->
@@ -79,7 +79,7 @@
                     $t_st = preg_replace('/\s*[\|\-–—]\s*RAJ Hospital.*$/i', '', $t_st);
                     if ($t_st !== '') $title_st = $t_st;
                 }
-                $excerpt_st = 'Read this health guide from RAJ Hospital specialists.';
+                $excerpt_st = 'Read this health guide from RAJ Hospital.';
                 if (preg_match('/<meta\s+name=["\']description["\']\s+content=["\']([^"\']+)["\']/i', $contents_st, $mes)) {
                     $excerpt_st = trim(html_entity_decode($mes[1], ENT_QUOTES, 'UTF-8'));
                 }
@@ -110,7 +110,7 @@
                     <div>
                         <span class="inline-block bg-orange-100 text-orange-700 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider mb-2">Newest</span>
                         <h2 class="text-2xl md:text-3xl font-bold text-gray-800">Latest Posts</h2>
-                        <p class="text-sm text-gray-500 mt-1">Date-wise newest first — fresh insights from our specialists.</p>
+                        <p class="text-sm text-gray-500 mt-1">Date-wise newest first — latest health articles.</p>
                     </div>
                     <span class="hidden md:inline-flex items-center gap-1 text-xs text-gray-400"><i data-feather="calendar" class="w-3 h-3"></i> Updated <?php echo date('F j, Y'); ?></span>
                 </div>

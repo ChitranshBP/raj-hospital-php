@@ -8,14 +8,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: Safe Ways to Relieve Pain Naturally | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Spinal headache treatment at home — safe, doctor-recommended ways to relieve a post-dural-puncture headache with rest, fluids and caffeine, and the clear signs that mean you need an epidural blood patch. From RAJ Hospital Ranchi.">
+    <meta name="description" content="Spinal headache treatment at home — safe ways to relieve a post-dural-puncture headache with rest, fluids and caffeine, and the clear signs that mean you need an epidural blood patch. From RAJ Hospital Ranchi.">
     <meta name="keywords" content="spinal headache treatment at home, post dural puncture headache, spinal headache remedies, epidural headache relief, headache after spinal anesthesia, PDPH home treatment, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/spinal-headache-treatment-at-home/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Spinal Headache Treatment at Home: Safe Ways to Relieve Pain Naturally">
-    <meta property="og:description" content="Doctor-reviewed guide to easing a spinal (post-dural-puncture) headache at home — and knowing when you need medical treatment.">
+    <meta property="og:description" content="Guide to easing a spinal (post-dural-puncture) headache at home — and knowing when you need medical treatment.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/spinal-headache-treatment-at-home/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/spinal-headache-treatment-at-home.png">
@@ -43,7 +43,7 @@
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: Safe Ways to Relieve Pain Naturally",
-        "description": "Doctor-reviewed guide to relieving a spinal (post-dural-puncture) headache at home, and knowing when medical treatment is needed.",
+        "description": "Guide to relieving a spinal (post-dural-puncture) headache at home, and knowing when medical treatment is needed.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -169,14 +169,14 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> July 31, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Anesthesia &amp; <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Health Content Team<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    A <strong>spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></strong> — properly called a post-dural-puncture <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> (PDPH) — is a distinctive, often intense headache that appears after a spinal anesthetic, an epidural, or a lumbar puncture. Its signature is unmistakable: the pain is far worse when you sit or stand, and eases dramatically when you lie flat. The reassuring news, say the anesthesia and neurology specialists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is that most spinal headaches settle on their own with a few simple, safe home measures. But it's equally important to know when home care is not enough — because an effective medical treatment exists.
+                    A <strong>spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></strong> — properly called a post-dural-puncture <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> (PDPH) — is a distinctive, often intense headache that appears after a spinal anesthetic, an epidural, or a lumbar puncture. Its signature is unmistakable: the pain is far worse when you sit or stand, and eases dramatically when you lie flat. The reassuring news, for patients treated at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is that most spinal headaches settle on their own with a few simple, safe home measures. But it's equally important to know when home care is not enough — because an effective medical treatment exists.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -300,8 +300,8 @@
                 <div class="raj-author-box">
                     <div class="raj-author-avatar">RH</div>
                     <div>
-                        <strong class="raj-author-name">Anesthesia &amp; Neurology Team, RAJ Hospital</strong>
-                        <p class="raj-author-meta">Last Updated: July 31, 2026 · Reviewed by Consultant Anesthetist &amp; Neurologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <strong class="raj-author-name">RAJ Hospital Health Content Team</strong>
+                        <p class="raj-author-meta">Last Updated: July 31, 2026 · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 

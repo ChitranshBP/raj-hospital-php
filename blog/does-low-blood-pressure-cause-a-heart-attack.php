@@ -7,15 +7,15 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Does low blood pressure cause a heart attack? Cardiologists at RAJ Hospital Ranchi explain the link between hypotension, shock and heart attack — with hypotension symptoms, treatment and emergency signs.">
+    <title>Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack? Patient Guide | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Does low blood pressure cause a heart attack? This RAJ Hospital Ranchi guide explains the link between hypotension, shock and heart attack — with hypotension symptoms, treatment and emergency signs.">
     <meta name="keywords" content="does low blood pressure cause heart attack, hypotension heart attack, low BP heart disease, cardiogenic shock, low blood pressure symptoms, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/does-low-blood-pressure-cause-a-heart-attack/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
-    <meta property="og:title" content="Does Low Blood Pressure Cause a Heart Attack? Doctor-Explained Guide">
-    <meta property="og:description" content="Cardiologist-reviewed guide on the link between low blood pressure and heart attack.">
+    <meta property="og:title" content="Does Low Blood Pressure Cause a Heart Attack? Patient Guide">
+    <meta property="og:description" content="Patient guide on the link between low blood pressure and heart attack.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/does-low-blood-pressure-cause-a-heart-attack/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/does-low-blood-pressure-cause-a-heart-attack.png">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack? Doctor-Explained Guide",
+        "headline": "Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack? Patient Guide",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-14",
@@ -70,7 +70,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack?",
-        "description": "Cardiologist-reviewed guide to hypotension and heart attack — chronic low BP, acute cardiogenic shock, symptoms, and emergency response.",
+        "description": "Patient guide to hypotension and heart attack — chronic low BP, acute cardiogenic shock, symptoms, and emergency response.",
         "url": "https://rajhospitals.com/blog/does-low-blood-pressure-cause-a-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -153,17 +153,17 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="/blog/assets/img/featured/does-low-blood-pressure-cause-a-heart-attack.png" alt="Does Low Blood Pressure Cause a Heart Attack - Doctor Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/does-low-blood-pressure-cause-a-heart-attack.png" alt="Does Low Blood Pressure Cause a Heart Attack - Patient Guide" class="w-full h-full object-contain">
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-cyan-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Internal Medicine</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack? Doctor-Explained Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack? Patient Guide</h1>
                 <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 14, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Written by RAJ Hospital Health Information Team</span>
                 </div>
             </div>
 
@@ -274,7 +274,7 @@
 
                 <h2 class="raj-h2">Key Takeaways from RAJ Hospital's Cardiology Team</h2>
                 <p class="text-gray-700 mb-4">
-                    According to the senior cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>:
+                    Key takeaways from <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Low BP alone is not a heart attack cause</strong> — it is more often a sign that something else is wrong.</li>
@@ -329,7 +329,7 @@
                     <div class="w-16 h-16 rounded-full bg-cyan-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Cardiology & Internal Medicine Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 14, 2026 · Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="text-sm text-gray-500">Last Updated: June 14, 2026 · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

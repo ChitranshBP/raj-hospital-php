@@ -227,7 +227,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस article में <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> experts <strong>high blood sugar (sugar high)</strong> aur <strong>low blood sugar (sugar low)</strong> के symptoms, causes, aur prevention के बारे में detail से बताएंगे।
+                    इस article में <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> experts <strong>high blood sugar (sugar high)</strong> aur <strong>low blood sugar (sugar low)</strong> के symptoms, causes, aur prevention के बारे में general जानकारी दी गई है।
                 </p>
 
                 <!-- Section 1: Understanding Blood Sugar -->
@@ -471,8 +471,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026 | Reviewed by Senior Endocrinologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026 </p>
                     </div>
                 </div>
             </div>

@@ -7,15 +7,15 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Can <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
+    <title>Can <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Symptoms & When to Worry | RAJ Hospital Ranchi</title>
     <meta name="description" content="Can gas cause a heart attack? Top cardiologist at RAJ Hospital Ranchi explains how gas pain mimics heart attack, when to worry, and the exact emergency signs you should never ignore.">
     <meta name="keywords" content="can gas cause heart attack, gas pain vs heart attack, chest pain gas, acidity heart attack, stomach gas chest pain, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/can-gas-cause-heart-attack/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
-    <meta property="og:title" content="Can Gas Cause a Heart Attack? Doctor-Explained Guide">
-    <meta property="og:description" content="Cardiologist-reviewed guide on how gas pain mimics heart attack and when to seek emergency care.">
+    <meta property="og:title" content="Can Gas Cause a Heart Attack? Symptoms & When to Worry">
+    <meta property="og:description" content="Guide on how gas pain mimics heart attack and when to seek emergency care.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/can-gas-cause-heart-attack/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/can-gas-cause-heart-attack.png">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Can <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide",
+        "headline": "Can <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Symptoms & When to Worry",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-06",
@@ -70,7 +70,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Can <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?",
-        "description": "Cardiologist-reviewed explanation of how gas pain mimics a heart attack, with clear red-flag symptoms.",
+        "description": "Explanation of how gas pain mimics a heart attack, with clear red-flag symptoms.",
         "url": "https://rajhospitals.com/blog/can-gas-cause-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -157,12 +157,12 @@
 
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-amber-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Gastroenterology · Cardiology</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Can Gas Cause a Heart Attack? Doctor-Explained Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Can Gas Cause a Heart Attack? Symptoms & When to Worry</h1>
                 <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 6, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology & Gastroenterology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Health Desk</span>
                 </div>
             </div>
 
@@ -249,7 +249,7 @@
                     <li><strong>Maintain a healthy weight</strong> — central obesity raises both GERD and coronary risk.</li>
                 </ul>
 
-                <h2 class="raj-h2">Doctor's Final Word</h2>
+                <h2 class="raj-h2">Final Word</h2>
                 <p class="text-gray-700 mb-4">
                     Cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, see at least 4–5 patients every week who say, "I ignored chest pain for two days because I thought it was gas." Some of them turn out to have had a small heart attack, a finding called a <em>silent MI</em> in diabetics. The single most important rule: <strong>if in doubt, get an ECG.</strong> It takes 5 minutes, costs little, and is available round-the-clock at our cardiac emergency unit.
                 </p>
@@ -299,8 +299,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-amber-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Cardiology & Gastroenterology Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 6, 2026 · Reviewed by Consultant Cardiologist & Gastroenterologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <strong class="text-gray-800">RAJ Hospital Health Desk</strong>
+                        <p class="text-sm text-gray-500">Last Updated: June 6, 2026 · For general awareness only — consult a doctor for personal medical advice · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

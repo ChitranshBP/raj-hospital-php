@@ -186,7 +186,7 @@
             {
                 videoId: "vg59yGKWz_s",
                 patient: "Neurosurgery Success Story at Raj Hospitals",
-                desc: "Under the expert care of Dr. Ahmad Hussain (Neurosurgeon) and Dr. Neelam Kumari, our patient has made an incredible recovery.",
+                desc: "Under the expert care of Dr. Ahmad Hussain (Neurologist) and Dr. Neelam Kumari, our patient has made an incredible recovery.",
                 thumbnail: "https://img.youtube.com/vi/vg59yGKWz_s/maxresdefault.jpg",
             },
             {

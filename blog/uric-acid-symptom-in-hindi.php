@@ -362,7 +362,7 @@
                 </div>
 
                 <div class="raj-callout raj-callout-danger">
-                    <strong class="text-red-700">Doctor's Note:</strong>
+                    <strong class="text-red-700">ध्यान दें:</strong>
                     <span class="text-gray-700"> Medicines only doctor की prescription से लें। Self-medication से problems हो सकती हैं। RAJ Hospital Ranchi में uric acid की जांच और appropriate treatment available है।</span>
                 </div>
 
@@ -394,7 +394,7 @@
                 </div>
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Uric Acid Symptom in Hindi पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Uric Acid Symptom in Hindi पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">यूरिक एसिड के लक्षण (Uric Acid Symptom in Hindi) - गाउट, किडनी स्टोन, <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> के कारण और इलाज। Ranchi में best treatment RAJ Hospital में।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए यूरिक एसिड एक common problem है। Proper diet, lifestyle changes, और medical treatment से इसे manage किया जा सकता है।</p>
                 </section>
@@ -411,8 +411,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 23, 2026 | Reviewed by Senior Rheumatologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 23, 2026</p>
                     </div>
                 </div>
             </div>

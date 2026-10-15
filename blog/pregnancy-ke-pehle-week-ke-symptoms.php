@@ -350,7 +350,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Pregnancy Ke Pehle Week Ke Symptoms जानें। First week pregnancy signs, conception के बाद earliest symptoms और जल्दी पहचानने के तरीके।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -402,8 +402,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 28, 2026 | Reviewed by Senior Gynecologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 28, 2026</p>
                     </div>
                 </div>
             </div>

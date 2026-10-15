@@ -227,7 +227,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस comprehensive guide में, <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के hematology experts <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> marrow के बारे में, treatment options, procedure, और जरूरी जानकारी detail से बताएंगे।
+                    इस comprehensive guide में, <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> की ओर से <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> marrow के बारे में, treatment options, procedure, और जरूरी जानकारी detail से बताएंगे।
                 </p>
 
                 <!-- Section 1: What is Bone Marrow -->
@@ -572,8 +572,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026 | Reviewed by Senior Hematologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026</p>
                     </div>
                 </div>
             </div>

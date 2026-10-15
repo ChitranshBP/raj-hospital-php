@@ -589,7 +589,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital के कार्डियोलॉजिस्ट हृदय रोगों के निदान और उपचार में विशेषज्ञ हैं। BP की जाँच और management के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">यह लेख सामान्य स्वास्थ्य जानकारी के लिए है। BP की जाँच और management के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

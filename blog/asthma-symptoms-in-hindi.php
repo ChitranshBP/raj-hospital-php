@@ -759,7 +759,7 @@
             </ol>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">दमा के लक्षण | Asthma Symptoms in Hindi पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">दमा के लक्षण | Asthma Symptoms in Hindi पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">दमा (Asthma) के लक्षण पहचानें - सांस लेने में तकलीफ, घरघराहट, खांसी, छाती में भारीपन। जानें कब डॉक्टर को दिखाना है। RAJ Hospital Ranchi।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। दमा के लक्षण | Asthma Symptoms in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में सांस और फेफड़ों से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -814,7 +814,7 @@
                 <div style="width: 60px; height: 60px; border-radius: 50%; background: #2e7d32; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 1.5rem;">RH</div>
                 <div class="author-info">
                     <h4>RAJ Hospital Medical Team</h4>
-                    <p>Expert doctors और specialists की टीम द्वारा लिखित। Ranchi में 25+ years का अनुभव।</p>
+                    <p>RAJ Hospital द्वारा स्वास्थ्य जागरूकता के लिए प्रकाशित। </p>
                 </div>
             </div>
 

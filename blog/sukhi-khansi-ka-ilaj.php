@@ -787,8 +787,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 1, 2026 | Reviewed by Senior Physician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: June 1, 2026 </p>
                     </div>
                 </div>
             </div>

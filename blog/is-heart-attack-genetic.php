@@ -8,14 +8,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic? Family Risk, Inherited Causes & Prevention | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Is heart attack genetic? Cardiologists at RAJ Hospital Ranchi explain family risk, inherited conditions like FH and Lp(a), genetic testing, and how to protect yourself if heart disease runs in your family.">
+    <meta name="description" content="Is heart attack genetic? RAJ Hospital Ranchi explains family risk, inherited conditions like FH and Lp(a), genetic testing, and how to protect yourself if heart disease runs in your family.">
     <meta name="keywords" content="is heart attack genetic, hereditary heart disease, family history heart attack, familial hypercholesterolemia, Lp(a), genetic testing heart, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/is-heart-attack-genetic/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Is Heart Attack Genetic? Family Risk, Inherited Causes & Prevention">
-    <meta property="og:description" content="Cardiologist-reviewed guide on family risk of heart attack, genetic testing, and prevention.">
+    <meta property="og:description" content="Guide on family risk of heart attack, genetic testing, and prevention.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/is-heart-attack-genetic/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/is-heart-attack-genetic.png">
@@ -70,7 +70,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic?",
-        "description": "A cardiologist-reviewed guide to genetic and familial risk of heart attack, including familial hypercholesterolemia, Lp(a), and prevention strategies.",
+        "description": "A guide to genetic and familial risk of heart attack, including familial hypercholesterolemia, Lp(a), and prevention strategies.",
         "url": "https://rajhospitals.com/blog/is-heart-attack-genetic/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -163,7 +163,7 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 12, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology & Genetics Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Editorial Team</span>
                 </div>
             </div>
 
@@ -279,7 +279,7 @@
                         <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत</a></li>
                         <li><a href="/blog/difference-between-heart-attack-and-cardiac-arrest.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack vs Cardiac Arrest — Key Differences</a></li>
-                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Guide</a></li>
                         <li><a href="/blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Se Kaise Bachen — 15 Tips for a Healthy Heart</a></li>
                         <li><a href="/blog/can-gas-cause-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Gas Cause a Heart Attack? — Symptoms & Red Flags</a></li>
                     </ul>
@@ -310,8 +310,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-emerald-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Cardiology & Preventive Genetics Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 12, 2026 · Reviewed by Senior Consultant Cardiologist & Genetic Counsellor · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <strong class="text-gray-800">RAJ Hospital Editorial Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: June 12, 2026 · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

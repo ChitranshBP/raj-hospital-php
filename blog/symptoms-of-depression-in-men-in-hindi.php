@@ -233,7 +233,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस गाइड में <strong>RAJ Hospital Ranchi</strong> की medical team आपको <strong>पुरुषों में डिप्रेशन के लक्षण</strong>, warning signs, उपचार के विकल्प, और परिवार की भूमिका के बारे में विस्तार से बताएगी। यह article सिर्फ awareness के लिए है, इसे doctor की personal सलाह का विकल्प न मानें।
+                    इस गाइड में <strong>RAJ Hospital Ranchi</strong> आपको <strong>पुरुषों में डिप्रेशन के लक्षण</strong>, warning signs, उपचार के विकल्प, और परिवार की भूमिका के बारे में विस्तार से बताएगी। यह article सिर्फ awareness के लिए है, इसे doctor की personal सलाह का विकल्प न मानें।
                 </p>
 
                 <!-- Section 1: Why ignored -->
@@ -423,7 +423,7 @@
 
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">पुरुषों में डिप्रेशन के लक्षण पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">पुरुषों में डिप्रेशन के लक्षण पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">पुरुषों में डिप्रेशन के लक्षण अक्सर शारीरिक बीमारियों की तरह प्रकट होते हैं, इसलिए सही diagnosis ज़रूरी है। लंबे समय तक चलने वाली थकान, सिरदर्द, पाचन समस्या या यौन समस्याओं के पीछे <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a> हो सकता है।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के पुरुष मरीज़ों के लिए सबसे ज़रूरी बात यह है कि वे symptoms को गंभीरता से लें और बिना किसी judgement के डॉक्टर से बात करें। पुरुषों में डिप्रेशन के लक्षण पहचाने जा सकते हैं, और इलाज से जीवन की quality बेहतर हो सकती है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">mental health</a> team confidentiality के साथ evaluation, counselling, और personalised treatment plan देती है। अगर लक्षण 2 सप्ताह से ज़्यादा हों, रोज़मर्रा के काम प्रभावित हों, या आत्म-हानि के विचार आ रहे हों, तो consultation delay न करें।</p>
@@ -476,8 +476,8 @@
                 <div class="raj-author-box">
                     <div class="raj-author-avatar">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 1, 2026 | Reviewed by Senior Physician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: June 1, 2026</p>
                     </div>
                 </div>
             </div>

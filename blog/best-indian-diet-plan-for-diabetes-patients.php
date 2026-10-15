@@ -227,7 +227,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    This comprehensive guide presents a <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>-friendly Indian diet plan</strong> designed by nutrition experts at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>. Whether you're dealing with Type 1, Type 2, or gestational <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, these dietary guidelines can help you maintain stable blood glucose levels while enjoying the flavors of authentic Indian cooking.
+                    This comprehensive guide presents a <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>-friendly Indian diet plan</strong> compiled for general awareness by <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>. Whether you're dealing with Type 1, Type 2, or gestational <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, these dietary guidelines can help you maintain stable blood glucose levels while enjoying the flavors of authentic Indian cooking.
                 </p>
 
                 <!-- Section 1: Understanding Diabetes -->
@@ -238,7 +238,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Diet plays a crucial role in diabetes management because different foods affect blood sugar levels differently. Understanding the <strong>glycemic index (GI)</strong> of foods is essential - high GI foods cause rapid blood sugar spikes, while low GI foods provide steady, gradual energy release. Our <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">endocrinology specialists</a> at RAJ Hospital can help you create a personalized diabetes management plan.
+                    Diet plays a crucial role in diabetes management because different foods affect blood sugar levels differently. Understanding the <strong>glycemic index (GI)</strong> of foods is essential - high GI foods cause rapid blood sugar spikes, while low GI foods provide steady, gradual energy release. Our <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">doctors</a> at RAJ Hospital can help you create a personalized diabetes management plan.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -490,7 +490,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need Personalized Diabetes Care?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers comprehensive diabetes management with expert endocrinologists and dietitians.</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers diabetes care with physicians and dietitians.</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -521,7 +521,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Best Indian Diet Plan for Diabetes Patients पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Best Indian Diet Plan for Diabetes Patients पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Diabetes patients के लिए best Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Best Indian Diet Plan for Diabetes Patients शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -575,8 +575,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026 | Reviewed by Senior Endocrinologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026 </p>
                     </div>
                 </div>
             </div>

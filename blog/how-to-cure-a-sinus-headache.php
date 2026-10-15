@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="How to Cure a Sinus Headache: Home Remedies &amp; Medical Treatments">
-    <meta property="og:description" content="Doctor-reviewed guide to relieving a sinus headache — effective home remedies, medical options and when to see a doctor.">
+    <meta property="og:description" content="Guide to relieving a sinus headache — home remedies, medical options and when to see a doctor.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/how-to-cure-a-sinus-headache/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/how-to-cure-a-sinus-headache.png">
@@ -43,7 +43,7 @@
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies & Medical Treatments",
-        "description": "Doctor-reviewed guide to relieving a sinus headache with home remedies and medical treatment, plus warning signs.",
+        "description": "Guide to relieving a sinus headache with home remedies and medical treatment, plus warning signs.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -76,7 +76,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>",
-        "description": "Doctor-reviewed home remedies and medical treatments for sinus headaches, with guidance on when to see a doctor.",
+        "description": "Home remedies and medical treatments for sinus headaches, with guidance on when to see a doctor.",
         "url": "https://rajhospitals.com/blog/how-to-cure-a-sinus-headache/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -171,7 +171,7 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> July 31, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by ENT &amp; <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> ENT &amp; <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
                 </div>
             </div>
 
@@ -349,7 +349,7 @@
                     <div class="raj-author-avatar">RH</div>
                     <div>
                         <strong class="raj-author-name">ENT &amp; Neurology Team, RAJ Hospital</strong>
-                        <p class="raj-author-meta">Last Updated: July 31, 2026 · Reviewed by Consultant ENT Surgeon &amp; Neurologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="raj-author-meta">Last Updated: July 31, 2026 · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 

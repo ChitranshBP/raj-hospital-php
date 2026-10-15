@@ -308,8 +308,8 @@
                             </div>
                             <div class="p-5">
                                 <h3 class="text-lg font-bold text-gray-900 mb-1">Dr. Vivek Raj</h3>
-                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, MCh</p>
-                                <p class="text-secondary-600 text-sm mb-3">Neurology & Neurosurgery</p>
+                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, DNB</p>
+                                <p class="text-secondary-600 text-sm mb-3">Neurosurgery (Brain & Spine)</p>
                                 <a href="doctors/vivek-raj.php" class="block text-center w-full bg-primary-50 text-primary-600 py-2 rounded-lg border border-primary-200 hover:bg-primary-500 hover:text-white transition-colors font-medium text-sm">
                                     View Profile
                                 </a>

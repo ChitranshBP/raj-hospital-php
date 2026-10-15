@@ -18,7 +18,7 @@ $doctor = [
             'year' => ''
         ],
         [
-            'degree' => 'MBBS (Radiodiagnosis)',
+            'degree' => 'MBBS',
             'institution' => 'MGM Jamshedpur',
             'year' => ''
         ]

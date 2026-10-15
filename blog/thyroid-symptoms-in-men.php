@@ -364,7 +364,7 @@
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">थायरॉइड का Expert इलाज</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में thyroid function tests, ultrasound, और complete endocrine care available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में thyroid function tests, ultrasound और doctor consultation उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
@@ -386,7 +386,7 @@
                 </div>
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Thyroid Symptoms in Men पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Thyroid Symptoms in Men पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">पुरुषों में थायरॉइड के लक्षण - हाइपोथायरायडिज्म और हाइपरथायरायडिज्म। Ranchi में best thyroid treatment RAJ Hospital में।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए thyroid एक common problem है। Proper diagnosis और treatment से thyroid को manage किया जा सकता है।</p>
                 </section>
@@ -402,8 +402,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 23, 2026 | Reviewed by Senior Endocrinologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 23, 2026</p>
                     </div>
                 </div>
             </div>

@@ -8,15 +8,15 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest? Doctor-Explained | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Which is more dangerous: heart attack or cardiac arrest? Cardiologists at RAJ Hospital Ranchi explain the survival rates, time-criticality, and how to respond to each emergency.">
+    <title>Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest? | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Which is more dangerous: heart attack or cardiac arrest? RAJ Hospital Ranchi explains the survival rates, time-criticality, and how to respond to each emergency.">
     <meta name="keywords" content="which is more dangerous heart attack or cardiac arrest, heart attack vs cardiac arrest survival, sudden cardiac arrest survival, CPR survival rate, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/which-is-more-dangerous-heart-attack-or-cardiac-arrest/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
-    <meta property="og:title" content="Which Is More Dangerous: Heart Attack or Cardiac Arrest? Doctor-Explained">
-    <meta property="og:description" content="Cardiologist-reviewed comparison of heart attack vs cardiac arrest, with survival statistics and emergency response.">
+    <meta property="og:title" content="Which Is More Dangerous: Heart Attack or Cardiac Arrest?">
+    <meta property="og:description" content="Comparison of heart attack vs cardiac arrest, with survival statistics and emergency response.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/which-is-more-dangerous-heart-attack-or-cardiac-arrest/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/which-is-more-dangerous-heart-attack-or-cardiac-arrest.png">
@@ -43,7 +43,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest? Doctor-Explained",
+        "headline": "Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest?\",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-16",
@@ -71,7 +71,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest?",
-        "description": "A cardiologist-reviewed comparison of acute myocardial infarction and sudden cardiac arrest, with survival statistics and emergency response protocols.",
+        "description": "A comparison of acute myocardial infarction and sudden cardiac arrest, with survival statistics and emergency response protocols.",
         "url": "https://rajhospitals.com/blog/which-is-more-dangerous-heart-attack-or-cardiac-arrest/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -153,7 +153,7 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="/blog/assets/img/featured/which-is-more-dangerous-heart-attack-or-cardiac-arrest.png" alt="Which Is More Dangerous: Heart Attack or Cardiac Arrest - Doctor Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/which-is-more-dangerous-heart-attack-or-cardiac-arrest.png" alt="Which Is More Dangerous: Heart Attack or Cardiac Arrest - Guide" class="w-full h-full object-contain">
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">
@@ -163,14 +163,14 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 16, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology & Emergency Medicine Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Which is more dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> or cardiac arrest?</strong> It is one of the most-Googled cardiology questions in India, and one that the emergency and cardiology team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, fields every week. The short answer is: <em><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> arrest is the more immediately fatal event, but a heart attack is the more common cause of cardiac arrest, and both are time-critical emergencies.</em> This guide, written by a cardiologist for patients and families, compares the two on survival, time-to-treatment, and what you can do today to lower your risk.
+                    <strong>Which is more dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> or cardiac arrest?</strong> It is one of the most-Googled cardiology questions in India, and one that the emergency and cardiology team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, fields every week. The short answer is: <em><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> arrest is the more immediately fatal event, but a heart attack is the more common cause of cardiac arrest, and both are time-critical emergencies.</em> This guide compares the two on survival, time-to-treatment, and what you can do today to lower your risk.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -268,7 +268,7 @@
                     <span class="text-gray-700"> Tap shoulders, shout, call 108. If no breathing, start hands-only CPR at 100–120 compressions/min, 5–6 cm deep, allowing full chest recoil. Use an AED if available. The 24×7 cardiac ER at <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a> continues the chain of survival.</span>
                 </div>
 
-                <h2 class="raj-h2">Final Word from the Cardiology Team</h2>
+                <h2 class="raj-h2">Final Word</h2>
                 <p class="text-gray-700 mb-4">
                     At <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>, the cardiology and emergency medicine teams treat heart attacks and cardiac arrests side by side every day. The patterns are clear: a heart attack, if treated quickly, is largely survivable. A cardiac arrest, if untreated, is largely fatal. The single biggest difference the public can make is to <strong>learn CPR</strong> and to <strong>call early</strong>. Both are free, both save lives, and both are available to every reader of this article.
                 </p>
@@ -287,7 +287,7 @@
                         <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/difference-between-heart-attack-and-cardiac-arrest.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack vs Cardiac Arrest — Key Differences</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत</a></li>
-                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Guide</a></li>
                         <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk & Prevention</a></li>
                         <li><a href="/blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Se Kaise Bachen — 15 Tips for a Healthy Heart</a></li>
                     </ul>
@@ -318,8 +318,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-red-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Cardiology & Emergency Medicine Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 16, 2026 · Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <strong class="text-gray-800">RAJ Hospital Editorial Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: June 16, 2026  · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

@@ -7,15 +7,15 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Is yawning a sign of a heart attack? Cardiologists at RAJ Hospital Ranchi explain the link between excessive yawning, vasovagal response, and heart attack — when to worry and when it is harmless.">
+    <title>Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Causes & Warning Signs Explained | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Is yawning a sign of a heart attack? RAJ Hospital Ranchi explains the link between excessive yawning, vasovagal response, and heart attack — when to worry and when it is harmless.">
     <meta name="keywords" content="is yawning a sign of heart attack, excessive yawning heart, yawning before heart attack, vagus nerve yawn, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
-    <meta property="og:title" content="Is Yawning a Sign of a Heart Attack? Doctor-Explained Guide">
-    <meta property="og:description" content="Cardiologist-reviewed guide on excessive yawning and its link to heart attack.">
+    <meta property="og:title" content="Is Yawning a Sign of a Heart Attack? Causes & Warning Signs Explained">
+    <meta property="og:description" content="Guide on excessive yawning and its link to heart attack.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/is-yawning-a-sign-of-a-heart-attack.png">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide",
+        "headline": "Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Causes & Warning Signs Explained",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-10",
@@ -70,7 +70,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?",
-        "description": "Cardiologist-reviewed guide to excessive yawning, the vagus nerve, and when yawning may signal a heart attack or other medical condition.",
+        "description": "Guide to excessive yawning, the vagus nerve, and when yawning may need medical attention.",
         "url": "https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -158,12 +158,12 @@
 
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-blue-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Doctor-Explained Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Causes & Warning Signs Explained</h1>
                 <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 10, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology & <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Cardiology & <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
                 </div>
             </div>
 
@@ -275,7 +275,7 @@
                         <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत</a></li>
                         <li><a href="/blog/difference-between-heart-attack-and-cardiac-arrest.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack vs Cardiac Arrest — Key Differences</a></li>
-                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Causes & Warning Signs Explained</a></li>
                         <li><a href="/blog/can-gas-cause-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Gas Cause a Heart Attack? — Symptoms & Red Flags</a></li>
                         <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk & Prevention</a></li>
                     </ul>
@@ -307,7 +307,7 @@
                     <div class="w-16 h-16 rounded-full bg-blue-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Cardiology & Neurology Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 10, 2026 · Reviewed by Consultant Cardiologist & Neurologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="text-sm text-gray-500">Last Updated: June 10, 2026 · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

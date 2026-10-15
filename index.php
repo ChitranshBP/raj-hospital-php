@@ -1195,7 +1195,7 @@ Best Hospital in Jharkhand
                                 $h_t = preg_replace('/\s*[\|\-–—]\s*RAJ Hospital.*$/i', '', $h_t);
                                 if ($h_t !== '') $h_title = $h_t;
                             }
-                            $h_excerpt = 'Read this health guide from RAJ Hospital specialists.';
+                            $h_excerpt = 'Read this health guide from RAJ Hospital.';
                             if (preg_match('/<meta\s+name=["\']description["\']\s+content=["\']([^"\']+)["\']/i', $h_contents, $hm_ex)) {
                                 $h_excerpt = trim(html_entity_decode($hm_ex[1], ENT_QUOTES, 'UTF-8'));
                             }

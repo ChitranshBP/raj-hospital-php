@@ -212,7 +212,7 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> September 2, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Emergency Medicine Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Ranchi Editorial Team</span>
                 </div>
             </div>
 
@@ -414,7 +414,7 @@
                     <div class="w-16 h-16 shrink-0 rounded-full bg-red-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Emergency Medicine Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Last updated: September 2, 2026 &middot; Reviewed by our emergency and critical care consultants &middot; <a href="/contact" class="text-secondary-600 hover:underline">Contact &amp; directions</a></p>
+                        <p class="text-sm text-gray-500">Last updated: September 2, 2026 &middot; <a href="/contact" class="text-secondary-600 hover:underline">Contact &amp; directions</a></p>
                     </div>
                 </div>
 

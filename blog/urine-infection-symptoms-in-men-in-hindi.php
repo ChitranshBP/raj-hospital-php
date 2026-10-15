@@ -358,7 +358,7 @@
                 </div>
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Urine Infection Symptoms in Men पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Urine Infection Symptoms in Men पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">पुरुषों में मूत्र संक्रमण (UTI) के लक्षण - कारण, इलाज और बचाव। Ranchi में best urology treatment RAJ Hospital में।</p>
                 </section>
 
@@ -373,8 +373,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 23, 2026 | Reviewed by Senior Urologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 23, 2026</p>
                     </div>
                 </div>
             </div>

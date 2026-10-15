@@ -78,7 +78,7 @@ include($base_url . 'header.php');
                         </div>
                         <div class="flex items-center gap-2">
                             <i data-feather="user-check" class="w-5 h-5 text-[#E31C23]"></i>
-                            <span>Verified Specialist</span>
+                            <span>RAJ Hospitals Doctor</span>
                         </div>
                     </div>
                     <button onclick="openBookingModal('Dr. Suraj Mani Bhattacharjee')"
@@ -122,8 +122,8 @@ include($base_url . 'header.php');
                             $expertise = [
                                 'Cosmetic Dentistry',
                                 'Implantology',
-                                'Laser Specialist',
-                                'Smile Designer',
+                                'Laser Dentistry',
+                                'Smile Design',
                                 'Dental Filling',
                                 'Root Canal Treatment (RCT)',
                                 'Crowns & Bridges',

@@ -590,7 +590,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital के नेफ्रोलॉजी विशेषज्ञ। गुर्दे की बीमारियों का प्रभावी इलाज। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की health information team द्वारा तैयार सामान्य जानकारी। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

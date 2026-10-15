@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fits Ka Ilaj - Epilepsy Treatment in Hindi | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Fits (मिरगी/अपस्मार) का इलाज कैसे होता है। Ranchi में best epilepsy treatment, दवाइयां, और नियंत्रण के उपाय। RAJ Hospital के expert neurologists द्वारा।">
+    <meta name="description" content="Fits (मिरगी/अपस्मार) का इलाज कैसे होता है। Ranchi में best epilepsy treatment, दवाइयां, और नियंत्रण के उपाय। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।">
     <meta name="keywords" content="fits ka ilaj, epilepsy treatment, mirgi ilaj, apsmaar ilaj, seizure treatment ranchi, neurologist ranchi, brain specialist ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/fits-ka-ilaj/">
@@ -572,8 +572,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Fits Ka Ilaj - Epilepsy Treatment in Hindi पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Fits (मिरगी/अपस्मार) का इलाज कैसे होता है। Ranchi में best epilepsy treatment, दवाइयां, और नियंत्रण के उपाय। RAJ Hospital के expert neurologists द्वारा।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Fits Ka Ilaj - Epilepsy Treatment in Hindi: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Fits (मिरगी/अपस्मार) का इलाज कैसे होता है। Ranchi में best epilepsy treatment, दवाइयां, और नियंत्रण के उपाय। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Fits Ka Ilaj - Epilepsy Treatment in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -625,8 +625,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026 | Reviewed by Senior Neurologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026</p>
                     </div>
                 </div>
             </div>

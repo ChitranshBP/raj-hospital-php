@@ -402,11 +402,11 @@
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-gray-900 mb-1">Dr. Vivek Raj</h3>
-                                <p class="text-primary-600 font-medium mb-2">MBBS, MS, MCh</p>
+                                <p class="text-primary-600 font-medium mb-2">MBBS, MS, DNB</p>
                                 <p class="text-secondary-600 text-sm mb-3">Neurology & Neurosurgery</p>
                                 <div class="flex items-center text-sm text-gray-500 mb-4">
                                     <i data-feather="award" class="w-4 h-4 mr-2"></i>
-                                    <span>18+ Years Experience</span>
+                                    <span>9+ Years Experience</span>
                                 </div>
                                 <a href="../contact.php"
                                     class="w-full bg-primary-500 text-white py-3 rounded-lg hover:bg-primary-600 transition-colors font-medium flex items-center justify-center space-x-2 mb-2">

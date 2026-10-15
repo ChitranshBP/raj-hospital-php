@@ -13,7 +13,7 @@ $base_url = '../';
     <meta name="author" content="RAJ Hospital Ranchi">
     <link rel="canonical" href="https://rajhospitals.com/blog/kya-dermatologist-baalon-ke-jhadne-ka-ilaj-kar-sakte-hain/">
     <meta property="og:title" content="क्या डर्मेटोलॉजिस्ट बालों के झड़ने का इलाज कर सकते हैं? | RAJ Hospital">
-    <meta property="og:description" content="विशेषज्ञ त्वचा रोग विशेषज्ञ से जानिए बाल झड़ने के कारण, उपचार और बचाव के उपाय।">
+    <meta property="og:description" content="जानिए बाल झड़ने के कारण, उपचार और बचाव के उपाय।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/kya-dermatologist-baalon-ke-jhadne-ka-ilaj-kar-sakte-hain/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
@@ -528,7 +528,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital के त्वचा एवं बाल रोग विशेषज्ञ। हमारी टीम आपकी त्वचा और बालों की समस्याओं का प्रभावी इलाज करती है। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">यह लेख RAJ Hospital Ranchi द्वारा सामान्य स्वास्थ्य जानकारी के लिए तैयार किया गया है। व्यक्तिगत सलाह के लिए त्वचा रोग विशेषज्ञ (dermatologist) से मिलें। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

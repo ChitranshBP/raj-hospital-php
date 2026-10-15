@@ -8,14 +8,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>सिरदर्द का घरेलू इलाज | <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi - तुरंत राहत के उपाय | RAJ Hospital Ranchi</title>
-    <meta name="description" content="सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय जानें। पानी, आराम, सिकाई, मसाज और सही आदतों से headache में राहत पाएं। RAJ Hospital Ranchi के डॉक्टरों से जानें कब डॉक्टर को दिखाना जरूरी है।">
+    <meta name="description" content="सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय जानें। पानी, आराम, सिकाई, मसाज और सही आदतों से headache में राहत पाएं। जानें कब डॉक्टर को दिखाना जरूरी है।">
     <meta name="keywords" content="headache treatment at home in hindi, सिरदर्द का घरेलू इलाज, sir dard ka gharelu ilaj, सिरदर्द के घरेलू उपाय, sir dard ka ilaj, माइग्रेन का घरेलू इलाज, तुरंत सिरदर्द से राहत, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/headache-treatment-at-home-in-hindi/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="सिरदर्द का घरेलू इलाज | Headache Treatment at Home in Hindi">
-    <meta property="og:description" content="सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय — RAJ Hospital Ranchi के डॉक्टरों से।">
+    <meta property="og:description" content="सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय — RAJ Hospital Ranchi।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/headache-treatment-at-home-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/headache-treatment-at-home-in-hindi.png">
@@ -43,7 +43,7 @@
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)",
-        "description": "सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय, कारण, और कब डॉक्टर को दिखाना चाहिए — डॉक्टर द्वारा समीक्षित गाइड।",
+        "description": "सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय, कारण, और कब डॉक्टर को दिखाना चाहिए — हिंदी गाइड।",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -77,7 +77,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "सिरदर्द का घरेलू इलाज (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)",
-        "description": "सिरदर्द के घरेलू उपाय, कारण और चेतावनी संकेत — डॉक्टर द्वारा समीक्षित हिंदी गाइड।",
+        "description": "सिरदर्द के घरेलू उपाय, कारण और चेतावनी संकेत — हिंदी गाइड।",
         "url": "https://rajhospitals.com/blog/headache-treatment-at-home-in-hindi/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -172,14 +172,14 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> 31 जुलाई, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 मिनट पढ़ें</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital की न्यूरोलॉजी टीम द्वारा समीक्षित</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital स्वास्थ्य जानकारी टीम</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    सिरदर्द (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>) एक ऐसी समस्या है जो लगभग हर किसी को कभी न कभी होती है — और अच्छी बात यह है कि इनमें से ज्यादातर सिरदर्द को <strong>घर पर ही आसान उपायों से ठीक</strong> किया जा सकता है। पानी की कमी, तनाव, नींद पूरी न होना, स्क्रीन पर ज्यादा समय और भूखे रहना — इन आम कारणों को समझकर आप जल्दी राहत पा सकते हैं। <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची के सबसे अच्छे अस्पताल</a> के न्यूरोलॉजी विशेषज्ञों ने यहां <strong>सिरदर्द के 10 असरदार घरेलू उपाय</strong> बताए हैं — साथ ही यह भी कि कब आराम करने के बजाय डॉक्टर को दिखाना जरूरी है।
+                    सिरदर्द (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>) एक ऐसी समस्या है जो लगभग हर किसी को कभी न कभी होती है — और अच्छी बात यह है कि इनमें से ज्यादातर सिरदर्द को <strong>घर पर ही आसान उपायों से ठीक</strong> किया जा सकता है। पानी की कमी, तनाव, नींद पूरी न होना, स्क्रीन पर ज्यादा समय और भूखे रहना — इन आम कारणों को समझकर आप जल्दी राहत पा सकते हैं। <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची के सबसे अच्छे अस्पताल</a> की इस गाइड में <strong>सिरदर्द के 10 असरदार घरेलू उपाय</strong> बताए हैं — साथ ही यह भी कि कब आराम करने के बजाय डॉक्टर को दिखाना जरूरी है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -320,7 +320,7 @@
                     <div class="raj-author-avatar">RH</div>
                     <div>
                         <strong class="raj-author-name">न्यूरोलॉजी टीम, RAJ Hospital</strong>
-                        <p class="raj-author-meta">अंतिम अपडेट: 31 जुलाई, 2026 · कंसल्टेंट न्यूरोलॉजिस्ट द्वारा समीक्षित · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="raj-author-meta">अंतिम अपडेट: 31 जुलाई, 2026 · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 

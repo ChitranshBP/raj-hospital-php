@@ -654,7 +654,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital के एंडोक्रिनोलॉजिस्ट और पोषण विशेषज्ञ। डायबिटीज़ की देखभाल में विशेषज्ञता। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">यह लेख सामान्य जानकारी के लिए RAJ Hospital Health Desk द्वारा तैयार किया गया है। व्यक्तिगत डाइट प्लान के लिए डॉक्टर या पोषण विशेषज्ञ से मिलें। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

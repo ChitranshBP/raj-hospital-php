@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>गर्भावस्था में क्या काम नहीं करना चाहिए | RAJ Hospital Ranchi</title>
-    <meta name="description" content="गर्भावस्था में क्या काम नहीं करना चाहिए - जानिए किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital Ranchi के विशेषज्ञ डॉक्टरों द्वारा सुझाई गई महत्वपूर्ण बातें।">
+    <meta name="description" content="गर्भावस्था में क्या काम नहीं करना चाहिए - जानिए किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।">
     <meta name="keywords" content="गर्भावस्था में क्या नहीं करना चाहिए, pregnancy tips in hindi, garbhvastha me avoid karna, pregnant women tips hindi, गर्भावस्था की सावधानियां">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/garbhavastha-me-kya-kaam-nahi-karna-chahiye/">
@@ -24,7 +24,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "गर्भावस्था में क्या काम नहीं करना चाहिए - पूर्ण मार्गदर्शिका",
-        "description": "गर्भावस्था में किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital के विशेषज्ञ डॉक्टरों द्वारा सुझाई गई महत्वपूर्ण बातें।",
+        "description": "गर्भावस्था में किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital की स्वास्थ्य जानकारी।",
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
         "author": {
@@ -537,8 +537,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए - जानिए किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital Ranchi के विशेषज्ञ डॉक्टरों द्वारा सुझाई गई महत्वपूर्ण बातें।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए - जानिए किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। गर्भावस्था में क्या काम नहीं करना चाहिए शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -588,8 +588,8 @@
                 <div class="flex items-center gap-4 bg-purple-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-medical-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">अंतिम अपडेट: 22 मई, 2026 | वरिष्ठ स्त्री रोग विशेषज्ञ द्वारा समीक्षित</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">अंतिम अपडेट: 22 मई, 2026</p>
                     </div>
                 </div>
             </div>

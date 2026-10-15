@@ -358,7 +358,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">Classic Heart Attack Symptoms in Men</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Men are more likely to experience the <strong>"classic"</strong> heart attack symptoms that most people recognize. According to our cardiology specialists at RAJ Hospital, these symptoms should never be ignored:
+                    Men are more likely to experience the <strong>"classic"</strong> heart attack symptoms that most people recognize. These symptoms should never be ignored:
                 </p>
 
                 <div class="space-y-4 mb-6">
@@ -368,7 +368,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">2. Pain Radiating to Left Arm</h4>
-                        <p class="text-sm text-gray-600">Pain that spreads from the chest to the left arm, shoulder, elbow, wrist, or even the fingers is a classic warning sign. This occurs because the nerves that supply the heart and arm share the same pathways in the spinal cord. Our <a href="/doctor-profile.php" class="text-primary-500 hover:underline">cardiac specialists</a> recommend immediate evaluation for any such symptoms.</p>
+                        <p class="text-sm text-gray-600">Pain that spreads from the chest to the left arm, shoulder, elbow, wrist, or even the fingers is a classic warning sign. This occurs because the nerves that supply the heart and arm share the same pathways in the spinal cord. Any such symptoms need immediate medical evaluation.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">3. Jaw, Neck, and Back Pain</h4>
@@ -596,7 +596,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack Symptoms in Men vs Women: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Heart attack symptoms differ significantly between men and women. Learn the warning signs unique to each gender, when to seek emergency care, and how RAJ Hospital Ranchi provides 24/7 cardiac emergency treatment.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -648,8 +648,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-500 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Cardiology Department | Last Updated: May 22, 2026</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026</p>
                     </div>
                 </div>
 

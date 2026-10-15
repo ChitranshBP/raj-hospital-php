@@ -422,7 +422,7 @@
                 </div>
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Kidney Stone Symptoms in Men पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Kidney Stone Symptoms in Men पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय। Ranchi में best kidney stone treatment RAJ Hospital में।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि symptoms को सही medical context में समझा जाए। Kidney Stone Symptoms in Men शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण dehydration, diet, infection, या किसी गंभीर condition से जुड़ा हो सकता है।</p>
                 </section>
@@ -442,8 +442,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 23, 2026 | Reviewed by Senior Urologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 23, 2026</p>
                     </div>
                 </div>
             </div>

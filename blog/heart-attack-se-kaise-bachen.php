@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart | RAJ Hospital</title>
-    <meta name="description" content="Heart attack se kaise bachen - Janiye 15 powerful tips jo aapke heart ko healthy rakhenge aur heart attack ka risk kam karenge. RAJ Hospital Ranchi ke neurology experts se practical guidence.">
+    <meta name="description" content="Heart attack se kaise bachen - Janiye 15 powerful tips jo aapke heart ko healthy rakhenge aur heart attack ka risk kam karenge. RAJ Hospital Ranchi se practical guidance.">
     <meta name="keywords" content="heart attack se kaise bachen, heart attack prevention, heart health tips in hindi, dil ka sehat, heart attack symptoms, cholesterol control, blood pressure control, heart care tips">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/heart-attack-se-kaise-bachen/">
@@ -123,7 +123,7 @@
                 "name": "Exercise kitna zaroori hai heart health ke liye?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Raj Hospital Ranchi ke <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> experts kehta hain ki hafte mein kam se kam 150 minutes moderate exercise ya 75 minutes vigorous exercise zaroori hai. Daily 30 minutes walk, jogging, swimming, ya cycling karein. Sedentary lifestyle se bachein aur regular physical activity ko apni routine ka hissa banayein."
+                    "text": "Guidelines ke anusaar hafte mein kam se kam 150 minutes moderate exercise ya 75 minutes vigorous exercise zaroori hai. Daily 30 minutes walk, jogging, swimming, ya cycling karein. Sedentary lifestyle se bachein aur regular physical activity ko apni routine ka hissa banayein."
                 }
             },
             {
@@ -273,7 +273,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    Is comprehensive guide mein, hum aapko <strong>15 powerful tips</strong> batayenge jo aapke heart ko healthy rakhenge aur heart attack ka risk significantly kam karenge. Yeh tips RAJ Hospital Ranchi ke experienced <a href="/doctor-profile.php" class="text-primary-600 hover:underline">cardiologists aur neurologists</a> ki expertise par based hain.
+                    Is comprehensive guide mein, hum aapko <strong>15 powerful tips</strong> batayenge jo aapke heart ko healthy rakhenge aur heart attack ka risk significantly kam karenge. Yeh tips standard heart-health guidelines par based hain.
                 </p>
 
                 <!-- Warning Box -->
@@ -334,7 +334,7 @@
                 <h2 class="raj-h2-secondary">15 Powerful Tips: Heart Attack Se Kaise Bachen</h2>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital Ranchi ke <a href="/doctor-profile.php" class="text-primary-600 hover:underline">heart specialists</a> ne ye 15 proven tips diye hain jinhe follow karke aap apne heart ko healthy rakh sakte hain aur heart attack se bachein:
+                    Ye 15 tips jinhe follow karke aap apne heart ko healthy rakh sakte hain aur heart attack se bachein:
                 </p>
 
                 <!-- Tip 1 -->
@@ -644,8 +644,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Heart attack se kaise bachen - Janiye 15 powerful tips jo aapke heart ko healthy rakhenge aur heart attack ka risk kam karenge. RAJ Hospital Ranchi ke neurology experts se practical guidence.</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack Se Kaise Bachen: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Heart attack se kaise bachen - Janiye 15 powerful tips jo aapke heart ko healthy rakhenge aur heart attack ka risk kam karenge. RAJ Hospital Ranchi se practical guidance.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -696,8 +696,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026 | Reviewed by Senior Cardiologist & Neurologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Last Updated: May 22, 2026</p>
                     </div>
                 </div>
             </div>

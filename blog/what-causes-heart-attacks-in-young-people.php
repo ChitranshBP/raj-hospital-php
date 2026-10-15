@@ -8,14 +8,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>What Causes Heart Attacks in Young People? Signs, Risk Factors & Prevention | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Why are heart attacks rising in young adults? Cardiologists at RAJ Hospital Ranchi explain the causes, warning signs and risk factors of heart attacks in people under 40 — plus a clear prevention plan.">
+    <meta name="description" content="Why are heart attacks rising in young adults? RAJ Hospital Ranchi explains the causes, warning signs and risk factors of heart attacks in people under 40 — plus a clear prevention plan.">
     <meta name="keywords" content="what causes heart attacks in young people, heart attack in young adults, heart attack under 40, causes of heart attack in youth, heart attack risk factors young, SCAD, familial hypercholesterolemia, RAJ Hospital Ranchi, best hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/what-causes-heart-attacks-in-young-people/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="What Causes Heart Attacks in Young People? Signs, Risk Factors & Prevention">
-    <meta property="og:description" content="Cardiologist-reviewed guide on why heart attacks are rising in young adults — causes, warning signs and how to prevent them.">
+    <meta property="og:description" content="Guide on why heart attacks are rising in young adults — causes, warning signs and how to prevent them.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/what-causes-heart-attacks-in-young-people/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/what-causes-heart-attacks-in-young-people.png">
@@ -43,7 +43,7 @@
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "What Causes Heart Attacks in Young People? Signs, Risk Factors & Prevention",
-        "description": "Cardiologist-reviewed guide explaining why heart attacks are rising in young adults, the warning signs, and how to lower your risk.",
+        "description": "Guide explaining why heart attacks are rising in young adults, the warning signs, and how to lower your risk.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -76,7 +76,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "What Causes Heart Attacks in Young People?",
-        "description": "Doctor-reviewed guide on the causes, warning signs and risk factors of heart attacks in young adults, with a prevention plan.",
+        "description": "Guide on the causes, warning signs and risk factors of heart attacks in young adults, with a prevention plan.",
         "url": "https://rajhospitals.com/blog/what-causes-heart-attacks-in-young-people/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -160,7 +160,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="/blog/assets/img/featured/what-causes-heart-attacks-in-young-people.png" alt="What Causes Heart Attacks in Young People - Cardiologist Guide, RAJ Hospital Ranchi" class="w-full h-full object-contain" onerror="this.onerror=null;this.src='/blog/assets/img/Copy-of-Raj-Hospitals.jpg';">
+                <img src="/blog/assets/img/featured/what-causes-heart-attacks-in-young-people.png" alt="What Causes Heart Attacks in Young People - Guide, RAJ Hospital Ranchi" class="w-full h-full object-contain" onerror="this.onerror=null;this.src='/blog/assets/img/Copy-of-Raj-Hospitals.jpg';">
             </div>
 
             <!-- Hero Header -->
@@ -171,7 +171,7 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> July 31, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
                 </div>
             </div>
 
@@ -355,7 +355,7 @@
                         <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk &amp; Prevention</a></li>
                         <li><a href="/blog/can-depression-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Depression Cause a Heart Attack? — The Hidden Connection</a></li>
-                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Guide</a></li>
                         <li><a href="/blog/heart-attack-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Men — Early Warning Signs</a></li>
                         <li><a href="/blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Se Kaise Bachen — 15 Powerful Tips for a Healthy Heart</a></li>
                     </ul>
@@ -388,8 +388,8 @@
                 <div class="raj-author-box">
                     <div class="raj-author-avatar">RH</div>
                     <div>
-                        <strong class="raj-author-name">Cardiology Team, RAJ Hospital</strong>
-                        <p class="raj-author-meta">Last Updated: July 31, 2026 · Reviewed by Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <strong class="raj-author-name">RAJ Hospital Editorial Team</strong>
+                        <p class="raj-author-meta">Last Updated: July 31, 2026  · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 

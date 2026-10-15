@@ -208,7 +208,7 @@
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> September 2, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Neuro &amp; Spine Surgery Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
                 </div>
             </div>
 
@@ -437,8 +437,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 shrink-0 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Neuro &amp; Spine Surgery Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Last updated: September 2, 2026 &middot; Medically reviewed by our consultant neurosurgeons and spine specialists &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <strong class="text-gray-800">RAJ Hospital Team</strong>
+                        <p class="text-sm text-gray-500">Last updated: September 2, 2026 &middot; For general health awareness only &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 
