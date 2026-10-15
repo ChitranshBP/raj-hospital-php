@@ -392,7 +392,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">How many attendants can stay with the patient?</h3>
-                        <p class="text-gray-700">Usually one inside the treatment area, with the rest waiting outside. This is not obstruction. Emergency bays are narrow, resuscitation needs unobstructed access, and other patients have a right to privacy. The single attendant should be the person who knows the medical history best, not simply the most senior family member present.</p>
+                        <p class="text-gray-700">Usually one inside the treatment area, with the rest waiting outside. This is not obstruction. Emergency bays are narrow, resuscitation needs unobstructed access, and other patients have a right to privacy. The single attendant should be the person who knows the medical history most closely, not simply the most senior family member present.</p>
                     </div>
                 </div>
 

@@ -356,7 +356,7 @@ Ultrasound Centre in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Ultrasound</h3>
-                        <p class="text-gray-600 mb-4">A safe and painless non-invasive procedure using sound waves to
+                        <p class="text-gray-600 mb-4">A non-invasive procedure using sound waves to
                             visualize soft tissues, organs, and blood flow.</p>
                     </div>
                 </div>

@@ -29,13 +29,7 @@ $doctor = [
         ]
     ],
     'memberships' => [],
-    'awards' => [
-        [
-            'title' => 'Global Healthcare Excellence Award',
-            'organization' => '',
-            'year' => ''
-        ]
-    ],
+    'awards' => [],
     'contact' => [
         'phone' => '+919771488888'
     ]

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Maternity Hospital in Ranchi | RAJ Hospital - Women's Care</title>
+    <title>Maternity Hospital in Ranchi | RAJ Hospital - Women's Care</title>
     <meta name="description" content="Ranchi में सही maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।">
     <meta name="keywords" content="right maternity hospital ranchi, delivery hospital ranchi, pregnancy hospital ranchi, gynecologist ranchi, normal delivery ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Best Maternity Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Maternity Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Best Maternity Hospital in Ranchi | RAJ Hospital - Women's Care",
+        "headline": "Maternity Hospital in Ranchi | RAJ Hospital - Women's Care",
         "description": "Ranchi में सही maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।",
         "url": "https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-maternity-hospital-in-ranchi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Best Maternity Hospital in Ranchi | RAJ Hospital - Women's Care"
+                "name": "Maternity Hospital in Ranchi | RAJ Hospital - Women's Care"
             }
         ]
     }
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi</span>
+            <span class="text-gray-700"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi</span>
         </nav>
     </div>
 
@@ -211,7 +211,7 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi: Complete Guide for Expecting Mothers</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi: Complete Guide for Expecting Mothers</h1>
                 <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 22, 2026</span>
@@ -223,7 +223,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    Choosing the <strong>best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospital in Ranchi</strong> is one of the most important decisions an expectant mother will make. <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> and childbirth are beautiful yet complex journeys that require expert medical care, modern facilities, and compassionate support. With numerous hospitals offering maternity services in Ranchi, finding the right one can feel overwhelming.
+                    Choosing the <strong>right <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospital in Ranchi</strong> is one of the most important decisions an expectant mother will make. <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> and childbirth are beautiful yet complex journeys that require expert medical care, modern facilities, and compassionate support. With numerous hospitals offering maternity services in Ranchi, finding the right one can feel overwhelming.
                 </p>
 
                 <p class="text-gray-700 mb-6">

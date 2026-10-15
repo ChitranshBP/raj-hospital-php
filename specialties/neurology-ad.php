@@ -380,7 +380,7 @@ Nervous System Specialist in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">EEG (Electroencephalogram)</h3>
-                        <p class="text-gray-600 mb-4">A painless test to record brain's electrical activity used for
+                        <p class="text-gray-600 mb-4">A non-invasive test to record the brain's electrical activity used for
                             diagnosing epilepsy, seizures, and sleep disorders.</p>
                     </div>
                 </div>

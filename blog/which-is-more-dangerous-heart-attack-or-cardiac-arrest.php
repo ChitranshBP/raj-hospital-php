@@ -195,9 +195,9 @@
                         </thead>
                         <tbody class="divide-y divide-gray-100 text-gray-700">
                             <tr><td class="p-3 font-semibold">Time to irreversible damage</td><td class="p-3">20–40 min (heart muscle)</td><td class="p-3">4–10 min (brain)</td></tr>
-                            <tr><td class="p-3 font-semibold">In-hospital mortality (best centres)</td><td class="p-3">4–8%</td><td class="p-3">About 75–80% (in-hospital arrest); over 90% (out-of-hospital)</td></tr>
+                            <tr><td class="p-3 font-semibold">In-hospital mortality (well-equipped centres)</td><td class="p-3">4–8%</td><td class="p-3">About 75–80% (in-hospital arrest); over 90% (out-of-hospital)</td></tr>
                             <tr><td class="p-3 font-semibold">Out-of-hospital survival (India)</td><td class="p-3">85–92% (if PCI in time)</td><td class="p-3">1–3%</td></tr>
-                            <tr><td class="p-3 font-semibold">Survival in best systems (Scandinavia, Japan, Seattle)</td><td class="p-3">95%+</td><td class="p-3">10–25%</td></tr>
+                            <tr><td class="p-3 font-semibold">Survival in high-performing systems (Scandinavia, Japan, Seattle)</td><td class="p-3">95%+</td><td class="p-3">10–25%</td></tr>
                             <tr><td class="p-3 font-semibold">Time to definitive treatment</td><td class="p-3">Door-to-balloon &lt;90 min</td><td class="p-3">Defibrillation &lt;3–5 min, ICU within 30 min</td></tr>
                             <tr><td class="p-3 font-semibold">Most common immediate cause of death</td><td class="p-3">Pump failure, arrhythmia, rupture</td><td class="p-3">Brain death from anoxia</td></tr>
                             <tr><td class="p-3 font-semibold">Single biggest survival lever</td><td class="p-3">Reaching a PCI-capable hospital</td><td class="p-3">Bystander CPR within 1 minute</td></tr>

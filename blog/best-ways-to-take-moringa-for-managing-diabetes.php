@@ -345,7 +345,7 @@
                         <li><strong>With ginger:</strong> Add a small piece of fresh ginger for added benefits</li>
                         <li><strong>Moringa chai:</strong> Prepare with tea spices ( cardamom, cinnamon, cloves) - avoid regular sugar</li>
                     </ul>
-                    <p class="text-sm text-secondary-600"><strong>Tip:</strong> There is no proven best time; monitor your blood sugar and follow your doctor's advice</p>
+                    <p class="text-sm text-secondary-600"><strong>Tip:</strong> There is no proven ideal time; monitor your blood sugar and follow your doctor's advice</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">3. Moringa Capsules/Supplements</h3>
@@ -511,7 +511,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Is there a right time to take moringa?</h4>
-                        <p class="text-gray-700">There is no proven best time to take moringa. If your doctor agrees to it, take it consistently and monitor your blood sugar, as it may add to the effect of diabetes medicines.</p>
+                        <p class="text-gray-700">There is no proven ideal time to take moringa. If your doctor agrees to it, take it consistently and monitor your blood sugar, as it may add to the effect of diabetes medicines.</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->

@@ -318,7 +318,7 @@ Cancer Treatment in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art diagnostic imaging including CT, MRI,
+                                    <span class="text-gray-700">Diagnostic imaging including CT, MRI,
                                         PET scans</span>
                                 </div>
                             </div>
