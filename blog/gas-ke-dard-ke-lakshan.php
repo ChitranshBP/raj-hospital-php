@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है। Ranchi के best gastroenterologists और neurologists की advice।">
+    <meta name="description" content="Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।">
     <meta name="keywords" content="gas ke dard ke lakshan, pet me gas, gas pain symptoms, gas problem, pet dard, abdominal pain, gastric problems, गैस के लक्षण, पेट में गैस">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/gas-ke-dard-ke-lakshan/">
@@ -226,7 +226,7 @@
             "name": "पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -562,7 +562,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-primary-500 to-primary-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Gas Problems के लिए RAJ Hospital Ranchi में Appointment लें</h3>
-                    <p class="opacity-90 mb-4">हमारे expert gastroenterologists और neurologists आपकी comprehensive checkup करेंगे।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital में gastroenterology विभाग में जांच और सलाह उपलब्ध है।</p>
                     <div class="flex flex-wrap justify-center gap-4">
                         <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                         <a href="/doctor-profile.php" class="inline-block bg-primary-700 text-white font-bold px-6 py-2 rounded-lg hover:bg-primary-800 transition-colors">Meet Our Doctors</a>
@@ -605,7 +605,7 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms &amp; Treatment: ज़रूरी जानकारी</h2>
-                    <p class="text-gray-700 mb-4">Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है। Ranchi के best gastroenterologists और neurologists की advice।</p>
+                    <p class="text-gray-700 mb-4">Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms &amp; Treatment शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में पाचन और सामान्य स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -648,7 +648,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>दिल का दौरा लक्षण (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms) - Complete Hindi Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) जानें। जानें heart attack के early signs, Warning signals और कब तुरंत doctor से मिलना चाहिए। Ranchi में best cardiac care।">
+    <meta name="description" content="दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) जानें। जानें heart attack के early signs, Warning signals और कब तुरंत doctor से मिलना चाहिए। RAJ Hospital Ranchi में cardiac care।">
     <meta name="keywords" content="heart attack symptoms, heart attack in hindi, दिल का दौरा, heart attack ke lakshan, heart attack signs, heart attack warning signs, cardiac symptoms, heart disease symptoms, heart attack prevention, heart care ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/">
@@ -208,7 +208,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -483,7 +483,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-red-600 to-red-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">दिल की जांच (Heart Checkup) कराना चाहते हैं?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में ECG, Echocardiography, Stress Test, और Angiography available है। हमारे expert cardiologists से appointment book करें।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में ECG, Echocardiography, Stress Test, और Angiography available है। हमारे cardiologists से appointment book करें।</p>
                     <a href="/contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment Now</a>
                 </div>
 
@@ -541,7 +541,7 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">दिल का दौरा लक्षण (Heart Attack Symptoms): ज़रूरी जानकारी</h2>
-                    <p class="text-gray-700 mb-4">दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) जानें। जानें heart attack के early signs, Warning signals और कब तुरंत doctor से मिलना चाहिए। Ranchi में best cardiac care।</p>
+                    <p class="text-gray-700 mb-4">दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) जानें। जानें heart attack के early signs, Warning signals और कब तुरंत doctor से मिलना चाहिए। RAJ Hospital Ranchi में cardiac care।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। दिल का दौरा लक्षण (Heart Attack Symptoms) शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -584,7 +584,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

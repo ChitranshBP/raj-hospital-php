@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Shyam Prasad – Emergency Medicine in Ranchi</title>
     <meta name="description" content="Dr. Shyam Prasad is an Emergency Medicine specialist at Raj Hospital, Ranchi with 12+ years in trauma & emergency care. Book an appointment today.">
-    <meta name="keywords" content="Dr. Shyam Prasad, Emergency in Ranchi, Best Emergency in Ranchi, Dr. Shyam Prasad Raj Hospital Ranchi, emergency doctor Ranchi">
+    <meta name="keywords" content="Dr. Shyam Prasad, Emergency in Ranchi, Emergency medicine specialist in Ranchi, Dr. Shyam Prasad Raj Hospital Ranchi, emergency doctor Ranchi">
     <meta property="og:title" content="Dr. Shyam Prasad – Emergency Medicine in Ranchi">
     <meta property="og:description" content="Dr. Shyam Prasad is an Emergency Medicine specialist at Raj Hospital, Ranchi with 12+ years in trauma & emergency care. Book an appointment today.">
     <meta property="og:type" content="profile">

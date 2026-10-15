@@ -195,7 +195,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -261,7 +261,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>ग्रीन टी (Green Tea)</strong> दुनिया की सबसे लोकप्रिय और healthiest beverages में से एक है। चीन और जापान में सदियों से <strong>green tea ke fayde</strong> (ग्रीन टी के फायदे) जाने जाते हैं और आज यह पूरी दुनिया में health enthusiasts के बीच popular है। ग्रीन टी में powerful antioxidants, vitamins, और minerals होते हैं जो हमारे शरीर और दिमाग दोनों के लिए अद्भुत फायदे प्रदान करते हैं।
+                    <strong>ग्रीन टी (Green Tea)</strong> दुनिया के लोकप्रिय पेय पदार्थों में से एक है। चीन और जापान में सदियों से <strong>green tea ke fayde</strong> (ग्रीन टी के फायदे) जाने जाते हैं और आज यह पूरी दुनिया में health enthusiasts के बीच popular है। ग्रीन टी में powerful antioxidants, vitamins, और minerals होते हैं जो हमारे शरीर और दिमाग दोनों के लिए अद्भुत फायदे प्रदान करते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -364,7 +364,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Research के अनुसार, ग्रीन टी में मौजूद catechins और caffeine मिलकर thermogenesis (calorie burning process) को increase करते हैं। यह especially belly fat reduction में helpful है। हालांकि, यह <strong>magic weight loss solution</strong> नहीं है - यह balanced diet और <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-green-600 hover:underline">regular exercise</a> के साथ ही काम करती है।
+                    Research के अनुसार, ग्रीन टी में मौजूद catechins और caffeine मिलकर thermogenesis (calorie burning process) को increase करते हैं।  हालांकि, यह <strong>magic weight loss solution</strong> नहीं है - यह balanced diet और <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-green-600 hover:underline">regular exercise</a> के साथ ही काम करती है।
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -397,7 +397,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="/head-injury-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Head injury recovery</a> में भी good nutrition जरूरी है और ग्रीन टी इसमें सहायक हो सकती है। साथ ही, <a href="/movement-disorders-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">movement disorders</a> के patients के लिए भी healthy lifestyle habits important हैं।
+                    <a href="/head-injury-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Head injury recovery</a>  साथ ही, <a href="/movement-disorders-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">movement disorders</a> के patients के लिए भी healthy lifestyle habits important हैं।
                 </p>
 
                 <!-- Section 7: How to Prepare -->
@@ -417,7 +417,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Best Time to Drink Green Tea:</strong>
+                    <strong>Green Tea पीने का सही समय:</strong>
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li>Morning - Energy boost के लिए</li>
@@ -467,7 +467,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-green-600 pb-2 mt-8 mb-4">निष्कर्ष (Conclusion)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>ग्रीन टी के फायदे (Green Tea Benefits)</strong> बहुत व्यापक और impressive हैं। Brain health से लेकर heart protection तक, weight management से immune system boost तक - यह एक true superfood है।
+                    <strong>ग्रीन टी के फायदे (Green Tea Benefits)</strong> बहुत व्यापक और impressive हैं। Brain health से लेकर heart protection तक, weight management से immune system boost तक - यह संतुलित आहार का एक हिस्सा हो सकती है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -556,7 +556,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

@@ -7,9 +7,9 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Haematology - Best Blood Disorder & Bone Marrow Transplant Hospital in Ranchi | Raj Hospitals</title>
+    <title>Haematology - Blood Disorder & Bone Marrow Transplant Care in Ranchi | Raj Hospitals</title>
     <meta name="description" content="Raj Hospital's Haematology Department offers expert care for blood disorders, leukaemia, lymphoma, myeloma, thalassemia and bone marrow transplant in Ranchi." />
-    <meta name="keywords" content="Haematology Hospital Ranchi, Bone Marrow Transplant Ranchi, Best Haematologist in Ranchi, Blood Disorder Treatment Ranchi, Leukaemia Treatment Ranchi, Thalassemia Treatment Ranchi" />
+    <meta name="keywords" content="Haematology Hospital Ranchi, Bone Marrow Transplant Ranchi, Haematologist in Ranchi, Blood Disorder Treatment Ranchi, Leukaemia Treatment Ranchi, Thalassemia Treatment Ranchi" />
     <meta name="robots" content="index, follow" />
 
     <meta name="geo.region" content="IN-JH" />
@@ -215,7 +215,7 @@
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Haematology</h1>
-                    <p class="text-xl text-gray-200">Expert care for blood disorders with advanced bone marrow transplant and stem cell therapy</p>
+                    <p class="text-xl text-gray-200">Expert care for blood disorders including bone marrow (haematopoietic stem cell) transplantation</p>
                 </div>
             </div>
         </div>
@@ -231,7 +231,7 @@
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">Our Haematology Department at Raj Hospitals is dedicated to the diagnosis, treatment, and management of a wide range of blood disorders and haematological malignancies. Our expert haematologists provide comprehensive care for patients with conditions affecting the blood, bone marrow, and lymphatic system.</p>
 
-                        <p class="text-lg text-gray-700 leading-relaxed mb-6">From common blood disorders to complex conditions requiring bone marrow transplantation, our team combines clinical expertise with cutting-edge technology to deliver personalized treatment plans for each patient.</p>
+                        <p class="text-lg text-gray-700 leading-relaxed mb-6">From common blood disorders to complex conditions requiring bone marrow transplantation, our team combines clinical expertise with modern technology to deliver personalized treatment plans for each patient.</p>
 
                         <!-- Why Choose Us Box -->
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
@@ -550,7 +550,7 @@
                     <div class="bg-green-50 p-4 rounded-lg border border-green-100">
                         <div class="flex items-center space-x-2">
                             <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Complete recovery with 100% engraftment</span>
+                            <span class="font-medium text-green-800"></span>
                         </div>
                     </div>
                 </div>

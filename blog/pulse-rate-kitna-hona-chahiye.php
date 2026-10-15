@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -477,7 +477,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपका Pulse Rate Normal है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced cardiologists हैं। Regular heart checkup से heart health maintain करें।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में cardiologist से परामर्श उपलब्ध है। Regular heart checkup से heart health maintain करें।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -508,7 +508,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">पल्स रेट पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">Pulse rate आपके overall health का एक important indicator है। <strong>Pulse rate kitna hona chahiye</strong> यह जानना हर adult के लिए जरूरी है। Regular monitoring से आप अपने heart health को track कर सकते हैं।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि <strong>normal pulse rate</strong> कोई fixed number नहीं है - यह age, fitness level, medications, और underlying health conditions पर depend करता है। अगर आपको अपने pulse rate को लेकर कोई worry है, तो RAJ Hospital में cardiologist से मिलना चाहिए।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में cardiology department में experienced specialists हैं जो heart-related conditions का proper diagnosis और treatment करते हैं। Regular checkups, ECG, echocardiogram, और blood tests से heart health evaluate किया जाता है। अगर chest pain, shortness of breath, palpitations, या persistent dizziness जैसे symptoms हों, तो तुरंत medical attention लें।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital के cardiology department में heart-related conditions की जांच और इलाज उपलब्ध है। Regular checkups, ECG, echocardiogram, और blood tests से heart health evaluate किया जाता है। अगर chest pain, shortness of breath, palpitations, या persistent dizziness जैसे symptoms हों, तो तुरंत medical attention लें।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले अपने symptoms की timeline, कितनी बार होते हैं, किससे बढ़ते या कम होते हैं, और current medications की list बनाकर ले जाएं। Heart health के लिए regular monitoring और timely medical advice important है।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें। अपने health को लेकर कोई concern हो तो RAJ Hospital में cardiologist से मिलकर proper evaluation कराएं।</p>
                 </section>
@@ -520,7 +520,7 @@
                         <li><a href="/blog/blood-pressure-kaise-control-kare.php" class="text-secondary-600 hover:underline font-semibold"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Kaise Control Kare - उच्च रक्तचाप कैसे control करें</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Hindi - दिल का दौरा कैसे पहचानें</a></li>
                         <li><a href="/blog/chest-pain-ka-ilaj/" class="text-secondary-600 hover:underline font-semibold">Chest Pain Kya Hai - सीने में दर्द के कारण</a></li>
-                        <li><a href="/specialties/cardiology" class="text-secondary-600 hover:underline font-semibold">Best Cardiologist in Ranchi - RAJ Hospital</a></li>
+                        <li><a href="/specialties/cardiology" class="text-secondary-600 hover:underline font-semibold">Cardiology Department - RAJ Hospital Ranchi</a></li>
                     </ul>
                 </section>
 

@@ -177,7 +177,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    Almost everyone gets a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> from time to time — and most of them can be eased at home without a trip to the pharmacy. From dehydration and screen strain to <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> and skipped meals, everyday headaches usually have simple, fixable causes. The team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, have put together these <strong>10 effective home remedies for quick headache relief</strong> — along with the warning signs that tell you it's time to see a doctor instead of reaching for another painkiller.
+                    Almost everyone gets a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> from time to time — and most of them can be eased at home without a trip to the pharmacy. From dehydration and screen strain to <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> and skipped meals, everyday headaches usually have simple, fixable causes. The team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>, have put together these <strong>10 effective home remedies for quick headache relief</strong> — along with the warning signs that tell you it's time to see a doctor instead of reaching for another painkiller.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -235,7 +235,7 @@
                 <div class="raj-callout raj-callout-success">
                     <i data-feather="check-circle" class="raj-callout-icon"></i>
                     <div class="raj-callout-body">
-                        <strong>Best combination for fast relief:</strong> water + a dark, quiet room + a compress + a few minutes of slow breathing, applied together at the very first sign of a headache, works better than any single remedy alone. Catching it early is the key.
+                        <strong>Helpful combination for fast relief:</strong> water + a dark, quiet room + a compress + a few minutes of slow breathing, applied together at the very first sign of a headache, works better than any single remedy alone. Catching it early is the key.
                     </div>
                 </div>
 
@@ -281,7 +281,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — Related Headache Guides</h2>
                     <p class="text-gray-700 mb-4">More expert guides to help you manage headaches:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/headaches-types-causes-treatment-solutions.php" class="text-secondary-600 hover:underline font-semibold">Headaches — Types, Causes &amp; Treatment Solutions</a></li>
                         <li><a href="/blog/how-to-cure-a-sinus-headache.php" class="text-secondary-600 hover:underline font-semibold">How to Cure a Sinus Headache — Home Remedies &amp; Treatments</a></li>
                         <li><a href="/blog/spinal-headache-treatment-at-home.php" class="text-secondary-600 hover:underline font-semibold">Spinal Headache Treatment at Home — Safe Relief</a></li>
@@ -300,12 +300,12 @@
                             <p class="text-gray-700">You may not fully clear it in 5 minutes, but you can start relief fast: drink water, move to a dark quiet spot, apply a cold or warm compress, and massage your temples and neck while breathing slowly. Catching a headache early makes these steps far more effective.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                            <h3 class="font-bold text-gray-800 mb-2">Which home remedy works best for migraines?</h3>
-                            <p class="text-gray-700">For migraines, resting in a dark, quiet room with a cold compress on the forehead, staying hydrated, and treating early tend to help most. Because migraines have specific triggers, keeping a diary and getting a proper diagnosis at <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's neurology OPD</a> leads to the best long-term control.</p>
+                            <h3 class="font-bold text-gray-800 mb-2">Which home remedies help most with migraines?</h3>
+                            <p class="text-gray-700">For migraines, resting in a dark, quiet room with a cold compress on the forehead, staying hydrated, and treating early tend to help most. Because migraines have specific triggers, keeping a diary and getting a proper diagnosis at <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's neurology OPD</a> leads to better long-term control.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Is it safe to treat every headache at home?</h3>
-                            <p class="text-gray-700">Occasional mild-to-moderate headaches are usually fine to treat at home. But frequent headaches, or any headache with red-flag symptoms like sudden severe pain, fever with stiff neck, weakness or vision changes, need a doctor. When in doubt, get assessed at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>.</p>
+                            <p class="text-gray-700">Occasional mild-to-moderate headaches are usually fine to treat at home. But frequent headaches, or any headache with red-flag symptoms like sudden severe pain, fever with stiff neck, weakness or vision changes, need a doctor. When in doubt, get assessed at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Why do I get a headache every day?</h3>

@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -313,7 +313,7 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>सबसे अच्छा समय:</strong> Periods miss होने के 1 day बाद test करें</li>
+                    <li><strong>उपयुक्त समय:</strong> Periods miss होने के 1 day बाद test करें</li>
                     <li><strong>Early detection tests:</strong> कुछ tests period miss होने से पहले भी positive दिखा सकते हैं</li>
                     <li><strong>सबसे accurate:</strong> Morning urine से test करें (concentrated होता है)</li>
                 </ul>
@@ -321,7 +321,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आप pregnant हैं?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में pregnancy test और complete prenatal care available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में pregnancy test और prenatal care (गर्भावस्था जांच) उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -339,7 +339,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Home pregnancy test कितना accurate है?</h4>
-                        <p class="text-gray-700">Home pregnancy tests 99% accurate होते हैं अगर सही तरीके से और सही समय पर किए जाएं।</p>
+                        <p class="text-gray-700">Home pregnancy tests सही तरीके से और period miss होने के बाद किए जाएं तो काफ़ी भरोसेमंद होते हैं; बहुत जल्दी test करने पर गलत negative result आ सकता है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
@@ -362,7 +362,7 @@
                         <li><a href="/blog/pair-me-sujan.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: प्रेग्नेंसी में पैर में सूजन</a></li>
                         <li><a href="/blog/pregnant-mein-kya-kya-khana-chahie.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए</a></li>
                         <li><a href="/blog/thyroid-problems-in-women-symptoms-and-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Thyroid Problems in Women | Symptoms and Treatment in Hindi</a></li>
-                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Maternity Hospital in Ranchi</a></li>
+                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Maternity Hospital in Ranchi</a></li>
                     </ul>
                 </section>
 
@@ -387,7 +387,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

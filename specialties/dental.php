@@ -7,9 +7,9 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dental Care - Best Dental Hospital in Ranchi | Raj Hospitals</title>
+    <title>Dental Care - Dental Hospital in Ranchi | Raj Hospitals</title>
     <meta name="description"
-        content="Raj Hospital is one of the best dental hospitals in Ranchi offering advanced dental treatment, experienced dentists and modern dental care facilities." />
+        content="Raj Hospital is a dental hospital in Ranchi offering advanced dental treatment, experienced dentists and modern dental care facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -87,10 +87,10 @@ Dental Care Hospital in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best dental hospital in Ranchi?",
+      "name": "Does Raj Hospital offer dental treatment in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best dental hospitals in Ranchi providing advanced dental care and treatment."
+        "text": "Yes, Raj Hospital in Ranchi provides advanced dental care and treatment."
       }
     },
     {
@@ -254,9 +254,9 @@ Dental Care Hospital in Jharkhand
                             Hospitals, Ranchi, offers comprehensive oral health care ranging from preventive dentistry
                             to advanced cosmetic and maxillofacial surgeries. With a specialized team of dentists, oral
                             surgeons, implantologists, orthodontists, periodontists, and dental hygienists, we deliver
-                            world-class dental treatments with precision and safety. Our focus is on pain-free,
+                            dental treatments with precision and safety. Our focus is on comfortable,
                             affordable, and aesthetic oral health services, helping patients achieve healthy gums,
-                            perfect teeth alignment, and confident smiles. Equipped with the latest dental technology,
+                            better teeth alignment, and confident smiles. Equipped with modern dental technology,
                             Raj Hospitals is committed to providing personalized treatment plans, minimally invasive
                             procedures, and safe recovery protocols for both adults and children.</p>
 
@@ -275,7 +275,7 @@ Dental Care Hospital in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Painless dentistry with advanced anesthesia and laser
+                                    <span class="text-gray-700">Comfort-focused dentistry with advanced anesthesia and laser
                                         technology</span>
                                 </li>
                                 <li class="flex items-start">
@@ -292,7 +292,7 @@ Dental Care Hospital in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Affordable treatment packages</span>
+                                    <span class="text-gray-700">Treatment packages available on consultation</span>
                                 </li>
                             </ul>
                         </div>
@@ -311,7 +311,7 @@ Dental Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Painless dentistry with advanced anesthesia and
+                                    <span class="text-gray-700">Comfort-focused dentistry with advanced anesthesia and
                                         laser</span>
                                 </div>
                             </div>
@@ -444,8 +444,8 @@ Dental Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Root Canal Treatment (RCT)</h3>
-                        <p class="text-gray-600 mb-4">Pain-free root canal treatments with advanced rotary endodontics
-                            for permanent tooth preservation.</p>
+                        <p class="text-gray-600 mb-4">Root canal treatments under local anaesthesia with advanced rotary endodontics
+                            for long-term tooth preservation.</p>
                     </div>
                 </div>
 
@@ -470,7 +470,7 @@ Dental Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Implant Surgery</h3>
-                        <p class="text-gray-600 mb-4">Permanent solution for missing teeth with titanium dental
+                        <p class="text-gray-600 mb-4">Long-lasting, fixed solution for missing teeth with titanium dental
                             implants.</p>
                     </div>
                 </div>
@@ -635,13 +635,13 @@ Dental Care Hospital in Jharkhand
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Do you provide painless dental
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Do you provide pain-controlled dental
                                     treatments?</h3>
                                 <i data-feather="plus"
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, we use advanced pain management and laser dentistry techniques for painless
+                                <p>Yes, we use advanced pain management and laser dentistry techniques to minimise discomfort during
                                     procedures.</p>
                             </div>
                         </div>
@@ -655,7 +655,7 @@ Dental Care Hospital in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Dental implants can last a lifetime with proper oral care, hygiene, and regular
+                                <p>Dental implants can last many years with proper oral care, hygiene, and regular
                                     dental check-ups.</p>
                             </div>
                         </div>

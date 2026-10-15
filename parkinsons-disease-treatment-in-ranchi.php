@@ -7,10 +7,10 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Parkinson's Disease Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Parkinson's Disease Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Find advanced Parkinson's Disease treatment in Ranchi. Raj Hospital provides expert neurological care, medication management, and movement disorder therapies." />
+    <meta name="description" content="Find advanced Parkinson's Disease treatment in Ranchi. Raj Hospital provides neurological care, medication management, and movement disorder therapies." />
     <meta name="keywords" content="Parkinsons disease treatment in Ranchi, movement disorder specialist Ranchi, hand tremors treatment Ranchi, neurologist for Parkinson in Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
@@ -177,8 +177,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Parkinson's Disease Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Parkinson's Disease Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -232,7 +232,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -241,7 +241,7 @@
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900">Neurological Examination</h4>
-                                    <p class="text-gray-600">Comprehensive clinical assessment of movement, coordination, and reflexes by an expert neurologist.</p>
+                                    <p class="text-gray-600">Clinical assessment of movement, coordination, and reflexes by a neurologist.</p>
                                 </div>
                             </li>
                             <li class="flex">

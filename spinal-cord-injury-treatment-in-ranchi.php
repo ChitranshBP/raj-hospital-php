@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Spinal Cord Injury Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Spinal Cord Injury Treatment in Ranchi | Neurosurgery | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
     <meta name="description" content="Emergency Spinal Cord Injury treatment in Ranchi. Raj Hospital offers 24/7 spine trauma care, decompression surgery, and long-term neuro-rehabilitation." />
-    <meta name="keywords" content="spinal cord injury treatment in Ranchi, spine trauma center Ranchi, paralysis treatment Ranchi, best neurosurgeon for spine injury in Ranchi" />
+    <meta name="keywords" content="spinal cord injury treatment in Ranchi, spine trauma center Ranchi, paralysis treatment Ranchi, neurosurgeon for spine injury in Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/spinal-cord-injury-treatment-in-ranchi" />
@@ -88,7 +88,7 @@
           "name": "Can stem cell therapy completely cure severe SCI?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Currently, clinical stem cell therapy remains largely experimental and is not a guaranteed or standardized medical cure."
+            "text": "Currently, stem cell therapy for spinal cord injury remains experimental and is not an approved standard treatment; it should only be considered within a regulated clinical trial."
           }
         },
         {
@@ -169,8 +169,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Spinal Cord Injury Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Spinal Cord Injury Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -186,7 +186,7 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Spinal Cord Injury Treatment in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            A spinal cord injury (SCI) involves acute damage to any part of the spinal cord or nerves at the end of the spinal canal. Raj Hospital features a dedicated trauma center offering immediate <strong>Spinal Cord Injury treatment in Ranchi</strong>, leveraging neurosurgical interventions and robust, exhaustive rehabilitation.
+                            A spinal cord injury (SCI) involves acute damage to any part of the spinal cord or nerves at the end of the spinal canal. Raj Hospital's emergency department offers immediate <strong>Spinal Cord Injury treatment in Ranchi</strong>, leveraging neurosurgical interventions and robust, exhaustive rehabilitation.
                         </p>
                     </div>
 
@@ -220,7 +220,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -356,7 +356,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Currently, clinical stem cell therapy remains largely experimental and is not a guaranteed or standardized medical cure.</p>
+                                <p>Currently, stem cell therapy for spinal cord injury remains experimental and is not an approved standard treatment; it should only be considered within a regulated clinical trial.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">

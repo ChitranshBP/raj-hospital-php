@@ -77,7 +77,7 @@
             "name": "हड्डी, जोड़ और मांसपेशियों से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -435,7 +435,7 @@
                             </div>
                             <div class="md:w-2/3">
                                 <p class="text-gray-700 mb-3">
-                                    <strong>Gardan mein dard</strong> के लिए hot और cold therapy सबसे effective immediate treatment है।
+                                    <strong>Gardan mein dard</strong> के लिए hot और cold therapy एक आसान और उपयोगी शुरुआती उपाय है।
                                 </p>
                                 <div class="grid md:grid-cols-2 gap-4">
                                     <div class="bg-blue-50 p-4 rounded-xl">
@@ -444,7 +444,7 @@
                                             <li>Ice pack 15-20 min तक</li>
                                             <li>24-48 hours में use करें</li>
                                             <li>Inflammation कम करता है</li>
-                                            <li>Acute pain के लिए best</li>
+                                            <li>Acute pain में उपयोगी</li>
                                         </ul>
                                     </div>
                                     <div class="bg-red-50 p-4 rounded-xl">
@@ -453,7 +453,7 @@
                                             <li>Warm towel या heating pad</li>
                                             <li>15-20 min, 2-3 times/day</li>
                                             <li>Muscles relax होते हैं</li>
-                                            <li>Chronic pain के लिए best</li>
+                                            <li>Chronic pain में उपयोगी</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -527,7 +527,7 @@
                             <div class="text-center p-4 bg-blue-50 rounded-xl">
                                 <div class="text-4xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-md raj-icon-blue" aria-hidden="true"></i></div>
                                 <h4 class="font-bold text-blue-700 text-sm">Hydration</h4>
-                                <p class="text-gray-600 text-xs">ज्यादा पानी पिएं, discs hydrated रहें</p>
+                                <p class="text-gray-600 text-xs">पर्याप्त पानी पिएं</p>
                             </div>
                             <div class="text-center p-4 bg-purple-50 rounded-xl">
                                 <div class="text-4xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
@@ -783,7 +783,7 @@
                             <div>
                                 <h3 class="text-lg font-bold text-green-700 mb-4"><i data-feather="moon" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Sleep और Daily Tips</h3>
                                 <ul class="list-disc list-inside text-green-700 space-y-2">
-                                    <li><strong>Right pillow</strong> - cervical pillow best</li>
+                                    <li><strong>Right pillow</strong> - cervical pillow उपयोगी</li>
                                     <li><strong>Sleep on back/side</strong> - stomach avoid करें</li>
                                     <li><strong>Phone usage limit</strong> - कम phone देखें</li>
                                     <li><strong>Regular exercise</strong> - neck muscles strong रखें</li>
@@ -873,8 +873,8 @@
                         </div>
 
                         <div class="bg-gray-50 p-4 rounded-lg">
-                            <h4 class="font-bold text-secondary-600 mb-2">Q: Sleeping में कौन सी pillow best है?</h4>
-                            <p class="text-gray-700">A: <strong>Cervical pillow</strong> या <strong>orthopedic pillow</strong> gardan के लिए best है। यह neck curve support करता है और spine alignment maintain रखता है।</p>
+                            <h4 class="font-bold text-secondary-600 mb-2">Q: Sleeping के लिए कौन सी pillow ठीक रहती है?</h4>
+                            <p class="text-gray-700">A: <strong>Cervical pillow</strong> या <strong>orthopedic pillow</strong> gardan के लिए उपयोगी हो सकता है। यह neck curve support करता है और spine alignment maintain रखता है।</p>
                         </div>
 
                         <div class="bg-gray-50 p-4 rounded-lg">
@@ -944,7 +944,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हड्डी, जोड़ और मांसपेशियों से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

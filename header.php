@@ -10,7 +10,7 @@
         <?php echo isset($pageTitle) ? $pageTitle : "Raj Hospitals"; ?>
     </title>
     <meta name="description"
-        content="<?php echo isset($pageDescription) ? $pageDescription : "Raj Hospitals - Best Multi Specialty Hospital in Ranchi"; ?>">
+        content="<?php echo isset($pageDescription) ? $pageDescription : "Raj Hospitals - Multi Specialty Hospital in Ranchi"; ?>">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Raj Hospital, Ranchi">
     <meta name="publisher" content="Raj Hospital, Ranchi">
@@ -22,7 +22,7 @@
     <?php endif; ?>
     <!-- Open Graph Tags -->
     <meta property="og:title" content="<?php echo isset($pageTitle) ? htmlspecialchars($pageTitle) : 'Raj Hospitals'; ?>">
-    <meta property="og:description" content="<?php echo isset($pageDescription) ? htmlspecialchars($pageDescription) : 'Raj Hospitals - Best Multi Specialty Hospital in Ranchi'; ?>">
+    <meta property="og:description" content="<?php echo isset($pageDescription) ? htmlspecialchars($pageDescription) : 'Raj Hospitals - Multi Specialty Hospital in Ranchi'; ?>">
     <meta property="og:type" content="<?php echo isset($ogType) ? $ogType : 'website'; ?>">
     <?php if (isset($ogImage)): ?>
         <meta property="og:image" content="<?php echo htmlspecialchars($ogImage); ?>">
@@ -129,7 +129,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9771488888",
@@ -152,7 +152,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "<?php echo isset($pageTitle) ? htmlspecialchars($pageTitle) : 'RAJ Hospital Ranchi'; ?>",
-        "description": "<?php echo isset($pageDescription) ? htmlspecialchars($pageDescription) : 'RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi.'; ?>",
+        "description": "<?php echo isset($pageDescription) ? htmlspecialchars($pageDescription) : 'RAJ Hospital Ranchi - Multispecialty hospital in Ranchi.'; ?>",
         "url": "<?php echo isset($canonicalUrl) ? htmlspecialchars($canonicalUrl) : 'https://rajhospitals.com/'; ?>",
         "image": "<?php echo isset($ogImage) ? htmlspecialchars($ogImage) : 'https://rajhospitals.com/blog/assets/img/Copy-of-Raj-Hospitals.jpg'; ?>",
         "author": {

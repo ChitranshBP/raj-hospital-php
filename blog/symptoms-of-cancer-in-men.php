@@ -77,7 +77,7 @@
             "name": "How can the risk of cancers in men be reduced?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Regular checkups, doctor-prescribed medicines, avoiding tobacco and excess alcohol, balanced meals, good sleep, doctor-approved exercise, and not ignoring new symptoms are the most effective steps. Prevention works best when even small warning signs are addressed early."
+                "text": "Regular checkups, doctor-prescribed medicines, avoiding tobacco and excess alcohol, balanced meals, good sleep, doctor-approved exercise, and not ignoring new symptoms are the most effective steps. Prevention works better when even small warning signs are addressed early."
             }
         }
     ]
@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -229,7 +229,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a></strong> is one of the leading causes of death in men worldwide, yet many cases are diagnosed late because early symptoms are subtle or mistaken for everyday health issues. Recognising the <strong>symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> in men</strong> early dramatically improves the chances of successful treatment and long-term recovery.
+                    <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a></strong> is one of the major causes of death in men worldwide, yet many cases are diagnosed late because early symptoms are subtle or mistaken for everyday health issues. Recognising the <strong>symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> in men</strong> early dramatically improves the chances of successful treatment and long-term recovery.
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -244,7 +244,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Raising <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> awareness</strong> in men encourages timely screening, prompt reporting of new symptoms, and adoption of protective lifestyle habits. Many cancers, when caught early, have survival rates well above 80-90 percent, which makes awareness a life-saving habit.
+                    Raising <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> awareness</strong> in men encourages timely screening, prompt reporting of new symptoms, and adoption of protective lifestyle habits. Many cancers have much better outcomes when caught early, which makes awareness a life-saving habit.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -421,7 +421,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need a Cancer Risk Assessment?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers comprehensive cancer screening packages, onco-consultations, and follow-up care under one roof.</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers cancer screening, oncology consultations and follow-up care.</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -495,7 +495,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">How can the risk of cancers in men be reduced?</h3>
-                        <p class="text-gray-700">Regular checkups, doctor-prescribed medicines, avoiding tobacco and excess alcohol, balanced meals, good sleep, doctor-approved exercise, and not ignoring new symptoms are the most effective steps. Prevention works best when even small warning signs are addressed early.</p>
+                        <p class="text-gray-700">Regular checkups, doctor-prescribed medicines, avoiding tobacco and excess alcohol, balanced meals, good sleep, doctor-approved exercise, and not ignoring new symptoms are the most effective steps. Prevention works better when even small warning signs are addressed early.</p>
                     </div>
                     </div>
                 </section>

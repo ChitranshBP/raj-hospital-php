@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Rahul Roy – Critical Care in Ranchi</title>
     <meta name="description" content="Dr. Rahul Roy is a senior Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 20+ years experience in ICU and patient safety. Book now.">
-    <meta name="keywords" content="Dr. Rahul Roy, Critical Care in Ranchi, Best Critical Care in Ranchi, Dr. Rahul Roy Raj Hospital Ranchi, critical care doctor Ranchi">
+    <meta name="keywords" content="Dr. Rahul Roy, Critical Care in Ranchi, Critical Care specialist in Ranchi, Dr. Rahul Roy Raj Hospital Ranchi, critical care doctor Ranchi">
     <meta property="og:title" content="Dr. Rahul Roy – Critical Care in Ranchi">
     <meta property="og:description" content="Dr. Rahul Roy is a senior Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 20+ years experience in ICU and patient safety. Book now.">
     <meta property="og:type" content="profile">
@@ -80,7 +80,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Rahul Roy",
-    "description": "Dr. Rahul Roy is a senior Critical Care and Anesthesiology specialist at Raj Hospital, Ranchi, with over 20 years of experience. He provides expert ICU management, anesthesia services, and hospital administration with a focus on patient safety.",
+    "description": "Dr. Rahul Roy is a senior Critical Care and Anesthesiology specialist at Raj Hospital, Ranchi, with over 20 years of experience. He provides ICU management, anesthesia services, and hospital administration with a focus on patient safety.",
     "medicalSpecialty": "Critical Care",
     "qualifications": "MBBS, DA, IDCCM, EDAIC, MBA",
     "image": "https://rajhospitals.com/assets/Doc-Side/Dr Rahul Roy(CCT).webp",

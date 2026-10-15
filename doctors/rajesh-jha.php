@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Rajesh Kumar Jha – Cardiology in Ranchi</title>
     <meta name="description" content="Dr. Rajesh Jha is an Interventional Cardiologist at Raj Hospital Ranchi with 16+ years expertise in angioplasty and cardiac stenting. Book appointment now.">
-    <meta name="keywords" content="Dr. Rajesh Kumar Jha, Cardiology in Ranchi, Best Cardiologist in Ranchi, Dr. Rajesh Jha Raj Hospital Ranchi, cardiology doctor Ranchi">
+    <meta name="keywords" content="Dr. Rajesh Kumar Jha, Cardiology in Ranchi, Cardiologist in Ranchi, Dr. Rajesh Jha Raj Hospital Ranchi, cardiology doctor Ranchi">
     <meta property="og:title" content="Dr. Rajesh Kumar Jha – Cardiology in Ranchi">
     <meta property="og:description" content="Dr. Rajesh Jha is an Interventional Cardiologist at Raj Hospital Ranchi with 16+ years expertise in angioplasty and cardiac stenting. Book appointment now.">
     <meta property="og:type" content="profile">

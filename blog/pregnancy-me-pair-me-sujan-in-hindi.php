@@ -342,8 +342,8 @@ $base_url = '../';
             <div class="bg-gradient-to-r from-hospital-blue to-blue-600 rounded-xl p-6 text-white mb-8">
                 <div class="flex flex-col md:flex-row items-center justify-between">
                     <div>
-                        <h3 class="text-xl font-bold mb-2">प्रेग्नेंसी में अनुभवी स्त्री रोग विशेषज्ञ</h3>
-                        <p class="text-white/90">RAJ Hospital Ranchi - सुरक्षित प्रसव और देखभाल</p>
+                        <h3 class="text-xl font-bold mb-2">प्रेग्नेंसी में स्त्री रोग विशेषज्ञ से परामर्श</h3>
+                        <p class="text-white/90">RAJ Hospital Ranchi - गर्भावस्था और प्रसव देखभाल</p>
                     </div>
                     <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
@@ -509,7 +509,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की स्त्री रोग विशेषज्ञ टीम गर्भावस्था की पूरी देखभाल और सुरक्षित प्रसव में मदद करती है। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की स्त्री रोग विशेषज्ञ टीम गर्भावस्था और प्रसव से जुड़ी देखभाल उपलब्ध कराती है। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>
@@ -540,8 +540,8 @@ $base_url = '../';
                 <a href="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
-                        <h4 class="font-semibold text-gray-800 text-sm">Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital</h4>
-                        <p class="text-gray-500 text-xs">रांची में सर्वश्रेष्ठ प्रसूति अस्पताल</p>
+                        <h4 class="font-semibold text-gray-800 text-sm"> <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital</h4>
+                        <p class="text-gray-500 text-xs">रांची में प्रसूति देखभाल की जानकारी</p>
                     </div>
                 </a>
                 <a href="https://rajhospitals.com/blog/labour-pain-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">

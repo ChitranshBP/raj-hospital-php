@@ -27,7 +27,7 @@ if (preg_match('#/blog/(?!index\.php$)[^/]+\.php$#', $_SERVER['SCRIPT_NAME'] ?? 
 // Configuration from React Version
 $specialties = [
     [
-        'category' => 'Centres of Excellence',
+        'category' => 'Key Specialties',
         'items' => [
             'Cardiology',
             'Critical Care ',
@@ -108,8 +108,8 @@ function getSpecialtySlug($name, $category)
         'Cardiology' => ['Advanced Diagnostics' => 'cardiology-ad'],
         'FNAC, Biopsy, Blood & Laboratory Investigations' => ['Advanced Diagnostics' => 'laboratory-investigations'],
         'Oral & Maxillofacial Surgery' => ['Allied Specialties' => 'oral-maxillofacial-surgery-ad'],
-        'Neurology' => ['Centres of Excellence' => 'neurology'],
-        'Neuro & Spine Surgery' => ['Centres of Excellence' => 'neuro-spine-surgery'],
+        'Neurology' => ['Key Specialties' => 'neurology'],
+        'Neuro & Spine Surgery' => ['Key Specialties' => 'neuro-spine-surgery'],
     ];
 
     if (isset($specialtyUrlMap[$name][$category])) {

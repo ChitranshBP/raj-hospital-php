@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Best Multispeciality Hospital in Ranchi | Raj Hospital Jharkhand</title>
+    <title>Multispeciality Hospital in Ranchi | Raj Hospital Jharkhand</title>
 
     <meta name="description"
-        content="Raj Hospital is a leading multispeciality hospital in Ranchi offering advanced medical care, experienced doctors, emergency services and modern facilities." />
+        content="Raj Hospital is a multispeciality hospital in Ranchi offering advanced medical care, experienced doctors, emergency services and modern facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -20,8 +20,8 @@
     <link rel="canonical" href="https://rajhospitals.com/" />
 
     <!-- ================= OPEN GRAPH ================= -->
-    <meta property="og:title" content="Best Multispeciality Hospital in Ranchi | Raj Hospital Jharkhand" />
-    <meta property="og:description" content="Raj Hospital is a leading multispeciality hospital in Ranchi offering advanced medical care, experienced doctors, emergency services and modern facilities." />
+    <meta property="og:title" content="Multispeciality Hospital in Ranchi | Raj Hospital Jharkhand" />
+    <meta property="og:description" content="Raj Hospital is a multispeciality hospital in Ranchi offering advanced medical care, experienced doctors, emergency services and modern facilities." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rajhospitals.com/" />
     <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
@@ -37,13 +37,11 @@
     <!-- ================= KEYWORDS (COMMENTED) ================= -->
     <!--
 Primary Keyword:
-Best Hospital in Ranchi
+Multispeciality Hospital in Ranchi
 
 Secondary Keywords:
 Multispeciality Hospital in Ranchi
-Top Hospital in Ranchi
 Private Hospital in Ranchi
-Best Hospital in Jharkhand
 -->
 
     <!-- ================= ORGANIZATION / HOSPITAL SCHEMA ================= -->
@@ -56,7 +54,7 @@ Best Hospital in Jharkhand
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
   "image": "https://rajhospitals.com/images/hospital-building.jpg",
-  "description": "Raj Hospital is a leading multispeciality hospital in Ranchi providing advanced healthcare services across major medical specialties.",
+  "description": "Raj Hospital is a multispeciality hospital in Ranchi providing advanced healthcare services across major medical specialties.",
   "telephone": "+91-9771488888",
   "address": {
     "@type": "PostalAddress",
@@ -572,7 +570,7 @@ Best Hospital in Jharkhand
                 <div class="specialty-panel grid grid-cols-1 lg:grid-cols-5 gap-8 hidden" id="pulmonology">
                     <div class="lg:col-span-3 flex flex-col">
                         <h3 class="text-2xl font-semibold text-gray-900 mb-4">Pulmonology & Respiratory Medicine</h3>
-                        <p class="text-gray-700 mb-6">High-quality pulmonology care in Ranchi by expert pulmonologists with comprehensive lung and respiratory treatment.</p>
+                        <p class="text-gray-700 mb-6">Pulmonology care in Ranchi for lung and respiratory conditions by qualified pulmonologists.</p>
                         <h4 class="text-lg font-semibold mb-3">Key Services & Treatments</h4>
                         <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-gray-700 list-disc list-inside mb-6">
                             <li>Asthma & COPD</li>
@@ -738,7 +736,7 @@ Best Hospital in Jharkhand
                 <div class="specialty-panel grid grid-cols-1 lg:grid-cols-5 gap-8 hidden" id="oral-and-maxillofacial">
                     <div class="lg:col-span-3 flex flex-col">
                         <h3 class="text-2xl font-semibold text-gray-900 mb-4">Oral & Maxillofacial Surgery</h3>
-                        <p class="text-gray-700 mb-6">Advanced surgical care for jaw, face, and oral conditions with modern techniques and expert precision.</p>
+                        <p class="text-gray-700 mb-6">Surgical care for jaw, face, and oral conditions using modern techniques.</p>
                         <h4 class="text-lg font-semibold mb-3">Key Services & Treatments</h4>
                         <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-gray-700 list-disc list-inside mb-6">
                             <li>Wisdom Tooth Extraction</li>
@@ -775,14 +773,14 @@ Best Hospital in Jharkhand
                     class="group bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-orange-500/40 fade-in">
                     <div class="relative w-full h-48 bg-gray-50 overflow-hidden">
                         <img src="assets/home-img/Why-Choose-Raj Hospitals/30+ Years-of-Excellence.webp"
-                            alt="30+ Years of Excellence"
+                            alt="30+ Years of Service"
                             class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
                     </div>
                     <div class="p-6">
                         <h3 class="font-bold text-gray-900 text-xl mb-3 group-hover:text-orange-500 transition-colors">
-                            30+ Years of Excellence</h3>
-                        <p class="text-gray-600 leading-relaxed">Three decades of trusted healthcare service in Ranchi
+                            30+ Years of Service</h3>
+                        <p class="text-gray-600 leading-relaxed">Three decades of healthcare service in Ranchi
                         </p>
                     </div>
                 </div>
@@ -791,14 +789,14 @@ Best Hospital in Jharkhand
                     class="group bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-orange-500/40 fade-in">
                     <div class="relative w-full h-48 bg-gray-50 overflow-hidden">
                         <img src="assets/home-img/Why-Choose-Raj Hospitals/State-of-the-art-Technology.webp"
-                            alt="State-of-the-art Technology"
+                            alt="Modern Medical Technology"
                             class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
                     </div>
                     <div class="p-6">
                         <h3 class="font-bold text-gray-900 text-xl mb-3 group-hover:text-orange-500 transition-colors">
-                            State-of-the-art Technology</h3>
-                        <p class="text-gray-600 leading-relaxed">Latest medical equipment and advanced treatment
+                            Modern Medical Technology</h3>
+                        <p class="text-gray-600 leading-relaxed">Modern medical equipment and treatment
                             facilities</p>
                     </div>
                 </div>
@@ -814,7 +812,7 @@ Best Hospital in Jharkhand
                     <div class="p-6">
                         <h3 class="font-bold text-gray-900 text-xl mb-3 group-hover:text-orange-500 transition-colors">
                             Experienced Medical Team</h3>
-                        <p class="text-gray-600 leading-relaxed">Highly qualified doctors and skilled healthcare
+                        <p class="text-gray-600 leading-relaxed">Qualified doctors and trained healthcare
                             professionals</p>
                     </div>
                 </div>
@@ -875,17 +873,17 @@ Best Hospital in Jharkhand
                 <div class="fade-in">
                     <h2 class="text-3xl font-bold text-orange-500 mb-4">About Raj Hospitals</h2>
                     <p class="text-gray-700 leading-relaxed mb-6">For over three decades, Raj Hospitals has been the
-                        cornerstone of healthcare excellence in Ranchi, Jharkhand. What started as a vision to provide
-                        world-class medical care has evolved into one of the region's most trusted super specialty
-                        hospitals. Our commitment to patient care, combined with state-of-the-art technology and a team
-                        of highly qualified medical professionals, has made us the preferred choice for thousands of
+                        healthcare provider for many families in Ranchi, Jharkhand. What started as a vision to provide
+                        quality medical care has evolved into one of the region's super specialty
+                        hospitals. Our commitment to patient care, combined with modern technology and a team
+                        of qualified medical professionals, has helped us serve
                         families across Jharkhand and neighboring states.</p>
 
                     <!-- Stats Grid -->
                     <div class="grid grid-cols-2 gap-3 mt-5">
                         <div class="text-center bg-orange-50 rounded-lg p-3 border border-orange-200">
                             <h3 class="text-2xl font-bold text-[#0191C7]">30+</h3>
-                            <p class="text-gray-600 text-xs font-medium">Years Excellence</p>
+                            <p class="text-gray-600 text-xs font-medium">Years of Service</p>
                         </div>
                         <div class="text-center bg-blue-50 rounded-lg p-3 border border-blue-200">
                             <h3 class="text-2xl font-bold text-orange-500">100+</h3>
@@ -924,7 +922,7 @@ Best Hospital in Jharkhand
             <div class="flex justify-between items-center mb-2">
                 <h2 class="text-2xl font-bold text-orange-500">Our Technology</h2>
             </div>
-            <p class="text-gray-700 mb-8">Investing in globally advanced medical technology for care you can trust.</p>
+            <p class="text-gray-700 mb-8">Medical technology used in patient care at Raj Hospitals.</p>
 
             <div class="overflow-x-auto md:overflow-visible scrollbar-hide -mx-4 md:mx-0 px-4 md:px-0">
                 <div class="flex md:grid md:grid-cols-3 gap-6 md:gap-8 snap-x snap-mandatory md:snap-none">
@@ -950,7 +948,7 @@ Best Hospital in Jharkhand
                                 class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                         </div>
                         <div class="p-6">
-                            <h3 class="font-semibold text-[#0191C7] text-xl mb-2">State-of-the-Art Gastroenterology
+                            <h3 class="font-semibold text-[#0191C7] text-xl mb-2">Gastroenterology
                                 Suite at Raj Hospitals, Ranchi</h3>
                             <p class="text-gray-600 leading-relaxed">Advanced endoscopy and colonoscopy facilities for
                                 precise digestive system diagnosis and treatment</p>

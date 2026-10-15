@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Dr. Pushpa Sinha – Obstetrics & Gynaecology in Ranchi";
 $pageDescription = "Dr. Pushpa Sinha is a senior Gynaecologist at Raj Hospital, Ranchi with 15+ years experience in high-risk pregnancy & women's healthcare. Book appointment now.";
-$pageKeywords = "Dr. Pushpa Sinha, Gynaecologist in Ranchi, Best Obstetrician Ranchi, high-risk pregnancy doctor Ranchi, Dr. Pushpa Sinha Raj Hospital";
+$pageKeywords = "Dr. Pushpa Sinha, Gynaecologist in Ranchi, Obstetrician Ranchi, high-risk pregnancy doctor Ranchi, Dr. Pushpa Sinha Raj Hospital";
 $canonicalUrl = "https://rajhospitals.com/doctors/pushpa-sinha";
 $ogType = "profile";
 $base_url = "../";

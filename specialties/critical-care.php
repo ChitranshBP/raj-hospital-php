@@ -7,9 +7,9 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Critical Care - Best ICU Hospital in Ranchi | Raj Hospitals</title>
+    <title>Critical Care - ICU Hospital in Ranchi | Raj Hospitals</title>
     <meta name="description"
-        content="Raj Hospital is a leading critical care hospital in Ranchi offering advanced ICU facilities, emergency care, ventilator support and expert critical care doctors." />
+        content="Raj Hospital is a critical care hospital in Ranchi offering advanced ICU facilities, emergency care, ventilator support and expert critical care doctors." />
 
     <meta name="robots" content="index, follow" />
 
@@ -87,10 +87,10 @@ Emergency Critical Care in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best critical care hospital in Ranchi?",
+      "name": "Does Raj Hospital offer critical care services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best critical care hospitals in Ranchi with advanced ICU facilities and experienced doctors."
+        "text": "Yes, Raj Hospital in Ranchi offers critical care with advanced ICU facilities and experienced doctors."
       }
     },
     {
@@ -261,7 +261,7 @@ Emergency Critical Care in Jharkhand
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">Raj Hospitals' Critical Care Department
                             provides intensive, round-the-clock monitoring and management for patients with
                             life-threatening medical and surgical conditions. With modern ICUs, specialized life-support
-                            technology, and an expert multidisciplinary team, we deliver world-class care to critically
+                            technology, and an expert multidisciplinary team, we deliver round-the-clock care to critically
                             ill patients.</p>
 
                         <!-- Why Choose Us Box -->
@@ -280,7 +280,7 @@ Emergency Critical Care in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">

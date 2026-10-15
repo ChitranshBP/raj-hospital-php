@@ -93,7 +93,7 @@
                 "name": "What are the early warning signs of heart attack in men?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Early warning signs of heart attack in men include: chest pain or discomfort (pressure, squeezing, fullness), pain radiating to the left arm, neck, or jaw, shortness of breath, cold sweat, nausea, and lightheadedness. Men should seek immediate medical attention if experiencing these symptoms. Our experts at RAJ Hospital provide comprehensive heart attack treatment in Ranchi."
+                    "text": "Early warning signs of heart attack in men include: chest pain or discomfort (pressure, squeezing, fullness), pain radiating to the left arm, neck, or jaw, shortness of breath, cold sweat, nausea, and lightheadedness. Men should seek immediate medical attention if experiencing these symptoms. RAJ Hospital provides heart attack treatment in Ranchi."
                 }
             },
             {
@@ -117,7 +117,7 @@
                 "name": "What is the difference in heart attack survival rates between men and women?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Studies show women have higher mortality rates after heart attacks partly because they often delay seeking treatment. Women are also less likely to receive timely interventions like angioplasty. At RAJ Hospital Ranchi, our 24/7 cardiac care ensures both men and women receive immediate, life-saving treatment. Early recognition and quick action can significantly improve survival rates for both genders."
+                    "text": "Studies show women have higher mortality rates after heart attacks partly because they often delay seeking treatment. Women are also less likely to receive timely interventions like angioplasty. At RAJ Hospital Ranchi, 24/7 emergency cardiac care is available for both men and women. Early recognition and quick action can significantly improve survival rates for both genders."
                 }
             },
             {
@@ -208,7 +208,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -253,7 +253,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -302,7 +302,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Heart attacks</strong> (दिल का दौरा) are one of the leading causes of death worldwide, affecting both men and women. However, the symptoms and warning signs can vary significantly between genders. Understanding these differences is crucial for early detection and seeking immediate medical attention. At <a href="/index.php" class="text-primary-500 hover:underline">RAJ Hospital Ranchi</a>, our experienced <a href="/doctor-profile.php" class="text-primary-500 hover:underline">cardiology team</a> provides comprehensive <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> treatment and emergency care services 24/7.
+                    <strong>Heart attacks</strong> (दिल का दौरा) are one of the major causes of death worldwide, affecting both men and women. However, the symptoms and warning signs can vary significantly between genders. Understanding these differences is crucial for early detection and seeking immediate medical attention. At <a href="/index.php" class="text-primary-500 hover:underline">RAJ Hospital Ranchi</a>, our experienced <a href="/doctor-profile.php" class="text-primary-500 hover:underline">cardiology team</a> provides comprehensive <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> treatment and emergency care services 24/7.
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -492,7 +492,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    At RAJ Hospital Ranchi, our <strong>24/7 cardiac emergency department</strong> is equipped with the latest technology and staffed by experienced cardiologists and emergency physicians. We provide immediate diagnosis and treatment including thrombolysis, angioplasty, and other life-saving interventions.
+                    At RAJ Hospital Ranchi, our <strong>24/7 cardiac emergency department</strong> provides emergency cardiac care with cardiologists and emergency physicians. We provide immediate diagnosis and treatment including thrombolysis, angioplasty, and other life-saving interventions.
                 </p>
 
                 <!-- Section 8: Prevention -->
@@ -571,7 +571,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">What are the early warning signs of heart attack in men?</h4>
-                        <p class="text-gray-700">Early warning signs of heart attack in men include: chest pain or discomfort (pressure, squeezing, fullness), pain radiating to the left arm, neck, or jaw, shortness of breath, cold sweat, nausea, and lightheadedness. Men should seek immediate medical attention if experiencing these symptoms. Our experts at RAJ Hospital provide comprehensive heart attack treatment in Ranchi.</p>
+                        <p class="text-gray-700">Early warning signs of heart attack in men include: chest pain or discomfort (pressure, squeezing, fullness), pain radiating to the left arm, neck, or jaw, shortness of breath, cold sweat, nausea, and lightheadedness. Men should seek immediate medical attention if experiencing these symptoms. RAJ Hospital provides heart attack treatment in Ranchi.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">What are the unique heart attack symptoms in women?</h4>
@@ -583,7 +583,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">What is the difference in heart attack survival rates between men and women?</h4>
-                        <p class="text-gray-700">Studies show women have higher mortality rates after heart attacks partly because they often delay seeking treatment. Women are also less likely to receive timely interventions like angioplasty. At RAJ Hospital Ranchi, our 24/7 cardiac care ensures both men and women receive immediate, life-saving treatment. Early recognition and quick action can significantly improve survival rates for both genders.</p>
+                        <p class="text-gray-700">Studies show women have higher mortality rates after heart attacks partly because they often delay seeking treatment. Women are also less likely to receive timely interventions like angioplasty. At RAJ Hospital Ranchi, 24/7 emergency cardiac care is available for both men and women. Early recognition and quick action can significantly improve survival rates for both genders.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">How can I reduce my risk of heart attack?</h4>
@@ -639,7 +639,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

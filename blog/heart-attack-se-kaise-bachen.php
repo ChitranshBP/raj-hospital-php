@@ -204,7 +204,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -421,7 +421,7 @@
                         <strong>Excessive alcohol</strong> blood pressure badhata hai, heart rhythm disturb karta hai, aur calories add karta hai jo weight gain ka karan banata hai. Regular heavy drinking se cardiomyopathy (heart muscle disease) ho sakta hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Agar aap alcohol drink karte hain, to limit rakhein - maximum 1 drink per day for women aur 2 drinks per day for men. Red wine ki ek small amount (occasionally) heart ke liye beneficial ho sakti hai due to antioxidants, but research limited hai. Best option alcohol completely chhod dena hai.
+                        Agar aap alcohol drink karte hain, to limit rakhein - maximum 1 drink per day for women aur 2 drinks per day for men. Red wine ki ek small amount (occasionally) heart ke liye beneficial ho sakti hai due to antioxidants, but research limited hai. Alcohol completely chhod dena heart ke liye zyada surakshit hai.
                     </p>
                 </div>
 
@@ -540,7 +540,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi</a> mein 24/7 cardiac emergency services available hain jo golden hour treatment protocols follow karte hain. Advanced catheterization lab aur experienced cardiology team ready hai.
+                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi</a> mein 24/7 cardiac emergency services available hain jo golden hour treatment protocols follow karte hain. Cardiac emergency mein turant RAJ Hospital ya nazdeeki cardiac centre se sampark karein.
                 </p>
 
                 <!-- Section 5: Myths vs Reality -->
@@ -561,7 +561,7 @@
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-gray-800">MYTH: "Men ko sirf heart attack hota hai, women nahi"</h4>
-                        <p class="text-gray-700"><strong>REALITY:</strong> Women ko bhi heart attack hota hai, aur actually yeh women ka #1 killer bhi hai. Women ke symptoms alag ho sakte hain - fatigue, nausea, back pain, jo often ignore hote hain. Women ko prevention par focus zyada karna chahiye.</p>
+                        <p class="text-gray-700"><strong>REALITY:</strong> Women ko bhi heart attack hota hai, aur actually yeh women mein maut ke pramukh kaaranon mein se ek hai. Women ke symptoms alag ho sakte hain - fatigue, nausea, back pain, jo often ignore hote hain. Women ko prevention par focus zyada karna chahiye.</p>
                     </div>
                 </div>
 
@@ -590,7 +590,7 @@
                 <h2 class="raj-h2-secondary">Why Choose RAJ Hospital Ranchi for Heart Care?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital Ranchi <strong>Jharkhand ka leading neuro and cardiac care center</strong> hai. Heart attack prevention aur treatment ke liye hum comprehensive services offer karte hain:
+                    RAJ Hospital Ranchi <strong>Ranchi ka neuro and cardiac care center</strong> hai. Heart attack prevention aur treatment ke liye hum comprehensive services offer karte hain:
                 </p>
 
                 <div class="space-y-4 mb-6">
@@ -600,11 +600,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Advanced Diagnostic Facilities</h4>
-                        <p class="text-sm text-gray-600">State-of-the-art ECG, Echocardiography, Stress Tests, CT Angiography, andCath Lab for accurate diagnosis and treatment.</p>
+                        <p class="text-sm text-gray-600">ECG, Echocardiography, Stress Tests, CT Angiography and Cath Lab facilities for diagnosis and treatment.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Experienced Cardiologists & Neurologists</h4>
-                        <p class="text-sm text-gray-600">Team of highly qualified specialists with years of experience. <a href="/doctor-profile.php" class="text-primary-600 hover:underline">Meet our doctors</a>.</p>
+                        <p class="text-sm text-gray-600">Team of qualified specialists. <a href="/doctor-profile.php" class="text-primary-600 hover:underline">Meet our doctors</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Comprehensive Health Checkup Packages</h4>
@@ -687,7 +687,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

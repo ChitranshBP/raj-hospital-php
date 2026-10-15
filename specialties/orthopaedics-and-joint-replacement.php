@@ -9,11 +9,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Orthopaedics & Joint Replacement Hospital in Ranchi | Best Orthopedic Hospital in Ranchi – Raj Hospital
+    <title>Orthopaedics & Joint Replacement Hospital in Ranchi | Orthopedic Hospital in Ranchi – Raj Hospital
     </title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best orthopaedics and joint replacement hospitals in Ranchi offering advanced bone, joint and knee replacement treatment." />
+        content="Raj Hospital is an orthopaedics and joint replacement hospital in Ranchi offering advanced bone, joint and knee replacement treatment." />
 
     <meta name="robots" content="index, follow" />
 
@@ -91,10 +91,10 @@ Orthopedic Surgeon in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best orthopaedics and joint replacement hospital in Ranchi?",
+      "name": "Does Raj Hospital offer orthopaedics and joint replacement in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best orthopaedics and joint replacement hospitals in Ranchi offering advanced orthopedic care."
+        "text": "Yes, Raj Hospital in Ranchi offers advanced orthopaedic and joint replacement care."
       }
     },
     {
@@ -271,7 +271,7 @@ Orthopedic Surgeon in Jharkhand
                             Replacement at Raj Hospitals provides expert treatment for musculoskeletal conditions
                             including joint pain, trauma, sports injuries, and deformities. Our specialised surgeons
                             perform minimally invasive surgeries, joint replacements, arthroscopy, and complex trauma
-                            management using latest technology for optimal patient outcomes and speedy recovery. We also
+                            management using modern technology to support good recovery. We also
                             offer pediatric orthopaedics and comprehensive rehabilitation services.</p>
 
                         <!-- Why Choose Us Box -->
@@ -313,7 +313,7 @@ Orthopedic Surgeon in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art operation theatres</span>
+                                    <span class="text-gray-700">Modern operation theatres</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -616,7 +616,7 @@ Orthopedic Surgeon in Jharkhand
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Joint Replacements</h3>
                         <p class="text-gray-600 mb-4">Advanced joint replacement surgeries for Knee, Hip, Shoulder,
-                            Elbow & Ankle ensuring mobility and pain relief.</p>
+                            Elbow & Ankle to improve mobility and relieve pain.</p>
                     </div>
                 </div>
 
@@ -735,7 +735,7 @@ Orthopedic Surgeon in Jharkhand
                         <h3 class="text-xl font-semibold text-gray-900">Orthopaedic Trauma Surgery</h3>
                     </div>
                     <p class="text-gray-500 mb-4">Patient: Raja</p>
-                    <p class="text-gray-700 mb-6">Raj Hospitals provided top quality treatment for my trauma injury,
+                    <p class="text-gray-700 mb-6">
                         including surgical repair and rehabilitation. The surgeons and staff were supportive.</p>
                     <div class="bg-green-50 p-4 rounded-lg border border-green-100">
                         <div class="flex items-center space-x-2">

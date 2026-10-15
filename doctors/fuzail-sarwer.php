@@ -11,7 +11,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $page_title; ?></title>
     <meta name="description" content="Dr. Fuzail Sarwer is a Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 8+ years experience in ICU management. Book appointment now.">
-    <meta name="keywords" content="Dr. Fuzail Sarwer, Critical Care in Ranchi, Best Critical Care in Ranchi, Dr. Fuzail Sarwer Raj Hospital Ranchi, critical care doctor Ranchi">
+    <meta name="keywords" content="Dr. Fuzail Sarwer, Critical Care in Ranchi, Critical Care specialist in Ranchi, Dr. Fuzail Sarwer Raj Hospital Ranchi, critical care doctor Ranchi">
     <meta property="og:title" content="Dr. Fuzail Sarwer – Critical Care in Ranchi">
     <meta property="og:description" content="Dr. Fuzail Sarwer is a Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 8+ years experience in ICU management. Book appointment now.">
     <meta property="og:type" content="profile">
@@ -73,7 +73,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Fuzail Sarwer",
-    "description": "Dr. Fuzail Sarwer is a skilled Critical Care and Anesthesiology specialist at Raj Hospital, Ranchi, with over 8 years of experience. He provides expert ICU management, pain relief procedures, and perioperative care for surgical patients.",
+    "description": "Dr. Fuzail Sarwer is a skilled Critical Care and Anesthesiology specialist at Raj Hospital, Ranchi, with over 8 years of experience. He provides ICU management, pain relief procedures, and perioperative care for surgical patients.",
     "medicalSpecialty": "Critical Care",
     "qualifications": "MBBS, MD (Anaesthesiology), PDCC (Cardiac Anaesthesia)",
     "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp",

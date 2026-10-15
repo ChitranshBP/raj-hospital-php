@@ -77,7 +77,7 @@
             "name": "KFT Test Ka Cost Kitna Hota Hai - KFT Test Price in Hindi",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "KFT test ki price India में ₹200 से ₹800 के बीच होती है, यह lab aur city के according change hoti hai। RAJ Hospital में competitive rates पर KFT test available hai। कुछ labs में complete kidney panel (जिसमें electrolytes bhi शामिल hote hain) की price ₹1000-1500 तक हो सकती है। Home collection service bhi available hai।"
+                "text": "KFT test ki price India में ₹200 से ₹800 के बीच होती है, यह lab aur city के according change hoti hai। RAJ Hospital में KFT test available hai। कुछ labs में complete kidney panel (जिसमें electrolytes bhi शामिल hote hain) की price ₹1000-1500 तक हो सकती है। Home collection service bhi available hai।"
             }
         },
         {
@@ -157,7 +157,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -229,7 +229,7 @@
         {
             "@type": "HowToStep",
             "name": "Doctor Consultation",
-            "text": "Reports aane ke baad doctor se milein। आप खुद भी values compare kar sakte hain, lekin interpretation doctor hi best kar sakte hain।"
+            "text": "Reports aane ke baad doctor se milein। आप खुद भी values compare kar sakte hain, lekin interpretation doctor hi sahi tarah kar sakte hain।"
         }
     ]
 }
@@ -611,7 +611,7 @@
                         <h3 class="font-semibold text-gray-800 mb-2">Complete KFT</h3>
                         <p class="text-3xl font-bold text-blue-600 mb-1">₹400 - ₹800</p>
                         <p class="text-gray-500 text-sm">Creatinine, BUN, GFR, uric acid</p>
-                        <span class="text-xs bg-blue-200 text-blue-800 px-2 py-1 rounded mt-2 inline-block">Most Popular</span>
+                        <span class="text-xs bg-blue-200 text-blue-800 px-2 py-1 rounded mt-2 inline-block"></span>
                     </div>
                     <div class="bg-purple-50 p-5 rounded-xl text-center">
                         <h3 class="font-semibold text-gray-800 mb-2">KFT + Electrolytes</h3>
@@ -622,7 +622,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <p class="text-gray-700 text-sm">
-                        <strong>Pro Tip:</strong> कई labs <strong>health packages</strong> offer करते हैं जिनमें <strong>KFT</strong>, <strong>LFT</strong>, aur कई और tests <strong>economical price</strong> पर मिलते हैं। <strong>RAJ Hospital</strong> में competitive rates aur quality testing available hai।
+                        <strong>Pro Tip:</strong> कई labs <strong>health packages</strong> offer करते हैं जिनमें <strong>KFT</strong>, <strong>LFT</strong>, aur कई और tests <strong>economical price</strong> पर मिलते हैं। <strong>RAJ Hospital</strong> में KFT test available hai।
                     </p>
                 </div>
             </section>
@@ -771,7 +771,7 @@
                         Important Warning
                     </h3>
                     <p class="text-gray-700 text-sm">
-                        <strong>Abnormal KFT results</strong> को खुद से diagnose ya treat न करें। हमेशा qualified doctor से milein। Self-medication से condition worse हो सकती है। <strong>RAJ Hospital</strong> में expert nephrologists available hain।
+                        <strong>Abnormal KFT results</strong> को खुद से diagnose ya treat न करें। हमेशा qualified doctor से milein। Self-medication से condition worse हो सकती है। <strong>RAJ Hospital</strong> में nephrologist se salah li ja sakti hai।
                     </p>
                 </div>
             </section>
@@ -849,7 +849,7 @@
                     <div class="bg-gray-100 rounded-xl p-5">
                         <h3 class="font-semibold text-gray-800 mb-2">Q5: KFT Test Ka Cost Kitna Hota Hai - KFT Test Price?</h3>
                         <p class="text-gray-600 text-sm">
-                            <strong>KFT test ki price</strong> India में ₹200 से ₹800 के बीच होती है, यह lab aur city के according change hoti hai। <strong>RAJ Hospital</strong> में competitive rates पर KFT test available hai। कुछ labs में complete kidney panel (जिसमें electrolytes bhi शामिल hote hain) की price ₹1000-1500 तक हो सकती है। Home collection service bhi available hai।
+                            <strong>KFT test ki price</strong> India में ₹200 से ₹800 के बीच होती है, यह lab aur city के according change hoti hai। <strong>RAJ Hospital</strong> में KFT test available hai। कुछ labs में complete kidney panel (जिसमें electrolytes bhi शामिल hote hain) की price ₹1000-1500 तक हो सकती है। Home collection service bhi available hai।
                         </p>
                     </div>
 
@@ -869,14 +869,14 @@
                     <strong>KFT test kya hota hai</strong> - अब आप जानते हैं कि <strong>KFT test</strong> या <strong>kidney function test</strong> हमारी kidney health check करने का important tool है। Regular <strong>KFT screening</strong> especially important है अगर आप <strong>diabetes</strong>, <strong>high BP</strong> या family history of kidney disease रखते हैं।
                 </p>
                 <p>
-                    <strong>RAJ Hospital</strong> में <strong>KFT test</strong> accurate results aur reasonable price पर available है। <strong>Kidney health</strong> के लिए healthy lifestyle, proper hydration, aur regular checkups follow करें। किसी भी <strong>kidney related symptoms</strong> पर doctor से contact करें।
+                    <strong>RAJ Hospital</strong> में <strong>KFT test</strong> available है। <strong>Kidney health</strong> के लिए healthy lifestyle, proper hydration, aur regular checkups follow करें। किसी भी <strong>kidney related symptoms</strong> पर doctor से contact करें।
                 </p>
             </section>
 
             <!-- CTA Section -->
             <div class="bg-secondary-600 text-white p-8 rounded-xl text-center">
                 <h2 class="text-2xl font-bold mb-4">KFT Test Karwana Chahte Hai?</h2>
-                <p class="mb-6">RAJ Hospital में KFT test aur complete kidney checkup available hai। Expert doctors se milein।</p>
+                <p class="mb-6">RAJ Hospital में KFT test aur complete kidney checkup available hai। Doctor se milein।</p>
                 <a href="/contact.php" class="inline-block bg-white text-secondary-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                     Appointment Book Karein
                 </a>

@@ -269,13 +269,13 @@ $base_url = '../';
                 <a href="https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-hospital-blue hover:underline">डायबिटीज़ डाइट प्लान</a> के अनुसार ये खाना सुरक्षित है और शुगर कंट्रोल में मदद करता है:
             </p>
 
-            <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">हरी सब्ज़ियाँ (सबसे अच्छी):</h3>
+            <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">हरी सब्ज़ियाँ (फायदेमंद):</h3>
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-green-50 p-4 rounded-lg">
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
                         <li><strong>पालक (Spinach)</strong> - Iron और मैग्नीशियम से भरपूर</li>
                         <li><strong>भिंडी (Okra)</strong> - Low GI, फाइबर से भरपूर</li>
-                        <li><strong>करेला (Bitter Gourd)</strong> - शुगर कम करने में मददगार</li>
+                        <li><strong>करेला (Bitter Gourd)</strong> - Low calorie, फाइबर युक्त सब्ज़ी</li>
                         <li><strong>लौकी (Bottle Gourd)</strong> - हल्का और आसानी से पचता है</li>
                         <li><strong>तोरी (Tori)</strong> - Low calorie, high fiber</li>
                     </ul>
@@ -286,7 +286,7 @@ $base_url = '../';
                         <li><strong>फूल गोभी</strong> - विटामिन C का स्रोत</li>
                         <li><strong>ब्रोकली</strong> - सल्फोराफेन होता है</li>
                         <li><strong>शक्करंद</strong> (Sweet Pumpkin) - सीमित मात्रा में</li>
-                        <li><strong>मेथी</strong> - शुगर कंट्रोल में प्रभावी</li>
+                        <li><strong>मेथी</strong> - फाइबर से भरपूर (दवा का विकल्प नहीं)</li>
                     </ul>
                 </div>
             </div>
@@ -295,7 +295,7 @@ $base_url = '../';
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-blue-50 p-4 rounded-lg">
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
-                        <li><strong>मूंग दाल</strong> - सबसे अच्छी, Low GI</li>
+                        <li><strong>मूंग दाल</strong> - हल्की और Low GI</li>
                         <li><strong>मसूर दाल (Masur)</strong> - प्रोटीन और फाइबर</li>
                         <li><strong>चना दाल</strong> - ऊर्जा और पोषण</li>
                         <li><strong>उड़द दाल</strong> - सीमित मात्रा में</li>
@@ -314,7 +314,7 @@ $base_url = '../';
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">अनाज और कार्ब्स:</h3>
             <div class="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-6">
                 <ul class="list-disc pl-5 text-gray-700 space-y-2">
-                    <li><strong>ओट्स (Oats)</strong> - GI 55, सबसे अच्छा विकल्प</li>
+                    <li><strong>ओट्स (Oats)</strong> - GI 55, अच्छा विकल्प</li>
                     <li><strong>ब्राउन राइस</strong> - सफेद चावल से बेहतर</li>
                     <li><strong>मल्टीग्रेन रोटी</strong> - गेहूं + जौ + राजगिरा</li>
                     <li><strong>बाजरा</strong> - राजमा, बज्रा इत्यादि</li>

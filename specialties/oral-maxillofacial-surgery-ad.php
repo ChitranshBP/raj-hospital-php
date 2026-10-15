@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Oral & Maxillofacial Surgery in Ranchi | Best Maxillofacial Surgeon in Ranchi – Raj Hospital</title>
+    <title>Oral & Maxillofacial Surgery in Ranchi | Maxillofacial Surgeon in Ranchi – Raj Hospital</title>
 
     <meta name="description"
         content="Raj Hospital offers advanced oral and maxillofacial surgery in Ranchi with expert surgeons for jaw, facial trauma and oral surgical procedures." />
@@ -91,10 +91,10 @@ Oral Surgery Hospital in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best hospital for oral and maxillofacial surgery in Ranchi?",
+      "name": "Does Raj Hospital offer oral and maxillofacial surgery in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best hospitals in Ranchi for oral and maxillofacial surgery."
+        "text": "Yes, Raj Hospital in Ranchi offers oral and maxillofacial surgery."
       }
     },
     {
@@ -208,7 +208,7 @@ Oral Surgery Hospital in Jharkhand
                             the mouth, jaw, face, and neck. Our team of skilled surgeons specializes in complex
                             procedures including wisdom tooth extraction, dental implants, corrective jaw surgery
                             (orthognathic surgery), facial trauma reconstruction, TMJ disorders, and removal of cysts
-                            and tumors. With state-of-the-art surgical facilities and advanced imaging technology, we
+                            and tumors. With modern surgical facilities and advanced imaging technology, we
                             deliver precise, safe, and effective treatment with minimal discomfort and faster recovery
                             times.</p>
 
@@ -326,7 +326,7 @@ Oral Surgery Hospital in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Wisdom Tooth Extraction</h3>
-                        <p class="text-gray-600 mb-4">Safe and painless removal of impacted or problematic wisdom teeth
+                        <p class="text-gray-600 mb-4">Removal of impacted or problematic wisdom teeth under anaesthesia
                             with minimal recovery time.</p>
                     </div>
                 </div>
@@ -338,7 +338,7 @@ Oral Surgery Hospital in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Dental Implants & Bone Grafting</h3>
-                        <p class="text-gray-600 mb-4">Permanent tooth replacement solutions with titanium implants and
+                        <p class="text-gray-600 mb-4">Long-lasting, fixed tooth replacement with titanium implants and
                             bone augmentation procedures.</p>
                     </div>
                 </div>
@@ -515,7 +515,7 @@ Oral Surgery Hospital in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Modern anesthesia techniques make the procedure virtually painless. Some discomfort
+                                <p>Local or general anaesthesia keeps you comfortable during the procedure. Some discomfort
                                     after surgery is normal but can be managed with prescribed medications.</p>
                             </div>
                         </div>
@@ -540,8 +540,8 @@ Oral Surgery Hospital in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>With proper care and oral hygiene, dental implants can last a lifetime. They have a
-                                    success rate of over 95% and function just like natural teeth.</p>
+                                <p>With proper care and oral hygiene, dental implants can last for many years and
+                                    function much like natural teeth.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"

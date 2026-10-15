@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Complete Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Can anxiety cause a heart attack? RAJ Hospital Ranchi explains the link between anxiety, panic attacks and heart attack risk — with symptoms checklist and when to seek emergency care.">
-    <meta name="keywords" content="can anxiety cause a heart attack, anxiety heart attack, panic attack vs heart attack, anxiety and heart disease, stress cardiomyopathy, broken heart syndrome, RAJ Hospital Ranchi, best hospital in Ranchi">
+    <meta name="keywords" content="can anxiety cause a heart attack, anxiety heart attack, panic attack vs heart attack, anxiety and heart disease, stress cardiomyopathy, broken heart syndrome, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/can-anxiety-cause-a-heart-attack/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
@@ -111,7 +111,7 @@
                 "name": "How do I know if chest pain is anxiety or a heart attack?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Anxiety-related chest pain is usually sharp, momentary, and tied to a stressful thought, and resolves within 20 minutes. Heart attack pain is typically a pressure, squeezing or heaviness in the center of the chest that lasts more than a few minutes, may radiate to the left arm, jaw or back, and is often accompanied by sweating, nausea or breathlessness. If you are unsure, treat it as a heart attack and seek emergency care immediately — at the [best hospital in Ranchi](https://rajhospitals.com/) or your nearest cardiac unit."
+                    "text": "Anxiety-related chest pain is usually sharp, momentary, and tied to a stressful thought, and resolves within 20 minutes. Heart attack pain is typically a pressure, squeezing or heaviness in the center of the chest that lasts more than a few minutes, may radiate to the left arm, jaw or back, and is often accompanied by sweating, nausea or breathlessness. If you are unsure, treat it as a heart attack and seek emergency care immediately — at the nearest hospital with a cardiac emergency unit."
                 }
             },
             {
@@ -135,7 +135,7 @@
                 "name": "When should an anxious person go to the ER for chest pain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Go to the emergency department immediately if chest pain is crushing, radiates to the arm/jaw, lasts more than 5 minutes, is accompanied by sweating, vomiting, fainting or breathlessness, or if it is the first time you are having such symptoms. Anxiety sufferers should err on the side of caution — cardiologists at [RAJ Hospital Ranchi](https://rajhospitals.com/contact.php) can perform an ECG and troponin test within minutes to rule out a cardiac cause."
+                    "text": "Go to the emergency department immediately if chest pain is crushing, radiates to the arm/jaw, lasts more than 5 minutes, is accompanied by sweating, vomiting, fainting or breathlessness, or if it is the first time you are having such symptoms. Anxiety sufferers should err on the side of caution — cardiologists at [RAJ Hospital Ranchi](https://rajhospitals.com/contact.php) can perform an ECG and troponin tests to check for a cardiac cause."
                 }
             }
         ]
@@ -179,7 +179,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Can anxiety cause a heart attack?</strong> It is one of the most searched questions on Google by patients who experience panic-like symptoms — racing heart, chest tightness, breathlessness. According to <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, the short answer is: anxiety alone rarely causes a classic heart attack, but chronic anxiety meaningfully raises long-term cardiac risk and, in extreme cases, can trigger stress cardiomyopathy that mimics one. This guide explains the science, the symptoms, and exactly when to seek emergency help.
+                    <strong>Can anxiety cause a heart attack?</strong> It is one of the most searched questions on Google by patients who experience panic-like symptoms — racing heart, chest tightness, breathlessness. According to <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>, the short answer is: anxiety alone rarely causes a classic heart attack, but chronic anxiety meaningfully raises long-term cardiac risk and, in extreme cases, can trigger stress cardiomyopathy that mimics one. This guide explains the science, the symptoms, and exactly when to seek emergency help.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -245,7 +245,7 @@
 
                 <h2 class="raj-h2">How Cardiologists at RAJ Hospital Rule Out a Heart Attack</h2>
                 <p class="text-gray-700 mb-4">
-                    For any patient arriving with chest pain and a history of anxiety, the <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">emergency and cardiology team at RAJ Hospital</a> follows a strict 3-step rule-out protocol that takes less than 30 minutes:
+                    For any patient arriving with chest pain and a history of anxiety, the <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">emergency and cardiology team at RAJ Hospital</a> follows a standard rule-out approach:
                 </p>
                 <ol class="list-decimal list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>12-lead ECG</strong> — looks for ST-segment elevation/depression. A normal ECG during pain is reassuring but not definitive.</li>
@@ -253,12 +253,12 @@
                     <li><strong>Echocardiography or CT coronary angiography</strong> — ordered if suspicion remains, to visualise the coronary arteries and ejection fraction.</li>
                 </ol>
                 <p class="text-gray-700 mb-4">
-                    If all three are normal, anxiety is the most likely diagnosis and the patient is referred to a psychiatrist or counsellor for the underlying panic disorder. RAJ Hospital's integrated cardiology + psychiatry clinic in Ranchi is one of the few in Jharkhand that handles this overlap under one roof.
+                    If all three are normal, anxiety is the most likely diagnosis and the patient is referred to a psychiatrist or counsellor for the underlying panic disorder. RAJ Hospital has cardiology and psychiatry departments that can coordinate care when both are needed.
                 </p>
 
                 <h2 class="raj-h2">Treatment — How to Protect Your Heart When You Have Anxiety</h2>
                 <p class="text-gray-700 mb-4">
-                    Managing anxiety is, in a very real sense, preventive cardiology. The treatment plan at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best multispeciality hospital in Ranchi</a>, typically combines:
+                    Managing anxiety is, in a very real sense, preventive cardiology. The treatment plan at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>, typically combines:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Cognitive behavioural therapy (CBT)</strong> — first-line for panic disorder; 60–80% of patients see meaningful improvement within 12 weeks.</li>
@@ -270,7 +270,7 @@
 
                 <h2 class="raj-h2">When to Book a Consultation at RAJ Hospital</h2>
                 <p class="text-gray-700 mb-4">
-                    If you have been to a local clinic and the doctor has used the words "it's just anxiety" without an ECG and troponin, ask for a second opinion. The <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">cardiologists at RAJ Hospital Ranchi</a> see anxious patients every day and have a low threshold for cardiac work-up. Book an appointment through the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital contact page</a> or walk into the 24×7 emergency department.
+                    If chest pain has been put down to anxiety without an ECG or troponin test, it is reasonable to ask your doctor about a cardiac evaluation. The <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">cardiologists at RAJ Hospital Ranchi</a> can assess whether cardiac tests are needed. Book an appointment through the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital contact page</a> or walk into the 24×7 emergency department.
                 </p>
 
                 <!-- CTA -->
@@ -285,7 +285,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">Anxiety, chest pain और heart attack risk को बेहतर समझने के लिए ये guides भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/can-gas-cause-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Gas Cause a Heart Attack? — Symptoms, Differences & Emergency Signs</a></li>
                         <li><a href="/blog/is-yawning-a-sign-of-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Is Yawning a Sign of a Heart Attack? — What Cardiologists Say</a></li>
                         <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk & Prevention</a></li>
@@ -300,7 +300,7 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can anxiety cause a heart attack in a young person?</h3>
-                            <p class="text-gray-700">Directly, no. In a young person with no pre-existing heart disease, anxiety does not block a coronary artery. However, anxiety can trigger stress cardiomyopathy and, over years, raise the risk of early atherosclerosis. If you are under 30 with chest pain, the most common cardiac causes are pericarditis or coronary artery spasm — both diagnosed at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a> with ECG and echo.</p>
+                            <p class="text-gray-700">Directly, no. In a young person with no pre-existing heart disease, anxiety does not block a coronary artery. However, anxiety can trigger stress cardiomyopathy and, over years, raise the risk of early atherosclerosis. If you are under 30 with chest pain, the most common cardiac causes are pericarditis or coronary artery spasm — both diagnosed at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a> with ECG and echo.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Are anti-anxiety medicines safe for the heart?</h3>

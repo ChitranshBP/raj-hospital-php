@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Plastic Surgery Hospital in Ranchi | Raj Hospitals</title>
+    <title>Plastic Surgery Hospital in Ranchi | Raj Hospitals</title>
     <meta name="description"
         content="Raj Hospital offers advanced aesthetic and reconstructive surgery in Ranchi with experienced plastic surgeons, modern facilities and safe surgical care." />
 
@@ -87,10 +87,10 @@ Plastic Surgeon in Ranchi
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which hospital is best for aesthetic and reconstructive surgery in Ranchi?",
+      "name": "Does Raj Hospital offer aesthetic and reconstructive surgery in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best hospitals in Ranchi for aesthetic and reconstructive surgery with experienced plastic surgeons."
+        "text": "Yes, Raj Hospital in Ranchi offers aesthetic and reconstructive surgery by experienced plastic surgeons."
       }
     },
     {
@@ -98,7 +98,7 @@ Plastic Surgeon in Ranchi
       "name": "Is cosmetic and reconstructive surgery safe at Raj Hospital?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, aesthetic and reconstructive surgeries at Raj Hospital are performed using advanced techniques with strict safety standards."
+        "text": "Aesthetic and reconstructive surgeries at Raj Hospital are performed by qualified plastic surgeons following standard safety protocols; like any surgery they carry some risks, which your surgeon will explain before treatment."
       }
     }
   ]
@@ -243,8 +243,8 @@ Plastic Surgeon in Ranchi
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Aesthetic & Reconstructive Surgery</h1>
-                    <p class="text-xl text-gray-200">Best hospital for aesthetic & reconstructive surgery in Ranchi with
-                        expert plastic surgeons and cutting-edge technology</p>
+                    <p class="text-xl text-gray-200">Aesthetic & reconstructive surgery in Ranchi with
+                        experienced plastic surgeons and modern technology</p>
                 </div>
             </div>
         </div>
@@ -260,12 +260,12 @@ Plastic Surgeon in Ranchi
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Aesthetic &
                             Reconstructive Surgery at Raj Hospitals, Ranchi, combines advanced cosmetic procedures with
-                            reconstructive expertise to deliver world-class care. Established by eminent plastic
+                            reconstructive expertise to deliver comprehensive care. Led by qualified plastic
                             surgeons, the department provides individualized treatments for scars, birth defects, facial
-                            reconstruction, and body reshaping. Using state-of-the-art technology and minimally invasive
+                            reconstruction, and body reshaping. Using modern technology and minimally invasive
                             techniques, our expert plastic and maxillofacial surgeons improve aesthetics, self-esteem,
                             and functional outcomes. Whether it is corrective surgery after trauma, congenital defect
-                            management, or cosmetic enhancement, Raj Hospitals ensures safe, precise, and
+                            management, or cosmetic enhancement, Raj Hospitals aims for safe, precise, and
                             natural-looking results.</p>
 
                         <!-- Why Choose Us Box -->
@@ -290,7 +290,7 @@ Plastic Surgeon in Ranchi
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art operating theatres</span>
+                                    <span class="text-gray-700">Modern operating theatres</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check"
@@ -300,7 +300,7 @@ Plastic Surgeon in Ranchi
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Affordable treatment packages for patients</span>
+                                    <span class="text-gray-700">Treatment packages available on consultation</span>
                                 </li>
                             </ul>
                         </div>
@@ -327,7 +327,7 @@ Plastic Surgeon in Ranchi
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art operating theatres</span>
+                                    <span class="text-gray-700">Modern operating theatres</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -447,7 +447,7 @@ Plastic Surgeon in Ranchi
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Wrinkle Filling</h3>
-                        <p class="text-gray-600 mb-4">Safe dermal fillers to reduce signs of aging and restore youthful
+                        <p class="text-gray-600 mb-4">Dermal fillers to soften wrinkles and restore lost volume for a refreshed
                             look.</p>
                     </div>
                 </div>
@@ -594,7 +594,7 @@ Plastic Surgeon in Ranchi
                         <h3 class="text-xl font-semibold text-gray-900">Scar Revision & Reconstructive Surgery</h3>
                     </div>
                     <p class="text-gray-500 mb-4">Patient: Mr. Gill</p>
-                    <p class="text-gray-700 mb-6">Raj Hospital provided me with the best reconstructive surgery
+                    <p class="text-gray-700 mb-6">
                         experience. The scars I had were treated with great precision, and now I feel confident again.
                     </p>
                     <div class="bg-green-50 p-4 rounded-lg border border-green-100">
@@ -616,7 +616,7 @@ Plastic Surgeon in Ranchi
                     </div>
                     <p class="text-gray-500 mb-4">Patient: Mrs. Kaur</p>
                     <p class="text-gray-700 mb-6">I underwent facial rejuvenation at Raj Hospital. The doctors were
-                        supportive, and the results looked natural and safe. Truly one of the best facilities in Ranchi.
+                        supportive, and the results looked natural and safe. 
                     </p>
                     <div class="bg-green-50 p-4 rounded-lg border border-green-100">
                         <div class="flex items-center space-x-2">
@@ -700,8 +700,8 @@ Plastic Surgeon in Ranchi
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Raj Hospitals provides affordable packages for cosmetic & reconstructive surgeries,
-                                    ensuring high-quality results at cost-effective pricing.</p>
+                                <p>The cost of cosmetic & reconstructive surgery at Raj Hospitals depends on the procedure and is shared
+                                    after an individual consultation.</p>
                             </div>
                         </div>
                     </div>

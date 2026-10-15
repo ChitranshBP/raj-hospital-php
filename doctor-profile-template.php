@@ -30,7 +30,7 @@ if (!isset($pageDescription)) {
 
 // Keywords
 if (!isset($pageKeywords)) {
-    $pageKeywords = $doctorName . ', ' . $specialty . ' in Ranchi, Best ' . $specialty . ' in Ranchi, ' . $doctorName . ' ' . $specialty . ', ' . $doctorName . ' Raj Hospital Ranchi, ' . $specialty . ' doctor Ranchi';
+    $pageKeywords = $doctorName . ', ' . $specialty . ' in Ranchi, ' . $specialty . ' specialist in Ranchi, ' . $doctorName . ' ' . $specialty . ', ' . $doctorName . ' Raj Hospital Ranchi, ' . $specialty . ' doctor Ranchi';
 }
 
 // OG Type

@@ -229,7 +229,7 @@ $base_url = '../';
                     <i data-feather="sun" class="w-5 h-5 text-yellow-500 mt-0.5"></i>
                     <div class="ml-3">
                         <p class="font-semibold text-yellow-700">क्या आप जानते हैं?</p>
-                        <p class="text-gray-700 text-sm">भारत में 70-90% लोगों में विटामिन D की कमी है! यह एक आम समस्या है जिसे अक्सर अनदेखा किया जाता है।</p>
+                        <p class="text-gray-700 text-sm">भारत में कई studies में बड़ी संख्या में लोगों में विटामिन D की कमी पाई गई है। यह एक आम समस्या है जिसे अक्सर अनदेखा किया जाता है।</p>
                     </div>
                 </div>
             </div>
@@ -393,7 +393,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">1. सूर्य की रोशनी (Sun Exposure)</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                यह विटामिन D का सबसे अच्छा और free source है। लेकिन सही समय और सही तरीके से:
+                यह विटामिन D का मुख्य और free source है। लेकिन सही समय और सही तरीके से:
             </p>
 
             <div class="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-4">
@@ -409,7 +409,7 @@ $base_url = '../';
                         <tr class="border-t">
                             <td class="py-2 pr-4">सुबह 10-11 बजे</td>
                             <td class="py-2 pr-4">15-20 मिनट</td>
-                            <td class="py-2">सबसे अच्छा समय - UVB rays active</td>
+                            <td class="py-2">उपयुक्त समय - UVB rays active</td>
                         </tr>
                         <tr class="border-t">
                             <td class="py-2 pr-4">दोपहर 12-3 बजे</td>
@@ -431,9 +431,9 @@ $base_url = '../';
 
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-green-50 p-4 rounded-lg">
-                    <h4 class="font-bold text-green-700 mb-3">Best Food Sources:</h4>
+                    <h4 class="font-bold text-green-700 mb-3">Food Sources:</h4>
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
-                        <li><strong>फैटी मछली</strong> - salmon, mackerel, sardines (सबसे अच्छा)</li>
+                        <li><strong>फैटी मछली</strong> - salmon, mackerel, sardines (भरपूर मात्रा में)</li>
                         <li><strong>अंडे</strong> - yolk में विटामिन D</li>
                         <li><strong>मशरूम</strong> - UV-exposed mushrooms</li>
                         <li><strong>फोर्टिफाइड मिल्क</strong> - vitamin D fortified</li>
@@ -490,7 +490,7 @@ $base_url = '../';
                 <div class="bg-blue-50 p-4 rounded-lg">
                     <h4 class="font-bold text-blue-700 mb-3">भारत में विशेष स्थिति:</h4>
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
-                        <li>70-90% Indians में कमी</li>
+                        <li>कई Indian studies में बड़े पैमाने पर कमी</li>
                         <li>Even sunny states में भी कमी</li>
                         <li>Indoor lifestyle बड़ा कारण</li>
                         <li>Pollution भी UVB block करता है</li>

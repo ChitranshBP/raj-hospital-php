@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Dr. Anupama Mahli – Obstetrics & Gynaecology in Ranchi";
 $pageDescription = "Dr. Anupama Mahli is an experienced Obstetrician & Gynaecologist at Raj Hospital, Ranchi, with over 10 years of expertise in women's healthcare. Book appointment now.";
-$pageKeywords = "Dr. Anupama Mahli, Gynaecologist in Ranchi, Best Obstetrician in Ranchi, Dr. Anupama Mahli Raj Hospital, women's health specialist Ranchi";
+$pageKeywords = "Dr. Anupama Mahli, Gynaecologist in Ranchi, Obstetrician in Ranchi, Dr. Anupama Mahli Raj Hospital, women's health specialist Ranchi";
 $canonicalUrl = "https://rajhospitals.com/doctors/anupama-mahli";
 $ogType = "profile";
 $base_url = "../";

@@ -11,7 +11,7 @@ $page_title = 'Dr. Neelam Kumari – Internal Medicine in Ranchi';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $page_title; ?></title>
     <meta name="description" content="Dr. Neelam Kumari is an Internal Medicine specialist at Raj Hospital Ranchi with 8+ years experience in diabetes, hypertension & thyroid care. Book now.">
-    <meta name="keywords" content="Dr. Neelam Kumari, Internal Medicine in Ranchi, Best Internal Medicine in Ranchi, Dr. Neelam Kumari Raj Hospital Ranchi, internal medicine doctor Ranchi">
+    <meta name="keywords" content="Dr. Neelam Kumari, Internal Medicine in Ranchi, Internal Medicine specialist in Ranchi, Dr. Neelam Kumari Raj Hospital Ranchi, internal medicine doctor Ranchi">
     <meta property="og:title" content="Dr. Neelam Kumari – Internal Medicine in Ranchi">
     <meta property="og:description" content="Dr. Neelam Kumari is an Internal Medicine specialist at Raj Hospital Ranchi with 8+ years experience in diabetes, hypertension & thyroid care. Book now.">
     <meta property="og:type" content="profile">
@@ -73,7 +73,7 @@ $page_title = 'Dr. Neelam Kumari – Internal Medicine in Ranchi';
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Neelam Kumari",
-    "description": "Dr. Neelam Kumari is an Internal Medicine specialist at Raj Hospital, Ranchi, with over 8 years of experience in comprehensive medical care. She provides expert treatment for diabetes, hypertension, thyroid disorders, and general health management.",
+    "description": "Dr. Neelam Kumari is an Internal Medicine specialist at Raj Hospital, Ranchi, with over 8 years of experience in comprehensive medical care. She provides treatment for diabetes, hypertension, thyroid disorders, and general health management.",
     "medicalSpecialty": "Internal Medicine",
     "qualifications": "MBBS, MD",
     "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/General Physician - Dr. Neelam-Kumari.webp",

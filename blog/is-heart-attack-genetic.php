@@ -170,7 +170,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> genetic?</strong> The honest answer from the cardiology team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is "yes, partly." You do not inherit a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> the way you inherit eye colour, but the risk of having one is heavily influenced by the DNA you carry — and in some families, the genetic contribution is large enough to cause heart attacks in the 30s and 40s. This guide explains what the science says, when to consider genetic testing, and what to do if heart disease runs in your family.
+                    <strong>Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> genetic?</strong> The honest answer from the cardiology team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>, is "yes, partly." You do not inherit a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> the way you inherit eye colour, but the risk of having one is heavily influenced by the DNA you carry — and in some families, the genetic contribution is large enough to cause heart attacks in the 30s and 40s. This guide explains what the science says, when to consider genetic testing, and what to do if heart disease runs in your family.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -202,7 +202,7 @@
                     </div>
                     <div class="bg-white border-l-4 border-emerald-500 p-4 rounded-r-lg">
                         <h4 class="font-bold text-emerald-700"><i data-feather="circle" class="raj-icon raj-icon-sm"></i> 3. Hypertrophic Cardiomyopathy (HCM)</h4>
-                        <p class="text-sm text-gray-700 mt-1">Affects 1 in 500. Sarcomere gene mutations (MYH7, MYBPC3) cause a thickened heart muscle that can suddenly obstruct flow or trigger fatal arrhythmias. The leading cause of sudden cardiac death in young athletes. Diagnosed by echo and cardiac MRI; treated with beta-blockers, septal ablation, or ICD.</p>
+                        <p class="text-sm text-gray-700 mt-1">Affects 1 in 500. Sarcomere gene mutations (MYH7, MYBPC3) cause a thickened heart muscle that can suddenly obstruct flow or trigger fatal arrhythmias. An important cause of sudden cardiac death in young athletes. Diagnosed by echo and cardiac MRI; treated with beta-blockers, septal ablation, or ICD.</p>
                     </div>
                     <div class="bg-white border-l-4 border-emerald-500 p-4 rounded-r-lg">
                         <h4 class="font-bold text-emerald-700"><i data-feather="circle" class="raj-icon raj-icon-sm"></i> 4. Long QT, Brugada, CPVT</h4>
@@ -225,7 +225,7 @@
 
                 <h2 class="raj-h2">The Family Heart Risk Clinic at RAJ Hospital</h2>
                 <p class="text-gray-700 mb-4">
-                    <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best multispeciality hospital in Ranchi</a>, runs Jharkhand's first dedicated Family Heart Risk clinic. In a single 90-minute visit, the team performs:
+                    <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>, offers preventive cardiology consultation. In a single 90-minute visit, the team performs:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Detailed family pedigree</strong> — a 3-generation family tree of cardiac events</li>
@@ -236,7 +236,7 @@
                     <li><strong>Genetic counselling</strong> — interpretation, cascade screening for family members</li>
                 </ul>
                 <p class="text-gray-700 mb-4">
-                    If a pathogenic variant is found, the clinic offers <strong>cascade screening</strong> — testing first-degree relatives to identify silent carriers and start preventive treatment before the first event. This is the most powerful way to prevent premature heart attacks in high-risk families, and is one of the flagship services at RAJ Hospital's preventive cardiology program.
+                    If a pathogenic variant is found, the clinic offers <strong>cascade screening</strong> — testing first-degree relatives to identify silent carriers and start preventive treatment before the first event. Cascade screening helps identify at-risk relatives early so prevention can start before a first event.
                 </p>
 
                 <h2 class="raj-h2">Prevention — Even With a Strong Family History</h2>
@@ -276,7 +276,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">Heart disease risk, prevention और symptoms के बारे में और जानें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत</a></li>
                         <li><a href="/blog/difference-between-heart-attack-and-cardiac-arrest.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack vs Cardiac Arrest — Key Differences</a></li>
                         <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Guide</a></li>

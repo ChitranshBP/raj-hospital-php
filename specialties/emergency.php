@@ -89,10 +89,10 @@ Emergency Medical Services in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best emergency hospital in Ranchi?",
+      "name": "Does Raj Hospital have an emergency department in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best emergency hospitals in Ranchi providing 24x7 emergency medical care."
+        "text": "Yes, Raj Hospital in Ranchi provides 24x7 emergency medical care."
       }
     },
     {
@@ -261,7 +261,7 @@ Emergency Medical Services in Jharkhand
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Emergency Medicine Department at Raj
                             Hospitals ensures immediate and effective care for all acute medical and trauma cases. Our
-                            experienced emergency consultants, trained paramedics, and ICUs on Wheels team guarantee
+                            experienced emergency consultants, trained paramedics, and ICUs on Wheels team aim to provide
                             lifesaving interventions within the golden hour.</p>
 
                         <!-- Why Choose Us Box -->
@@ -280,7 +280,7 @@ Emergency Medical Services in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">

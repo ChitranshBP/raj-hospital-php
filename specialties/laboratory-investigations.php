@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Diagnostic Laboratory in Ranchi | Best Pathology Lab in Ranchi – Raj Hospital</title>
+    <title>Diagnostic Laboratory in Ranchi | Pathology Lab in Ranchi – Raj Hospital</title>
 
     <meta name="description"
         content="Raj Hospital provides advanced laboratory investigations in Ranchi with accurate diagnostic tests, modern pathology lab and experienced technicians." />
@@ -89,10 +89,10 @@ Blood Test Lab in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best diagnostic laboratory in Ranchi?",
+      "name": "Does Raj Hospital have a diagnostic laboratory in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital has one of the best diagnostic laboratories in Ranchi providing accurate and reliable test results."
+        "text": "Yes, Raj Hospital in Ranchi has an in-house diagnostic laboratory for blood, urine and other tests."
       }
     },
     {
@@ -202,10 +202,10 @@ Blood Test Lab in Jharkhand
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The All Blood and Laboratory
                             Investigations Department at Raj Hospitals, Ranchi, offers precise, reliable, and timely
                             diagnostic services that support early disease detection and effective treatment decisions.
-                            Equipped with state-of-the-art analyzers and automated systems, our modern laboratory
-                            ensures high accuracy for every test conducted. From basic blood work and hormone analysis
+                            Equipped with automated analyzers and systems, our modern laboratory
+                            follows quality-control procedures for every test conducted. From basic blood work and hormone analysis
                             to specialized investigations like FNAC and Biopsy, all tests are performed under strict
-                            quality control by experienced medical experts. Raj Hospitals is known for top-tier
+                            quality control by experienced medical experts. Raj Hospitals focuses on
                             diagnostic accuracy, efficiency, and patient safety across Ranchi and Jharkhand.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
@@ -617,7 +617,7 @@ Blood Test Lab in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>We offer all types of blood and biochemical tests including CBC, LFT, KFT, lipid
+                                <p>We offer a wide range of blood and biochemical tests including CBC, LFT, KFT, lipid
                                     profile, thyroid, infection markers, and hormonal assays.</p>
                             </div>
                         </div>

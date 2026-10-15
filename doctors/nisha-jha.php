@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Nisha Jha – Obstetrics & Gynaecology in Ranchi</title>
     <meta name="description" content="Dr. Nisha Jha is a Consultant Obstetrician & Gynaecologist at Raj Hospital, Ranchi with expertise in advanced laparoscopic surgery, fetal medicine, high-risk obstetrics, infertility, PCOS and menopausal care. Creator of the Empowered Mother Blueprint.">
-    <meta name="keywords" content="Dr. Nisha Jha, Gynaecologist in Ranchi, Best Obstetrician Ranchi, laparoscopic gynaecology Ranchi, fetal medicine doctor Ranchi, high-risk pregnancy doctor Ranchi, Empowered Mother Blueprint, Dr. Nisha Jha Raj Hospital">
+    <meta name="keywords" content="Dr. Nisha Jha, Gynaecologist in Ranchi, Obstetrician Ranchi, laparoscopic gynaecology Ranchi, fetal medicine doctor Ranchi, high-risk pregnancy doctor Ranchi, Empowered Mother Blueprint, Dr. Nisha Jha Raj Hospital">
     <meta property="og:title" content="Dr. Nisha Jha – Obstetrics & Gynaecology in Ranchi">
     <meta property="og:description" content="Dr. Nisha Jha is a Consultant Obstetrician & Gynaecologist at Raj Hospital, Ranchi with expertise in advanced laparoscopic surgery, fetal medicine, high-risk obstetrics, infertility, PCOS and menopausal care.">
     <meta property="og:type" content="profile">
@@ -181,13 +181,13 @@
             expertise: [
                 'Creator of Empowered Mother Blueprint',
                 'Advanced Laparoscopic Surgery',
-                'Vaginal Surgery Specialist',
-                'Fetal Development Expert',
-                'Lamaze and Hypnobirthing Expert',
-                'Garbhasanskar Expert',
-                'Breast Feeding Expert',
-                'Infertility Expert',
-                'Fetal Medicine Expert',
+                'Vaginal Surgery',
+                'Fetal Development Counselling',
+                'Lamaze and Hypnobirthing',
+                'Garbhasanskar',
+                'Breastfeeding Support',
+                'Infertility',
+                'Fetal Medicine',
                 'Adolescent Care and PCOS',
                 'Menopausal Care',
                 'High Risk Obstetrics',

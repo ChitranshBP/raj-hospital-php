@@ -7,9 +7,9 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Neuro & Spine Surgeon in Ranchi | Raj Hospital</title>
-    <meta name="description" content="Looking for the best neuro & spine surgeon in Ranchi? Raj Hospital offers advanced brain and spine surgery with experienced neurosurgeons. Book consultation today." />
-    <meta name="keywords" content="best neuro surgeon in Ranchi, spine surgery Ranchi, neurosurgeon Ranchi, brain tumor surgery Ranchi, Raj Hospital neuro surgery" />
+    <title>Neuro & Spine Surgeon in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Looking for a neuro & spine surgeon in Ranchi? Raj Hospital offers advanced brain and spine surgery with experienced neurosurgeons. Book consultation today." />
+    <meta name="keywords" content="neuro surgeon in Ranchi, spine surgery Ranchi, neurosurgeon Ranchi, brain tumor surgery Ranchi, Raj Hospital neuro surgery" />
     <meta name="robots" content="index, follow" />
 
     <meta name="geo.region" content="IN-JH" />
@@ -80,7 +80,7 @@
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Neuro & Spine Surgery</h1>
-                    <p class="text-xl text-gray-200">Best Neuro & Spine Surgeons in Ranchi at Raj Hospital. Advanced brain and spine surgery with state-of-the-art facilities and expert surgical care.</p>
+                    <p class="text-xl text-gray-200">Neuro & Spine Surgeons in Ranchi at Raj Hospital. Advanced brain and spine surgery with modern facilities and experienced surgical care.</p>
                 </div>
             </div>
         </div>
@@ -92,8 +92,8 @@
             <div class="grid lg:grid-cols-3 gap-12">
                 <div class="lg:col-span-2">
                     <div class="fade-in">
-                        <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview - Best Neuro & Spine Surgery Hospital in Ranchi</h2>
-                        <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neuro & Spine Surgery at Raj Hospitals provides comprehensive surgical care for brain and spine disorders. As the <strong>best neuro and spine surgery hospital in Ranchi</strong>, our expert neurosurgeons utilize advanced surgical techniques and state-of-the-art equipment to perform complex brain and spine procedures including brain tumor removal, spinal fusion, minimally invasive spine surgery, and more.</p>
+                        <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview - Neuro & Spine Surgery Hospital in Ranchi</h2>
+                        <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neuro & Spine Surgery at Raj Hospitals provides comprehensive surgical care for brain and spine disorders. As the <strong>neuro and spine surgery department of Raj Hospitals in Ranchi</strong>, our expert neurosurgeons utilize advanced surgical techniques and modern equipment to perform complex brain and spine procedures including brain tumor removal, spinal fusion, minimally invasive spine surgery, and more.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
                             <h3 class="text-xl font-semibold text-gray-900 mb-4 flex items-center">
@@ -103,11 +103,11 @@
                             <ul class="space-y-3">
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Experienced neurosurgeons with thousands of successful surgeries</span>
+                                    <span class="text-gray-700">Experienced neurosurgeons performing a wide range of brain and spine surgeries</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art operating rooms with microscopes and endoscopes</span>
+                                    <span class="text-gray-700">Operating rooms with microscopes and endoscopes</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
@@ -184,7 +184,7 @@
                 <div class="space-y-8 fade-in">
                     <div class="text-center mb-6">
                         <h3 class="text-2xl font-bold text-gray-900 mb-2">Meet Our Neuro & Spine Surgeons</h3>
-                        <p class="text-gray-600 font-medium">Top neurosurgeons in Ranchi for brain and spine surgery</p>
+                        <p class="text-gray-600 font-medium">Neurosurgeons in Ranchi for brain and spine surgery</p>
                     </div>
                     <div class="flex flex-col gap-8 overflow-y-auto" style="max-height: 1000px; max-width: 340px; margin: 0 auto;">
 
@@ -379,7 +379,7 @@
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Awake Brain Surgery</h3>
-                        <p class="text-gray-600 mb-4">State-of-the-art awake craniotomy for tumor removal near critical brain areas while preserving neurological functions.</p>
+                        <p class="text-gray-600 mb-4">Awake craniotomy for tumor removal near critical brain areas, aimed at preserving neurological functions.</p>
                     </div>
                 </div>
 
@@ -483,11 +483,11 @@
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Who is the best neuro surgeon in Ranchi?</h3>
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Who are the neurosurgeons at Raj Hospital, Ranchi?</h3>
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Raj Hospital has some of the best neuro and spine surgeons in Ranchi with extensive experience in performing complex brain and spine surgeries with high success rates.</p>
+                                <p>Raj Hospital has experienced neuro and spine surgeons in Ranchi who perform complex brain and spine surgeries.</p>
                             </div>
                         </div>
 
@@ -509,7 +509,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Surgery may be needed for severe spinal cord compression, herniated discs causing nerve damage, spinal instability, tumors, and trauma. Our surgeons determine the best surgical approach after thorough evaluation.</p>
+                                <p>Surgery may be needed for severe spinal cord compression, herniated discs causing nerve damage, spinal instability, tumors, and trauma. Our surgeons determine the most suitable surgical approach after thorough evaluation.</p>
                             </div>
                         </div>
                     </div>

@@ -7,10 +7,10 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Head Injuries Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Head Injuries Treatment in Ranchi | Neurosurgery | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="24/7 Emergency Head Injury treatment in Ranchi at Raj Hospital. Expert neurosurgeons dealing with traumatic brain injuries, skull fractures, and concussions." />
+    <meta name="description" content="24/7 Emergency Head Injury treatment in Ranchi at Raj Hospital. Neurosurgical care for traumatic brain injuries, skull fractures, and concussions." />
     <meta name="keywords" content="head injury treatment in Ranchi, traumatic brain injury Ranchi, neurotrauma hospital Ranchi, neurosurgeon for accidental injury Ranchi, Raj Hospital trauma care" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
@@ -173,8 +173,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Head Injuries Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Head Injuries Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -190,7 +190,7 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Head Injuries Treatment in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Head injuries span from minor bumps or concussions to severe Traumatic Brain Injuries (TBI) and skull fractures. Immediate medical attention is vital to prevent irreversible brain damage. Raj Hospital features a state-of-the-art trauma center ensuring 24/7 emergency <strong>head injury treatment in Ranchi</strong>.
+                            Head injuries span from minor bumps or concussions to severe Traumatic Brain Injuries (TBI) and skull fractures. Immediate medical attention is vital to prevent irreversible brain damage. Raj Hospital's emergency department provides 24/7 <strong>head injury treatment in Ranchi</strong>.
                         </p>
                     </div>
 
@@ -228,7 +228,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">

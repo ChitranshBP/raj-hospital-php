@@ -111,7 +111,7 @@
                         <i data-feather="monitor" class="w-6 h-6 text-[#ea5234]"></i>
                     </div>
                     <h3 class="text-xl font-semibold text-gray-900 mb-3">Modern Facilities</h3>
-                    <p class="text-gray-700">Work with state-of-the-art medical equipment and technology in a well-maintained and comfortable environment.</p>
+                    <p class="text-gray-700">Work with modern medical equipment and technology in a well-maintained and comfortable environment.</p>
                 </div>
                  <!-- Benefit 3 -->
                 <div class="bg-gradient-to-br from-[#fef5f3] to-[#f0fbff] p-6 rounded-xl fade-in hover:shadow-lg transition-shadow delay-200">

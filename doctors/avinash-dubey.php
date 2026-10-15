@@ -11,7 +11,7 @@ $page_title = 'Dr. Avinash Kumar Dubey – Nephrology in Ranchi';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $page_title; ?></title>
     <meta name="description" content="Dr. Avinash Kumar Dubey is an experienced Nephrologist at Raj Hospital Ranchi with 15+ years expertise in kidney disease, dialysis & kidney transplant evaluation.">
-    <meta name="keywords" content="Dr. Avinash Kumar Dubey, Nephrology in Ranchi, Best Nephrology in Ranchi, Dr. Avinash Kumar Dubey Raj Hospital Ranchi, nephrologist Ranchi">
+    <meta name="keywords" content="Dr. Avinash Kumar Dubey, Nephrology in Ranchi, Nephrologist in Ranchi, Dr. Avinash Kumar Dubey Raj Hospital Ranchi, nephrologist Ranchi">
     <meta property="og:title" content="Dr. Avinash Kumar Dubey – Nephrology in Ranchi">
     <meta property="og:description" content="Dr. Avinash Kumar Dubey is an experienced Nephrologist at Raj Hospital Ranchi with 15+ years expertise in kidney disease, dialysis & kidney transplant evaluation.">
     <meta property="og:type" content="profile">

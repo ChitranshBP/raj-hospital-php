@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Dr. Tanushree Chakroborty – Obstetrics & Gynaecology in Ranchi";
 $pageDescription = "Dr. Tanushree Chakroborty is a senior Gynaecologist at Raj Hospital, Ranchi with 15+ years experience in obstetric care & colposcopy. Book appointment now.";
-$pageKeywords = "Dr. Tanushree Chakroborty, Gynaecologist in Ranchi, Best Obstetrician Ranchi, colposcopy specialist Ranchi, Dr. Tanushree Raj Hospital";
+$pageKeywords = "Dr. Tanushree Chakroborty, Gynaecologist in Ranchi, Obstetrician Ranchi, colposcopy specialist Ranchi, Dr. Tanushree Raj Hospital";
 $canonicalUrl = "https://rajhospitals.com/doctors/tanushree-chakroborty";
 $ogType = "profile";
 $base_url = "../";

@@ -364,7 +364,7 @@
                 <!-- CTA -->
                 <div class="bg-gradient-to-r from-accent-500 to-primary-600 rounded-xl p-6 md:p-8 my-8 shadow-md">
                     <h3 class="text-xl md:text-2xl font-bold text-white mb-2">Book the scan you have been meaning to book</h3>
-                    <p class="text-white/90 mb-5">Raj Hospitals, Bariatu Road, Ranchi offers bone density assessment with same-day reporting, plus calcium, vitamin D and thyroid blood work in one visit. Fifteen minutes now beats a hip fracture later.</p>
+                    <p class="text-white/90 mb-5">Raj Hospitals, Bariatu Road, Ranchi offers bone density assessment with same-day reporting, plus calcium, vitamin D and thyroid blood work in one visit. </p>
                     <div class="flex flex-wrap gap-3">
                         <a href="/find-a-doctor" class="inline-block bg-white text-primary-600 font-semibold px-5 py-3 rounded-lg hover:bg-gray-100 transition">Book a Bone Health Assessment &rarr;</a>
                         <a href="tel:+919771488888" class="inline-block bg-black/25 text-white font-semibold px-5 py-3 rounded-lg hover:bg-black/40 transition">Call +91 97714 88888</a>

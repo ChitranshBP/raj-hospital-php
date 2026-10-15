@@ -10,10 +10,10 @@
 
     <!-- ================= META TAGS ================= -->
 
-    <title>Internal Medicine Hospital in Ranchi | Best Physician in Ranchi – Raj Hospital</title>
+    <title>Internal Medicine Hospital in Ranchi | Physician in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best internal medicine hospitals in Ranchi offering expert physicians, accurate diagnosis and comprehensive medical care." />
+        content="Raj Hospital is an internal medicine hospital in Ranchi offering experienced physicians, accurate diagnosis and comprehensive medical care." />
 
     <meta name="robots" content="index, follow" />
 
@@ -91,10 +91,10 @@ Medical Specialist in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best internal medicine hospital in Ranchi?",
+      "name": "Does Raj Hospital offer internal medicine services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best internal medicine hospitals in Ranchi providing comprehensive medical care."
+        "text": "Yes, Raj Hospital in Ranchi provides comprehensive internal medicine care."
       }
     },
     {
@@ -250,7 +250,7 @@ Medical Specialist in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Internal Medicine</h1>
-                    <p class="text-xl text-gray-200">Best Internal Medicine Hospital in Ranchi with expert doctors for
+                    <p class="text-xl text-gray-200">Internal Medicine Hospital in Ranchi with experienced doctors for
                         diabetes, heart, chest, gastro & chronic diseases.</p>
                 </div>
             </div>
@@ -265,10 +265,10 @@ Medical Specialist in Jharkhand
                 <div class="lg:col-span-2">
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
-                        <p class="text-lg text-gray-700 leading-relaxed mb-6">Raj Hospitals is recognized as one of the
-                            best Internal Medicine hospitals in Ranchi, Jharkhand. Our department provides advanced
+                        <p class="text-lg text-gray-700 leading-relaxed mb-6">Raj Hospitals offers
+                            Internal Medicine services in Ranchi, Jharkhand. Our department provides advanced
                             diagnostic services, preventive care, and treatment for lifestyle and chronic diseases. With
-                            a team of highly experienced physicians and state-of-the-art technology, we specialize in
+                            a team of experienced physicians and modern technology, we specialize in
                             diabetes care, heart problems, chest and lung diseases, gastroenterology, infectious
                             diseases, and more. We focus on holistic patient wellness with preventive counselling,
                             lifestyle guidance, and compassionate care for both acute and long-term illnesses.</p>
@@ -311,7 +311,7 @@ Medical Specialist in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and imaging facilities in
+                                    <span class="text-gray-700">Modern diagnostic and imaging facilities in
                                         Ranchi</span>
                                 </div>
                             </div>
@@ -679,7 +679,7 @@ Medical Specialist in Jharkhand
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Diabetes & Endocrinology</h3>
                         <p class="text-gray-600 mb-4">Specialized care for diabetes, thyroid, and hormonal disorders by
-                            expert endocrinologists.</p>
+                            our physicians and diabetologists.</p>
                     </div>
                 </div>
 
@@ -708,7 +708,7 @@ Medical Specialist in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Master Health Checkup</h3>
-                        <p class="text-gray-600 mb-4">Affordable health checkup packages for early detection and
+                        <p class="text-gray-600 mb-4">Health checkup packages for early detection and
                             preventive healthcare.</p>
                     </div>
                 </div>
@@ -737,7 +737,7 @@ Medical Specialist in Jharkhand
                     </div>
                     <p class="text-gray-500 mb-4">Patient: Mr. Amit</p>
                     <p class="text-gray-700 mb-6">My father was severely diabetic and dependent on insulin. At Raj
-                        Hospitals Ranchi, the best diabetologists managed his sugar levels with advanced treatment and
+                        
                         lifestyle changes.</p>
                     <div class="bg-green-50 p-4 rounded-lg border border-green-100">
                         <div class="flex items-center space-x-2">
@@ -811,13 +811,13 @@ Medical Specialist in Jharkhand
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Who is the best doctor for diabetes
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Which doctor should I see for diabetes
                                     in Ranchi?</h3>
                                 <i data-feather="plus"
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Raj Hospitals has some of the best diabetologists in Ranchi with years of experience
+                                <p>Raj Hospitals has experienced physicians and diabetologists in Ranchi with years of experience
                                     in treating diabetes, thyroid disorders, and hormonal problems.</p>
                             </div>
                         </div>
@@ -826,13 +826,13 @@ Medical Specialist in Jharkhand
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Which is the best hospital in
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Does Raj Hospitals offer care in
                                     Ranchi for Internal Medicine?</h3>
                                 <i data-feather="plus"
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Raj Hospitals is among the top hospitals in Ranchi for Internal Medicine, offering
+                                <p>Yes, Raj Hospitals in Ranchi provides Internal Medicine care, offering
                                     advanced care for diabetes, heart problems, chest issues, infections, and chronic
                                     diseases.</p>
                             </div>

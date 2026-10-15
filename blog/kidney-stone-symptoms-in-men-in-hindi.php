@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में | RAJ Hospital Ranchi</title>
-    <meta name="description" content="पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय हिंदी में। Ranchi में best kidney stone treatment RAJ Hospital में।">
+    <meta name="description" content="पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय हिंदी में। RAJ Hospital Ranchi में kidney stone treatment उपलब्ध।">
     <meta name="keywords" content="kidney stone symptoms men, पथरी के लक्षण पुरुषों में, kidney stone treatment, पथरी का इलाज, kidney stone in hindi, renal stone, मूत्रपथरी">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/kidney-stone-symptoms-in-men-in-hindi/">
@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में",
-        "description": "पथरी के लक्षण पुरुषों में, कारण, इलाज और बचाव के उपाय। RAJ Hospital Ranchi में expert kidney stone treatment।",
+        "description": "पथरी के लक्षण पुरुषों में, कारण, इलाज और बचाव के उपाय। RAJ Hospital Ranchi में kidney stone treatment।",
         "url": "https://rajhospitals.com/blog/kidney-stone-symptoms-in-men-in-hindi/",
         "author": {
             "@type": "Organization",
@@ -199,7 +199,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital Ranchi में हमारी expert <a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">urology</a> team <a href="/blog/kidney-stone-ka-ilaj/" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">kidney stone</a> treatment</a> में specialized है। हमारे पास latest diagnostic और treatment facilities उपलब्ध हैं।
+                    RAJ Hospital Ranchi में हमारी expert <a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">urology</a> team <a href="/blog/kidney-stone-ka-ilaj/" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">kidney stone</a> treatment</a> में specialized है। 
                 </p>
 
                 <div class="bg-red-100 border-2 border-red-500 p-4 rounded-lg mb-6">
@@ -395,8 +395,8 @@
                 </div>
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">पथरी (Kidney Stone) का Expert इलाज</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced urologists द्वारा kidney stone diagnosis और treatment उपलब्ध है। Latest ESWL और surgical facilities।</p>
+                    <h3 class="text-xl font-bold mb-2">पथरी (Kidney Stone) का इलाज</h3>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced urologists द्वारा kidney stone diagnosis और treatment उपलब्ध है। </p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
@@ -423,7 +423,7 @@
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Kidney Stone Symptoms in Men पर ज़रूरी जानकारी</h2>
-                    <p class="text-gray-700 mb-4">पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय। Ranchi में best kidney stone treatment RAJ Hospital में।</p>
+                    <p class="text-gray-700 mb-4">पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय। RAJ Hospital Ranchi में kidney stone treatment उपलब्ध।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि symptoms को सही medical context में समझा जाए। Kidney Stone Symptoms in Men शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण dehydration, diet, infection, या किसी गंभीर condition से जुड़ा हो सकता है।</p>
                 </section>
 

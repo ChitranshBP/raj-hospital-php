@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Migraine & Headaches Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Migraine & Headaches Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Looking for Migraine treatment in Ranchi? Raj Hospital provides specialized headache clinics offering acute relief, preventive therapies, and Botox for migraines." />
-    <meta name="keywords" content="migraine treatment in Ranchi, severe headache treatment Ranchi, best doctor for migraine in Ranchi, cluster headache Ranchi, Raj Hospital neurologist" />
+    <meta name="description" content="Looking for Migraine treatment in Ranchi? Raj Hospital's neurology team offers assessment, acute relief, preventive therapies and botulinum toxin injections for chronic migraine." />
+    <meta name="keywords" content="migraine treatment in Ranchi, severe headache treatment Ranchi, doctor for migraine in Ranchi, cluster headache Ranchi, Raj Hospital neurologist" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/migraine-and-headaches-treatment-in-ranchi" />
@@ -173,8 +173,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Migraine & Headaches Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Migraine & Headaches Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -190,7 +190,7 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Migraine & Headaches Treatment in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            While almost everyone experiences headaches, chronic migraines and cluster headaches can be exceptionally disabling, causing intense throbbing pain, often accompanied by severe nausea and sensitivity to light. Raj Hospital offers specialized <strong>migraine and headache treatment in Ranchi</strong>. Our neurologists evaluate root triggers and deploy advanced, multifaceted pain-relief protocols uniquely catered to your headache profile.
+                            While almost everyone experiences headaches, chronic migraines and cluster headaches can be exceptionally disabling, causing intense throbbing pain, often accompanied by severe nausea and sensitivity to light. Raj Hospital offers specialized <strong>migraine and headache treatment in Ranchi</strong>. Our neurologists assess your headache pattern and triggers and plan treatment suited to your type of headache.
                         </p>
                     </div>
 
@@ -224,7 +224,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">

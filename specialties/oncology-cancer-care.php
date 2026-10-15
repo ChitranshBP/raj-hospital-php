@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Oncology Hospital in Ranchi | Best Cancer Hospital in Ranchi – Raj Hospital</title>
+    <title>Oncology Hospital in Ranchi | Cancer Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best oncology and cancer care hospitals in Ranchi offering advanced cancer diagnosis, treatment and comprehensive oncology care." />
+        content="Raj Hospital is an oncology and cancer care hospital in Ranchi offering advanced cancer diagnosis, treatment and comprehensive oncology care." />
 
     <meta name="robots" content="index, follow" />
 
@@ -90,10 +90,10 @@ Cancer Treatment in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best oncology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer cancer care in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best oncology hospitals in Ranchi providing comprehensive cancer care."
+        "text": "Yes, Raj Hospital in Ranchi provides comprehensive cancer care."
       }
     },
     {
@@ -247,7 +247,7 @@ Cancer Treatment in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Oncology (Cancer Care)</h1>
-                    <p class="text-xl text-gray-200">World-class cancer care and radiation oncology services in Ranchi
+                    <p class="text-xl text-gray-200">Cancer care and radiation oncology services in Ranchi
                         with multi-disciplinary, personalized treatments.</p>
                 </div>
             </div>
@@ -268,7 +268,7 @@ Cancer Treatment in Jharkhand
                             oncology, chemotherapy, radiation therapy, and supportive care for all solid organ
                             malignancies including head & neck, breast, GI, gynae, and uro oncology. Our experienced
                             oncologists use advanced diagnostic tools and individualized treatment protocols to ensure
-                            the best outcomes.</p>
+                            appropriate, evidence-based care.</p>
 
                         <!-- Why Choose Us Box -->
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
@@ -286,7 +286,7 @@ Cancer Treatment in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -746,7 +746,7 @@ Cancer Treatment in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>We treat all solid organ malignancies including breast, head & neck, lung,
+                                <p>We treat solid organ malignancies including breast, head & neck, lung,
                                     gastrointestinal, gynecologic, and urologic cancers.</p>
                             </div>
                         </div>

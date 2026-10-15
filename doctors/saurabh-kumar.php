@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Saurabh Kumar – Critical Care in Ranchi</title>
     <meta name="description" content="Dr. Saurabh Kumar is a Critical Care specialist at Raj Hospital, Ranchi with 26 years of ICU expertise. Book an appointment today.">
-    <meta name="keywords" content="Dr. Saurabh Kumar, Critical Care in Ranchi, Best Critical Care in Ranchi, Dr. Saurabh Kumar Raj Hospital Ranchi, critical care doctor Ranchi">
+    <meta name="keywords" content="Dr. Saurabh Kumar, Critical Care in Ranchi, Critical Care specialist in Ranchi, Dr. Saurabh Kumar Raj Hospital Ranchi, critical care doctor Ranchi">
     <meta property="og:title" content="Dr. Saurabh Kumar – Critical Care in Ranchi">
     <meta property="og:description" content="Dr. Saurabh Kumar is a Critical Care specialist at Raj Hospital, Ranchi with 26 years of ICU expertise. Book an appointment today.">
     <meta property="og:type" content="profile">
@@ -80,7 +80,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Saurabh Kumar",
-    "description": "Dr. Saurabh Kumar is a highly experienced Critical Care specialist at Raj Hospital, Ranchi, with 26 years of expertise in intensive care medicine. He provides advanced ICU management, ventilator care, and treatment for critically ill patients.",
+    "description": "Dr. Saurabh Kumar is an experienced Critical Care specialist at Raj Hospital, Ranchi, with 26 years of expertise in intensive care medicine. He provides advanced ICU management, ventilator care, and treatment for critically ill patients.",
     "medicalSpecialty": "Critical Care",
     "qualifications": "MBBS, MD",
     "image": "https://rajhospitals.com/assets/new-doctors-side/Dr. Saurabh Kumar.webp",

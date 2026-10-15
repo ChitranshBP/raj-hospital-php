@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '12+ Years',
     'regNo' => '',
     'image' => '../assets/doctor-latest/pankaj-kumar-raj.webp',
-    'description' => "Dr. Pankaj Kumar is a renowned Plastic, Cosmetic, and Reconstructive Surgeon based in Ranchi with over 10 years of experience. He is associated with Raj Hospital and Srijan Plastic Cosmetic and Micro Surgery Clinic, known for attention to accurate diagnosis and empathetic patient care.",
+    'description' => "Dr. Pankaj Kumar is a Plastic, Cosmetic, and Reconstructive Surgeon based in Ranchi with over 10 years of experience. He is associated with Raj Hospital and Srijan Plastic Cosmetic and Micro Surgery Clinic.",
     'expertise' => [
         'Nose Reshaping',
         'Lower Body Lift',

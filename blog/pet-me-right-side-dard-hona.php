@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -439,7 +439,7 @@
                     <div class="bg-green-50 p-4 rounded-xl">
                         <h3 class="font-semibold text-gray-800 mb-2">1. Ajwain Water - अजवाइन का पानी</h3>
                         <p class="text-gray-600 text-sm">
-                            एक glass गर्म पानी में 1 teaspoon ajwain डालें और 5-10 minutes रखें। इसे पीने से <strong>gas</strong> और <strong>bloating</strong> कम होती है। यह <strong>pet me right side dard</strong> का सबसे अच्छा घरेलू उपाय है।
+                            एक glass गर्म पानी में 1 teaspoon ajwain डालें और 5-10 minutes रखें। इसे पीने से <strong>gas</strong> और <strong>bloating</strong> कम होती है। यह <strong>pet me right side dard</strong> में हल्की gas/bloating के लिए एक घरेलू उपाय हो सकता है; तेज़ या बढ़ते दर्द में डॉक्टर को दिखाएं।
                         </p>
                     </div>
 
@@ -453,14 +453,14 @@
                     <div class="bg-green-50 p-4 rounded-xl">
                         <h3 class="font-semibold text-gray-800 mb-2">3. Hing - हींग</h3>
                         <p class="text-gray-600 text-sm">
-                            हींग को गर्म पानी में मिलाकर पीने से <strong>gas aur bloating</strong> तुरंत कम होती है। <strong>Pet ke right side dard</strong> के लिए यह very effective remedy है।
+                            हींग को गर्म पानी में मिलाकर पीने से <strong>gas aur bloating</strong> तुरंत कम होती है। <strong>Pet ke right side dard</strong> में हल्की gas के लिए कुछ लोगों को आराम दे सकती है।
                         </p>
                     </div>
 
                     <div class="bg-green-50 p-4 rounded-xl">
                         <h3 class="font-semibold text-gray-800 mb-2">4. Saunf - सौंफ</h3>
                         <p class="text-gray-600 text-sm">
-                            <strong>Saunf</strong> चबाने से ya <strong>saunf water</strong> पीने से <strong>stomach pain</strong> और <strong>acidity</strong> कम होती है। यह <strong>ayurvedic remedy</strong> है जो बिना side effects के काम करती है।
+                            <strong>Saunf</strong> चबाने से ya <strong>saunf water</strong> पीने से <strong>stomach pain</strong> और <strong>acidity</strong> कम होती है। यह <strong>ayurvedic remedy</strong> है; सीमित मात्रा में ज़्यादातर लोगों के लिए सुरक्षित मानी जाती है।
                         </p>
                     </div>
 
@@ -601,17 +601,17 @@
             <section class="bg-gradient-to-r from-primary-500 to-accent-500 p-8 rounded-xl text-white mb-8">
                 <h2 class="text-2xl font-bold mb-4">Conclusion</h2>
                 <p class="mb-4">
-                    <strong>Pet me right side dard hona</strong> एक common problem है जिसके कई causes हो सकते हैं। <strong>Mild cases</strong> में <strong>gharelu upay</strong> effective हैं, लेकिन <strong>severe pain</strong>, <strong>fever</strong>, ya <strong>other warning signs</strong> होने पर <strong>immediately doctor</strong> से मिलें।
+                    <strong>Pet me right side dard hona</strong> एक common problem है जिसके कई causes हो सकते हैं। <strong>Mild cases</strong> में <strong>gharelu upay</strong> कुछ आराम दे सकते हैं, लेकिन <strong>severe pain</strong>, <strong>fever</strong>, ya <strong>other warning signs</strong> होने पर <strong>immediately doctor</strong> से मिलें।
                 </p>
                 <p>
-                    <strong>RAJ Hospital</strong> में expert gastroenterologists और physicians हैं जो <strong>right side stomach pain</strong> की <strong>accurate diagnosis</strong> और <strong>effective treatment</strong> provide करते हैं। <strong>Appointment</strong> के लिए contact करें।
+                    <strong>RAJ Hospital</strong> में gastroenterologists और physicians उपलब्ध हैं जो <strong>right side stomach pain</strong> की <strong>diagnosis</strong> और <strong>treatment</strong> provide करते हैं। <strong>Appointment</strong> के लिए contact करें।
                 </p>
             </section>
 
             <!-- CTA Section -->
             <div class="bg-secondary-600 text-white p-8 rounded-xl text-center">
                 <h2 class="text-2xl font-bold mb-4">Pet Dard Ki जांच कराना चाहते हैं?</h2>
-                <p class="mb-6">RAJ Hospital में अनुभवी डॉक्टरों से मिलें और सही इलाज पाएं।</p>
+                <p class="mb-6">RAJ Hospital में डॉक्टर से मिलें और जांच कराएं।</p>
                 <a href="/contact.php" class="inline-block bg-white text-secondary-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                     Appointment Book करें
                 </a>

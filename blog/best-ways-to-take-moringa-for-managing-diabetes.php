@@ -77,7 +77,7 @@
             "name": "डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -223,15 +223,15 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Moringa oleifera</strong>, often called the <strong>"miracle tree"</strong> or <strong>"drumstick tree"</strong>, has been used for centuries in traditional medicine. Modern scientific research has validated what ancient healers knew - moringa is exceptionally rich in nutrients and offers remarkable benefits for <strong>managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a></strong>. If you're looking for natural ways to control <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">blood sugar</a> levels, moringa might be the answer you've been searching for.
+                    <strong>Moringa oleifera</strong>, often called the <strong>"sahjan"</strong> or <strong>"drumstick tree"</strong>, has been used for centuries in traditional medicine. Modern scientific research has validated what ancient healers knew - moringa is exceptionally rich in nutrients and offers remarkable benefits for <strong>managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a></strong>. If you're looking for natural ways to control <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">blood sugar</a> levels, remember that moringa is not a substitute for prescribed diabetes treatment.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    In this comprehensive guide, we at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> will explain the science behind moringa's anti-diabetic properties, the best ways to consume it, proper dosages, and how to integrate it into your <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> management plan</a>.
+                    In this comprehensive guide, we at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> will explain what research says about moringa and blood sugar, how it is used, its precautions, and how to discuss it as part of your <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> management plan</a>.
                 </p>
 
                 <!-- Section 1: What is Moringa -->
-                <h2 class="raj-h2">What is Moringa? Understanding the Miracle Tree</h2>
+                <h2 class="raj-h2">What is Moringa? Understanding the Drumstick Tree</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>Moringa oleifera</strong> is a fast-growing, drought-resistant tree native to parts of India, Pakistan, Bangladesh, and Afghanistan. Every part of the moringa tree - leaves, pods, seeds, roots, and oil - has been used for nutritional and medicinal purposes. The leaves are particularly concentrated with vitamins, minerals, and powerful antioxidants.
@@ -318,7 +318,7 @@
                 </div>
 
                 <!-- Section 4: Best Ways to Consume -->
-                <h2 class="raj-h2">Best Ways to Take Moringa for Diabetes</h2>
+                <h2 class="raj-h2">How People Use Moringa (Discuss With Your Doctor First)</h2>
 
                 <p class="text-gray-700 mb-4">
                     There are several effective ways to incorporate <strong>moringa into your diabetes management routine</strong>:
@@ -394,7 +394,7 @@
                         <li>Stevia or monk fruit sweetener (optional)</li>
                     </ul>
                     <p class="font-bold text-gray-800 mb-2">Method:</p>
-                    <p class="text-gray-700">Blend all ingredients until smooth. Drink within 30 minutes of waking up for maximum benefits.</p>
+                    <p class="text-gray-700">Blend all ingredients until smooth. Can be had as part of breakfast.</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Moringa Diabetic-Friendly Sabzi</h3>
@@ -511,7 +511,7 @@
                         <p class="text-gray-700">No. Moringa is a complementary therapy, not a replacement for diabetes medications. Always follow your doctor's prescribed treatment plan.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600 mb-2">What is the best time to take moringa for diabetes?</h4>
+                        <h4 class="font-bold text-secondary-600 mb-2">Is there a right time to take moringa?</h4>
                         <p class="text-gray-700">Taking moringa 30 minutes before meals is most effective for controlling post-meal blood sugar spikes. Morning and early evening are ideal times.</p>
                     </div>
                 </div>
@@ -531,7 +531,7 @@
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार</a></li>
                         <li><a href="/blog/diabetes-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Symptoms in Men - Warning Signs Every Man Should Know</a></li>
-                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Indian Diet Plan for Diabetes Patients</a></li>
+                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Indian Diet Plan for Diabetes Patients</a></li>
                         <li><a href="/blog/pair-me-dard-kyu-hota-h.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द क्यों होता है? - सभी कारण और समाधान</a></li>
                         <li><a href="/blog/sugar-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Sugar Symptoms in Hindi - Diabetes Ke Lakshan</a></li>
                         <li><a href="/blog/immunity-kaise-badhaye.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Immunity Kaise Badhaye - Immunity Boost करने के तरीके</a></li>
@@ -560,7 +560,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

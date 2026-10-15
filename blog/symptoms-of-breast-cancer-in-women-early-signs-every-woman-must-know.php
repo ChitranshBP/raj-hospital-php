@@ -229,7 +229,7 @@ $base_url = '../';
                     <i data-feather="alert-circle" class="w-5 h-5 text-pink-500 mt-0.5"></i>
                     <div class="ml-3">
                         <p class="font-semibold text-pink-700">महत्वपूर्ण जानकारी</p>
-                        <p class="text-gray-700 text-sm"><strong>स्तन कैंसर भारत में महिलाओं में सबसे आम कैंसर है।</strong> हर 8 में से 1 महिला को आजीवन स्तन कैंसर होता है। लेकिन early detection से 90% से अधिक मामलों में इलाज संभव है।</p>
+                        <p class="text-gray-700 text-sm"><strong>स्तन कैंसर भारत में महिलाओं में सबसे आम कैंसर है।</strong> हर 8 में से 1 महिला को आजीवन स्तन कैंसर होता है। लेकिन जल्दी पहचान होने पर इलाज के सफल होने की संभावना काफी बढ़ जाती है।</p>
                     </div>
                 </div>
             </div>
@@ -521,7 +521,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">oncology</a> टीम कैंसर की early detection और treatment में विशेषज्ञ है। Screening और consultation के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">oncology</a> टीम से कैंसर की early detection और treatment के लिए परामर्श लिया जा सकता है। Screening और consultation के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

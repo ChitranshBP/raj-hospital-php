@@ -207,7 +207,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    A pattern we see constantly in the surgical outpatient department: a patient in their forties describes six years of pain after heavy meals. They have stopped eating mutton. They have given up ghee, fried snacks and anything at a wedding. They carry a folder with three ultrasound reports, each showing the same gallstones, and they say some version of the same sentence &mdash; <em>"I am managing it with diet, doctor."</em> Then we explain that the operation they have been avoiding for six years involves three small cuts, one night in hospital, and a return to desk work in about a week. The most common reaction is not relief. It is annoyance at the wasted years.
+                    A pattern we see constantly in the surgical outpatient department: a patient in their forties describes six years of pain after heavy meals. They have stopped eating mutton. They have given up ghee, fried snacks and anything at a wedding. They carry a folder with three ultrasound reports, each showing the same gallstones, and they say some version of the same sentence &mdash; <em>"I am managing it with diet, doctor."</em> Then we explain that the operation they have been avoiding for six years involves three small cuts, one night in hospital, and a return to desk work in about a week. 
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -343,7 +343,7 @@
                 <!-- CTA -->
                 <div class="bg-gradient-to-r from-accent-500 to-primary-600 rounded-xl p-6 md:p-8 my-8 shadow-md">
                     <h3 class="text-xl md:text-2xl font-bold text-white mb-2">Been managing gallstone pain with diet for years?</h3>
-                    <p class="text-white/90 mb-5">Bring your ultrasound reports to Raj Hospitals, Bariatu Road, Ranchi for a surgical opinion. Same-day imaging and blood work, laparoscopic cholecystectomy by experienced minimal access surgeons, and most patients home within 24 hours.</p>
+                    <p class="text-white/90 mb-5">Bring your ultrasound reports to Raj Hospitals, Bariatu Road, Ranchi for a surgical opinion. Same-day imaging and blood work, laparoscopic cholecystectomy by the minimal access surgery team; many patients go home within 24 hours.</p>
                     <div class="flex flex-wrap gap-3">
                         <a href="/find-a-doctor" class="inline-block bg-white text-primary-600 font-semibold px-5 py-3 rounded-lg hover:bg-gray-100 transition">Book a Surgical Consultation &rarr;</a>
                         <a href="tel:+919771488888" class="inline-block bg-black/25 text-white font-semibold px-5 py-3 rounded-lg hover:bg-black/40 transition">Call +91 97714 88888</a>

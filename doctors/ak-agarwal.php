@@ -10,10 +10,10 @@ $page_title = 'Dr. A K Agarwal – Internal Medicine in Ranchi';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $page_title; ?></title>
-    <meta name="description" content="Dr. A K Agarwal is a veteran Internal Medicine specialist at Raj Hospital Ranchi with 25+ years experience in diabetes, hypertension & multi-system disorders.">
-    <meta name="keywords" content="Dr. A K Agarwal, Internal Medicine in Ranchi, Best Internal Medicine in Ranchi, Dr. A K Agarwal Raj Hospital Ranchi, internal medicine doctor Ranchi">
+    <meta name="description" content="Dr. A K Agarwal is an Internal Medicine specialist at Raj Hospital Ranchi with 25+ years experience in diabetes, hypertension & multi-system disorders.">
+    <meta name="keywords" content="Dr. A K Agarwal, Internal Medicine in Ranchi, Internal Medicine specialist in Ranchi, Dr. A K Agarwal Raj Hospital Ranchi, internal medicine doctor Ranchi">
     <meta property="og:title" content="Dr. A K Agarwal – Internal Medicine in Ranchi">
-    <meta property="og:description" content="Dr. A K Agarwal is a veteran Internal Medicine specialist at Raj Hospital Ranchi with 25+ years experience in diabetes, hypertension & multi-system disorders.">
+    <meta property="og:description" content="Dr. A K Agarwal is an Internal Medicine specialist at Raj Hospital Ranchi with 25+ years experience in diabetes, hypertension & multi-system disorders.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://rajhospitals.com/doctors/ak-agarwal">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
@@ -73,7 +73,7 @@ $page_title = 'Dr. A K Agarwal – Internal Medicine in Ranchi';
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. A K Agarwal",
-    "description": "Dr. A.K. Agarwal is a veteran Internal Medicine specialist at Raj Hospital, Ranchi, with over 25 years of experience in general medicine. He provides comprehensive medical care for diabetes, hypertension, infectious diseases, and complex multi-system disorders.",
+    "description": "Dr. A.K. Agarwal is an Internal Medicine specialist at Raj Hospital, Ranchi, with over 25 years of experience in general medicine. He provides comprehensive medical care for diabetes, hypertension, infectious diseases, and complex multi-system disorders.",
     "medicalSpecialty": "Internal Medicine",
     "qualifications": "MBBS, MD (Medicine)",
     "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Agrawal.webp",

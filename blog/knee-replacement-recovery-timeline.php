@@ -115,7 +115,7 @@
                 "name": "How painful is the first week after knee replacement?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The first week is the hardest part, and it is best described as demanding rather than unbearable. Modern practice uses multimodal pain control, combining regional nerve blocks given during surgery, scheduled oral medication and ice, so most patients report pain that is manageable enough to allow walking on day one. The genuinely unpleasant part is not resting pain but the effort of physiotherapy while the knee is swollen and stiff."
+                    "text": "The first week is the hardest part, and it is better described as demanding rather than unbearable. Modern practice uses multimodal pain control, combining regional nerve blocks given during surgery, scheduled oral medication and ice, so most patients report pain that is manageable enough to allow walking on day one. The genuinely unpleasant part is not resting pain but the effort of physiotherapy while the knee is swollen and stiff."
                 }
             },
             {
@@ -212,7 +212,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-secondary-600">The honest summary:</strong>
-                    <span class="text-gray-700"> Week one is genuinely hard work. Weeks two to six are steady, unglamorous physiotherapy that determines your final result. By three months most people have forgotten they were ever worried. Hip replacement usually recovers a little faster than knee replacement in the first six weeks. Full settling, including the last of the swelling, takes up to a year. Everything below assumes a straightforward case managed by our <a href="/specialties/orthopaedics-and-joint-replacement" class="text-secondary-600 hover:underline font-semibold">orthopaedics and joint replacement team in Ranchi</a>.</span>
+                    <span class="text-gray-700"> Week one is genuinely hard work. Weeks two to six are steady, unglamorous physiotherapy that determines your final result. By three months many people are back to most daily activities, though recovery varies. Hip replacement usually recovers a little faster than knee replacement in the first six weeks. Full settling, including the last of the swelling, takes up to a year. Everything below assumes a straightforward case managed by our <a href="/specialties/orthopaedics-and-joint-replacement" class="text-secondary-600 hover:underline font-semibold">orthopaedics and joint replacement team in Ranchi</a>.</span>
                 </div>
 
                 <h2 class="raj-h2"><i data-feather="sunrise" class="raj-h2-icon"></i> Week 1: What Pain Control and Mobility Actually Look Like</h2>
@@ -322,7 +322,7 @@
                     Surgery is usually <strong>deferred</strong> for the following, most of which are correctable rather than permanent barriers:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Any active infection</strong> anywhere in the body, including dental abscesses, skin infections and <a href="/blog/urine-infection-symptoms-in-men-in-hindi/" class="text-secondary-600 hover:underline font-semibold">urinary tract infections</a>. Bacteria can seed onto a new implant. Dental work is best completed before surgery.</li>
+                    <li><strong>Any active infection</strong> anywhere in the body, including dental abscesses, skin infections and <a href="/blog/urine-infection-symptoms-in-men-in-hindi/" class="text-secondary-600 hover:underline font-semibold">urinary tract infections</a>. Bacteria can seed onto a new implant. Dental work should ideally be completed before surgery.</li>
                     <li><strong>Poorly controlled diabetes.</strong> High blood sugar substantially raises infection and wound healing risk. Getting <a href="/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike/" class="text-secondary-600 hover:underline font-semibold">diabetes under proper control</a> first is one of the highest-value things a patient can do, and our <a href="/specialties/internal-medicine" class="text-secondary-600 hover:underline font-semibold">internal medicine team</a> works alongside the surgeons on this.</li>
                     <li><strong>Unstable heart or lung disease.</strong> Needs assessment and optimisation first. Anyone with cardiac history should read our guide on <a href="/blog/silent-heart-attack-symptoms/" class="text-secondary-600 hover:underline font-semibold">atypical cardiac symptoms</a> before any elective surgery.</li>
                     <li><strong>Current smoking.</strong> It measurably impairs wound healing and bone integration. Stopping several weeks before surgery genuinely changes outcomes.</li>

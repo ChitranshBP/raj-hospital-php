@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Gastroenterology Hospital in Ranchi | Best Gastro Hospital in Ranchi – Raj Hospital</title>
+    <title>Gastroenterology Hospital in Ranchi | Gastro Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best gastroenterology hospitals in Ranchi offering advanced treatment for digestive, liver and gastrointestinal disorders." />
+        content="Raj Hospital is a gastroenterology hospital in Ranchi offering advanced treatment for digestive, liver and gastrointestinal disorders." />
 
     <meta name="robots" content="index, follow" />
 
@@ -90,10 +90,10 @@ Liver Specialist in Ranchi
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best gastroenterology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer gastroenterology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best gastroenterology hospitals in Ranchi providing advanced digestive and liver care."
+        "text": "Yes, Raj Hospital in Ranchi provides advanced digestive and liver care."
       }
     },
     {
@@ -248,7 +248,7 @@ Liver Specialist in Ranchi
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Gastroenterology & Endoscopy</h1>
-                    <p class="text-xl text-gray-200">Best gastroenterology care in Ranchi with advanced diagnostics,
+                    <p class="text-xl text-gray-200">Gastroenterology care in Ranchi with advanced diagnostics,
                         minimally invasive surgeries and expert gastroenterologists.</p>
                 </div>
             </div>
@@ -264,10 +264,10 @@ Liver Specialist in Ranchi
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Gastroenterology &
-                            Endoscopy at Raj Hospitals provides top medical services for digestive system disorders
+                            Endoscopy at Raj Hospitals provides medical services for digestive system disorders
                             including gastroenterology, hepatology, and gastrointestinal surgery. Our minimally invasive
                             procedures like laparoscopy and endoscopy offer faster recovery, fewer complications and
-                            less post-operative follow-up. We are among few centers offering scarless minimal access
+                            less post-operative follow-up. We offer minimal-scar access
                             surgery and advanced laparoscopic, biliary, pancreatic, and colorectal oncologic procedures.
                         </p>
 
@@ -287,7 +287,7 @@ Liver Specialist in Ranchi
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -342,7 +342,7 @@ Liver Specialist in Ranchi
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art Imaging and Laboratory
+                                    <span class="text-gray-700">Modern Imaging and Laboratory
                                         Facilities</span>
                                 </div>
                             </div>
@@ -737,7 +737,7 @@ Liver Specialist in Ranchi
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, it is a safe and effective surgery with smaller incisions, faster recovery,
+                                <p>It is generally a safe and effective surgery with smaller incisions, faster recovery,
                                     fewer complications, and shorter hospital stays compared to open surgery.</p>
                             </div>
                         </div>

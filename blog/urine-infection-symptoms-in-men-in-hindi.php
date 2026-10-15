@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urine Infection</a> Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण",
-        "description": "पुरुषों में मूत्र संक्रमण (UTI) के लक्षण, कारण और इलाज। RAJ Hospital Ranchi में expert treatment।",
+        "description": "पुरुषों में मूत्र संक्रमण (UTI) के लक्षण, कारण और इलाज। RAJ Hospital Ranchi में जांच और इलाज।",
         "url": "https://rajhospitals.com/blog/urine-infection-symptoms-in-men-in-hindi/",
         "author": {
             "@type": "Organization",
@@ -335,8 +335,8 @@
                 </div>
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">UTI का Expert इलाज</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में UTI diagnosis और antibiotics treatment available है। complete urology services।</p>
+                    <h3 class="text-xl font-bold mb-2">UTI की जांच और इलाज</h3>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में UTI diagnosis और antibiotics treatment available है। urology services भी उपलब्ध हैं।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
@@ -359,7 +359,7 @@
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Urine Infection Symptoms in Men पर ज़रूरी जानकारी</h2>
-                    <p class="text-gray-700 mb-4">पुरुषों में मूत्र संक्रमण (UTI) के लक्षण - कारण, इलाज और बचाव। Ranchi में best urology treatment RAJ Hospital में।</p>
+                    <p class="text-gray-700 mb-4">पुरुषों में मूत्र संक्रमण (UTI) के लक्षण - कारण, इलाज और बचाव। Ranchi में RAJ Hospital में urology जांच और इलाज उपलब्ध है।</p>
                 </section>
 
                 <section class="mt-8 bg-white border border-gray-200 rounded-xl p-5">

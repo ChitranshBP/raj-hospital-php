@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Pulmonology Hospital in Ranchi | Best Chest Specialist in Ranchi – Raj Hospital</title>
+    <title>Pulmonology Hospital in Ranchi | Chest Specialist in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best pulmonology hospitals in Ranchi offering advanced treatment for lung, chest and respiratory diseases." />
+        content="Raj Hospital is a pulmonology hospital in Ranchi offering advanced treatment for lung, chest and respiratory diseases." />
 
     <meta name="robots" content="index, follow" />
 
@@ -90,10 +90,10 @@ Pulmonary Care Hospital in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best pulmonology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer pulmonology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best pulmonology hospitals in Ranchi offering comprehensive respiratory care."
+        "text": "Yes, Raj Hospital in Ranchi offers comprehensive respiratory care."
       }
     },
     {
@@ -309,7 +309,7 @@ Pulmonary Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art pulmonology diagnostics and treatment
+                                    <span class="text-gray-700">Modern pulmonology diagnostics and treatment
                                         center</span>
                                 </div>
                             </div>

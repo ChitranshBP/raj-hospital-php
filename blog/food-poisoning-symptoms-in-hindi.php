@@ -118,7 +118,7 @@
                 "name": "खाद्य विषाक्तता में क्या खाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "खाद्य विषाक्तता में हल्का और आसानी से पचने वाला खाना खाएं। ORS घोल, चावल की खिचड़ी, बिस्कुट, केला, और सादा दाल का जो सबसे अच्छा है। मसालेदार और तेल वाला खाना नहीं खाना चाहिए।"
+                    "text": "खाद्य विषाक्तता में हल्का और आसानी से पचने वाला खाना खाएं। ORS घोल, चावल की खिचड़ी, बिस्कुट, केला, और सादा दाल का पानी अच्छे विकल्प हैं। मसालेदार और तेल वाला खाना नहीं खाना चाहिए।"
                 }
             },
             {
@@ -199,7 +199,7 @@
             "name": "पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -269,7 +269,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस blog post में हम <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">food poisoning</a> symptoms in Hindi</strong> के बारे में detail से जानेंगे - इनके कारण, लक्षण, treatment options, और <a href="/contact.php" class="text-medical-600 hover:underline font-semibold">घरेलू उपाय</a>। RAJ Hospital Ranchi में हमारी expert medical team इस समस्या में मदद के लिए हमेशा तैयार है।
+                    इस blog post में हम <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">food poisoning</a> symptoms in Hindi</strong> के बारे में detail से जानेंगे - इनके कारण, लक्षण, treatment options, और <a href="/contact.php" class="text-medical-600 hover:underline font-semibold">घरेलू उपाय</a>। RAJ Hospital Ranchi में इस समस्या की जांच और इलाज उपलब्ध है।
                 </p>
 
                 <!-- Section 1: What is Food Poisoning -->
@@ -497,7 +497,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-medical-600 mb-2">खाद्य विषाक्तता में क्या खाना चाहिए?</h4>
-                        <p class="text-gray-700">खाद्य विषाक्तता में <strong>हल्का और आसानी से पचने वाला खाना</strong> खाएं। ORS घोल, चावल की खिचड़ी, बिस्कुट, केला, और सादा दाल का जो सबसे अच्छा है। मसालेदार और तेल वाला खाना, डेयरी प्रोडक्ट्स, और कैफीन से बचें।</p>
+                        <p class="text-gray-700">खाद्य विषाक्तता में <strong>हल्का और आसानी से पचने वाला खाना</strong> खाएं। ORS घोल, चावल की खिचड़ी, बिस्कुट, केला, और सादा दाल का पानी अच्छे विकल्प हैं। मसालेदार और तेल वाला खाना, डेयरी प्रोडक्ट्स, और कैफीन से बचें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-medical-600 mb-2">खाद्य विषाक्तता से कब डॉक्टर से मिलना चाहिए?</h4>
@@ -561,7 +561,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

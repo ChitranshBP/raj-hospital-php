@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cardiology - Best Heart Care Hospital in Ranchi | Raj Hospitals</title>
+    <title>Cardiology - Heart Care Hospital in Ranchi | Raj Hospitals</title>
     <!-- ================= META TAGS ================= -->
 
     <meta name="description"
-        content="Best cardiology hospital in Ranchi offering advanced heart treatment, expert cardiologists, emergency cardiac care and modern facilities at Raj Hospital." />
+        content="Cardiology hospital in Ranchi offering advanced heart treatment, experienced cardiologists, emergency cardiac care and modern facilities at Raj Hospital." />
 
     <meta name="robots" content="index, follow" />
 
@@ -89,10 +89,10 @@ Cardiac Care Hospital in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best cardiology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer cardiology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best cardiology hospitals in Ranchi for advanced heart care."
+        "text": "Yes, Raj Hospital in Ranchi offers cardiology services for advanced heart care."
       }
     },
     {
@@ -246,7 +246,7 @@ Cardiac Care Hospital in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Cardiology</h1>
-                    <p class="text-xl text-gray-200">Expert care for heart diseases with state-of-the-art technology and
+                    <p class="text-xl text-gray-200">Expert care for heart diseases with modern technology and
                         experienced cardiologists</p>
                 </div>
             </div>
@@ -262,7 +262,7 @@ Cardiac Care Hospital in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">Our Cardiology Department at Raj Hospitals
-                            is equipped with cutting-edge technology and staffed by experienced cardiologists who
+                            is equipped with modern technology and staffed by experienced cardiologists who
                             specialize in diagnosing and treating a wide range of heart conditions. From preventive care
                             to complex interventions, we provide comprehensive cardiac care to improve heart health and
                             quality of life for our patients.</p>
@@ -283,7 +283,7 @@ Cardiac Care Hospital in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -313,7 +313,7 @@ Cardiac Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art Cardiac Catheterization Lab</span>
+                                    <span class="text-gray-700">Cardiac Catheterization Lab</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -500,7 +500,7 @@ Cardiac Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Leadless Pacemaker</h3>
-                        <p class="text-gray-600 mb-4">Latest generation pacemaker technology without leads, offering
+                        <p class="text-gray-600 mb-4">Pacemaker technology without leads, offering
                             safer and less invasive rhythm management.</p>
                     </div>
                 </div>

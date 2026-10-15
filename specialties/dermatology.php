@@ -7,9 +7,9 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dermatology Hospital in Ranchi | Best Skin Hospital in Ranchi – Raj Hospital</title>
+    <title>Dermatology Hospital in Ranchi | Skin Care Hospital in Ranchi – Raj Hospital</title>
     <meta name="description"
-        content="Raj Hospital is one of the best dermatology hospitals in Ranchi offering advanced skin treatment, expert dermatologists and modern skin care facilities." />
+        content="Raj Hospital is a dermatology hospital in Ranchi offering advanced skin treatment, expert dermatologists and modern skin care facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -87,10 +87,10 @@ Skin Care Hospital in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best dermatology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer dermatology treatment in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best dermatology hospitals in Ranchi offering advanced skin treatment."
+        "text": "Yes, Raj Hospital in Ranchi offers dermatology care including advanced skin treatment."
       }
     },
     {
@@ -231,7 +231,7 @@ Skin Care Hospital in Jharkhand
                             treatments for acne, pigmentation, eczema, psoriasis, vitiligo, hair loss, and various
                             pediatric skin concerns. We also provide advanced cosmetic procedures including anti-aging
                             therapies, chemical peels, laser skin rejuvenation, and hair transplant surgeries. Equipped
-                            with state-of-the-art diagnostic and treatment technologies, Raj Hospitals ensures
+                            with modern diagnostic and treatment technologies, Raj Hospitals aims to provide
                             effective, safe, and personalized care for every skin and hair condition.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
@@ -246,7 +246,7 @@ Skin Care Hospital in Jharkhand
                                         Ranchi</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">Cutting-edge technology for diagnosis including skin
+                                        class="text-gray-700">Modern technology for diagnosis including skin
                                         biopsies and digital imaging</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
@@ -282,7 +282,7 @@ Skin Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">Cutting-edge technology for diagnosis</span>
+                                        class="text-gray-700">Modern technology for diagnosis</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">

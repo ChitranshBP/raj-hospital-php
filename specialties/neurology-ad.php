@@ -11,10 +11,10 @@
 
     <!-- ================= META TAGS ================= -->
 
-    <title>Neurology Hospital in Ranchi | Best Neuro Hospital in Ranchi – Raj Hospital</title>
+    <title>Neurology Hospital in Ranchi | Neuro Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best neurology hospitals in Ranchi offering advanced treatment for brain, spine and nervous system disorders by expert neurologists." />
+        content="Raj Hospital is a neurology hospital in Ranchi offering advanced treatment for brain, spine and nervous system disorders by expert neurologists." />
 
     <meta name="robots" content="index, follow" />
 
@@ -92,10 +92,10 @@ Nervous System Specialist in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best neurology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer neurology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best neurology hospitals in Ranchi offering advanced neurological care."
+        "text": "Yes, Raj Hospital in Ranchi offers advanced neurological care."
       }
     },
     {
@@ -204,13 +204,13 @@ Nervous System Specialist in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neurology at Raj
-                            Hospitals, Ranchi, provides cutting-edge diagnosis and treatment for disorders of the brain,
+                            Hospitals, Ranchi, provides modern diagnosis and treatment for disorders of the brain,
                             nerves, and muscles. Our team of highly qualified neurologists specializes in managing
                             conditions such as stroke, epilepsy, migraine, neuropathy, Parkinson's disease, and muscle
                             disorders. Supported by advanced neuro-diagnostic tools like EEG (Electroencephalogram) and
                             NCS (Nerve Conduction Study), we ensure accurate detection and effective management of
                             neurological conditions. Focused on patient comfort, efficiency, and clinical precision, Raj
-                            Hospitals continues to be a leader in neurological care across Ranchi and Jharkhand.</p>
+                            Hospitals continues to provide neurological care across Ranchi and Jharkhand.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
                             <h3 class="text-xl font-semibold text-gray-900 mb-4 flex items-center"><i

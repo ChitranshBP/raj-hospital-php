@@ -1,6 +1,6 @@
 # Raj Hospital
 
-> Raj Hospital is a leading multispeciality hospital in Ranchi, Jharkhand, offering advanced medical care, experienced doctors, emergency services, and modern facilities.
+> Raj Hospital is a multispeciality hospital in Ranchi, Jharkhand, offering advanced medical care, experienced doctors, emergency services, and modern facilities.
 
 ## About
 

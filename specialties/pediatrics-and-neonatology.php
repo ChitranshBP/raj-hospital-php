@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Pediatrics & Neonatology Hospital in Ranchi | Best Child Hospital in Ranchi – Raj Hospital</title>
+    <title>Pediatrics & Neonatology Hospital in Ranchi | Child Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best pediatrics and neonatology hospitals in Ranchi offering expert child care, newborn care and advanced NICU facilities." />
+        content="Raj Hospital is a pediatrics and neonatology hospital in Ranchi offering expert child care, newborn care and advanced NICU facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -90,10 +90,10 @@ Child Specialist in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best pediatrics and neonatology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer pediatrics and neonatology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best pediatrics and neonatology hospitals in Ranchi offering comprehensive child and newborn care."
+        "text": "Yes, Raj Hospital in Ranchi offers comprehensive child and newborn care."
       }
     },
     {
@@ -187,7 +187,7 @@ Child Specialist in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Pediatrics & Neonatology</h1>
-                    <p class="text-xl text-gray-200">Best child hospital in Ranchi with complete, compassionate
+                    <p class="text-xl text-gray-200">Child hospital in Ranchi with complete, compassionate
                         pediatric care from birth to adolescence</p>
                 </div>
             </div>
@@ -201,9 +201,9 @@ Child Specialist in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Paediatrics Department at Raj
-                            Hospitals delivers comprehensive, state-of-the-art healthcare services tailored for children
+                            Hospitals delivers comprehensive healthcare services tailored for children
                             from birth up to sixteen years. With dedicated pediatricians, skilled nurses, and child life
-                            experts, the department ensures the highest standards in child healthcare, diagnosis,
+                            experts, the department focuses on child healthcare, diagnosis,
                             compassionate support, preventive medicine, and advanced treatments. Specialized services
                             range from pediatric and neonatal intensive care to immunization and surgical management for
                             various childhood diseases and health concerns.</p>
@@ -215,7 +215,7 @@ Child Specialist in Jharkhand
                             <ul class="space-y-3">
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">State-of-the-art Pediatric Intensive Care Unit (PICU) and
+                                        class="text-gray-700">Pediatric Intensive Care Unit (PICU) and
                                         Neonatal ICU (NICU)</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
@@ -239,7 +239,7 @@ Child Specialist in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">State-of-the-art PICU and NICU</span>
+                                        class="text-gray-700">PICU and NICU</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">

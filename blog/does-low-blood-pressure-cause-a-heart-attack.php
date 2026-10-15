@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack? Patient Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Does low blood pressure cause a heart attack? This RAJ Hospital Ranchi guide explains the link between hypotension, shock and heart attack — with hypotension symptoms, treatment and emergency signs.">
-    <meta name="keywords" content="does low blood pressure cause heart attack, hypotension heart attack, low BP heart disease, cardiogenic shock, low blood pressure symptoms, RAJ Hospital Ranchi, best hospital in Ranchi">
+    <meta name="keywords" content="does low blood pressure cause heart attack, hypotension heart attack, low BP heart disease, cardiogenic shock, low blood pressure symptoms, RAJ Hospital Ranchi, multispeciality hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/does-low-blood-pressure-cause-a-heart-attack/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
@@ -170,7 +170,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Does low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> cause a heart attack?</strong> It's a question cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, hear every week — often from patients with chronic BP of 95/60 who worry that "low" is dangerous. The honest answer is layered: chronic mild hypotension rarely causes a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>, but a sudden, severe drop in BP can be a sign that one is already happening. This guide separates harmless low BP from dangerous hypotension, lists the symptoms you should never ignore, and tells you when to head to the emergency room.
+                    <strong>Does low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> cause a heart attack?</strong> It's a question cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>, hear every week — often from patients with chronic BP of 95/60 who worry that "low" is dangerous. The honest answer is layered: chronic mild hypotension rarely causes a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>, but a sudden, severe drop in BP can be a sign that one is already happening. This guide separates harmless low BP from dangerous hypotension, lists the symptoms you should never ignore, and tells you when to head to the emergency room.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -199,7 +199,7 @@
                     When a coronary artery blocks, the part of the heart muscle downstream stops pumping effectively. The stroke volume drops, the cardiac output falls, and BP plummets. If the BP falls below the threshold that perfuses the brain and kidneys, the patient goes into <strong>cardiogenic shock</strong> — a state where the heart cannot pump enough blood to meet the body's needs.
                 </p>
                 <p class="text-gray-700 mb-4">
-                    Cardiogenic shock occurs in 5–10% of acute heart attacks and carries a hospital mortality of 40–60%, even in the best centres. The <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">cardiologists at RAJ Hospital Ranchi</a> use a multi-pronged protocol: emergency revascularisation with primary PCI, intra-aortic balloon pump (IABP) or Impella support, inotropes, and mechanical circulatory support when needed. Door-to-support time is the single biggest determinant of survival.
+                    Cardiogenic shock occurs in 5–10% of acute heart attacks and carries a hospital mortality of 40–60%, even in specialised centres. The <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">cardiologists at RAJ Hospital Ranchi</a> use a multi-pronged protocol: emergency revascularisation with primary PCI, intra-aortic balloon pump (IABP) or Impella support, inotropes, and mechanical circulatory support when needed. Door-to-support time is the single biggest determinant of survival.
                 </p>
 
                 <h2 class="raj-h2">Symptoms of Dangerously Low Blood Pressure</h2>
@@ -228,7 +228,7 @@
 
                 <div class="raj-callout raj-callout-danger mt-6">
                     <strong class="text-red-700">Call 108 and rush to RAJ Hospital if:</strong>
-                    <span class="text-gray-700"> BP &lt;90/60 with chest pain, fainting, confusion, cold clammy skin, severe breathlessness, or no urine output. The 24×7 cardiac emergency at <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a> can stabilise shock within minutes.</span>
+                    <span class="text-gray-700"> BP &lt;90/60 with chest pain, fainting, confusion, cold clammy skin, severe breathlessness, or no urine output. The 24×7 cardiac emergency at <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a> can begin emergency evaluation and stabilisation without delay.</span>
                 </div>
 
                 <h2 class="raj-h2">The 6 Causes of Sudden Low BP During a Heart Attack</h2>
@@ -259,7 +259,7 @@
                     <li>Family history of valve disease or cardiomyopathy</li>
                 </ul>
                 <p class="text-gray-700 mb-4">
-                    The workup usually includes an ECG, 2D echo, thyroid panel, cortisol level, and a tilt-table test if autonomic dysfunction is suspected. RAJ Hospital's autonomic lab in Ranchi is one of the few in eastern India with formal tilt-table and Valsalva testing capability.
+                    The workup usually includes an ECG, 2D echo, thyroid panel, cortisol level, and a tilt-table test if autonomic dysfunction is suspected. 
                 </p>
 
                 <h2 class="raj-h2">Managing Low BP at Home — Practical Tips</h2>
@@ -274,7 +274,7 @@
 
                 <h2 class="raj-h2">Key Takeaways from RAJ Hospital's Cardiology Team</h2>
                 <p class="text-gray-700 mb-4">
-                    Key takeaways from <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>:
+                    Key takeaways from <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Low BP alone is not a heart attack cause</strong> — it is more often a sign that something else is wrong.</li>
@@ -294,7 +294,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">Blood pressure, hypotension और heart attack symptoms के बारे में और जानें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत</a></li>
                         <li><a href="/blog/difference-between-heart-attack-and-cardiac-arrest.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack vs Cardiac Arrest — Key Differences</a></li>
                         <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
@@ -312,7 +312,7 @@
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can low BP cause sudden death?</h3>
-                            <p class="text-gray-700">Chronic low BP does not cause sudden death. Sudden, severe hypotension in the setting of heart attack, severe infection (sepsis), major bleeding, or anaphylaxis can be fatal. The 24×7 cardiac ER at RAJ Hospital is equipped to manage all of these within minutes.</p>
+                            <p class="text-gray-700">Chronic low BP does not cause sudden death. Sudden, severe hypotension in the setting of heart attack, severe infection (sepsis), major bleeding, or anaphylaxis can be fatal. The 24×7 emergency at RAJ Hospital can evaluate and treat these conditions.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can BP medicines cause dangerously low BP?</h3>

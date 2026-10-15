@@ -79,7 +79,7 @@ $base_url = '../';
                 "name": "Periods मिस होने पर pregnancy test कब करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Periods मिस होने के 1 हफ्ते बाद pregnancy test करें। सुबह का पहला पेशाब सबसे अच्छा होता है क्योंकि HCG hormone की सांद्रता सबसे ज़्यादा होती है।"
+                    "text": "Periods मिस होने के 1 हफ्ते बाद pregnancy test करें। सुबह का पहला पेशाब test के लिए उपयुक्त होता है क्योंकि HCG hormone की सांद्रता सबसे ज़्यादा होती है।"
                 }
             },
             {
@@ -482,7 +482,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: Periods मिस होने पर pregnancy test कब करें?</h4>
-                    <p class="text-gray-700 text-sm">Periods मिस होने के 1 हफ्ते बाद pregnancy test करें। सुबह का पहला पेशाब सबसे अच्छा होता है क्योंकि HCG hormone की सांद्रता सबसे ज़्यादा होती है।</p>
+                    <p class="text-gray-700 text-sm">Periods मिस होने के 1 हफ्ते बाद pregnancy test करें। सुबह का पहला पेशाब test के लिए उपयुक्त होता है क्योंकि HCG hormone की सांद्रता सबसे ज़्यादा होती है।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -514,7 +514,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की गायनेकोलॉजी टीम महिलाओं की स्वास्थ्य समस्याओं का प्रभावी इलाज करती है। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की गायनेकोलॉजी टीम महिलाओं की स्वास्थ्य समस्याओं के लिए परामर्श और इलाज उपलब्ध कराती है। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>
@@ -545,7 +545,7 @@ $base_url = '../';
                 <a href="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
-                        <h4 class="font-semibold text-gray-800 text-sm">Best Maternity Hospital</h4>
+                        <h4 class="font-semibold text-gray-800 text-sm">Maternity Hospital in Ranchi</h4>
                         <p class="text-gray-500 text-xs">प्रेग्नेंसी और प्रसव की देखभाल</p>
                     </div>
                 </a>

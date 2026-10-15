@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Typhoid Bar Bar Kyu Hota Hai - टाइफाइड बार-बार क्यों होता है?",
-        "description": "टाइफाइड बार-बार क्यों होता है? कारण, इलाज और prevention। RAJ Hospital Ranchi में expert treatment।",
+        "description": "टाइफाइड बार-बार क्यों होता है? कारण, इलाज और prevention। RAJ Hospital Ranchi में जांच और इलाज उपलब्ध।",
         "url": "https://rajhospitals.com/blog/typhoid-bar-bar-kyu-hota-hai/",
         "author": {
             "@type": "Organization",
@@ -185,7 +185,7 @@
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">
                     <strong class="text-primary-600 text-lg">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> टाइफाइड एक गंभीर bacterial infection है जो <strong>Salmonella Typhi</strong> bacteria से होती है। अगर properly treat न किया जाए, तो यह life-threatening हो सकती है। RAJ Hospital Ranchi में इसका effective treatment available है।</span>
+                    <span class="text-gray-700"> टाइफाइड एक गंभीर bacterial infection है जो <strong>Salmonella Typhi</strong> bacteria से होती है। अगर properly treat न किया जाए, तो यह life-threatening हो सकती है। RAJ Hospital Ranchi में इसकी जांच और इलाज उपलब्ध है।</span>
                 </div>
 
                 <h2 class="raj-h2-secondary">टाइफाइड क्या है और कैसे फैलती है?</h2>
@@ -299,7 +299,7 @@
                 </div>
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">टाइफाइड का Expert इलाज</h3>
+                    <h3 class="text-xl font-bold mb-2">टाइफाइड की जांच और इलाज</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में टाइफाइड का complete diagnosis और treatment available है। Blood tests, cultures, और appropriate antibiotics।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
@@ -323,8 +323,8 @@
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Typhoid Bar Bar Kyu Hota Hai पर ज़रूरी जानकारी</h2>
-                    <p class="text-gray-700 mb-4">टाइफाइड बार-बार क्यों होता है (Typhoid Bar Bar Kyu Hota Hai)? कारण, इलाज और prevention। RAJ Hospital Ranchi में expert treatment।</p>
-                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए टाइफाइड एक common problem है। Prevention और proper treatment दोनों जरूरी हैं। RAJ Hospital में comprehensive typhoid care available है।</p>
+                    <p class="text-gray-700 mb-4">टाइफाइड बार-बार क्यों होता है (Typhoid Bar Bar Kyu Hota Hai)? कारण, इलाज और prevention। RAJ Hospital Ranchi में जांच और इलाज उपलब्ध।</p>
+                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए टाइफाइड एक common problem है। Prevention और proper treatment दोनों जरूरी हैं। RAJ Hospital में typhoid की जांच और इलाज उपलब्ध है।</p>
                 </section>
 
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">

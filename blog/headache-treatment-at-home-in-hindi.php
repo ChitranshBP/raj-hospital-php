@@ -179,7 +179,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    सिरदर्द (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>) एक ऐसी समस्या है जो लगभग हर किसी को कभी न कभी होती है — और अच्छी बात यह है कि इनमें से ज्यादातर सिरदर्द को <strong>घर पर ही आसान उपायों से ठीक</strong> किया जा सकता है। पानी की कमी, तनाव, नींद पूरी न होना, स्क्रीन पर ज्यादा समय और भूखे रहना — इन आम कारणों को समझकर आप जल्दी राहत पा सकते हैं। <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची के सबसे अच्छे अस्पताल</a> की इस गाइड में <strong>सिरदर्द के 10 असरदार घरेलू उपाय</strong> बताए हैं — साथ ही यह भी कि कब आराम करने के बजाय डॉक्टर को दिखाना जरूरी है।
+                    सिरदर्द (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>) एक ऐसी समस्या है जो लगभग हर किसी को कभी न कभी होती है — और अच्छी बात यह है कि इनमें से ज्यादातर सिरदर्द को <strong>घर पर ही आसान उपायों से ठीक</strong> किया जा सकता है। पानी की कमी, तनाव, नींद पूरी न होना, स्क्रीन पर ज्यादा समय और भूखे रहना — इन आम कारणों को समझकर आप जल्दी राहत पा सकते हैं। <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची</a> की इस गाइड में <strong>सिरदर्द के 10 असरदार घरेलू उपाय</strong> बताए हैं — साथ ही यह भी कि कब आराम करने के बजाय डॉक्टर को दिखाना जरूरी है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -230,14 +230,14 @@
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="sunrise" class="raj-icon raj-icon-md raj-icon-secondary"></i> 10. नींद सुधारें</h3>
-                        <p class="raj-card-body">बहुत कम और बहुत ज्यादा — दोनों तरह की नींद सिरदर्द बढ़ाती है। रोज़ 7-8 घंटे नियमित नींद लें — यह सबसे असरदार लंबे समय का उपाय है।</p>
+                        <p class="raj-card-body">बहुत कम और बहुत ज्यादा — दोनों तरह की नींद सिरदर्द बढ़ाती है। रोज़ 7-8 घंटे नियमित नींद लें — यह लंबे समय के लिए एक असरदार उपाय है।</p>
                     </div>
                 </div>
 
                 <div class="raj-callout raj-callout-success">
                     <i data-feather="check-circle" class="raj-callout-icon"></i>
                     <div class="raj-callout-body">
-                        <strong>सबसे तेज राहत का तरीका:</strong> दर्द शुरू होते ही एक साथ — पानी + अंधेरा शांत कमरा + सिकाई + कुछ मिनट गहरी सांस — यह किसी एक उपाय से कहीं बेहतर काम करता है। जल्दी शुरू करना ही सबसे बड़ी कुंजी है।
+                        <strong>जल्दी राहत का तरीका:</strong> दर्द शुरू होते ही एक साथ — पानी + अंधेरा शांत कमरा + सिकाई + कुछ मिनट गहरी सांस — यह किसी एक उपाय से कहीं बेहतर काम करता है। जल्दी शुरू करना ही सबसे बड़ी कुंजी है।
                     </div>
                 </div>
 
@@ -283,7 +283,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">सिरदर्द को बेहतर समझने और इलाज के लिए ये guides भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — रांची का सबसे अच्छा मल्टीस्पेशलिटी अस्पताल</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — मल्टीस्पेशलिटी अस्पताल, रांची</a></li>
                         <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">माइग्रेन के लक्षण — Migraine Symptoms in Hindi</a></li>
                         <li><a href="/blog/sir-ke-piche-dard-hona.php" class="text-secondary-600 hover:underline font-semibold">सिर के पीछे दर्द होना — कारण और इलाज</a></li>
                         <li><a href="/blog/back-head-pain-causes-treatment-hindi.php" class="text-secondary-600 hover:underline font-semibold">सिर के पिछले हिस्से में दर्द — कारण और उपचार</a></li>
@@ -301,12 +301,12 @@
                             <p class="text-gray-700">5 मिनट में पूरी तरह ठीक भले न हो, पर राहत तुरंत शुरू हो सकती है: पानी पिएं, अंधेरे-शांत जगह जाएं, माथे/गर्दन पर सिकाई करें और धीमी सांस लेते हुए कनपटी की मालिश करें। सिरदर्द को शुरू में ही पकड़ लेना इन उपायों को कहीं ज्यादा असरदार बनाता है।</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                            <h3 class="font-bold text-gray-800 mb-2">माइग्रेन के लिए कौन सा घरेलू उपाय सबसे अच्छा है?</h3>
-                            <p class="text-gray-700">माइग्रेन में अंधेरे-शांत कमरे में आराम, माथे पर ठंडी सिकाई, पर्याप्त पानी और दर्द को जल्दी संभालना सबसे ज्यादा मदद करता है। चूंकि माइग्रेन के खास ट्रिगर होते हैं, इसलिए diary रखना और <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital की न्यूरोलॉजी OPD</a> में सही निदान करवाना सबसे बेहतर नियंत्रण देता है।</p>
+                            <h3 class="font-bold text-gray-800 mb-2">माइग्रेन में कौन से घरेलू उपाय मदद करते हैं?</h3>
+                            <p class="text-gray-700">माइग्रेन में अंधेरे-शांत कमरे में आराम, माथे पर ठंडी सिकाई, पर्याप्त पानी और दर्द को जल्दी संभालना सबसे ज्यादा मदद करता है। चूंकि माइग्रेन के खास ट्रिगर होते हैं, इसलिए diary रखना और <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital की न्यूरोलॉजी OPD</a> में सही निदान करवाना बेहतर नियंत्रण देता है।</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">क्या हर सिरदर्द का घर पर इलाज सुरक्षित है?</h3>
-                            <p class="text-gray-700">कभी-कभार होने वाले हल्के-मध्यम सिरदर्द का घर पर इलाज आमतौर पर ठीक है। पर बार-बार होने वाला सिरदर्द, या अचानक तेज दर्द, बुखार के साथ गर्दन अकड़ना, कमजोरी या नज़र में बदलाव जैसे चेतावनी संकेत वाला सिरदर्द — इनमें डॉक्टर जरूरी है। संदेह हो तो <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची के सबसे अच्छे अस्पताल</a> में जांच करवाएं।</p>
+                            <p class="text-gray-700">कभी-कभार होने वाले हल्के-मध्यम सिरदर्द का घर पर इलाज आमतौर पर ठीक है। पर बार-बार होने वाला सिरदर्द, या अचानक तेज दर्द, बुखार के साथ गर्दन अकड़ना, कमजोरी या नज़र में बदलाव जैसे चेतावनी संकेत वाला सिरदर्द — इनमें डॉक्टर जरूरी है। संदेह हो तो <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची</a> में जांच करवाएं।</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">मुझे रोज़ सिरदर्द क्यों होता है?</h3>

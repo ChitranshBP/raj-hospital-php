@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Psychiatry & Mental Health Hospital in Ranchi | Best Psychiatrist in Ranchi – Raj Hospital</title>
+    <title>Psychiatry & Mental Health Hospital in Ranchi | Psychiatrist in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best psychiatry and mental health hospitals in Ranchi offering expert mental health care, counselling and psychiatric treatment." />
+        content="Raj Hospital is a psychiatry and mental health hospital in Ranchi offering expert mental health care, counselling and psychiatric treatment." />
 
     <meta name="robots" content="index, follow" />
 
@@ -90,10 +90,10 @@ Counselling Services in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best psychiatry and mental health hospital in Ranchi?",
+      "name": "Does Raj Hospital offer psychiatry and mental health services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best psychiatry and mental health hospitals in Ranchi offering expert mental healthcare."
+        "text": "Yes, Raj Hospital in Ranchi offers mental healthcare."
       }
     },
     {
@@ -525,7 +525,7 @@ Counselling Services in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, we have specialized psychiatrists for treating children and adolescents with
+                                <p>Yes, we provide psychiatric care for children and adolescents with
                                     mental health needs.</p>
                             </div>
                         </div>

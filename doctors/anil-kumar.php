@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '40+ Years',
     'regNo' => '', // Optional
     'image' => '../assets/Doc-Side/Dr Anil Kumar (Psychiatry).webp',
-    'description' => "Dr. Anil Kumar is a highly experienced Psychiatrist at Raj Hospital, Ranchi, with over 40 years of expertise in mental health care. He provides comprehensive treatment for depression, anxiety, psychosis, and other psychiatric disorders with a compassionate, patient-centered approach.",
+    'description' => "Dr. Anil Kumar is an experienced Psychiatrist at Raj Hospital, Ranchi, with over 40 years of expertise in mental health care. He provides comprehensive treatment for depression, anxiety, psychosis, and other psychiatric disorders with a compassionate, patient-centered approach.",
     'expertise' => [
         'Electrophysiology (EMG & EEG)',
         'Neuro-Psychiatric Care',

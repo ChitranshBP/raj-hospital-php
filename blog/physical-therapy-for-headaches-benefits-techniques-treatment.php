@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -229,7 +229,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Physical therapy for headaches</strong> is a highly effective, drug-free approach to treating various types of headaches. Whether you're suffering from <strong>tension headaches</strong>, <strong>migraines</strong>, or <strong>cervicogenic headaches</strong>, physical therapy can provide significant relief and long-term management.
+                    <strong>Physical therapy for headaches</strong> can be a helpful, drug-free option for some types of headaches, especially tension-type and neck-related (cervicogenic) headaches. Whether you're suffering from <strong>tension headaches</strong>, <strong>migraines</strong>, or <strong>cervicogenic headaches</strong>, physical therapy can provide significant relief and long-term management.
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -263,7 +263,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Drug-free pain relief</strong> - Reduces reliance on pain medications</li>
-                    <li><strong>Addresses root cause</strong> - Treats underlying musculoskeletal issues</li>
+                    <li><strong>Addresses root cause</strong> - Can help with neck and muscle problems that contribute to some headaches</li>
                     <li><strong>Improves posture</strong> - Corrects postural imbalances that contribute to headaches</li>
                     <li><strong>Increases mobility</strong> - Restores neck and shoulder movement</li>
                     <li><strong>Reduces frequency and severity</strong> - Long-term prevention</li>
@@ -328,7 +328,7 @@
                 </ul>
 
                 <p class="text-gray-700 mb-4">
-                    Based on the assessment, a <strong>personalized treatment plan</strong> is created. Most patients experience significant improvement within 6-8 sessions.
+                    Based on the assessment, a <strong>personalized treatment plan</strong> is created. Improvement varies from person to person; your therapist will review progress regularly.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -339,7 +339,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need Physical Therapy for Headaches?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers expert physical therapy services for all types of headaches.</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers physiotherapy assessment for headaches related to neck and muscle problems.</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -349,7 +349,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Is physical therapy effective for migraines?</h4>
-                        <p class="text-gray-700">Yes, studies show physical therapy can reduce <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a> frequency by 40-50% and decrease severity of attacks.</p>
+                        <p class="text-gray-700">Physical therapy may help reduce <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a> frequency by 40-50% and decrease severity of attacks.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">How many sessions are needed?</h4>
@@ -405,7 +405,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

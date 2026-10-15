@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -234,7 +234,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-teal-700">मुख्य बात:</strong>
-                    <span class="text-gray-700"> दांत दर्द और सिरदर्द के 70% cases में दांत की समस्या <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> का कारण होती है। Early treatment से जटिलताएं avoid की जा सकती हैं।</span>
+                    <span class="text-gray-700"> दांत दर्द और सिरदर्द साथ हों तो कई cases में दांत की समस्या <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> का कारण होती है। Early treatment से जटिलताएं avoid की जा सकती हैं।</span>
                 </div>
 
                 <!-- Section 1: Causes -->
@@ -356,7 +356,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-teal-600 to-teal-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Dental Pain? Don't Wait!</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में emergency dental services और complete dental care available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में dental consultation और treatment उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-teal-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -374,7 +374,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">क्या root canal painful है?</h4>
-                        <p class="text-gray-700">Modern techniques से बहुत कम painful है। Local anesthesia से completely comfortable होता है।</p>
+                        <p class="text-gray-700">Modern techniques से बहुत कम painful है। Local anesthesia से procedure के दौरान दर्द काफी कम रहता है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
@@ -422,7 +422,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

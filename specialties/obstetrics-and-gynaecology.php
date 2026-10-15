@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Obstetrics & Gynaecology Hospital in Ranchi | Best Gynaecologist in Ranchi – Raj Hospital</title>
+    <title>Obstetrics & Gynaecology Hospital in Ranchi | Gynaecologist in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best obstetrics and gynaecology hospitals in Ranchi offering maternity care, pregnancy services and expert gynaecologists." />
+        content="Raj Hospital is an obstetrics and gynaecology hospital in Ranchi offering maternity care, pregnancy services and expert gynaecologists." />
 
     <meta name="robots" content="index, follow" />
 
@@ -90,10 +90,10 @@ Pregnancy Care Hospital in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best obstetrics and gynaecology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer obstetrics and gynaecology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best obstetrics and gynaecology hospitals in Ranchi providing comprehensive women healthcare."
+        "text": "Yes, Raj Hospital in Ranchi provides comprehensive women's healthcare."
       }
     },
     {
@@ -248,7 +248,7 @@ Pregnancy Care Hospital in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Obstetrics & Gynaecology</h1>
-                    <p class="text-xl text-gray-200">Best Hospital in Ranchi for Pregnancy Delivery & Gynecology Care
+                    <p class="text-xl text-gray-200">Hospital in Ranchi for Pregnancy Delivery & Gynecology Care
                         with expert gynecologists for high-risk pregnancy and infertility.</p>
                 </div>
             </div>
@@ -268,7 +268,7 @@ Pregnancy Care Hospital in Jharkhand
                             From adolescence to menopause, we offer expert services in maternity care, high-risk
                             pregnancy management, infertility treatment, and minimally invasive gynaecological
                             surgeries. With a team of highly experienced gynaecologists and a patient-centric approach,
-                            we ensure the safest delivery experience and best health outcomes for mother and child.</p>
+                            we aim for a safe delivery experience and good health outcomes for mother and child.</p>
 
                         <!-- Why Choose Us Box -->
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
@@ -596,7 +596,7 @@ Pregnancy Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">High Risk Pregnancy</h3>
-                        <p class="text-gray-600 mb-4">Specialized care for complicated pregnancies ensuring safety of
+                        <p class="text-gray-600 mb-4">Specialized care for complicated pregnancies focused on the safety of
                             both mother and baby.</p>
                     </div>
                 </div>
@@ -625,8 +625,8 @@ Pregnancy Care Hospital in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300">
                     </div>
                     <div class="p-6">
-                        <h3 class="text-xl font-semibold text-gray-900 mb-3">Normal & Painless Delivery</h3>
-                        <p class="text-gray-600 mb-4">Promoting natural birth with options for painless labour and
+                        <h3 class="text-xl font-semibold text-gray-900 mb-3">Normal Delivery & Labour Analgesia</h3>
+                        <p class="text-gray-600 mb-4">Promoting natural birth with options for labour pain relief and
                             epidural analgesia.</p>
                     </div>
                 </div>
@@ -779,13 +779,13 @@ Pregnancy Care Hospital in Jharkhand
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Is painless delivery available at
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Is labour pain relief (epidural) available at
                                     Raj Hospitals?</h3>
                                 <i data-feather="plus"
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, we offer painless normal delivery options such as epidural analgesia for a
+                                <p>Yes, we offer labour pain relief options such as epidural analgesia for a
                                     comfortable birthing experience.</p>
                             </div>
                         </div>

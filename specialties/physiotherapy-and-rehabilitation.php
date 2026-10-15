@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Physiotherapy & Rehabilitation in Ranchi | Best Physiotherapy Centre in Ranchi – Raj Hospital</title>
+    <title>Physiotherapy & Rehabilitation in Ranchi | Physiotherapy Centre in Ranchi – Raj Hospital</title>
 
     <meta name="description"
         content="Raj Hospital offers advanced physiotherapy and rehabilitation services in Ranchi for pain management, injury recovery and post-surgery rehabilitation." />
@@ -90,10 +90,10 @@ Physiotherapist in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best physiotherapy and rehabilitation centre in Ranchi?",
+      "name": "Does Raj Hospital offer physiotherapy and rehabilitation in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best centres in Ranchi for physiotherapy and rehabilitation services."
+        "text": "Yes, Raj Hospital in Ranchi offers physiotherapy and rehabilitation services."
       }
     },
     {
@@ -203,7 +203,7 @@ Physiotherapist in Jharkhand
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Physiotherapy Department at Raj
                             Hospitals provides expert rehabilitative care tailored for patients with orthopaedic,
                             neurological, cardiological, gynecological, and sports injuries. Our physiotherapists use
-                            advanced techniques and state-of-the-art equipment to ensure efficient pain management,
+                            advanced techniques and modern equipment for pain management,
                             post-surgical rehabilitation, injury recovery, and mobility restoration. Special emphasis is
                             placed on cardiac physiotherapy, ergonomic lifestyle interventions, bedside physiotherapy
                             for ICU and ward patients, and pediatric rehabilitation for children with developmental

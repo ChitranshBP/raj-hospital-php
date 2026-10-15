@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference? | RAJ Hospital Ranchi</title>
     <meta name="description" content="Heart attack and cardiac arrest are NOT the same. This RAJ Hospital Ranchi guide explains the difference, the link between the two, and the exact emergency response that saves lives.">
-    <meta name="keywords" content="difference between heart attack and cardiac arrest, heart attack vs cardiac arrest, sudden cardiac arrest, CPR, AED, RAJ Hospital Ranchi, best hospital in Ranchi">
+    <meta name="keywords" content="difference between heart attack and cardiac arrest, heart attack vs cardiac arrest, sudden cardiac arrest, CPR, AED, RAJ Hospital Ranchi, multispeciality hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
@@ -170,7 +170,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a></strong> and <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> arrest</strong> are two of the most misused terms in medicine. They are not synonyms, they are not the same event, and they require different emergency responses. According to the cardiology and emergency medicine team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, the single biggest source of confusion is the assumption that one is just a milder form of the other. This guide, written for patients and family members, explains the difference in plain language and tells you exactly what to do in each scenario.
+                    <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a></strong> and <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> arrest</strong> are two of the most misused terms in medicine. They are not synonyms, they are not the same event, and they require different emergency responses. According to the cardiology and emergency medicine team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>, the single biggest source of confusion is the assumption that one is just a milder form of the other. This guide, written for patients and family members, explains the difference in plain language and tells you exactly what to do in each scenario.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -186,7 +186,7 @@
                     Crucially, the heart usually <strong>continues to beat</strong> during a heart attack — irregularly, weakly, but it is still pumping. The patient is typically awake, in pain, sweating, and can usually call for help. This is the moment when the <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">interventional cardiologists at RAJ Hospital Ranchi</a> can save heart muscle with primary angioplasty.
                 </p>
                 <p class="text-gray-700 mb-4">
-                    According to the Indian Council of Medical Research, India reports roughly 2.8 million heart attacks every year, and the 30-day mortality remains around 8–10%. The biggest determinant of survival is <strong>door-to-balloon time</strong> — the interval between arrival at a cardiac hospital and the moment the blocked artery is opened with a stent. RAJ Hospital maintains a door-to-balloon time of under 60 minutes for primary PCI, well within the international standard of 90 minutes.
+                    According to the Indian Council of Medical Research, India reports roughly 2.8 million heart attacks every year, and the 30-day mortality remains around 8–10%. The biggest determinant of survival is <strong>door-to-balloon time</strong> — the interval between arrival at a cardiac hospital and the moment the blocked artery is opened with a stent. 
                 </p>
 
                 <h2 class="raj-h2">Cardiac Arrest — An Electrical Problem</h2>
@@ -255,7 +255,7 @@
                             <li>Chew a 300 mg aspirin (unless allergic).</li>
                             <li>Call 108 and the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital cardiac ER</a>.</li>
                             <li>Do not let the person walk or drive themselves.</li>
-                            <li>Reach a hospital with primary PCI within 90 minutes for best outcomes.</li>
+                            <li>Reach a hospital with primary PCI as early as possible (ideally within 90 minutes).</li>
                         </ol>
                     </div>
                     <div class="raj-card">
@@ -293,7 +293,7 @@
                 <!-- CTA -->
                 <div class="raj-cta">
                     <h3 class="text-xl font-bold text-white mb-2">Don't wait for an emergency. Get a heart check-up.</h3>
-                    <p class="text-white/90 mb-4">Book a preventive cardiology consultation at RAJ Hospital Ranchi — India's most comprehensive cardiac assessment including ECG, echo, lipid profile, and troponin in a single visit.</p>
+                    <p class="text-white/90 mb-4">Book a preventive cardiology consultation at RAJ Hospital Ranchi — a cardiac assessment that may include ECG, echo and lipid profile, as advised by the doctor.</p>
                     <a href="https://rajhospitals.com/contact.php" class="raj-cta-button">Book a Heart Check-up →</a>
                 </div>
 
@@ -301,7 +301,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">Heart attack, cardiac arrest और heart health के बारे में और जानें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत जो आपको जानना जरूरी हैं</a></li>
                         <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
                         <li><a href="/blog/can-gas-cause-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Gas Cause a Heart Attack? — Symptoms & Red Flags</a></li>

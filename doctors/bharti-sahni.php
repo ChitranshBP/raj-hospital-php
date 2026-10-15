@@ -8,10 +8,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Bharti Sahni – Haematology & Bone Marrow Transplant in Ranchi</title>
-    <meta name="description" content="Dr. Bharti Sahni is a Haematologist & Bone Marrow Transplant Specialist at Raj Hospital Ranchi. Expert in Leukaemia, Lymphoma, Myeloma, Thalassemia & Blood Disorders. Book appointment.">
-    <meta name="keywords" content="Dr. Bharti Sahni, Haematologist Ranchi, Bone Marrow Transplant Ranchi, Best Haematologist in Ranchi, Dr. Bharti Sahni Raj Hospital, Blood Disorder Doctor Ranchi">
+    <meta name="description" content="Dr. Bharti Sahni is a Haematologist & Bone Marrow Transplant Specialist at Raj Hospital Ranchi. Treats Leukaemia, Lymphoma, Myeloma, Thalassemia & Blood Disorders. Book appointment.">
+    <meta name="keywords" content="Dr. Bharti Sahni, Haematologist Ranchi, Bone Marrow Transplant Ranchi, Haematologist in Ranchi, Dr. Bharti Sahni Raj Hospital, Blood Disorder Doctor Ranchi">
     <meta property="og:title" content="Dr. Bharti Sahni – Haematology & Bone Marrow Transplant in Ranchi">
-    <meta property="og:description" content="Dr. Bharti Sahni is a Haematologist & Bone Marrow Transplant Specialist at Raj Hospital Ranchi. Expert in Leukaemia, Lymphoma, Myeloma, Thalassemia & Blood Disorders.">
+    <meta property="og:description" content="Dr. Bharti Sahni is a Haematologist & Bone Marrow Transplant Specialist at Raj Hospital Ranchi. Treats Leukaemia, Lymphoma, Myeloma, Thalassemia & Blood Disorders.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://rajhospitals.com/doctors/bharti-sahni">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">

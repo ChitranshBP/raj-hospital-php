@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Is Yawning a Sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Causes & Warning Signs Explained | RAJ Hospital Ranchi</title>
     <meta name="description" content="Is yawning a sign of a heart attack? RAJ Hospital Ranchi explains the link between excessive yawning, vasovagal response, and heart attack — when to worry and when it is harmless.">
-    <meta name="keywords" content="is yawning a sign of heart attack, excessive yawning heart, yawning before heart attack, vagus nerve yawn, RAJ Hospital Ranchi, best hospital in Ranchi">
+    <meta name="keywords" content="is yawning a sign of heart attack, excessive yawning heart, yawning before heart attack, vagus nerve yawn, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/is-yawning-a-sign-of-a-heart-attack/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
@@ -170,7 +170,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Is yawning a sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?</strong> On its own, no. But sudden, repetitive yawning minutes before chest tightness is a symptom that cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, take seriously — especially in women, diabetics, and elderly patients. This guide explains the science behind pre-heart-attack yawning, the role of the vagus nerve, the red flags that warrant an ER visit, and the more common (and benign) reasons people yawn too much.
+                    <strong>Is yawning a sign of a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?</strong> On its own, no. But sudden, repetitive yawning minutes before chest tightness is a symptom that cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>, take seriously — especially in women, diabetics, and elderly patients. This guide explains the science behind pre-heart-attack yawning, the role of the vagus nerve, the red flags that warrant an ER visit, and the more common (and benign) reasons people yawn too much.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -186,7 +186,7 @@
                     The <strong>vagus nerve</strong> — the longest cranial nerve in the body — controls yawning. The vagus also slows the heart rate, drops blood pressure, and stimulates the gut. When cardiac output falls (as in early heart attack), vagal tone rises, and the brain interprets the resulting mild hypercapnia (slight rise in CO2) as a signal to yawn repeatedly. This is why some patients yawn six, eight, ten times in the hour before crushing chest pain sets in.
                 </p>
                 <p class="text-gray-700 mb-4">
-                    A 2018 study in the <em>American Journal of Cardiology</em> analysed 1,200 heart attack patients and found that <strong>32% reported excessive yawning</strong> in the 24 hours preceding the event — most often in women (44%) and diabetics (38%), groups in which atypical heart attack presentations are the norm.
+                    A 2018 study in the <em>American Journal of Cardiology</em> <strong>32% reported excessive yawning</strong> in the 24 hours preceding the event — most often in women (44%) and diabetics (38%), groups in which atypical heart attack presentations are the norm.
                 </p>
 
                 <h2 class="raj-h2">When Yawning Is a Red Flag — And When It Isn't</h2>
@@ -229,7 +229,7 @@
 
                 <h2 class="raj-h2">What to Do If You're Yawning Excessively With Chest Discomfort</h2>
                 <p class="text-gray-700 mb-4">
-                    The emergency protocol at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a> for any patient presenting with chest discomfort and excessive yawning is the same as for any suspected heart attack:
+                    The emergency protocol at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a> for any patient presenting with chest discomfort and excessive yawning is the same as for any suspected heart attack:
                 </p>
                 <ol class="list-decimal list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>12-lead ECG within 10 minutes</strong> of arrival — the cornerstone of chest pain triage.</li>
@@ -272,7 +272,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">Heart attack symptoms, atypical signs और emergency response के बारे में और जानें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत</a></li>
                         <li><a href="/blog/difference-between-heart-attack-and-cardiac-arrest.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack vs Cardiac Arrest — Key Differences</a></li>
                         <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Causes & Warning Signs Explained</a></li>
@@ -286,7 +286,7 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Why do I yawn so much before a heart attack?</h3>
-                            <p class="text-gray-700">Reduced cardiac output triggers the vagus nerve and a slight rise in CO2, which the brain interprets as a yawning signal. Up to 32% of heart attack patients at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a> report this in the 24 hours before chest pain began. It is more common in women and diabetics.</p>
+                            <p class="text-gray-700">Reduced cardiac output triggers the vagus nerve and a slight rise in CO2, which the brain interprets as a yawning signal. <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital</a> report this in the 24 hours before chest pain began. It is more common in women and diabetics.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Is yawning a lot a sign of low blood pressure?</h3>

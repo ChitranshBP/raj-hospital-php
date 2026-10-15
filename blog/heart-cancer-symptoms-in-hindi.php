@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>दिल का कैंसर के लक्षण - Heart <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | RAJ Hospital Ranchi</title>
-    <meta name="description" content="दिल का कैंसर (Heart Cancer) के लक्षण जानें। जानें दिल के कैंसर के शुरुआती और गंभीर लक्षण, कारण और बचाव के उपाय। Ranchi के best cardiology experts की advice।">
+    <meta name="description" content="दिल का कैंसर (Heart Cancer) के लक्षण जानें। जानें दिल के कैंसर के शुरुआती और गंभीर लक्षण, कारण और बचाव के उपाय। RAJ Hospital Ranchi से जानकारी।">
     <meta name="keywords" content="heart cancer, दिल का कैंसर, heart cancer symptoms in hindi, cardiac tumor, cardiac sarcoma, दिल का कैंसर के लक्षण, cardiology, ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/heart-cancer-symptoms-in-hindi/">
@@ -196,7 +196,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -289,7 +289,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital Ranchi में हमारी expert cardiology team <a href="/doctor-profile.php" class="text-purple-600 hover:underline font-semibold">neurology और cardiology दोनों conditions</a> का diagnosis और treatment करती है। हमारे specialists को <a href="/contact.php" class="text-purple-600 hover:underline font-semibold">contact करें</a> अधिक जानकारी के लिए।
+                    RAJ Hospital Ranchi में हमारी cardiology team <a href="/doctor-profile.php" class="text-purple-600 hover:underline font-semibold">neurology और cardiology दोनों conditions</a> का diagnosis और treatment करती है। हमारे specialists को <a href="/contact.php" class="text-purple-600 hover:underline font-semibold">contact करें</a> अधिक जानकारी के लिए।
                 </p>
 
                 <!-- Section 2: Types of Heart Cancer -->
@@ -439,7 +439,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    हमारी team <a href="/brain-tumor-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">brain tumor treatment</a> और दिल के tumors दोनों में experienced है। RAJ Hospital Ranchi में latest diagnostic equipment available है।
+                    दिल के tumor की जांच और इलाज के लिए cardiologist और oncologist दोनों की सलाह ज़रूरी होती है।
                 </p>
 
                 <!-- Section 6: Treatment -->
@@ -492,7 +492,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-purple-600 to-purple-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">दिल से Related किसी भी समस्या में तुरंत मदद</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced cardiology और neurology team 24x7 available है। Advanced diagnostic facilities और latest treatment options के साथ हम आपकी सेहत का ध्यान रखते हैं।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में cardiology और neurology team से परामर्श उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-purple-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Contact Us Now</a>
                 </div>
 
@@ -532,7 +532,7 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi: ज़रूरी जानकारी</h2>
-                    <p class="text-gray-700 mb-4">दिल का कैंसर (Heart Cancer) के लक्षण जानें। जानें दिल के कैंसर के शुरुआती और गंभीर लक्षण, कारण और बचाव के उपाय। Ranchi के best cardiology experts की advice।</p>
+                    <p class="text-gray-700 mb-4">दिल का कैंसर (Heart Cancer) के लक्षण जानें। जानें दिल के कैंसर के शुरुआती और गंभीर लक्षण, कारण और बचाव के उपाय। RAJ Hospital Ranchi से जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -549,7 +549,7 @@
                         <li><a href="/blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दिल का दौरा लक्षण (Heart Attack Symptoms)</a></li>
                         <li><a href="/blog/brain-stroke-ke-lakshan.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Brain Stroke के लक्षण</a></li>
-                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Hospital for Paralysis Treatment in Ranchi</a></li>
+                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Paralysis Treatment in Ranchi</a></li>
                     </ul>
                 </section>
 
@@ -574,7 +574,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

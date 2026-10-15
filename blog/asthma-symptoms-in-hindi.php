@@ -453,7 +453,7 @@
             "name": "सांस और फेफड़ों से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -635,7 +635,7 @@
             </ul>
 
             <div class="highlight-box">
-                <strong>जानकारी:</strong> हर दमा के मरीज के लिए <strong>ट्रिगर अलग</strong> हो सकते हैं। अपने ट्रिगर पहचानना और उनसे बचना दमा नियंत्रण का सबसे अच्छा तरीका है।
+                <strong>जानकारी:</strong> हर दमा के मरीज के लिए <strong>ट्रिगर अलग</strong> हो सकते हैं। अपने ट्रिगर पहचानना और उनसे बचना, नियमित दवा के साथ, दमा नियंत्रण का एक महत्वपूर्ण हिस्सा है।
             </div>
 
             <!-- Section 5: Diagnosis -->
@@ -681,7 +681,7 @@
             </ul>
 
             <h3>3. इनहेलर का सही उपयोग</h3>
-            <p><strong>इनहेलर (inhaler)</strong> दमा इलाज का सबसे अच्छा और आसान तरीका है। लेकिन इसे <strong>सही तरीके से</strong> उपयोग करना जरूरी है:</p>
+            <p><strong>इनहेलर (inhaler)</strong> दमा इलाज का एक असरदार और आसान तरीका है। लेकिन इसे <strong>सही तरीके से</strong> उपयोग करना जरूरी है:</p>
             <ol>
                 <li>इनहेलर को अच्छी तरह <strong>shake करें</strong></li>
                 <li><strong>मुंह में</strong> मुखपत्र (mouthpiece) लगाएं</li>
@@ -778,8 +778,8 @@
                         <li><a href="/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Anxiety Symptoms in Men | Stress &amp; Mental Health Issues Signs</a></li>
                         <li><a href="/blog/back-head-pain-causes-treatment-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्दन और सिर दर्द: कारण, लक्षण और इलाज</a></li>
                         <li><a href="/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Green Tea on Empty Stomach - Benefits and Side Effects</a></li>
-                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Hospital for Paralysis Treatment in Ranchi</a></li>
-                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Indian Diet Plan for Diabetes Patients</a></li>
+                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Paralysis Treatment in Ranchi</a></li>
+                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Indian Diet Plan for Diabetes Patients</a></li>
                     </ul>
                 </section>
 
@@ -804,7 +804,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">सांस और फेफड़ों से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -821,8 +821,8 @@
             <!-- CTA Section -->
             <div class="cta-section">
                 <h3>क्या आपको दमा की समस्या है?</h3>
-                <p>RAJ Hospital, Ranchi में हमारे experts आपकी मदद के लिए तैयार हैं। स्पायरोमेट्री और अन्य tests से दमा का सही निदान और इलाज।</p>
-                <a href="/contact.php">Book Free Appointment</a>
+                <p>RAJ Hospital, Ranchi में दमा की जांच (जैसे spirometry) और इलाज के लिए appointment लें।</p>
+                <a href="/contact.php">Book Appointment</a>
             </div>
 
             <!-- Internal Links Section -->
@@ -833,7 +833,7 @@
                     <li><a href="/movement-disorders-treatment-in-ranchi.php">Movement Disorders Treatment</a> - neurological conditions की जानकारी</li>
                     <li><a href="/head-injury-treatment-in-ranchi.php">Head Injury Treatment in Ranchi</a> - मस्तिष्क और श्वसन नियंत्रण</li>
                     <li><a href="/stroke-and-tia-treatment-in-ranchi.php">Stroke Treatment in Ranchi</a> - oxygen supply और emergency care</li>
-                    <li><a href="/doctor-profile.php">हमारे Doctors से मिलें</a> - RAJ Hospital के expert medical team</li>
+                    <li><a href="/doctor-profile.php">हमारे Doctors से मिलें</a> - RAJ Hospital की medical team</li>
                     <li><a href="/parkinsons-disease-treatment-in-ranchi.php">Parkinson's Disease Treatment</a> - fitness और breathing exercises</li>
                     <li><a href="/contact.php">RAJ Hospital Contact</a> - appointment और emergency services</li>
                 </ul>

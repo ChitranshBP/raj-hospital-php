@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Stroke & TIA Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Stroke & TIA Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Looking for the best Stroke and TIA treatment in Ranchi? Raj Hospital offers rapid stroke response, thrombolysis, and advanced neuro-rehabilitation by top neurologists." />
-    <meta name="keywords" content="stroke treatment in Ranchi, TIA treatment Ranchi, paralysis hospital in Ranchi, best neurologist for stroke in Ranchi, Raj Hospital stroke care" />
+    <meta name="description" content="Looking for Stroke and TIA treatment in Ranchi? Raj Hospital offers emergency stroke care, thrombolysis for eligible patients, and neuro-rehabilitation." />
+    <meta name="keywords" content="stroke treatment in Ranchi, TIA treatment Ranchi, paralysis hospital in Ranchi, neurologist for stroke in Ranchi, Raj Hospital stroke care" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/stroke-and-tia-treatment-in-ranchi" />
@@ -177,8 +177,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Stroke & TIA Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Stroke & TIA Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -194,7 +194,7 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Stroke & TIA Treatment in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            A stroke occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. A TIA (Transient Ischemic Attack) is a temporary blockage. At Raj Hospital, we provide rapid, life-saving <strong>stroke treatment in Ranchi</strong>, utilizing our 'Stroke Ready' protocols to minimize brain damage and enhance recovery outcomes.
+                            A stroke occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. A TIA (Transient Ischemic Attack) is a temporary blockage. At Raj Hospital, we provide emergency <strong>stroke treatment in Ranchi</strong>, following stroke treatment protocols that aim to limit brain damage and support recovery.
                         </p>
                     </div>
 
@@ -232,7 +232,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">

@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Nutrition & Dietetics in Ranchi | Best Dietitian in Ranchi – Raj Hospital</title>
+    <title>Nutrition & Dietetics in Ranchi | Dietitian in Ranchi – Raj Hospital</title>
 
     <meta name="description"
         content="Raj Hospital offers expert nutrition and dietetics services in Ranchi with personalized diet plans, clinical nutrition support and experienced dietitians." />
@@ -90,10 +90,10 @@ Nutrition Care Hospital in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best hospital for nutrition and dietetics in Ranchi?",
+      "name": "Does Raj Hospital offer nutrition and dietetics services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best hospitals in Ranchi offering expert nutrition and dietetics services."
+        "text": "Yes, Raj Hospital in Ranchi offers nutrition and dietetics services."
       }
     },
     {

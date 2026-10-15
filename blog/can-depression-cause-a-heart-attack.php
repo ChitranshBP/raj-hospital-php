@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Understanding the Hidden Connection | RAJ Hospital Ranchi</title>
     <meta name="description" content="Can depression cause a heart attack? RAJ Hospital Ranchi explains the two-way link between depression and heart disease, the warning signs, and how treating your mind protects your heart.">
-    <meta name="keywords" content="can depression cause a heart attack, depression and heart disease, depression heart attack link, mental health and heart, does depression cause heart problems, RAJ Hospital Ranchi, best hospital in Ranchi">
+    <meta name="keywords" content="can depression cause a heart attack, depression and heart disease, depression heart attack link, mental health and heart, does depression cause heart problems, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/can-depression-cause-a-heart-attack/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
@@ -118,7 +118,7 @@
                 "name": "Is the link between depression and heart disease two-way?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes. Depression raises the risk of heart disease, and having a heart attack or heart failure substantially raises the risk of becoming depressed. About one in five people develop depression after a heart attack, and untreated post-heart-attack depression is linked to poorer recovery and higher risk of a second event. This is why cardiac and mental-health care are best delivered together."
+                    "text": "Yes. Depression raises the risk of heart disease, and having a heart attack or heart failure substantially raises the risk of becoming depressed. About one in five people develop depression after a heart attack, and untreated post-heart-attack depression is linked to poorer recovery and higher risk of a second event. This is why cardiac and mental-health care work well when delivered together."
                 }
             },
             {
@@ -126,7 +126,7 @@
                 "name": "Can treating depression lower heart attack risk?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Treating depression improves quality of life and supports heart health by making it easier to exercise, eat well, sleep, stop smoking and take medication consistently. Cognitive behavioural therapy and cardiac-safe antidepressants such as SSRIs are commonly used and are considered safe for most heart patients. Combined cardiology and psychiatry care gives the best results."
+                    "text": "Treating depression improves quality of life and supports heart health by making it easier to exercise, eat well, sleep, stop smoking and take medication consistently. Cognitive behavioural therapy and cardiac-safe antidepressants such as SSRIs are commonly used and are considered safe for most heart patients. Combined cardiology and psychiatry care is often helpful."
                 }
             },
             {
@@ -178,7 +178,7 @@
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    We tend to think of depression as a condition of the mind and a heart attack as a problem of the arteries — two separate worlds. But decades of research have shown they are deeply connected. So, <strong>can depression cause a heart attack?</strong> According to <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, depression is not a single-moment trigger like a blood clot — but it is a genuine, measurable risk factor that can roughly <em>double</em> the long-term risk of heart disease and worsen recovery after a cardiac event. This guide explains the hidden connection, why it works both ways, and what you can do about it.
+                    We tend to think of depression as a condition of the mind and a heart attack as a problem of the arteries — two separate worlds. But decades of research have shown they are deeply connected. So, <strong>can depression cause a heart attack?</strong> According to <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>, depression is not a single-moment trigger like a blood clot — but it is a genuine, measurable risk factor that can roughly <em>double</em> the long-term risk of heart disease and worsen recovery after a cardiac event. This guide explains the hidden connection, why it works both ways, and what you can do about it.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -273,7 +273,7 @@
 
                 <h2 class="raj-h2"><i data-feather="shield" class="raj-h2-icon"></i> Protecting Both Your Mind and Your Heart</h2>
                 <p class="text-gray-700 mb-4">
-                    The best part of this connection is that the same steps help both. Treating depression is, in a real sense, preventive cardiology. A combined plan at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best multispeciality hospital in Ranchi</a>, usually includes:
+                    The encouraging part of this connection is that the same steps help both. Treating depression is, in a real sense, preventive cardiology. A combined plan at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>, usually includes:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Talk therapy (CBT)</strong> — effective for depression and shown to help cardiac patients cope and recover.</li>
@@ -299,7 +299,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — Related Health Guides</h2>
                     <p class="text-gray-700 mb-4">Explore the mind–heart link and cardiac health further:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Guide</a></li>
                         <li><a href="/blog/what-causes-heart-attacks-in-young-people.php" class="text-secondary-600 hover:underline font-semibold">What Causes Heart Attacks in Young People? — Signs &amp; Prevention</a></li>
                         <li><a href="/blog/symptoms-of-depression-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">पुरुषों में डिप्रेशन के लक्षण — Depression Symptoms in Men (Hindi)</a></li>
@@ -314,7 +314,7 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can depression alone cause a heart attack in a healthy person?</h3>
-                            <p class="text-gray-700">Depression by itself does not block an artery in a single moment. But sustained, untreated depression changes inflammation, hormones, clotting and behaviour in ways that raise the risk of a heart attack over months and years — which is why it is treated as a genuine cardiac risk factor at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>.</p>
+                            <p class="text-gray-700">Depression by itself does not block an artery in a single moment. But sustained, untreated depression changes inflammation, hormones, clotting and behaviour in ways that raise the risk of a heart attack over months and years — which is why it is treated as a genuine cardiac risk factor at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Are antidepressants safe if I have heart disease?</h3>

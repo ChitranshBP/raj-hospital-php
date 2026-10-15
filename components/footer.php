@@ -20,9 +20,9 @@
                             <img src="/assets/Header/main-logo_ranchi-below.webp"
                                 alt="Raj Hospitals Logo" class="h-28 w-auto filter brightness-0 invert object-contain">
                         </div>
-                        <p class="text-gray-300 leading-relaxed mb-6 text-sm">Raj Hospitals is a leading multi-specialty
+                        <p class="text-gray-300 leading-relaxed mb-6 text-sm">Raj Hospitals is a multi-specialty
                             healthcare provider in Ranchi, Jharkhand, delivering comprehensive medical care with
-                            state-of-the-art technology and a patient-centric approach since 1991.</p>
+                            modern technology and a patient-centric approach since 1991.</p>
                         <div class="mt-6 space-y-3">
                             <div class="flex items-center space-x-2">
                                 <i data-feather="phone" class="w-4 h-4 text-orange-400"></i>
@@ -116,9 +116,9 @@
                         </ul>
                     </div>
 
-                    <!-- Centres of Excellence -->
+                    <!-- Key Specialties -->
                     <div>
-                        <h4 class="text-lg font-bold mb-6 text-white uppercase tracking-wide">Centres of Excellence</h4>
+                        <h4 class="text-lg font-bold mb-6 text-white uppercase tracking-wide">Key Specialties</h4>
                         <ul class="space-y-2.5">
                             <li><a href="/specialties/cardiology.php"
                                     class="text-gray-300 hover:text-orange-400 transition-colors flex items-center space-x-2 text-sm group"><i
@@ -224,7 +224,7 @@
                             <?php echo date("Y"); ?><span class="text-white font-semibold"> Raj
                                 Hospitals</span>. All rights reserved.
                         </p>
-                        <p class="text-gray-500 text-xs">Established 1991 • NABH Accredited • Leading Healthcare
+                        <p class="text-gray-500 text-xs">Established 1991 • NABH Accredited • Healthcare
                             Provider in Jharkhand</p>
                     </div>
                     <div class="flex flex-wrap justify-center gap-4 text-xs">

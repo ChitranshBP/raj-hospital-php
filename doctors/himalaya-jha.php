@@ -7,7 +7,7 @@ $doctor = [
     'experience' => '25+ Years',
     'regNo' => '',
     'image' => '../assets/doctor-latest/dr-hmy-jha.webp',
-    'description' => "Dr. Himalaya Jha is a highly experienced Internal Medicine specialist at Raj Hospital, Ranchi, with over 25 years of expertise. He specializes in diabetes management, metabolic disorders, and the treatment of infectious and febrile illnesses.",
+    'description' => "Dr. Himalaya Jha is an experienced Internal Medicine specialist at Raj Hospital, Ranchi, with over 25 years of expertise. He specializes in diabetes management, metabolic disorders, and the treatment of infectious and febrile illnesses.",
     'previousRoles' => [
         'Ex. Resident - Batra Hospital, New Delhi',
         'Ex. CMO - CGHS, Ranchi'

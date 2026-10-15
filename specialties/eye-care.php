@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Best Eye Hospital in Ranchi – Raj Hospital</title>
+    <title>Eye Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best eye care hospitals in Ranchi offering advanced eye treatment, experienced ophthalmologists and modern eye care facilities." />
+        content="Raj Hospital is an eye care hospital in Ranchi offering advanced eye treatment, experienced ophthalmologists and modern eye care facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -90,10 +90,10 @@ Eye Care Clinic in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best eye care hospital in Ranchi?",
+      "name": "Does Raj Hospital offer eye care in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best eye care hospitals in Ranchi offering advanced diagnosis and treatment for eye conditions."
+        "text": "Yes, Raj Hospital in Ranchi offers diagnosis and treatment for eye conditions."
       }
     },
     {
@@ -190,7 +190,7 @@ Eye Care Clinic in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Eye Care</h1>
-                    <p class="text-xl text-gray-200">Best eye hospital in Ranchi offering advanced treatments for
+                    <p class="text-xl text-gray-200">Eye hospital in Ranchi offering advanced treatments for
                         cataract, LASIK, glaucoma, and comprehensive vision care</p>
                 </div>
             </div>
@@ -204,10 +204,10 @@ Eye Care Clinic in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Eye Care Department at Raj Hospitals,
-                            Ranchi, is recognized as a leading center for comprehensive eye care in Jharkhand. Equipped
-                            with state-of-the-art clinical care and infrastructure, we offer a full spectrum of
+                            Ranchi, provides comprehensive eye care in Jharkhand. Equipped
+                            with modern clinical care and infrastructure, we offer a full spectrum of
                             diagnostic, medical, and surgical services for eye conditions. Our team of expert
-                            ophthalmologists and surgeons provides personalized treatment using the latest technologies
+                            ophthalmologists and surgeons provides personalized treatment using modern technologies
                             for LASIK (WaveFront & Standard), cataract surgery, glaucoma care, eye ultrasounds, cornea
                             and retina procedures, pediatric ophthalmology, and low vision aids.</p>
 
@@ -221,7 +221,7 @@ Eye Care Clinic in Jharkhand
                                         class="text-gray-700">Modern operation theatres for eye surgeries</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">State-of-the-art diagnostic imaging (OCT,
+                                        class="text-gray-700">Modern diagnostic imaging (OCT,
                                         ultrasound)</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
@@ -249,7 +249,7 @@ Eye Care Clinic in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">State-of-the-art diagnostic imaging (OCT,
+                                        class="text-gray-700">Modern diagnostic imaging (OCT,
                                         ultrasound)</span>
                                 </div>
                             </div>
@@ -507,7 +507,7 @@ Eye Care Clinic in Jharkhand
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">What is the best treatment for
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">What are the treatment options for poor
                                     eyesight?</h3><i data-feather="plus"
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
@@ -545,7 +545,7 @@ Eye Care Clinic in Jharkhand
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Which fruit is best for the eyes?
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Which fruits are good for the eyes?
                                 </h3><i data-feather="plus"
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>

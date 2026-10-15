@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Multiple Sclerosis Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Multiple Sclerosis Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
     <meta name="description" content="Searching for Multiple Sclerosis treatment in Ranchi? Raj Hospital provides specialized neurology care, disease-modifying therapies, and neuro-rehabilitation for MS patients." />
-    <meta name="keywords" content="multiple sclerosis treatment in Ranchi, MS treatment Ranchi, neurologist for MS in Ranchi, autoimmune disease treatment Ranchi, best neurologist Ranchi" />
+    <meta name="keywords" content="multiple sclerosis treatment in Ranchi, MS treatment Ranchi, neurologist for MS in Ranchi, autoimmune disease treatment Ranchi, neurologist Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/multiple-sclerosis-treatment-in-ranchi" />
@@ -173,8 +173,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Multiple Sclerosis Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Multiple Sclerosis Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -224,7 +224,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">

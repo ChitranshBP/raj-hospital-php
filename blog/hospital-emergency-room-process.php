@@ -245,7 +245,7 @@
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="check-circle" class="raj-icon raj-icon-md raj-icon-green"></i> Green &mdash; stable</h3>
-                        <p class="text-sm text-gray-700">Needs care but can safely wait. Minor cuts, sprains, mild fever, most dressings. This is the category that waits longest and is also the category with the best prognosis.</p>
+                        <p class="text-sm text-gray-700">Needs care but can safely wait. Minor cuts, sprains, mild fever, most dressings. This is the category that waits longest and usually has a good prognosis.</p>
                     </div>
                 </div>
                 <p class="text-gray-700 mb-4 mt-4">
@@ -388,7 +388,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">What is the golden hour in trauma care?</h3>
-                        <p class="text-gray-700">It describes the period immediately after serious injury when controlling bleeding, securing the airway and restoring circulation have the greatest effect on survival. It is a principle rather than a strict countdown, and it explains why trauma patients from outside Ranchi are best moved directly to a hospital with surgical and intensive care capability rather than to the nearest facility first.</p>
+                        <p class="text-gray-700">It describes the period immediately after serious injury when controlling bleeding, securing the airway and restoring circulation have the greatest effect on survival. It is a principle rather than a strict countdown, and it explains why trauma patients from outside Ranchi should ideally be moved directly to a hospital with surgical and intensive care capability rather than to the nearest facility first.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">How many attendants can stay with the patient?</h3>

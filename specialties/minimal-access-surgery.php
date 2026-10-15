@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Minimal Access Surgery in Ranchi | Best Laparoscopic Surgery Hospital in Ranchi – Raj Hospital</title>
+    <title>Minimal Access Surgery in Ranchi | Laparoscopic Surgery Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
         content="Raj Hospital offers advanced minimal access and laparoscopic surgery in Ranchi with experienced surgeons, modern operation theatres and faster recovery." />
@@ -91,10 +91,10 @@ Minimally Invasive Surgery in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best hospital for minimal access surgery in Ranchi?",
+      "name": "Does Raj Hospital offer minimal access surgery in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best hospitals in Ranchi for minimal access and laparoscopic surgery."
+        "text": "Yes, Raj Hospital in Ranchi offers minimal access and laparoscopic surgery."
       }
     },
     {
@@ -102,7 +102,7 @@ Minimally Invasive Surgery in Jharkhand
       "name": "Is laparoscopic surgery safe at Raj Hospital?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, minimal access and laparoscopic surgeries at Raj Hospital are performed using advanced techniques with high safety standards."
+        "text": "Minimal access and laparoscopic surgeries at Raj Hospital are performed by trained surgeons following standard safety protocols; like any surgery they carry some risks, which your surgeon will explain."
       }
     }
   ]
@@ -265,11 +265,11 @@ Minimally Invasive Surgery in Jharkhand
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of General and Minimally
                             Invasive Surgery at Raj Hospitals offers complete evaluation, diagnosis, and surgical
-                            treatment for a wide range of disorders. Our surgeons provide state-of-the-art patient care,
+                            treatment for a wide range of disorders. Our surgeons provide modern patient care,
                             using minimally invasive and laser techniques for improved recovery and outcomes. We
                             specialize in abdominal, breast, skin, hernia, and soft tissue surgeries, delivering
-                            personalized care and excellent results. ICU and emergency services ensure patients receive
-                            the highest level of surgical care, with a multidisciplinary team approach.</p>
+                            personalized care. ICU and emergency services ensure patients receive
+                            comprehensive surgical care, with a multidisciplinary team approach.</p>
 
                         <!-- Why Choose Us Box -->
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
@@ -287,7 +287,7 @@ Minimally Invasive Surgery in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -317,7 +317,7 @@ Minimally Invasive Surgery in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced operation theatres with state-of-the-art
+                                    <span class="text-gray-700">Advanced operation theatres with modern
                                         equipment</span>
                                 </div>
                             </div>
@@ -492,7 +492,7 @@ Minimally Invasive Surgery in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Laser Surgery For Proctology</h3>
-                        <p class="text-gray-600 mb-4">Painless, advanced treatment for fissures, fistulas, piles, and
+                        <p class="text-gray-600 mb-4">Advanced laser treatment for fissures, fistulas, piles, and
                             hemorrhoids using laser.</p>
                     </div>
                 </div>
@@ -701,7 +701,7 @@ Minimally Invasive Surgery in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Laser surgeries for hemorrhoids, fistulas etc. are usually painless and offer faster
+                                <p>Laser surgeries for hemorrhoids, fistulas etc. usually cause less pain and may offer faster
                                     healing as compared to traditional procedures.</p>
                             </div>
                         </div>

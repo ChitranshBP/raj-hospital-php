@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Spinal Cord Tumors Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Spinal Cord Tumors Treatment in Ranchi | Neurosurgery | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Advanced Spinal Cord Tumor treatment in Ranchi. Raj Hospital's neurosurgeons provide safe microsurgery, precise tumor removal, and excellent spine care." />
-    <meta name="keywords" content="spinal cord tumor surgery in Ranchi, spinal tumor treatment Ranchi, neurosurgeon for spine tumor Ranchi, best spine hospital in Ranchi" />
+    <meta name="description" content="Advanced Spinal Cord Tumor treatment in Ranchi. Raj Hospital's neurosurgeons provide microsurgical tumor removal and spine care." />
+    <meta name="keywords" content="spinal cord tumor surgery in Ranchi, spinal tumor treatment Ranchi, neurosurgeon for spine tumor Ranchi, spine hospital in Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/spinal-cord-tumor-treatment-in-ranchi" />
@@ -173,8 +173,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Spinal Cord Tumors Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Spinal Cord Tumors Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -190,7 +190,7 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Spinal Cord Tumors Treatment in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            A spinal tumor is an abnormal mass of tissue within or surrounding the spinal cord and/or spinal column. They can be benign or malignant but often require intervention due to the risk of neurological damage. Raj Hospital is the leading center for complex <strong>spinal cord tumor treatment in Ranchi</strong>. Our expert neurosurgeons employ microsurgical techniques to safely remove tumors while preserving crucial motor and sensory functions.
+                            A spinal tumor is an abnormal mass of tissue within or surrounding the spinal cord and/or spinal column. They can be benign or malignant but often require intervention due to the risk of neurological damage. Raj Hospital offers <strong>spinal cord tumor treatment in Ranchi</strong>. Our neurosurgeons use microsurgical techniques that aim to remove tumors while protecting motor and sensory function as far as possible.
                         </p>
                     </div>
 
@@ -228,7 +228,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">

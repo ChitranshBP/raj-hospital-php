@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant</title>
-    <meta name="description" content="Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में bone marrow transplant और treatment।">
+    <title><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Haematology</title>
+    <meta name="description" content="Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में haematology consultation।">
     <meta name="keywords" content="bone marrow treatment in hindi, bone marrow transplant, stem cell transplant, bone marrow donation, hematology">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/bone-marrow-kya-hai-treatment/">
@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,8 +89,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant",
-        "description": "Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में bone marrow transplant और treatment।",
+        "headline": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Haematology",
+        "description": "Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में haematology consultation।",
         "url": "https://rajhospitals.com/blog/bone-marrow-kya-hai-treatment",
         "image": "https://rajhospitals.com/blog/assets/img/featured/bone-marrow-kya-hai-treatment.png",
         "author": {
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Bone Marrow Transplant"
+                "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Haematology"
             }
         ]
     }
@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -369,7 +369,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Stage 4: Transplant</h4>
-                        <p class="text-sm text-gray-600">Like a blood transfusion, healthy stem cells vein में दिए जाते हैं। यह एक painless procedure है जो 30 minutes से 2 hours तक लगता है। Stem cells bone marrow तक पहुंचते हैं और नई blood cells बनाना शुरू करते हैं।</p>
+                        <p class="text-sm text-gray-600">Like a blood transfusion, healthy stem cells vein में दिए जाते हैं। यह blood transfusion जैसा procedure है जिसमें आमतौर पर 30 minutes से 2 hours लगते हैं। Stem cells bone marrow तक पहुंचते हैं और नई blood cells बनाना शुरू करते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Stage 5: Engraftment और Recovery</h4>
@@ -411,7 +411,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
-                    <span class="text-gray-700"> Risks aur benefits को carefully weigh करना जरूरी है। RAJ Hospital में experienced hematology team each case ko individually assess करता है aur patient ko comprehensive guidance deta hai।</span>
+                    <span class="text-gray-700"> Risks aur benefits को carefully weigh करना जरूरी है। हर case का individual assessment haematologist द्वारा किया जाना चाहिए।</span>
                 </div>
 
                 <!-- Section 7: Recovery and Success -->
@@ -488,7 +488,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need Bone Marrow Treatment?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced hematology team और advanced transplant facilities available hain।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में haematology specialist से परामर्श लें।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Consultation</a>
                 </div>
 
@@ -520,7 +520,7 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Bone Marrow Treatment in Hindi पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में bone marrow transplant और treatment।</p>
+                    <p class="text-gray-700 mb-4">Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में haematology consultation।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Bone Marrow Treatment in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -563,7 +563,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

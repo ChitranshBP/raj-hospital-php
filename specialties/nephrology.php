@@ -10,10 +10,10 @@
     <!-- ================= META TAGS ================= -->
 
 
-    <title>Nephrology Hospital in Ranchi | Best Kidney Hospital in Ranchi – Raj Hospital</title>
+    <title>Nephrology Hospital in Ranchi | Kidney Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best nephrology hospitals in Ranchi offering advanced kidney treatment, dialysis services and expert nephrologists." />
+        content="Raj Hospital is a nephrology hospital in Ranchi offering advanced kidney treatment, dialysis services and expert nephrologists." />
 
     <meta name="robots" content="index, follow" />
 
@@ -91,10 +91,10 @@ Dialysis Centre in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best nephrology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer nephrology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best nephrology hospitals in Ranchi offering comprehensive kidney care."
+        "text": "Yes, Raj Hospital in Ranchi offers comprehensive kidney care."
       }
     },
     {
@@ -249,8 +249,8 @@ Dialysis Centre in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Nephrology</h1>
-                    <p class="text-xl text-gray-200">Best kidney care and dialysis services in Ranchi with advanced
-                        equipment and top nephrologists.</p>
+                    <p class="text-xl text-gray-200">Kidney care and dialysis services in Ranchi with advanced
+                        equipment and experienced nephrologists.</p>
                 </div>
             </div>
         </div>
@@ -265,7 +265,7 @@ Dialysis Centre in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Nephrology & Dialysis
-                            Services at Raj Hospitals is among the most advanced in the state, providing evaluation,
+                            Services at Raj Hospitals provides evaluation,
                             diagnosis, and comprehensive treatment for hypertension, kidney disease, dialysis, and renal
                             disorders. Our nephrology experts serve adults and children, offering diagnostic,
                             management, operative services, and chronic dialysis therapy for acute kidney failure.
@@ -288,7 +288,7 @@ Dialysis Centre in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -324,7 +324,7 @@ Dialysis Centre in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art dialysis machines for adult</span>
+                                    <span class="text-gray-700">Modern dialysis machines for adults</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -433,7 +433,7 @@ Dialysis Centre in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Hemodialysis</h3>
-                        <p class="text-gray-600 mb-4">Regular and emergency dialysis treatments using state-of-the-art
+                        <p class="text-gray-600 mb-4">Regular and emergency dialysis treatments using modern
                             dialysis machines.</p>
                     </div>
                 </div>

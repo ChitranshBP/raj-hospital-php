@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -393,7 +393,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको सिर के पीछे दर्द की समस्या है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced neurologists और orthopedists हैं। समय पर जांच से सही इलाज संभव है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में neurologist और orthopedist से परामर्श उपलब्ध है। समय पर जांच से सही इलाज संभव है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -424,7 +424,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">सिर के पीछे दर्द पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">सिर के पीछे दर्द (sir ke piche dard hona) एक आम समस्या है जो अक्सर lifestyle और posture से जुड़ी होती है। हालांकि, कई बार यह किसी गंभीर बीमारी का signal भी हो सकता है। इसलिए लक्षणों को समझना और सही समय पर doctor consultation लेना बहुत जरूरी है।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि <strong>sir ke piche dard hone ka karan</strong> सही तरीके से पहचाना जाए। दर्द का कारण lifestyle, stress, poor posture, या कोई medical condition हो सकता है। सही diagnosis के लिए physical examination, medical history और जरूरत के अनुसार tests (MRI, CT scan, blood tests) की जरूरत हो सकती है।</p>
-                    <p class="text-gray-700 mb-4">RAJ Hospital में Neurology और Orthopedics department में experienced specialists हैं जो <strong>back head pain</strong> और संबंधित समस्याओं का proper diagnosis और treatment करते हैं। अगर दर्द बार-बार हो, तेज हो, या रोजमर्रा की जिंदगी को प्रभावित कर रहा हो, तो consultation delay नहीं करना चाहिए।</p>
+                    <p class="text-gray-700 mb-4">RAJ Hospital के Neurology और Orthopedics department में <strong>back head pain</strong> और संबंधित समस्याओं का proper diagnosis और treatment करते हैं। अगर दर्द बार-बार हो, तेज हो, या रोजमर्रा की जिंदगी को प्रभावित कर रहा हो, तो consultation delay नहीं करना चाहिए।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले दर्द की timeline, कितनी बार होता है, किससे बढ़ता या कम होता है, और अन्य लक्षण लिख लें। इससे diagnosis बेहतर होता है। अगर तेज बुखार, बोलने में तकलीफ, हाथों में सुन्नपन, या दृष्टि में परिवर्तन जैसे गंभीर warning signs हों, तो तुरंत emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में neurologist या orthopedist से मिलकर personalized treatment plan लें।</p>
                 </section>

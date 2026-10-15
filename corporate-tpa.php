@@ -85,7 +85,7 @@
                     Corporate & <span class="text-[#ea5234]">TPA Services</span>
                 </h1>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Partnering with leading corporations and TPAs to provide world-class healthcare services. Get in touch for tie-ups and insurance-related queries.
+                    Partnering with corporations and TPAs to provide healthcare services. Get in touch for tie-ups and insurance-related queries.
                 </p>
             </div>
         </div>
@@ -199,7 +199,7 @@
                                 </div>
                                 <div>
                                     <h4 class="font-bold text-gray-900">Cashless Treatment</h4>
-                                    <p class="text-gray-600 text-sm">Hassle-free cashless hospitalization for insured employees.</p>
+                                    <p class="text-gray-600 text-sm">Cashless hospitalization for insured employees, subject to insurer/TPA approval.</p>
                                 </div>
                             </div>
                             <div class="flex items-start space-x-3">

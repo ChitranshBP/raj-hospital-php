@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Brain Tumor Treatment in Ranchi | Top Neurosurgeons | Raj Hospital</title>
+    <title>Brain Tumor Treatment in Ranchi | Neurosurgery | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Looking for the best brain tumor treatment in Ranchi? Raj Hospital offers advanced brain tumor surgery, awake craniotomy, and comprehensive neuro-oncology care by expert neurosurgeons." />
-    <meta name="keywords" content="brain tumor treatment in Ranchi, brain tumor surgery in Ranchi, best neurosurgeon for brain tumor in Ranchi, neurosurgery hospital in Ranchi, Raj Hospital Ranchi brain tumor, awake craniotomy Ranchi, neuro-oncology Ranchi" />
+    <meta name="description" content="Looking for brain tumor treatment in Ranchi? Raj Hospital offers advanced brain tumor surgery, awake craniotomy, and comprehensive neuro-oncology care by our neurosurgery team." />
+    <meta name="keywords" content="brain tumor treatment in Ranchi, brain tumor surgery in Ranchi, neurosurgeon for brain tumor in Ranchi, neurosurgery hospital in Ranchi, Raj Hospital Ranchi brain tumor, awake craniotomy Ranchi, neuro-oncology Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/brain-tumor-treatment-in-ranchi" />
@@ -64,10 +64,10 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Which is the best hospital for brain tumor treatment in Ranchi?",
+          "name": "Where can I get brain tumor treatment in Ranchi?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Raj Hospital is recognized as one of the best hospitals for brain tumor treatment in Ranchi, offering advanced surgical facilities, experienced neurosurgeons, and comprehensive neuro-oncology care."
+            "text": "Raj Hospital, Ranchi offers evaluation and neurosurgical treatment for brain tumors, with coordination of further oncology care where needed."
           }
         },
         {
@@ -99,7 +99,7 @@
           "name": "How long does it take to recover from a brain tumor surgery?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Most patients stay in the hospital for 3 to 7 days post-surgery. Full recovery can take a few weeks to a couple of months. Our multidisciplinary rehabilitation team ensures you regain strength and function as quickly as possible."
+            "text": "Most patients stay in the hospital for 3 to 7 days post-surgery. Full recovery can take a few weeks to a couple of months. Our rehabilitation team works with you to help regain strength and function after surgery."
           }
         }
       ]
@@ -199,8 +199,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Brain Tumor Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurosurgery, awake craniotomy, and comprehensive neuro-oncology care by leading neuro specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Brain Tumor Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurosurgery, awake craniotomy where suitable, and coordinated brain tumor care at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -216,10 +216,10 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Brain Tumor Surgery in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            A brain tumor occurs when abnormal cells grow and multiply uncontrolled within the brain. At Raj Hospital, we offer the <strong>best brain tumor treatment in Ranchi</strong>, leveraging modern neurosurgical techniques and multidisciplinary oncology strategies to successfully manage both benign (non-cancerous) and malignant (cancerous) brain tumors.
+                            A brain tumor occurs when abnormal cells grow and multiply uncontrolled within the brain. At Raj Hospital, we offer the <strong>brain tumor treatment in Ranchi</strong>, leveraging modern neurosurgical techniques and multidisciplinary oncology strategies to treat both benign (non-cancerous) and malignant (cancerous) brain tumors.
                         </p>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Our department is equipped with cutting-edge imaging technologies and operating theaters designed specifically for complex neurosurgeries, making Raj Hospital the top destination for <strong>neurosurgery for brain tumors in Ranchi.</strong>
+                            Our department has imaging facilities and operating theatres equipped for neurosurgery, providing <strong>neurosurgery for brain tumors in Ranchi.</strong>
                         </p>
                     </div>
 
@@ -264,7 +264,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing brain tumors using mapping and advanced neuroimaging.
+                            Accurate diagnosis is crucial. Diagnosis is based on detailed brain imaging and, when needed, a tissue biopsy.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -293,7 +293,7 @@
                         <div class="grid sm:grid-cols-2 gap-6">
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Neurosurgery</h4>
-                                <p class="text-gray-600">If the tumor is located in an accessible place, our expert neurosurgeons will work to safely remove as much of it as possible without compromising crucial neurological functions.</p>
+                                <p class="text-gray-600">If the tumor is in an accessible location, our neurosurgeons aim to remove as much of it as can be done safely while trying to protect important neurological functions.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Awake Craniotomy</h4>
@@ -377,11 +377,11 @@
                         <!-- FAQ 1 -->
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Which is the best hospital for brain tumor treatment in Ranchi?</h3>
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Where can I get brain tumor treatment in Ranchi?</h3>
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Raj Hospital is widely recognized as providing the best brain tumor treatment in Ranchi, equipped with highly trained neurosurgeons, modern imaging tech, and excellent post-operative critical care units.</p>
+                                <p>Raj Hospital, Ranchi offers evaluation and neurosurgical treatment for brain tumors, with coordination of further oncology care where needed.</p>
                             </div>
                         </div>
 
@@ -425,7 +425,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Most patients stay in the hospital for 3 to 7 days post-surgery. Full recovery can take a few weeks to a couple of months. Our multidisciplinary rehabilitation team ensures you regain strength and function as quickly as possible.</p>
+                                <p>Most patients stay in the hospital for 3 to 7 days post-surgery. Full recovery can take a few weeks to a couple of months. Our rehabilitation team works with you to help regain strength and function after surgery.</p>
                             </div>
                         </div>
                     </div>

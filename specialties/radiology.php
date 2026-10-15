@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Radiology Hospital in Ranchi | Best Diagnostic Imaging Centre in Ranchi – Raj Hospital</title>
+    <title>Radiology Hospital in Ranchi | Diagnostic Imaging Centre in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best radiology hospitals in Ranchi offering advanced diagnostic imaging services including X-ray, CT scan, MRI and ultrasound." />
+        content="Raj Hospital is a radiology hospital in Ranchi offering advanced diagnostic imaging services including X-ray, CT scan, MRI and ultrasound." />
 
     <meta name="robots" content="index, follow" />
 
@@ -90,10 +90,10 @@ Ultrasound Centre in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best radiology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer radiology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best radiology hospitals in Ranchi offering advanced diagnostic imaging services."
+        "text": "Yes, Raj Hospital in Ranchi offers advanced diagnostic imaging services."
       }
     },
     {
@@ -201,10 +201,10 @@ Ultrasound Centre in Jharkhand
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">Raj Hospital's Department of Radiology in
                             Ranchi offers a complete range of imaging and diagnostic facilities under one roof. Equipped
-                            with cutting-edge MRI, CT Scan, OPG, MRCP, Ultrasound, Full Body BMD, and Image Intensifier
-                            systems, our unit ensures the most accurate diagnosis to guide effective treatment. Managed
+                            with modern MRI, CT Scan, OPG, MRCP, Ultrasound, Full Body BMD, and Image Intensifier
+                            systems, our unit supports accurate diagnosis to guide effective treatment. Managed
                             by expert radiologists and technologists, we combine precision, safety, and compassionate
-                            care to deliver the best outcomes for every patient.</p>
+                            care for every patient.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
                             <h3 class="text-xl font-semibold text-gray-900 mb-4 flex items-center"><i
@@ -216,7 +216,7 @@ Ultrasound Centre in Jharkhand
                                         class="text-gray-700">Fully Digital Radiology and Imaging Department</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">State-of-the-art MRI and CT Scan Units</span></li>
+                                        class="text-gray-700">Modern MRI and CT Scan Units</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
                                         class="text-gray-700">Ultrasound and Color Doppler Imaging</span></li>
@@ -243,7 +243,7 @@ Ultrasound Centre in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">State-of-the-art MRI and CT Scan Units</span>
+                                        class="text-gray-700">Modern MRI and CT Scan Units</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -309,7 +309,7 @@ Ultrasound Centre in Jharkhand
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Imaging Services We Offer</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Advanced diagnostic imaging with cutting-edge
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Advanced diagnostic imaging with modern
                     technology</p>
             </div>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">

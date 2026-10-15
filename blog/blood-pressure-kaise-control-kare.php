@@ -7,7 +7,7 @@ $base_url = '../';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="ब्लड प्रेशर कैसे कंट्रोल करें? - घरेलू उपाय और आयुर्वेदिक नुस्खे | RAJ Hospital Ranchi">
-    <meta name="description" content="High blood pressure control karne ke upay in Hindi. जानिए ब्लड प्रेशर को कंट्रोल में रखने के Natural तरीके, lifestyle changes, और best home remedies।">
+    <meta name="description" content="High blood pressure control karne ke upay in Hindi. जानिए ब्लड प्रेशर को कंट्रोल में रखने के Natural तरीके, lifestyle changes, और helpful home remedies।">
     <meta name="keywords" content="blood pressure control in hindi, high bp remedies, bp kam karne ke tarike, low blood pressure treatment, takniki seema, high bp tips">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
@@ -304,7 +304,7 @@ $base_url = '../';
                 <div class="flex flex-col md:flex-row items-center justify-between">
                     <div>
                         <h3 class="text-xl font-bold mb-2">BP की जाँच करें</h3>
-                        <p class="text-white/90">RAJ Hospital Ranchi में FREE BP चेकअप</p>
+                        <p class="text-white/90">RAJ Hospital Ranchi में BP चेकअप करवाएं</p>
                     </div>
                     <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
@@ -319,7 +319,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">a) व्यायाम करें (Exercise)</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                रोज़ाना <strong>30 मिनट का व्यायाम</strong> BP को 5-8 mmHg तक कम कर सकता है। सबसे अच्छे विकल्प:
+                रोज़ाना <strong>30 मिनट का व्यायाम</strong> BP को 5-8 mmHg तक कम कर सकता है। उपयोगी विकल्प:
             </p>
             <ul class="list-disc pl-6 mb-4 text-gray-700 space-y-2">
                 <li><strong>पैदल चलना</strong> - रोज़ाना 30 मिनट तेज़ कदम से</li>

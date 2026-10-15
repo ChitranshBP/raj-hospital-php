@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Sunil Kumar – Urology in Ranchi</title>
     <meta name="description" content="Dr. Sunil Kumar is an experienced Urologist at Raj Hospital, Ranchi with 18+ years of expertise in kidney stone treatment & prostate surgery. Book now.">
-    <meta name="keywords" content="Dr. Sunil Kumar, Urology in Ranchi, Best Urologist in Ranchi, Dr. Sunil Kumar Raj Hospital Ranchi, urology doctor Ranchi">
+    <meta name="keywords" content="Dr. Sunil Kumar, Urology in Ranchi, Urologist in Ranchi, Dr. Sunil Kumar Raj Hospital Ranchi, urology doctor Ranchi">
     <meta property="og:title" content="Dr. Sunil Kumar – Urology in Ranchi">
     <meta property="og:description" content="Dr. Sunil Kumar is an experienced Urologist at Raj Hospital, Ranchi with 18+ years of expertise in kidney stone treatment & prostate surgery. Book now.">
     <meta property="og:type" content="profile">

@@ -77,7 +77,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,7 +149,7 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+91-9876543210",
@@ -223,11 +223,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a></strong> (BP), जिसे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">hypertension</a> कहते हैं, आजकल एक common health problem बन गया है। India में लगभग 30% adults high BP से affect हैं। अगर आपका BP 140/90 mmHg या उससे ज्यादा है, तो इसे high BP माना जाता है।
+                    <strong>High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a></strong> (BP), जिसे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">hypertension</a> कहते हैं, आजकल एक common health problem बन गया है। India में बड़ी संख्या में adults high BP से affect हैं। अगर आपका BP 140/90 mmHg या उससे ज्यादा है, तो इसे high BP माना जाता है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>High BP</strong> को control करना जरूरी है क्योंकि यह <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a>, kidney problems जैसी serious health conditions का कारण बन सकता है। Medicines के अलावा, कई <strong>gharelu upchar (home remedies)</strong> और lifestyle changes BP control करने में मदद कर सकते हैं। <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी cardiology team इन natural remedies के साथ medical treatment भी provide करती है।
+                    <strong>High BP</strong> को control करना जरूरी है क्योंकि यह <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a>, kidney problems जैसी serious health conditions का कारण बन सकता है। Medicines के अलावा, कई <strong>gharelu upchar (home remedies)</strong> और lifestyle changes BP control करने में मदद कर सकते हैं। <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में cardiology team BP की जांच और doctor-guided treatment provide करती है; home remedies को दवा का विकल्प न मानें।
                 </p>
 
                 <!-- Section 1: Understanding High BP -->
@@ -338,7 +338,7 @@
                 <h2 class="raj-h2">High BP Ke Liye Yoga Asanas</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Yoga <strong>high BP reduce करने</strong> में very effective है:
+                    Yoga <strong>high BP reduce करने</strong> में सहायक हो सकता है (दवा के साथ, doctor की सलाह से):
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -411,7 +411,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">High BP Ki Jaanch Aur Treatment</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert cardiologists से consultation करें।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में cardiologist से consultation करें।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -486,7 +486,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
