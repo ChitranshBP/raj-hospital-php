@@ -1,4 +1,5 @@
 <?php
+if (PHP_SAPI !== 'cli') { http_response_code(404); exit; } // maintenance script: command line only
 
 $targets = [
     'blog/can-allergies-cause-headaches.php',

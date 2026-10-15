@@ -2,6 +2,19 @@ Options -MultiViews
 RewriteEngine On
 RewriteBase /
 
+# Internal files are not served: docs (*.md), dev scripts, backups, spreadsheets, OS metadata.
+<FilesMatch "(\.(md|py|backup|xlsx|toml|DS_Store)|^(build|update_images|add_favicon)\.php|^(package(-lock)?\.json|convert_root\.js|convert_subdir\.js))$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+# Repository and editor folders are not served.
+RedirectMatch 404 "/\.(git|claude|vscode)(/|$)"
+
 # Redirect /blog/index or /blog/index/ to /blog/
 RewriteRule ^blog/index/?$ /blog/ [R=301,L]
 

@@ -1,4 +1,5 @@
 <?php
+if (PHP_SAPI !== 'cli') { http_response_code(404); exit; } // maintenance script: command line only
 $map = [
     'ahmad-hussain' => 'assets/doctor-latest/ahmad hussain.webp',
     'ashish-basant' => 'assets/new-doctors-side/ashish basant.webp',

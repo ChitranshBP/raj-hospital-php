@@ -32,6 +32,8 @@
 
 declare(strict_types=1);
 
+if (PHP_SAPI !== 'cli') { http_response_code(404); exit; } // maintenance script: command line only
+
 const BLOG_DIR        = __DIR__ . '/../blog';
 const TOOLS_DIR       = __DIR__;
 const REPORTS_DIR     = __DIR__ . '/reports';
