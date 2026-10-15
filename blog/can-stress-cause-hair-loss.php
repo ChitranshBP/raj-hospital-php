@@ -241,9 +241,10 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Dermatology · Hair &amp; Scalp</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Can Stress Cause Hair Loss? Symptoms, Causes, and Treatment Options</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Health Desk</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Content Team</span>
                 </div>
             </div>
 
@@ -288,7 +289,7 @@
                 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">3. Trichotillomania</h3>
 
                 <p class="text-gray-700 mb-4">
-                    Trichotillomania is a condition in which a person feels a repeated urge to pull out their own hair, often as a way of coping with anxiety, tension, or boredom. It causes irregular patches with broken hairs of different lengths. It is a mental health condition and responds best to behavioural therapy.
+                    Trichotillomania is a condition in which a person feels a repeated urge to pull out their own hair, often as a way of coping with anxiety, tension, or boredom. It causes irregular patches with broken hairs of different lengths. It is a mental health condition and responds well to behavioural therapy.
                 </p>
 
                 <h2 class="raj-h2"><i data-feather="eye" class="raj-h2-icon"></i> Symptoms of Stress-Related Hair Loss</h2>
@@ -482,7 +483,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 shrink-0 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Raj Hospitals Health Desk, Ranchi</strong>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                         <p class="text-sm text-gray-500"><a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>

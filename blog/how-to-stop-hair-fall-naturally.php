@@ -173,7 +173,7 @@
             },
             {
                 "@type": "Question",
-                "name": "Which oil is best for stopping hair fall?",
+                "name": "Which oil helps with hair fall?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Coconut oil helps reduce breakage by limiting protein loss, and diluted rosemary oil has shown promising results in small studies. No oil can reverse genetic baldness, so choose one that suits your scalp and use it consistently."
@@ -241,9 +241,10 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Dermatology · Hair &amp; Scalp</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">How to Stop Hair Fall Naturally: Effective Hair Care Tips and Medical Treatments</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Health Desk</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Content Team</span>
                 </div>
             </div>
 
@@ -254,7 +255,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    At the same time, it is important to be realistic. Natural methods work best for hair fall caused by poor nutrition, stress, breakage, or scalp problems. If your hair fall is due to genetics or a medical condition, you may need medical treatment as well. This guide covers both: practical natural tips that actually help, and the medical options to consider when natural care is not enough.
+                    At the same time, it is important to be realistic. Natural methods are mainly helpful for hair fall caused by poor nutrition, stress, breakage, or scalp problems. If your hair fall is due to genetics or a medical condition, you may need medical treatment as well. This guide covers both: practical natural tips that actually help, and the medical options to consider when natural care is not enough.
                 </p>
 
                 <h2 class="raj-h2"><i data-feather="info" class="raj-h2-icon"></i> First, Understand Why Your Hair Is Falling</h2>
@@ -327,7 +328,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Rosemary oil is another popular option. A small clinical study found that rosemary oil produced a similar increase in hair count to 2 percent minoxidil after six months in people with pattern hair loss. Always dilute rosemary oil in a carrier oil such as coconut or almond oil, and do a patch test first.
+                    Rosemary oil is another popular option. A small clinical study found that rosemary oil produced a similar increase in hair count to minoxidil after six months in people with pattern hair loss. Always dilute rosemary oil in a carrier oil such as coconut or almond oil, and do a patch test first.
                 </p>
 
                 <p class="text-gray-700 mb-4">
@@ -422,7 +423,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Restoring permanently thinned areas.</strong> If hair fall has already left permanent bald areas at the hairline or crown, natural remedies and medicines can only protect the hair that remains. A <a href="https://dencespot.com/hair-transplant-in-rohini" class="text-secondary-600 hover:underline font-semibold" target="_blank" rel="noopener">hair transplant</a> moves healthy follicles from the back of the scalp to the thinning areas, giving natural-looking, permanent results. It is best considered after a specialist has assessed your hair loss pattern and donor area.
+                    <strong>Restoring permanently thinned areas.</strong> If hair fall has already left permanent bald areas at the hairline or crown, natural remedies and medicines can only protect the hair that remains. A <a href="https://dencespot.com/hair-transplant-in-rohini" class="text-secondary-600 hover:underline font-semibold" target="_blank" rel="noopener">hair transplant</a> moves healthy follicles from the back of the scalp to the thinning areas, giving natural-looking, permanent results. It should be considered only after a specialist has assessed your hair loss pattern and donor area.
                 </p>
 
                 <h2 class="raj-h2"><i data-feather="check-square" class="raj-h2-icon"></i> A Simple Weekly Routine to Reduce Hair Fall</h2>
@@ -447,7 +448,7 @@
                 <h2 class="raj-h2"><i data-feather="check-circle" class="raj-h2-icon"></i> Final Thoughts</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Stopping hair fall naturally is possible in many cases, especially when it is caused by nutrition, stress, breakage, or scalp problems. A balanced diet, gentle hair care, regular scalp massage, and a healthy lifestyle lay the foundation for strong hair. When hair fall is driven by genetics or a medical condition, combining these habits with proven medical treatments gives the best results. Be patient: hair grows slowly, and most changes take three to six months to show.
+                    Stopping hair fall naturally is possible in many cases, especially when it is caused by nutrition, stress, breakage, or scalp problems. A balanced diet, gentle hair care, regular scalp massage, and a healthy lifestyle lay the foundation for strong hair. When hair fall is driven by genetics or a medical condition, combining these habits with proven medical treatments gives better results. Be patient: hair grows slowly, and most changes take three to six months to show.
                 </p>
 
                 <!-- CTA -->
@@ -468,7 +469,7 @@
                         <p class="text-gray-700">Hair fall caused by poor diet, stress, breakage, or scalp problems can often be reduced with natural care. Genetic hair loss and medical conditions usually need medical treatment as well.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">Which oil is best for stopping hair fall?</h3>
+                        <h3 class="font-bold text-gray-800 mb-2">Which oil helps with hair fall?</h3>
                         <p class="text-gray-700">Coconut oil helps reduce breakage by limiting protein loss, and diluted rosemary oil has shown promising results in small studies. No oil can reverse genetic baldness, so choose one that suits your scalp and use it consistently.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -506,7 +507,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 shrink-0 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Raj Hospitals Health Desk, Ranchi</strong>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                         <p class="text-sm text-gray-500"><a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>

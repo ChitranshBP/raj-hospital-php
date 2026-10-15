@@ -192,7 +192,7 @@
                 ],
                 'receding-hairline-in-young-men' => [
                     'title' => 'What Causes a Receding Hairline in Young Men? Early Signs and Treatment',
-                    'excerpt' => 'Is your hairline moving back in your 20s? Learn what causes a receding hairline in young men, how to tell it apart from a mature hairline, and the treatments that work best.',
+                    'excerpt' => 'Is your hairline moving back in your 20s? Learn what causes a receding hairline in young men, how to tell it apart from a mature hairline, and which treatments to start early.',
                     'category' => 'Dermatology',
                     'date' => 'October 15, 2026',
                     'image' => 'assets/img/featured/receding-hairline-in-young-men.jpg'
