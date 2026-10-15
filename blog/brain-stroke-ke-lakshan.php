@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। Ranchi के best neurologists की advice।">
+    <title>Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। RAJ Hospital Ranchi की ओर से जानकारी।">
     <meta name="keywords" content="brain stroke, stroke symptoms, लक्षण, brain health, न्यूरोलॉजी, ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/brain-stroke-ke-lakshan/">
@@ -42,10 +42,10 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Brain Stroke के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
+                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। चेहरा टेढ़ा होना, हाथ-पैर में अचानक कमजोरी या बोलने में दिक्कत जैसे stroke के लक्षणों में घरेलू उपाय न आज़माएं — तुरंत 108 पर कॉल करें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,8 +89,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। Ranchi के best neurologists की advice।",
+        "headline": "Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "description": "Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। RAJ Hospital Ranchi की ओर से जानकारी।",
         "url": "https://rajhospitals.com/blog/brain-stroke-ke-lakshan/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/brain-stroke-ke-lakshan.png",
         "author": {
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi"
+                "name": "Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -343,10 +344,10 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-red-600 pb-2 mt-8 mb-4">Stroke से बचाव के उपाय</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>BP नियंत्रित रखें:</strong> नियमित BP check करें और दवाइयां लें।</li>
+                    <li><strong>BP नियंत्रित रखें:</strong> नियमित BP check करें और डॉक्टर द्वारा बताई दवाइयां नियमित लें।</li>
                     <li><strong>Exercise करें:</strong> रोज़ 30 मिनट व्यायाम करें।</li>
                     <li><strong>स्वस्थ खाएं:</strong> फल, सब्जियां, whole grains खाएं।</li>
-                    <li><strong>धूम्रपान छोड़ें:</strong> यह सबसे बड़ा कारण है।</li>
+                    <li><strong>धूम्रपान छोड़ें:</strong> यह stroke का एक बड़ा risk factor है (high BP सबसे प्रमुख नियंत्रणीय कारण है)।</li>
                     <li><strong>शराब सीमित करें:</strong> या पूरी तरह छोड़ें।</li>
                     <li><strong>तनाव कम करें:</strong> Yoga और meditation करें।</li>
                 </ul>
@@ -378,7 +379,7 @@
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Brain Stroke के लक्षण पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। Ranchi के best neurologists की advice।</p>
+                    <p class="text-gray-700 mb-4">Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। RAJ Hospital Ranchi की ओर से जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Brain Stroke के लक्षण शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -391,7 +392,7 @@
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/specialties/neurosciences" class="text-secondary-600 hover:underline font-semibold">Ranchi में न्यूरोलॉजी और स्ट्रोक का इलाज — RAJ Hospital Neurosciences (Ranchi)</a></li>
                         <li><a href="/blog/stroke-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs</a></li>
-                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Hospital for Paralysis Treatment in Ranchi</a></li>
+                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Paralysis Treatment in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण</a></li>
                         <li><a href="/blog/bp-high-hone-par-kya-kare.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: BP High होने पर क्या करें?</a></li>
                         <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Can Anxiety Cause a Heart Attack?</a></li>
@@ -405,7 +406,7 @@
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Brain Stroke के लक्षण में डॉक्टर को कब दिखाना चाहिए?</h3>
-                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
+                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। चेहरा टेढ़ा होना, हाथ-पैर में अचानक कमजोरी या बोलने में दिक्कत जैसे stroke के लक्षणों में घरेलू उपाय न आज़माएं — तुरंत 108 पर कॉल करें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Brain Stroke के लक्षण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
@@ -421,7 +422,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -430,8 +431,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-red-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Neurologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

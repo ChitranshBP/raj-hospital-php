@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Urology Hospital in Ranchi | Best Urologist in Ranchi – Raj Hospital</title>
+    <title>Urology Hospital in Ranchi | Urologist in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best urology hospitals in Ranchi offering advanced treatment for kidney, bladder and urinary tract disorders." />
+        content="Raj Hospital is a urology hospital in Ranchi offering advanced treatment for kidney, bladder and urinary tract disorders." />
 
     <meta name="robots" content="index, follow" />
 
@@ -44,11 +44,6 @@ Urinary Disorder Specialist in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -90,10 +85,10 @@ Urinary Disorder Specialist in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best urology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer urology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best urology hospitals in Ranchi offering comprehensive urological care."
+        "text": "Yes, Raj Hospital in Ranchi offers comprehensive urological care."
       }
     },
     {
@@ -247,7 +242,7 @@ Urinary Disorder Specialist in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Urology & Stone Care</h1>
-                    <p class="text-xl text-gray-200">Best Urology Hospital in Ranchi offering comprehensive urological
+                    <p class="text-xl text-gray-200">Urology Hospital in Ranchi offering comprehensive urological
                         care for adults and children with advanced medical technology.</p>
                 </div>
             </div>
@@ -266,7 +261,7 @@ Urinary Disorder Specialist in Jharkhand
                             compassionate and timely care for disorders of the urinary system. Our skilled urologists
                             offer diagnosis and treatment for a wide range of urological diseases including urinary
                             tract infections, kidney stones, urologic cancers, infertility, and male reproductive
-                            issues. The department is equipped with cutting-edge technology delivering expert adult and
+                            issues. The department is equipped with modern technology delivering expert adult and
                             pediatric urology care and minimally invasive surgical options.</p>
 
                         <!-- Why Choose Us Box -->
@@ -573,7 +568,7 @@ Urinary Disorder Specialist in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Infertility Treatment</h3>
-                        <p class="text-gray-600 mb-4">Care and surgical management of male and female infertility in the
+                        <p class="text-gray-600 mb-4">Care and surgical management of male infertility in the
                             reproductive age group.</p>
                     </div>
                 </div>
@@ -651,59 +646,6 @@ Urinary Disorder Specialist in Jharkhand
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of successful urological treatments
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Successful Kidney Stone Removal</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Sharma</p>
-                    <p class="text-gray-700 mb-6">Raj Hospitals provided minimally invasive stone removal treatment
-                        which was quick and effective. I experienced little pain and a fast recovery.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Stone-free with restored kidney
-                                function.</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Robotic Prostate Surgery Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Singh</p>
-                    <p class="text-gray-700 mb-6">The advanced robotic surgery for prostate cancer was state-of-the-art
-                        and led to minimal complications and fast rehabilitation.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Cancer remission and improved quality of
-                                life.</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     
     <!-- Informative Videos Section -->
@@ -866,6 +808,10 @@ Urinary Disorder Specialist in Jharkhand
                             <input type="hidden" name="specialty" value="Urology">
 
                             <!-- Submit Button -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-5 h-5"></i>

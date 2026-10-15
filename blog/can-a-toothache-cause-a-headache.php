@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Can a toothache cause a headache? जानें दांत दर्द और सिरदर्द का connection, causes, और treatment options। Complete guide by RAJ Hospital Ranchi doctors।">
+    <title>Can a Toothache Cause a Headache? - Complete Guide | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Can a toothache cause a headache? जानें दांत दर्द और सिरदर्द का connection, causes, और treatment options। Complete guide - RAJ Hospital Ranchi।">
     <meta name="keywords" content="toothache headache, tooth pain, headache causes, dental health, tooth headache connection">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/can-a-toothache-cause-a-headache/">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Can a Toothache Cause a Headache? में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,8 +89,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide | RAJ Hospital Ranchi",
-        "description": "Can a toothache cause a headache? जानें दांत दर्द और सिरदर्द का connection, causes, और treatment options। Complete guide by RAJ Hospital Ranchi doctors।",
+        "headline": "Can a Toothache Cause a Headache? - Complete Guide | RAJ Hospital Ranchi",
+        "description": "Can a toothache cause a headache? जानें दांत दर्द और सिरदर्द का connection, causes, और treatment options। Complete guide - RAJ Hospital Ranchi।",
         "url": "https://rajhospitals.com/blog/can-a-toothache-cause-a-headache/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-a-toothache-cause-a-headache.png",
         "author": {
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide | RAJ Hospital Ranchi"
+                "name": "Can a Toothache Cause a Headache? - Complete Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-teal-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Dental Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -313,7 +314,7 @@
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-4">
                     <li>Salt water rinse से mouth clean करें</li>
                     <li>Cold compress बाहर से लगाएं</li>
-                    <li>Over-the-counter pain relievers लें</li>
+                    <li>Pharmacist या doctor की सलाह से over-the-counter pain reliever लें</li>
                     <li>Clove oil application for temporary relief</li>
                 </ul>
 
@@ -346,13 +347,13 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">कब dentist से मिलना चाहिए?</h4>
-                        <p class="text-gray-700">अगर दर्द 2 दिन से अधिक हो, swelling हो, या fever हो तो तुरंत dentist से मिलें।</p>
+                        <p class="text-gray-700">अगर दर्द 2 दिन से अधिक हो, swelling हो, या fever हो तो तुरंत dentist से मिलें। चेहरे/गर्दन में तेज़ी से बढ़ती सूजन, निगलने या सांस लेने में दिक्कत हो तो तुरंत emergency जाएं।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Can a Toothache Cause a Headache? पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Can a toothache cause a headache? जानें दांत दर्द और सिरदर्द का connection, causes, और treatment options। Complete guide by RAJ Hospital Ranchi doctors।</p>
+                    <p class="text-gray-700 mb-4">Can a toothache cause a headache? जानें दांत दर्द और सिरदर्द का connection, causes, और treatment options। Complete guide - RAJ Hospital Ranchi।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Can a Toothache Cause a Headache? शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -394,7 +395,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -403,8 +404,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-teal-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Dental Specialist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

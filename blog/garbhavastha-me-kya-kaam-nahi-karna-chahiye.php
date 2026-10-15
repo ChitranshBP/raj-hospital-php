@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>गर्भावस्था में क्या काम नहीं करना चाहिए | RAJ Hospital Ranchi</title>
-    <meta name="description" content="गर्भावस्था में क्या काम नहीं करना चाहिए - जानिए किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital Ranchi के विशेषज्ञ डॉक्टरों द्वारा सुझाई गई महत्वपूर्ण बातें।">
+    <meta name="description" content="गर्भावस्था में क्या काम नहीं करना चाहिए - जानिए किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।">
     <meta name="keywords" content="गर्भावस्था में क्या नहीं करना चाहिए, pregnancy tips in hindi, garbhvastha me avoid karna, pregnant women tips hindi, गर्भावस्था की सावधानियां">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/garbhavastha-me-kya-kaam-nahi-karna-chahiye/">
@@ -24,7 +24,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "गर्भावस्था में क्या काम नहीं करना चाहिए - पूर्ण मार्गदर्शिका",
-        "description": "गर्भावस्था में किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital के विशेषज्ञ डॉक्टरों द्वारा सुझाई गई महत्वपूर्ण बातें।",
+        "description": "गर्भावस्था में किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital की स्वास्थ्य जानकारी।",
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
         "author": {
@@ -38,7 +38,7 @@
         },
         "about": {
             "@type": "MedicalCondition",
-            "name": "गर्भावस्था (<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a>)",
+            "name": "गर्भावस्था (Pregnancy)",
             "category": "Women's Health"
         },
         "medicalSpecialty": "Obstetrics"
@@ -89,7 +89,7 @@
                 "name": "क्या गर्भावस्था में व्यायाम करना सुरक्षित है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हां, गर्भावस्था में हल्के व्यायाम जैसे चलना, तैरना और प्रीनेटल योगा फायदेमंद हैं। लेकिन भारी व्यायाम, सीढ़ियां चढ़ना और उछलने-कूदने वाली गतिविधियों से बचना चाहिए। डॉक्टर से परामर्श करके ही व्यायाम शुरू करें।"
+                    "text": "हां, गर्भावस्था में हल्के व्यायाम जैसे चलना, तैरना और प्रीनेटल योगा फायदेमंद हैं। लेकिन भारी व्यायाम, गिरने के खतरे वाली और उछलने-कूदने वाली गतिविधियों से बचना चाहिए; सामान्य गर्भावस्था में सावधानी से सीढ़ियां चढ़ना आमतौर पर ठीक है। डॉक्टर से परामर्श करके ही व्यायाम शुरू करें।"
                 }
             },
             {
@@ -97,7 +97,7 @@
                 "name": "गर्भावस्था में कौन सी दवाइयां नहीं लेनी चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "गर्भावस्था में किसी भी दवाई को डॉक्टर की सलाह के बिना नहीं लेना चाहिए। कुछ दर्द निवारक, एंटीबायोटिक्स और एक्यूपंचर जैसी दवाइयां बच्चे के विकास को प्रभावित कर सकती हैं। हमेशा अपने गायनोलॉजिस्ट से परामर्श करें।"
+                    "text": "गर्भावस्था में किसी भी दवाई को डॉक्टर की सलाह के बिना नहीं लेना चाहिए। कुछ दर्द निवारक, एंटीबायोटिक्स और अन्य दवाइयां बच्चे के विकास को प्रभावित कर सकती हैं। हमेशा अपने गायनोलॉजिस्ट से परामर्श करें।"
                 }
             },
             {
@@ -129,7 +129,7 @@
                 "name": "गर्भावस्था में कौन सी चीज़ें तनाव पैदा करती हैं और क्यों बचना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "गर्भावस्था में अत्यधिक तनाव बच्चे के विकास को प्रभावित कर सकता है। काम का अत्यधिक दबाव, विवाद, और नकारात्मक समाचार से बचें। ध्यान, योग और हल्के व्यायाम तनाव कम करने में मदद करते हैं। RAJ Hospital में <a href='../contact.php'>परामर्श</a> लें।"
+                    "text": "गर्भावस्था में अत्यधिक तनाव बच्चे के विकास को प्रभावित कर सकता है। काम का अत्यधिक दबाव, विवाद, और नकारात्मक समाचार से बचें। ध्यान, योग और हल्के व्यायाम तनाव कम करने में मदद करते हैं। RAJ Hospital में परामर्श लें।"
                 }
             }
         ]
@@ -195,7 +195,7 @@
             "name": "रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -249,6 +249,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-medical-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">गर्भावस्था स्वास्थ्य</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए - पूर्ण मार्गदर्शिका</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 मिनट पठन</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -287,7 +288,7 @@
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-medical-600">
                         <h4 class="font-bold text-medical-600">पारा युक्त मछली</h4>
-                        <p class="text-sm text-gray-600">शार्क, स्वोर्डफिश, मैकेरल जैसी बड़ी मछलियों में पारा अधिक होता है। यह बच्चे की नर्वस सिस्टम को प्रभावित कर सकता है।</p>
+                        <p class="text-sm text-gray-600">शार्क, स्वोर्डफिश, किंग मैकेरल जैसी बड़ी मछलियों में पारा अधिक होता है। यह बच्चे की नर्वस सिस्टम को प्रभावित कर सकता है।</p>
                     </div>
                 </div>
 
@@ -331,7 +332,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-medical-600">
                         <h4 class="font-bold text-medical-600">भारी व्यायाम</h4>
-                        <p class="text-sm text-gray-600">भारी वजन उठाना, इंटेंसिव कार्डियो, और संपर्क खेलों से बचें। इससे गर्भपात या समय से पहले प्रसव का खतरा बढ़ सकता है।</p>
+                        <p class="text-sm text-gray-600">भारी वजन उठाना, इंटेंसिव कार्डियो, और संपर्क खेलों से बचें। इससे चोट या गिरने का खतरा हो सकता है; व्यायाम की तीव्रता अपने डॉक्टर से तय करें।</p>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-medical-600">
                         <h4 class="font-bold text-medical-600">सीढ़ियां चढ़ना</h4>
@@ -343,7 +344,7 @@
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-medical-600">
                         <h4 class="font-bold text-medical-600">पेट के बल सोना</h4>
-                        <p class="text-sm text-gray-600">गर्भावस्था के बाद के चरणों में पेट के बल सोने से बचें। बाईं करवट सोना सबसे अच्छा है।</p>
+                        <p class="text-sm text-gray-600">गर्भावस्था के बाद के चरणों में पेट के बल सोने से बचें। बाईं करवट सोना बेहतर माना जाता है।</p>
                     </div>
                 </div>
 
@@ -422,7 +423,7 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-medical-600">
-                        <h4 class="font-bold text-medical-600">सोना से बचें</h4>
+                        <h4 class="font-bold text-medical-600">सॉना (Sauna) से बचें</h4>
                         <p class="text-sm text-gray-600">हॉट टब, सॉना और गर्म स्नान से बचें। उच्च तापमान भ्रूण को नुकसान पहुंचा सकता है।</p>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-medical-600">
@@ -495,7 +496,7 @@
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-medical-600 to-medical-800 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">गर्भावस्था में देखभाल के लिए RAJ Hospital चुनें</h3>
+                    <h3 class="text-xl font-bold mb-2">गर्भावस्था में देखभाल के लिए RAJ Hospital से संपर्क करें</h3>
                     <p class="opacity-90 mb-4">हमारी विशेषज्ञ टीम आपकी और आपके बच्चे की स्वास्थ्य देखभाल के लिए प्रतिबद्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-medical-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
@@ -510,7 +511,7 @@
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-medical-600 mb-2">क्या गर्भावस्था में व्यायाम करना सुरक्षित है?</h4>
-                        <p class="text-gray-700">हां, गर्भावस्था में हल्के व्यायाम जैसे चलना, तैरना और प्रीनेटल योगा फायदेमंद हैं। लेकिन भारी व्यायाम, सीढ़ियां चढ़ना और उछलने-कूदने वाली गतिविधियों से बचना चाहिए। डॉक्टर से परामर्श करके ही व्यायाम शुरू करें।</p>
+                        <p class="text-gray-700">हां, गर्भावस्था में हल्के व्यायाम जैसे चलना, तैरना और प्रीनेटल योगा फायदेमंद हैं। लेकिन भारी व्यायाम, गिरने के खतरे वाली और उछलने-कूदने वाली गतिविधियों से बचना चाहिए; सामान्य गर्भावस्था में सावधानी से सीढ़ियां चढ़ना आमतौर पर ठीक है। डॉक्टर से परामर्श करके ही व्यायाम शुरू करें।</p>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-medical-600 mb-2">गर्भावस्था में कौन सी दवाइयां नहीं लेनी चाहिए?</h4>
@@ -535,8 +536,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए - जानिए किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital Ranchi के विशेषज्ञ डॉक्टरों द्वारा सुझाई गई महत्वपूर्ण बातें।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">गर्भावस्था में क्या काम नहीं करना चाहिए - जानिए किन गतिविधियों, खानपान और आदतों से बचना चाहिए। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। गर्भावस्था में क्या काम नहीं करना चाहिए शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -577,7 +578,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -586,8 +587,7 @@
                 <div class="flex items-center gap-4 bg-purple-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-medical-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">वरिष्ठ स्त्री रोग विशेषज्ञ द्वारा समीक्षित</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

@@ -77,7 +77,7 @@
             "name": "इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Infectious Disease</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">कोरोनावायरस रोग 2019 (COVID-19) - Complete Hindi Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -329,7 +330,7 @@
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Oxygen therapy</li>
                             <li>Remdesivir (doctor की सलाह से)</li>
-                            <li>Dexamethasone</li>
+                            <li>Dexamethasone (केवल hospital में, oxygen की जरूरत वाले मरीजों में doctor की सलाह से)</li>
                             <li>ICU care (गंभीर cases में)</li>
                         </ul>
                     </div>
@@ -346,7 +347,7 @@
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-gray-700">Vaccination</div>
-                        <p class="text-xs text-gray-600">Updated booster लगवाएं</p>
+                        <p class="text-xs text-gray-600">डॉक्टर/सरकारी guidelines के अनुसार</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl mb-2"><i data-feather="shield" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
@@ -373,11 +374,11 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">COVID-19 vaccine कितनी effective है?</h4>
-                        <p class="text-gray-700">Vaccines severe disease, hospitalization, और death से बचाव में highly effective हैं। हालांकि infection नहीं रोक सकते, symptoms को हल्का रखते हैं।</p>
+                        <p class="text-gray-700">Vaccines severe disease, hospitalization, और death से बचाव में highly effective हैं। हालांकि ये हर बार infection नहीं रोक पाते, लेकिन बीमारी को हल्का रखने में मदद करते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Booster dose कब लगवाना चाहिए?</h4>
-                        <p class="text-gray-700">High-risk groups (बुजुर्ग, immunocompromised, <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women) को हर 6-12 months में booster की सलाह दी जाती है।</p>
+                        <p class="text-gray-700">High-risk groups (बुजुर्ग, immunocompromised, <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women) को booster के बारे में मौजूदा सरकारी guidelines के अनुसार अपने डॉक्टर से सलाह लेनी चाहिए।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">अगर COVID हो तो क्या करें?</h4>
@@ -386,7 +387,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">कोरोनावायरस रोग 2019 (COVID-19) पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">कोरोनावायरस रोग 2019 (COVID-19): जरूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">कोरोनावायरस रोग 2019 (COVID-19) के लक्षण, कारण, इलाज और बचाव के उपाय जानें। Prevention, vaccination और latest guidelines।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। कोरोनावायरस रोग 2019 (COVID-19) शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -429,7 +430,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -438,8 +439,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Pulmonologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital</title>
+    <title>Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Thyroid symptoms in Hindi जानें। Thyroid ke lakshan, thyroid problems ke symptoms, hypothyroidism aur hyperthyroidism ke signs। Treatment और prevention।">
     <meta name="keywords" content="thyroid symptoms in hindi, thyroid ke lakshan, thyroid problems symptoms, thyroid in hindi, thyroid disease symptoms">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Thyroid Symptoms in Hindi | Thyroid ke Lakshan में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या Thyroid Symptoms in Hindi | Thyroid ke Lakshan दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए गर्भावस्था में क्या काम नहीं करना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए सही कारण जानने के लिए thyroid function test और doctor की जांच ज़रूरी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital",
+        "headline": "Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital",
         "description": "Thyroid symptoms in Hindi जानें। Thyroid ke lakshan, thyroid problems ke symptoms, hypothyroidism aur hyperthyroidism ke signs। Treatment और prevention।",
         "url": "https://rajhospitals.com/blog/thyroid-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/thyroid-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital"
+                "name": "Thyroid Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide | RAJ Hospital"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -215,6 +215,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Endocrinology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Hindi | Thyroid ke Lakshan - Complete Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -223,7 +224,7 @@
 
             <div class="p-6 md:p-10">
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> symptoms in Hindi</strong> जानना आजकल बहुत important है क्योंकि <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> disorders भारत में बहुत common हो गए हैं। लगभग 42 million Indians में thyroid disorders हैं। इस article में हम <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> ke lakshan</strong> और उनके treatment के बारे में detail से जानेंगे।
+                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> symptoms in Hindi</strong> जानना आजकल बहुत important है क्योंकि <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> disorders भारत में बहुत common हो गए हैं। एक अनुमान के अनुसार भारत में करोड़ों लोग thyroid disorders से प्रभावित हैं। इस article में हम <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> ke lakshan</strong> और उनके treatment के बारे में detail से जानेंगे।
                 </p>
 
                 <h2 class="raj-h2"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> क्या है? (What is Thyroid?)</h2>
@@ -303,7 +304,7 @@
                         <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Autoimmune diseases</strong> - Hashimoto's और Graves' disease</li>
                         <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Family history</strong> - Genetics का role</li>
                         <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Pregnancy</strong> - Postpartum thyroiditis</li>
-                        <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Stress</strong> - Chronic stress hormone levels को affect करता है</li>
+                        <li class="flex items-start gap-2"><span class="text-yellow-600">▸</span> <strong>Stress</strong> - Stress को thyroid disease का सीधा कारण साबित नहीं किया गया है, पर यह कुछ लोगों में लक्षण बढ़ा सकता है</li>
                     </ul>
                 </div>
 
@@ -325,17 +326,17 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Medication</h4>
-                        <p class="text-sm text-gray-600">Levothyroxine (hypothyroidism), Methimazole/Propylthiouracil (hyperthyroidism)</p>
+                        <p class="text-sm text-gray-600">Levothyroxine (hypothyroidism), Methimazole/Propylthiouracil (hyperthyroidism) — सिर्फ doctor की prescription और नियमित blood test monitoring के साथ</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i>️ Radioactive Iodine</h4>
-                        <p class="text-sm text-gray-600">Hyperthyroidism को reduce करने के लिए used</p>
+                        <p class="text-sm text-gray-600">Hyperthyroidism को reduce करने के लिए used (pregnancy और breastfeeding में नहीं दिया जाता)</p>
                     </div>
                 </div>
 
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Thyroid की समस्या है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में complete thyroid panel testing और expert treatment available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में thyroid panel testing और doctor consultation उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -355,14 +356,13 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Endocrinologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Thyroid Symptoms in Hindi | Thyroid ke Lakshan पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Thyroid Symptoms in Hindi | Thyroid ke Lakshan पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Thyroid symptoms in Hindi जानें। Thyroid ke lakshan, thyroid problems ke symptoms, hypothyroidism aur hyperthyroidism ke signs। Treatment और prevention।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Thyroid Symptoms in Hindi | Thyroid ke Lakshan शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -392,7 +392,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Thyroid Symptoms in Hindi | Thyroid ke Lakshan दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए गर्भावस्था में क्या काम नहीं करना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए सही कारण जानने के लिए thyroid function test और doctor की जांच ज़रूरी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>
@@ -404,7 +404,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

@@ -7,15 +7,15 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Understanding the Hidden Connection | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Can depression cause a heart attack? Cardiologists and psychiatrists at RAJ Hospital Ranchi explain the two-way link between depression and heart disease, the warning signs, and how treating your mind protects your heart.">
-    <meta name="keywords" content="can depression cause a heart attack, depression and heart disease, depression heart attack link, mental health and heart, does depression cause heart problems, RAJ Hospital Ranchi, best hospital in Ranchi">
+    <title>Can Depression Cause a Heart Attack? Understanding the Hidden Connection | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Can depression cause a heart attack? RAJ Hospital Ranchi explains the two-way link between depression and heart disease, the warning signs, and how treating your mind protects your heart.">
+    <meta name="keywords" content="can depression cause a heart attack, depression and heart disease, depression heart attack link, mental health and heart, does depression cause heart problems, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/can-depression-cause-a-heart-attack/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Can Depression Cause a Heart Attack? Understanding the Hidden Connection">
-    <meta property="og:description" content="Doctor-reviewed guide on the two-way link between depression and heart attack risk — mechanisms, warning signs and how to protect your heart.">
+    <meta property="og:description" content="Guide on the two-way link between depression and heart attack risk — mechanisms, warning signs and how to protect your heart.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/can-depression-cause-a-heart-attack/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/can-depression-cause-a-heart-attack.png">
@@ -42,8 +42,8 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Understanding the Hidden Connection",
-        "description": "Doctor-reviewed guide on the bidirectional link between depression and heart attack risk, with warning signs and prevention.",
+        "headline": "Can Depression Cause a Heart Attack? Understanding the Hidden Connection",
+        "description": "Guide on the bidirectional link between depression and heart attack risk, with warning signs and prevention.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?" }
+            { "@type": "ListItem", "position": 3, "name": "Can Depression Cause a Heart Attack?" }
         ]
     }
     </script>
@@ -75,8 +75,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?",
-        "description": "Doctor-reviewed guide explaining the two-way relationship between depression and heart attack risk, including mechanisms and prevention.",
+        "name": "Can Depression Cause a Heart Attack?",
+        "description": "Guide explaining the two-way relationship between depression and heart attack risk, including mechanisms and prevention.",
         "url": "https://rajhospitals.com/blog/can-depression-cause-a-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -99,7 +99,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a> directly cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?",
+                "name": "Can depression directly cause a heart attack?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Depression does not block a coronary artery in a single moment the way a clot does. Instead, it acts as a powerful long-term risk factor: chronic depression raises inflammation, stress hormones and blood pressure, makes platelets stickier, and drives unhealthy habits — together significantly increasing the risk of a heart attack over time. Research shows depression roughly doubles the risk of developing coronary heart disease and worsens outcomes in people who already have it."
@@ -118,7 +118,7 @@
                 "name": "Is the link between depression and heart disease two-way?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes. Depression raises the risk of heart disease, and having a heart attack or heart failure substantially raises the risk of becoming depressed. About one in five people develop depression after a heart attack, and untreated post-heart-attack depression is linked to poorer recovery and higher risk of a second event. This is why cardiac and mental-health care are best delivered together."
+                    "text": "Yes. Depression raises the risk of heart disease, and having a heart attack or heart failure substantially raises the risk of becoming depressed. About one in five people develop depression after a heart attack, and untreated post-heart-attack depression is linked to poorer recovery and higher risk of a second event. This is why cardiac and mental-health care work well when delivered together."
                 }
             },
             {
@@ -126,7 +126,7 @@
                 "name": "Can treating depression lower heart attack risk?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Treating depression improves quality of life and supports heart health by making it easier to exercise, eat well, sleep, stop smoking and take medication consistently. Cognitive behavioural therapy and cardiac-safe antidepressants such as SSRIs are commonly used and are considered safe for most heart patients. Combined cardiology and psychiatry care gives the best results."
+                    "text": "Treating depression improves quality of life and supports heart health by making it easier to exercise, eat well, sleep, stop smoking and take medication consistently. Cognitive behavioural therapy and cardiac-safe antidepressants such as SSRIs are commonly used and are considered safe for most heart patients. Combined cardiology and psychiatry care is often helpful."
                 }
             },
             {
@@ -167,16 +167,17 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Mental Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Can Depression Cause a Heart Attack? Understanding the Hidden Connection</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology &amp; Psychiatry Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Ranchi</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    We tend to think of depression as a condition of the mind and a heart attack as a problem of the arteries — two separate worlds. But decades of research have shown they are deeply connected. So, <strong>can depression cause a heart attack?</strong> According to the cardiologists and psychiatrists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, depression is not a single-moment trigger like a blood clot — but it is a genuine, measurable risk factor that can roughly <em>double</em> the long-term risk of heart disease and worsen recovery after a cardiac event. This guide explains the hidden connection, why it works both ways, and what you can do about it.
+                    We tend to think of depression as a condition of the mind and a heart attack as a problem of the arteries — two separate worlds. But decades of research have shown they are deeply connected. So, <strong>can depression cause a heart attack?</strong> According to <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>, depression is not a single-moment trigger like a blood clot — but it is a genuine, measurable risk factor that can roughly <em>double</em> the long-term risk of heart disease and worsen recovery after a cardiac event. This guide explains the hidden connection, why it works both ways, and what you can do about it.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -271,7 +272,7 @@
 
                 <h2 class="raj-h2"><i data-feather="shield" class="raj-h2-icon"></i> Protecting Both Your Mind and Your Heart</h2>
                 <p class="text-gray-700 mb-4">
-                    The best part of this connection is that the same steps help both. Treating depression is, in a real sense, preventive cardiology. A combined plan at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best multispeciality hospital in Ranchi</a>, usually includes:
+                    The encouraging part of this connection is that the same steps help both. Treating depression is, in a real sense, preventive cardiology. A combined plan at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>, usually includes:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Talk therapy (CBT)</strong> — effective for depression and shown to help cardiac patients cope and recover.</li>
@@ -297,8 +298,8 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — Related Health Guides</h2>
                     <p class="text-gray-700 mb-4">Explore the mind–heart link and cardiac health further:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
-                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Guide</a></li>
                         <li><a href="/blog/what-causes-heart-attacks-in-young-people.php" class="text-secondary-600 hover:underline font-semibold">What Causes Heart Attacks in Young People? — Signs &amp; Prevention</a></li>
                         <li><a href="/blog/symptoms-of-depression-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">पुरुषों में डिप्रेशन के लक्षण — Depression Symptoms in Men (Hindi)</a></li>
                         <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk &amp; Prevention</a></li>
@@ -312,7 +313,7 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can depression alone cause a heart attack in a healthy person?</h3>
-                            <p class="text-gray-700">Depression by itself does not block an artery in a single moment. But sustained, untreated depression changes inflammation, hormones, clotting and behaviour in ways that raise the risk of a heart attack over months and years — which is why it is treated as a genuine cardiac risk factor at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>.</p>
+                            <p class="text-gray-700">Depression by itself does not block an artery in a single moment. But sustained, untreated depression changes inflammation, hormones, clotting and behaviour in ways that raise the risk of a heart attack over months and years — which is why it is treated as a genuine cardiac risk factor at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Are antidepressants safe if I have heart disease?</h3>
@@ -320,7 +321,7 @@
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">I feel chest heaviness when I'm low — is it my heart?</h3>
-                            <p class="text-gray-700">It may be anxiety or depression-related, but chest symptoms should never be assumed to be "only stress" without evaluation. If chest pain is new, severe, lasts more than a few minutes or radiates to the arm or jaw, treat it as an emergency. A quick ECG and troponin test at <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's cardiac ER</a> can rule out a heart cause.</p>
+                            <p class="text-gray-700">It may be anxiety or depression-related, but chest symptoms should never be assumed to be "only stress" without evaluation. If chest pain is new, severe, lasts more than a few minutes or radiates to the arm or jaw, treat it as an emergency. A quick ECG and troponin test at <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's cardiac ER</a> can help check for a heart cause (repeat tests are sometimes needed).</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Will treating my depression really help my heart?</h3>
@@ -333,12 +334,12 @@
                 <div class="raj-author-box">
                     <div class="raj-author-avatar">RH</div>
                     <div>
-                        <strong class="raj-author-name">Cardiology &amp; Psychiatry Team, RAJ Hospital</strong>
-                        <p class="raj-author-meta">Reviewed by Consultant Cardiologist &amp; Psychiatrist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <strong class="raj-author-name">RAJ Hospital Ranchi</strong>
+                        <p class="raj-author-meta">General health information · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 
-                <p class="text-xs text-gray-400 mt-6">This article is for general education and is not a substitute for professional medical advice. Always consult a qualified doctor for diagnosis and treatment. If you are having thoughts of self-harm, seek help immediately.</p>
+                <p class="text-xs text-gray-400 mt-6">This article is for general education and is not a substitute for professional medical advice. Always consult a qualified doctor for diagnosis and treatment. If you are having thoughts of self-harm, seek help immediately — call Tele-MANAS on 14416 (24×7, free) or emergency services on 112.</p>
             </div>
         </article>
     </main>

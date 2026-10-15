@@ -120,7 +120,7 @@
                 "name": "When in the month should I do a breast self-exam?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "For women who are menstruating, three to five days after the period ends is best, because breast tissue is least swollen and lumpy then. Women who have reached menopause, are pregnant, or have irregular cycles should simply pick the same date each month and keep to it. Consistency matters more than the specific date, because the point is to notice change over time rather than to grade a single examination."
+                    "text": "For women who are menstruating, three to five days after the period ends is advisable, because breast tissue is least swollen and lumpy then. Women who have reached menopause, are pregnant, or have irregular cycles should simply pick the same date each month and keep to it. Consistency matters more than the specific date, because the point is to notice change over time rather than to grade a single examination."
                 }
             },
             {
@@ -201,9 +201,10 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-pink-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Oncology · Breast Cancer Awareness Month</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Breast Cancer Awareness Month: The Self-Exam Habit That Actually Catches Something</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Oncology Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Ranchi</span>
                 </div>
             </div>
 
@@ -315,7 +316,7 @@
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Clinical examination.</strong> A doctor examines both breasts, both armpits and the areas above the collarbones, and takes a history including your cycle, family history and any hormone medication. Five to ten minutes. You can ask for a female clinician or chaperone, and that request is entirely routine.</li>
-                    <li><strong>Imaging.</strong> Which test depends mainly on age, because younger breast tissue is denser and shows up differently. Under about 35, an <strong>ultrasound</strong> is usually first, and it involves nothing more than gel and a probe. Over that, a <strong>mammogram</strong>, often with ultrasound alongside. A mammogram compresses the breast for a few seconds per view. It is briefly uncomfortable for most women, not painful, and the whole appointment takes about fifteen minutes in our <a href="/specialties/radiology" class="text-secondary-600 hover:underline font-semibold">radiology department</a>.</li>
+                    <li><strong>Imaging.</strong> Which test depends mainly on age, because younger breast tissue is denser and shows up differently. Under about 35, an <strong>ultrasound</strong> is usually first, and it involves nothing more than gel and a probe. Over that, a <strong>mammogram</strong>, often with ultrasound alongside. A mammogram compresses the breast for a few seconds per view. It is briefly uncomfortable for most women and can be painful for a few seconds for some, and the whole appointment takes about fifteen minutes in our <a href="/specialties/radiology" class="text-secondary-600 hover:underline font-semibold">radiology department</a>.</li>
                     <li><strong>Needle sampling, only if needed.</strong> If imaging shows something that needs characterising, a sample is taken under local anaesthesia. A fine needle aspiration uses a thin needle and takes moments. A core biopsy uses a slightly wider needle to take a small tissue sample, usually guided by ultrasound, and gives more information. Both are outpatient procedures. You go home the same morning, and the samples are processed in our <a href="/specialties/laboratory-investigations" class="text-secondary-600 hover:underline font-semibold">laboratory</a>.</li>
                     <li><strong>MRI, occasionally.</strong> Reserved for specific situations such as very dense tissue, implants, or planning when disease is already confirmed. Not a routine first test.</li>
                 </ul>
@@ -399,7 +400,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Does a self-exam replace a mammogram?</h3>
-                        <p class="text-gray-700">No. A mammogram can detect changes years before anything is large enough to feel, which is why screening exists as a separate activity. Self-examination and clinical examination find what has become palpable. They are complementary, and treating one as a substitute for the other is the most common misunderstanding we correct in clinic.</p>
+                        <p class="text-gray-700">No. A mammogram can detect changes years before anything is large enough to feel, which is why screening exists as a separate activity. Self-examination and clinical examination find what has become palpable. They are complementary, and treating one as a substitute for the other is a common misunderstanding.</p>
                     </div>
                 </div>
 
@@ -421,8 +422,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 shrink-0 rounded-full bg-pink-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Oncology Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Medically reviewed by our consultant oncologists &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <strong class="text-gray-800">Raj Hospitals Ranchi</strong>
+                        <p class="text-sm text-gray-500">General health information &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Typhoid Bar Bar Kyu Hota Hai - टाइफाइड बार-बार क्यों होता है?",
-        "description": "टाइफाइड बार-बार क्यों होता है? कारण, इलाज और prevention। RAJ Hospital Ranchi में expert treatment।",
+        "description": "टाइफाइड बार-बार क्यों होता है? कारण, इलाज और prevention। RAJ Hospital Ranchi में जांच और इलाज उपलब्ध।",
         "url": "https://rajhospitals.com/blog/typhoid-bar-bar-kyu-hota-hai/",
         "author": {
             "@type": "Organization",
@@ -83,7 +83,7 @@
                 "name": "टाइफाइड का इलाज कैसे होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "टाइफाइड का इलाज primarily antibiotics से होता है जैसे azithromycin, ceftriaxone, या fluoroquinolones। Treatment usually 7-14 days की course होती है। जरूरी है कि दवाई पूरी course complete करें, नहीं तो resistance बढ़ती है और disease वापस आ सकती है।"
+                    "text": "टाइफाइड का इलाज doctor द्वारा तय antibiotics से होता है (जैसे azithromycin, ceftriaxone या cefixime), जो blood culture report और local resistance pattern के आधार पर चुनी जाती हैं। खुद से antibiotic न लें। Treatment usually 7-14 days की course होती है। जरूरी है कि दवाई पूरी course complete करें, नहीं तो resistance बढ़ती है और disease वापस आ सकती है।"
                 }
             },
             {
@@ -91,7 +91,7 @@
                 "name": "टाइफाइड से कैसे बचें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "टाइफाइड से बचाव: 1) Typhoid vaccine लगवाएं (टीवी वैक्सीन) 2) साफ पानी पिएं (boiled या filtered) 3) बाहर का खाना avoid करें 4) Raw vegetables और fruits wash करके खाएं 5) Hand hygiene maintain करें 6) Street food से बचें especially rainy season में।"
+                    "text": "टाइफाइड से बचाव: 1) Typhoid vaccine लगवाएं (Typhoid Conjugate Vaccine - TCV, doctor की सलाह से) 2) साफ पानी पिएं (boiled या filtered) 3) बाहर का खाना avoid करें 4) Raw vegetables और fruits wash करके खाएं 5) Hand hygiene maintain करें 6) Street food से बचें especially rainy season में।"
                 }
             }
         ]
@@ -170,6 +170,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">General Medicine</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Typhoid Bar Bar Kyu Hota Hai - टाइफाइड बार-बार क्यों होता है?</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -178,12 +179,12 @@
 
             <div class="p-6 md:p-10">
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    क्या आपको भी <strong>टाइफाइड (Typhoid)</strong> बार-बार हो रहा है? आप अकेले नहीं हैं। भारत में टाइफाइड एक आम problem है और कई लोगों को साल में एक या दो बार टाइफाइड होता है। इस blog post में हम जानेंगे कि <strong>typhoid bar bar kyu hota hai</strong> (टाइफाइड बार-बार क्यों होता है) और इससे कैसे बचें।
+                    क्या आपको भी <strong>टाइफाइड (Typhoid)</strong> बार-बार हो रहा है? आप अकेले नहीं हैं। भारत में टाइफाइड एक आम problem है। कई लोगों को लगता है कि उन्हें बार-बार टाइफाइड हो रहा है — इसकी वजह relapse या दोबारा infection हो सकती है, लेकिन कई बार सिर्फ Widal test के आधार पर गलत diagnosis भी हो जाता है, इसलिए blood culture से पुष्टि ज़रूरी है। इस blog post में हम जानेंगे कि <strong>typhoid bar bar kyu hota hai</strong> (टाइफाइड बार-बार क्यों होता है) और इससे कैसे बचें।
                 </p>
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">
                     <strong class="text-primary-600 text-lg">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> टाइफाइड एक गंभीर bacterial infection है जो <strong>Salmonella Typhi</strong> bacteria से होती है। अगर properly treat न किया जाए, तो यह life-threatening हो सकती है। RAJ Hospital Ranchi में इसका effective treatment available है।</span>
+                    <span class="text-gray-700"> टाइफाइड एक गंभीर bacterial infection है जो <strong>Salmonella Typhi</strong> bacteria से होती है। अगर properly treat न किया जाए, तो यह life-threatening हो सकती है। RAJ Hospital Ranchi में इसकी जांच और इलाज उपलब्ध है।</span>
                 </div>
 
                 <h2 class="raj-h2-secondary">टाइफाइड क्या है और कैसे फैलती है?</h2>
@@ -201,7 +202,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-500">
                         <h4 class="font-bold text-primary-600 mb-2">1. Incomplete Antibiotic Treatment</h4>
-                        <p class="text-sm text-gray-600">टाइफाइड का सबसे common cause यह है कि लोग जब बेहतर feel करने लगते हैं, तो दवाई बंद कर देते हैं। यह <strong>बहुत खतरनाक</strong> है! Bacteria अभी भी body में हो सकती है और अधूरा treatment resistance बढ़ाता है।</p>
+                        <p class="text-sm text-gray-600">टाइफाइड दोबारा होने (relapse) का एक कारण यह है कि लोग जब बेहतर feel करने लगते हैं, तो दवाई बंद कर देते हैं। यह <strong>बहुत खतरनाक</strong> है! Bacteria अभी भी body में हो सकती है और अधूरा treatment resistance बढ़ाता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-500">
                         <h4 class="font-bold text-primary-600 mb-2">2. Antibiotic Resistance</h4>
@@ -247,7 +248,7 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-primary-600 mb-2">First-line Antibiotics</h4>
+                        <h4 class="font-bold text-primary-600 mb-2">Antibiotics (सिर्फ doctor की prescription पर)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Azithromycin</li>
                             <li>Ceftriaxone (IV)</li>
@@ -267,7 +268,7 @@
 
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">महत्वपूर्ण चेतावनी:</strong>
-                    <span class="text-gray-700"> दवाई जब भी prescribed हो, <strong>पूरी course (usually 10-14 days)</strong> complete करें। Symptoms better feel होने पर भी treatment छोड़ना नहीं चाहिए। यही टाइफाइड बार-बार होने का main reason है!</span>
+                    <span class="text-gray-700"> दवाई जब भी prescribed हो, <strong>पूरी course (usually 10-14 days)</strong> complete करें। Symptoms better feel होने पर भी treatment छोड़ना नहीं चाहिए। अधूरा इलाज टाइफाइड दोबारा होने के कारणों में से एक है।</span>
                 </div>
 
                 <h2 class="raj-h2-secondary">टाइफाइड से बचाव (Prevention)</h2>
@@ -276,7 +277,7 @@
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700 mb-2">करें (Do)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>Typhoid vaccine लगवाएं (टीवी वैक्सीन)</li>
+                            <li>Typhoid vaccine लगवाएं (Typhoid Conjugate Vaccine - TCV, doctor की सलाह से)</li>
                             <li>साफ पानी पिएं (boiled या filtered)</li>
                             <li>Fresh और properly cooked food खाएं</li>
                             <li>Fruits और vegetables धोकर खाएं</li>
@@ -297,7 +298,7 @@
                 </div>
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">टाइफाइड का Expert इलाज</h3>
+                    <h3 class="text-xl font-bold mb-2">टाइफाइड की जांच और इलाज</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में टाइफाइड का complete diagnosis और treatment available है। Blood tests, cultures, और appropriate antibiotics।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
@@ -320,16 +321,15 @@
                 </div>
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Typhoid Bar Bar Kyu Hota Hai पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">टाइफाइड बार-बार क्यों होता है (Typhoid Bar Bar Kyu Hota Hai)? कारण, इलाज और prevention। RAJ Hospital Ranchi में expert treatment।</p>
-                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए टाइफाइड एक common problem है। Prevention और proper treatment दोनों जरूरी हैं। RAJ Hospital में comprehensive typhoid care available है।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Typhoid Bar Bar Kyu Hota Hai पर ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">टाइफाइड बार-बार क्यों होता है (Typhoid Bar Bar Kyu Hota Hai)? कारण, इलाज और prevention। RAJ Hospital Ranchi में जांच और इलाज उपलब्ध।</p>
+                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए टाइफाइड एक common problem है। Prevention और proper treatment दोनों जरूरी हैं। RAJ Hospital में typhoid की जांच और इलाज उपलब्ध है।</p>
                 </section>
 
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Physician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

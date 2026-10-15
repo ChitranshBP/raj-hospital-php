@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Radiology Hospital in Ranchi | Best Diagnostic Imaging Centre in Ranchi – Raj Hospital</title>
+    <title>Radiology Hospital in Ranchi | Diagnostic Imaging Centre in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best radiology hospitals in Ranchi offering advanced diagnostic imaging services including X-ray, CT scan, MRI and ultrasound." />
+        content="Raj Hospital is a radiology hospital in Ranchi offering advanced diagnostic imaging services including X-ray, CT scan, MRI and ultrasound." />
 
     <meta name="robots" content="index, follow" />
 
@@ -44,11 +44,6 @@ Ultrasound Centre in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -90,10 +85,10 @@ Ultrasound Centre in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best radiology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer radiology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best radiology hospitals in Ranchi offering advanced diagnostic imaging services."
+        "text": "Yes, Raj Hospital in Ranchi offers advanced diagnostic imaging services."
       }
     },
     {
@@ -201,10 +196,10 @@ Ultrasound Centre in Jharkhand
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">Raj Hospital's Department of Radiology in
                             Ranchi offers a complete range of imaging and diagnostic facilities under one roof. Equipped
-                            with cutting-edge MRI, CT Scan, OPG, MRCP, Ultrasound, Full Body BMD, and Image Intensifier
-                            systems, our unit ensures the most accurate diagnosis to guide effective treatment. Managed
+                            with modern MRI, CT Scan, OPG, MRCP, Ultrasound, Full Body BMD, and Image Intensifier
+                            systems, our unit supports accurate diagnosis to guide effective treatment. Managed
                             by expert radiologists and technologists, we combine precision, safety, and compassionate
-                            care to deliver the best outcomes for every patient.</p>
+                            care for every patient.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
                             <h3 class="text-xl font-semibold text-gray-900 mb-4 flex items-center"><i
@@ -216,7 +211,7 @@ Ultrasound Centre in Jharkhand
                                         class="text-gray-700">Fully Digital Radiology and Imaging Department</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">State-of-the-art MRI and CT Scan Units</span></li>
+                                        class="text-gray-700">Modern MRI and CT Scan Units</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
                                         class="text-gray-700">Ultrasound and Color Doppler Imaging</span></li>
@@ -243,7 +238,7 @@ Ultrasound Centre in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">State-of-the-art MRI and CT Scan Units</span>
+                                        class="text-gray-700">Modern MRI and CT Scan Units</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -309,7 +304,7 @@ Ultrasound Centre in Jharkhand
         <div class="max-w-7xl mx-auto px-4">
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-3xl font-bold text-gray-900 mb-4">Imaging Services We Offer</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Advanced diagnostic imaging with cutting-edge
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Advanced diagnostic imaging with modern
                     technology</p>
             </div>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -361,7 +356,7 @@ Ultrasound Centre in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"></div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Ultrasound</h3>
-                        <p class="text-gray-600 mb-4">A safe and painless non-invasive procedure using sound waves to
+                        <p class="text-gray-600 mb-4">A non-invasive procedure using sound waves to
                             visualize soft tissues, organs, and blood flow.</p>
                     </div>
                 </div>
@@ -443,47 +438,6 @@ Ultrasound Centre in Jharkhand
         </div>
     </section>
 
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Real stories of accurate diagnosis from our Radiology
-                    department</p>
-            </div>
-            <div class="grid md:grid-cols-2 gap-8">
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="activity" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Early Tumor Detection through MRI</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Rakesh, 52</p>
-                    <p class="text-gray-700 mb-6">An MRI scan performed at Raj Hospital detected a small brain tumor at
-                        an early stage, enabling timely surgery and successful recovery.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Full recovery after treatment with no complications</span></div>
-                    </div>
-                </div>
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="activity" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Accurate Bone Density Diagnosis</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mrs. Anita, 60</p>
-                    <p class="text-gray-700 mb-6">BMD testing helped diagnose osteoporosis early, allowing preventive
-                        treatment that improved her mobility and bone health.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Improved bone strength and quality of life</span></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="py-8 bg-white">
         <div class="max-w-7xl mx-auto px-4">
@@ -503,7 +457,7 @@ Ultrasound Centre in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, all imaging tests are conducted using international safety protocols, with
+                                <p>MRI and ultrasound do not use ionising radiation, while X-ray and CT use the lowest radiation dose needed for diagnosis; please tell staff if you are or may be pregnant. All scans follow standard safety protocols, with
                                     minimal or no radiation exposure depending on the type of scan.</p>
                             </div>
                         </div>
@@ -583,6 +537,10 @@ Ultrasound Centre in Jharkhand
                                     class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
                                     placeholder="Describe your question or concern..."></textarea></div>
                             <input type="hidden" name="specialty" value="Radiology">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2"><i
                                     data-feather="send" class="w-5 h-5"></i>Submit Inquiry</button>

@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Headaches Types, Causes aur Treatment Solutions - Complete Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Headaches ke different types - migraine, tension, cluster headache ke causes, symptoms aur treatment options. Ranchi ke best neurology hospital se practical solutions.">
+    <meta name="description" content="Headaches ke different types - migraine, tension, cluster headache ke causes, symptoms aur treatment options. RAJ Hospital Ranchi se practical solutions.">
     <meta name="keywords" content="headache types, migraine treatment, tension headache, cluster headache causes, headache treatment ranchi, सिरदर्द के प्रकार, माइग्रेन इलाज">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/headaches-types-causes-treatment-solutions/">
@@ -24,7 +24,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Headaches Types, Causes and Treatment Solutions - Complete Guide",
-        "description": "Comprehensive guide on <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> types including migraine, tension headache, cluster headache with causes, symptoms and treatment options.",
+        "description": "Comprehensive guide on headache types including migraine, tension headache, cluster headache with causes, symptoms and treatment options.",
         "url": "https://rajhospitals.com/blog/headaches-types-causes-treatment-solutions/",
         "author": {
             "@type": "Organization",
@@ -83,10 +83,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> ke kitne types hote hain?",
+                "name": "Headache ke kitne types hote hain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Sabse common headache types hain: 1) Tension Headache - <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> aur muscle tension se hota hai, 2) Migraine - severe one-sided pain with nausea, 3) Cluster Headache - very painful, happens in groups, 4) Sinus Headache - sinus infection se, 5) rebound Headache - overmedication se, 6) Cervicogenic Headache - neck problem se. Har type ka alag treatment hota hai."
+                    "text": "Sabse common headache types hain: 1) Tension Headache - stress aur muscle tension se hota hai, 2) Migraine - severe one-sided pain with nausea, 3) Cluster Headache - very painful, happens in groups, 4) Sinus Headache - sinus infection se, 5) rebound Headache - overmedication se, 6) Cervicogenic Headache - neck problem se. Har type ka alag treatment hota hai."
                 }
             },
             {
@@ -102,12 +102,12 @@
                 "name": "Gharelu upay se headache kaise theek karein?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Home remedies for headache: 1) Rest in dark quiet room, 2) Cold or warm compress on forehead, 3) Gentle head massage, 4) Peppermint oil application on temples, 5) Ginger tea for nausea, 6) Stay hydrated, 7) Deep <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a> exercises, 8) Avoid screen time. Agar headache 3+ days tak ho ya worsen ho, toh doctor se milna chahiye."
+                    "text": "Home remedies for headache: 1) Rest in dark quiet room, 2) Cold or warm compress on forehead, 3) Gentle head massage, 4) Peppermint oil application on temples, 5) Ginger tea for nausea, 6) Stay hydrated, 7) Deep breathing exercises, 8) Avoid screen time. Agar headache 3+ days tak ho ya worsen ho, toh doctor se milna chahiye."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Kabhi kabhi headache <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> ka symptom toh nahi hai?",
+                "name": "Kabhi kabhi headache heart attack ka symptom toh nahi hai?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Headache usually heart attack ka symptom nahi hai, lekin kuch cases mein stroke (brain attack) ka warning sign ho sakta hai. Agar headache suddenly bahut severe ho, vision problems ho, body ek side paralized ho, speech problem ho, toh immediately emergency treatment lo. RAJ Hospital Ranchi mein stroke treatment available hai."
@@ -118,7 +118,7 @@
                 "name": "Headache band karne ke medicines kya hain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Common headache medicines: 1) Paracetamol - mild headache ke liye, 2) Ibuprofen - tension headache ke liye, 3) Sumatriptan - migraine ke liye doctor prescription se, 4) Excedrin - migraine की संयुक्त medicine. IMPORTANT: Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein. Doctor se consult karke proper treatment plan banana chahiye."
+                    "text": "Common headache medicines: 1) Paracetamol - mild headache ke liye, 2) Ibuprofen - tension headache ke liye, 3) Sumatriptan - migraine ke liye doctor prescription se, 4) Combination painkillers - sirf doctor ki salah se. IMPORTANT: Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein. Doctor se consult karke proper treatment plan banana chahiye."
                 }
             },
             {
@@ -199,7 +199,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -254,6 +254,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100 bg-gradient-to-r from-primary-500 to-primary-600 text-white">
                 <span class="inline-block bg-white/20 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold mb-4">Headaches Types, Causes aur Treatment Solutions - Complete Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <p class="text-lg opacity-90 mb-4">सिरदर्द के प्रकार, कारण और इलाज के तरीके - एक complete guide</p>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-white/80">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
@@ -269,7 +270,7 @@
 
                 <div class="bg-blue-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <strong class="text-primary-700">Important Note:</strong>
-                    <span class="text-gray-700"> Agar aapko <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a> ya <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a></a> ka suspicion hai, toh immediately doctor se milna chahiye. RAJ Hospital Ranchi mein <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> experts available hain.</span>
+                    <span class="text-gray-700"> Agar aapko <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a> ya <a href="/migraine-and-headaches-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a></a> ka suspicion hai, toh doctor se milna chahiye - stroke ke lakshan (chehra tedha hona, ek taraf kamzori, bolne mein dikkat) dikhein to turant 108 call karein ya emergency jaayein. RAJ Hospital Ranchi mein <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> experts available hain.</span>
                 </div>
 
                 <!-- Section 1: Types of Headaches -->
@@ -317,7 +318,7 @@
 
                     <div class="bg-gray-50 p-5 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600 text-lg mb-2">6. Rebound Headache (रिबाउंड हेडएक)</h4>
-                        <p class="text-gray-700 mb-2">Overuse of pain medications se hota hai. Jab aap frequently headache medicines lete ho, toh body unpe dependent ho jati hai aur medicine band karne pe rebound headache hota hai.</p>
+                        <p class="text-gray-700 mb-2">Overuse of pain medications se hota hai. Jab aap frequently headache medicines lete ho, toh headaches aur frequent ho jaate hain - ise medication-overuse (rebound) headache kehte hain. Isse nikalne ke liye doctor ki nigrani mein plan banana chahiye.</p>
                         <p class="text-sm text-gray-600"><strong>Symptoms:</strong> Daily headaches, worse in morning, continuing despite medication</p>
                         <p class="text-sm text-gray-600"><strong>Prevention:</strong> Pain medicines 2-3 days/week se zyada na lein</p>
                     </div>
@@ -425,7 +426,7 @@
                         </div>
                         <div>
                             <h4 class="font-bold text-gray-800">Diagnostic Tests</h4>
-                            <p class="text-sm text-gray-600">CT scan, MRI, blood tests, ya EEG tests kyun ki health conditions determine karne ke liye.</p>
+                            <p class="text-sm text-gray-600">Zarurat padne par (warning signs hone par) doctor CT scan, MRI ya blood tests ki salah de sakte hain taaki doosre causes rule out ho sakein.</p>
                         </div>
                     </div>
                     <div class="flex gap-4 items-start">
@@ -446,12 +447,12 @@
 
                 <div class="grid grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-green-600 mb-2">1. Over-the-Counter Medicines</h4>
+                        <h4 class="font-bold text-green-600 mb-2">1. Medicines (doctor ya pharmacist ki salah se)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Paracetamol - mild headache ke liye</li>
                             <li>Ibuprofen - inflammation reduce karta hai</li>
                             <li>Aspirin - adults ke liye</li>
-                            <li>Naproxen - longer relief ke liye</li>
+                            <li>Naproxen - sirf doctor ke prescription par</li>
                         </ul>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
@@ -588,7 +589,7 @@
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-primary-500 to-primary-600 text-white p-6 rounded-xl text-center mb-8 mt-8">
-                    <h3 class="text-xl font-bold mb-2">Expert Headache Treatment Available in Ranchi</h3>
+                    <h3 class="text-xl font-bold mb-2">Headache Treatment Available in Ranchi</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi mein neurology specialists se milke apna proper diagnosis aur treatment plan banao.</p>
                     <div class="flex flex-wrap justify-center gap-4">
                         <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
@@ -622,7 +623,7 @@
 
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: Headache band karne ke medicines kya hain?</h4>
-                        <p class="text-gray-700"><strong>Answer:</strong> Common headache medicines: <strong>1) Paracetamol</strong> - mild headache ke liye, <strong>2) Ibuprofen</strong> - tension headache ke liye, <strong>3) Sumatriptan</strong> - migraine ke liye doctor prescription se, <strong>4) Excedrin</strong> - migraine की संयुक्त medicine. <strong>Important:</strong> Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein.</p>
+                        <p class="text-gray-700"><strong>Answer:</strong> Common headache medicines: <strong>1) Paracetamol</strong> - mild headache ke liye, <strong>2) Ibuprofen</strong> - tension headache ke liye, <strong>3) Sumatriptan</strong> - migraine ke liye doctor prescription se, <strong>4) Combination painkillers</strong> - sirf doctor ki salah se. <strong>Important:</strong> Overuse se rebound headache ho sakti hai. Max 2-3 days/week se zyada na lein.</p>
                     </div>
 
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -637,8 +638,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Headaches Types, Causes aur Treatment Solutions पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Headaches ke different types - migraine, tension, cluster headache ke causes, symptoms aur treatment options. Ranchi ke best neurology hospital se practical solutions.</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Headaches Types, Causes aur Treatment Solutions: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Headaches ke different types - migraine, tension, cluster headache ke causes, symptoms aur treatment options. RAJ Hospital Ranchi se practical solutions.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Headaches Types, Causes aur Treatment Solutions शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -680,7 +681,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -689,8 +690,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-500 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Neurology Specialists</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
+                        <p class="text-sm text-gray-500">Health Education Content</p>
                         <a href="/doctor-profile.php" class="text-primary-600 hover:underline text-sm">View our doctors</a>
                     </div>
                 </div>

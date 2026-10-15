@@ -7,14 +7,14 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Diabetes patients के लिए best Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।">
-    <meta name="keywords" content="indian diet plan for diabetes, diabetes diet in hindi, best food for diabetes, diabetes meal plan, indian food for diabetics">
+    <title>Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Diabetes patients के लिए Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।">
+    <meta name="keywords" content="indian diet plan for diabetes, diabetes diet in hindi, food for diabetes, diabetes meal plan, indian food for diabetics">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients/">
 
-    <meta property="og:title" content="Best Indian Diet Plan for Diabetes Patients">
-    <meta property="og:description" content="Diabetes patients के लिए best Indian diet plan जानें।">
+    <meta property="og:title" content="Indian Diet Plan for Diabetes Patients">
+    <meta property="og:description" content="Diabetes patients के लिए Indian diet plan जानें।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/best-indian-diet-plan-for-diabetes-patients.png">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Indian Diet Plan for Diabetes Patients में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -50,10 +50,10 @@
         },
         {
             "@type": "Question",
-            "name": "क्या Best Indian Diet Plan for Diabetes Patients दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
+            "name": "क्या Indian Diet Plan for Diabetes Patients दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Ways to Take Moringa for Managing Diabetes जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Moringa and Diabetes: What to Know जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,8 +89,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients | RAJ Hospital Ranchi",
-        "description": "Diabetes patients के लिए best Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।",
+        "headline": "Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi",
+        "description": "Diabetes patients के लिए Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।",
         "url": "https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-indian-diet-plan-for-diabetes-patients.png",
         "author": {
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients | RAJ Hospital Ranchi"
+                "name": "Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -211,7 +211,8 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients: Complete Guide</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients: Complete Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -225,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    This comprehensive guide presents a <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>-friendly Indian diet plan</strong> designed by nutrition experts at <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>. Whether you're dealing with Type 1, Type 2, or gestational <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, these dietary guidelines can help you maintain stable blood glucose levels while enjoying the flavors of authentic Indian cooking.
+                    This comprehensive guide presents a <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>-friendly Indian diet plan</strong> compiled for general awareness by <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>. If you have Type 2 diabetes (Type 1 and gestational diabetes need an individual plan from your doctor and dietitian) or a family history of <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, these dietary guidelines can help you maintain stable blood glucose levels while enjoying the flavors of authentic Indian cooking.
                 </p>
 
                 <!-- Section 1: Understanding Diabetes -->
@@ -236,12 +237,12 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Diet plays a crucial role in diabetes management because different foods affect blood sugar levels differently. Understanding the <strong>glycemic index (GI)</strong> of foods is essential - high GI foods cause rapid blood sugar spikes, while low GI foods provide steady, gradual energy release. Our <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">endocrinology specialists</a> at RAJ Hospital can help you create a personalized diabetes management plan.
+                    Diet plays a crucial role in diabetes management because different foods affect blood sugar levels differently. Understanding the <strong>glycemic index (GI)</strong> of foods is essential - high GI foods cause rapid blood sugar spikes, while low GI foods provide steady, gradual energy release. Our <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">doctors</a> at RAJ Hospital can help you create a personalized diabetes management plan.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Fact:</strong>
-                    <span class="text-gray-700"> According to the International Diabetes Federation, India has over 77 million people living with diabetes, making it the second most affected country in the world. Proper diet and lifestyle can prevent or delay diabetes complications.</span>
+                    <span class="text-gray-700"> According to the ICMR-INDIAB study (2023), more than 10 crore (about 101 million) people in India are living with diabetes. Proper diet and lifestyle can prevent or delay diabetes complications.</span>
                 </div>
 
                 <!-- Section 2: Understanding GI -->
@@ -254,7 +255,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-green-600">Low GI (55 or less)</div>
-                        <div class="text-sm text-gray-600 mt-2">Best for diabetes - causes gradual sugar release</div>
+                        <div class="text-sm text-gray-600 mt-2">Preferred for diabetes - causes gradual sugar release</div>
                     </div>
                     <div class="bg-yellow-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-yellow-600">Medium GI (56-69)</div>
@@ -274,7 +275,7 @@
                     </div>
                     <div class="flex justify-between items-center bg-gray-50 p-3 rounded-lg">
                         <span class="text-gray-700">Brown rice</span>
-                        <span class="font-bold text-green-600">Low GI (~68)</span>
+                        <span class="font-bold text-green-600">Medium GI (~68)</span>
                     </div>
                     <div class="flex justify-between items-center bg-gray-50 p-3 rounded-lg">
                         <span class="text-gray-700">White rice</span>
@@ -291,7 +292,7 @@
                 </div>
 
                 <!-- Section 3: Foods to Include -->
-                <h2 class="raj-h2">Best Indian Foods for Diabetes Patients</h2>
+                <h2 class="raj-h2">Helpful Indian Foods for Diabetes Patients</h2>
 
                 <p class="text-gray-700 mb-4">
                     The Indian kitchen is filled with <strong>diabetes-friendly foods</strong> that are not only nutritious but also delicious. Here are the foods you should include in your daily diet:
@@ -301,7 +302,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Moong Dal (Green Gram)</h4>
-                        <p class="text-sm text-gray-600">One of the best dals for diabetics - high in protein and fiber, low GI. Can be eaten as dal or sprouted for better nutrition.</p>
+                        <p class="text-sm text-gray-600">A good dal choice for diabetics - high in protein and fiber, low GI. Can be eaten as dal or sprouted for better nutrition.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Chana Dal (Bengal Gram)</h4>
@@ -317,7 +318,7 @@
                     </div>
                 </div>
 
-                <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">2. Vegetables (Best Choices)</h3>
+                <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">2. Vegetables (Good Choices)</h3>
                 <p class="text-gray-700 mb-4">
                     Non-starchy vegetables should form a large part of your <strong>diabetes diet plan</strong>. Include:
                 </p>
@@ -325,11 +326,11 @@
                     <li><strong>Leafy greens</strong> - Spinach (palak), fenugreek (methi), mustard greens (sarson)</li>
                     <li><strong>Bitter vegetables</strong> - Bitter gourd (karela), bottle gourd (lauki), ridge gourd (torai)</li>
                     <li><strong> Cruciferous vegetables</strong> - Cauliflower, broccoli, cabbage</li>
-                    <li><strong>Okra (bhindi)</strong> - Known for blood sugar lowering properties</li>
+                    <li><strong>Okra (bhindi)</strong> - High in fibre, which helps slow sugar absorption</li>
                     <li><strong>Tomatoes, cucumbers, carrots</strong> - Low-calorie options</li>
                 </ul>
 
-                <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">3. Diabetes-Fighting Spices</h3>
+                <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">3. Spices That May Support Blood Sugar Control</h3>
                 <p class="text-gray-700 mb-4">
                     Indian spices do more than add flavor - many have <strong>anti-diabetic properties</strong>:
                 </p>
@@ -357,7 +358,7 @@
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Sugary Foods</h4>
-                        <p class="text-sm text-gray-600">Sweets, candies, pastries, ice cream, sugary drinks (lassi, nimbu pani with sugar), and desserts. Use natural sweeteners in moderation if needed.</p>
+                        <p class="text-sm text-gray-600">Sweets, candies, pastries, ice cream, sugary drinks (lassi, nimbu pani with sugar), and desserts. Honey, jaggery and other 'natural' sweeteners also raise blood sugar; if needed, use a non-nutritive sweetener in moderation as advised by your doctor.</p>
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-700">Fried Foods</h4>
@@ -370,7 +371,7 @@
                 </div>
 
                 <!-- Section 5: Sample Diet Plan -->
-                <h2 class="raj-h2">Sample Indian Diet Plan for Diabetes (2000 Calories)</h2>
+                <h2 class="raj-h2">Sample Indian Diet Plan for Diabetes (Example only – calories and portions to be set by your doctor/dietitian)</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Early Morning (6:00-7:00 AM)</h3>
                 <div class="bg-gray-50 p-4 rounded-lg mb-6">
@@ -459,7 +460,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Spice Benefits</h4>
-                        <p class="text-sm text-gray-600">Turmeric, cinnamon, and fenugreek have proven anti-diabetic properties that enhance the diet's effectiveness.</p>
+                        <p class="text-sm text-gray-600">Turmeric, cinnamon and fenugreek may have small effects on blood sugar in some studies, but the evidence is limited and they cannot replace diabetes medicines.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Cultural Compatibility</h4>
@@ -481,14 +482,14 @@
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Stress Management:</strong> Practice meditation or deep breathing - stress hormones affect blood sugar</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quality Sleep:</strong> 7-8 hours of sleep helps regulate hormones</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Monitoring:</strong> Check blood sugar levels as recommended by your doctor</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Moringa Supplement:</strong> Consider adding <a href="/blog/best-ways-to-take-moringa-for-managing-diabetes/" class="text-secondary-600 hover:underline">moringa to your routine</a></li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Moringa Supplement:</strong> Ask your doctor before adding <a href="/blog/best-ways-to-take-moringa-for-managing-diabetes/" class="text-secondary-600 hover:underline">moringa to your routine</a></li>
                     </ul>
                 </div>
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need Personalized Diabetes Care?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers comprehensive diabetes management with expert endocrinologists and dietitians.</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers diabetes care with physicians and dietitians.</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -519,9 +520,9 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Best Indian Diet Plan for Diabetes Patients पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Diabetes patients के लिए best Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।</p>
-                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Best Indian Diet Plan for Diabetes Patients शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Indian Diet Plan for Diabetes Patients पर ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Diabetes patients के लिए Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।</p>
+                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Indian Diet Plan for Diabetes Patients शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
@@ -533,7 +534,7 @@
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/diabetes-mein-kya-khaye-aur-kya-na-khaye/" class="text-secondary-600 hover:underline font-semibold">डायबिटीज में क्या खाएं और क्या नहीं — डाइट गाइड (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/specialties/nutrition-and-dietetics" class="text-secondary-600 hover:underline font-semibold">Ranchi में आहार और पोषण विशेषज्ञ — RAJ Hospital Nutrition & Dietetics (Ranchi)</a></li>
-                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Ways to Take Moringa for Managing Diabetes</a></li>
+                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Moringa and Diabetes: What to Know</a></li>
                         <li><a href="/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार</a></li>
                         <li><a href="/blog/diabetes-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Symptoms in Men - Warning Signs Every Man Should Know</a></li>
                         <li><a href="/blog/immunity-kaise-badhaye.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Immunity Kaise Badhaye - Immunity Boost करने के तरीके</a></li>
@@ -547,12 +548,12 @@
                     <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">Best Indian Diet Plan for Diabetes Patients में डॉक्टर को कब दिखाना चाहिए?</h3>
+                        <h3 class="font-bold text-gray-800 mb-2">Indian Diet Plan for Diabetes Patients में डॉक्टर को कब दिखाना चाहिए?</h3>
                         <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">क्या Best Indian Diet Plan for Diabetes Patients दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Ways to Take Moringa for Managing Diabetes जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <h3 class="font-bold text-gray-800 mb-2">क्या Indian Diet Plan for Diabetes Patients दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Moringa and Diabetes: What to Know जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>
@@ -564,7 +565,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -573,8 +574,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Endocrinologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

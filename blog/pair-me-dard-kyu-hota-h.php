@@ -53,7 +53,7 @@
             "name": "क्या पैर में दर्द क्यों होता है? - सभी कारण और समाधान दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Indian Diet Plan for Diabetes Patients जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "पैर में दर्द क्यों होता है? - सभी कारण और समाधान | RAJ Hospital Ranchi",
-        "description": "पैर में दर्द क्यों होता है? जानें सभी medical causes - <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, nerve damage, poor circulation से लेकर lifestyle factors तक। proper treatment।",
+        "description": "पैर में दर्द क्यों होता है? जानें सभी medical causes - diabetes, nerve damage, poor circulation से लेकर lifestyle factors तक। proper treatment।",
         "url": "https://rajhospitals.com/blog/pair-me-dard-kyu-hota-h/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pair-me-dard-kyu-hota-h.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -213,6 +213,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Orthopedics & General</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">पैर में दर्द क्यों होता है? - सभी कारण और समाधान</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -297,7 +298,7 @@
                 <h2 class="raj-h2">कब यह गंभीर हो सकता है?</h2>
 
                 <div class="raj-callout raj-callout-danger">
-                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> इन लक्षणों पर ध्यान दें:</strong>
+                    <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> इन लक्षणों पर तुरंत डॉक्टर को दिखाएं (एक पैर की पिंडली में अचानक दर्द-सूजन हो, या पैर ठंडा, फीका/नीला पड़ जाए तो तुरंत emergency जाएं):</strong>
                     <ul class="list-disc list-inside space-y-1 text-gray-700 mt-2">
                         <li>पैर में सुन्नपन जो जा नहीं रहा</li>
                         <li>घाव जो भर नहीं रहे</li>
@@ -345,7 +346,7 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>दवाइयाँ:</strong> Pain killers, anti-inflammatories, gout की दवाइयाँ</li>
+                    <li><strong>दवाइयाँ:</strong> Pain killers, anti-inflammatories, gout की दवाइयाँ (केवल डॉक्टर की सलाह से)</li>
                     <li><strong>Physical therapy:</strong> Exercises और stretches</li>
                     <li><strong>Orthotics:</strong> Custom insoles जो support करें</li>
                     <li><strong>Surgery:</strong> गंभीर cases में (bunion, heel spur)</li>
@@ -375,7 +376,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">पैर में दर्द क्यों होता है? - सभी कारण और समाधान पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">पैर में दर्द क्यों होता है? - कारण और समाधान: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">पैर में दर्द क्यों होता है? जानें सभी medical causes - <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, nerve damage, poor circulation से लेकर lifestyle factors तक। proper treatment।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। पैर में दर्द क्यों होता है? - सभी कारण और समाधान शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -387,8 +388,8 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients</a></li>
-                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Ways to Take Moringa for Managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></a></li>
+                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients</a></li>
+                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Moringa और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></a></li>
                         <li><a href="/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार</a></li>
                         <li><a href="/blog/diabetes-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Symptoms in Men - Warning Signs Every Man Should Know</a></li>
                         <li><a href="/blog/immunity-kaise-badhaye.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Immunity Kaise Badhaye - Immunity Boost करने के तरीके</a></li>
@@ -406,7 +407,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या पैर में दर्द क्यों होता है? - सभी कारण और समाधान दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Indian Diet Plan for Diabetes Patients जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Indian Diet Plan for Diabetes Patients जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>
@@ -418,7 +419,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -427,8 +428,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Orthopedic</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

@@ -53,7 +53,7 @@
             "name": "क्या नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Maternity Hospital in Ranchi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -213,6 +213,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Pediatrics & Mother Care</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -247,7 +248,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Eye Drops</h4>
-                        <p class="text-sm text-gray-600">चेमोथेरेपी (erythromycin) eye drops जो infection से बचाते हैं।</p>
+                        <p class="text-sm text-gray-600">Antibiotic (जैसे erythromycin) eye ointment/drops, जो कुछ अस्पतालों में आंखों के infection से बचाव के लिए दिए जाते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Newborn Screening Test</h4>
@@ -259,7 +260,7 @@
                 <h2 class="raj-h2">स्तनपान (Breastfeeding) कैसे करवाएं</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>स्तनपान</strong> नवजात के लिए सबसे अच्छा आहार है। पहली बार breastfeeding generally जन्म के 1-2 घंटे के भीतर शुरू होनी चाहिए।
+                    <strong>स्तनपान</strong> नवजात के लिए आदर्श आहार है। पहली बार breastfeeding जन्म के पहले 1 घंटे के भीतर शुरू होनी चाहिए।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -274,7 +275,7 @@
                             <li>बच्चे का पूरा body आपकी तरफ</li>
                             <li>मुंह निपल (nipple) के सामने</li>
                             <li>निपल होंठ के ऊपर नीचे</li>
-                            <li>Baby's chin निपल को छू रहा हो</li>
+                            <li>Baby की ठुड्डी (chin) स्तन को छू रही हो और मुंह पूरा खुला हो, ताकि निपल के साथ areola का ज़्यादातर हिस्सा मुंह में हो</li>
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -319,7 +320,7 @@
                 <h2 class="raj-h2">नहाना कैसे कराएं</h2>
 
                 <p class="text-gray-700 mb-4">
-                    पहले दिन अस्पताल में staff bathing कराता है। घर आने के बाद <strong>Sponge Bath</strong> दें जब तक cord न गिर जाए।
+                    WHO के अनुसार पहला स्नान जन्म के कम से कम 24 घंटे बाद कराना चाहिए। घर आने के बाद <strong>Sponge Bath</strong> दें जब तक cord न गिर जाए।
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
@@ -353,8 +354,8 @@
                         <ul class="list-disc list-inside text-sm text-gray-600 mt-2 space-y-1">
                             <li>बच्चे को पीठ के बल सुलाएं (Back to Sleep)</li>
                             <li>सख्त mattress पर</li>
-                            <li>तकिये, गद्दे, stuffed animals न हों</li>
-                            <li>अपने बिस्तर पर nearby but separate</li>
+                            <li>तकिये, मोटे कंबल/रज़ाई, stuffed animals न हों</li>
+                            <li>माता-पिता के कमरे में, पर अलग पालने/बिस्तर पर (room-sharing, bed-sharing नहीं)</li>
                         </ul>
                     </div>
                 </div>
@@ -404,7 +405,7 @@
                     <li><strong>आराम करें:</strong> शरीर को recover होने में 6 weeks लगते हैं।</li>
                     <li><strong>पर्याप्त पानी पिएं:</strong> breastfeeding के लिए hydration जरूरी।</li>
                     <li><strong>पौष्टिक खाना खाएं:</strong> protein, iron, calcium युक्त आहार।</li>
-                    <li><strong>Emotionally support:</strong> baby blues (mood changes) normal है। अगर severe हो तो doctor consult करें।</li>
+                    <li><strong>Emotionally support:</strong> baby blues (mood changes) पहले 2 हफ्तों में normal है। अगर उदासी 2 हफ्ते से ज़्यादा रहे, बहुत ज़्यादा हो, या खुद को या बच्चे को नुकसान पहुंचाने के विचार आएं, तो तुरंत doctor से मिलें या Tele-MANAS helpline 14416 पर संपर्क करें।</li>
                 </ul>
 
                 <!-- CTA Box -->
@@ -424,7 +425,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">बच्चा कितना weight gain करेगा?</h4>
-                        <p class="text-gray-700">पहले सप्ताह में birth weight का 5-7% कम होना normal है। उसके बाद प्रतिदिन 20-30g weight gain होना चाहिए।</p>
+                        <p class="text-gray-700">पहले सप्ताह में birth weight का 7-10% तक कम होना normal है, और 10-14 दिनों में बच्चा birth weight वापस पा लेता है। उसके बाद प्रतिदिन 20-30g weight gain होना चाहिए।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">कब bath करानी शुरू करें?</h4>
@@ -437,7 +438,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">नवजात शिशु की देखभाल कैसे करें, पहले दिन से ही। Breastfeeding, bathing, sleeping की proper technique। Newborn care tips in Hindi।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -449,7 +450,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi</a></li>
+                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi</a></li>
                         <li><a href="/blog/breast-cancer-news.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates &amp; Treatment</a></li>
                         <li><a href="/blog/breast-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण</a></li>
                         <li><a href="/blog/pair-me-sujan.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: प्रेग्नेंसी में पैर में सूजन</a></li>
@@ -468,7 +469,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>
@@ -480,7 +481,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -489,8 +490,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Pediatrician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

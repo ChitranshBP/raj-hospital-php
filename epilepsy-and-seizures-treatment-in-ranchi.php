@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Epilepsy & Seizures Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Epilepsy & Seizures Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Get the best Epilepsy and Seizures treatment in Ranchi at Raj Hospital. Advanced EEG diagnostics, tailored anti-epileptic medications, and expert neurologists." />
-    <meta name="keywords" content="epilepsy treatment in Ranchi, seizures treatment Ranchi, best doctor for fits in Ranchi, epilepsy specialist Ranchi, Raj Hospital neurology" />
+    <meta name="description" content="Epilepsy and Seizures treatment in Ranchi at Raj Hospital: EEG testing, individually adjusted anti-epileptic medication and neurology follow-up." />
+    <meta name="keywords" content="epilepsy treatment in Ranchi, seizures treatment Ranchi, doctor for fits in Ranchi, epilepsy specialist Ranchi, Raj Hospital neurology" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/epilepsy-and-seizures-treatment-in-ranchi" />
@@ -80,7 +80,7 @@
           "name": "What should I do if someone has a seizure?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Keep them safe from injury by moving hard objects away, place them on their side to keep the airway clear, time the seizure, and do not put anything in their mouth."
+            "text": "Keep them safe from injury by moving hard objects away, place them on their side to keep the airway clear, time the seizure, and do not put anything in their mouth. Call 108 or emergency services if the seizure lasts more than 5 minutes, another seizure follows, it is a first seizure, the person is injured or pregnant, has trouble breathing, or does not wake up normally afterwards."
           }
         },
         {
@@ -96,7 +96,7 @@
           "name": "Is epilepsy genetically inherited?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Most epilepsy cases have no identifiable cause. However, certain types do have definitive genetic links where an individual inherits a mildly higher seizure threshold susceptibility."
+            "text": "Most epilepsy cases have no identifiable cause. However, certain types do have definitive genetic links where a person may inherit a lower seizure threshold, i.e. a greater tendency to have seizures."
           }
         },
         {
@@ -104,7 +104,7 @@
           "name": "Can I drive if I have epilepsy?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Driving laws restrict individuals actively experiencing seizures. Generally, you must be certified seizure-free for a predefined specific period (typically 6 to 12 months)."
+            "text": "Driving rules for people with epilepsy differ between countries. In India, epilepsy must be declared when applying for a driving licence and can affect eligibility. Do not drive until your neurologist advises it is safe and you meet the legal requirements."
           }
         }
 
@@ -177,8 +177,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Epilepsy & Seizures Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Epilepsy & Seizures Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -194,7 +194,7 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Epilepsy & Seizures Treatment in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Epilepsy is a central nervous system disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior, sensations, and sometimes loss of awareness. At Raj Hospital, we offer world-class <strong>epilepsy treatment in Ranchi</strong> with advanced diagnostic monitoring and personalized medication regimens to help patients live seizure-free lives.
+                            Epilepsy is a central nervous system disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior, sensations, and sometimes loss of awareness. At Raj Hospital, we offer <strong>epilepsy treatment in Ranchi</strong> with diagnostic tests such as EEG and individually adjusted medication, aiming to control seizures as fully as possible.
                         </p>
                     </div>
 
@@ -232,7 +232,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -299,6 +299,10 @@
                                 <input type="email" name="email" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all" placeholder="Email Address">
                             </div>
                             <input type="hidden" name="specialty" value="Epilepsy & Seizures Treatment Inquiry">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200">
                                 Request Callback
                             </button>
@@ -316,8 +320,8 @@
                             </div>
                             <div class="p-5">
                                 <h3 class="text-lg font-bold text-gray-900 mb-1">Dr. Vivek Raj</h3>
-                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, MCh</p>
-                                <p class="text-secondary-600 text-sm mb-3">Neurology & Neurosurgery</p>
+                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, DNB</p>
+                                <p class="text-secondary-600 text-sm mb-3">Neurosurgery (Brain & Spine)</p>
                                 <a href="doctors/vivek-raj.php" class="block text-center w-full bg-primary-50 text-primary-600 py-2 rounded-lg border border-primary-200 hover:bg-primary-500 hover:text-white transition-colors font-medium text-sm">
                                     View Profile
                                 </a>
@@ -358,7 +362,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Keep them safe from injury by moving hard objects away, place them on their side to keep the airway clear, time the seizure, and do not put anything in their mouth.</p>
+                                <p>Keep them safe from injury by moving hard objects away, place them on their side to keep the airway clear, time the seizure, and do not put anything in their mouth. Call 108 or emergency services if the seizure lasts more than 5 minutes, another seizure follows, it is a first seizure, the person is injured or pregnant, has trouble breathing, or does not wake up normally afterwards.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -376,7 +380,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Most epilepsy cases have no identifiable cause. However, certain types do have definitive genetic links where an individual inherits a mildly higher seizure threshold susceptibility.</p>
+                                <p>Most epilepsy cases have no identifiable cause. However, certain types do have definitive genetic links where a person may inherit a lower seizure threshold, i.e. a greater tendency to have seizures.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -385,7 +389,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Driving laws restrict individuals actively experiencing seizures. Generally, you must be certified seizure-free for a predefined specific period (typically 6 to 12 months).</p>
+                                <p>Driving rules for people with epilepsy differ between countries. In India, epilepsy must be declared when applying for a driving licence and can affect eligibility. Do not drive until your neurologist advises it is safe and you meet the legal requirements.</p>
                             </div>
                         </div>
 
@@ -442,6 +446,10 @@
                             <input type="hidden" name="specialty" value="Epilepsy & Seizures Specialist Inquiry">
 
                             <!-- Submit Box -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-[#f97316] hover:bg-[#ea580c] text-white px-6 py-3.5 rounded-lg font-bold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-4 h-4"></i>

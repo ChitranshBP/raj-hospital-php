@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi - RAJ Hospital</title>
+    <title>खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital</title>
     <meta name="description" content="खाद्य विषाक्तता के लक्षण (Food Poisoning Symptoms in Hindi) जानें। उल्टी, दस्त, पेट दर्द के कारण, लक्षण, और घरेलू उपाय। RAJ Hospital Ranchi में विशेषज्ञ उपचार।">
     <meta name="keywords" content="खाद्य विषाक्तता के लक्षण, food poisoning symptoms in hindi, food poisoning Hindi, खाना विषाक्त, food infection in Hindi, उल्टी दस्त के लक्षण">
     <meta name="robots" content="index, follow">
@@ -38,7 +38,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi",
+        "headline": "खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi",
         "description": "खाद्य विषाक्तता के लक्षण, कारण, और घरेलू उपाय - Complete Hindi Guide",
         "author": {
             "@type": "Organization",
@@ -118,7 +118,7 @@
                 "name": "खाद्य विषाक्तता में क्या खाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "खाद्य विषाक्तता में हल्का और आसानी से पचने वाला खाना खाएं। ORS घोल, चावल की खिचड़ी, बिस्कुट, केला, और सादा दाल का जो सबसे अच्छा है। मसालेदार और तेल वाला खाना नहीं खाना चाहिए।"
+                    "text": "खाद्य विषाक्तता में हल्का और आसानी से पचने वाला खाना खाएं। ORS घोल, चावल की खिचड़ी, बिस्कुट, केला, और सादा दाल का पानी अच्छे विकल्प हैं। मसालेदार और तेल वाला खाना नहीं खाना चाहिए।"
                 }
             },
             {
@@ -126,7 +126,7 @@
                 "name": "खाद्य विषाक्तता से कब डॉक्टर से मिलना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "अगर खूनी दस्त, तेज बुखार (101°F से ज्यादा), 3 दिन से ज्यादा लगातार उल्टी या दस्त, या डिहाइड्रेशन के लक्षण हों, तो तुरंत डॉक्टर से मिलें। बच्चों और बुजुर्गों को जल्दी दिखाना चाहिए।"
+                    "text": "अगर खूनी दस्त, तेज बुखार (101°F से ज्यादा), 24 घंटे से ज्यादा लगातार उल्टी, 2-3 दिन से ज्यादा दस्त, या डिहाइड्रेशन के लक्षण हों, तो तुरंत डॉक्टर से मिलें। बच्चों और बुजुर्गों को जल्दी दिखाना चाहिए।"
                 }
             },
             {
@@ -164,7 +164,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi - RAJ Hospital में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -199,7 +199,7 @@
             "name": "पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -254,6 +254,7 @@
             <div class="p-6 md:p-10 border-b-4 border-medical-500">
                 <span class="inline-block bg-medical-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Gastroenterology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -267,7 +268,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस blog post में हम <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">food poisoning</a> symptoms in Hindi</strong> के बारे में detail से जानेंगे - इनके कारण, लक्षण, treatment options, और <a href="/contact.php" class="text-medical-600 hover:underline font-semibold">घरेलू उपाय</a>। RAJ Hospital Ranchi में हमारी expert medical team इस समस्या में मदद के लिए हमेशा तैयार है।
+                    इस blog post में हम <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">food poisoning</a> symptoms in Hindi</strong> के बारे में detail से जानेंगे - इनके कारण, लक्षण, treatment options, और <a href="/contact.php" class="text-medical-600 hover:underline font-semibold">घरेलू उपाय</a>। RAJ Hospital Ranchi में इस समस्या की जांच और इलाज उपलब्ध है।
                 </p>
 
                 <!-- Section 1: What is Food Poisoning -->
@@ -393,7 +394,7 @@
                     <li><strong>आराम करें</strong> - शरीर को ठीक होने के लिए पर्याप्त आराम दें</li>
                     <li><strong>हल्का खाना खाएं</strong> - चावल की खिचड़ी, बिस्कुट, और केला खाएं</li>
                     <li><strong>पानी पिएं</strong> - छोटे-छोटे घूंट में पानी पिएं</li>
-                    <li><strong>इलेक्ट्रोलाइट पेय</strong> - नारियल पानी या sports drinks electrolytes के लिए अच्छे हैं</li>
+                    <li><strong>इलेक्ट्रोलाइट पेय</strong> - Dehydration में ORS पहला विकल्प है; नारियल पानी थोड़ी मदद कर सकता है, पर sports drinks ORS का विकल्प नहीं हैं</li>
                     <li><strong>अदरक की चाय</strong> - अदरक मतली और उल्टी कम करने में मदद करता है</li>
                 </ul>
 
@@ -495,11 +496,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-medical-600 mb-2">खाद्य विषाक्तता में क्या खाना चाहिए?</h4>
-                        <p class="text-gray-700">खाद्य विषाक्तता में <strong>हल्का और आसानी से पचने वाला खाना</strong> खाएं। ORS घोल, चावल की खिचड़ी, बिस्कुट, केला, और सादा दाल का जो सबसे अच्छा है। मसालेदार और तेल वाला खाना, डेयरी प्रोडक्ट्स, और कैफीन से बचें।</p>
+                        <p class="text-gray-700">खाद्य विषाक्तता में <strong>हल्का और आसानी से पचने वाला खाना</strong> खाएं। ORS घोल, चावल की खिचड़ी, बिस्कुट, केला, और सादा दाल का पानी अच्छे विकल्प हैं। मसालेदार और तेल वाला खाना, डेयरी प्रोडक्ट्स, और कैफीन से बचें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-medical-600 mb-2">खाद्य विषाक्तता से कब डॉक्टर से मिलना चाहिए?</h4>
-                        <p class="text-gray-700">अगर <strong>खूनी दस्त, तेज बुखार (101°F से ज्यादा), 3 दिन से ज्यादा लगातार उल्टी या दस्त, या डिहाइड्रेशन</strong> के लक्षण हों, तो तुरंत <a href="/doctor-profile.php" class="text-medical-600 hover:underline">डॉक्टर से मिलें</a>। बच्चों और बुजुर्गों को जल्दी दिखाना चाहिए क्योंकि उनमें जटिलताएं ज्यादा हो सकती हैं।</p>
+                        <p class="text-gray-700">अगर <strong>खूनी दस्त, तेज बुखार (101°F से ज्यादा), 24 घंटे से ज्यादा लगातार उल्टी, 2-3 दिन से ज्यादा दस्त, या डिहाइड्रेशन</strong> के लक्षण हों, तो तुरंत <a href="/doctor-profile.php" class="text-medical-600 hover:underline">डॉक्टर से मिलें</a>। बच्चों और बुजुर्गों को जल्दी दिखाना चाहिए क्योंकि उनमें जटिलताएं ज्यादा हो सकती हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-medical-600 mb-2">खाद्य विषाक्तता में क्या पीना चाहिए?</h4>
@@ -516,7 +517,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">खाद्य विषाक्तता के लक्षण (Food Poisoning Symptoms in Hindi) जानें। उल्टी, दस्त, पेट दर्द के कारण, लक्षण, और घरेलू उपाय। RAJ Hospital Ranchi में विशेषज्ञ उपचार।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में पाचन और सामान्य स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -559,7 +560,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -568,8 +569,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-medical-500 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gastroenterologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

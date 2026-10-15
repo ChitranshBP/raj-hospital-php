@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Brain Tumor Treatment in Ranchi | Top Neurosurgeons | Raj Hospital</title>
+    <title>Brain Tumor Treatment in Ranchi | Neurosurgery | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Looking for the best brain tumor treatment in Ranchi? Raj Hospital offers advanced brain tumor surgery, awake craniotomy, and comprehensive neuro-oncology care by expert neurosurgeons." />
-    <meta name="keywords" content="brain tumor treatment in Ranchi, brain tumor surgery in Ranchi, best neurosurgeon for brain tumor in Ranchi, neurosurgery hospital in Ranchi, Raj Hospital Ranchi brain tumor, awake craniotomy Ranchi, neuro-oncology Ranchi" />
+    <meta name="description" content="Looking for brain tumor treatment in Ranchi? Raj Hospital offers advanced brain tumor surgery, awake craniotomy, and comprehensive neuro-oncology care by our neurosurgery team." />
+    <meta name="keywords" content="brain tumor treatment in Ranchi, brain tumor surgery in Ranchi, neurosurgeon for brain tumor in Ranchi, neurosurgery hospital in Ranchi, Raj Hospital Ranchi brain tumor, awake craniotomy Ranchi, neuro-oncology Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/brain-tumor-treatment-in-ranchi" />
@@ -40,7 +40,7 @@
         },
         {
           "@type": "MedicalProcedure",
-          "name": "Chemotherapy and Radiology"
+          "name": "Chemotherapy and Radiation Therapy"
         }
       ],
       "hospitalAffiliation": {
@@ -64,10 +64,10 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Which is the best hospital for brain tumor treatment in Ranchi?",
+          "name": "Where can I get brain tumor treatment in Ranchi?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Raj Hospital is recognized as one of the best hospitals for brain tumor treatment in Ranchi, offering advanced surgical facilities, experienced neurosurgeons, and comprehensive neuro-oncology care."
+            "text": "Raj Hospital, Ranchi offers evaluation and neurosurgical treatment for brain tumors, with coordination of further oncology care where needed."
           }
         },
         {
@@ -75,7 +75,7 @@
           "name": "Is brain tumor surgery safe?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "With advanced technologies such as navigation-guided surgery and awake craniotomy available at Raj Hospital, brain tumor surgeries have become highly safe with minimal risks and faster recovery times."
+            "text": "All brain surgery carries risks, which depend on the tumor's type, size and location and on the patient's overall health. Techniques such as image guidance and, in selected cases, awake craniotomy can help reduce risk to important brain areas. Your neurosurgeon will explain the specific risks and benefits before surgery."
           }
         },
         {
@@ -91,7 +91,7 @@
           "name": "What is the survival rate for brain tumor surgery in Ranchi?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The survival and recovery rate depends significantly on whether the tumor is benign or malignant. With early diagnosis and the advanced microsurgical techniques available at Raj Hospital, benign tumors often have excellent long-term outcomes and high success rates."
+            "text": "The survival and recovery rate depends significantly on whether the tumor is benign or malignant. Outcomes depend mainly on the tumor's type, grade and location and on how completely it can be removed. Many benign tumors have good long-term outcomes after treatment, while malignant tumors usually need further therapy; your treating team can explain what to expect in your case."
           }
         },
         {
@@ -99,7 +99,7 @@
           "name": "How long does it take to recover from a brain tumor surgery?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Most patients stay in the hospital for 3 to 7 days post-surgery. Full recovery can take a few weeks to a couple of months. Our multidisciplinary rehabilitation team ensures you regain strength and function as quickly as possible."
+            "text": "Most patients stay in the hospital for 3 to 7 days post-surgery. Full recovery can take a few weeks to a couple of months. Our rehabilitation team works with you to help regain strength and function after surgery."
           }
         }
       ]
@@ -199,8 +199,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Brain Tumor Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurosurgery, awake craniotomy, and comprehensive neuro-oncology care by leading neuro specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Brain Tumor Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurosurgery, awake craniotomy where suitable, and coordinated brain tumor care at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -216,10 +216,10 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Brain Tumor Surgery in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            A brain tumor occurs when abnormal cells grow and multiply uncontrolled within the brain. At Raj Hospital, we offer the <strong>best brain tumor treatment in Ranchi</strong>, leveraging modern neurosurgical techniques and multidisciplinary oncology strategies to successfully manage both benign (non-cancerous) and malignant (cancerous) brain tumors.
+                            A brain tumor occurs when abnormal cells grow and multiply uncontrolled within the brain. At Raj Hospital, we offer the <strong>brain tumor treatment in Ranchi</strong>, leveraging modern neurosurgical techniques and multidisciplinary oncology strategies to treat both benign (non-cancerous) and malignant (cancerous) brain tumors.
                         </p>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Our department is equipped with cutting-edge imaging technologies and operating theaters designed specifically for complex neurosurgeries, making Raj Hospital the top destination for <strong>neurosurgery for brain tumors in Ranchi.</strong>
+                            Our department has imaging facilities and operating theatres equipped for neurosurgery, providing <strong>neurosurgery for brain tumors in Ranchi.</strong>
                         </p>
                     </div>
 
@@ -264,7 +264,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing brain tumors using mapping and advanced neuroimaging.
+                            Accurate diagnosis is crucial. Diagnosis is based on detailed brain imaging and, when needed, a tissue biopsy.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -293,11 +293,11 @@
                         <div class="grid sm:grid-cols-2 gap-6">
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Neurosurgery</h4>
-                                <p class="text-gray-600">If the tumor is located in an accessible place, our expert neurosurgeons will work to safely remove as much of it as possible without compromising crucial neurological functions.</p>
+                                <p class="text-gray-600">If the tumor is in an accessible location, our neurosurgeons aim to remove as much of it as can be done safely while trying to protect important neurological functions.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Awake Craniotomy</h4>
-                                <p class="text-gray-600">State-of-the-art procedure where the patient is awake during surgery to map brain function continuously, ensuring vision, speech, and movement are protected.</p>
+                                <p class="text-gray-600">Used for selected tumors near speech or movement areas: the patient is awake for part of the operation so brain function can be checked, helping reduce the risk to speech and movement.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Radiation Therapy</h4>
@@ -329,6 +329,10 @@
                                 <input type="email" name="email" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all" placeholder="Email Address">
                             </div>
                             <input type="hidden" name="specialty" value="Brain Tumor Treatment">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200">
                                 Request Callback
                             </button>
@@ -346,8 +350,8 @@
                             </div>
                             <div class="p-5">
                                 <h3 class="text-lg font-bold text-gray-900 mb-1">Dr. Vivek Raj</h3>
-                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, MCh</p>
-                                <p class="text-secondary-600 text-sm mb-3">Neurology & Neurosurgery</p>
+                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, DNB</p>
+                                <p class="text-secondary-600 text-sm mb-3">Neurosurgery (Brain & Spine)</p>
                                 <a href="doctors/vivek-raj.php" class="block text-center w-full bg-primary-50 text-primary-600 py-2 rounded-lg border border-primary-200 hover:bg-primary-500 hover:text-white transition-colors font-medium text-sm">
                                     View Profile
                                 </a>
@@ -377,11 +381,11 @@
                         <!-- FAQ 1 -->
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Which is the best hospital for brain tumor treatment in Ranchi?</h3>
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Where can I get brain tumor treatment in Ranchi?</h3>
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Raj Hospital is widely recognized as providing the best brain tumor treatment in Ranchi, equipped with highly trained neurosurgeons, modern imaging tech, and excellent post-operative critical care units.</p>
+                                <p>Raj Hospital, Ranchi offers evaluation and neurosurgical treatment for brain tumors, with coordination of further oncology care where needed.</p>
                             </div>
                         </div>
 
@@ -392,7 +396,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>With advanced technologies such as navigation-guided surgery, endoscopic assistance, and awake craniotomy available at Raj Hospital, neurosurgery for brain tumors in Ranchi has become highly safe, prioritizing minimal risks and faster recovery times.</p>
+                                <p>All brain surgery carries risks, which depend on the tumor's type, size and location and on the patient's overall health. Techniques such as image guidance and, in selected cases, awake craniotomy can help reduce risk to important brain areas. Your neurosurgeon will explain the specific risks and benefits before surgery.</p>
                             </div>
                         </div>
 
@@ -414,7 +418,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>The survival and recovery rate depends significantly on whether the tumor is benign or malignant. With early diagnosis and the advanced microsurgical techniques available at Raj Hospital, benign tumors often have excellent long-term outcomes and high success rates.</p>
+                                <p>The survival and recovery rate depends significantly on whether the tumor is benign or malignant. Outcomes depend mainly on the tumor's type, grade and location and on how completely it can be removed. Many benign tumors have good long-term outcomes after treatment, while malignant tumors usually need further therapy; your treating team can explain what to expect in your case.</p>
                             </div>
                         </div>
 
@@ -425,7 +429,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Most patients stay in the hospital for 3 to 7 days post-surgery. Full recovery can take a few weeks to a couple of months. Our multidisciplinary rehabilitation team ensures you regain strength and function as quickly as possible.</p>
+                                <p>Most patients stay in the hospital for 3 to 7 days post-surgery. Full recovery can take a few weeks to a couple of months. Our rehabilitation team works with you to help regain strength and function after surgery.</p>
                             </div>
                         </div>
                     </div>
@@ -435,7 +439,7 @@
                 <div class="lg:sticky lg:top-24 h-fit">
                     <div class="rounded-xl p-6 sm:p-8" style="background-color: #fbfbf9; border: 1px solid #f5f5f5;">
                         <h3 class="text-2xl font-bold text-gray-900 mb-2">Have More Questions?</h3>
-                        <p class="text-gray-600 mb-6 font-medium">Get in touch with our Aesthetic & Reconstructive Surgery specialists</p>
+                        <p class="text-gray-600 mb-6 font-medium">Get in touch with our Brain Tumor specialists</p>
 
                         <form accept-charset="UTF-8" action="https://app.formester.com/forms/kIewn1CO8/submissions" method="POST" class="space-y-4">
                             <!-- Name -->
@@ -481,6 +485,10 @@
                             <input type="hidden" name="specialty" value="Aesthetic & Reconstructive Surgery">
 
                             <!-- Submit Box -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-[#f97316] hover:bg-[#ea580c] text-white px-6 py-3.5 rounded-lg font-bold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-4 h-4"></i>

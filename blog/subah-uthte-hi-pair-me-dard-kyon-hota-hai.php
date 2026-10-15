@@ -53,7 +53,7 @@
             "name": "क्या Subah Uthne Ke Baad Pair Mein Dard - Kyon Hota Hai? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -212,6 +212,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Orthopedics</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Subah Uthne Ke Baad Pair Mein Dard - Kyon Hota Hai?</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -225,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">orthopedic</a> team foot pain aur <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">related conditions</a> के treatment में experienced है।
+                    <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">orthopedic</a> team foot pain aur <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">related conditions</a> के treatment की सुविधा देती है।
                 </p>
 
                 <!-- Section 1: Why Morning Pain -->
@@ -237,7 +238,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li>Plantar fascia (foot ligament) contracted होता है</li>
-                    <li>Calories tissues stiffness बढ़ जाती है</li>
+                    <li>Calf muscles aur tissues में stiffness बढ़ जाती है</li>
                     <li>Blood flow feet में कम होती है</li>
                     <li>Swelling aur inflammation accumulate होता है</li>
                 </ul>
@@ -326,7 +327,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Medications</h4>
-                        <p class="text-sm text-gray-600">NSAIDs (ibuprofen) pain aur inflammation के लिए। Cortisone injections severe cases में।</p>
+                        <p class="text-sm text-gray-600">NSAIDs (जैसे ibuprofen) doctor की सलाह से pain aur inflammation के लिए; kidney disease, ulcer, BP या heart की समस्या हो तो पहले doctor से पूछें। Cortisone injections severe cases में।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Night Splints</h4>
@@ -423,7 +424,7 @@
                         <li><a href="/blog/gas-se-peeth-dard-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi</a></li>
                         <li><a href="/blog/can-a-toothache-cause-a-headache-causes-treatment-guide.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Toothache और Headache - कारण, Treatment और Prevention Guide</a></li>
                         <li><a href="/blog/back-head-pain-causes-treatment-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्दन और सिर दर्द: कारण, लक्षण और इलाज</a></li>
-                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Best Orthopedic Care</a></li>
+                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Orthopedic Care</a></li>
                         <li><a href="/blog/pair-me-dard-kyu-hota-h.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द क्यों होता है? - सभी कारण और समाधान</a></li>
                     </ul>
                 </section>
@@ -449,7 +450,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -458,8 +459,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Orthopedic</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-23",
         "dateModified": "2026-05-23",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/symptoms-of-breast-<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a>-in-women-early-signs-every-woman-must-know/",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/symptoms-of-breast-cancer-in-women-early-signs-every-woman-must-know/",
         "keywords": ["breast cancer symptoms", "breast cancer early signs", "mahilaon mein cancer"],
         "about": {
             "@type": "MedicalCondition",
@@ -79,7 +79,7 @@ $base_url = '../';
                 "name": "स्तन कैंसर की गांठ कैसी होती है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "स्तन कैंसर की गांठ आमतौर पर hard, अनियमित edges वाली और दर्द रess होती है। यह हिलती नहीं और समय के साथ बड़ी होती जाती है।"
+                    "text": "स्तन कैंसर की गांठ अक्सर hard, अनियमित edges वाली और दर्द रहित होती है, लेकिन हर बार ऐसा नहीं होता। कोई भी नई गांठ — चाहे वह हिलती हो या उसमें दर्द हो — डॉक्टर को ज़रूर दिखाएं।"
                 }
             },
             {
@@ -87,7 +87,7 @@ $base_url = '../';
                 "name": "Self breast examination कैसे करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हर महीने <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> के 5-7 दिन बाद shower में या mirror के सामने खड़े होकर छाती की जाँच करें। गांठ, असमानता, या त्वचा में बदलाव देखें।"
+                    "text": "हर महीने periods के 5-7 दिन बाद shower में या mirror के सामने खड़े होकर छाती की जाँच करें। गांठ, असमानता, या त्वचा में बदलाव देखें।"
                 }
             },
             {
@@ -163,7 +163,7 @@ $base_url = '../';
                 "@type": "ListItem",
                 "position": 3,
                 "name": "कैंसर",
-                "item": "https://rajhospitals.com/blog?category=<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a>"
+                "item": "https://rajhospitals.com/blog?category=cancer"
             },
             {
                 "@type": "ListItem",
@@ -201,6 +201,7 @@ $base_url = '../';
             <h1 class="text-3xl md:text-4xl font-bold mb-4">
                 स्तन कैंसर के लक्षण - महिलाओं में शुरुआती संकेत
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <div class="flex items-center text-sm text-white/80 space-x-4">
                 <span class="flex items-center">
                     <i data-feather="user" class="w-4 h-4 mr-1"></i>
@@ -224,7 +225,7 @@ $base_url = '../';
                     <i data-feather="alert-circle" class="w-5 h-5 text-pink-500 mt-0.5"></i>
                     <div class="ml-3">
                         <p class="font-semibold text-pink-700">महत्वपूर्ण जानकारी</p>
-                        <p class="text-gray-700 text-sm"><strong>स्तन कैंसर भारत में महिलाओं में सबसे आम कैंसर है।</strong> हर 8 में से 1 महिला को आजीवन स्तन कैंसर होता है। लेकिन early detection से 90% से अधिक मामलों में इलाज संभव है।</p>
+                        <p class="text-gray-700 text-sm"><strong>स्तन कैंसर भारत में महिलाओं में सबसे आम कैंसर है।</strong> भारत में लगभग 28-29 में से 1 महिला को जीवनकाल में स्तन कैंसर होने का अनुमान है (शहरों में यह जोखिम अधिक है)। लेकिन जल्दी पहचान होने पर इलाज के सफल होने की संभावना काफी बढ़ जाती है।</p>
                     </div>
                 </div>
             </div>
@@ -244,7 +245,7 @@ $base_url = '../';
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-red-50 p-4 rounded-lg border border-red-200">
                     <h4 class="font-bold text-red-700 mb-2">स्तन में गांठ (Lump)</h4>
-                    <p class="text-gray-600 text-sm">सबसे आम लक्षण। गांठ आमतौर पर hard, अनियमित और दर्द रहित होती है। यह हिलती नहीं और समय के साथ बड़ी होती जाती है।</p>
+                    <p class="text-gray-600 text-sm">सबसे आम लक्षण। गांठ अक्सर hard, अनियमित और दर्द रहित होती है, लेकिन हर बार ऐसा नहीं होता। कोई भी नई गांठ — चाहे वह हिलती हो या उसमें दर्द हो — डॉक्टर को ज़रूर दिखाएं।</p>
                 </div>
                 <div class="bg-orange-50 p-4 rounded-lg border border-orange-200">
                     <h4 class="font-bold text-orange-700 mb-2">निप्पल से Discharge</h4>
@@ -447,7 +448,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">शराब कम करें</h4>
-                        <p class="text-gray-600 text-sm">रोज़ाना 1 drink से अधिक न पिएं। alcohol स्तन कैंसर risk बढ़ाता है।</p>
+                        <p class="text-gray-600 text-sm">शराब से बचें; थोड़ी मात्रा भी स्तन कैंसर का risk बढ़ा सकती है।</p>
                     </div>
                 </div>
 
@@ -484,7 +485,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: स्तन कैंसर की गांठ कैसी होती है?</h4>
-                    <p class="text-gray-700 text-sm">स्तन कैंसर की गांठ आमतौर पर hard, अनियमित edges वाली और दर्द रess होती है। यह हिलती नहीं और समय के साथ बड़ी होती जाती है।</p>
+                    <p class="text-gray-700 text-sm">स्तन कैंसर की गांठ अक्सर hard, अनियमित edges वाली और दर्द रहित होती है, लेकिन हर बार ऐसा नहीं होता। कोई भी नई गांठ — चाहे वह हिलती हो या उसमें दर्द हो — डॉक्टर को ज़रूर दिखाएं।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -516,7 +517,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">oncology</a> टीम कैंसर की early detection और treatment में विशेषज्ञ है। Screening और consultation के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">oncology</a> टीम से कैंसर की early detection और treatment के लिए परामर्श लिया जा सकता है। Screening और consultation के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

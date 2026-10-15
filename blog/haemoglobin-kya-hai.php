@@ -103,7 +103,7 @@
                 "name": "रांची में हीमोग्लोबिन की जांच कहां करवाएं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "रांची में RAJ Hospital में हीमोग्लोबिन की पूरी जांच (CBC, serum iron, TIBC, ferritin) उपलब्ध है। हमारी लैब में त्वरित और सटीक रिपोर्ट मिलती है। हीमोग्लोबिन और उससे संबंधित समस्याओं के लिए संपर्क करें।"
+                    "text": "रांची में RAJ Hospital में हीमोग्लोबिन की पूरी जांच (CBC, serum iron, TIBC, ferritin) उपलब्ध है।  हीमोग्लोबिन और उससे संबंधित समस्याओं के लिए संपर्क करें।"
                 }
             }
         ]
@@ -476,7 +476,7 @@
             "name": "क्या Haemoglobin Kya Hai | हीमोग्लोबिन क्या है दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Acidity ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -500,7 +500,7 @@
             "name": "पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -555,6 +555,7 @@
     <header class="blog-header">
         <div class="container">
             <h1>Haemoglobin Kya Hai | हीमोग्लोबिन क्या है</h1>
+            <?php include __DIR__ . '/../components/medical-disclaimer.php'; ?>
             <div class="meta">
                 <span>Reading Time: 10 min</span> |
                 <span>By RAJ Hospital Team</span>
@@ -579,7 +580,7 @@
             <p>हीमोग्लोबिन का मुख्य कार्य शरीर के विभिन्न हिस्सों तक <strong>ऑक्सीजन पहुंचाना</strong> है। यह फेफड़ों से ऑक्सीजन लेकर रक्त के जरिए पूरे शरीर में पहुंचाता है। साथ ही, यह कार्बन डाइऑक्साइड (CO2) को भी फेफड़ों तक वापस ले जाता है जहां से यह बाहर निकाल दी जाती है।</p>
 
             <div class="highlight-box">
-                <strong>महत्वपूर्ण तथ्य:</strong> एक स्वस्थ वयस्क के शरीर में प्रत्येक मिलीलीटर रक्त में लगभग <strong>15 ग्राम डेसीलीटर (g/dL)</strong> हीमोग्लोबिन होता है। यह लाल रक्त कणिकाओं में मौजूद होता है और शरीर की कुल रक्त आपूर्ति का एक महत्वपूर्ण हिस्सा है।
+                <strong>महत्वपूर्ण तथ्य:</strong> एक स्वस्थ वयस्क के शरीर में प्रति डेसीलीटर (100 मिलीलीटर) रक्त में लगभग <strong>15 ग्राम डेसीलीटर (g/dL)</strong> हीमोग्लोबिन होता है। यह लाल रक्त कणिकाओं में मौजूद होता है और शरीर की कुल रक्त आपूर्ति का एक महत्वपूर्ण हिस्सा है।
             </div>
 
             <h3>हीमोग्लोबिन का वैज्ञानिक संरचना और कार्य:</h3>
@@ -591,7 +592,6 @@
                 <li><strong>ऑक्सीजन परिवहन:</strong> फेफड़ों से ऑक्सीजन लेकर पूरे शरीर की कोशिकाओं तक पहुंचाना</li>
                 <li><strong>कार्बन डाइऑक्साइड परिवहन:</strong> शरीर से CO2 को फेफड़ों तक वापस ले जाना</li>
                 <li><strong>रक्त का pH संतुलन:</strong> रक्त की अम्लता और क्षारीयता को नियंत्रित करना</li>
-                <li><strong>ऑक्सीजन संग्रहण:</strong> मांसपेशियों में ऑक्सीजन संग्रहित करना</li>
             </ul>
 
             <!-- Section 2: Normal Levels -->
@@ -658,7 +658,7 @@
                 </div>
                 <div class="symptom-card">
                     <h4>4. क्रोनिक बीमारियां</h4>
-                    <p><strong>किडनी की बीमारी, कैंसर, या RAJ Hospital में उपचार</strong> की जा रही अन्य क्रोनिक समस्याएं।</p>
+                    <p><strong>किडनी की बीमारी, कैंसर, या लंबे समय से इलाज</strong> की जा रही अन्य क्रोनिक समस्याएं।</p>
                 </div>
             </div>
 
@@ -666,7 +666,7 @@
 
             <ul>
                 <li><strong>थकान और कमजोरी:</strong> शरीर में ऑक्सीजन की कमी के कारण</li>
-                <li><strong>पीला चेहरा:</strong> त्वचा और आंखों का पीला पड़ना</li>
+                <li><strong>पीला चेहरा:</strong> त्वचा, होंठ, नाखून और पलकों के अंदर का रंग फीका/सफेद पड़ना (pallor)</li>
                 <li><strong>सांस फूलना:</strong> शारीरिक गतिविधियों के दौरान</li>
                 <li><strong>सिरदर्द और चक्कर:</strong> दिमाग को पर्याप्त ऑक्सीजन न मिलने से</li>
                 <li><strong>दिल की धड़कन बढ़ना:</strong> ऑक्सीजन की कमी की भरपाई के लिए दिल तेज काम करता है</li>
@@ -736,7 +736,7 @@
             <div class="food-list">
                 <h4>जानवरों से मिलने वाला आयरन (Heme Iron):</h4>
                 <ul>
-                    <li><strong>लाल मांस:</strong> गाय, भैंस का मांस - सबसे अच्छा आयरन स्रोत</li>
+                    <li><strong>लाल मांस:</strong> मटन जैसा लाल मांस - आयरन का अच्छा स्रोत</li>
                     <li><strong>कलेजी (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a>):</strong> चिकन या मटन लिवर - आयरन और विटामिन B12 से भरपूर</li>
                     <li><strong>मछली और समुद्री भोजन:</strong> झींगा, सार्डिन</li>
                     <li><strong>अंडे:</strong> विशेषकर yolk</li>
@@ -746,7 +746,7 @@
                 <ul>
                     <li><strong>दाल:</strong> मसूर दाल, चना, राजमा</li>
                     <li><strong>पालक और हरे पत्तेदार सब्जियां:</strong> पालक, मैथी, चुकंदर के पत्ते</li>
-                    <li><strong>चुकंदर (Beetroot):</strong> रक्त में हीमोग्लोबिन बढ़ाने का बेहतरीन प्राकृतिक स्रोत</li>
+                    <li><strong>चुकंदर (Beetroot):</strong> इसमें आयरन कम मात्रा में होता है; यह संतुलित आहार का हिस्सा हो सकता है, पर अकेले हीमोग्लोबिन नहीं बढ़ाता</li>
                     <li><strong>सोयाबीन और tofu</strong></li>
                     <li><strong>मेवे और बीज:</strong> कद्दू के बीज, cashews, almonds</li>
                     <li><strong>सूखे मेवे:</strong> किश Kishmish, अंजीर</li>
@@ -803,7 +803,7 @@
                 <li><strong>त्वचा का पीला या बहुत पीला होना</strong></li>
             </ul>
 
-            <p>RAJ Hospital, Ranchi में हमारी <a href="/doctor-profile.php" style="color: #c62828;">विशेषज्ञ चिकित्सा टीम</a> हीमोग्लोबिन से संबंधित सभी समस्याओं का निदान और उपचार करती है। हमारे पास आधुनिक लैब सुविधाएं और अनुभवी डॉक्टर हैं।</p>
+            <p>RAJ Hospital, Ranchi में हमारी <a href="/doctor-profile.php" style="color: #c62828;">विशेषज्ञ चिकित्सा टीम</a> हीमोग्लोबिन से संबंधित सभी समस्याओं का निदान और उपचार करती है। </p>
 
             <!-- Section 9: Related Conditions -->
             <h2>हीमोग्लोबिन से संबंधित अन्य बीमारियां</h2>
@@ -824,7 +824,7 @@
             </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Haemoglobin Kya Hai | हीमोग्लोबिन क्या है पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Haemoglobin Kya Hai | हीमोग्लोबिन क्या है: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">हीमोग्लोबिन (Haemoglobin) क्या है, इसके कार्य, सामान्य स्तर, और कम होने के लक्षण। रांची में हीमोग्लोबिन की जांच और इलाज। RAJ Hospital।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Haemoglobin Kya Hai | हीमोग्लोबिन क्या है शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में पाचन और सामान्य स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -867,7 +867,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -877,7 +877,7 @@
                 <div style="width: 60px; height: 60px; border-radius: 50%; background: #c62828; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 1.5rem;">RH</div>
                 <div class="author-info">
                     <h4>RAJ Hospital Medical Team</h4>
-                    <p>विशेषज्ञ डॉक्टरों और specialists की टीम द्वारा लिखित। रांची में 25+ वर्षों का अनुभव।</p>
+                    <p>RAJ Hospital की स्वास्थ्य जानकारी टीम द्वारा तैयार सामान्य जानकारी।</p>
                 </div>
             </div>
 
@@ -885,7 +885,7 @@
             <div class="cta-section">
                 <h3>क्या आपको हीमोग्लोबिन की समस्या है?</h3>
                 <p>RAJ Hospital, रांची में हमारे experts आपकी मदद के लिए तैयार हैं। CBC, serum iron, और अन्य जांचों से हीमोग्लोबिन का सही निदान और इलाज।</p>
-                <a href="/contact.php">Book Free Appointment</a>
+                <a href="/contact.php">Book Appointment</a>
             </div>
 
             <!-- Internal Links Section -->
@@ -938,7 +938,7 @@
 
                 <div class="faq-item">
                     <h3>7. रांची में हीमोग्लोबिन की जांच कहां करवाएं?</h3>
-                    <p>रांची में <strong>RAJ Hospital में हीमोग्लोबिन की पूरी जांच</strong> (CBC, serum iron, TIBC, ferritin) उपलब्ध है। हमारी लैब में त्वरित और सटीक रिपोर्ट मिलती है। हीमोग्लोबिन और उससे संबंधित समस्याओं के लिए <a href="/contact.php" style="color: #c62828;">संपर्क करें</a>।</p>
+                    <p>रांची में <strong>RAJ Hospital में हीमोग्लोबिन की पूरी जांच</strong> (CBC, serum iron, TIBC, ferritin) उपलब्ध है।  हीमोग्लोबिन और उससे संबंधित समस्याओं के लिए <a href="/contact.php" style="color: #c62828;">संपर्क करें</a>।</p>
                 </div>
             </section>
 

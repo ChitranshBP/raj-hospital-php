@@ -45,7 +45,7 @@
             "name": "KFT Test Kya Hota Hai - What is KFT Test in Hindi",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "KFT test ya Kidney Function Test ek blood test hai jo kidney ki health check karne ke liye kiya jata hai। इसमें Serum Creatinine, BUN (Blood Urea Nitrogen), GFR (Glomerular Filtration Rate), और electrolyte levels जैसी values मापी जाती हैं। यह test kidney diseases जैसे kidney failure, infection, ya stones की early detection में मदद करता है।"
+                "text": "KFT test ya Kidney Function Test ek blood test hai jo kidney ki health check karne ke liye kiya jata hai। इसमें Serum Creatinine, BUN (Blood Urea Nitrogen), GFR (Glomerular Filtration Rate), और electrolyte levels जैसी values मापी जाती हैं। यह test kidney diseases जैसे kidney function कम होने (CKD/kidney failure) का पता लगाने में मदद करता है; stones या infection के लिए urine test और ultrasound जैसी अलग जांचें होती हैं।"
             }
         },
         {
@@ -61,7 +61,7 @@
             "name": "KFT Test Ki Tayaari Kaise Kare - KFT Test Preparation in Hindi",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "KFT test ke liye usually 8-12 hours fasting required hoti hai। आप सामान्य पानी पी सकते हैं। अगर आप कोई दवा ले रहे हैं (जैसे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> की दवाएं) तो doctor से पूछें कि kya unhe continue karna चाहिए ya nahi। कुछ vitamins aur supplements ko test se pehle band karna pad sakta hai।"
+                "text": "KFT test ke liye aam taur par fasting zaroori nahi hoti (agar saath mein sugar ya lipid test ho to lab/doctor fasting bata sakte hain)। आप सामान्य पानी पी सकते हैं। अगर आप कोई दवा ले रहे हैं (जैसे blood pressure की दवाएं) तो doctor से पूछें कि kya unhe continue karna चाहिए ya nahi। कुछ vitamins aur supplements ko test se pehle band karna pad sakta hai।"
             }
         },
         {
@@ -69,7 +69,7 @@
             "name": "KFT Aur LFT Mein Kya Farak Hai - Difference Between KFT and LFT in Hindi",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "KFT (Kidney Function Test) kidney ki health check karta है जबकि LFT (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Function Test) liver ki health assess karta hai। KFT में creatinine, BUN, GFR, aur electrolytes check hote hain। LFT में SGOT, SGPT, bilirubin, ALP, aur albumin check hota hai। Dono tests alag-alag organs की जांच के लिए kiye jate hain।"
+                "text": "KFT (Kidney Function Test) kidney ki health check karta है जबकि LFT (Liver Function Test) liver ki health assess karta hai। KFT में creatinine, BUN, GFR, aur electrolytes check hote hain। LFT में SGOT, SGPT, bilirubin, ALP, aur albumin check hota hai। Dono tests alag-alag organs की जांच के लिए kiye jate hain।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "KFT Test Ka Cost Kitna Hota Hai - KFT Test Price in Hindi",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "KFT test ki price India में ₹200 से ₹800 के बीच होती है, यह lab aur city के according change hoti hai। RAJ Hospital में competitive rates पर KFT test available hai। कुछ labs में complete kidney panel (जिसमें electrolytes bhi शामिल hote hain) की price ₹1000-1500 तक हो सकती है। Home collection service bhi available hai।"
+                "text": "KFT test ki price India में ₹200 से ₹800 के बीच होती है, यह lab aur city के according change hoti hai। RAJ Hospital में KFT test available hai। कुछ labs में complete kidney panel (जिसमें electrolytes bhi शामिल hote hain) की price ₹1000-1500 तक हो सकती है। Home collection service bhi available hai।"
             }
         },
         {
@@ -157,10 +157,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -209,7 +209,7 @@
         {
             "@type": "HowToStep",
             "name": "Tayaari",
-            "text": "KFT test se 8-12 hours pehle khaana-pina band karein। Sirf paani पीने ki permission hai। Apni medicines ki list saath mein rakhein।"
+            "text": "KFT ke liye aam taur par fasting zaroori nahi hai; lab ya doctor ke nirdesh follow karein। Sirf paani पीने ki permission hai। Apni medicines ki list saath mein rakhein।"
         },
         {
             "@type": "HowToStep",
@@ -229,7 +229,7 @@
         {
             "@type": "HowToStep",
             "name": "Doctor Consultation",
-            "text": "Reports aane ke baad doctor se milein। आप खुद भी values compare kar sakte hain, lekin interpretation doctor hi best kar sakte hain।"
+            "text": "Reports aane ke baad doctor se milein। आप खुद भी values compare kar sakte hain, lekin interpretation doctor hi sahi tarah kar sakte hain।"
         }
     ]
 }
@@ -265,6 +265,7 @@
             <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
                 KFT Test Kya Hota Hai | KFT Test in Hindi - Complete Guide
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <p class="text-lg text-gray-600 mb-4">
                 <strong>KFT test kya hota hai</strong> - यह एक important blood test है जो kidney की health check करने के लिए किया जाता है। इस article में हम जानेंगे <strong>kidney function test in hindi</strong> के बारे में पूरी जानकारी - test procedure, normal values, cost, और interpretation।
             </p>
@@ -405,7 +406,7 @@
                     <div class="bg-white border rounded-xl p-6 shadow-sm">
                         <h3 class="font-semibold text-gray-800 mb-2 text-xl">3. Glomerular Filtration Rate (GFR)</h3>
                         <p class="text-gray-600 text-sm mb-2">
-                            <strong>GFR</strong> सबसे important parameter है। यह बताता है कि kidney प्रति minute कितना blood filter करती है। <strong>GFR value</strong> kidney function की overall picture देता है। Age के साथ GFR naturally कम होता है।
+                            <strong>GFR</strong> सबसे important parameter है। यह बताता है कि kidney प्रति minute कितना blood filter करती है। <strong>GFR value</strong> kidney function की overall picture देता है। Age के साथ GFR naturally कम होता है। GFR आमतौर पर blood creatinine से calculate (eGFR) किया जाता है; 60-89 का मतलब हमेशा बीमारी नहीं होता - doctor urine albumin जैसे दूसरे tests के साथ interpret करते हैं।
                         </p>
                         <div class="bg-green-50 p-3 rounded-lg">
                             <span class="text-sm"><strong>Normal Range:</strong> 90-120 mL/min/1.73m²</span>
@@ -528,7 +529,7 @@
                     <ul class="space-y-3 text-gray-700">
                         <li class="flex items-start gap-3">
                             <span class="w-6 h-6 bg-green-500 text-white rounded-full flex items-center justify-center text-sm flex-shrink-0">1</span>
-                            <span><strong>Fasting:</strong> Test se 8-12 hours pehle khaana-pina band karein। Morning appointment लेने से fasting easy होता है।</span>
+                            <span><strong>Fasting:</strong> KFT ke liye aam taur par fasting zaroori nahi hoti; agar doctor ne saath mein fasting wale test (jaise sugar/lipid) likhe hain to unke nirdesh follow karein। Diabetes ki dawa ya insulin lene wale fasting se pehle doctor se poochhein।</span>
                         </li>
                         <li class="flex items-start gap-3">
                             <span class="w-6 h-6 bg-green-500 text-white rounded-full flex items-center justify-center text-sm flex-shrink-0">2</span>
@@ -608,7 +609,6 @@
                         <h3 class="font-semibold text-gray-800 mb-2">Complete KFT</h3>
                         <p class="text-3xl font-bold text-blue-600 mb-1">₹400 - ₹800</p>
                         <p class="text-gray-500 text-sm">Creatinine, BUN, GFR, uric acid</p>
-                        <span class="text-xs bg-blue-200 text-blue-800 px-2 py-1 rounded mt-2 inline-block">Most Popular</span>
                     </div>
                     <div class="bg-purple-50 p-5 rounded-xl text-center">
                         <h3 class="font-semibold text-gray-800 mb-2">KFT + Electrolytes</h3>
@@ -619,7 +619,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <p class="text-gray-700 text-sm">
-                        <strong>Pro Tip:</strong> कई labs <strong>health packages</strong> offer करते हैं जिनमें <strong>KFT</strong>, <strong>LFT</strong>, aur कई और tests <strong>economical price</strong> पर मिलते हैं। <strong>RAJ Hospital</strong> में competitive rates aur quality testing available hai।
+                        <strong>Pro Tip:</strong> कई labs <strong>health packages</strong> offer करते हैं जिनमें <strong>KFT</strong>, <strong>LFT</strong>, aur कई और tests <strong>economical price</strong> पर मिलते हैं। <strong>RAJ Hospital</strong> में KFT test available hai।
                     </p>
                 </div>
             </section>
@@ -768,7 +768,7 @@
                         Important Warning
                     </h3>
                     <p class="text-gray-700 text-sm">
-                        <strong>Abnormal KFT results</strong> को खुद से diagnose ya treat न करें। हमेशा qualified doctor से milein। Self-medication से condition worse हो सकती है। <strong>RAJ Hospital</strong> में expert nephrologists available hain।
+                        <strong>Abnormal KFT results</strong> को खुद से diagnose ya treat न करें। हमेशा qualified doctor से milein। Self-medication से condition worse हो सकती है। <strong>RAJ Hospital</strong> में nephrologist se salah li ja sakti hai।
                     </p>
                 </div>
             </section>
@@ -787,9 +787,9 @@
                         <div>
                             <h3 class="font-semibold mb-3">Diet Tips</h3>
                             <ul class="space-y-2 text-sm">
-                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Paani ज्यादा पिएं</strong> - 8-10 glasses daily</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Paani ज्यादा पिएं</strong> - aam taur par 8-10 glasses daily (kidney failure, dialysis ya heart failure mein doctor ki batayi matra hi)</li>
                                 <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Less salt</strong> - high sodium se blood pressure बढ़ता है</li>
-                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Protein limit करें</strong> - excess protein kidney पर burden डालता है</li>
+                                <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Protein limit करें</strong> - kidney disease ho to protein ki matra doctor/dietitian se tay karein</li>
                                 <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Fresh fruits aur vegetables</strong> खाएं</li>
                                 <li><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> <strong>Processed food se बचें</strong></li>
                             </ul>
@@ -818,7 +818,7 @@
                     <div class="bg-gray-100 rounded-xl p-5">
                         <h3 class="font-semibold text-gray-800 mb-2">Q1: KFT Test Kya Hota Hai - What is KFT Test in Hindi?</h3>
                         <p class="text-gray-600 text-sm">
-                            <strong>KFT test</strong> ya <strong>Kidney Function Test</strong> ek blood test hai jo kidney ki health check karne ke liye kiya jata है। इसमें <strong>Serum Creatinine</strong>, <strong>BUN (Blood Urea Nitrogen)</strong>, <strong>GFR (Glomerular Filtration Rate)</strong>, aur <strong>electrolyte levels</strong> जैसी values मापी जाती हैं। यह test <strong>kidney diseases</strong> जैसे kidney failure, infection, ya stones की early detection में मदद करता है।
+                            <strong>KFT test</strong> ya <strong>Kidney Function Test</strong> ek blood test hai jo kidney ki health check karne ke liye kiya jata है। इसमें <strong>Serum Creatinine</strong>, <strong>BUN (Blood Urea Nitrogen)</strong>, <strong>GFR (Glomerular Filtration Rate)</strong>, aur <strong>electrolyte levels</strong> जैसी values मापी जाती हैं। यह test <strong>kidney diseases</strong> जैसे kidney function कम होने (CKD/kidney failure) का पता लगाने में मदद करता है; stones या infection के लिए urine test और ultrasound जैसी अलग जांचें होती हैं।
                         </p>
                     </div>
 
@@ -832,7 +832,7 @@
                     <div class="bg-gray-100 rounded-xl p-5">
                         <h3 class="font-semibold text-gray-800 mb-2">Q3: KFT Test Ki Tayaari Kaise Kare - KFT Test Preparation?</h3>
                         <p class="text-gray-600 text-sm">
-                            <strong>KFT test ke liye</strong> usually 8-12 hours fasting required hoti hai। आप सामान्य पानी पी सकते हैं। अगर आप कोई दवा ले रहे हैं (जैसे blood pressure की दवाएं) तो doctor से पूछें कि kya unhe continue karna चाहिए ya nahi। कुछ vitamins aur supplements को test se pehle band karna pad sakta hai।
+                            <strong>KFT test ke liye</strong> aam taur par fasting zaroori nahi hoti (agar saath mein sugar ya lipid test ho to lab/doctor fasting bata sakte hain)। आप सामान्य पानी पी सकते हैं। अगर आप कोई दवा ले रहे हैं (जैसे blood pressure की दवाएं) तो doctor से पूछें कि kya unhe continue karna चाहिए ya nahi। कुछ vitamins aur supplements को test se pehle band karna pad sakta hai।
                         </p>
                     </div>
 
@@ -846,7 +846,7 @@
                     <div class="bg-gray-100 rounded-xl p-5">
                         <h3 class="font-semibold text-gray-800 mb-2">Q5: KFT Test Ka Cost Kitna Hota Hai - KFT Test Price?</h3>
                         <p class="text-gray-600 text-sm">
-                            <strong>KFT test ki price</strong> India में ₹200 से ₹800 के बीच होती है, यह lab aur city के according change hoti hai। <strong>RAJ Hospital</strong> में competitive rates पर KFT test available hai। कुछ labs में complete kidney panel (जिसमें electrolytes bhi शामिल hote hain) की price ₹1000-1500 तक हो सकती है। Home collection service bhi available hai।
+                            <strong>KFT test ki price</strong> India में ₹200 से ₹800 के बीच होती है, यह lab aur city के according change hoti hai। <strong>RAJ Hospital</strong> में KFT test available hai। कुछ labs में complete kidney panel (जिसमें electrolytes bhi शामिल hote hain) की price ₹1000-1500 तक हो सकती है। Home collection service bhi available hai।
                         </p>
                     </div>
 
@@ -866,14 +866,14 @@
                     <strong>KFT test kya hota hai</strong> - अब आप जानते हैं कि <strong>KFT test</strong> या <strong>kidney function test</strong> हमारी kidney health check करने का important tool है। Regular <strong>KFT screening</strong> especially important है अगर आप <strong>diabetes</strong>, <strong>high BP</strong> या family history of kidney disease रखते हैं।
                 </p>
                 <p>
-                    <strong>RAJ Hospital</strong> में <strong>KFT test</strong> accurate results aur reasonable price पर available है। <strong>Kidney health</strong> के लिए healthy lifestyle, proper hydration, aur regular checkups follow करें। किसी भी <strong>kidney related symptoms</strong> पर doctor से contact करें।
+                    <strong>RAJ Hospital</strong> में <strong>KFT test</strong> available है। <strong>Kidney health</strong> के लिए healthy lifestyle, proper hydration, aur regular checkups follow करें। किसी भी <strong>kidney related symptoms</strong> पर doctor से contact करें।
                 </p>
             </section>
 
             <!-- CTA Section -->
             <div class="bg-secondary-600 text-white p-8 rounded-xl text-center">
                 <h2 class="text-2xl font-bold mb-4">KFT Test Karwana Chahte Hai?</h2>
-                <p class="mb-6">RAJ Hospital में KFT test aur complete kidney checkup available hai। Expert doctors se milein।</p>
+                <p class="mb-6">RAJ Hospital में KFT test aur complete kidney checkup available hai। Doctor se milein।</p>
                 <a href="/contact.php" class="inline-block bg-white text-secondary-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                     Appointment Book Karein
                 </a>

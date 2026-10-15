@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Deepak Verma – Orthopaedics & Joint Replacement in Ranchi</title>
     <meta name="description" content="Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital Ranchi with 25+ years experience in joint replacement, trauma surgery & fracture management.">
-    <meta name="keywords" content="Dr. Deepak Verma, Orthopaedics in Ranchi, Best Orthopaedics in Ranchi, Dr. Deepak Verma Raj Hospital Ranchi, orthopaedics doctor Ranchi">
+    <meta name="keywords" content="Dr. Deepak Verma, Orthopaedics in Ranchi, Orthopaedic surgeon in Ranchi, Dr. Deepak Verma Raj Hospital Ranchi, orthopaedics doctor Ranchi">
     <meta property="og:title" content="Dr. Deepak Verma – Orthopaedics & Joint Replacement in Ranchi">
     <meta property="og:description" content="Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital Ranchi with 25+ years experience in joint replacement, trauma surgery & fracture management.">
     <meta property="og:type" content="profile">
@@ -70,7 +70,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Deepak Verma",
-    "description": "Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital, Ranchi, with over 25 years of experience in joint replacement and trauma surgery. He provides expert care for total knee and hip replacement, fracture management, and musculoskeletal disorders.",
+    "description": "Dr. Deepak Verma is a senior Orthopedic Surgeon at Raj Hospital, Ranchi, with over 25 years of experience in joint replacement and trauma surgery. He provides care for total knee and hip replacement, fracture management, and musculoskeletal disorders.",
     "medicalSpecialty": "Orthopaedics & Joint Replacement",
     "qualifications": "MBBS, MS (Ortho)",
     "image": "https://rajhospitals.com/assets/doctor-latest/deepak verma.webp",
@@ -140,6 +140,10 @@
                         <label class="block text-xs font-medium text-gray-700 mb-1">Phone Number <span class="text-red-500">*</span></label>
                         <input type="tel" required pattern="[0-9]{10}" class="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none" name="phone" placeholder="Enter 10-digit mobile number">
                     </div>
+                     <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                         <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                         <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                     </label>
                      <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-4 py-2.5 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2 text-sm">
                         <i data-feather="calendar" class="w-4 h-4"></i> Submit Request
                     </button>
@@ -278,6 +282,10 @@
                                     <input type="tel" name="phone" placeholder="Enter mobile number" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none">
                                     <input type="email" name="email" placeholder="Enter email" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none">
                                     <textarea rows="3" name="message" placeholder="Type your query" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none"></textarea>
+                                    <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                        <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                        <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                                    </label>
                                     <button type="submit" class="w-full bg-primary-500 text-white font-semibold px-4 py-2 rounded-lg hover:bg-primary-600 transition-colors shadow-sm">Submit</button>
                                 </form>
                             </div>

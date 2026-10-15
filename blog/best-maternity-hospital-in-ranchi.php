@@ -7,14 +7,14 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi | RAJ Hospital - Top Women's Care</title>
-    <meta name="description" content="Ranchi में best maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।">
-    <meta name="keywords" content="best maternity hospital ranchi, delivery hospital ranchi, pregnancy hospital ranchi, gynecologist ranchi, normal delivery ranchi">
+    <title>Maternity Hospital in Ranchi | RAJ Hospital - Women's Care</title>
+    <meta name="description" content="Ranchi में सही maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।">
+    <meta name="keywords" content="right maternity hospital ranchi, delivery hospital ranchi, pregnancy hospital ranchi, gynecologist ranchi, normal delivery ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi/">
 
-    <meta property="og:title" content="Best Maternity Hospital in Ranchi">
-    <meta property="og:description" content="Ranchi में best maternity hospital कैसे चुनें।">
+    <meta property="og:title" content="Maternity Hospital in Ranchi">
+    <meta property="og:description" content="Ranchi में सही maternity hospital कैसे चुनें।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/best-maternity-hospital-in-ranchi.png">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Maternity Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -50,7 +50,7 @@
         },
         {
             "@type": "Question",
-            "name": "क्या Best Maternity Hospital in Ranchi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
+            "name": "क्या Maternity Hospital in Ranchi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए गर्भाशय ग्रीवा कैंसर के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,8 +89,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi | RAJ Hospital - Top Women's Care",
-        "description": "Ranchi में best maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।",
+        "headline": "Maternity Hospital in Ranchi | RAJ Hospital - Women's Care",
+        "description": "Ranchi में सही maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।",
         "url": "https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-maternity-hospital-in-ranchi.png",
         "author": {
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi | RAJ Hospital - Top Women's Care"
+                "name": "Maternity Hospital in Ranchi | RAJ Hospital - Women's Care"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -203,7 +203,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi</span>
+            <span class="text-gray-700"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi</span>
         </nav>
     </div>
 
@@ -211,7 +211,8 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Care</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi: Complete Guide for Expecting Mothers</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi: Complete Guide for Expecting Mothers</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -221,7 +222,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    Choosing the <strong>best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospital in Ranchi</strong> is one of the most important decisions an expectant mother will make. <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> and childbirth are beautiful yet complex journeys that require expert medical care, modern facilities, and compassionate support. With numerous hospitals offering maternity services in Ranchi, finding the right one can feel overwhelming.
+                    Choosing the <strong>right <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospital in Ranchi</strong> is one of the most important decisions an expectant mother will make. <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> and childbirth are beautiful yet complex journeys that require expert medical care, modern facilities, and compassionate support. With numerous hospitals offering maternity services in Ranchi, finding the right one can feel overwhelming.
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -229,10 +230,10 @@
                 </p>
 
                 <!-- Section 1: What Makes Best Maternity Hospital -->
-                <h2 class="raj-h2">What Makes the Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital?</h2>
+                <h2 class="raj-h2">What Makes a Good <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Not all <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospitals are created equal. The <strong>best maternity hospital</strong> combines skilled healthcare professionals, advanced medical equipment, comprehensive services, and a nurturing environment. Here are the key factors that set apart exceptional maternity care:
+                    Not all <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> hospitals are created equal. The <strong>right maternity hospital</strong> combines skilled healthcare professionals, advanced medical equipment, comprehensive services, and a nurturing environment. Here are the key factors that set apart exceptional maternity care:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -256,7 +257,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Did You Know?</strong>
-                    <span class="text-gray-700"> According to the National Health Portal, institutional deliveries in India have increased from 39% in 2005 to over 88% in 2022, significantly reducing maternal and neonatal mortality rates.</span>
+                    <span class="text-gray-700"> According to National Family Health Survey data, institutional deliveries in India rose from about 39% (NFHS-3, 2005-06) to about 89% (NFHS-5, 2019-21), significantly reducing maternal and neonatal mortality rates.</span>
                 </div>
 
                 <!-- Section 2: Services Offered -->
@@ -287,7 +288,7 @@
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-blue-700">Caesarean Section (C-Section)</h4>
-                        <p class="text-sm text-gray-600 mt-2">When medically necessary, our expert surgeons perform safe C-sections, including emergency procedures. We have state-of-the-art operation theaters ready 24/7.</p>
+                        <p class="text-sm text-gray-600 mt-2">When medically necessary, our obstetricians perform C-sections, including emergency procedures. Operation theatres are available 24/7.</p>
                     </div>
                 </div>
 
@@ -330,7 +331,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Doctor Credentials</h4>
-                        <p class="text-sm text-gray-600">Research the qualifications and experience of obstetricians. At RAJ Hospital, our team includes highly qualified <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">gynecologists and obstetricians</a>.</p>
+                        <p class="text-sm text-gray-600">Research the qualifications and experience of obstetricians. At RAJ Hospital, our team includes <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">gynecologists and obstetricians</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Infrastructure and Facilities</h4>
@@ -354,7 +355,7 @@
                 <h2 class="raj-h2">High-Risk Pregnancy Management</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Some pregnancies require special attention due to higher risk of complications. At <strong>RAJ Hospital</strong>, we have expertise in managing high-risk pregnancies:
+                    Some pregnancies require special attention due to higher risk of complications. At <strong>RAJ Hospital</strong>, high-risk pregnancies need closer monitoring, for example:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -435,25 +436,25 @@
                 </ul>
 
                 <div class="raj-callout raj-callout-warning">
-                    <strong class="text-yellow-700">Expert Tip:</strong>
+                    <strong class="text-yellow-700">Tip:</strong>
                     <span class="text-gray-700"> The WHO recommends exclusive breastfeeding for the first 6 months. Our lactation consultants are available to help you establish a successful breastfeeding routine.</span>
                 </div>
 
                 <!-- Section 7: RAJ Hospital Advantages -->
-                <h2 class="raj-h2">Why Choose RAJ Hospital for Maternity Care in Ranchi?</h2>
+                <h2 class="raj-h2">Maternity Care Services at RAJ Hospital Ranchi</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>RAJ Hospital Ranchi</strong> has earned the trust of thousands of families in Jharkhand for maternity care:
+                    <strong>RAJ Hospital Ranchi</strong> offers the following for maternity care:
                 </p>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">Expert Team</h4>
+                        <h4 class="font-bold text-secondary-600">Care Team</h4>
                         <p class="text-sm text-gray-600">Experienced gynecologists, obstetricians, neonatologists, and trained nursing staff dedicated to maternal and child health.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Modern Infrastructure</h4>
-                        <p class="text-sm text-gray-600">State-of-the-art labor rooms, operation theaters, and Level III NICU with latest equipment.</p>
+                        <p class="text-sm text-gray-600">Labour rooms, operation theatres and NICU care.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">24/7 Availability</h4>
@@ -472,7 +473,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Planning Your Delivery at RAJ Hospital?</h3>
-                    <p class="opacity-90 mb-4">Schedule a prenatal consultation with our expert obstetricians today.</p>
+                    <p class="opacity-90 mb-4">Schedule a prenatal consultation with our obstetricians.</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -498,14 +499,14 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Are private rooms available?</h4>
-                        <p class="text-gray-700">Yes, we offer various room categories from shared rooms to luxurious private suites to suit different budgets and preferences.</p>
+                        <p class="text-gray-700">Yes, we offer various room categories from shared rooms to private rooms to suit different budgets and preferences.</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Best Maternity Hospital in Ranchi पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Ranchi में best maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।</p>
-                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Best Maternity Hospital in Ranchi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Maternity Hospital in Ranchi पर ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Ranchi में सही maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।</p>
+                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Maternity Hospital in Ranchi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
@@ -516,7 +517,7 @@
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/cervical-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भाशय ग्रीवा कैंसर के लक्षण</a></li>
-                        <li><a href="/blog/pcos-treatment-in-ranchi-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors</a></li>
+                        <li><a href="/blog/pcos-treatment-in-ranchi-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOS Treatment in Ranchi - Symptoms, Causes and Treatment</a></li>
                         <li><a href="/blog/hiv-symptoms-in-women-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: HIV Symptoms in Women in Hindi - महिलाओं में HIV के लक्षण</a></li>
                         <li><a href="/blog/nursing-care-of-newborn-baby-first-day-guide.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: नवजात शिशु की देखभाल - पहले दिन की संपूर्ण गाइड</a></li>
                         <li><a href="/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOD Problems in Women - Symptoms, Causes and Health Effects</a></li>
@@ -529,11 +530,11 @@
                     <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">Best Maternity Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?</h3>
+                        <h3 class="font-bold text-gray-800 mb-2">Maternity Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?</h3>
                         <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">क्या Best Maternity Hospital in Ranchi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
+                        <h3 class="font-bold text-gray-800 mb-2">क्या Maternity Hospital in Ranchi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
                         <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए गर्भाशय ग्रीवा कैंसर के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -546,7 +547,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -555,8 +556,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gynecologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

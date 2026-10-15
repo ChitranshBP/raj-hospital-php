@@ -77,7 +77,7 @@
             "name": "रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "पैर में दर्द - कारण, घरेलू उपाय और इलाज | RAJ Hospital Ranchi",
-        "description": "पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a>, gout में अंतर। जानें कब डॉक्टर जाना है।",
+        "description": "पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, arthritis, gout में अंतर। जानें कब डॉक्टर जाना है।",
         "url": "https://rajhospitals.com/blog/pair-me-dard-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pair-me-dard-in-hindi.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -213,6 +213,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Orthopedics</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">पैर में दर्द - कारण, घरेलू उपाय और इलाज</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -226,7 +227,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    पैर हमारे शरीर का सबसे महत्वपूर्ण हिस्सा है जो हर रोज़ हज़ारों steps लेता है। जब पैर में दर्द होता है, तो <strong>रोजमर्रा की जिंदगी</strong> प्रभावित होती है। चलो जानते हैं इसके कारण और उपाय।
+                    पैर हमारे शरीर का एक बहुत महत्वपूर्ण हिस्सा है जो हर रोज़ हज़ारों steps लेता है। जब पैर में दर्द होता है, तो <strong>रोजमर्रा की जिंदगी</strong> प्रभावित होती है। चलो जानते हैं इसके कारण और उपाय।
                 </p>
 
                 <!-- Section 1 -->
@@ -247,7 +248,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Bunion (अंगूठे का मोड़)</h4>
-                        <p class="text-sm text-gray-600">बड़ा toe अंगूठे की तरफ झुक जाता है और joint में सूजन होती है।</p>
+                        <p class="text-sm text-gray-600">पैर का बड़ा अंगूठा दूसरी उंगली की तरफ झुक जाता है और उसके base के joint पर उभार व सूजन होती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. Heel Spur (एड़ी Spur)</h4>
@@ -315,7 +316,7 @@
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Painkillers</h4>
-                        <p class="text-sm text-gray-600">NSAIDs जैसे ibuprofen pain और swelling कम करते हैं।</p>
+                        <p class="text-sm text-gray-600">दर्द की दवा (जैसे ibuprofen) केवल डॉक्टर की सलाह से लें; पेट के अल्सर, किडनी रोग, high BP, दिल की बीमारी या pregnancy में NSAIDs खुद से न लें।</p>
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Orthotics</h4>
@@ -368,7 +369,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">पैर में दर्द - कारण, घरेलू उपाय और इलाज पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">पैर में दर्द - कारण, घरेलू उपाय और इलाज: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a>, gout में अंतर। जानें कब डॉक्टर जाना है।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। पैर में दर्द - कारण, घरेलू उपाय और इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -410,7 +411,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">रोकथाम, सही जांच और विशेषज्ञ सलाह से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -419,8 +420,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Orthopedic</a></p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

@@ -11,10 +11,10 @@
 
     <!-- ================= META TAGS ================= -->
 
-    <title>ENT Hospital in Ranchi | Best ENT Specialist in Ranchi – Raj Hospital</title>
+    <title>ENT Hospital in Ranchi | ENT Specialist in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best ENT hospitals in Ranchi offering advanced ear, nose and throat treatment by experienced ENT specialists." />
+        content="Raj Hospital is an ENT hospital in Ranchi offering advanced ear, nose and throat treatment by experienced ENT specialists." />
 
     <meta name="robots" content="index, follow" />
 
@@ -46,11 +46,6 @@ ENT Care Hospital in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -92,10 +87,10 @@ ENT Care Hospital in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best ENT hospital in Ranchi?",
+      "name": "Does Raj Hospital offer ENT treatment in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best ENT hospitals in Ranchi providing comprehensive ear, nose and throat care."
+        "text": "Yes, Raj Hospital in Ranchi provides comprehensive ear, nose and throat care."
       }
     },
     {
@@ -197,7 +192,7 @@ ENT Care Hospital in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">ENT (Ear, Nose & Throat)</h1>
-                    <p class="text-xl text-gray-200">Best ENT hospital in Ranchi with advanced treatments for ear, nose,
+                    <p class="text-xl text-gray-200">ENT hospital in Ranchi with advanced treatments for ear, nose,
                         throat, and voice disorders</p>
                 </div>
             </div>
@@ -211,9 +206,9 @@ ENT Care Hospital in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The ENT Department at Raj Hospitals,
-                            Ranchi, is recognized as one of the best in Jharkhand for comprehensive ear, nose, and
+                            Ranchi, provides comprehensive ear, nose, and
                             throat treatments. With advanced diagnostic tools, modern surgical equipment, and highly
-                            skilled ENT specialists, we provide world-class care for patients suffering from ear
+                            skilled ENT specialists, we provide care for patients suffering from ear
                             infections, sinus problems, throat disorders, hearing loss, allergies, and balance issues.
                             Our facilities include advanced audiology, speech therapy, and minimally invasive surgical
                             procedures.</p>
@@ -237,7 +232,7 @@ ENT Care Hospital in Jharkhand
                                         class="text-gray-700">Advanced diagnostic audiology services</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">State-of-the-art operating theatres</span></li>
+                                        class="text-gray-700">Modern operating theatres</span></li>
                             </ul>
                         </div>
                     </div>
@@ -476,47 +471,6 @@ ENT Care Hospital in Jharkhand
         </div>
     </section>
 
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Real stories of healing and recovery from our ENT
-                    department</p>
-            </div>
-            <div class="grid md:grid-cols-2 gap-8">
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="mic" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Successful Sinus Surgery</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Ravi</p>
-                    <p class="text-gray-700 mb-6">I was suffering from chronic sinusitis for years. At Raj Hospitals,
-                        ENT specialists performed a FESS surgery and my breathing improved drastically.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Sinus problem resolved with improved breathing and comfort</span></div>
-                    </div>
-                </div>
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="mic" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Voice Disorder Treatment</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Sneha</p>
-                    <p class="text-gray-700 mb-6">I had severe voice issues due to vocal cord strain. The ENT team
-                        provided phono surgery and speech therapy that completely restored my voice.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Voice restored with excellent clarity and pitch</span></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="py-8 bg-white">
         <div class="max-w-7xl mx-auto px-4">
@@ -604,6 +558,10 @@ ENT Care Hospital in Jharkhand
                                     class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
                                     placeholder="Describe your question or concern..."></textarea></div>
                             <input type="hidden" name="specialty" value="ENT">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2"><i
                                     data-feather="send" class="w-5 h-5"></i>Submit Inquiry</button>

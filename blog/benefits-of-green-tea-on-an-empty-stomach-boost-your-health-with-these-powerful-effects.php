@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Green Tea on Empty Stomach - Benefits and Side Effects | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Green tea on empty stomach ke fayde aur nuksan जानें। Health benefits, सही पीने का तरीका, और किन लोगों को avoid करना चाहिए। RAJ Hospital के experts से जानकारी।">
+    <meta name="description" content="Green tea on empty stomach ke fayde aur nuksan जानें। Health benefits, सही पीने का तरीका, और किन लोगों को avoid करना चाहिए। RAJ Hospital द्वारा स्वास्थ्य जानकारी।">
     <meta name="keywords" content="green tea empty stomach, green tea benefits, green tea side effects, green tea health tips">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects/">
@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "Green Tea on Empty Stomach - Benefits and Side Effects | RAJ Hospital Ranchi",
-        "description": "Green tea on empty stomach ke fayde aur nuksan जानें। Health benefits, सही पीने का तरीका, और किन लोगों को avoid करना चाहिए। RAJ Hospital के experts से जानकारी।",
+        "description": "Green tea on empty stomach ke fayde aur nuksan जानें। Health benefits, सही पीने का तरीका, और किन लोगों को avoid करना चाहिए। RAJ Hospital द्वारा स्वास्थ्य जानकारी।",
         "url": "https://rajhospitals.com/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects",
         "image": "https://rajhospitals.com/blog/assets/img/featured/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -211,7 +211,8 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Nutrition & Wellness</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Green Tea on Empty Stomach: Boost Your Health with These Powerful Effects</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Green Tea on Empty Stomach: Benefits, Side Effects and Safe Use</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -225,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    Green tea contains powerful <strong>antioxidants</strong> called catechins, particularly <strong>EGCG (Epigallocatechin gallate)</strong>, which are known for their anti-inflammatory and metabolism-boosting properties. However, the timing and method of consumption play a crucial role in maximizing these benefits. At <a href="/" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>, our nutritionists and doctors often guide patients on the right way to incorporate green tea into their daily routine for optimal health benefits.
+                    Green tea contains powerful <strong>antioxidants</strong> called catechins, particularly <strong>EGCG (Epigallocatechin gallate)</strong>, which are known for their anti-inflammatory and metabolism-boosting properties. However, the timing and method of consumption play a crucial role in maximizing these benefits. At <a href="/" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a>, a doctor or dietitian can advise whether green tea suits you.
                 </p>
 
                 <!-- Section 1: What is Green Tea -->
@@ -236,7 +237,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    The history of <strong>green tea</strong> dates back thousands of years, originating in China and later spreading throughout Asia and the world. Traditional Chinese medicine has long recognized green tea for its medicinal properties, including improved <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">digestion</a>, mental clarity, and longevity. Modern scientific research has validated many of these traditional claims, showing that regular consumption of green tea can have profound effects on various aspects of health.
+                    The history of <strong>green tea</strong> dates back thousands of years, originating in China and later spreading throughout Asia and the world. Traditional Chinese medicine has long recognized green tea for its medicinal properties, including improved <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">digestion</a>, mental clarity, and longevity. Modern research has studied several of these traditional claims; some benefits are supported, while others need more evidence.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -254,7 +255,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">1. Enhanced Metabolism</h4>
-                        <p class="text-sm text-gray-600">The catechins in green tea, especially EGCG, boost metabolism by 4-8% when consumed on an empty stomach. This can aid in weight management and fat burning.</p>
+                        <p class="text-sm text-gray-600">The catechins and caffeine in green tea may slightly increase metabolism, but the effect is small. This can aid in weight management and fat burning.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">2. Better Antioxidant Absorption</h4>
@@ -266,7 +267,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Better <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Blood Sugar</a> Control</h4>
-                        <p class="text-sm text-gray-600">Studies show that green tea improves insulin sensitivity, which is particularly beneficial for those managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>. Learn more about our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> management programs</a>.</p>
+                        <p class="text-sm text-gray-600">Some studies suggest green tea may have a small effect on blood sugar, but it is not a treatment for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>. Learn more about our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> diet guide</a>.</p>
                     </div>
                 </div>
 
@@ -277,17 +278,17 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">6. Digestive System Benefits</h3>
                 <p class="text-gray-700 mb-4">
-                    When consumed on an empty stomach, <strong>green tea</strong> can stimulate the production of digestive enzymes and gastric juices. This preparation effect helps improve <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">digestion</a> throughout the day and can prevent common digestive issues like <a href="/blog/acidity-symptoms-in-hindi/" class="text-secondary-600 hover:underline"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a> and bloating</a>. The mild antibacterial properties also support a healthy gut microbiome.
+                    When consumed on an empty stomach, <strong>green tea</strong> can stimulate the production of digestive enzymes and gastric juices. This preparation effect helps improve <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">digestion</a> throughout the day in some people; however, on an empty stomach it can also trigger or worsen <a href="/blog/acidity-symptoms-in-hindi/" class="text-secondary-600 hover:underline"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a> and bloating</a>. The mild antibacterial properties also support a healthy gut microbiome.
                 </p>
 
-                <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">7. Natural Detoxification</h3>
+                <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">7. Antioxidant Content</h3>
                 <p class="text-gray-700 mb-4">
-                    Green tea acts as a natural detoxifier when consumed in the morning. The antioxidants help neutralize free radicals and support <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> function, which is the body's primary detox organ. This gentle detoxification process can improve skin health, boost energy levels, and enhance overall vitality.
+                    Green tea contains antioxidants, but no drink 'detoxifies' the body — the liver and kidneys do this naturally. The antioxidants help neutralize free radicals and support <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> function, which is the body's primary detox organ. 
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">8. Weight Management Support</h3>
                 <p class="text-gray-700 mb-4">
-                    For those looking to <strong>lose weight</strong>, drinking green tea on an empty stomach can be particularly effective. The thermogenic properties of catechins increase fat oxidation, while the mild caffeine provides energy for morning exercise. Combined with a healthy diet, green tea can support sustainable weight management. Our nutritionists at RAJ Hospital can create personalized <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diet plans</a> to complement your health goals.
+                    For those looking to <strong>lose weight</strong>, green tea alone has only a small effect; diet and physical activity matter far more. The thermogenic properties of catechins increase fat oxidation, while the mild caffeine provides energy for morning exercise. Combined with a healthy diet, green tea can support sustainable weight management. Our nutritionists at RAJ Hospital can create personalized <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diet plans</a> to complement your health goals.
                 </p>
 
                 <!-- Section 3: Side Effects -->
@@ -318,7 +319,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
-                    <span class="text-gray-700"> If you experience any of these symptoms, stop drinking green tea on an empty stomach and consult a healthcare provider. At RAJ Hospital, our <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">expert doctors</a> can provide personalized guidance.</span>
+                    <span class="text-gray-700"> If you experience any of these symptoms, stop drinking green tea on an empty stomach and consult a healthcare provider. At RAJ Hospital, our <a href="/find-a-doctor.php" class="text-secondary-600 hover:underline">doctors</a> can provide personalized guidance.</span>
                 </div>
 
                 <!-- Section 4: Who Should Avoid -->
@@ -330,7 +331,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>People with gastric problems</strong> - Those with <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">acidity</a>, GERD, or stomach ulcers should avoid empty stomach consumption.</li>
-                    <li><strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> women</strong> - Limit intake to 1-2 cups daily and always with food.</li>
+                    <li><strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> women</strong> - Limit intake (keep total caffeine from all sources within about 200 mg a day), take it with food, and check with your obstetrician.</li>
                     <li><strong>People with anemia</strong> - The tannins can further reduce iron absorption.</li>
                     <li><strong>Those with <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> disorders</strong> - Caffeine may exacerbate symptoms.</li>
                     <li><strong>People taking medications</strong> - Consult your doctor as green tea can interact with certain drugs.</li>
@@ -351,12 +352,12 @@
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Steep for 2-3 minutes</strong> only - longer steeping increases bitterness</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Never drink extremely hot tea</strong> - it damages the esophagus</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Limit to 2-3 cups daily</strong> for optimal benefits</li>
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Add a squeeze of lemon</strong> to enhance iron absorption</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Add a squeeze of lemon</strong> if you like (to protect iron absorption, avoid tea with iron-rich meals)</li>
                     </ul>
                 </div>
 
                 <!-- Section 6: Best Time -->
-                <h2 class="raj-h2">When is the Best Time to Drink Green Tea?</h2>
+                <h2 class="raj-h2">When is a Good Time to Drink Green Tea?</h2>
 
                 <p class="text-gray-700 mb-4">
                     While morning consumption on an empty stomach has its benefits, the timing can vary based on your goals:
@@ -365,15 +366,15 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-secondary-600">Morning (Empty Stomach)</div>
-                        <div class="text-sm text-gray-600 mt-2">Best for metabolism boost, enhanced antioxidant absorption, and natural detoxification.</div>
+                        <div class="text-sm text-gray-600 mt-2">Suitable for people who tolerate it well; avoid if it causes acidity or nausea.</div>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-secondary-600">Before Exercise</div>
-                        <div class="text-sm text-gray-600 mt-2">Ideal for fat burning - drink 30 minutes before workouts for increased fat oxidation.</div>
+                        <div class="text-sm text-gray-600 mt-2">Caffeine may slightly help exercise performance; any effect on fat loss is small.</div>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-secondary-600">Between Meals</div>
-                        <div class="text-sm text-gray-600 mt-2">Good for digestion support - wait 1 hour after meals for best results.</div>
+                        <div class="text-sm text-gray-600 mt-2">Good for digestion support - wait about 1 hour after meals.</div>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl font-bold text-secondary-600">Avoid After 5 PM</div>
@@ -391,7 +392,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Matcha Green Tea</h4>
-                        <p class="text-sm text-gray-600">The most potent form - you consume the entire leaf, getting 10x more antioxidants than regular green tea.</p>
+                        <p class="text-sm text-gray-600">The most potent form - you consume the whole powdered leaf, so it usually contains more catechins and caffeine than regular brewed green tea.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Sencha Green Tea</h4>
@@ -411,7 +412,7 @@
                 <h2 class="raj-h2">Scientific Evidence Behind Green Tea Benefits</h2>
 
                 <p class="text-gray-700 mb-4">
-                    The <strong>health benefits of green tea</strong> are not just traditional claims - they are backed by extensive scientific research:
+                    The <strong>health benefits of green tea</strong> have been studied in scientific research, with mixed results:
                 </p>
 
                 <p class="text-gray-700 mb-4">
@@ -425,7 +426,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need Personalized Health Guidance?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers nutrition counseling and health checkups. Consult our experts today.</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers nutrition counseling and health checkups. Book a consultation.</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -435,7 +436,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Can I drink green tea first thing in the morning?</h4>
-                        <p class="text-gray-700">Yes, but it's best to wait 20-30 minutes after waking. Drink it plain without milk or sugar for maximum benefits. If you experience stomach discomfort, have it after a light breakfast.</p>
+                        <p class="text-gray-700">Yes, but it is advisable to wait 20-30 minutes after waking. Drink it plain without milk or sugar for maximum benefits. If you experience stomach discomfort, have it after a light breakfast.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">How many cups of green tea should I drink daily?</h4>
@@ -447,17 +448,17 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Can green tea help with diabetes management?</h4>
-                        <p class="text-gray-700">Yes, studies show green tea improves insulin sensitivity and helps regulate blood sugar levels. Combined with our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">comprehensive diabetes management program</a>, it can be a helpful addition to your routine.</p>
+                        <p class="text-gray-700">Green tea may have a small effect on blood sugar, but it does not replace diabetes medicines or diet control. Along with our <a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline">diabetes diet guide</a>, it can be a helpful addition to your routine.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600 mb-2">What is the best temperature for green tea?</h4>
+                        <h4 class="font-bold text-secondary-600 mb-2">What is the right temperature for green tea?</h4>
                         <p class="text-gray-700">Water should be 70-80°C (160-175°F) - never boiling. Boiling water destroys the delicate catechins and creates a bitter taste. Steep for only 2-3 minutes.</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Green Tea on Empty Stomach - Benefits and Side Effects पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Green tea on empty stomach ke fayde aur nuksan जानें। Health benefits, सही पीने का तरीका, और किन लोगों को avoid करना चाहिए। RAJ Hospital के experts से जानकारी।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Green Tea on Empty Stomach - Benefits and Side Effects पर ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Green tea on empty stomach ke fayde aur nuksan जानें। Health benefits, सही पीने का तरीका, और किन लोगों को avoid करना चाहिए। RAJ Hospital द्वारा स्वास्थ्य जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Green Tea on Empty Stomach - Benefits and Side Effects शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -499,7 +500,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -508,8 +509,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Nutritionist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

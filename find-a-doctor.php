@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Find a Doctor | Raj Hospitals</title>
-    <meta name="description" content="Find the best doctors at Raj Hospital Ranchi. Browse our team of 100+ specialist doctors across cardiology, neurology, orthopaedics, and 25+ specialties. Book an appointment today." />
+    <meta name="description" content="Find doctors at Raj Hospital Ranchi. Browse our team of specialist doctors across cardiology, neurology, orthopaedics and other specialties. Book an appointment today." />
     <meta name="robots" content="index, follow" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
@@ -16,7 +16,7 @@
 
     <!-- Open Graph -->
     <meta property="og:title" content="Find a Doctor | Raj Hospitals" />
-    <meta property="og:description" content="Find the best doctors at Raj Hospital Ranchi. Browse 100+ specialist doctors across 25+ specialties. Book an appointment today." />
+    <meta property="og:description" content="Find doctors at Raj Hospital Ranchi. Browse specialist doctors across multiple specialties. Book an appointment today." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rajhospitals.com/find-a-doctor" />
     <meta property="og:image" content="https://rajhospitals.com/assets/home-img/Raj-hospital-image.webp" />
@@ -29,7 +29,7 @@
       "@type": "CollectionPage",
       "name": "Find a Doctor at Raj Hospital",
       "url": "https://rajhospitals.com/find-a-doctor",
-      "description": "Browse 100+ specialist doctors across 25+ specialties at Raj Hospital Ranchi.",
+      "description": "Browse specialist doctors across multiple specialties at Raj Hospital Ranchi.",
       "isPartOf": {
         "@type": "WebSite",
         "name": "Raj Hospitals",
@@ -123,7 +123,7 @@
                     Find a <span class="text-primary-600">Doctor</span>
                 </h1>
                 <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Our team of highly qualified and experienced doctors are here to provide you with the best medical
+                    Our team of qualified and experienced doctors is here to provide you with medical
                     care
                 </p>
             </div>

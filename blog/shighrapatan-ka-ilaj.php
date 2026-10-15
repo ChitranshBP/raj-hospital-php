@@ -7,13 +7,13 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज | RAJ Hospital Ranchi</title>
+    <title>Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय | RAJ Hospital Ranchi</title>
     <meta name="description" content="Shighrapatan Ka Ilaj in Hindi: शीघ्रपतन क्या है, इसके कारण, और घरेलू उपाय। जानिए shighrapatan meaning, shighrapatan kya hota hai, और premature ejaculation treatment।">
-    <meta name="keywords" content="shighrapatan ka ilaj, shighrapatan kya hota hai, premature ejaculation in hindi, shighrapatan ke karan, shighrapatan ka ramban ilaj">
+    <meta name="keywords" content="shighrapatan ka ilaj, shighrapatan kya hota hai, premature ejaculation in hindi, shighrapatan ke karan">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/shighrapatan-ka-ilaj/">
 
-    <meta property="og:title" content="Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज">
+    <meta property="og:title" content="Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय">
     <meta property="og:description" content="Shighrapatan Ka Ilaj in Hindi: शीघ्रपतन क्या है, इसके कारण, और घरेलू उपाय। जानिए premature ejaculation treatment।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/shighrapatan-ka-ilaj/">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -50,10 +50,10 @@
         },
         {
             "@type": "Question",
-            "name": "क्या Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
+            "name": "क्या Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए HIV Symptoms in Men in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए पुरुष स्वास्थ्य से जुड़े दूसरे विषयों को समझना भी उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "पुरुष स्वास्थ्य और हार्मोनल संतुलन से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज | RAJ Hospital Ranchi",
+        "headline": "Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय | RAJ Hospital Ranchi",
         "description": "Shighrapatan Ka Ilaj in Hindi: शीघ्रपतन क्या है, इसके कारण, और घरेलू उपाय। जानिए shighrapatan meaning, shighrapatan kya hota hai, और premature ejaculation treatment।",
         "url": "https://rajhospitals.com/blog/shighrapatan-ka-ilaj/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/shighrapatan-ka-ilaj.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज | RAJ Hospital Ranchi"
+                "name": "Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -211,13 +211,14 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="/blog/assets/img/featured/shighrapatan-ka-ilaj.png" alt="Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/shighrapatan-ka-ilaj.png" alt="Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय" class="w-full h-full object-contain">
             </div>
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Men's Health Guide</span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -227,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    क्या आप <strong>shighrapatan</strong> की problem से जूझ रहे हैं? जानिए <strong>shighrapatan ka ilaj</strong>, इसके कारण और घरेलू उपाय जो असरदार हैं।
+                    क्या आप <strong>shighrapatan</strong> की problem से जूझ रहे हैं? जानिए <strong>shighrapatan ka ilaj</strong>, इसके कारण, जांच और doctor द्वारा सुझाए जाने वाले उपाय।
                 </p>
 
                 <!-- Tags row -->
@@ -330,7 +331,6 @@
                             <h3 class="text-lg font-bold text-gray-800 mb-3"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> जीवनशैली से जुड़े कारण</h3>
                             <div class="grid md:grid-cols-2 gap-3">
                                 <ul class="list-disc list-inside text-gray-600 space-y-1">
-                                    <li><strong>Excessive masturbation:</strong> ज़्यादा हस्तमैथुन</li>
                                     <li><strong>Smoking:</strong> Nicotine effect</li>
                                     <li><strong>Alcohol:</strong> ज़्यादा शराब पीना</li>
                                 </ul>
@@ -449,14 +449,13 @@
                                         <li>Benzocaine creams</li>
                                         <li>Numbing agents</li>
                                     </ul>
-                                    <p class="text-gray-500 text-xs mt-2">15-30 minutes before apply करें</p>
+                                    <p class="text-gray-500 text-xs mt-2">Doctor की सलाह से ही use करें</p>
                                 </div>
                                 <div class="bg-purple-50 p-4 rounded-xl">
                                     <h4 class="font-bold text-purple-700 mb-2">Oral Medications</h4>
                                     <ul class="text-purple-600 text-sm space-y-1 list-disc list-inside">
                                         <li>SSRIs (Antidepressants)</li>
                                         <li>Dapoxetine</li>
-                                        <li>Tramadol (pain killer)</li>
                                     </ul>
                                     <p class="text-gray-500 text-xs mt-2">Doctor's prescription जरूरी</p>
                                 </div>
@@ -467,7 +466,7 @@
                                         <li>Sertraline</li>
                                         <li>Fluoxetine</li>
                                     </ul>
-                                    <p class="text-gray-500 text-xs mt-2">Daily या as-needed</p>
+                                    <p class="text-gray-500 text-xs mt-2">Doctor's prescription और monitoring जरूरी</p>
                                 </div>
                                 <div class="bg-orange-50 p-4 rounded-xl">
                                     <h4 class="font-bold text-orange-700 mb-2">Tricyclic Antidepressants</h4>
@@ -513,88 +512,11 @@
 
                 <!-- Home Remedies -->
                 <section id="home-remedies" class="mb-12">
-                    <h2 class="raj-h2">Shighrapatan Ke Gharelu Upay (घरेलू उपाय)</h2>
+                    <h2 class="raj-h2">Shighrapatan Ke Gharelu Upay (घरेलू उपाय): ज़रूरी सावधानी</h2>
 
                     <div class="bg-gradient-to-r from-green-50 to-emerald-50 rounded-2xl p-6">
-                        <div class="grid md:grid-cols-2 gap-6">
-                            <!-- Ashwagandha -->
-                            <div class="bg-white p-5 rounded-xl shadow">
-                                <div class="flex items-center gap-3 mb-3">
-                                    <span class="text-4xl"><i data-feather="feather" class="raj-icon raj-icon-lg raj-icon-green" aria-hidden="true"></i></span>
-                                    <h4 class="text-lg font-bold text-green-700">Ashwagandha</h4>
-                                </div>
-                                <p class="text-gray-600 text-sm mb-3">यह एक powerful adaptogen है जो stress कम करता है और stamina बढ़ाता है।</p>
-                                <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
-                                    <li>300-500mg daily लें</li>
-                                    <li>सुबह खाली पेट लेने से बेहतर results</li>
-                                    <li>3-4 months use करें</li>
-                                </ul>
-                            </div>
-
-                            <!-- Safed Musli -->
-                            <div class="bg-white p-5 rounded-xl shadow">
-                                <div class="flex items-center gap-3 mb-3">
-                                    <span class="text-4xl"><i data-feather="feather" class="raj-icon raj-icon-lg raj-icon-green" aria-hidden="true"></i></span>
-                                    <h4 class="text-lg font-bold text-green-700">Safed Musli</h4>
-                                </div>
-                                <p class="text-gray-600 text-sm mb-3">यह natural aphrodisiac है जो stamina और energy बढ़ाता है।</p>
-                                <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
-                                    <li>1 tsp powder दूध में मिलाकर पिएं</li>
-                                    <li>रात को सोने से पहले लें</li>
-                                    <li>Regular use से फायदा</li>
-                                </ul>
-                            </div>
-
-                            <!-- Shatavari -->
-                            <div class="bg-white p-5 rounded-xl shadow">
-                                <div class="flex items-center gap-3 mb-3">
-                                    <span class="text-4xl"><i data-feather="circle" class="raj-icon raj-icon-lg raj-icon-yellow" aria-hidden="true"></i></span>
-                                    <h4 class="text-lg font-bold text-green-700">Shatavari</h4>
-                                </div>
-                                <p class="text-gray-600 text-sm mb-3">यह stamina और endurance बढ़ाने में मदद करता है।</p>
-                                <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
-                                    <li>1 tsp Shatavari powder</li>
-                                    <li>गर्म दूध में मिलाकर पिएं</li>
-                                    <li>रात को सोने से 30 min पहले</li>
-                                </ul>
-                            </div>
-
-                            <!-- Gokshura -->
-                            <div class="bg-white p-5 rounded-xl shadow">
-                                <div class="flex items-center gap-3 mb-3">
-                                    <span class="text-4xl"><i data-feather="feather" class="raj-icon raj-icon-lg raj-icon-green" aria-hidden="true"></i></span>
-                                    <h4 class="text-lg font-bold text-green-700">Gokshura (Tribulus)</h4>
-                                </div>
-                                <p class="text-gray-600 text-sm mb-3">Testosterone level balanced करने में मदद करता है।</p>
-                                <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
-                                    <li>500mg capsule form में</li>
-                                    <li>दिन में दो बार लें</li>
-                                    <li>3 months minimum use करें</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- More Home Remedies -->
-                    <div class="bg-white rounded-2xl shadow-lg p-6 mt-6">
-                        <h3 class="text-xl font-bold text-gray-800 mb-4"><i data-feather="star" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> अन्य Gharelu Upay</h3>
-                        <div class="grid md:grid-cols-3 gap-4">
-                            <div class="text-center p-4 bg-amber-50 rounded-xl">
-                                <div class="text-4xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-lg raj-icon-yellow" aria-hidden="true"></i></div>
-                                <h4 class="font-bold text-amber-700">Almonds & Walnuts</h4>
-                                <p class="text-gray-600 text-sm">Zinc और omega-3 से भरपूर - stamina बढ़ाते हैं</p>
-                            </div>
-                            <div class="text-center p-4 bg-yellow-50 rounded-xl">
-                                <div class="text-4xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-lg raj-icon-yellow" aria-hidden="true"></i></div>
-                                <h4 class="font-bold text-yellow-700">Honey + Garlic</h4>
-                                <p class="text-gray-600 text-sm">शहद और लहसुन मिलाकर खाने से energy बढ़ती है</p>
-                            </div>
-                            <div class="text-center p-4 bg-orange-50 rounded-xl">
-                                <div class="text-4xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-lg raj-icon-blue" aria-hidden="true"></i></div>
-                                <h4 class="font-bold text-orange-700">Milk + Turmeric</h4>
-                                <p class="text-gray-600 text-sm">हल्दी वाला दूध - anti-inflammatory और calming</p>
-                            </div>
-                        </div>
+                        <p class="text-gray-700 mb-3">शीघ्रपतन के लिए किसी भी जड़ी-बूटी, supplement या "ताकत की दवा" का असर वैज्ञानिक रूप से साबित नहीं है। ऐसे कई products में बिना बताए दवाएं या नुकसानदेह तत्व मिले हो सकते हैं, और ये आपकी दूसरी दवाओं के साथ interaction कर सकते हैं। इसलिए Ashwagandha, Safed Musli, Shatavari, Gokshura या कोई भी supplement खुद से शुरू न करें — पहले doctor (urologist या sexual health specialist) से सलाह लें।</p>
+                        <p class="text-gray-700">जो कदम आम तौर पर मददगार माने जाते हैं: पर्याप्त नींद, तनाव कम करना, नियमित exercise, शराब और तंबाकू से दूरी, partner से खुलकर बातचीत, और doctor द्वारा बताई गई behavioural techniques (नीचे दी गई exercises देखें)।</p>
                     </div>
                 </section>
 
@@ -677,7 +599,6 @@
                                     <li>Stress management सीखें (yoga, meditation)</li>
                                     <li>Smoking छोड़ें</li>
                                     <li>Healthy weight maintain करें</li>
-                                    <li>अत्यधिक masturbation से बचें</li>
                                     <li>Proper hydration रखें</li>
                                 </ul>
                             </div>
@@ -721,8 +642,8 @@
 
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg">
-                            <h4 class="font-bold text-secondary-600 mb-2">Q: Shighrapatan ka ramban ilaj क्या है?</h4>
-                            <p class="text-gray-700">A: <strong>Shighrapatan ka ramban ilaj</strong> में behavioral techniques (stop-start, squeeze), Kegel exercises, और lifestyle changes शामिल हैं। Ayurvedic herbs जैसे Ashwagandha, Safed Musli भी मदद करते हैं। Professional help लेना सबसे अच्छा है।</p>
+                            <h4 class="font-bold text-secondary-600 mb-2">Q: Shighrapatan ka ilaj क्या है?</h4>
+                            <p class="text-gray-700">A: <strong>Shighrapatan ka ilaj</strong> में behavioral techniques (stop-start, squeeze), Kegel exercises, और lifestyle changes शामिल हैं।  Professional help लेना उचित है।</p>
                         </div>
 
                         <div class="bg-gray-50 p-4 rounded-lg">
@@ -742,7 +663,7 @@
 
                         <div class="bg-gray-50 p-4 rounded-lg">
                             <h4 class="font-bold text-secondary-600 mb-2">Q: क्या शीघ्रपतन पूरी तरह ठीक हो सकता है?</h4>
-                            <p class="text-gray-700">A: हाँ, <strong>shighrapatan</strong> पूरी तरह manageable है। कई लोगों को complete relief मिलती है। combination approach (behavioral + medical + lifestyle) सबसे effective है।</p>
+                            <p class="text-gray-700">A: हाँ, <strong>shighrapatan</strong> ज़्यादातर cases में manageable है और कई लोगों को काफ़ी राहत मिलती है। combination approach (behavioral + medical + lifestyle) सबसे effective है।</p>
                         </div>
                     </div>
                 </section>
@@ -751,7 +672,7 @@
                 <section class="bg-gradient-to-r from-blue-100 to-indigo-100 rounded-2xl p-6 md:p-8">
                     <h2 class="text-2xl font-bold text-gray-800 mb-4"><i data-feather="edit-2" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Conclusion</h2>
                     <p class="text-gray-700 leading-relaxed mb-4">
-                        <strong>Shighrapatan ka ilaj</strong> possible है और हर मर्दाना इसे overcome कर सकता है। यह एक common medical condition है - shame या embarrassment की कोई ज़रूरत नहीं।
+                        <strong>Shighrapatan ka ilaj</strong> possible है और ज़्यादातर पुरुषों में सही इलाज से सुधार होता है। यह एक common medical condition है - shame या embarrassment की कोई ज़रूरत नहीं।
                     </p>
                     <p class="text-gray-700 leading-relaxed mb-4">
                         <strong>Premature ejaculation in Hindi</strong> treatment के लिए सबसे पहले lifestyle changes करें, फिर behavioral techniques सीखें, और अगर ज़रूरत हो तो doctor से मिलें। combination approach सबसे असरदार है।
@@ -765,9 +686,9 @@
 
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय पर डॉक्टर की सलाह</h2>
                     <p class="text-gray-700 mb-4">Shighrapatan Ka Ilaj in Hindi: शीघ्रपतन क्या है, इसके कारण, और घरेलू उपाय। जानिए shighrapatan meaning, shighrapatan kya hota hai, और premature ejaculation treatment।</p>
-                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
+                    <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में पुरुष स्वास्थ्य और हार्मोनल संतुलन से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
                     <p class="text-gray-700 mb-4">यह लेख awareness और education के लिए है। इसे doctor की personal advice का विकल्प न मानें, क्योंकि treatment age, medical history, examination और test reports पर निर्भर करता है। अपने symptoms को लेकर संदेह हो तो RAJ Hospital में संबंधित specialist से मिलकर personalized treatment plan लें।</p>
@@ -789,12 +710,12 @@
                     <h2 class="raj-h2">अक्सर पूछे जाने वाले सवाल</h2>
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज में डॉक्टर को कब दिखाना चाहिए?</h3>
+                        <h3 class="font-bold text-gray-800 mb-2">Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय में डॉक्टर को कब दिखाना चाहिए?</h3>
                         <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">क्या Shighrapatan Ka Ilaj - शीघ्रपतन का रामबाण इलाज दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए HIV Symptoms in Men in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <h3 class="font-bold text-gray-800 mb-2">क्या Shighrapatan Ka Ilaj - शीघ्रपतन का इलाज और उपाय दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए पुरुष स्वास्थ्य से जुड़े दूसरे विषयों को समझना भी उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>
@@ -806,7 +727,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पुरुष स्वास्थ्य और हार्मोनल संतुलन से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -815,8 +736,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Urologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

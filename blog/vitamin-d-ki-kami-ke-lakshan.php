@@ -52,7 +52,7 @@ $base_url = '../';
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
         "mainEntityOfPage": "https://rajhospitals.com/blog/vitamin-d-ki-kami-ke-lakshan/",
-        "keywords": ["vitamin d deficiency", "vitamin d kami", "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> health", "sun exposure"],
+        "keywords": ["vitamin d deficiency", "vitamin d kami", "bone health", "sun exposure"],
         "about": {
             "@type": "MedicalCondition",
             "name": "Vitamin D Deficiency",
@@ -95,7 +95,7 @@ $base_url = '../';
                 "name": "विटामिन D की कमी से कौन सी बीमारियाँ हो सकती हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteoarthritis, कमज़ोर immunity, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> का खतरा बढ़ सकता है।"
+                    "text": "विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteomalacia (वयस्कों में हड्डियों का नरम होना), कमज़ोर immunity, heart disease, और diabetes का खतरा बढ़ सकता है।"
                 }
             },
             {
@@ -201,6 +201,7 @@ $base_url = '../';
             <h1 class="text-3xl md:text-4xl font-bold mb-4">
                 विटामिन D की कमी के लक्षण और उपाय
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <div class="flex items-center text-sm text-white/80 space-x-4">
                 <span class="flex items-center">
                     <i data-feather="user" class="w-4 h-4 mr-1"></i>
@@ -224,7 +225,7 @@ $base_url = '../';
                     <i data-feather="sun" class="w-5 h-5 text-yellow-500 mt-0.5"></i>
                     <div class="ml-3">
                         <p class="font-semibold text-yellow-700">क्या आप जानते हैं?</p>
-                        <p class="text-gray-700 text-sm">भारत में 70-90% लोगों में विटामिन D की कमी है! यह एक आम समस्या है जिसे अक्सर अनदेखा किया जाता है।</p>
+                        <p class="text-gray-700 text-sm">भारत में कई studies में बड़ी संख्या में लोगों में विटामिन D की कमी पाई गई है। यह एक आम समस्या है जिसे अक्सर अनदेखा किया जाता है।</p>
                     </div>
                 </div>
             </div>
@@ -244,7 +245,7 @@ $base_url = '../';
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-blue-50 p-4 rounded-lg border border-blue-200">
                     <h4 class="font-bold text-blue-700 mb-2">कैल्शियम अवशोषण</h4>
-                    <p class="text-gray-600 text-sm">विटामिन D आंत से कैल्शियम को absorb करने में मदद करता है। बिना विटामिन D के, कैल्शियम सप्लीमेंट भी काम नहीं करते।</p>
+                    <p class="text-gray-600 text-sm">विटामिन D आंत से कैल्शियम को absorb करने में मदद करता है। विटामिन D कम होने पर कैल्शियम का absorption काफ़ी घट जाता है।</p>
                 </div>
                 <div class="bg-green-50 p-4 rounded-lg border border-green-200">
                     <h4 class="font-bold text-green-700 mb-2">हड्डियों की मज़बूती</h4>
@@ -256,7 +257,7 @@ $base_url = '../';
                 </div>
                 <div class="bg-orange-50 p-4 rounded-lg border border-orange-200">
                     <h4 class="font-bold text-orange-700 mb-2">मांसपेशियों की ताकत</h4>
-                    <p class="text-gray-600 text-sm">यह मांसपेशियों को मज़बूत रखता है और falls (गिरने) से बचाता है।</p>
+                    <p class="text-gray-600 text-sm">यह मांसपेशियों के सही काम के लिए ज़रूरी है; गंभीर कमी में मांसपेशियां कमज़ोर हो सकती हैं।</p>
                 </div>
             </div>
 
@@ -286,8 +287,6 @@ $base_url = '../';
                         <li>Rickets (बच्चों में - हड्डियों का नरम होना)</li>
                         <li>Osteomalacia (वयस्कों में - हड्डियों का कमज़ोर होना)</li>
                         <li>बार-बार infections होना</li>
-                        <li>धुंधलापन या चक्कर आना</li>
-                        <li>सीने में दर्द</li>
                     </ul>
                 </div>
                 <div class="bg-blue-50 p-4 rounded-lg">
@@ -388,7 +387,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">1. सूर्य की रोशनी (Sun Exposure)</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                यह विटामिन D का सबसे अच्छा और free source है। लेकिन सही समय और सही तरीके से:
+                यह विटामिन D का मुख्य और free source है। लेकिन सही समय और सही तरीके से:
             </p>
 
             <div class="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-4">
@@ -404,7 +403,7 @@ $base_url = '../';
                         <tr class="border-t">
                             <td class="py-2 pr-4">सुबह 10-11 बजे</td>
                             <td class="py-2 pr-4">15-20 मिनट</td>
-                            <td class="py-2">सबसे अच्छा समय - UVB rays active</td>
+                            <td class="py-2">उपयुक्त समय - UVB rays active</td>
                         </tr>
                         <tr class="border-t">
                             <td class="py-2 pr-4">दोपहर 12-3 बजे</td>
@@ -426,9 +425,9 @@ $base_url = '../';
 
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-green-50 p-4 rounded-lg">
-                    <h4 class="font-bold text-green-700 mb-3">Best Food Sources:</h4>
+                    <h4 class="font-bold text-green-700 mb-3">Food Sources:</h4>
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
-                        <li><strong>फैटी मछली</strong> - salmon, mackerel, sardines (सबसे अच्छा)</li>
+                        <li><strong>फैटी मछली</strong> - salmon, mackerel, sardines (भरपूर मात्रा में)</li>
                         <li><strong>अंडे</strong> - yolk में विटामिन D</li>
                         <li><strong>मशरूम</strong> - UV-exposed mushrooms</li>
                         <li><strong>फोर्टिफाइड मिल्क</strong> - vitamin D fortified</li>
@@ -476,7 +475,7 @@ $base_url = '../';
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
                         <li>बुज़ुर्ग (65+ उम्र)</li>
                         <li>गर्भवती और breastfeeding women</li>
-                        <li>दुबले लोग (low body fat)</li>
+                        <li>मोटापे (obesity) से ग्रस्त लोग</li>
                         <li>गहरी त्वचा वाले लोग</li>
                         <li>कम sun exposure वाले</li>
                         <li>Malabsorption syndromes</li>
@@ -485,7 +484,7 @@ $base_url = '../';
                 <div class="bg-blue-50 p-4 rounded-lg">
                     <h4 class="font-bold text-blue-700 mb-3">भारत में विशेष स्थिति:</h4>
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
-                        <li>70-90% Indians में कमी</li>
+                        <li>कई Indian studies में बड़े पैमाने पर कमी</li>
                         <li>Even sunny states में भी कमी</li>
                         <li>Indoor lifestyle बड़ा कारण</li>
                         <li>Pollution भी UVB block करता है</li>
@@ -501,7 +500,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">विटामिन D की जाँच करें</h3>
                         <p class="text-white/90">Simple blood test से पता चलेगा आपको कितना चाहिए</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>
@@ -557,7 +556,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: विटामिन D की कमी से कौन सी बीमारियाँ हो सकती हैं?</h4>
-                    <p class="text-gray-700 text-sm">विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteoarthritis, कमज़ोर immunity, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> का खतरा बढ़ सकता है।</p>
+                    <p class="text-gray-700 text-sm">विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteomalacia (वयस्कों में हड्डियों का नरम होना), कमज़ोर immunity, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> का खतरा बढ़ सकता है।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">

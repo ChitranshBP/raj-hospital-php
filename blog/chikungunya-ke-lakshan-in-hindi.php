@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>चिकनगुनिया के लक्षण (Chikungunya Symptoms) - Complete Hindi Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="चिकनगुनिया (Chikungunya) के प्रमुख लक्षण, कारण, इलाज और बचाव के उपाय जानें। Dengue और Chikungunya में अंतर और effective treatment।">
+    <meta name="description" content="चिकनगुनिया (Chikungunya) के प्रमुख लक्षण, कारण, इलाज और बचाव के उपाय जानें। Dengue और Chikungunya में अंतर और इलाज की जानकारी।">
     <meta name="keywords" content="chikungunya, चिकनगुनिया, chikungunya ke lakshan, chikungunya symptoms in hindi, chikungunya fever, mosquito disease, viral fever ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/chikungunya-ke-lakshan-in-hindi/">
@@ -77,7 +77,7 @@
             "name": "इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "चिकनगुनिया के लक्षण (Chikungunya Symptoms) - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "चिकनगुनिया (Chikungunya) के प्रमुख लक्षण, कारण, इलाज और बचाव के उपाय जानें। Dengue और Chikungunya में अंतर और effective treatment।",
+        "description": "चिकनगुनिया (Chikungunya) के प्रमुख लक्षण, कारण, इलाज और बचाव के उपाय जानें। Dengue और Chikungunya में अंतर और इलाज की जानकारी।",
         "url": "https://rajhospitals.com/blog/chikungunya-ke-lakshan-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/chikungunya-ke-lakshan-in-hindi.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Viral Infection</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">चिकनगुनिया के लक्षण (Chikungunya Symptoms) - Complete Hindi Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -227,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>चिकनगुनिया (Chikungunya)</strong> एक mosquito-borne viral disease है जो <strong>Aedes aegypti</strong> और <strong>Aedes albopictus</strong> mosquitoes के काटने से फैलती है। इसका नाम Swahili भाषा से आया है जिसका मतलब "जो कुचलता है" है, जो इसके लक्षणों की तीव्रता को दर्शाता है।
+                    <strong>चिकनगुनिया (Chikungunya)</strong> एक mosquito-borne viral disease है जो <strong>Aedes aegypti</strong> और <strong>Aedes albopictus</strong> mosquitoes के काटने से फैलती है। इसका नाम Tanzania की Kimakonde भाषा से आया है जिसका मतलब "जो झुका देता है" है, जो इसके लक्षणों की तीव्रता को दर्शाता है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -243,7 +244,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> चिकनगुनिया का कोई specific vaccine या antiviral treatment नहीं है। Treatment मुख्य रूप से symptoms को manage करने पर focused है।</span>
+                    <span class="text-gray-700"> चिकनगुनिया का कोई specific antiviral treatment नहीं है, और India में इसका vaccine अभी आम तौर पर उपलब्ध नहीं है। Treatment मुख्य रूप से symptoms को manage करने पर focused है।</span>
                 </div>
 
                 <!-- Section 2: Symptoms -->
@@ -348,7 +349,7 @@
                         <div class="font-bold text-blue-700 mb-2">घरेलू देखभाल</div>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>भरपूर आराम (complete bed rest)</li>
-                            <li>आंशिक रूप से नम और ठंडा</li>
+                            <li>भरपूर पानी और तरल पदार्थ; जोड़ों पर ठंडी सिकाई</li>
                             <li>हल्का पौष्टिक आहार</li>
                             <li>जोड़ों की gentle stretching</li>
                         </ul>
@@ -364,7 +365,7 @@
                 <h2 class="raj-h2">चिकनगुनिया से बचाव</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Prevention</strong> mosquito bites से बचाव पर based है क्योंकि कोई vaccine नहीं है।
+                    <strong>Prevention</strong> mosquito bites से बचाव पर based है क्योंकि India में vaccine अभी आम तौर पर उपलब्ध नहीं है।
                 </p>
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
@@ -388,7 +389,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Chikungunya की जांच की जरूरत है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में blood tests (NS1, IgM) और complete checkup available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में Chikungunya और Dengue की जांच (RT-PCR/IgM, NS1) और complete checkup available है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -406,13 +407,13 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">चिकनगुनिया एक बार होने के बाद फिर हो सकता है?</h4>
-                        <p class="text-gray-700">नहीं, एक बार होने के बाद lifelong immunity मिलती है।</p>
+                        <p class="text-gray-700">आमतौर पर नहीं — एक बार संक्रमण के बाद लंबे समय तक immunity मानी जाती है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">चिकनगुनिया के लक्षण (Chikungunya Symptoms) पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">चिकनगुनिया (Chikungunya) के प्रमुख लक्षण, कारण, इलाज और बचाव के उपाय जानें। Dengue और Chikungunya में अंतर और effective treatment।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">चिकनगुनिया के लक्षण (Chikungunya Symptoms): जरूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">चिकनगुनिया (Chikungunya) के प्रमुख लक्षण, कारण, इलाज और बचाव के उपाय जानें। Dengue और Chikungunya में अंतर और इलाज की जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। चिकनगुनिया के लक्षण (Chikungunya Symptoms) शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -454,7 +455,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -463,8 +464,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Physician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

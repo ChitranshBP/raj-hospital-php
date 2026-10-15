@@ -77,7 +77,7 @@
             "name": "इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Viral Infection</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">चिकनपॉक्स के लक्षण (Chicken Pox Symptoms) - Complete Hindi Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -238,7 +239,7 @@
                 <h2 class="raj-h2">चिकनपॉक्स क्या है?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>चिकनपॉक्स</strong> एक छोटे बच्चे के चिकन जैसे दिखने वाले spots (छोटे-छोटे दाने) पैदा करने के कारण इसका नाम पड़ा है। यह air through droplets के द्वारा फैलता है और संक्रमित व्यक्ति के contact से आसानी से पास हो जाता है।
+                    <strong>चिकनपॉक्स</strong> शरीर पर छोटे-छोटे खुजलीदार पानी भरे दाने (blisters) इसकी पहचान हैं। यह खांसी/छींक की droplets, हवा और दानों के fluid के संपर्क से फैलता है। यह air through droplets के द्वारा फैलता है और संक्रमित व्यक्ति के contact से आसानी से पास हो जाता है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -268,7 +269,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. थकान और कमजोरी</h4>
-                        <p class="text-sm text-gray-600">शरीर में allgemeine Unwohlsein और थकान महसूस होना।</p>
+                        <p class="text-sm text-gray-600">शरीर में सामान्य बेचैनी (malaise) और थकान महसूस होना।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. भूख न लगना</h4>
@@ -311,7 +312,7 @@
                 <h2 class="raj-h2">चिकनपॉक्स का इलाज और घरेलू देखभाल</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Chicken pox treatment</strong> में मुख्य रूप से symptoms की देखभाल और आराम शामिल है। कोई specific antiviral therapy healthy बच्चों के लिए आमतौर पर जरूरी नहीं होती।
+                    <strong>Chicken pox treatment</strong> में मुख्य रूप से symptoms की देखभाल और आराम शामिल है। कोई specific antiviral therapy healthy बच्चों के लिए आमतौर पर जरूरी नहीं होती, लेकिन बड़ों, गर्भवती महिलाओं, नवजात शिशुओं और कमजोर immunity वाले मरीजों में डॉक्टर जल्दी antiviral दवा दे सकते हैं — ऐसे में तुरंत डॉक्टर से मिलें।
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -345,7 +346,7 @@
                 <h2 class="raj-h2">चिकनपॉक्स से बचाव</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Varicella vaccine</strong> सबसे प्रभावी बचाव है। India में यह vaccine अब available है और 12-15 महीने के baby को पहली dose, और 4-6 साल में दूसरी dose दी जा सकती है।
+                    <strong>Varicella vaccine</strong> सबसे प्रभावी बचाव है। India में यह vaccine अब available है और आम तौर पर पहली dose 15 महीने पर और दूसरी dose 3-6 महीने बाद दी जाती है — सही schedule के लिए अपने paediatrician से सलाह लें।
                 </p>
 
                 <!-- CTA Box -->
@@ -374,7 +375,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">चिकनपॉक्स के लक्षण (Chicken Pox Symptoms) पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">चिकनपॉक्स के लक्षण (Chicken Pox Symptoms): जरूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">चिकनपॉक्स (Chicken Pox) के प्रमुख लक्षण, कारण, इलाज और बचाव के उपाय जानें। बच्चों और बड़ों में चिकनपॉक्स के symptoms और home care tips।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। चिकनपॉक्स के लक्षण (Chicken Pox Symptoms) शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -417,7 +418,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -426,8 +427,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Pediatrician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

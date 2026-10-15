@@ -118,7 +118,7 @@
             },
             {
                 "@type": "Question",
-                "name": "What is the best way to eat sweets without a blood sugar spike?",
+                "name": "How can you eat sweets without a big blood sugar spike?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Timing and sequence matter as much as quantity. Eat sweets immediately after a balanced meal containing protein, fibre and vegetables rather than on an empty stomach, because the meal slows sugar absorption. Never skip a meal to save room for sweets, since that produces the sharpest spike. Choose milk-based or nut-based sweets over deep-fried syrup-soaked ones, drink water rather than sweetened drinks alongside, and take a ten to fifteen minute walk after eating, which measurably blunts the post-meal rise."
@@ -194,9 +194,10 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Nutrition · Festive Season</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Festive-Season Sweets and Blood Pressure: A Realistic Guide, Not a Ban List</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Cardiology &amp; Dietetics Teams, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Written by the Raj Hospitals Health Information Team</span>
                 </div>
             </div>
 
@@ -269,7 +270,7 @@
                     </ul>
                 </div>
                 <p class="text-gray-700 mb-4 mt-6">
-                    The reason this list matters is that "it is just gas" is the most dangerous sentence spoken during the festive season. A heart attack in the inferior wall of the heart genuinely produces burning upper abdominal pain and belching, and an antacid will not distinguish the two. We cover this overlap in detail in <a href="/blog/difference-between-gas-pain-and-heart-attack-symptoms/" class="text-secondary-600 hover:underline font-semibold">gas pain versus heart attack symptoms</a>, in <a href="/blog/can-gas-cause-heart-attack/" class="text-secondary-600 hover:underline font-semibold">whether gas can cause a heart attack</a>, and in our guide to <a href="/blog/silent-heart-attack-symptoms/" class="text-secondary-600 hover:underline font-semibold">silent and atypical heart attack symptoms</a>. If you are over 40 with risk factors, an ECG takes five minutes and settles the question.
+                    The reason this list matters is that "it is just gas" is the most dangerous sentence spoken during the festive season. A heart attack in the inferior wall of the heart genuinely produces burning upper abdominal pain and belching, and an antacid will not distinguish the two. We cover this overlap in detail in <a href="/blog/difference-between-gas-pain-and-heart-attack-symptoms/" class="text-secondary-600 hover:underline font-semibold">gas pain versus heart attack symptoms</a>, in <a href="/blog/can-gas-cause-heart-attack/" class="text-secondary-600 hover:underline font-semibold">whether gas can cause a heart attack</a>, and in our guide to <a href="/blog/silent-heart-attack-symptoms/" class="text-secondary-600 hover:underline font-semibold">silent and atypical heart attack symptoms</a>. If you are over 40 with risk factors, an ECG takes five minutes and is an important first test — but a normal ECG does not always rule out a heart attack, so follow the doctor's advice on further tests.
                 </p>
                 <p class="text-gray-700 mb-4">
                     <strong>The medication trap.</strong> Missed doses cause more festive emergencies than sweets do. Travel, houseguests, changed routines and simply running out of supply all contribute. Blood pressure and heart medicines in particular can cause a rebound rise when stopped suddenly. Carry more than you need, keep tablets in hand luggage rather than checked bags, set phone alarms, and never adjust insulin or diabetes tablets yourself around fasting days without asking first.
@@ -336,7 +337,7 @@
                         <p class="text-gray-700">Sugar gets the attention but salt moves blood pressure fastest. Festive namkeen, fried snacks, papad, pickles, packaged food and restaurant meals carry far more sodium than home cooking. Extra sodium makes the body retain fluid, raising blood pressure within days and precipitating breathlessness and ankle swelling in anyone with heart failure. Controlling the savoury table usually matters more than the sweets.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                        <h3 class="font-bold text-gray-800 mb-2">What is the best way to eat sweets without a blood sugar spike?</h3>
+                        <h3 class="font-bold text-gray-800 mb-2">How can you eat sweets without a big blood sugar spike?</h3>
                         <p class="text-gray-700">Eat them immediately after a balanced meal with protein, fibre and vegetables rather than on an empty stomach, because the meal slows absorption. Never skip a meal to save room, since that causes the sharpest spike. Prefer milk or nut-based sweets over deep-fried syrup-soaked ones, drink water rather than sweetened drinks, and take a ten to fifteen minute walk afterwards.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -368,7 +369,7 @@
                 <section class="mt-8 bg-white border border-gray-200 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">Related Heart, Sugar and Diet Guides</h2>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline font-semibold">The best Indian diet plan for diabetes patients</a></li>
+                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-secondary-600 hover:underline font-semibold">An Indian diet plan for diabetes patients</a></li>
                         <li><a href="/blog/remedies-for-high-bp/" class="text-secondary-600 hover:underline font-semibold">Practical remedies for high blood pressure</a></li>
                         <li><a href="/blog/bp-high-hone-par-kya-kare/" class="text-secondary-600 hover:underline font-semibold">BP high hone par kya kare &mdash; तुरंत क्या करें</a></li>
                         <li><a href="/blog/sugar-symptoms-in-hindi/" class="text-secondary-600 hover:underline font-semibold">Sugar symptoms in Hindi &mdash; डायबिटीज के शुरुआती लक्षण</a></li>
@@ -384,7 +385,7 @@
                     <div class="w-16 h-16 shrink-0 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Cardiology &amp; Dietetics Teams, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Medically reviewed by our consultant cardiologists and clinical dietitians &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <p class="text-sm text-gray-500"><a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi</title>
+    <title>Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi</title>
     <meta name="description" content="Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए? Complete pregnancy diet guide in Hindi। nutrients, foods to avoid, और meal planning tips।">
     <meta name="keywords" content="pregnant mein kya khaana chahiye, garbhwali ko kya khana chahiye, pregnancy diet in hindi, garbhavastha mein kya khana chahiye, pregnant diet plan, pregnancy nutrition">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi",
+        "headline": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi",
         "description": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए? Complete pregnancy diet guide in Hindi। nutrients, foods to avoid, और meal planning tips।",
         "url": "https://rajhospitals.com/blog/pregnant-mein-kya-kya-khana-chahie/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnant-mein-kya-kya-khana-chahie.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi"
+                "name": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Nutrition</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -258,7 +259,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">4. Protein (प्रोटीन)</h4>
-                        <p class="text-sm text-gray-600"><strong>Daily need:</strong> 75-100g</p>
+                        <p class="text-sm text-gray-600"><strong>Daily need:</strong> लगभग 60-75g (trimester के अनुसार; डॉक्टर/dietitian से पूछें)</p>
                         <p class="text-sm text-gray-600"><strong>Sources:</strong> Lean meat, fish, eggs, dairy, beans, nuts</p>
                         <p class="text-sm text-gray-600"><strong>Benefits:</strong> Baby की growth और maternal tissue development के लिए।</p>
                     </div>
@@ -355,13 +356,13 @@
                     <li><strong>Hydration</strong> का ध्यान रखें - रोजाना 8-10 glasses water पिएं</li>
                     <li><strong>Iron supplements</strong> लें जैसा doctor ने prescribed किया</li>
                     <li><strong>Food hygiene</strong> का पालन करें - साफ-सुथरा खाना खाएं</li>
-                    <li><strong>Vitamin D</strong> - sunlight से कुछ time spend करें या supplements लें</li>
+                    <li><strong>Vitamin D</strong> - sunlight में कुछ समय बिताएं; supplements केवल डॉक्टर की सलाह से लें</li>
                 </ul>
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Diet Consultation चाहिए?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert dietitians द्वारा personalized pregnancy nutrition plan available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में dietitian से pregnancy nutrition consultation उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -384,7 +385,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए? Complete pregnancy diet guide in Hindi। nutrients, foods to avoid, और meal planning tips।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -427,7 +428,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -436,8 +437,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gynecologist & Dietitian</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

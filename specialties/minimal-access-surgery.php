@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Minimal Access Surgery in Ranchi | Best Laparoscopic Surgery Hospital in Ranchi – Raj Hospital</title>
+    <title>Minimal Access Surgery in Ranchi | Laparoscopic Surgery Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
         content="Raj Hospital offers advanced minimal access and laparoscopic surgery in Ranchi with experienced surgeons, modern operation theatres and faster recovery." />
@@ -44,11 +44,6 @@ Minimally Invasive Surgery in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -91,10 +86,10 @@ Minimally Invasive Surgery in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best hospital for minimal access surgery in Ranchi?",
+      "name": "Does Raj Hospital offer minimal access surgery in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best hospitals in Ranchi for minimal access and laparoscopic surgery."
+        "text": "Yes, Raj Hospital in Ranchi offers minimal access and laparoscopic surgery."
       }
     },
     {
@@ -102,7 +97,7 @@ Minimally Invasive Surgery in Jharkhand
       "name": "Is laparoscopic surgery safe at Raj Hospital?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, minimal access and laparoscopic surgeries at Raj Hospital are performed using advanced techniques with high safety standards."
+        "text": "Minimal access and laparoscopic surgeries at Raj Hospital are performed by trained surgeons following standard safety protocols; like any surgery they carry some risks, which your surgeon will explain."
       }
     }
   ]
@@ -265,11 +260,11 @@ Minimally Invasive Surgery in Jharkhand
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of General and Minimally
                             Invasive Surgery at Raj Hospitals offers complete evaluation, diagnosis, and surgical
-                            treatment for a wide range of disorders. Our surgeons provide state-of-the-art patient care,
+                            treatment for a wide range of disorders. Our surgeons provide modern patient care,
                             using minimally invasive and laser techniques for improved recovery and outcomes. We
                             specialize in abdominal, breast, skin, hernia, and soft tissue surgeries, delivering
-                            personalized care and excellent results. ICU and emergency services ensure patients receive
-                            the highest level of surgical care, with a multidisciplinary team approach.</p>
+                            personalized care. ICU and emergency services ensure patients receive
+                            comprehensive surgical care, with a multidisciplinary team approach.</p>
 
                         <!-- Why Choose Us Box -->
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
@@ -287,7 +282,7 @@ Minimally Invasive Surgery in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -317,7 +312,7 @@ Minimally Invasive Surgery in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">Advanced operation theatres with state-of-the-art
+                                    <span class="text-gray-700">Advanced operation theatres with modern
                                         equipment</span>
                                 </div>
                             </div>
@@ -492,7 +487,7 @@ Minimally Invasive Surgery in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Laser Surgery For Proctology</h3>
-                        <p class="text-gray-600 mb-4">Painless, advanced treatment for fissures, fistulas, piles, and
+                        <p class="text-gray-600 mb-4">Advanced laser treatment for fissures, fistulas, piles, and
                             hemorrhoids using laser.</p>
                     </div>
                 </div>
@@ -592,59 +587,6 @@ Minimally Invasive Surgery in Jharkhand
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Minimal Access Surgery department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="settings" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Complex Abdominal Surgery Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Jassi</p>
-                    <p class="text-gray-700 mb-6">I underwent surgery for a complicated abdominal wall problem at Raj
-                        Hospitals. The surgeon's laparoscopic skill and the care I received resulted in a quick and
-                        satisfying recovery.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Full recovery post-laparoscopic
-                                repair.</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="settings" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Gallbladder Stone Removal</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Gokul</p>
-                    <p class="text-gray-700 mb-6">I was facing gallbladder stones and the Raj Hospitals surgical team
-                        treated me so well and performed the surgery efficiently. The team is fantastic.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Problem solved, fast recovery.</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
@@ -701,7 +643,7 @@ Minimally Invasive Surgery in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Laser surgeries for hemorrhoids, fistulas etc. are usually painless and offer faster
+                                <p>Laser surgeries for hemorrhoids, fistulas etc. usually cause less pain and may offer faster
                                     healing as compared to traditional procedures.</p>
                             </div>
                         </div>
@@ -774,6 +716,10 @@ Minimally Invasive Surgery in Jharkhand
                             <input type="hidden" name="specialty" value="Minimal Access Surgery">
 
                             <!-- Submit Button -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-5 h-5"></i>

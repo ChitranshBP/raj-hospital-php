@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में | RAJ Hospital Ranchi</title>
-    <meta name="description" content="पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय हिंदी में। Ranchi में best kidney stone treatment RAJ Hospital में।">
+    <title>Kidney Stone Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में | RAJ Hospital Ranchi</title>
+    <meta name="description" content="पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय हिंदी में। RAJ Hospital Ranchi में kidney stone treatment उपलब्ध।">
     <meta name="keywords" content="kidney stone symptoms men, पथरी के लक्षण पुरुषों में, kidney stone treatment, पथरी का इलाज, kidney stone in hindi, renal stone, मूत्रपथरी">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/kidney-stone-symptoms-in-men-in-hindi/">
@@ -39,8 +39,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में",
-        "description": "पथरी के लक्षण पुरुषों में, कारण, इलाज और बचाव के उपाय। RAJ Hospital Ranchi में expert kidney stone treatment।",
+        "name": "Kidney Stone Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में",
+        "description": "पथरी के लक्षण पुरुषों में, कारण, इलाज और बचाव के उपाय। RAJ Hospital Ranchi में kidney stone treatment।",
         "url": "https://rajhospitals.com/blog/kidney-stone-symptoms-in-men-in-hindi/",
         "author": {
             "@type": "Organization",
@@ -85,7 +85,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men"
+                "name": "Kidney Stone Symptoms in Men"
             }
         ]
     }
@@ -98,7 +98,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "पथरी (<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a>) क्या है और पुरुषों में इसके क्या लक्षण हैं?",
+                "name": "पथरी (Kidney Stone) क्या है और पुरुषों में इसके क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "पथरी एक solid mass है जो kidney में minerals और salts के crystallizing से बनती है। पुरुषों में लक्षणों में तेज पीठ दर्द (विशेषकर पसलियों के नीचे), पेशाब में दर्द जलन, blood in urine, बार-बार पेशाब, मतली और उल्टी शामिल हैं।"
@@ -117,7 +117,7 @@
                 "name": "पथरी का इलाज कैसे होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "पथरी का treatment size और type पर depend करता है: 1) छोटी पथरी (>5mm): दवाइयों से निकलने देना, pain management 2) बड़ी पथरी (>10mm): ESWL (lithotripsy), ureteroscopy, या surgery। RAJ Hospital Ranchi में सभी treatment options available हैं।"
+                    "text": "पथरी का treatment size और type पर depend करता है: 1) छोटी पथरी (5mm से छोटी): दवाइयों से निकलने देना, pain management 2) बड़ी पथरी (>10mm): ESWL (lithotripsy), ureteroscopy, या surgery। RAJ Hospital Ranchi में सभी treatment options available हैं।"
                 }
             },
             {
@@ -185,6 +185,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -197,7 +198,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital Ranchi में हमारी expert <a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">urology</a> team <a href="/blog/kidney-stone-ka-ilaj/" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">kidney stone</a> treatment</a> में specialized है। हमारे पास latest diagnostic और treatment facilities उपलब्ध हैं।
+                    RAJ Hospital Ranchi में हमारी expert <a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">urology</a> team <a href="/blog/kidney-stone-ka-ilaj/" class="text-primary-600 hover:underline font-semibold"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">kidney stone</a> treatment</a> में specialized है। 
                 </p>
 
                 <div class="bg-red-100 border-2 border-red-500 p-4 rounded-lg mb-6">
@@ -335,9 +336,9 @@
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">1. छोटी पथरी के लिए (Conservative Treatment)</h3>
                 <div class="bg-blue-50 p-4 rounded-lg mb-6">
                     <ul class="text-gray-700 space-y-2">
-                        <li><strong>Pain Management:</strong> NSAIDs (ibuprofen, naproxen) या prescribed painkillers</li>
-                        <li><strong>Medical Expulsion Therapy:</strong> Alpha blockers (जैसे tamsulosin) जो ureter को relax करते हैं और stone pass होने में मदद करते हैं</li>
-                        <li><strong>Hydration:</strong> ज्यादा पानी पीना (3-4 liters/day)</li>
+                        <li><strong>Pain Management:</strong> Doctor की सलाह से painkillers (NSAIDs dehydration, kidney की बीमारी या stomach ulcer में नुकसान कर सकते हैं)</li>
+                        <li><strong>Medical Expulsion Therapy:</strong> Doctor द्वारा prescribed alpha blockers (जैसे tamsulosin) जो ureter को relax करते हैं और stone pass होने में मदद करते हैं</li>
+                        <li><strong>Hydration:</strong> ज्यादा पानी पीना (doctor की सलाह अनुसार, आमतौर पर 2.5-3 liters/day; heart/kidney failure में कम)</li>
                         <li><strong>Watchful Waiting:</strong> अगर stone <5mm है, तो 4-6 weeks में self-pass हो सकती है</li>
                     </ul>
                 </div>
@@ -393,8 +394,8 @@
                 </div>
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">पथरी (Kidney Stone) का Expert इलाज</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced urologists द्वारा kidney stone diagnosis और treatment उपलब्ध है। Latest ESWL और surgical facilities।</p>
+                    <h3 class="text-xl font-bold mb-2">पथरी (Kidney Stone) का इलाज</h3>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced urologists द्वारा kidney stone diagnosis और treatment उपलब्ध है। </p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
@@ -407,7 +408,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">पथरी का इलाज कैसे होता है?</h4>
-                        <p class="text-gray-700">छोटी पथरी (>5mm) के लिए दवाइयों से self-pass होने दिया जाता है। बड़ी पथरी के लिए <strong>ESWL (lithotripsy), ureteroscopy, या surgery</strong> की जाती है। RAJ Hospital Ranchi में सभी treatment options available हैं।</p>
+                        <p class="text-gray-700">5mm से छोटी पथरी के लिए दवाइयों से self-pass होने दिया जाता है। बड़ी पथरी के लिए <strong>ESWL (lithotripsy), ureteroscopy, या surgery</strong> की जाती है। RAJ Hospital Ranchi में सभी treatment options available हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">पथरी से कैसे बचें?</h4>
@@ -420,8 +421,8 @@
                 </div>
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Kidney Stone Symptoms in Men पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय। Ranchi में best kidney stone treatment RAJ Hospital में।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Kidney Stone Symptoms in Men पर ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय। RAJ Hospital Ranchi में kidney stone treatment उपलब्ध।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि symptoms को सही medical context में समझा जाए। Kidney Stone Symptoms in Men शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण dehydration, diet, infection, या किसी गंभीर condition से जुड़ा हो सकता है।</p>
                 </section>
 
@@ -440,8 +441,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Urologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

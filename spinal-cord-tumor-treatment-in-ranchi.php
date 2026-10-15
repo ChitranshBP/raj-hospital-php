@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Spinal Cord Tumors Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Spinal Cord Tumors Treatment in Ranchi | Neurosurgery | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Advanced Spinal Cord Tumor treatment in Ranchi. Raj Hospital's neurosurgeons provide safe microsurgery, precise tumor removal, and excellent spine care." />
-    <meta name="keywords" content="spinal cord tumor surgery in Ranchi, spinal tumor treatment Ranchi, neurosurgeon for spine tumor Ranchi, best spine hospital in Ranchi" />
+    <meta name="description" content="Advanced Spinal Cord Tumor treatment in Ranchi. Raj Hospital's neurosurgeons provide microsurgical tumor removal and spine care." />
+    <meta name="keywords" content="spinal cord tumor surgery in Ranchi, spinal tumor treatment Ranchi, neurosurgeon for spine tumor Ranchi, spine hospital in Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/spinal-cord-tumor-treatment-in-ranchi" />
@@ -68,7 +68,7 @@
           "name": "Are all spinal tumors cancerous?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No, many spinal tumors (like meningiomas or schwannomas) are benign (non-cancerous). However, even benign tumors can cause severe damage by compressing the spinal cord and require surgical removal."
+            "text": "No, many spinal tumors (like meningiomas or schwannomas) are benign (non-cancerous). However, even benign tumors can damage the spinal cord by pressing on it, and they often need surgical removal; small tumors without symptoms are sometimes monitored with scans."
           }
         },
         {
@@ -84,7 +84,7 @@
           "name": "How do surgeons access deep spinal internal tumors?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Surgical masterful techniques utilize incredibly advanced precise microsurgical intensive tools comprehensively paired heavily with intensive exact intraoperative careful real-time nerve monitoring ensuring spinal cord safety."
+            "text": "Surgeons use an operating microscope and, where available, intraoperative nerve monitoring to help reduce the risk of injury to the spinal cord during tumor removal."
           }
         },
         {
@@ -92,7 +92,7 @@
           "name": "Can radiation shrink un-removable tumors?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Absolutely. High-powered pinpoint radiation is utilized highly effectively strictly for utterly inoperable massively intertwined severe complex tumors frequently or crucially to mop-up microscopically completely any tiny remaining tumor cells."
+            "text": "Often, yes. Radiation therapy, including focused techniques such as stereotactic radiosurgery, can be used to control tumors that cannot be fully removed or to treat tumor cells left after surgery; its suitability depends on the tumor type."
           }
         },
         {
@@ -173,8 +173,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Spinal Cord Tumors Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Spinal Cord Tumors Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -190,7 +190,7 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Spinal Cord Tumors Treatment in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            A spinal tumor is an abnormal mass of tissue within or surrounding the spinal cord and/or spinal column. They can be benign or malignant but often require intervention due to the risk of neurological damage. Raj Hospital is the leading center for complex <strong>spinal cord tumor treatment in Ranchi</strong>. Our expert neurosurgeons employ microsurgical techniques to safely remove tumors while preserving crucial motor and sensory functions.
+                            A spinal tumor is an abnormal mass of tissue within or surrounding the spinal cord and/or spinal column. They can be benign or malignant but often require intervention due to the risk of neurological damage. Raj Hospital offers <strong>spinal cord tumor treatment in Ranchi</strong>. Our neurosurgeons use microsurgical techniques that aim to remove tumors while protecting motor and sensory function as far as possible.
                         </p>
                     </div>
 
@@ -228,7 +228,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -266,7 +266,7 @@
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Radiation Therapy</h4>
-                                <p class="text-gray-600">Often utilized post-surgery to eliminate any remaining tumor cells or manage inoperable tumors.</p>
+                                <p class="text-gray-600">May be used after surgery to treat remaining tumor cells, or to control tumors that cannot be removed.</p>
                             </div>
 
                         </div>
@@ -291,6 +291,10 @@
                                 <input type="email" name="email" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all" placeholder="Email Address">
                             </div>
                             <input type="hidden" name="specialty" value="Spinal Cord Tumors Treatment Inquiry">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200">
                                 Request Callback
                             </button>
@@ -308,8 +312,8 @@
                             </div>
                             <div class="p-5">
                                 <h3 class="text-lg font-bold text-gray-900 mb-1">Dr. Vivek Raj</h3>
-                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, MCh</p>
-                                <p class="text-secondary-600 text-sm mb-3">Neurology & Neurosurgery</p>
+                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, DNB</p>
+                                <p class="text-secondary-600 text-sm mb-3">Neurosurgery (Brain & Spine)</p>
                                 <a href="doctors/vivek-raj.php" class="block text-center w-full bg-primary-50 text-primary-600 py-2 rounded-lg border border-primary-200 hover:bg-primary-500 hover:text-white transition-colors font-medium text-sm">
                                     View Profile
                                 </a>
@@ -341,7 +345,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>No, many spinal tumors (like meningiomas or schwannomas) are benign (non-cancerous). However, even benign tumors can cause severe damage by compressing the spinal cord and require surgical removal.</p>
+                                <p>No, many spinal tumors (like meningiomas or schwannomas) are benign (non-cancerous). However, even benign tumors can damage the spinal cord by pressing on it, and they often need surgical removal; small tumors without symptoms are sometimes monitored with scans.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -359,7 +363,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Surgical masterful techniques utilize incredibly advanced precise microsurgical intensive tools comprehensively paired heavily with intensive exact intraoperative careful real-time nerve monitoring ensuring spinal cord safety.</p>
+                                <p>Surgeons use an operating microscope and, where available, intraoperative nerve monitoring to help reduce the risk of injury to the spinal cord during tumor removal.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -368,7 +372,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Absolutely. High-powered pinpoint radiation is utilized highly effectively strictly for utterly inoperable massively intertwined severe complex tumors frequently or crucially to mop-up microscopically completely any tiny remaining tumor cells.</p>
+                                <p>Often, yes. Radiation therapy, including focused techniques such as stereotactic radiosurgery, can be used to control tumors that cannot be fully removed or to treat tumor cells left after surgery; its suitability depends on the tumor type.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -434,6 +438,10 @@
                             <input type="hidden" name="specialty" value="Spinal Cord Tumors Specialist Inquiry">
 
                             <!-- Submit Box -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-[#f97316] hover:bg-[#ea580c] text-white px-6 py-3.5 rounded-lg font-bold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-4 h-4"></i>

@@ -7,15 +7,15 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>सिरदर्द का घरेलू इलाज | <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi - तुरंत राहत के उपाय | RAJ Hospital Ranchi</title>
-    <meta name="description" content="सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय जानें। पानी, आराम, सिकाई, मसाज और सही आदतों से headache में राहत पाएं। RAJ Hospital Ranchi के डॉक्टरों से जानें कब डॉक्टर को दिखाना जरूरी है।">
+    <title>सिरदर्द का घरेलू इलाज | Headache Treatment at Home in Hindi - तुरंत राहत के उपाय | RAJ Hospital Ranchi</title>
+    <meta name="description" content="सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय जानें। पानी, आराम, सिकाई, मसाज और सही आदतों से headache में राहत पाएं। जानें कब डॉक्टर को दिखाना जरूरी है।">
     <meta name="keywords" content="headache treatment at home in hindi, सिरदर्द का घरेलू इलाज, sir dard ka gharelu ilaj, सिरदर्द के घरेलू उपाय, sir dard ka ilaj, माइग्रेन का घरेलू इलाज, तुरंत सिरदर्द से राहत, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/headache-treatment-at-home-in-hindi/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="सिरदर्द का घरेलू इलाज | Headache Treatment at Home in Hindi">
-    <meta property="og:description" content="सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय — RAJ Hospital Ranchi के डॉक्टरों से।">
+    <meta property="og:description" content="सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय — RAJ Hospital Ranchi।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/headache-treatment-at-home-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/headache-treatment-at-home-in-hindi.png">
@@ -42,8 +42,8 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)",
-        "description": "सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय, कारण, और कब डॉक्टर को दिखाना चाहिए — डॉक्टर द्वारा समीक्षित गाइड।",
+        "headline": "सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (Headache Treatment at Home in Hindi)",
+        "description": "सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय, कारण, और कब डॉक्टर को दिखाना चाहिए — हिंदी गाइड।",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -76,8 +76,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "सिरदर्द का घरेलू इलाज (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)",
-        "description": "सिरदर्द के घरेलू उपाय, कारण और चेतावनी संकेत — डॉक्टर द्वारा समीक्षित हिंदी गाइड।",
+        "name": "सिरदर्द का घरेलू इलाज (Headache Treatment at Home in Hindi)",
+        "description": "सिरदर्द के घरेलू उपाय, कारण और चेतावनी संकेत — हिंदी गाइड।",
         "url": "https://rajhospitals.com/blog/headache-treatment-at-home-in-hindi/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -103,7 +103,7 @@
                 "name": "सिरदर्द का तुरंत घरेलू इलाज क्या है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "तुरंत राहत के लिए एक-दो गिलास पानी पिएं, शांत और अंधेरे कमरे में आराम करें, माथे या गर्दन पर ठंडी या गर्म सिकाई करें, कनपटी (temple) की हल्की मालिश करें और गहरी सांस लें। ज्यादातर tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> इन उपायों से एक घंटे के भीतर ठीक हो जाते हैं। कभी-कभी डॉक्टर की सलाह से पैरासिटामोल जैसी दवा भी ली जा सकती है।"
+                    "text": "तुरंत राहत के लिए एक-दो गिलास पानी पिएं, शांत और अंधेरे कमरे में आराम करें, माथे या गर्दन पर ठंडी या गर्म सिकाई करें, कनपटी (temple) की हल्की मालिश करें और गहरी सांस लें। ज्यादातर tension headache इन उपायों से एक घंटे के भीतर ठीक हो जाते हैं। कभी-कभी डॉक्टर की सलाह से पैरासिटामोल जैसी दवा भी ली जा सकती है।"
                 }
             },
             {
@@ -168,16 +168,17 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> · न्यूरोलॉजी</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 मिनट पढ़ें</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital की न्यूरोलॉजी टीम द्वारा समीक्षित</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital स्वास्थ्य जानकारी टीम</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    सिरदर्द (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>) एक ऐसी समस्या है जो लगभग हर किसी को कभी न कभी होती है — और अच्छी बात यह है कि इनमें से ज्यादातर सिरदर्द को <strong>घर पर ही आसान उपायों से ठीक</strong> किया जा सकता है। पानी की कमी, तनाव, नींद पूरी न होना, स्क्रीन पर ज्यादा समय और भूखे रहना — इन आम कारणों को समझकर आप जल्दी राहत पा सकते हैं। <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची के सबसे अच्छे अस्पताल</a> के न्यूरोलॉजी विशेषज्ञों ने यहां <strong>सिरदर्द के 10 असरदार घरेलू उपाय</strong> बताए हैं — साथ ही यह भी कि कब आराम करने के बजाय डॉक्टर को दिखाना जरूरी है।
+                    सिरदर्द (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>) एक ऐसी समस्या है जो लगभग हर किसी को कभी न कभी होती है — और अच्छी बात यह है कि इनमें से ज्यादातर सिरदर्द को <strong>घर पर ही आसान उपायों से ठीक</strong> किया जा सकता है। पानी की कमी, तनाव, नींद पूरी न होना, स्क्रीन पर ज्यादा समय और भूखे रहना — इन आम कारणों को समझकर आप जल्दी राहत पा सकते हैं। <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची</a> की इस गाइड में <strong>सिरदर्द के 10 असरदार घरेलू उपाय</strong> बताए हैं — साथ ही यह भी कि कब आराम करने के बजाय डॉक्टर को दिखाना जरूरी है।
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -192,7 +193,7 @@
                 <div class="raj-grid">
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="droplet" class="raj-icon raj-icon-md raj-icon-secondary"></i> 1. पानी पिएं</h3>
-                        <p class="raj-card-body">पानी की कमी सिरदर्द का सबसे आम कारण है। दर्द शुरू होते ही 1-2 गिलास पानी पिएं — dehydration का सिरदर्द अक्सर 30-60 मिनट में कम हो जाता है।</p>
+                        <p class="raj-card-body">पानी की कमी सिरदर्द का एक आम कारण है। दर्द शुरू होते ही 1-2 गिलास पानी पिएं — dehydration का सिरदर्द अक्सर 30-60 मिनट में कम हो जाता है।</p>
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="moon" class="raj-icon raj-icon-md raj-icon-secondary"></i> 2. अंधेरे, शांत कमरे में आराम</h3>
@@ -228,14 +229,14 @@
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="sunrise" class="raj-icon raj-icon-md raj-icon-secondary"></i> 10. नींद सुधारें</h3>
-                        <p class="raj-card-body">बहुत कम और बहुत ज्यादा — दोनों तरह की नींद सिरदर्द बढ़ाती है। रोज़ 7-8 घंटे नियमित नींद लें — यह सबसे असरदार लंबे समय का उपाय है।</p>
+                        <p class="raj-card-body">बहुत कम और बहुत ज्यादा — दोनों तरह की नींद सिरदर्द बढ़ाती है। रोज़ 7-8 घंटे नियमित नींद लें — यह लंबे समय के लिए एक असरदार उपाय है।</p>
                     </div>
                 </div>
 
                 <div class="raj-callout raj-callout-success">
                     <i data-feather="check-circle" class="raj-callout-icon"></i>
                     <div class="raj-callout-body">
-                        <strong>सबसे तेज राहत का तरीका:</strong> दर्द शुरू होते ही एक साथ — पानी + अंधेरा शांत कमरा + सिकाई + कुछ मिनट गहरी सांस — यह किसी एक उपाय से कहीं बेहतर काम करता है। जल्दी शुरू करना ही सबसे बड़ी कुंजी है।
+                        <strong>जल्दी राहत का तरीका:</strong> दर्द शुरू होते ही एक साथ — पानी + अंधेरा शांत कमरा + सिकाई + कुछ मिनट गहरी सांस — यह किसी एक उपाय से कहीं बेहतर काम करता है। जल्दी शुरू करना ही सबसे बड़ी कुंजी है।
                     </div>
                 </div>
 
@@ -281,7 +282,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">सिरदर्द को बेहतर समझने और इलाज के लिए ये guides भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — रांची का सबसे अच्छा मल्टीस्पेशलिटी अस्पताल</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — मल्टीस्पेशलिटी अस्पताल, रांची</a></li>
                         <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">माइग्रेन के लक्षण — Migraine Symptoms in Hindi</a></li>
                         <li><a href="/blog/sir-ke-piche-dard-hona.php" class="text-secondary-600 hover:underline font-semibold">सिर के पीछे दर्द होना — कारण और इलाज</a></li>
                         <li><a href="/blog/back-head-pain-causes-treatment-hindi.php" class="text-secondary-600 hover:underline font-semibold">सिर के पिछले हिस्से में दर्द — कारण और उपचार</a></li>
@@ -299,12 +300,12 @@
                             <p class="text-gray-700">5 मिनट में पूरी तरह ठीक भले न हो, पर राहत तुरंत शुरू हो सकती है: पानी पिएं, अंधेरे-शांत जगह जाएं, माथे/गर्दन पर सिकाई करें और धीमी सांस लेते हुए कनपटी की मालिश करें। सिरदर्द को शुरू में ही पकड़ लेना इन उपायों को कहीं ज्यादा असरदार बनाता है।</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
-                            <h3 class="font-bold text-gray-800 mb-2">माइग्रेन के लिए कौन सा घरेलू उपाय सबसे अच्छा है?</h3>
-                            <p class="text-gray-700">माइग्रेन में अंधेरे-शांत कमरे में आराम, माथे पर ठंडी सिकाई, पर्याप्त पानी और दर्द को जल्दी संभालना सबसे ज्यादा मदद करता है। चूंकि माइग्रेन के खास ट्रिगर होते हैं, इसलिए diary रखना और <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital की न्यूरोलॉजी OPD</a> में सही निदान करवाना सबसे बेहतर नियंत्रण देता है।</p>
+                            <h3 class="font-bold text-gray-800 mb-2">माइग्रेन में कौन से घरेलू उपाय मदद करते हैं?</h3>
+                            <p class="text-gray-700">माइग्रेन में अंधेरे-शांत कमरे में आराम, माथे पर ठंडी सिकाई, पर्याप्त पानी और दर्द को जल्दी संभालना सबसे ज्यादा मदद करता है। चूंकि माइग्रेन के खास ट्रिगर होते हैं, इसलिए diary रखना और <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital की न्यूरोलॉजी OPD</a> में सही निदान करवाना बेहतर नियंत्रण देता है।</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">क्या हर सिरदर्द का घर पर इलाज सुरक्षित है?</h3>
-                            <p class="text-gray-700">कभी-कभार होने वाले हल्के-मध्यम सिरदर्द का घर पर इलाज आमतौर पर ठीक है। पर बार-बार होने वाला सिरदर्द, या अचानक तेज दर्द, बुखार के साथ गर्दन अकड़ना, कमजोरी या नज़र में बदलाव जैसे चेतावनी संकेत वाला सिरदर्द — इनमें डॉक्टर जरूरी है। संदेह हो तो <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची के सबसे अच्छे अस्पताल</a> में जांच करवाएं।</p>
+                            <p class="text-gray-700">कभी-कभार होने वाले हल्के-मध्यम सिरदर्द का घर पर इलाज आमतौर पर ठीक है। पर बार-बार होने वाला सिरदर्द, या अचानक तेज दर्द, बुखार के साथ गर्दन अकड़ना, कमजोरी या नज़र में बदलाव जैसे चेतावनी संकेत वाला सिरदर्द — इनमें डॉक्टर जरूरी है। संदेह हो तो <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, रांची</a> में जांच करवाएं।</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">मुझे रोज़ सिरदर्द क्यों होता है?</h3>
@@ -318,7 +319,7 @@
                     <div class="raj-author-avatar">RH</div>
                     <div>
                         <strong class="raj-author-name">न्यूरोलॉजी टीम, RAJ Hospital</strong>
-                        <p class="raj-author-meta">कंसल्टेंट न्यूरोलॉजिस्ट द्वारा समीक्षित · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="raj-author-meta"><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 

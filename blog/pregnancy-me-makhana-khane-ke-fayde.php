@@ -53,7 +53,7 @@
             "name": "क्या प्रेग्नेंसी में मखाना खाने के फायदे दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "प्रेग्नेंसी में मखाना खाने के फायदे - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "प्रेग्नेंसी में मखाना खाने के फायदे जानें। Makhana (Fox Nuts) <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> के दौरान क्यों beneficial है, nutrients और health benefits।",
+        "description": "प्रेग्नेंसी में मखाना खाने के फायदे जानें। Makhana (Fox Nuts) pregnancy के दौरान क्यों beneficial है, nutrients और health benefits।",
         "url": "https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnancy-me-makhana-khane-ke-fayde.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Nutrition</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">प्रेग्नेंसी में मखाना खाने के फायदे - Complete Hindi Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 6 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -227,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>मखाना (Fox Nuts / Makhana)</strong> भारत में एक बहुत पौष्टिक snack के रूप में जाना जाता है। यह विशेषकर <strong>गर्भावस्था (<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>)</strong> के दौरान एक उत्कृष्ट food choice है। मखाना न केवल tasty है, بلکہ इसमें कई essential nutrients होते हैं जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women और उनके unborn baby के लिए फायदेमंद हैं।
+                    <strong>मखाना (Fox Nuts / Makhana)</strong> भारत में एक बहुत पौष्टिक snack के रूप में जाना जाता है। यह विशेषकर <strong>गर्भावस्था (<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>)</strong> के दौरान एक पौष्टिक food choice हो सकता है। मखाना न केवल tasty है, بلکہ इसमें कई essential nutrients होते हैं जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnant</a> women और उनके unborn baby के लिए फायदेमंद हैं।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -258,20 +259,20 @@
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
-                        <h4 class="font-bold text-green-600">1. High Protein Content</h4>
+                        <h4 class="font-bold text-green-600">1. Protein</h4>
                         <p class="text-sm text-gray-600">मखाना में good quality protein होता है जो baby's growth और development के लिए essential है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
-                        <h4 class="font-bold text-green-600">2. Rich in Calcium</h4>
+                        <h4 class="font-bold text-green-600">2. Calcium (थोड़ी मात्रा में)</h4>
                         <p class="text-sm text-gray-600">Calcium baby's <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> development के लिए जरूरी है और mother's bone health भी maintain करता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">3. Iron for Blood Health</h4>
-                        <p class="text-sm text-gray-600">Iron blood production में मदद करता है और anemia से बचाव करता है जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में common है।</p>
+                        <p class="text-sm text-gray-600">मखाने में iron थोड़ी मात्रा में होता है; anemia से बचाव के लिए डॉक्टर द्वारा दी गई iron-folic acid गोलियां और iron-rich diet ज़रूरी हैं, क्योंकि anemia <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में common है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">4. Low Sodium</h4>
-                        <p class="text-sm text-gray-600">मखाना natural low sodium होता है जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में high BP (preeclampsia) risk को manage करने में मदद करता है।</p>
+                        <p class="text-sm text-gray-600">मखाना natural low sodium होता है जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में बिना नमक वाला हल्का snack हो सकता है; preeclampsia की रोकथाम या इलाज के लिए डॉक्टर की बताई जांच और दवा ज़रूरी है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">5. Gluten-Free</h4>
@@ -279,11 +280,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">6. Anti-Inflammatory Properties</h4>
-                        <p class="text-sm text-gray-600">मखाने में natural anti-inflammatory compounds होते हैं जो swelling और inflammation को reduce करते हैं।</p>
+                        <p class="text-sm text-gray-600">मखाने में कुछ antioxidants होते हैं, लेकिन pregnancy में सूजन कम करने का इसका प्रमाण नहीं है; अचानक या ज़्यादा सूजन हो तो तुरंत डॉक्टर को दिखाएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">7. Good for <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Digestion</a></h4>
-                        <p class="text-sm text-gray-600">Dietary fiber से भरपूर होने के कारण constipation को prevent करता है जो <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में common है।</p>
+                        <p class="text-sm text-gray-600">इसमें कुछ dietary fiber होता है जो constipation में थोड़ी मदद कर सकता है - यह समस्या <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> में common है।</p>
                     </div>
                 </div>
 
@@ -331,7 +332,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Pregnancy Diet की जरूरत है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert dietitians द्वारा personalized pregnancy nutrition plan available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में dietitian से pregnancy nutrition consultation उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -341,11 +342,11 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">प्रेग्नेंसी में रोजाना कितना मखाना खाना चाहिए?</h4>
-                        <p class="text-gray-700">रोजाना 20-30 grams (लगभग 8-10 मखाने) पर्याप्त है। Excess न करें।</p>
+                        <p class="text-gray-700">रोजाना लगभग एक मुट्ठी (करीब 20-30 grams) काफ़ी है। ज़्यादा न खाएं; gestational diabetes हो तो मात्रा डॉक्टर/dietitian से पूछें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या first trimester में मखाना खा सकते हैं?</h4>
-                        <p class="text-gray-700">हां, पहली तिमाही में morning sickness से राहत के लिए मखाना एक अच्छा snack option है।</p>
+                        <p class="text-gray-700">हां, पहली तिमाही में भी मखाना एक हल्का snack option हो सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या breastfeeding में भी मखाना खा सकते हैं?</h4>
@@ -354,7 +355,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">प्रेग्नेंसी में मखाना खाने के फायदे पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">प्रेग्नेंसी में मखाना खाने के फायदे पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">प्रेग्नेंसी में मखाना खाने के फायदे जानें। Makhana (Fox Nuts) pregnancy के दौरान क्यों beneficial है, nutrients और health benefits।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। प्रेग्नेंसी में मखाना खाने के फायदे शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -372,7 +373,7 @@
                         <li><a href="/blog/pregnancy-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण</a></li>
                         <li><a href="/blog/pair-me-sujan.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: प्रेग्नेंसी में पैर में सूजन</a></li>
                         <li><a href="/blog/thyroid-problems-in-women-symptoms-and-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Thyroid Problems in Women | Symptoms and Treatment in Hindi</a></li>
-                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Maternity Hospital in Ranchi</a></li>
+                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Maternity Hospital in Ranchi</a></li>
                     </ul>
                 </section>
 
@@ -397,7 +398,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -406,8 +407,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gynecologist & Dietitian</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

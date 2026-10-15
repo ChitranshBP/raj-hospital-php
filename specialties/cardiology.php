@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cardiology - Best Heart Care Hospital in Ranchi | Raj Hospitals</title>
+    <title>Cardiology - Heart Care Hospital in Ranchi | Raj Hospitals</title>
     <!-- ================= META TAGS ================= -->
 
     <meta name="description"
-        content="Best cardiology hospital in Ranchi offering advanced heart treatment, expert cardiologists, emergency cardiac care and modern facilities at Raj Hospital." />
+        content="Cardiology hospital in Ranchi offering advanced heart treatment, experienced cardiologists, emergency cardiac care and modern facilities at Raj Hospital." />
 
     <meta name="robots" content="index, follow" />
 
@@ -43,11 +43,6 @@ Cardiac Care Hospital in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -89,10 +84,10 @@ Cardiac Care Hospital in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best cardiology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer cardiology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best cardiology hospitals in Ranchi for advanced heart care."
+        "text": "Yes, Raj Hospital in Ranchi offers cardiology services for advanced heart care."
       }
     },
     {
@@ -246,7 +241,7 @@ Cardiac Care Hospital in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Cardiology</h1>
-                    <p class="text-xl text-gray-200">Expert care for heart diseases with state-of-the-art technology and
+                    <p class="text-xl text-gray-200">Expert care for heart diseases with modern technology and
                         experienced cardiologists</p>
                 </div>
             </div>
@@ -262,7 +257,7 @@ Cardiac Care Hospital in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">Our Cardiology Department at Raj Hospitals
-                            is equipped with cutting-edge technology and staffed by experienced cardiologists who
+                            is equipped with modern technology and staffed by experienced cardiologists who
                             specialize in diagnosing and treating a wide range of heart conditions. From preventive care
                             to complex interventions, we provide comprehensive cardiac care to improve heart health and
                             quality of life for our patients.</p>
@@ -283,7 +278,7 @@ Cardiac Care Hospital in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -313,7 +308,7 @@ Cardiac Care Hospital in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art Cardiac Catheterization Lab</span>
+                                    <span class="text-gray-700">Cardiac Catheterization Lab</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -500,8 +495,8 @@ Cardiac Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Leadless Pacemaker</h3>
-                        <p class="text-gray-600 mb-4">Latest generation pacemaker technology without leads, offering
-                            safer and less invasive rhythm management.</p>
+                        <p class="text-gray-600 mb-4">Pacemaker technology without leads, offering
+                            a less invasive option for rhythm management in suitable patients.</p>
                     </div>
                 </div>
 
@@ -625,62 +620,6 @@ Cardiac Care Hospital in Jharkhand
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Cardiology department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="heart" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Life-Saving Emergency Angioplasty</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Ramesh Kumar, 58</p>
-                    <p class="text-gray-700 mb-6">Ramesh was rushed to our emergency with severe chest pain and was
-                        diagnosed with a major heart attack. Our cardiac team performed an emergency angioplasty within
-                        the golden hour, saving his heart muscle and giving him a new lease of life. He has now returned
-                        to his normal activities with proper medication and lifestyle changes.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Complete recovery with 95% heart
-                                function</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="heart" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Complex Bypass Surgery Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Sunita Devi, 62</p>
-                    <p class="text-gray-700 mb-6">Sunita had severe blockages in multiple coronary arteries that weren't
-                        suitable for stenting. Our cardiac surgeons performed a complex bypass surgery, creating new
-                        routes for blood flow to her heart. Despite being a high-risk case due to her diabetes and
-                        hypertension, the surgery was successful.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Resumed normal life within 3 months</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     
     <!-- Informative Videos Section -->
@@ -850,6 +789,10 @@ Cardiac Care Hospital in Jharkhand
                             <input type="hidden" name="specialty" value="Cardiology">
 
                             <!-- Submit Button -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-5 h-5"></i>

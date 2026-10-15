@@ -53,7 +53,7 @@
             "name": "क्या Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Knee Pain</a> - घुटने में दर्द के कारण और उपचार जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Knee Pain - घुटने में दर्द के कारण और उपचार जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "हड्डी, जोड़ और मांसपेशियों से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Orthopedic</a> Guide</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -314,7 +315,7 @@
                                     <p class="text-yellow-700 text-sm">40+ उम्र में ज्यादा common</p>
                                 </div>
                                 <div class="bg-yellow-50 p-3 rounded-lg">
-                                    <p class="text-yellow-700 text-sm">MRI से diagnose होता है</p>
+                                    <p class="text-yellow-700 text-sm">Clinical exam और X-ray से; ज़रूरत पड़ने पर MRI</p>
                                 </div>
                             </div>
                         </div>
@@ -433,7 +434,7 @@
                             </div>
                             <div class="md:w-2/3">
                                 <p class="text-gray-700 mb-3">
-                                    <strong>Gardan mein dard</strong> के लिए hot और cold therapy सबसे effective immediate treatment है।
+                                    <strong>Gardan mein dard</strong> के लिए hot और cold therapy एक आसान और उपयोगी शुरुआती उपाय है।
                                 </p>
                                 <div class="grid md:grid-cols-2 gap-4">
                                     <div class="bg-blue-50 p-4 rounded-xl">
@@ -442,7 +443,7 @@
                                             <li>Ice pack 15-20 min तक</li>
                                             <li>24-48 hours में use करें</li>
                                             <li>Inflammation कम करता है</li>
-                                            <li>Acute pain के लिए best</li>
+                                            <li>Acute pain में उपयोगी</li>
                                         </ul>
                                     </div>
                                     <div class="bg-red-50 p-4 rounded-xl">
@@ -451,7 +452,7 @@
                                             <li>Warm towel या heating pad</li>
                                             <li>15-20 min, 2-3 times/day</li>
                                             <li>Muscles relax होते हैं</li>
-                                            <li>Chronic pain के लिए best</li>
+                                            <li>Chronic pain में उपयोगी</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -503,7 +504,7 @@
                             </div>
                             <div class="md:w-2/3">
                                 <p class="text-gray-700 mb-3">
-                                    <strong>गर्दन दर्द</strong> में <strong>हल्दी वाला दूध</strong> anti-inflammatory properties के कारण बहुत मदद करता है।
+                                    <strong>गर्दन दर्द</strong> में <strong>हल्दी वाला दूध</strong> कुछ लोगों को आराम दे सकता है, हालांकि इसका वैज्ञानिक प्रमाण सीमित है।
                                 </p>
                                 <div class="bg-yellow-50 p-4 rounded-xl">
                                     <h4 class="font-bold text-yellow-700 mb-2">Recipe:</h4>
@@ -525,7 +526,7 @@
                             <div class="text-center p-4 bg-blue-50 rounded-xl">
                                 <div class="text-4xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-md raj-icon-blue" aria-hidden="true"></i></div>
                                 <h4 class="font-bold text-blue-700 text-sm">Hydration</h4>
-                                <p class="text-gray-600 text-xs">ज्यादा पानी पिएं, discs hydrated रहें</p>
+                                <p class="text-gray-600 text-xs">पर्याप्त पानी पिएं</p>
                             </div>
                             <div class="text-center p-4 bg-purple-50 rounded-xl">
                                 <div class="text-4xl mb-2"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></div>
@@ -553,7 +554,7 @@
                         <div class="grid gap-4">
                             <!-- Exercise 1 -->
                             <div class="bg-white rounded-xl shadow p-5">
-                                <h3 class="text-lg font-bold text-green-700 mb-3">1. Neck Rotation (गर्दन घुमाना)</h3>
+                                <h3 class="text-lg font-bold text-green-700 mb-3">1. Side Neck Stretch (गर्दन को बगल में झुकाना)</h3>
                                 <div class="grid md:grid-cols-3 gap-4">
                                     <div class="bg-green-50 p-4 rounded-lg text-center">
                                         <p class="text-3xl mb-2"><i data-feather="arrow-left" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></p>
@@ -581,7 +582,7 @@
                                     </div>
                                     <div class="bg-blue-50 p-4 rounded-lg text-center">
                                         <p class="text-3xl mb-2"><i data-feather="arrow-up" class="raj-icon raj-icon-md raj-icon-gray" aria-hidden="true"></i></p>
-                                        <p class="text-gray-600 text-sm">Chin को chest की तरफ tuck करें</p>
+                                        <p class="text-gray-600 text-sm">Chin को सीधा पीछे की ओर खींचें (double chin बनाएं), सिर नीचे न झुकाएं</p>
                                     </div>
                                     <div class="bg-blue-50 p-4 rounded-lg text-center">
                                         <p class="text-3xl mb-2"><i data-feather="clock" class="raj-icon raj-icon-md raj-icon-gray" aria-hidden="true"></i></p>
@@ -731,7 +732,7 @@
                                     <span class="text-2xl"><i data-feather="activity" class="raj-icon raj-icon-md raj-icon-secondary" aria-hidden="true"></i></span>
                                     <div>
                                         <strong class="text-gray-800">Chiropractic</strong>
-                                        <p class="text-gray-600 text-sm">Spinal manipulation - alignment improve करता है</p>
+                                        <p class="text-gray-600 text-sm">Spinal manipulation — केवल qualified therapist से और doctor की सलाह के बाद; गर्दन की manipulation में दुर्लभ लेकिन गंभीर जोखिम हो सकते हैं</p>
                                     </div>
                                 </li>
                             </ul>
@@ -781,7 +782,7 @@
                             <div>
                                 <h3 class="text-lg font-bold text-green-700 mb-4"><i data-feather="moon" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Sleep और Daily Tips</h3>
                                 <ul class="list-disc list-inside text-green-700 space-y-2">
-                                    <li><strong>Right pillow</strong> - cervical pillow best</li>
+                                    <li><strong>Right pillow</strong> - cervical pillow उपयोगी</li>
                                     <li><strong>Sleep on back/side</strong> - stomach avoid करें</li>
                                     <li><strong>Phone usage limit</strong> - कम phone देखें</li>
                                     <li><strong>Regular exercise</strong> - neck muscles strong रखें</li>
@@ -871,8 +872,8 @@
                         </div>
 
                         <div class="bg-gray-50 p-4 rounded-lg">
-                            <h4 class="font-bold text-secondary-600 mb-2">Q: Sleeping में कौन सी pillow best है?</h4>
-                            <p class="text-gray-700">A: <strong>Cervical pillow</strong> या <strong>orthopedic pillow</strong> gardan के लिए best है। यह neck curve support करता है और spine alignment maintain रखता है।</p>
+                            <h4 class="font-bold text-secondary-600 mb-2">Q: Sleeping के लिए कौन सी pillow ठीक रहती है?</h4>
+                            <p class="text-gray-700">A: <strong>Cervical pillow</strong> या <strong>orthopedic pillow</strong> gardan के लिए उपयोगी हो सकता है। यह neck curve support करता है और spine alignment maintain रखता है।</p>
                         </div>
 
                         <div class="bg-gray-50 p-4 rounded-lg">
@@ -900,7 +901,7 @@
 
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Gardan Mein Dard in Hindi: गर्दन के पीछे दर्द हो तो क्या करना चाहिए? जानिए गर्दन दर्द के कारण, घरेलू उपाय, exercises और कब doctor जाएं। Neck pain treatment in Hindi।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Gardan Mein Dard - गर्दन में दर्द के कारण और इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हड्डी, जोड़ और मांसपेशियों से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -942,7 +943,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हड्डी, जोड़ और मांसपेशियों से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -951,8 +952,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Orthopedic Specialist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

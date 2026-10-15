@@ -10,10 +10,10 @@
     <!-- ================= META TAGS ================= -->
 
 
-    <title>Nephrology Hospital in Ranchi | Best Kidney Hospital in Ranchi – Raj Hospital</title>
+    <title>Nephrology Hospital in Ranchi | Kidney Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best nephrology hospitals in Ranchi offering advanced kidney treatment, dialysis services and expert nephrologists." />
+        content="Raj Hospital is a nephrology hospital in Ranchi offering advanced kidney treatment, dialysis services and expert nephrologists." />
 
     <meta name="robots" content="index, follow" />
 
@@ -45,11 +45,6 @@ Dialysis Centre in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -91,10 +86,10 @@ Dialysis Centre in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best nephrology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer nephrology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best nephrology hospitals in Ranchi offering comprehensive kidney care."
+        "text": "Yes, Raj Hospital in Ranchi offers comprehensive kidney care."
       }
     },
     {
@@ -249,8 +244,8 @@ Dialysis Centre in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Nephrology</h1>
-                    <p class="text-xl text-gray-200">Best kidney care and dialysis services in Ranchi with advanced
-                        equipment and top nephrologists.</p>
+                    <p class="text-xl text-gray-200">Kidney care and dialysis services in Ranchi with advanced
+                        equipment and experienced nephrologists.</p>
                 </div>
             </div>
         </div>
@@ -265,10 +260,10 @@ Dialysis Centre in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Nephrology & Dialysis
-                            Services at Raj Hospitals is among the most advanced in the state, providing evaluation,
+                            Services at Raj Hospitals provides evaluation,
                             diagnosis, and comprehensive treatment for hypertension, kidney disease, dialysis, and renal
                             disorders. Our nephrology experts serve adults and children, offering diagnostic,
-                            management, operative services, and chronic dialysis therapy for acute kidney failure.
+                            management, operative services, and dialysis for acute and chronic kidney failure.
                             Dedicated to prevention and early diagnosis, we deliver personalized, compassionate care for
                             every kidney-related condition.</p>
 
@@ -288,7 +283,7 @@ Dialysis Centre in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -324,7 +319,7 @@ Dialysis Centre in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art dialysis machines for adult</span>
+                                    <span class="text-gray-700">Modern dialysis machines for adults</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -433,7 +428,7 @@ Dialysis Centre in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Hemodialysis</h3>
-                        <p class="text-gray-600 mb-4">Regular and emergency dialysis treatments using state-of-the-art
+                        <p class="text-gray-600 mb-4">Regular and emergency dialysis treatments using modern
                             dialysis machines.</p>
                     </div>
                 </div>
@@ -551,59 +546,6 @@ Dialysis Centre in Jharkhand
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Nephrology department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="droplet" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Life-saving Dialysis for Acute Kidney Failure
-                        </h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Kumar</p>
-                    <p class="text-gray-700 mb-6">Emergency dialysis restored my kidney function after sudden acute
-                        kidney injury. The caring nephrologists ensured my quick stabilization and recovery.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Full recovery and regular
-                                follow-up.</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="droplet" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Successful Kidney Stone Management</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mrs. Sharma</p>
-                    <p class="text-gray-700 mb-6">I was treated with minimally invasive techniques for painful kidney
-                        stones and am now symptom-free thanks to Raj Hospitals.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Pain-free and healthy.</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
@@ -732,6 +674,10 @@ Dialysis Centre in Jharkhand
                             <input type="hidden" name="specialty" value="Nephrology">
 
                             <!-- Submit Button -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-5 h-5"></i>

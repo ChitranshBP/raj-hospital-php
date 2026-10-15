@@ -7,9 +7,9 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Neuro & Spine Surgeon in Ranchi | Raj Hospital</title>
-    <meta name="description" content="Looking for the best neuro & spine surgeon in Ranchi? Raj Hospital offers advanced brain and spine surgery with experienced neurosurgeons. Book consultation today." />
-    <meta name="keywords" content="best neuro surgeon in Ranchi, spine surgery Ranchi, neurosurgeon Ranchi, brain tumor surgery Ranchi, Raj Hospital neuro surgery" />
+    <title>Neuro & Spine Surgeon in Ranchi | Raj Hospital</title>
+    <meta name="description" content="Looking for a neuro & spine surgeon in Ranchi? Raj Hospital offers advanced brain and spine surgery with experienced neurosurgeons. Book consultation today." />
+    <meta name="keywords" content="neuro surgeon in Ranchi, spine surgery Ranchi, neurosurgeon Ranchi, brain tumor surgery Ranchi, Raj Hospital neuro surgery" />
     <meta name="robots" content="index, follow" />
 
     <meta name="geo.region" content="IN-JH" />
@@ -22,12 +22,7 @@
       "@context": "https://schema.org",
       "@type": "Hospital",
       "name": "Raj Hospital",
-      "url": "https://rajhospitals.com/",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.6",
-        "reviewCount": "380"
-      }
+      "url": "https://rajhospitals.com/"
     }
     </script>
 
@@ -80,7 +75,7 @@
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Neuro & Spine Surgery</h1>
-                    <p class="text-xl text-gray-200">Best Neuro & Spine Surgeons in Ranchi at Raj Hospital. Advanced brain and spine surgery with state-of-the-art facilities and expert surgical care.</p>
+                    <p class="text-xl text-gray-200">Neuro & Spine Surgeons in Ranchi at Raj Hospital. Advanced brain and spine surgery with modern facilities and experienced surgical care.</p>
                 </div>
             </div>
         </div>
@@ -92,8 +87,8 @@
             <div class="grid lg:grid-cols-3 gap-12">
                 <div class="lg:col-span-2">
                     <div class="fade-in">
-                        <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview - Best Neuro & Spine Surgery Hospital in Ranchi</h2>
-                        <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neuro & Spine Surgery at Raj Hospitals provides comprehensive surgical care for brain and spine disorders. As the <strong>best neuro and spine surgery hospital in Ranchi</strong>, our expert neurosurgeons utilize advanced surgical techniques and state-of-the-art equipment to perform complex brain and spine procedures including brain tumor removal, spinal fusion, minimally invasive spine surgery, and more.</p>
+                        <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview - Neuro & Spine Surgery Hospital in Ranchi</h2>
+                        <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neuro & Spine Surgery at Raj Hospitals provides comprehensive surgical care for brain and spine disorders. As the <strong>neuro and spine surgery department of Raj Hospitals in Ranchi</strong>, our expert neurosurgeons utilize advanced surgical techniques and modern equipment to perform complex brain and spine procedures including brain tumor removal, spinal fusion, minimally invasive spine surgery, and more.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
                             <h3 class="text-xl font-semibold text-gray-900 mb-4 flex items-center">
@@ -103,11 +98,11 @@
                             <ul class="space-y-3">
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Experienced neurosurgeons with thousands of successful surgeries</span>
+                                    <span class="text-gray-700">Experienced neurosurgeons performing a wide range of brain and spine surgeries</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art operating rooms with microscopes and endoscopes</span>
+                                    <span class="text-gray-700">Operating rooms with microscopes and endoscopes</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
@@ -184,7 +179,7 @@
                 <div class="space-y-8 fade-in">
                     <div class="text-center mb-6">
                         <h3 class="text-2xl font-bold text-gray-900 mb-2">Meet Our Neuro & Spine Surgeons</h3>
-                        <p class="text-gray-600 font-medium">Top neurosurgeons in Ranchi for brain and spine surgery</p>
+                        <p class="text-gray-600 font-medium">Neurosurgeons in Ranchi for brain and spine surgery</p>
                     </div>
                     <div class="flex flex-col gap-8 overflow-y-auto" style="max-height: 1000px; max-width: 340px; margin: 0 auto;">
 
@@ -379,7 +374,7 @@
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Awake Brain Surgery</h3>
-                        <p class="text-gray-600 mb-4">State-of-the-art awake craniotomy for tumor removal near critical brain areas while preserving neurological functions.</p>
+                        <p class="text-gray-600 mb-4">Awake craniotomy for tumor removal near critical brain areas, aimed at preserving neurological functions.</p>
                     </div>
                 </div>
 
@@ -419,55 +414,6 @@
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Neuro & Spine Surgery department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Brain Tumor Surgery Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Rajesh Kumar</p>
-                    <p class="text-gray-700 mb-6">Mr. Rajesh was diagnosed with a brain tumor and was referred to Raj Hospital for surgery. Our neuro team performed a successful tumor resection using advanced neuro-navigation. The patient recovered well with minimal post-operative complications and has returned to his normal life.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Complete tumor removal with no neurological deficits</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Spinal Fusion Surgery Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Ms. Sunita Devi</p>
-                    <p class="text-gray-700 mb-6">Ms. Sunita had been suffering from severe back pain and leg weakness due to spinal stenosis. After comprehensive evaluation, our spine surgeons performed a successful spinal fusion surgery. The patient experienced significant pain relief and improved mobility within weeks.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Pain-free mobility and return to daily activities</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
@@ -483,11 +429,11 @@
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Who is the best neuro surgeon in Ranchi?</h3>
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Who are the neurosurgeons at Raj Hospital, Ranchi?</h3>
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Raj Hospital has some of the best neuro and spine surgeons in Ranchi with extensive experience in performing complex brain and spine surgeries with high success rates.</p>
+                                <p>Raj Hospital has experienced neuro and spine surgeons in Ranchi who perform complex brain and spine surgeries.</p>
                             </div>
                         </div>
 
@@ -509,7 +455,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Surgery may be needed for severe spinal cord compression, herniated discs causing nerve damage, spinal instability, tumors, and trauma. Our surgeons determine the best surgical approach after thorough evaluation.</p>
+                                <p>Surgery may be needed for severe spinal cord compression, herniated discs causing nerve damage, spinal instability, tumors, and trauma. Our surgeons determine the most suitable surgical approach after thorough evaluation.</p>
                             </div>
                         </div>
                     </div>
@@ -526,6 +472,10 @@
                             <input type="tel" name="phone" required pattern="[0-9]{10}" placeholder="10-digit mobile number" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg">
                             <textarea name="message" required rows="4" placeholder="Your Question" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg"></textarea>
                             <input type="hidden" name="specialty" value="Neuro & Spine Surgery">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold">Submit Inquiry</button>
                         </form>
                     </div>

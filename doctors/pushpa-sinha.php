@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Dr. Pushpa Sinha – Obstetrics & Gynaecology in Ranchi";
 $pageDescription = "Dr. Pushpa Sinha is a senior Gynaecologist at Raj Hospital, Ranchi with 15+ years experience in high-risk pregnancy & women's healthcare. Book appointment now.";
-$pageKeywords = "Dr. Pushpa Sinha, Gynaecologist in Ranchi, Best Obstetrician Ranchi, high-risk pregnancy doctor Ranchi, Dr. Pushpa Sinha Raj Hospital";
+$pageKeywords = "Dr. Pushpa Sinha, Gynaecologist in Ranchi, Obstetrician Ranchi, high-risk pregnancy doctor Ranchi, Dr. Pushpa Sinha Raj Hospital";
 $canonicalUrl = "https://rajhospitals.com/doctors/pushpa-sinha";
 $ogType = "profile";
 $base_url = "../";
@@ -79,7 +79,7 @@ include($base_url . 'header.php');
                         </div>
                         <div class="flex items-center gap-2">
                             <i data-feather="user-check" class="w-5 h-5 text-[#E31C23]"></i>
-                            <span>Verified Specialist</span>
+                            <span>RAJ Hospitals Doctor</span>
                         </div>
                     </div>
                     <button onclick="openBookingModal('Dr. Pushpa Sinha')"
@@ -268,6 +268,10 @@ include($base_url . 'header.php');
                     </div>
 
                     <!-- Modal Footer -->
+                    <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                        <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                        <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                    </label>
                     <div class="pt-4 sm:flex sm:flex-row-reverse border-t">
                         <button type="submit"
                             class="inline-flex w-full justify-center rounded-md bg-[#E31C23] px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-red-700 sm:ml-3 sm:w-auto transition-colors">

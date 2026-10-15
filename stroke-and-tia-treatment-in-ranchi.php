@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Stroke & TIA Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Stroke & TIA Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Looking for the best Stroke and TIA treatment in Ranchi? Raj Hospital offers rapid stroke response, thrombolysis, and advanced neuro-rehabilitation by top neurologists." />
-    <meta name="keywords" content="stroke treatment in Ranchi, TIA treatment Ranchi, paralysis hospital in Ranchi, best neurologist for stroke in Ranchi, Raj Hospital stroke care" />
+    <meta name="description" content="Looking for Stroke and TIA treatment in Ranchi? Raj Hospital offers emergency stroke care, thrombolysis for eligible patients, and neuro-rehabilitation." />
+    <meta name="keywords" content="stroke treatment in Ranchi, TIA treatment Ranchi, paralysis hospital in Ranchi, neurologist for stroke in Ranchi, Raj Hospital stroke care" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/stroke-and-tia-treatment-in-ranchi" />
@@ -72,7 +72,7 @@
           "name": "How quickly should someone be treated for a stroke?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Stroke patients should ideally be brought to our emergency department within the 'Golden Hour' (first 4.5 hours) to receive clot-busting medications."
+            "text": "Immediately, as every minute counts. Call 108 or go to the nearest hospital equipped to treat stroke as soon as symptoms start. Clot-busting medicine can usually be given only within about 4.5 hours of symptom onset, and the earlier it is given the better it works."
           }
         },
         {
@@ -177,8 +177,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Stroke & TIA Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Stroke & TIA Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -194,7 +194,7 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Stroke & TIA Treatment in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            A stroke occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. A TIA (Transient Ischemic Attack) is a temporary blockage. At Raj Hospital, we provide rapid, life-saving <strong>stroke treatment in Ranchi</strong>, utilizing our 'Stroke Ready' protocols to minimize brain damage and enhance recovery outcomes.
+                            A stroke occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. A TIA (Transient Ischemic Attack) is a temporary blockage. At Raj Hospital, we provide emergency <strong>stroke treatment in Ranchi</strong>, following stroke treatment protocols that aim to limit brain damage and support recovery.
                         </p>
                     </div>
 
@@ -232,7 +232,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -270,7 +270,7 @@
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Hemorrhagic Stroke Surgery</h4>
-                                <p class="text-gray-600">Surgical clipping or coiling to repair ruptured blood vessels.</p>
+                                <p class="text-gray-600">Surgery to remove a large brain bleed or relieve pressure when needed; ruptured aneurysms may be treated with surgical clipping or endovascular coiling.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Neuro-Rehabilitation</h4>
@@ -299,6 +299,10 @@
                                 <input type="email" name="email" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all" placeholder="Email Address">
                             </div>
                             <input type="hidden" name="specialty" value="Stroke & TIA Treatment Inquiry">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200">
                                 Request Callback
                             </button>
@@ -316,8 +320,8 @@
                             </div>
                             <div class="p-5">
                                 <h3 class="text-lg font-bold text-gray-900 mb-1">Dr. Vivek Raj</h3>
-                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, MCh</p>
-                                <p class="text-secondary-600 text-sm mb-3">Neurology & Neurosurgery</p>
+                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, DNB</p>
+                                <p class="text-secondary-600 text-sm mb-3">Neurosurgery (Brain & Spine)</p>
                                 <a href="doctors/vivek-raj.php" class="block text-center w-full bg-primary-50 text-primary-600 py-2 rounded-lg border border-primary-200 hover:bg-primary-500 hover:text-white transition-colors font-medium text-sm">
                                     View Profile
                                 </a>
@@ -349,7 +353,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Stroke patients should ideally be brought to our emergency department within the 'Golden Hour' (first 4.5 hours) to receive clot-busting medications.</p>
+                                <p>Immediately, as every minute counts. Call 108 or go to the nearest hospital equipped to treat stroke as soon as symptoms start. Clot-busting medicine can usually be given only within about 4.5 hours of symptom onset, and the earlier it is given the better it works.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -442,6 +446,10 @@
                             <input type="hidden" name="specialty" value="Stroke & TIA Specialist Inquiry">
 
                             <!-- Submit Box -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-[#f97316] hover:bg-[#ea580c] text-white px-6 py-3.5 rounded-lg font-bold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-4 h-4"></i>
@@ -449,7 +457,7 @@
                             </button>
 
                             <!-- Info Text -->
-                            <p class="text-xs text-gray-500 text-center mt-4">Our team will respond within 24 hours</p>
+                            <p class="text-xs text-gray-500 text-center mt-4">Our team will respond within 24 hours. In an emergency, call 108 or our 24x7 helpline +91 97714 88888 immediately.</p>
                         </form>
                     </div>
                 </div>

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi</title>
+    <title>Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में थायरॉइड के लक्षण (Thyroid Symptoms in Men) - हाइपोथायरायडिज्म और हाइपरथायरायडिज्म के लक्षण, कारण और इलाज। Thyroid in men treatment।">
     <meta name="keywords" content="thyroid symptoms in men, thyroid in men, हाइपोथायरायडिज्म, हाइपरथायरायडिज्म, thyroid treatment, थायरॉइड, thyroid problem men">
     <meta name="robots" content="index, follow">
@@ -39,8 +39,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण",
-        "description": "पुरुषों में थायरॉइड के लक्षण, हाइपोथायरायडिज्म और हाइपरथायरायडिज्म। RAJ Hospital Ranchi में expert treatment।",
+        "name": "Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण",
+        "description": "पुरुषों में थायरॉइड के लक्षण, हाइपोथायरायडिज्म और हाइपरथायरायडिज्म। RAJ Hospital Ranchi में जांच और इलाज।",
         "url": "https://rajhospitals.com/blog/thyroid-symptoms-in-men/",
         "author": {
             "@type": "Organization",
@@ -72,10 +72,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "पुरुषों में थायरॉइड (<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a>) के क्या लक्षण हैं?",
+                "name": "पुरुषों में थायरॉइड (Thyroid) के क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Hypothyroidism (कम thyroid) के लक्षण: weight gain, fatigue, cold intolerance, constipation, dry skin, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a>। Hyperthyroidism (ज्यादा thyroid) के लक्षण: weight loss, rapid heartbeat, heat intolerance, anxiety, tremor, increased sweating। Men में specific symptoms में libido की कमी और erectile dysfunction भी शामिल है।"
+                    "text": "Hypothyroidism (कम thyroid) के लक्षण: weight gain, fatigue, cold intolerance, constipation, dry skin, depression। Hyperthyroidism (ज्यादा thyroid) के लक्षण: weight loss, rapid heartbeat, heat intolerance, anxiety, tremor, increased sweating। Men में specific symptoms में libido की कमी और erectile dysfunction भी शामिल है।"
                 }
             },
             {
@@ -118,7 +118,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi"
+                "name": "Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -170,6 +170,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Endocrinology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -265,13 +266,13 @@
                 <h2 class="raj-h2-secondary">पुरुषों में विशेष Thyroid Symptoms</h2>
 
                 <p class="text-gray-700 mb-4">
-                    पुरुषों में thyroid disorders कुछ specific symptoms भी produce करते हैं जो women में नहीं होते:
+                    पुरुषों में thyroid disorders कुछ ऐसे symptoms भी दे सकते हैं जिन पर अक्सर ध्यान नहीं जाता:
                 </p>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Sexual Dysfunction</h4>
-                        <p class="text-sm text-gray-600">Low thyroid से testosterone production affected होता है। Result: <strong>low libido (sex drive में कमी), erectile dysfunction, और premature ejaculation</strong>। यह often overlooked होता है लेकिन significant quality of life को affect करता है।</p>
+                        <p class="text-sm text-gray-600">Low thyroid से testosterone production affected होता है। Result: <strong>low libido (sex drive में कमी), erectile dysfunction और delayed ejaculation (hyperthyroidism में premature ejaculation ज़्यादा देखा जाता है)</strong>। यह often overlooked होता है लेकिन significant quality of life को affect करता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Muscle Weakness</h4>
@@ -316,7 +317,7 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Hypothyroidism Treatment:</h3>
                 <div class="bg-blue-50 p-4 rounded-lg mb-6">
-                    <p class="text-gray-700 mb-2"><strong>Levothyroxine (Synthroid)</strong> - यह synthetic thyroid hormone है जो missing hormones की replace करता है।</p>
+                    <p class="text-gray-700 mb-2"><strong>Levothyroxine</strong> - यह synthetic thyroid hormone है जो missing hormones की replace करता है।</p>
                     <ul class="text-gray-700 space-y-1">
                         <li>Daily morning medication (empty stomach)</li>
                         <li>Lifetime treatment usually</li>
@@ -329,7 +330,7 @@
                 <div class="bg-orange-50 p-4 rounded-lg mb-6">
                     <ul class="text-gray-700 space-y-2">
                         <li><strong>Antithyroid Medications:</strong> Methimazole (MMI), Propylthiouracil (PTU) - thyroid hormone production reduce करते हैं।</li>
-                        <li><strong>Radioactive Iodine Ablation:</strong> I-131 radioactive iodine thyroid को shrink करता है। Often definitive cure। Side effect: hypothyroidism eventually।</li>
+                        <li><strong>Radioactive Iodine Ablation:</strong> I-131 radioactive iodine thyroid को shrink करता है। अक्सर definitive treatment, लेकिन बाद में ज़्यादातर मरीज़ों में hypothyroidism हो जाता है, जिसके लिए lifelong levothyroxine लेनी पड़ती है।</li>
                         <li><strong>Thyroid Surgery:</strong> Partial या complete thyroid removal। Cancer cases में जरूरी।</li>
                         <li><strong>Beta Blockers:</strong> Symptoms (rapid heartbeat, tremor) manage करने के लिए।</li>
                     </ul>
@@ -352,17 +353,16 @@
                         <h4 class="font-bold text-primary-600 mb-2">Foods to Include</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Iodized salt</li>
-                            <li>Seafood (fish, seaweed)</li>
+                            <li>Seafood (fish) — hyperthyroidism में iodine-rich foods (जैसे seaweed) और iodine/selenium supplements doctor की सलाह के बिना न लें</li>
                             <li>Eggs</li>
                             <li>Dairy products</li>
-                            <li>Brazil nuts (selenium)</li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">थायरॉइड का Expert इलाज</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में thyroid function tests, ultrasound, और complete endocrine care available है।</p>
+                    <h3 class="text-xl font-bold mb-2">थायरॉइड की जांच और इलाज</h3>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में thyroid function tests, ultrasound और doctor consultation उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
@@ -384,8 +384,8 @@
                 </div>
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Thyroid Symptoms in Men पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">पुरुषों में थायरॉइड के लक्षण - हाइपोथायरायडिज्म और हाइपरथायरायडिज्म। Ranchi में best thyroid treatment RAJ Hospital में।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Thyroid Symptoms in Men पर ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">पुरुषों में थायरॉइड के लक्षण - हाइपोथायरायडिज्म और हाइपरथायरायडिज्म। Ranchi में RAJ Hospital में thyroid की जांच और इलाज उपलब्ध है।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए thyroid एक common problem है। Proper diagnosis और treatment से thyroid को manage किया जा सकता है।</p>
                 </section>
 
@@ -400,8 +400,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Endocrinologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

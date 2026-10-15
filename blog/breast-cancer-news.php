@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment | RAJ Hospital Ranchi</title>
+    <title>Breast Cancer News - Latest Updates & Treatment | RAJ Hospital Ranchi</title>
     <meta name="description" content="Breast Cancer पर latest news, treatment advances और prevention tips जानें। Early detection और awareness के बारे में जानकारी।">
     <meta name="keywords" content="breast cancer, breast cancer news, cancer treatment, स्तन कैंसर, oncology, ranchi">
     <meta name="robots" content="index, follow">
@@ -42,10 +42,10 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Breast Cancer News - Latest Updates & Treatment में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
+                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना जैसी स्थिति हो, तो बिना देर किए डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment | RAJ Hospital Ranchi",
+        "headline": "Breast Cancer News - Latest Updates & Treatment | RAJ Hospital Ranchi",
         "description": "Breast Cancer पर latest news, treatment advances और prevention tips जानें। Early detection और awareness के बारे में जानकारी।",
         "url": "https://rajhospitals.com/blog/breast-cancer-news/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/breast-cancer-news.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment | RAJ Hospital Ranchi"
+                "name": "Breast Cancer News - Latest Updates & Treatment | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-pink-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Oncology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -232,7 +233,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-pink-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> Early detection से <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> का 90% से अधिक cases में सफल इलाज संभव है। नियमित जांच सबसे महत्वपूर्ण है।</span>
+                    <span class="text-gray-700"> Early detection से <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> के सफल इलाज की संभावना काफी बढ़ जाती है। नियमित जांच सबसे महत्वपूर्ण है।</span>
                 </div>
 
                 <!-- Section 1: Latest Updates -->
@@ -241,7 +242,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-pink-600">
                         <h4 class="font-bold text-pink-600">Immunotherapy Advances</h4>
-                        <p class="text-sm text-gray-600">नई immunotherapy दवाइयां <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> patients के लिए नई उम्मीद लेकर आई हैं। ये दवाइयां immune system को cancer cells से लड़ने में मदद करती हैं।</p>
+                        <p class="text-sm text-gray-600">नई immunotherapy दवाइयां <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> के कुछ खास प्रकार (जैसे कुछ triple-negative cases) में उपयोग की जाती हैं। ये दवाइयां immune system को cancer cells से लड़ने में मदद करती हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-pink-600">
                         <h4 class="font-bold text-pink-600">Targeted Therapy Progress</h4>
@@ -316,7 +317,7 @@
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl mb-2"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i>️</div>
                         <h4 class="font-bold text-pink-600 text-sm">Radiation</h4>
-                        <p class="text-xs text-gray-600">Targeted therapy</p>
+                        <p class="text-xs text-gray-600">High-energy rays से cancer cells नष्ट करना</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-2xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
@@ -395,7 +396,7 @@
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Breast Cancer News - Latest Updates &amp; Treatment में डॉक्टर को कब दिखाना चाहिए?</h3>
-                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
+                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना जैसी स्थिति हो, तो बिना देर किए डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Breast Cancer News - Latest Updates &amp; Treatment दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
@@ -411,7 +412,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -420,8 +421,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-pink-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Oncologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

@@ -196,16 +196,17 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-accent-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Minimal Access Surgery · Gastroenterology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Gallbladder Pain After Meals: When It's Time for Minimally Invasive Surgery</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Minimal Access Surgery Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Written by the Raj Hospitals Health Information Team</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    A pattern we see constantly in the surgical outpatient department: a patient in their forties describes six years of pain after heavy meals. They have stopped eating mutton. They have given up ghee, fried snacks and anything at a wedding. They carry a folder with three ultrasound reports, each showing the same gallstones, and they say some version of the same sentence &mdash; <em>"I am managing it with diet, doctor."</em> Then we explain that the operation they have been avoiding for six years involves three small cuts, one night in hospital, and a return to desk work in about a week. The most common reaction is not relief. It is annoyance at the wasted years.
+                    Many people with gallstone pain try to manage it with diet alone for years. They have stopped eating mutton. They have given up ghee, fried snacks and anything at a wedding. They carry a folder with three ultrasound reports, each showing the same gallstones, and they say some version of the same sentence &mdash; <em>"I am managing it with diet, doctor."</em> Then we explain that the operation they have been avoiding for six years involves three small cuts, one night in hospital, and a return to desk work in about a week. 
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -341,7 +342,7 @@
                 <!-- CTA -->
                 <div class="bg-gradient-to-r from-accent-500 to-primary-600 rounded-xl p-6 md:p-8 my-8 shadow-md">
                     <h3 class="text-xl md:text-2xl font-bold text-white mb-2">Been managing gallstone pain with diet for years?</h3>
-                    <p class="text-white/90 mb-5">Bring your ultrasound reports to Raj Hospitals, Bariatu Road, Ranchi for a surgical opinion. Same-day imaging and blood work, laparoscopic cholecystectomy by experienced minimal access surgeons, and most patients home within 24 hours.</p>
+                    <p class="text-white/90 mb-5">Bring your ultrasound reports to Raj Hospitals, Bariatu Road, Ranchi for a surgical opinion. Same-day imaging and blood work, laparoscopic cholecystectomy by the minimal access surgery team; many patients go home within 24 hours.</p>
                     <div class="flex flex-wrap gap-3">
                         <a href="/find-a-doctor" class="inline-block bg-white text-primary-600 font-semibold px-5 py-3 rounded-lg hover:bg-gray-100 transition">Book a Surgical Consultation &rarr;</a>
                         <a href="tel:+919771488888" class="inline-block bg-black/25 text-white font-semibold px-5 py-3 rounded-lg hover:bg-black/40 transition">Call +91 97714 88888</a>
@@ -406,7 +407,7 @@
                     <div class="w-16 h-16 shrink-0 rounded-full bg-accent-500 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Minimal Access Surgery Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Medically reviewed by our consultant laparoscopic surgeons &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <p class="text-sm text-gray-500"><a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

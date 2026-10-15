@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण | RAJ Hospital Ranchi</title>
-    <meta name="description" content="पुरुषों में दिल के दौरे (Heart Attack) के लक्षण, कारण, और बचाव के उपाय हिंदी में। जानें कब तुरंत medical help लें। Ranchi के best neurology और cardiology hospital में expert consultation।">
+    <title>Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण | RAJ Hospital Ranchi</title>
+    <meta name="description" content="पुरुषों में दिल के दौरे (Heart Attack) के लक्षण, कारण, और बचाव के उपाय हिंदी में। जानें कब तुरंत medical help लें। RAJ Hospital Ranchi में neurology और cardiology consultation।">
     <meta name="keywords" content="heart attack symptoms men, दिल के दौरे के लक्षण, पुरुषों में heart attack, heart attack in men hindi, heart attack warning signs, दिल की बीमारी के लक्षण, heart attack prevention">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/heart-attack-symptoms-men/">
@@ -70,7 +70,7 @@
                 "name": "दिल के दौरे की आपातकालीन स्थिति में क्या करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दिल के दौरे की आपातकालीन स्थिति में तुरंत 108 (ambulance) को कॉल करें। मरीज को आराम से बैठाएं और सीने में दर्द हो तो एक एस्पिरिन दें (अगर एलर्जी नहीं है)। किसी भी स्थिति में खाना पीना न दें और चिकित्सा सहायता आने तक प्रतीक्षा करें।"
+                    "text": "दिल के दौरे की आपातकालीन स्थिति में तुरंत 108 (ambulance) को कॉल करें। मरीज को आराम से बैठाएं; aspirin सिर्फ 108 emergency या doctor की सलाह पर ही दें। किसी भी स्थिति में खाना पीना न दें और चिकित्सा सहायता आने तक प्रतीक्षा करें।"
                 }
             },
             {
@@ -78,7 +78,7 @@
                 "name": "क्या मधुमेह वाले पुरुषों में दिल के दौरे का खतरा अधिक है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हां, मधुमेह वाले पुरुषों में दिल के दौरे का खतरा 2-4 गुना अधिक होता है। मधुमेह <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a> का एक प्रमुख जोखिम कारक है और इससे रक्त वाहिकाओं को नुकसान पहुंचता है। इसलिए मधुमेह नियंत्रित रखना बहुत जरूरी है।"
+                    "text": "हां, मधुमेह वाले पुरुषों में दिल के दौरे का खतरा 2-4 गुना अधिक होता है। मधुमेह heart disease का एक प्रमुख जोखिम कारक है और इससे रक्त वाहिकाओं को नुकसान पहुंचता है। इसलिए मधुमेह नियंत्रित रखना बहुत जरूरी है।"
                 }
             },
             {
@@ -86,7 +86,7 @@
                 "name": "दिल के दौरे से बचाव के लिए क्या करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दिल के दौरे से बचाव के लिए नियमित व्यायाम करें, स्वस्थ आहार लें (फल, सब्जियां, पूरे अनाज), धूम्रपान छोड़ें, शराब सीमित करें, तनाव प्रबंधन करें, और नियमित health checkup कराएं। <a href='/blog/heart-attack-se-kaise-bachen/'>दिल के दौरे से बचाव के बारे में विस्तार से जानें</a>।"
+                    "text": "दिल के दौरे से बचाव के लिए नियमित व्यायाम करें, स्वस्थ आहार लें (फल, सब्जियां, पूरे अनाज), धूम्रपान छोड़ें, शराब सीमित करें, तनाव प्रबंधन करें, और नियमित health checkup कराएं। दिल के दौरे से बचाव के बारे में विस्तार से जानें।"
                 }
             },
             {
@@ -94,7 +94,7 @@
                 "name": "RAJ Hospital Ranchi में दिल की बीमारी का इलाज कैसे होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "RAJ Hospital Ranchi में दिल और नसों की बीमारियों का व्यापक इलाज उपलब्ध है। हमारे पास advanced diagnostic facilities, experienced cardiologists और neurologists की टीम है। <a href='/contact.php'>अपॉइंटमेंट बुक करने के लिए संपर्क करें</a>।"
+                    "text": "RAJ Hospital Ranchi में दिल और नसों की बीमारियों का व्यापक इलाज उपलब्ध है। यहां cardiologists और neurologists से परामर्श उपलब्ध है। अपॉइंटमेंट बुक करने के लिए संपर्क करें।"
                 }
             }
         ]
@@ -106,7 +106,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण",
+        "name": "Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण",
         "description": "पुरुषों में दिल के दौरे (Heart Attack) के लक्षण, कारण, और बचाव के उपाय हिंदी में।",
         "url": "https://rajhospitals.com/blog/heart-attack-symptoms-men/",
         "author": {
@@ -153,7 +153,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men"
+                "name": "Heart Attack Symptoms in Men"
             }
         ]
     }
@@ -166,7 +166,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -177,7 +177,7 @@
             "name": "क्या Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a Heart Attack? जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Can Anxiety Cause a Heart Attack? जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -201,7 +201,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -256,6 +256,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 15 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -287,7 +288,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">हार्मोनल कारक</h4>
-                        <p class="text-sm text-gray-600">महिलाओं में estrogen hormone की वजह से दिल की बीमारी का खतरा कम रहता है। Menopause के बाद यह खतरा बराबर हो जाता है।</p>
+                        <p class="text-sm text-gray-600">महिलाओं में estrogen hormone की वजह से दिल की बीमारी का खतरा कम रहता है। Menopause के बाद महिलाओं में भी यह खतरा तेजी से बढ़ता है।</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">जीवनशैली</h4>
@@ -355,7 +356,7 @@
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">50-60 वर्ष</h4>
-                        <p class="text-sm text-gray-600">इस उम्र में heart attack का खतरा सबसे अधिक होता है। Regular checkup बहुत जरूरी है। <a href="/doctor-profile.php">हमारे specialists से मिलें</a>।</p>
+                        <p class="text-sm text-gray-600">इस उम्र में heart attack का खतरा और बढ़ जाता है। Regular checkup बहुत जरूरी है। <a href="/doctor-profile.php">हमारे specialists से मिलें</a>।</p>
                     </div>
                 </div>
 
@@ -368,7 +369,7 @@
 
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> Silent heart attack का पता ECG या blood tests से चलता है। 40+ उम्र के पुरुषों को नियमित cardiac checkup कराना चाहिए।</span>
+                    <span class="text-gray-700"> Silent heart attack का पता अक्सर बाद में ECG या echocardiography जैसी जांच से चलता है। 40+ उम्र के पुरुषों को नियमित cardiac checkup कराना चाहिए।</span>
                 </div>
 
                 <!-- Section 5: Risk Factors -->
@@ -437,7 +438,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">दिल की बीमारी में तुरंत मदद</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में 24x7 cardiac emergency और comprehensive heart care उपलब्ध है। हमारे experienced cardiologists और neurologists आपकी मदद के लिए उपलब्ध हैं।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में 24x7 cardiac emergency और comprehensive heart care उपलब्ध है। हमारे cardiologists और neurologists आपकी मदद के लिए उपलब्ध हैं।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -445,7 +446,7 @@
                 <h2 class="raj-h2-secondary">डॉक्टर से कब मिलें?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    निम्न स्थितियों में तुरंत डॉक्टर से मिलें:
+                    निम्न स्थितियों में तुरंत डॉक्टर से मिलें (सीने में दर्द, सांस फूलना या बेहोशी अचानक हो तो तुरंत 108 call करें):
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -463,8 +464,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">पुरुषों में दिल के दौरे (Heart Attack) के लक्षण, कारण, और बचाव के उपाय हिंदी में। जानें कब तुरंत medical help लें। Ranchi के best neurology और cardiology hospital में expert consultation।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">पुरुषों में दिल के दौरे (Heart Attack) के लक्षण, कारण, और बचाव के उपाय हिंदी में। जानें कब तुरंत medical help लें। RAJ Hospital Ranchi में neurology और cardiology consultation।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -506,7 +507,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -515,8 +516,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Cardiologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

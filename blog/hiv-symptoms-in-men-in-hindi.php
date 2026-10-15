@@ -14,7 +14,7 @@
     <link rel="canonical" href="https://rajhospitals.com/blog/hiv-symptoms-in-men-in-hindi/">
 
     <meta property="og:title" content="पुरुषों में HIV के लक्षण | HIV Symptoms in Men in Hindi">
-    <meta property="og:description" content="पुरुषों में HIV के शुरुआती और प्रमुख लक्षण जानें। Complete Hindi guide by RAJ Hospital experts।">
+    <meta property="og:description" content="पुरुषों में HIV के शुरुआती और प्रमुख लक्षण जानें। Complete Hindi guide by RAJ Hospital।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/hiv-symptoms-in-men-in-hindi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/hiv-symptoms-in-men-in-hindi.png">
@@ -77,7 +77,7 @@
             "name": "इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Infectious Diseases</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">पुरुषों में HIV के लक्षण | HIV Symptoms in Men in Hindi</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 6 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -300,7 +301,7 @@
                 <h2 class="raj-h2">कब HIV Test करवाना चाहिए?</h2>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li>Unprotected sexual contact</li>
+                    <li>Unprotected sexual contact (72 घंटे के अंदर हो तो तुरंत doctor/ICTC से PEP के बारे में पूछें; window period के कारण test 4-6 हफ्ते और 3 महीने बाद करवाएं)</li>
                     <li>Sharing needles या syringes</li>
                     <li>Blood transfusion non-certified center से</li>
                     <li>Tattoo या body piercing non-sterile equipment से</li>
@@ -341,7 +342,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">पुरुषों में HIV के लक्षण | HIV Symptoms in Men in Hindi पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">पुरुषों में HIV के लक्षण | HIV Symptoms in Men in Hindi: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">पुरुषों में HIV के शुरुआती और प्रमुख लक्षण जानें। जानें कौन से warning signs हैं, कब test करना चाहिए, और कहां से Free HIV testing करवाएं। Complete Hindi guide।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। पुरुषों में HIV के लक्षण | HIV Symptoms in Men in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -353,7 +354,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/shighrapatan-ka-ilaj/" class="text-secondary-600 hover:underline font-semibold">शीघ्रपतन का इलाज — कारण और उपचार (RAJ Hospital, Ranchi)</a></li>
+                        
                         <li><a href="/blog/symptoms-of-aids-in-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Symptoms of AIDS in Men - Early Signs and Treatment</a></li>
                         <li><a href="/blog/hiv-symptoms-in-men-after-1-year.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital</a></li>
                         <li><a href="/blog/blood-infection-kaise-hota-hai.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Blood Infection (Sepsis) Kaise Hota Hai?</a></li>
@@ -385,7 +386,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -394,8 +395,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Physician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

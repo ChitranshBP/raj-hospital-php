@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-23",
         "dateModified": "2026-05-23",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>-me-pair-me-sujan-in-hindi/",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi/",
         "keywords": ["pregnancy feet swelling", "pair me sujan", "anasarca pregnancy"],
         "about": {
             "@type": "MedicalCondition",
@@ -87,7 +87,7 @@ $base_url = '../';
                 "name": "पैरों की सूजन कब चिंताजनक है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "अगर सूजन अचानक बहुत ज़्यादा हो, चेहरे या हाथों में भी हो, एक तरफ का पैर ज़्यादा सूजा हो, या सिरदर्द और धुंधलापन हो तो तुरंत डॉक्टर से मिलें - यह प्रीक्लेम्पसिया का संकेत हो सकता है।"
+                    "text": "अगर सूजन अचानक बहुत ज़्यादा हो, चेहरे या हाथों में भी हो, या सिरदर्द और धुंधलापन हो तो तुरंत डॉक्टर से मिलें - यह प्रीक्लेम्पसिया का संकेत हो सकता है। एक पैर में ज़्यादा सूजन, दर्द या लालिमा blood clot (DVT) का संकेत हो सकती है - इसमें भी तुरंत डॉक्टर को दिखाएं।"
                 }
             },
             {
@@ -163,7 +163,7 @@ $base_url = '../';
                 "@type": "ListItem",
                 "position": 3,
                 "name": "गर्भावस्था",
-                "item": "https://rajhospitals.com/blog?category=<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>"
+                "item": "https://rajhospitals.com/blog?category=pregnancy"
             },
             {
                 "@type": "ListItem",
@@ -201,6 +201,7 @@ $base_url = '../';
             <h1 class="text-3xl md:text-4xl font-bold mb-4">
                 प्रेग्नेंसी में पैरों में सूजन - कारण और घरेलू उपाय
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <div class="flex items-center text-sm text-white/80 space-x-4">
                 <span class="flex items-center">
                     <i data-feather="user" class="w-4 h-4 mr-1"></i>
@@ -224,7 +225,7 @@ $base_url = '../';
                     <i data-feather="alert-circle" class="w-5 h-5 text-emergency-red mt-0.5"></i>
                     <div class="ml-3">
                         <p class="font-semibold text-emergency-red">डॉक्टर से कब मिलें?</p>
-                        <p class="text-gray-700 text-sm">अगर सूजन अचानक बहुत ज़्यादा हो, चेहरे/हाथों में भी हो, एक तरफ का पैर ज़्यादा सूजा हो, या सिरदर्द/धुंधलापन हो तो तुरंत संपर्क करें - यह <strong>प्रीक्लेम्पसिया</strong> का संकेत हो सकता है।</p>
+                        <p class="text-gray-700 text-sm">अगर सूजन अचानक बहुत ज़्यादा हो, चेहरे/हाथों में भी हो, या सिरदर्द/धुंधलापन हो तो तुरंत संपर्क करें; एक पैर में ज़्यादा सूजन, दर्द या लालिमा blood clot (DVT) का संकेत हो सकती है, और बाकी लक्षण <strong>प्रीक्लेम्पसिया</strong> का संकेत हो सकता है।</p>
                     </div>
                 </div>
             </div>
@@ -337,8 +338,8 @@ $base_url = '../';
             <div class="bg-gradient-to-r from-hospital-blue to-blue-600 rounded-xl p-6 text-white mb-8">
                 <div class="flex flex-col md:flex-row items-center justify-between">
                     <div>
-                        <h3 class="text-xl font-bold mb-2">प्रेग्नेंसी में अनुभवी स्त्री रोग विशेषज्ञ</h3>
-                        <p class="text-white/90">RAJ Hospital Ranchi - सुरक्षित प्रसव और देखभाल</p>
+                        <h3 class="text-xl font-bold mb-2">प्रेग्नेंसी में स्त्री रोग विशेषज्ञ से परामर्श</h3>
+                        <p class="text-white/90">RAJ Hospital Ranchi - गर्भावस्था और प्रसव देखभाल</p>
                     </div>
                     <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
@@ -381,7 +382,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">नमक कम करें</h4>
-                        <p class="text-gray-600 text-sm">ज़्यादा नमक fluid retention बढ़ाता है। प्रतिदिन 1500-2000 mg sodium से अधिक न लें। टेबल सॉल्ट की जगह rock salt या Himalayan salt का कम उपयोग करें।</p>
+                        <p class="text-gray-600 text-sm">ज़्यादा नमक fluid retention बढ़ाता है। Processed और बहुत नमकीन चीज़ें कम करें, लेकिन नमक पूरी तरह बंद न करें। खाने में iodized नमक ही इस्तेमाल करें - rock salt या Himalayan salt में ज़रूरी iodine नहीं होता। नमक की मात्रा अपने डॉक्टर से पूछें।</p>
                     </div>
                 </div>
 
@@ -411,7 +412,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">नमकीन पानी से feet soak करें</h4>
-                        <p class="text-gray-600 text-sm">गर्म पानी में नमक डालकर 15-20 मिनट पैरों को soak करें। यह circulation improve करता है और सूजन कम करता है।</p>
+                        <p class="text-gray-600 text-sm">ठंडे या गुनगुने (गर्म नहीं) पानी में कुछ देर पैर रखने से आराम मिल सकता है; बहुत गर्म पानी से सूजन बढ़ सकती है।</p>
                     </div>
                 </div>
             </div>
@@ -457,7 +458,7 @@ $base_url = '../';
                 <li>ब्लीडिंग होती है जो gradually कम होती है</li>
             </ul>
             <p class="text-gray-700 mb-6 leading-relaxed">
-                अक्सर <strong>1-2 हफ्तों में</strong> सूजन कम होने लगती है और <strong>6-8 हफ्तों में</strong> अधिकतर gone हो जाती है। अगर सूजन बहुत लंबे समय तक रहे तो डॉक्टर से मिलें।
+                अक्सर <strong>1-2 हफ्तों में</strong> सूजन कम होने लगती है और <strong>6-8 हफ्तों में</strong> अधिकतर gone हो जाती है। अगर सूजन बहुत लंबे समय तक रहे, अचानक बढ़े, एक पैर में ज़्यादा हो, या सिरदर्द, धुंधलापन, सांस फूलना हो तो तुरंत डॉक्टर से मिलें - डिलीवरी के बाद भी preeclampsia या blood clot हो सकता है।
             </p>
 
             <!-- FAQ Section -->
@@ -477,7 +478,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: पैरों की सूजन कब चिंताजनक है?</h4>
-                    <p class="text-gray-700 text-sm">अगर सूजन अचानक बहुत ज़्यादा हो, चेहरे या हाथों में भी हो, एक तरफ का पैर ज़्यादा सूजा हो, या सिरदर्द और धुंधलापन हो तो तुरंत डॉक्टर से मिलें - यह प्रीक्लेम्पसिया का संकेत हो सकता है।</p>
+                    <p class="text-gray-700 text-sm">अगर सूजन अचानक बहुत ज़्यादा हो, चेहरे या हाथों में भी हो, या सिरदर्द और धुंधलापन हो तो तुरंत डॉक्टर से मिलें - यह प्रीक्लेम्पसिया का संकेत हो सकता है। एक पैर में ज़्यादा सूजन, दर्द या लालिमा blood clot (DVT) का संकेत हो सकती है - इसमें भी तुरंत डॉक्टर को दिखाएं।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -504,7 +505,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की स्त्री रोग विशेषज्ञ टीम गर्भावस्था की पूरी देखभाल और सुरक्षित प्रसव में मदद करती है। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की स्त्री रोग विशेषज्ञ टीम गर्भावस्था और प्रसव से जुड़ी देखभाल उपलब्ध कराती है। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>
@@ -535,8 +536,8 @@ $base_url = '../';
                 <a href="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
-                        <h4 class="font-semibold text-gray-800 text-sm">Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital</h4>
-                        <p class="text-gray-500 text-xs">रांची में सर्वश्रेष्ठ प्रसूति अस्पताल</p>
+                        <h4 class="font-semibold text-gray-800 text-sm"> <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital</h4>
+                        <p class="text-gray-500 text-xs">रांची में प्रसूति देखभाल की जानकारी</p>
                     </div>
                 </a>
                 <a href="https://rajhospitals.com/blog/labour-pain-symptoms-in-hindi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi</title>
+    <title>Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Toothache और Headache का complete guide - causes, treatment और prevention tips। जानें कब dentist से मिलना है और कब self-care काफी है।">
     <meta name="keywords" content="toothache headache, dental headache, tooth pain treatment, causes treatment guide, dental health">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Toothache और Headache - कारण, Treatment और Prevention Guide में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi",
+        "headline": "Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi",
         "description": "Toothache और Headache का complete guide - causes, treatment और prevention tips। जानें कब dentist से मिलना है और कब self-care काफी है।",
         "url": "https://rajhospitals.com/blog/can-a-toothache-cause-a-headache-causes-treatment-guide/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-a-toothache-cause-a-headache-causes-treatment-guide.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi"
+                "name": "Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-teal-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Dental Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Treatment और Prevention Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -232,7 +233,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-teal-700">मुख्य बात:</strong>
-                    <span class="text-gray-700"> दांत दर्द और सिरदर्द के 70% cases में दांत की समस्या <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> का कारण होती है। Early treatment से जटिलताएं avoid की जा सकती हैं।</span>
+                    <span class="text-gray-700"> दांत दर्द और सिरदर्द साथ हों तो कई cases में दांत की समस्या <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> का कारण होती है। Early treatment से जटिलताएं avoid की जा सकती हैं।</span>
                 </div>
 
                 <!-- Section 1: Causes -->
@@ -315,7 +316,7 @@
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600">4. Pain Relievers</h4>
-                        <p class="text-sm text-gray-600">ibuprofen या acetaminophen</p>
+                        <p class="text-sm text-gray-600">ibuprofen या paracetamol (label या doctor/pharmacist की सलाह के अनुसार; kidney, ulcer, pregnancy या blood thinner वाले मरीज पहले डॉक्टर से पूछें)</p>
                     </div>
                 </div>
 
@@ -354,7 +355,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-teal-600 to-teal-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Dental Pain? Don't Wait!</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में emergency dental services और complete dental care available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में dental consultation और treatment उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-teal-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -368,11 +369,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">कितने दिन में ठीक होगा?</h4>
-                        <p class="text-gray-700">Treatment के बाद 1-2 weeks में improvement होती है। Infection हो तो antibiotics 7-10 days।</p>
+                        <p class="text-gray-700">Treatment के बाद 1-2 weeks में improvement होती है। Infection हो तो dentist द्वारा बताई antibiotics का पूरा course लें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">क्या root canal painful है?</h4>
-                        <p class="text-gray-700">Modern techniques से बहुत कम painful है। Local anesthesia से completely comfortable होता है।</p>
+                        <p class="text-gray-700">Modern techniques से बहुत कम painful है। Local anesthesia से procedure के दौरान दर्द काफी कम रहता है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
@@ -420,7 +421,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -429,8 +430,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-teal-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Dental Specialist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

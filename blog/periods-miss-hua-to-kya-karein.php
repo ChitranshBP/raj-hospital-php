@@ -39,7 +39,7 @@ $base_url = '../';
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "पीरियड्स मिस हो गए तो क्या करें?",
-        "description": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Periods</a> miss होने के कारण, pregnancy test, और कब डॉक्टर से मिलना चाहिए इसकी जानकारी।",
+        "description": "Periods miss होने के कारण, pregnancy test, और कब डॉक्टर से मिलना चाहिए इसकी जानकारी।",
         "author": {
             "@type": "Organization",
             "name": "RAJ Hospital Ranchi"
@@ -71,7 +71,7 @@ $base_url = '../';
                 "name": "पीरियड्स मिस होने के क्या कारण हो सकते हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "पीरियड्स मिस होने के कारणों में <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> सबसे आम है। इसके अलावा <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, PCOD/PCOS, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> problems, ज़्यादा वज़न या कम वज़न, और hormonal changes भी कारण हो सकते हैं।"
+                    "text": "पीरियड्स मिस होने के कारणों में pregnancy सबसे आम है। इसके अलावा stress, PCOD/PCOS, thyroid problems, ज़्यादा वज़न या कम वज़न, और hormonal changes भी कारण हो सकते हैं।"
                 }
             },
             {
@@ -79,7 +79,7 @@ $base_url = '../';
                 "name": "Periods मिस होने पर pregnancy test कब करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Periods मिस होने के 1 हफ्ते बाद pregnancy test करें। सुबह का पहला पेशाब सबसे अच्छा होता है क्योंकि HCG hormone की सांद्रता सबसे ज़्यादा होती है।"
+                    "text": "Periods मिस होने के 1 हफ्ते बाद pregnancy test करें। सुबह का पहला पेशाब test के लिए उपयुक्त होता है क्योंकि HCG hormone की सांद्रता सबसे ज़्यादा होती है।"
                 }
             },
             {
@@ -201,6 +201,7 @@ $base_url = '../';
             <h1 class="text-3xl md:text-4xl font-bold mb-4">
                 पीरियड्स मिस हो गए तो क्या करें?
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <div class="flex items-center text-sm text-white/80 space-x-4">
                 <span class="flex items-center">
                     <i data-feather="user" class="w-4 h-4 mr-1"></i>
@@ -248,7 +249,7 @@ $base_url = '../';
                 </div>
                 <div class="bg-purple-50 p-4 rounded-lg border border-purple-200">
                     <h4 class="font-bold text-purple-700 mb-2">2. PCOD/PCOS</h4>
-                    <p class="text-gray-600 text-sm">Polycystic Ovary Syndrome में hormonal imbalance से periods irregular या miss हो सकते हैं। 1 in 5 women को affected करता है।</p>
+                    <p class="text-gray-600 text-sm">Polycystic Ovary Syndrome में hormonal imbalance से periods irregular या miss हो सकते हैं। यह महिलाओं में काफी आम समस्या है।</p>
                 </div>
                 <div class="bg-blue-50 p-4 rounded-lg border border-blue-200">
                     <h4 class="font-bold text-blue-700 mb-2">3. Stress</h4>
@@ -310,7 +311,7 @@ $base_url = '../';
                     <li>Clean container में पेशाब एकत्र करें</li>
                     <li>Test strip को 5-10 seconds तक पेशाब में डूबो</li>
                     <li>3-5 मिनट wait करें</li>
-                    <li>2 lines = Pregnant, 1 line = Not Pregnant</li>
+                    <li>Control line के साथ दूसरी line (हल्की भी) = positive; सिर्फ control line = negative; control line न दिखे तो test invalid है - kit के निर्देश पढ़ें</li>
                 </ul>
             </div>
 
@@ -378,7 +379,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">RAJ Hospital में जाँच करें</h3>
                         <p class="text-white/90">Ultrasound, hormones test और specialist consultation</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>
@@ -390,7 +391,7 @@ $base_url = '../';
                 Periods Regular करने के घरेलू उपाय
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                Doctor से मिलने के अलावा, कुछ घरेलू उपाय भी मदद कर सकते हैं:
+                Pregnancy test negative आने के बाद, डॉक्टर की सलाह के साथ ये lifestyle उपाय मदद कर सकते हैं (periods लाने के लिए कोई जड़ी-बूटी या दवा खुद से न लें):
             </p>
 
             <div class="space-y-4 mb-6">
@@ -400,7 +401,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">अजमोद (Parsley) चाय</h4>
-                        <p class="text-gray-600 text-sm">अजमोद में apiol होता है जो periods को stimulate करता है। गर्म पानी में अजमोद डालकर चाय बनाएं।</p>
+                        <p class="text-gray-600 text-sm">Periods लाने के लिए अजमोद, जड़ी-बूटी या काढ़ा न लें - pregnancy की संभावना हो तो ये नुकसानदेह हो सकते हैं; पहले pregnancy test करें और डॉक्टर से मिलें।</p>
                     </div>
                 </div>
 
@@ -410,7 +411,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">अदरक की चाय</h4>
-                        <p class="text-gray-600 text-sm">अदरक में gingerol होता है जो menstruation को regular करने में मदद करता है। दिन में 2-3 बार पिएं।</p>
+                        <p class="text-gray-600 text-sm">अदरक की चाय पेट की ऐंठन में कुछ आराम दे सकती है, लेकिन periods regular करने का इसका प्रमाण सीमित है।</p>
                     </div>
                 </div>
 
@@ -420,7 +421,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">हल्दी (Turmeric)</h4>
-                        <p class="text-gray-600 text-sm">हल्दी में curcumin होता है जो hormones को balance करता है। गर्म दूध में हल्दी मिलाकर पिएं।</p>
+                        <p class="text-gray-600 text-sm">हल्दी वाला दूध सामान्य आहार का हिस्सा हो सकता है, लेकिन यह hormones balance करने या periods लाने का इलाज नहीं है।</p>
                     </div>
                 </div>
 
@@ -477,7 +478,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: Periods मिस होने पर pregnancy test कब करें?</h4>
-                    <p class="text-gray-700 text-sm">Periods मिस होने के 1 हफ्ते बाद pregnancy test करें। सुबह का पहला पेशाब सबसे अच्छा होता है क्योंकि HCG hormone की सांद्रता सबसे ज़्यादा होती है।</p>
+                    <p class="text-gray-700 text-sm">Periods मिस होने के 1 हफ्ते बाद pregnancy test करें। सुबह का पहला पेशाब test के लिए उपयुक्त होता है क्योंकि HCG hormone की सांद्रता सबसे ज़्यादा होती है।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -509,7 +510,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की गायनेकोलॉजी टीम महिलाओं की स्वास्थ्य समस्याओं का प्रभावी इलाज करती है। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की गायनेकोलॉजी टीम महिलाओं की स्वास्थ्य समस्याओं के लिए परामर्श और इलाज उपलब्ध कराती है। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>
@@ -540,7 +541,7 @@ $base_url = '../';
                 <a href="https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi/" class="flex items-center p-4 bg-gray-50 rounded-lg hover:bg-blue-50 transition">
                     <i data-feather="arrow-right" class="w-4 h-4 text-hospital-blue mr-3"></i>
                     <div>
-                        <h4 class="font-semibold text-gray-800 text-sm">Best Maternity Hospital</h4>
+                        <h4 class="font-semibold text-gray-800 text-sm">Maternity Hospital in Ranchi</h4>
                         <p class="text-gray-500 text-xs">प्रेग्नेंसी और प्रसव की देखभाल</p>
                     </div>
                 </a>

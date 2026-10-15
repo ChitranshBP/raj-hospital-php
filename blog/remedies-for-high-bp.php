@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar | RAJ Hospital Ranchi</title>
+    <title>High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi</title>
     <meta name="description" content="High BP ke gharelu upchar, blood pressure ko control karne ke tarike, yoga asanas, aur diet tips। Blood pressure natural remedies जानें।">
     <meta name="keywords" content="high bp remedies, high blood pressure home remedies, bp control tips, blood pressure natural treatment, high blood pressure diet">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "High BP (High Blood Pressure) Ke Gharelu Upchar में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -77,7 +77,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar | RAJ Hospital Ranchi",
+        "headline": "High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi",
         "description": "High BP ke gharelu upchar, blood pressure ko control karne ke tarike, yoga asanas, aur diet tips। Blood pressure natural remedies जानें।",
         "url": "https://rajhospitals.com/blog/remedies-for-high-bp",
         "image": "https://rajhospitals.com/blog/assets/img/featured/remedies-for-high-bp.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar | RAJ Hospital Ranchi"
+                "name": "High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -212,6 +212,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Heart Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar: Complete Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -221,11 +222,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a></strong> (BP), जिसे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">hypertension</a> कहते हैं, आजकल एक common health problem बन गया है। India में लगभग 30% adults high BP से affect हैं। अगर आपका BP 140/90 mmHg या उससे ज्यादा है, तो इसे high BP माना जाता है।
+                    <strong>High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a></strong> (BP), जिसे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">hypertension</a> कहते हैं, आजकल एक common health problem बन गया है। India में बड़ी संख्या में adults high BP से affect हैं। अगर आपका BP 140/90 mmHg या उससे ज्यादा है, तो इसे high BP माना जाता है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>High BP</strong> को control करना जरूरी है क्योंकि यह <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a>, kidney problems जैसी serious health conditions का कारण बन सकता है। Medicines के अलावा, कई <strong>gharelu upchar (home remedies)</strong> और lifestyle changes BP control करने में मदद कर सकते हैं। <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी cardiology team इन natural remedies के साथ medical treatment भी provide करती है।
+                    <strong>High BP</strong> को control करना जरूरी है क्योंकि यह <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a>, kidney problems जैसी serious health conditions का कारण बन सकता है। Medicines के अलावा, कई <strong>gharelu upchar (home remedies)</strong> और lifestyle changes BP control करने में मदद कर सकते हैं। <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में cardiology team BP की जांच और doctor-guided treatment provide करती है; home remedies को दवा का विकल्प न मानें।
                 </p>
 
                 <!-- Section 1: Understanding High BP -->
@@ -269,7 +270,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">3. Salt Intake Kam Karein</h4>
-                        <p class="text-sm text-gray-600">Daily salt intake 5-6 grams से कम रखें। Processed foods, pickles, papads से बचें।</p>
+                        <p class="text-sm text-gray-600">Daily salt intake 5 grams (लगभग 1 छोटा चम्मच) से कम रखें। Processed foods, pickles, papads से बचें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. Alcohol और Caffeine Kam Karein</h4>
@@ -282,7 +283,7 @@
                 </div>
 
                 <!-- Section 3: Home Remedies -->
-                <h2 class="raj-h2">High BP Ke Gharelu Upchar (Home Remedies)</h2>
+                <h2 class="raj-h2">High BP Mein Madadgar Gharelu Aadatein (दवा का विकल्प नहीं)</h2>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">1. Garlic (Lehsun)</h3>
                 <div class="raj-callout raj-callout-success">
@@ -292,13 +293,13 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">2. Honey (Madhu)</h3>
                 <div class="raj-callout raj-callout-success">
-                    <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Honey heart को strengthen करता है और BP को balance करता है।</p>
+                    <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Honey का BP कम करने में असर साबित नहीं है; diabetes हो तो honey भी सीमित मात्रा में ही लें।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Morning में empty stomach 1 teaspoon honey + warm water में mix करके पिएं।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">3. Cinnamon (Dalchini)</h3>
                 <div class="raj-callout raj-callout-success">
-                    <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Cinnamon blood circulation improve करती है और BP reduce करती है।</p>
+                    <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Cinnamon का BP पर असर कुछ छोटे studies तक सीमित है; इसे BP की दवा का विकल्प न मानें।</p>
                     <p class="text-gray-700"><strong>How to use:</strong> Daily food में cinnamon powder add करें या cinnamon tea पिएं।</p>
                 </div>
 
@@ -317,7 +318,7 @@
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">6. Coconut Water (Nariyal Paani)</h3>
                 <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Coconut water potassium और magnesium से भरपूर है जो BP balance करता है।</p>
-                    <p class="text-gray-700"><strong>How to use:</strong> Daily 1 glass fresh coconut water पिएं।</p>
+                    <p class="text-gray-700"><strong>How to use:</strong> Daily 1 glass fresh coconut water ले सकते हैं; kidney disease हो या BP की कुछ दवाएं (जैसे ACE inhibitor, ARB, spironolactone) ले रहे हों तो पहले doctor से पूछें।</p>
                 </div>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">7. Watermelon Seeds</h3>
@@ -329,14 +330,14 @@
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">8. Banana</h3>
                 <div class="raj-callout raj-callout-success">
                     <p class="text-gray-700 mb-2"><strong>Benefits:</strong> Banana में potassium होती है जो sodium के effect को counter करती है।</p>
-                    <p class="text-gray-700"><strong>How to use:</strong> Daily 1-2 bananas खाएं।</p>
+                    <p class="text-gray-700"><strong>How to use:</strong> Daily 1-2 bananas खा सकते हैं; kidney disease हो या doctor ने potassium सीमित करने को कहा हो तो पहले doctor से पूछें।</p>
                 </div>
 
                 <!-- Section 4: Yoga Asanas -->
                 <h2 class="raj-h2">High BP Ke Liye Yoga Asanas</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Yoga <strong>high BP reduce करने</strong> में very effective है:
+                    Yoga <strong>high BP reduce करने</strong> में सहायक हो सकता है (दवा के साथ, doctor की सलाह से):
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -409,7 +410,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">High BP Ki Jaanch Aur Treatment</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert cardiologists से consultation करें।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में cardiologist से consultation करें।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -419,7 +420,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya garlic high BP reduce कर सकता hai?</h4>
-                        <p class="text-gray-700">Haan, garlic में allicin होता है जो BP reduce करने में मदद करता है। Regular consumption से systolic BP 8-10 mmHg तक कम हो सकता है।</p>
+                        <p class="text-gray-700">Haan, garlic में allicin होता है जो BP reduce करने में मदद करता है। कुछ studies में garlic supplements से BP में थोड़ी कमी देखी गई है, लेकिन यह BP की दवा का विकल्प नहीं है। Blood thinner ले रहे हों तो garlic supplements से पहले doctor से पूछें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya walking BP control कर सकती hai?</h4>
@@ -435,7 +436,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya home remedies alone se BP control ho sakti hai?</h4>
-                        <p class="text-gray-700">Mild hypertension में home remedies sufficient ho sakte hain, लेकिन moderate to severe cases में doctor की prescribed medicines जरूरी होती hai। Combination approach best hai।</p>
+                        <p class="text-gray-700">Mild hypertension में lifestyle changes (कम नमक, exercise, weight control) से BP कम हो सकता है, लेकिन home remedies दवा का विकल्प नहीं हैं। BP की prescribed दवा doctor की सलाह के बिना बंद या कम न करें। Lifestyle changes और doctor की बताई treatment साथ में अपनाना उचित है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
@@ -484,7 +485,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -493,8 +494,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Cardiologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

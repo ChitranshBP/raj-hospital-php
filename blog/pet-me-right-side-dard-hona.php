@@ -45,7 +45,7 @@
             "name": "Pet me right side dard hona ka sabse common karan kya hai?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "पेट के right side में दर्द के कई कारण हो सकते हैं। सबसे common कारणों में gastritis, <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> problem, constipation, appendix inflammation (appendicitis), gallbladder stones, kidney stones, और urinary tract infection शामिल हैं। दर्द की जगह (ऊपर या नीचे), its nature (sharp ya dull), और accompanying symptoms के आधार पर doctor सही diagnosis कर सकते हैं।"
+                "text": "पेट के right side में दर्द के कई कारण हो सकते हैं। सबसे common कारणों में gastritis, gas problem, constipation, appendix inflammation (appendicitis), gallbladder stones, kidney stones, और urinary tract infection शामिल हैं। दर्द की जगह (ऊपर या नीचे), its nature (sharp ya dull), और accompanying symptoms के आधार पर doctor सही diagnosis कर सकते हैं।"
             }
         },
         {
@@ -69,7 +69,7 @@
             "name": "Right side stomach pain female में कब ज्यादा common होता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Women में right side stomach pain के additional causes हो सकते हैं - ovarian cysts, ectopic <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>, endometriosis, और menstrual cramps। Pregnancy के दौरान right side pain को especially seriously लेना चाहिए और तुरंत doctor से contact करना चाहिए।"
+                "text": "Women में right side stomach pain के additional causes हो सकते हैं - ovarian cysts, ectopic pregnancy, endometriosis, और menstrual cramps। Pregnancy के दौरान right side pain को especially seriously लेना चाहिए और तुरंत doctor से contact करना चाहिए।"
             }
         },
         {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -221,6 +221,7 @@
             <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
                 Pet Me Right Side Dard Hona: कारण, लक्षण और घरेलू उपाय
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <p class="text-lg text-gray-600 mb-4">
                 पेट के राइट साइड में दर्द एक common problem है जो किसी भी उम्र में हो सकती है। यह दर्द हल्का से लेकर बहुत तेज और unbearable तक हो सकता है। इस article में हम जानेंगे <strong>pet me right side dard hona ke karan</strong>, symptoms और <strong>gharelu upay</strong> के बारे में।
             </p>
@@ -262,7 +263,7 @@
                     <strong>Pet ke right side me dard hona</strong> सबसे अधिक <strong><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> problem</strong> और <strong>gastritis</strong> की वजह से होता है। जब पेट में अधिक acid बनता है या <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> trapped हो जाता है, तो दर्द right side में महसूस हो सकता है। <strong>Spicy food</strong>, <strong>irregular eating habits</strong>, और <strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a></strong> इस problem को बढ़ाते हैं।
                 </p>
 
-                <h3 class="text-xl font-semibold text-gray-800 mb-3">2. Appendicitis - आंतों की सूजन</h3>
+                <h3 class="text-xl font-semibold text-gray-800 mb-3">2. Appendicitis - अपेंडिक्स की सूजन</h3>
                 <p class="text-gray-600 mb-4">
                     <strong>Nabhi ke right side mein dard hona</strong> appendicitis का संकेत हो सकता है। Appendix का inflammation तेज दर्द देता है जो बढ़ता जाता है। इसमें <strong>fever</strong>, <strong>nausea</strong>, और <strong>appetite loss</strong> भी होता है। यह एक <strong>medical emergency</strong> है और तुरंत treatment जरूरी है।
                 </p>
@@ -393,7 +394,7 @@
 
                 <div class="space-y-4">
                     <div class="bg-white border rounded-xl p-6 shadow-sm">
-                        <h3 class="font-semibold text-gray-800 mb-2">1. Medications</h3>
+                        <h3 class="font-semibold text-gray-800 mb-2">1. Medications (केवल डॉक्टर की सलाह से)</h3>
                         <p class="text-gray-600 text-sm">
                             <strong>Antacids</strong> - acidity aur gas के लिए<br>
                             <strong>Antibiotics</strong> - infection के लिए<br>
@@ -429,14 +430,14 @@
                     पेट के राइट साइड में दर्द के घरेलू उपाय - Gharelu Upay
                 </h2>
                 <p class="text-gray-600 mb-4">
-                    <strong>Pet ke right side me dard hona</strong> के लिए कई effective <strong>gharelu upay</strong> हैं जो mild cases में helpful हैं:
+                    <strong>Pet ke right side me dard hona</strong> के लिए कई effective <strong>gharelu upay</strong> हैं जो डॉक्टर से गंभीर कारण (जैसे appendicitis, पथरी, ectopic pregnancy) rule out होने के बाद हल्की gas/अपच में helpful हो सकते हैं:
                 </p>
 
                 <div class="grid md:grid-cols-2 gap-4">
                     <div class="bg-green-50 p-4 rounded-xl">
                         <h3 class="font-semibold text-gray-800 mb-2">1. Ajwain Water - अजवाइन का पानी</h3>
                         <p class="text-gray-600 text-sm">
-                            एक glass गर्म पानी में 1 teaspoon ajwain डालें और 5-10 minutes रखें। इसे पीने से <strong>gas</strong> और <strong>bloating</strong> कम होती है। यह <strong>pet me right side dard</strong> का सबसे अच्छा घरेलू उपाय है।
+                            एक glass गर्म पानी में 1 teaspoon ajwain डालें और 5-10 minutes रखें। इसे पीने से <strong>gas</strong> और <strong>bloating</strong> कम होती है। यह <strong>pet me right side dard</strong> में हल्की gas/bloating के लिए एक घरेलू उपाय हो सकता है; तेज़ या बढ़ते दर्द में डॉक्टर को दिखाएं।
                         </p>
                     </div>
 
@@ -450,14 +451,14 @@
                     <div class="bg-green-50 p-4 rounded-xl">
                         <h3 class="font-semibold text-gray-800 mb-2">3. Hing - हींग</h3>
                         <p class="text-gray-600 text-sm">
-                            हींग को गर्म पानी में मिलाकर पीने से <strong>gas aur bloating</strong> तुरंत कम होती है। <strong>Pet ke right side dard</strong> के लिए यह very effective remedy है।
+                            हींग को गर्म पानी में मिलाकर पीने से <strong>gas aur bloating</strong> तुरंत कम होती है। <strong>Pet ke right side dard</strong> में हल्की gas के लिए कुछ लोगों को आराम दे सकती है।
                         </p>
                     </div>
 
                     <div class="bg-green-50 p-4 rounded-xl">
                         <h3 class="font-semibold text-gray-800 mb-2">4. Saunf - सौंफ</h3>
                         <p class="text-gray-600 text-sm">
-                            <strong>Saunf</strong> चबाने से ya <strong>saunf water</strong> पीने से <strong>stomach pain</strong> और <strong>acidity</strong> कम होती है। यह <strong>ayurvedic remedy</strong> है जो बिना side effects के काम करती है।
+                            <strong>Saunf</strong> चबाने से ya <strong>saunf water</strong> पीने से <strong>stomach pain</strong> और <strong>acidity</strong> कम होती है। यह <strong>ayurvedic remedy</strong> है; सीमित मात्रा में ज़्यादातर लोगों के लिए सुरक्षित मानी जाती है।
                         </p>
                     </div>
 
@@ -469,7 +470,7 @@
                     </div>
 
                     <div class="bg-green-50 p-4 rounded-xl">
-                        <h3 class="font-semibold text-gray-800 mb-2">6. Warm Compress - गर्म सिकाई</h3>
+                        <h3 class="font-semibold text-gray-800 mb-2">6. Warm Compress - गर्म सिकाई (केवल हल्के gas/muscle दर्द में; बुखार, उल्टी या बढ़ते दर्द में न करें)</h3>
                         <p class="text-gray-600 text-sm">
                             <strong>Pet ke right side</strong> पर <strong>warm compress</strong> करने से <strong>muscle relaxation</strong> होता है और <strong>pain</strong> कम होता है। <strong>Heating pad</strong> ya <strong>warm towel</strong> use करें।
                         </p>
@@ -598,17 +599,17 @@
             <section class="bg-gradient-to-r from-primary-500 to-accent-500 p-8 rounded-xl text-white mb-8">
                 <h2 class="text-2xl font-bold mb-4">Conclusion</h2>
                 <p class="mb-4">
-                    <strong>Pet me right side dard hona</strong> एक common problem है जिसके कई causes हो सकते हैं। <strong>Mild cases</strong> में <strong>gharelu upay</strong> effective हैं, लेकिन <strong>severe pain</strong>, <strong>fever</strong>, ya <strong>other warning signs</strong> होने पर <strong>immediately doctor</strong> से मिलें।
+                    <strong>Pet me right side dard hona</strong> एक common problem है जिसके कई causes हो सकते हैं। <strong>Mild cases</strong> में <strong>gharelu upay</strong> कुछ आराम दे सकते हैं, लेकिन <strong>severe pain</strong>, <strong>fever</strong>, ya <strong>other warning signs</strong> होने पर <strong>immediately doctor</strong> से मिलें।
                 </p>
                 <p>
-                    <strong>RAJ Hospital</strong> में expert gastroenterologists और physicians हैं जो <strong>right side stomach pain</strong> की <strong>accurate diagnosis</strong> और <strong>effective treatment</strong> provide करते हैं। <strong>Appointment</strong> के लिए contact करें।
+                    <strong>RAJ Hospital</strong> में gastroenterologists और physicians उपलब्ध हैं जो <strong>right side stomach pain</strong> की <strong>diagnosis</strong> और <strong>treatment</strong> provide करते हैं। <strong>Appointment</strong> के लिए contact करें।
                 </p>
             </section>
 
             <!-- CTA Section -->
             <div class="bg-secondary-600 text-white p-8 rounded-xl text-center">
                 <h2 class="text-2xl font-bold mb-4">Pet Dard Ki जांच कराना चाहते हैं?</h2>
-                <p class="mb-6">RAJ Hospital में अनुभवी डॉक्टरों से मिलें और सही इलाज पाएं।</p>
+                <p class="mb-6">RAJ Hospital में डॉक्टर से मिलें और जांच कराएं।</p>
                 <a href="/contact.php" class="inline-block bg-white text-secondary-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                     Appointment Book करें
                 </a>

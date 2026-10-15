@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Alzheimer's & Dementia Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Alzheimer's & Dementia Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Get expert Alzheimer's and Dementia treatment in Ranchi at Raj Hospital. We provide comprehensive memory care, cognitive therapies, and family support." />
-    <meta name="keywords" content="Alzheimers treatment in Ranchi, dementia care Ranchi, memory loss doctor in Ranchi, top neurologist for dementia Ranchi, geriatric neurology Ranchi" />
+    <meta name="description" content="Get Alzheimer's and Dementia treatment in Ranchi at Raj Hospital. We provide comprehensive memory care, cognitive therapies, and family support." />
+    <meta name="keywords" content="Alzheimers treatment in Ranchi, dementia care Ranchi, memory loss doctor in Ranchi, neurologist for dementia Ranchi, geriatric neurology Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/alzheimers-and-dementia-treatment-in-ranchi" />
@@ -36,7 +36,7 @@
         },
         {
           "@type": "MedicalProcedure",
-          "name": "Memantine (Namenda)"
+          "name": "Memantine"
         },
         {
           "@type": "MedicalProcedure",
@@ -177,8 +177,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Alzheimer's & Dementia Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Alzheimer's & Dementia Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -232,7 +232,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -265,8 +265,8 @@
                                 <p class="text-gray-600">Medications that boost cell-to-cell communication by preserving an essential chemical messenger.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
-                                <h4 class="text-xl font-bold text-primary-600 mb-3">Memantine (Namenda)</h4>
-                                <p class="text-gray-600">Works within another brain cell communication network to slow symptom progression.</p>
+                                <h4 class="text-xl font-bold text-primary-600 mb-3">Memantine</h4>
+                                <p class="text-gray-600">Acts on a different brain chemical (glutamate) and may modestly help memory and daily function in moderate to severe Alzheimer's; it does not stop the disease.</p>
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Cognitive Stimulation Therapy</h4>
@@ -299,6 +299,10 @@
                                 <input type="email" name="email" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all" placeholder="Email Address">
                             </div>
                             <input type="hidden" name="specialty" value="Alzheimer's & Dementia Treatment Inquiry">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200">
                                 Request Callback
                             </button>
@@ -316,8 +320,8 @@
                             </div>
                             <div class="p-5">
                                 <h3 class="text-lg font-bold text-gray-900 mb-1">Dr. Vivek Raj</h3>
-                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, MCh</p>
-                                <p class="text-secondary-600 text-sm mb-3">Neurology & Neurosurgery</p>
+                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, DNB</p>
+                                <p class="text-secondary-600 text-sm mb-3">Neurosurgery (Brain & Spine)</p>
                                 <a href="doctors/vivek-raj.php" class="block text-center w-full bg-primary-50 text-primary-600 py-2 rounded-lg border border-primary-200 hover:bg-primary-500 hover:text-white transition-colors font-medium text-sm">
                                     View Profile
                                 </a>
@@ -442,6 +446,10 @@
                             <input type="hidden" name="specialty" value="Alzheimer's & Dementia Specialist Inquiry">
 
                             <!-- Submit Box -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-[#f97316] hover:bg-[#ea580c] text-white px-6 py-3.5 rounded-lg font-bold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-4 h-4"></i>

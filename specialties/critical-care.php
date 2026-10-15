@@ -7,9 +7,9 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Critical Care - Best ICU Hospital in Ranchi | Raj Hospitals</title>
+    <title>Critical Care - ICU Hospital in Ranchi | Raj Hospitals</title>
     <meta name="description"
-        content="Raj Hospital is a leading critical care hospital in Ranchi offering advanced ICU facilities, emergency care, ventilator support and expert critical care doctors." />
+        content="Raj Hospital is a critical care hospital in Ranchi offering advanced ICU facilities, emergency care, ventilator support and expert critical care doctors." />
 
     <meta name="robots" content="index, follow" />
 
@@ -41,11 +41,6 @@ Emergency Critical Care in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -87,10 +82,10 @@ Emergency Critical Care in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best critical care hospital in Ranchi?",
+      "name": "Does Raj Hospital offer critical care services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best critical care hospitals in Ranchi with advanced ICU facilities and experienced doctors."
+        "text": "Yes, Raj Hospital in Ranchi offers critical care with advanced ICU facilities and experienced doctors."
       }
     },
     {
@@ -261,7 +256,7 @@ Emergency Critical Care in Jharkhand
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">Raj Hospitals' Critical Care Department
                             provides intensive, round-the-clock monitoring and management for patients with
                             life-threatening medical and surgical conditions. With modern ICUs, specialized life-support
-                            technology, and an expert multidisciplinary team, we deliver world-class care to critically
+                            technology, and an expert multidisciplinary team, we deliver round-the-clock care to critically
                             ill patients.</p>
 
                         <!-- Why Choose Us Box -->
@@ -280,7 +275,7 @@ Emergency Critical Care in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -629,39 +624,6 @@ Emergency Critical Care in Jharkhand
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Critical Care department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Stroke Survival & ICU Recovery</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Gupta, 62</p>
-                    <p class="text-gray-700 mb-6">Recovered with neurocritical care, ventilatory support, and
-                        comprehensive ICU rehabilitation.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Regained independence after 3
-                                months.</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
@@ -786,6 +748,10 @@ Emergency Critical Care in Jharkhand
                             <input type="hidden" name="specialty" value="Critical Care">
 
                             <!-- Submit Button -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-5 h-5"></i>

@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Physiotherapy & Rehabilitation in Ranchi | Best Physiotherapy Centre in Ranchi – Raj Hospital</title>
+    <title>Physiotherapy & Rehabilitation in Ranchi | Physiotherapy Centre in Ranchi – Raj Hospital</title>
 
     <meta name="description"
         content="Raj Hospital offers advanced physiotherapy and rehabilitation services in Ranchi for pain management, injury recovery and post-surgery rehabilitation." />
@@ -44,11 +44,6 @@ Physiotherapist in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -90,10 +85,10 @@ Physiotherapist in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best physiotherapy and rehabilitation centre in Ranchi?",
+      "name": "Does Raj Hospital offer physiotherapy and rehabilitation in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best centres in Ranchi for physiotherapy and rehabilitation services."
+        "text": "Yes, Raj Hospital in Ranchi offers physiotherapy and rehabilitation services."
       }
     },
     {
@@ -203,7 +198,7 @@ Physiotherapist in Jharkhand
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Physiotherapy Department at Raj
                             Hospitals provides expert rehabilitative care tailored for patients with orthopaedic,
                             neurological, cardiological, gynecological, and sports injuries. Our physiotherapists use
-                            advanced techniques and state-of-the-art equipment to ensure efficient pain management,
+                            advanced techniques and modern equipment for pain management,
                             post-surgical rehabilitation, injury recovery, and mobility restoration. Special emphasis is
                             placed on cardiac physiotherapy, ergonomic lifestyle interventions, bedside physiotherapy
                             for ICU and ward patients, and pediatric rehabilitation for children with developmental
@@ -456,47 +451,6 @@ Physiotherapist in Jharkhand
         </div>
     </section>
 
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Real stories of recovery from our Physiotherapy
-                    department</p>
-            </div>
-            <div class="grid md:grid-cols-2 gap-8">
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="activity" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Stroke Rehabilitation Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Mehta</p>
-                    <p class="text-gray-700 mb-6">Post-stroke, I underwent neurological physiotherapy at Raj Hospitals,
-                        regaining mobility and independence far quicker than expected.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Full stroke rehabilitation and improved quality of life</span></div>
-                    </div>
-                </div>
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="activity" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Cardiac Recovery</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mrs. Sharma</p>
-                    <p class="text-gray-700 mb-6">After cardiac surgery, structured physiotherapy plans helped with
-                        breathing exercises and a safe return to routine activities.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Improved heart function and daily endurance</span></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="py-8 bg-white">
         <div class="max-w-7xl mx-auto px-4">
@@ -585,6 +539,10 @@ Physiotherapist in Jharkhand
                                     class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
                                     placeholder="Describe your question or concern..."></textarea></div>
                             <input type="hidden" name="specialty" value="Physiotherapy & Rehabilitation">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2"><i
                                     data-feather="send" class="w-5 h-5"></i>Submit Inquiry</button>

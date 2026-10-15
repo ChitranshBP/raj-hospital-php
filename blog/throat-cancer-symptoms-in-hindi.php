@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital</title>
+    <title>Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Throat cancer ke symptoms in Hindi जानें। गले के कैंसर के शुरुआती signs, causes, और treatment options। Early detection और prevention tips।">
     <meta name="keywords" content="throat cancer symptoms in hindi, gale ka cancer, galte ke cancer ke lakshan, throat cancer warning signs">
     <meta name="robots" content="index, follow">
@@ -42,10 +42,10 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
+                "text": "अगर आवाज़ बैठना, गले में खराश, निगलने में तकलीफ या गर्दन में गांठ 2-3 हफ्ते से ज़्यादा रहे, खांसी/थूक में खून आए, सांस लेने में परेशानी हो या बिना कारण वजन कम हो रहा हो, तो जल्द से जल्द ENT specialist से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
             }
         },
         {
@@ -53,7 +53,7 @@
             "name": "क्या Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Breast Cancer News - Latest Updates & Treatment जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए सही कारण जानने के लिए ENT या oncology specialist से जांच कराना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "कैंसर जागरूकता और समय पर जांच से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital",
+        "headline": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital",
         "description": "Throat cancer ke symptoms in Hindi जानें। गले के कैंसर के शुरुआती signs, causes, और treatment options। Early detection और prevention tips।",
         "url": "https://rajhospitals.com/blog/throat-cancer-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/throat-cancer-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital"
+                "name": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -215,6 +215,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Oncology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -234,7 +235,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> India में हर साल 50,000 से अधिक new throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> cases reported होते हैं। Early detection survival rate को 80-90% तक बढ़ा सकता है।</span>
+                    <span class="text-gray-700"> India में हर साल हज़ारों new throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> cases reported होते हैं। Early stage में पकड़े जाने पर इलाज के नतीजे काफ़ी बेहतर होते हैं।</span>
                 </div>
 
                 <h2 class="raj-h2">Throat Cancer के शुरुआती लक्षण (Early Symptoms)</h2>
@@ -246,7 +247,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600"><i data-feather="message-circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i>️ आवाज में बदलाव</h4>
-                        <p class="text-sm text-gray-600">होशपूर्ण voice hoarse या changes in voice जो 2 weeks से ज्यादा रहे</p>
+                        <p class="text-sm text-gray-600">आवाज़ बैठना (hoarse voice) या आवाज़ में बदलाव जो 2 weeks से ज्यादा रहे</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600"><i data-feather="frown" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i> गले में खराश</h4>
@@ -322,7 +323,7 @@
 
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Throat Cancer का संदेह है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced oncologists और latest diagnostic facilities available हैं।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में oncology consultation और जांच की सुविधा उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -346,14 +347,13 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Oncologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Throat cancer ke symptoms in Hindi जानें। गले के कैंसर के शुरुआती signs, causes, और treatment options। Early detection और prevention tips।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में कैंसर जागरूकता और समय पर जांच से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -381,11 +381,11 @@
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण में डॉक्टर को कब दिखाना चाहिए?</h3>
-                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
+                        <p class="text-gray-700">अगर आवाज़ बैठना, गले में खराश, निगलने में तकलीफ या गर्दन में गांठ 2-3 हफ्ते से ज़्यादा रहे, खांसी/थूक में खून आए, सांस लेने में परेशानी हो या बिना कारण वजन कम हो रहा हो, तो जल्द से जल्द ENT specialist से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Breast Cancer News - Latest Updates &amp; Treatment जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए सही कारण जानने के लिए ENT या oncology specialist से जांच कराना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>
@@ -397,7 +397,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">कैंसर जागरूकता और समय पर जांच से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

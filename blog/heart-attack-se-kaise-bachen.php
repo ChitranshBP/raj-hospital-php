@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart | RAJ Hospital</title>
-    <meta name="description" content="Heart attack se kaise bachen - Janiye 15 powerful tips jo aapke heart ko healthy rakhenge aur heart attack ka risk kam karenge. RAJ Hospital Ranchi ke neurology experts se practical guidence.">
+    <title>Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart | RAJ Hospital</title>
+    <meta name="description" content="Heart attack se kaise bachen - Janiye 15 powerful tips jo aapke heart ko healthy rakhenge aur heart attack ka risk kam karenge. RAJ Hospital Ranchi se practical guidance.">
     <meta name="keywords" content="heart attack se kaise bachen, heart attack prevention, heart health tips in hindi, dil ka sehat, heart attack symptoms, cholesterol control, blood pressure control, heart care tips">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/heart-attack-se-kaise-bachen/">
@@ -23,7 +23,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Se Kaise Bachen - Complete Prevention Guide",
+        "name": "Heart Attack Se Kaise Bachen - Complete Prevention Guide",
         "description": "Heart attack prevention guide in Hindi with 15 powerful tips for maintaining heart health and preventing cardiac events.",
         "author": {
             "@type": "Organization",
@@ -75,7 +75,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Se Kaise Bachen"
+                "name": "Heart Attack Se Kaise Bachen"
             }
         ]
     }
@@ -88,10 +88,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a> se kaise bachein?",
+                "name": "Heart attack se kaise bachein?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart attack se bachene ke liye daily exercise karein, healthy diet lein, cigarette na pileen, alcohol kam karein, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> manage karein, blood pressure aur cholesterol control karein, regular checkups karein, aur enough sleep lein. Yeh sab steps aapke heart ko healthy rakhenge aur heart attack ka risk significantly kam hoga."
+                    "text": "Heart attack se bachene ke liye daily exercise karein, healthy diet lein, cigarette na pileen, alcohol kam karein, stress manage karein, blood pressure aur cholesterol control karein, regular checkups karein, aur enough sleep lein. Yeh sab steps aapke heart ko healthy rakhenge aur heart attack ka risk significantly kam hoga."
                 }
             },
             {
@@ -99,12 +99,12 @@
                 "name": "Heart attack ke lakshan kya hain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart attack ke common lakshan hain: chest mein dard ya pressure, haath ya turn mein pain, shoulder ya back mein dard, saans lena mushkil, cold sweat, nausea, fatigue, aur chhati mein burning sensation. Agar ye symptoms dikhein to turant doctor se milein. RAJ Hospital Ranchi mein <a href='../stroke-and-tia-treatment-in-ranchi.php'>emergency <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> and <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> care</a> available hai."
+                    "text": "Heart attack ke common lakshan hain: chest mein dard ya pressure, haath ya turn mein pain, shoulder ya back mein dard, saans lena mushkil, cold sweat, nausea, fatigue, aur chhati mein burning sensation. Agar ye symptoms dikhein to turant 108/ambulance call karein ya nazdeeki emergency mein pahunchein. RAJ Hospital Ranchi mein emergency stroke and cardiac care available hai."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Kya <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> se <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> ho sakta hai?",
+                "name": "Kya stress se heart attack ho sakta hai?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Haan, chronic stress heart attack ka risk badha sakta hai. Stress se blood pressure badhta hai, inflammation hota hai, aur heart par extra pressure padta hai. Meditation, yoga, aur proper rest lekar stress manage karein. Regular exercise aur adequate sleep bhi stress kam karne mein madad karta hai."
@@ -115,7 +115,7 @@
                 "name": "Diet se heart attack kaise prevent karein?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart-healthy diet lein: fruits, vegetables, whole grains, lean proteins, omega-3 rich foods jaise fish, walnuts, aur flaxseeds. Trans fats, saturated fats, excess salt, aur <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> kam karein. Olive oil, mustard oil, ya canola oil use karein. Processed foods aur fried foods se bachein."
+                    "text": "Heart-healthy diet lein: fruits, vegetables, whole grains, lean proteins, omega-3 rich foods jaise fish, walnuts, aur flaxseeds. Trans fats, saturated fats, excess salt, aur sugar kam karein. Olive oil, mustard oil, ya canola oil use karein. Processed foods aur fried foods se bachein."
                 }
             },
             {
@@ -123,7 +123,7 @@
                 "name": "Exercise kitna zaroori hai heart health ke liye?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Raj Hospital Ranchi ke <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> experts kehta hain ki hafte mein kam se kam 150 minutes moderate exercise ya 75 minutes vigorous exercise zaroori hai. Daily 30 minutes walk, jogging, swimming, ya cycling karein. Sedentary lifestyle se bachein aur regular physical activity ko apni routine ka hissa banayein."
+                    "text": "Guidelines ke anusaar hafte mein kam se kam 150 minutes moderate exercise ya 75 minutes vigorous exercise zaroori hai. Daily 30 minutes walk, jogging, swimming, ya cycling karein. Sedentary lifestyle se bachein aur regular physical activity ko apni routine ka hissa banayein."
                 }
             },
             {
@@ -131,12 +131,12 @@
                 "name": "High blood pressure aur cholesterol ko kaise control karein?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Blood pressure aur cholesterol control ke liye: low sodium diet lein, fruits aur vegetables zyada khaein, regular exercise karein, healthy weight maintain karein, alcohol kam karein, cigarette chhod dein, stress manage karein, aur doctor ki prescribed medicines regulary lein. <a href='../contact.php'>RAJ Hospital Ranchi</a> mein annual health checkup available hai jahan ye parameters check kiye ja sakte hain."
+                    "text": "Blood pressure aur cholesterol control ke liye: low sodium diet lein, fruits aur vegetables zyada khaein, regular exercise karein, healthy weight maintain karein, alcohol kam karein, cigarette chhod dein, stress manage karein, aur doctor ki prescribed medicines regulary lein. RAJ Hospital Ranchi mein annual health checkup available hai jahan ye parameters check kiye ja sakte hain."
                 }
             },
             {
                 "@type": "Question",
-                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a> ka golden hour kya hota hai?",
+                "name": "Heart attack ka golden hour kya hota hai?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Heart attack ke baad first 90 minutes bahut important hain - ise 'golden hour' kaha jata hai. Is time ke andar treatment shuru karne se heart damage kam hota hai aur survival chance badhta hai. Agar heart attack ke symptoms dikhein to turant emergency services call karein aur jaldi se jaldi hospital pahunchen. RAJ Hospital Ranchi mein 24/7 emergency care available hai."
@@ -204,7 +204,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -258,6 +258,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 15 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -271,7 +272,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    Is comprehensive guide mein, hum aapko <strong>15 powerful tips</strong> batayenge jo aapke heart ko healthy rakhenge aur heart attack ka risk significantly kam karenge. Yeh tips RAJ Hospital Ranchi ke experienced <a href="/doctor-profile.php" class="text-primary-600 hover:underline">cardiologists aur neurologists</a> ki expertise par based hain.
+                    Is comprehensive guide mein, hum aapko <strong>15 powerful tips</strong> batayenge jo aapke heart ko healthy rakhenge aur heart attack ka risk significantly kam karenge. Yeh tips standard heart-health guidelines par based hain.
                 </p>
 
                 <!-- Warning Box -->
@@ -325,14 +326,14 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Key Statistics:</strong>
-                    <span class="text-gray-700"> WHO ke anusar, heart disease duniya bhar mein sabse bada murder reason hai. India mein har saal 17 million+ log heart-related problems se marte hain. Prevention is always better than cure - heart attack se bachein is tarike se.</span>
+                    <span class="text-gray-700"> WHO ke anusar, heart disease duniya bhar mein maut ka sabse bada kaaran hai. Duniya bhar mein har saal lagbhag 1.79 crore (17.9 million) log cardiovascular diseases se marte hain (WHO). Prevention is always better than cure - heart attack se bachein is tarike se.</span>
                 </div>
 
                 <!-- Section 3: 15 Prevention Tips -->
                 <h2 class="raj-h2-secondary">15 Powerful Tips: Heart Attack Se Kaise Bachen</h2>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital Ranchi ke <a href="/doctor-profile.php" class="text-primary-600 hover:underline">heart specialists</a> ne ye 15 proven tips diye hain jinhe follow karke aap apne heart ko healthy rakh sakte hain aur heart attack se bachein:
+                    Ye 15 tips jinhe follow karke aap apne heart ko healthy rakh sakte hain aur heart attack se bachein:
                 </p>
 
                 <!-- Tip 1 -->
@@ -353,7 +354,7 @@
                         <strong>Healthy diet</strong> heart attack prevention mein crucial role play karta hai. Fruits, vegetables, whole grains, lean proteins, aur omega-3 rich foods jaise salmon, walnuts, aur flaxseeds zyada khaein. Mediterranean diet ko consider karein jo research mein heart-healthy sabit hua hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Trans fats aur saturated fats se entirely bachein. Processed foods, fried items, aur sugary drinks kam karein. Salt intake 5g se kam rakhein. Ghee, butter, aur cheese ki jagah olive oil, mustard oil, ya canola oil use karein. Daily 2-3 servings of fruits aur vegetables ensure karein.
+                        Trans fats se bachein aur saturated fats kam karein. Processed foods, fried items, aur sugary drinks kam karein. Salt intake 5g se kam rakhein. Ghee, butter, aur cheese ki jagah olive oil, mustard oil, ya canola oil use karein. Daily kam se kam 5 servings (lagbhag 400 g) fruits aur vegetables ensure karein.
                     </p>
                 </div>
 
@@ -364,7 +365,7 @@
                         <strong>Smoking</strong> heart attack ka sabse big controllable risk factor hai. Cigarette smoking blood vessels ko damage karta hai, cholesterol levels badhata hai, aur blood pressure increase karta hai. Sirf 1 cigarette per day se bhi heart disease ka risk 50% badh jata hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Agar aap smoker hain, to abhi smoking chhodne ka decision lein. Withdrawal symptoms se bachne ke liye nicotine patches ya gum use karein. Doctor se consult karein jo aapko smoking cessation mein madad kar sakein. <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein smoking cessation program available hai.
+                        Agar aap smoker hain, to abhi smoking chhodne ka decision lein. Withdrawal symptoms ke liye doctor ki salah se nicotine patches ya gum use kar sakte hain. Doctor se consult karein jo aapko smoking cessation mein madad kar sakein. <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein smoking cessation program available hai.
                     </p>
                 </div>
 
@@ -405,7 +406,7 @@
                 <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600 mb-4">
                     <h3 class="text-lg font-bold text-primary-600 mb-2">7. Healthy Weight Maintain Karein</h3>
                     <p class="text-gray-700">
-                        <strong>Obesity</strong> heart attack ka significant risk factor hai. Extra weight se heart par pressure padta hai, blood pressure badhta hai, cholesterol levels disturb hote hain, aur diabetes risk badh jata hai. Body Mass Index (BMI) 18.5-24.9 ke beech hona chahiye.
+                        <strong>Obesity</strong> heart attack ka significant risk factor hai. Extra weight se heart par pressure padta hai, blood pressure badhta hai, cholesterol levels disturb hote hain, aur diabetes risk badh jata hai. Body Mass Index (BMI) Indian guidelines ke anusaar 18.5-22.9 ke beech hona behtar hai.
                     </p>
                     <p class="text-gray-700 mt-2">
                         Weight management ke liye calories intake control karein, regular exercise karein, processed foods se bachein, aur portion sizes manage karein. Slow steady weight loss (0.5-1 kg/week) healthy aur sustainable hai. Crash diets se bachein jo heart ke liye harmful ho sakte hain. <a href="/contact.php" class="text-primary-600 hover:underline">RAJ Hospital</a> mein nutritionists available hain jo personalized diet plan de sakte hain.
@@ -419,7 +420,7 @@
                         <strong>Excessive alcohol</strong> blood pressure badhata hai, heart rhythm disturb karta hai, aur calories add karta hai jo weight gain ka karan banata hai. Regular heavy drinking se cardiomyopathy (heart muscle disease) ho sakta hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Agar aap alcohol drink karte hain, to limit rakhein - maximum 1 drink per day for women aur 2 drinks per day for men. Red wine ki ek small amount (occasionally) heart ke liye beneficial ho sakti hai due to antioxidants, but research limited hai. Best option alcohol completely chhod dena hai.
+                        Agar aap alcohol drink karte hain, to limit rakhein - maximum 1 drink per day for women aur 2 drinks per day for men. Red wine ko heart ke liye faydemand maan kar peena shuru na karein - WHO ke anusaar alcohol ka koi bhi level poori tarah safe nahi hai. Alcohol completely chhod dena heart ke liye zyada surakshit hai.
                     </p>
                 </div>
 
@@ -464,7 +465,7 @@
                     </p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700 mt-2 mb-2">
                         <li>Chest mein dard, pressure, ya tightness</li>
-                        <li>Haath, turn, shoulder, ya back mein pain</li>
+                        <li>Haath, jaw (jabda), shoulder, ya back mein pain</li>
                         <li>Saans lena mushkil (shortness of breath)</li>
                         <li>-cold sweat, nausea, dizziness</li>
                         <li>Extreme fatigue, especially women mein</li>
@@ -489,10 +490,10 @@
                 <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600 mb-4">
                     <h3 class="text-lg font-bold text-primary-600 mb-2">14. Omega-3 Fatty Acids Apni Diet Mein Shamil Karein</h3>
                     <p class="text-gray-700">
-                        <strong>Omega-3 fatty acids</strong> heart health ke liye bahut beneficial hain. Ye triglycerides level kam karte hain, blood pressure manage karte hain, inflammation reduce karte hain, aur heart rhythm stable rakhte hain. Research shows ki omega-3 heart attack risk 10-20% tak kam kar sakte hain.
+                        <strong>Omega-3 fatty acids</strong> heart health ke liye bahut beneficial hain. Ye triglycerides level kam karte hain, blood pressure manage karte hain, inflammation reduce karte hain, aur heart rhythm stable rakhte hain. Kuch research mein omega-3 se heart health ko faayda dikha hai, lekin supplements ka benefit sabke liye clear nahi hai.
                     </p>
                     <p class="text-gray-700 mt-2">
-                        Omega-3 rich foods mein shamil hain: salmon, mackerel, sardines, walnuts, flaxseeds, chia seeds, aur soybeans. Weekly 2-3 times fish khaane ki recommended hai. Vegetarian sources bhi available hain. Consider fish oil supplements, especially vegetarian options jaise algae oil.
+                        Omega-3 rich foods mein shamil hain: salmon, mackerel, sardines, walnuts, flaxseeds, chia seeds, aur soybeans. Weekly 2-3 times fish khaane ki recommended hai. Vegetarian sources bhi available hain. Fish oil ya algae oil supplements sirf doctor ki salah se lein.
                     </p>
                 </div>
 
@@ -511,7 +512,7 @@
                             <li><strong>Triglycerides:</strong> Below 150 mg/dL</li>
                             <li><strong>Fasting Blood Sugar:</strong> Below 100 mg/dL</li>
                             <li><strong>BMI:</strong> 18.5-24.9</li>
-                            <li><strong>Waist Circumference:</strong> Men <40 inches, Women <35 inches</li>
+                            <li><strong>Waist Circumference:</strong> Men <90 cm (~35 inches), Women <80 cm (~31.5 inches)</li>
                         </ul>
                     </div>
                     <p class="text-gray-700 mt-2">
@@ -523,14 +524,14 @@
                 <h2 class="raj-h2-secondary">Heart Attack Ka Golden Hour: Har Minute Mahatvapurna Hai</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Heart attack</strong> ke baad first 90 minutes ko "golden hour" kaha jata hai. Is critical time ke andar treatment shuru karne se heart muscle ka damage limited hota hai aur survival chance significantly badhta hai. Research shows ki golden hour ke andar treatment se death risk 50% tak kam ho sakta hai.
+                    <strong>Heart attack</strong> ke baad pehle 60 minutes ko "golden hour" kaha jata hai. Is critical time ke andar treatment shuru karne se heart muscle ka damage limited hota hai aur survival chance significantly badhta hai. Research shows ki golden hour ke andar treatment se death risk 50% tak kam ho sakta hai.
                 </p>
 
                 <div class="bg-red-50 border-l-4 border-primary-600 p-4 rounded-r-lg mb-6">
                     <strong class="text-primary-600">Emergency Action Plan:</strong>
                     <ul class="space-y-2 text-gray-700 mt-2">
                         <li>1. Symptoms dekhte hi turant help call karein (ambulance)</li>
-                        <li>2. Aspirin 325mg chew karein agar allergic nahi</li>
+                        <li>2. Emergency services (108) ya doctor salah dein to hi aspirin lein</li>
                         <li>3. Turant hospital pahunchne ki koshish karein</li>
                         <li>4. Kisi ko bhi batayein ki aapko heart attack ke symptoms hain</li>
                         <li>5. Waiting ke time pressure on chest reduce karein - sit ya lie down</li>
@@ -538,7 +539,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi</a> mein 24/7 cardiac emergency services available hain jo golden hour treatment protocols follow karte hain. Advanced catheterization lab aur experienced cardiology team ready hai.
+                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-primary-600 hover:underline">RAJ Hospital Ranchi</a> mein 24/7 cardiac emergency services available hain jo golden hour treatment protocols follow karte hain. Cardiac emergency mein turant RAJ Hospital ya nazdeeki cardiac centre se sampark karein.
                 </p>
 
                 <!-- Section 5: Myths vs Reality -->
@@ -559,7 +560,7 @@
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-gray-800">MYTH: "Men ko sirf heart attack hota hai, women nahi"</h4>
-                        <p class="text-gray-700"><strong>REALITY:</strong> Women ko bhi heart attack hota hai, aur actually yeh women ka #1 killer bhi hai. Women ke symptoms alag ho sakte hain - fatigue, nausea, back pain, jo often ignore hote hain. Women ko prevention par focus zyada karna chahiye.</p>
+                        <p class="text-gray-700"><strong>REALITY:</strong> Women ko bhi heart attack hota hai, aur actually yeh women mein maut ke pramukh kaaranon mein se ek hai. Women ke symptoms alag ho sakte hain - fatigue, nausea, back pain, jo often ignore hote hain. Women ko prevention par focus zyada karna chahiye.</p>
                     </div>
                 </div>
 
@@ -588,7 +589,7 @@
                 <h2 class="raj-h2-secondary">Why Choose RAJ Hospital Ranchi for Heart Care?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital Ranchi <strong>Jharkhand ka leading neuro and cardiac care center</strong> hai. Heart attack prevention aur treatment ke liye hum comprehensive services offer karte hain:
+                    RAJ Hospital Ranchi <strong>Ranchi ka neuro and cardiac care center</strong> hai. Heart attack prevention aur treatment ke liye hum comprehensive services offer karte hain:
                 </p>
 
                 <div class="space-y-4 mb-6">
@@ -598,11 +599,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Advanced Diagnostic Facilities</h4>
-                        <p class="text-sm text-gray-600">State-of-the-art ECG, Echocardiography, Stress Tests, CT Angiography, andCath Lab for accurate diagnosis and treatment.</p>
+                        <p class="text-sm text-gray-600">ECG, Echocardiography, Stress Tests, CT Angiography and Cath Lab facilities for diagnosis and treatment.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Experienced Cardiologists & Neurologists</h4>
-                        <p class="text-sm text-gray-600">Team of highly qualified specialists with years of experience. <a href="/doctor-profile.php" class="text-primary-600 hover:underline">Meet our doctors</a>.</p>
+                        <p class="text-sm text-gray-600">Team of qualified specialists. <a href="/doctor-profile.php" class="text-primary-600 hover:underline">Meet our doctors</a>.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">Comprehensive Health Checkup Packages</h4>
@@ -642,8 +643,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Heart attack se kaise bachen - Janiye 15 powerful tips jo aapke heart ko healthy rakhenge aur heart attack ka risk kam karenge. RAJ Hospital Ranchi ke neurology experts se practical guidence.</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack Se Kaise Bachen: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Heart attack se kaise bachen - Janiye 15 powerful tips jo aapke heart ko healthy rakhenge aur heart attack ka risk kam karenge. RAJ Hospital Ranchi se practical guidance.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -685,7 +686,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -694,8 +695,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Cardiologist & Neurologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

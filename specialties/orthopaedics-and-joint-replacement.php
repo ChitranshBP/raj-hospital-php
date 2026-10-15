@@ -9,11 +9,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Orthopaedics & Joint Replacement Hospital in Ranchi | Best Orthopedic Hospital in Ranchi – Raj Hospital
+    <title>Orthopaedics & Joint Replacement Hospital in Ranchi | Orthopedic Hospital in Ranchi – Raj Hospital
     </title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best orthopaedics and joint replacement hospitals in Ranchi offering advanced bone, joint and knee replacement treatment." />
+        content="Raj Hospital is an orthopaedics and joint replacement hospital in Ranchi offering advanced bone, joint and knee replacement treatment." />
 
     <meta name="robots" content="index, follow" />
 
@@ -45,11 +45,6 @@ Orthopedic Surgeon in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -91,10 +86,10 @@ Orthopedic Surgeon in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best orthopaedics and joint replacement hospital in Ranchi?",
+      "name": "Does Raj Hospital offer orthopaedics and joint replacement in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best orthopaedics and joint replacement hospitals in Ranchi offering advanced orthopedic care."
+        "text": "Yes, Raj Hospital in Ranchi offers advanced orthopaedic and joint replacement care."
       }
     },
     {
@@ -271,7 +266,7 @@ Orthopedic Surgeon in Jharkhand
                             Replacement at Raj Hospitals provides expert treatment for musculoskeletal conditions
                             including joint pain, trauma, sports injuries, and deformities. Our specialised surgeons
                             perform minimally invasive surgeries, joint replacements, arthroscopy, and complex trauma
-                            management using latest technology for optimal patient outcomes and speedy recovery. We also
+                            management using modern technology to support good recovery. We also
                             offer pediatric orthopaedics and comprehensive rehabilitation services.</p>
 
                         <!-- Why Choose Us Box -->
@@ -313,7 +308,7 @@ Orthopedic Surgeon in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art operation theatres</span>
+                                    <span class="text-gray-700">Modern operation theatres</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -616,7 +611,7 @@ Orthopedic Surgeon in Jharkhand
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Joint Replacements</h3>
                         <p class="text-gray-600 mb-4">Advanced joint replacement surgeries for Knee, Hip, Shoulder,
-                            Elbow & Ankle ensuring mobility and pain relief.</p>
+                            Elbow & Ankle to improve mobility and relieve pain.</p>
                     </div>
                 </div>
 
@@ -695,58 +690,6 @@ Orthopedic Surgeon in Jharkhand
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of mobility restoration and recovery
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Successful Knee Replacement</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mohit</p>
-                    <p class="text-gray-700 mb-6">I underwent a left knee replacement at Raj Hospitals and got excellent
-                        care. The entire surgical process and recovery was smooth and professional.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Complete mobility restored, pain-free
-                                life.</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Orthopaedic Trauma Surgery</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Raja</p>
-                    <p class="text-gray-700 mb-6">Raj Hospitals provided top quality treatment for my trauma injury,
-                        including surgical repair and rehabilitation. The surgeons and staff were supportive.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Full functional recovery.</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
@@ -787,7 +730,7 @@ Orthopedic Surgeon in Jharkhand
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, minimally invasive surgeries including arthroscopy and laparoscopic approaches
+                                <p>Yes, minimally invasive surgeries including arthroscopy and other keyhole approaches
                                     are frequently used for better outcomes.</p>
                             </div>
                         </div>
@@ -875,6 +818,10 @@ Orthopedic Surgeon in Jharkhand
                             <input type="hidden" name="specialty" value="Orthopaedics">
 
                             <!-- Submit Button -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-5 h-5"></i>

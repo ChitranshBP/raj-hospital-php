@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital</title>
+    <title>Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital</title>
     <meta name="description" content="Sugar symptoms in Hindi - diabetes ke early warning signs aur symptoms। High aur low blood sugar के symptoms, causes, prevention aur treatment।">
     <meta name="keywords" content="sugar symptoms in hindi, diabetes symptoms in hindi, high blood sugar symptoms, low blood sugar symptoms, sugar ki bimari">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -77,7 +77,7 @@
             "name": "डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital",
+        "headline": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital",
         "description": "Sugar symptoms in Hindi - diabetes ke early warning signs aur symptoms। High aur low blood sugar के symptoms, causes, prevention aur treatment।",
         "url": "https://rajhospitals.com/blog/sugar-symptoms-in-hindi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/sugar-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital"
+                "name": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -212,6 +212,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Care</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -221,11 +222,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></strong> या <strong>"<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> ki bimari"</strong> आजकल एक epidemic बन गया है। India में लगभग 77 million से ज्यादा लोग <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> से affect हैं। Early stage में <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> ke symptoms</strong> mild हो सकते हैं aur अक्सर ignore कर दिए जाते हैं। लेकिन early detection से इसे manage करना aur complications से बचना much easier है।
+                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></strong> या <strong>"<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> ki bimari"</strong> आजकल एक epidemic बन गया है। India में लगभग 10 करोड़ (100 million) से ज्यादा लोग <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> से affect हैं। Early stage में <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> ke symptoms</strong> mild हो सकते हैं aur अक्सर ignore कर दिए जाते हैं। लेकिन early detection से इसे manage करना aur complications से बचना much easier है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस article में <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> experts <strong>high blood sugar (sugar high)</strong> aur <strong>low blood sugar (sugar low)</strong> के symptoms, causes, aur prevention के बारे में detail से बताएंगे।
+                    इस article में <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> experts <strong>high blood sugar (sugar high)</strong> aur <strong>low blood sugar (sugar low)</strong> के symptoms, causes, aur prevention के बारे में general जानकारी दी गई है।
                 </p>
 
                 <!-- Section 1: Understanding Blood Sugar -->
@@ -305,23 +306,23 @@
 
                 <div class="space-y-4 mb-6">
                     <div class="raj-callout raj-callout-warning">
-                        <h4 class="font-bold text-yellow-700">1. Shakshamana (Shaking/Trembling)</h4>
+                        <h4 class="font-bold text-yellow-700">1. Kaanpna (Shaking/Trembling)</h4>
                         <p class="text-sm text-gray-600">Low glucose से muscles को energy नहीं मिलती, jis se tremors होती हैं।</p>
                     </div>
                     <div class="raj-callout raj-callout-warning">
-                        <h4 class="font-bold text-yellow-700">2. Svedaana (Sweating)</h4>
+                        <h4 class="font-bold text-yellow-700">2. Paseena aana (Sweating)</h4>
                         <p class="text-sm text-gray-600">Unexpected sweating, especially neck aur face area में।</p>
                     </div>
                     <div class="raj-callout raj-callout-warning">
-                        <h4 class="font-bold text-yellow-700">3. Chakitpurna Hridaya (Rapid heartbeat)</h4>
+                        <h4 class="font-bold text-yellow-700">3. Dil ki dhadkan tez hona (Rapid heartbeat)</h4>
                         <p class="text-sm text-gray-600">Heart compensation mode में ज्यादा पंप करता है।</p>
                     </div>
                     <div class="raj-callout raj-callout-warning">
-                        <h4 class="font-bold text-yellow-700">4. Sangaabuddhi (Confusion)</h4>
+                        <h4 class="font-bold text-yellow-700">4. Ghabrahat ya Confusion</h4>
                         <p class="text-sm text-gray-600">Brain को sufficient glucose नहीं मिल रहा, jis se difficulty concentrating।</p>
                     </div>
                     <div class="raj-callout raj-callout-warning">
-                        <h4 class="font-bold text-yellow-700">5. Mridu Siro Vehicle (Dizziness)</h4>
+                        <h4 class="font-bold text-yellow-700">5. Chakkar aana (Dizziness)</h4>
                         <p class="text-sm text-gray-600">Low glucose से dizziness aur lightheadedness।</p>
                     </div>
                 </div>
@@ -332,7 +333,7 @@
                         <li>Seizures ya convulsions</li>
                         <li>Unconsciousness</li>
                         <li>Loss of coordination</li>
-                        <li>इनमें से कोई भी हो तो immediately glucagon injection या medical help</li>
+                        <li>इनमें से कोई भी हो तो तुरंत 108 पर call करें; बेहोश व्यक्ति के मुंह में कुछ न डालें। अगर doctor ने glucagon दिया है और आपको सिखाया गया है, तो वही दें।</li>
                     </ul>
                 </div>
 
@@ -386,7 +387,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Diabetes Ki Jaanch Ke Liye Contact Karein</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced endocrinologists aur diabetes educators available hain।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में diabetes की जांच और परामर्श उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -400,7 +401,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya sugar kam होने पर भी symptoms हो सकते hain?</h4>
-                        <p class="text-gray-700">Haan, low blood sugar (hypoglycemia) भी symptoms करता है - shaking, sweating, confusion, dizziness। यह usually diabetes medicines लेने वालों में होता है। Fast-acting carbs (juice, candy) से immediately treat करें।</p>
+                        <p class="text-gray-700">Haan, low blood sugar (hypoglycemia) भी symptoms करता है - shaking, sweating, confusion, dizziness। यह usually diabetes medicines लेने वालों में होता है। अगर व्यक्ति होश में है और निगल सकता है, तो fast-acting carbs (जैसे glucose, juice) से तुरंत treat करें और 15 minutes बाद sugar दोबारा check करें; बेहोशी हो तो 108 call करें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya blurry vision diabetes ka sign hai?</h4>
@@ -431,8 +432,8 @@
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/diabetes-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Symptoms in Men - Warning Signs Every Man Should Know</a></li>
                         <li><a href="/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार</a></li>
-                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Indian Diet Plan for Diabetes Patients</a></li>
-                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Ways to Take Moringa for Managing Diabetes</a></li>
+                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Indian Diet Plan for Diabetes Patients</a></li>
+                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Moringa aur Diabetes - Kya Jaanna Zaroori Hai</a></li>
                         <li><a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण</a></li>
                         <li><a href="/blog/stroke-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs</a></li>
                         <li><a href="/blog/pair-me-dard-kyu-hota-h.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द क्यों होता है? - सभी कारण और समाधान</a></li>
@@ -460,7 +461,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -469,8 +470,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Endocrinologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

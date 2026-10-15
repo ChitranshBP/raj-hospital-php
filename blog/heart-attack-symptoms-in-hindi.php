@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>दिल का दौरा लक्षण (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms) - Complete Hindi Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) जानें। जानें heart attack के early signs, Warning signals और कब तुरंत doctor से मिलना चाहिए। Ranchi में best cardiac care।">
+    <title>दिल का दौरा लक्षण (Heart Attack Symptoms) - Complete Hindi Guide | RAJ Hospital Ranchi</title>
+    <meta name="description" content="दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) जानें। जानें heart attack के early signs, Warning signals और कब तुरंत doctor से मिलना चाहिए। RAJ Hospital Ranchi में cardiac care।">
     <meta name="keywords" content="heart attack symptoms, heart attack in hindi, दिल का दौरा, heart attack ke lakshan, heart attack signs, heart attack warning signs, cardiac symptoms, heart disease symptoms, heart attack prevention, heart care ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/">
@@ -68,7 +68,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "दिल का दौरा लक्षण (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms) - Complete Hindi Guide",
+        "name": "दिल का दौरा लक्षण (Heart Attack Symptoms) - Complete Hindi Guide",
         "description": "दिल का दौरा (Heart Attack) के लक्षण, early warning signs, और कब medical help लेना चाहिए इसकी पूरी जानकारी।",
         "url": "https://rajhospitals.com/blog/heart-attack-symptoms-in-hindi/",
         "author": {
@@ -108,7 +108,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "दिल का दौरा (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>) के सबसे पहले कौन से लक्षण दिखते हैं?",
+                "name": "दिल का दौरा (Heart Attack) के सबसे पहले कौन से लक्षण दिखते हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "दिल के दौरे के early symptoms में सीने में दर्द या भारीपन, बांह में दर्द (विशेषकर बाईं तरफ), सांस लेने में तकलीफ, ठंडा पसीना, और चक्कर आना शामिल हैं। ये लक्षण कुछ मिनट से लेकर कई घंटे तक रह सकते हैं।"
@@ -127,7 +127,7 @@
                 "name": "Heart Attack के दौरान क्या करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart Attack के दौरान तुरंत 108 (ambulance) को कॉल करें। मरीज को आराम से बैठाएं और सीने पर दबाव न डालें। अगर दिल की दवाइयां (nitroglycerin) available हों तो दें, लेकिन aspirin's लेने से पहले doctor से पूछें। मरीज को हवा देते रहें और घबराएं नहीं।"
+                    "text": "Heart Attack के दौरान तुरंत 108 (ambulance) को कॉल करें। मरीज को आराम से बैठाएं और सीने पर दबाव न डालें। अगर doctor ने मरीज के लिए nitroglycerin पहले से prescribe की है तो doctor के बताए तरीके से ही दें; aspirin भी सिर्फ doctor या 108 emergency की सलाह पर दें। मरीज को हवा देते रहें और घबराएं नहीं।"
                 }
             },
             {
@@ -143,7 +143,7 @@
                 "name": "दिल का दौरा कब हो सकता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दिल का दौरा किसी भी उम्र में हो सकता है, लेकिन 45+ पुरुषों और 55+ महिलाओं में ज्यादा risk होता है। High BP, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high cholesterol, मोटापा, smoking, और family history risk बढ़ाते हैं। Stressful situations और heavy physical activity के दौरान भी heart attack हो सकता है।"
+                    "text": "दिल का दौरा किसी भी उम्र में हो सकता है, लेकिन 45+ पुरुषों और 55+ महिलाओं में ज्यादा risk होता है। High BP, diabetes, high cholesterol, मोटापा, smoking, और family history risk बढ़ाते हैं। Stressful situations और heavy physical activity के दौरान भी heart attack हो सकता है।"
                 }
             },
             {
@@ -151,7 +151,7 @@
                 "name": "Heart Attack से बचाव के लिए क्या करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart Attack से बचाव के लिए health lifestyle अपनाएं - regular exercise (30 minutes daily), balanced diet (fruits, vegetables, whole grains), smoking छोड़ें, alcohol सीमित करें, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> management (yoga, meditation), और regular health checkups करें। Blood pressure, cholesterol और sugar levels नियंत्रित रखें।"
+                    "text": "Heart Attack से बचाव के लिए health lifestyle अपनाएं - regular exercise (30 minutes daily), balanced diet (fruits, vegetables, whole grains), smoking छोड़ें, alcohol सीमित करें, stress management (yoga, meditation), और regular health checkups करें। Blood pressure, cholesterol और sugar levels नियंत्रित रखें।"
                 }
             },
             {
@@ -159,7 +159,7 @@
                 "name": "Heart Attack का इलाज क्या है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Heart Attack का treatment immediately hospital में शुरू होता है। Primary treatment में aspirin, blood thinners (anticoagulants), और oxygen दिया जाता है। Serious cases में angiography और angioplasty (stent placement) या bypass surgery की जरूरत पड़ सकती है। Treatment जितना जल्दी शुरू हो, उतना बेहतर नतीजा।"
+                    "text": "Heart Attack का treatment immediately hospital में शुरू होता है। Primary treatment में aspirin और दूसरी blood thinner दवाएं दी जाती हैं, oxygen ज़रूरत होने पर दी जाती है, और जल्दी से जल्दी blocked artery खोलने (angioplasty या clot घोलने की दवा) की कोशिश की जाती है। Serious cases में angiography और angioplasty (stent placement) या bypass surgery की जरूरत पड़ सकती है। Treatment जितना जल्दी शुरू हो, उतना बेहतर नतीजा।"
                 }
             }
         ]
@@ -173,7 +173,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "दिल का दौरा लक्षण (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms) में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "दिल का दौरा लक्षण (Heart Attack Symptoms) में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -184,7 +184,7 @@
             "name": "क्या दिल का दौरा लक्षण (Heart Attack Symptoms) दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Gas Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -208,7 +208,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -263,6 +263,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Cardiac</a> Emergency</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">दिल का दौरा लक्षण (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Hindi) - Complete Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 15 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -310,7 +311,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600 mb-2">2. बांह में दर्द (Arm Pain)</h4>
-                        <p class="text-sm text-gray-600">दर्द सीने से शुरू होकर बाईं बांह, कंधे, गर्दन, जबड़े, या पीठ तक फैल सकता है। कई बार सिर्फ बांह में दर्द होता है बिना chest pain के, जिसे 'silent heart attack' भी कहते हैं। यह symptom पुरुषों में ज्यादा common है।</p>
+                        <p class="text-sm text-gray-600">दर्द सीने से शुरू होकर बाईं बांह, कंधे, गर्दन, जबड़े, या पीठ तक फैल सकता है। कई बार सिर्फ बांह में दर्द होता है बिना chest pain के, इसे भी गंभीरता से लें। (बहुत हल्के या बिना लक्षण वाले heart attack को 'silent heart attack' कहते हैं।) यह symptom पुरुषों में ज्यादा common है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-600">
                         <h4 class="font-bold text-red-600 mb-2">3. सांस लेने में तकलीफ (Shortness of Breath)</h4>
@@ -437,7 +438,7 @@
                     <div class="bg-red-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="slash" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-red-700">धूम्रपान छोड़ें</div>
-                        <p class="text-xs text-gray-600">Smoking heart disease का biggest cause है।</p>
+                        <p class="text-xs text-gray-600">Smoking heart disease के सबसे बड़े controllable risk factors में से एक है।</p>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
@@ -470,7 +471,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <h4 class="font-bold text-blue-600 mb-2"><a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="hover:underline">Back Pain और Sciatica</a></h4>
-                        <p class="text-sm text-gray-600">Heart attack का दर्द कभी-कभी <strong>back pain</strong> की तरह feel हो सकता है। खासकर lower back में। इसे sciatica से confuse न करें। अगर back pain के साथ chest discomfort भी हो, तो तुरंत checkup करें।</p>
+                        <p class="text-sm text-gray-600">Heart attack का दर्द कभी-कभी <strong>back pain</strong> की तरह feel हो सकता है। खासकर upper back (कंधों के बीच) में। इसे sciatica से confuse न करें। अगर back pain के साथ chest discomfort भी हो, तो तुरंत checkup करें।</p>
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2"><a href="/head-injury-treatment-in-ranchi.php" class="hover:underline">Head Injury और Brain Health</a></h4>
@@ -481,7 +482,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-red-600 to-red-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">दिल की जांच (Heart Checkup) कराना चाहते हैं?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में ECG, Echocardiography, Stress Test, और Angiography available है। हमारे expert cardiologists से appointment book करें।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में ECG, Echocardiography, Stress Test, और Angiography available है। हमारे cardiologists से appointment book करें।</p>
                     <a href="/contact.php" class="inline-block bg-white text-red-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment Now</a>
                 </div>
 
@@ -497,7 +498,7 @@
                         <li><strong>तुरंत 108 (Ambulance) को कॉल करें।</strong> किसी और चीज़ पर time waste न करें।</li>
                         <li><strong>मरीज को आराम से बैठाएं</strong> और सीना ऊपर रहे।</li>
                         <li><strong>अगर aspirin available हो</strong> और doctor ने पहले allow किया हो, तो एक chewable aspirin दें।</li>
-                        <li><strong> Nitroglycerin (GTN) tablet</strong> अगर मरीज के पास पहले से हो तो दें।</li>
+                        <li><strong> Nitroglycerin (GTN) tablet</strong> अगर doctor ने मरीज के लिए पहले से prescribe की हो, तो doctor के बताए तरीके से ही दें।</li>
                         <li><strong> घबराएं नहीं</strong> - calm रहें और मरीज को भी calm रखें।</li>
                         <li><strong>सहायता के लिए call करें</strong> और किसी को hospital ले जाने की व्यवस्था करने दें।</li>
                     </ol>
@@ -517,7 +518,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">Heart Attack के दौरान क्या करना चाहिए?</h4>
-                        <p class="text-gray-700">Heart Attack के दौरान <strong>तुरंत 108 (ambulance) को कॉल करें</strong>। मरीज को आराम से बैठाएं और सीने पर दबाव न डालें। अगर दिल की दवाइयां (nitroglycerin) available हों तो दें, लेकिन aspirin's लेने से पहले doctor से पूछें। मरीज को हवा देते रहें और घबराएं नहीं। "Time is Heart" - जितनी जल्दी treatment शुरू हो, उतना बेहतर नतीजा।</p>
+                        <p class="text-gray-700">Heart Attack के दौरान <strong>तुरंत 108 (ambulance) को कॉल करें</strong>। मरीज को आराम से बैठाएं और सीने पर दबाव न डालें। अगर doctor ने मरीज के लिए nitroglycerin पहले से prescribe की है तो doctor के बताए तरीके से ही दें; aspirin भी सिर्फ doctor या 108 emergency की सलाह पर दें। मरीज को हवा देते रहें और घबराएं नहीं। "Time is Heart" - जितनी जल्दी treatment शुरू हो, उतना बेहतर नतीजा।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">महिलाओं में Heart Attack के लक्षण पुरुषों से अलग होते हैं?</h4>
@@ -533,13 +534,13 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2">Heart Attack का इलाज क्या है?</h4>
-                        <p class="text-gray-700"><strong>Heart Attack का treatment</strong> immediately hospital में शुरू होता है। Primary treatment में aspirin, blood thinners (anticoagulants), और oxygen दिया जाता है। Serious cases में <strong>angiography और angioplasty</strong> (stent placement) या bypass surgery की जरूरत पड़ सकती है। Treatment जितना जल्दी शुरू हो, उतना बेहतर नतीजा। RAJ Hospital Ranchi में 24x7 cardiac emergency और experienced cardiologists available हैं।</p>
+                        <p class="text-gray-700"><strong>Heart Attack का treatment</strong> immediately hospital में शुरू होता है। Primary treatment में aspirin और दूसरी blood thinner दवाएं दी जाती हैं, oxygen ज़रूरत होने पर दी जाती है, और जल्दी से जल्दी blocked artery खोलने (angioplasty या clot घोलने की दवा) की कोशिश की जाती है। Serious cases में <strong>angiography और angioplasty</strong> (stent placement) या bypass surgery की जरूरत पड़ सकती है। Treatment जितना जल्दी शुरू हो, उतना बेहतर नतीजा। RAJ Hospital Ranchi में 24x7 cardiac emergency और experienced cardiologists available हैं।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">दिल का दौरा लक्षण (Heart Attack Symptoms) पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) जानें। जानें heart attack के early signs, Warning signals और कब तुरंत doctor से मिलना चाहिए। Ranchi में best cardiac care।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">दिल का दौरा लक्षण (Heart Attack Symptoms): ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">दिल का दौरा लक्षण (Heart Attack Symptoms in Hindi) जानें। जानें heart attack के early signs, Warning signals और कब तुरंत doctor से मिलना चाहिए। RAJ Hospital Ranchi में cardiac care।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। दिल का दौरा लक्षण (Heart Attack Symptoms) शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -582,7 +583,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -591,8 +592,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-red-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Cardiologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
 

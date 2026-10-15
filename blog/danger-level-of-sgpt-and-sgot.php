@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Danger Level of SGPT and SGOT - When to Worry? | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Understand SGPT and SGOT danger levels, what values indicate liver damage, symptoms of high liver enzymes, and when to seek medical help. Expert guidance from Ranchi's best hospital.">
+    <meta name="description" content="Understand SGPT and SGOT danger levels, what values indicate liver damage, symptoms of high liver enzymes, and when to seek medical help. Guidance from RAJ Hospital, Ranchi.">
     <meta name="keywords" content="sgpt sgot danger levels, high liver enzymes, sgpt normal range, sgpt sgot test, liver function test, liver damage signs">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/danger-level-of-sgpt-and-sgot/">
@@ -77,7 +77,7 @@
             "name": "पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "Danger Level of SGPT and SGOT - When to Worry? | RAJ Hospital Ranchi",
-        "description": "Understand SGPT and SGOT danger levels, what values indicate <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> damage, symptoms of high liver enzymes, and when to seek medical help. Expert guidance from Ranchi's best hospital.",
+        "description": "Understand SGPT and SGOT danger levels, what values indicate liver damage, symptoms of high liver enzymes, and when to seek medical help. Guidance from RAJ Hospital, Ranchi.",
         "url": "https://rajhospitals.com/blog/danger-level-of-sgpt-and-sgot/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/danger-level-of-sgpt-and-sgot.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Danger Level of SGPT and SGOT - When to Worry?</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -443,7 +444,7 @@
                     <li><strong>Maintain healthy weight</strong> - Weight loss can reverse fatty liver disease</li>
                     <li><strong>Eat a balanced diet</strong> - Focus on vegetables, fruits, lean proteins, and whole grains</li>
                     <li><strong>Exercise regularly</strong> - At least 30 minutes of moderate activity daily</li>
-                    <li><strong>Avoid unnecessary medications</strong> - Especially acetaminophen (Tylenol) if liver is compromised</li>
+                    <li><strong>Avoid unnecessary medications</strong> - Take any painkiller, including paracetamol, only in the dose your doctor advises if your liver is affected</li>
                 </ul>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Medical Treatment</h3>
@@ -472,7 +473,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-xl font-bold text-secondary-600 mb-2">Annual Testing</div>
-                        <p class="text-sm text-gray-600">Recommended for individuals over 40, those with family history of liver disease, or anyone with metabolic risk factors.</p>
+                        <p class="text-sm text-gray-600">May be advised by your doctor if you have metabolic risk factors (diabetes, obesity, high cholesterol), regular alcohol use or a family history of liver disease.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg text-center">
                         <div class="text-xl font-bold text-secondary-600 mb-2">Every 3-6 Months</div>
@@ -503,8 +504,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Danger Level of SGPT and SGOT - When to Worry? पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Understand SGPT and SGOT danger levels, what values indicate liver damage, symptoms of high liver enzymes, and when to seek medical help. Expert guidance from Ranchi</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Danger Level of SGPT and SGOT - When to Worry?: जरूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Understand SGPT and SGOT danger levels, what values indicate liver damage, symptoms of high liver enzymes, and when to seek medical help. Guidance from RAJ Hospital, Ranchi.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Danger Level of SGPT and SGOT - When to Worry? शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में पाचन और सामान्य स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -547,7 +548,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -556,8 +557,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gastroenterologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

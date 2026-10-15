@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi</title>
+    <title>Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi</title>
     <meta name="description" content="Pregnancy Ke Pehle Week Ke Symptoms जानें। First week pregnancy signs, conception के बाद earliest symptoms और जल्दी पहचानने के तरीके।">
     <meta name="keywords" content="pregnancy ke pehle week ke symptoms, first week pregnancy symptoms, early pregnancy signs, conception symptoms, early signs of pregnancy in hindi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms - First Week Signs में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi",
+        "headline": "Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi",
         "description": "Pregnancy Ke Pehle Week Ke Symptoms जानें। First week pregnancy signs, conception के बाद earliest symptoms और जल्दी पहचानने के तरीके।",
         "url": "https://rajhospitals.com/blog/pregnancy-ke-pehle-week-ke-symptoms/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnancy-ke-pehle-week-ke-symptoms.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi"
+                "name": "Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Care</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> Ke Pehle Week Ke Symptoms - First Week Signs</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 7 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -256,7 +257,7 @@
                 <h2 class="raj-h2">Conception से पहले के Symptoms</h2>
 
                 <p class="text-gray-700 mb-4">
-                    कुछ women को <strong>ovulation</strong> के समय कुछ symptoms महसूस होते हैं जो pregnancy की early indication हो सकते हैं:
+                    कुछ women को <strong>ovulation</strong> के समय कुछ symptoms महसूस होते हैं; ये हर cycle में हो सकते हैं और pregnancy का संकेत नहीं हैं, बस fertile window पहचानने में मदद करते हैं:
                 </p>
 
                 <div class="space-y-4 mb-6">
@@ -317,7 +318,7 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>सबसे अच्छा समय:</strong> Periods miss होने के 1 week बाद test करें</li>
+                    <li><strong>उपयुक्त समय:</strong> Periods miss होने के 1 week बाद test करें</li>
                     <li><strong>Early response tests:</strong> कुछ sensitive tests period miss होने से पहले detect कर सकते हैं</li>
                     <li><strong>Blood test:</strong> Doctor के office में serum hCG test अधिक sensitive होता है</li>
                 </ul>
@@ -325,7 +326,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Pregnancy की जांच करनी है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में accurate pregnancy tests और prenatal consultation available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में pregnancy test और prenatal consultation उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -348,7 +349,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Pregnancy Ke Pehle Week Ke Symptoms जानें। First week pregnancy signs, conception के बाद earliest symptoms और जल्दी पहचानने के तरीके।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Pregnancy Ke Pehle Week Ke Symptoms - First Week Signs शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -391,7 +392,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -400,8 +401,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gynecologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

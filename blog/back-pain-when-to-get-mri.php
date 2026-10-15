@@ -147,7 +147,7 @@
                 "name": "Is bed rest good for back pain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "No. Prolonged bed rest was standard advice decades ago and has since been shown to slow recovery. Muscles weaken, joints stiffen and pain sensitivity increases. Current guidance is to rest for a day or two at most if the pain is severe, then return to gentle movement and normal activity as far as pain allows. Staying active within comfort is one of the best-evidenced treatments for simple back pain."
+                    "text": "No. Prolonged bed rest was standard advice decades ago and has since been shown to slow recovery. Muscles weaken, joints stiffen and pain sensitivity increases. Current guidance is to rest for a day or two at most if the pain is severe, then return to gentle movement and normal activity as far as pain allows. Staying active within comfort is a well-evidenced treatment for simple back pain."
                 }
             },
             {
@@ -204,16 +204,17 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Neuro &amp; Spine Surgery · Orthopaedics</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Back Pain: When It Needs an MRI, and When It Needs Rest</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Neuro &amp; Spine Surgery Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    Two patients walk into the spine clinic in the same week. The first has had severe lower back pain for eight days after lifting a water drum, cannot sit comfortably, and is convinced something is torn. The second has had a dull backache for three months, mentions almost in passing that his right foot has started catching on steps, and thinks he is simply getting older. The first will almost certainly be fine without any scan. The second needs an MRI this week. Pain severity is a poor guide to seriousness in the spine, and that mismatch is the single most useful thing to understand about <strong>back pain and when to get an MRI</strong>.
+                    Consider two illustrative (hypothetical) patients. The first has had severe lower back pain for eight days after lifting a water drum, cannot sit comfortably, and is convinced something is torn. The second has had a dull backache for three months, mentions almost in passing that his right foot has started catching on steps, and thinks he is simply getting older. The first will almost certainly be fine without any scan. The second needs an MRI this week. Pain severity is a poor guide to seriousness in the spine, and that mismatch is the single most useful thing to understand about <strong>back pain and when to get an MRI</strong>.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -229,7 +230,7 @@
                     Two persistent myths are worth dismantling here, because both actively slow recovery.
                 </p>
                 <p class="text-gray-700 mb-4">
-                    <strong>Myth one: rest in bed until it settles.</strong> This was standard advice decades ago and has since been shown to make things worse. Muscles weaken quickly, joints stiffen, and the nervous system becomes more pain-sensitive with immobility. Current guidance is to rest a day or two at most if the pain is severe, then return to gentle movement and ordinary activity as far as comfort allows. Walking is usually the best starting point.
+                    <strong>Myth one: rest in bed until it settles.</strong> This was standard advice decades ago and has since been shown to make things worse. Muscles weaken quickly, joints stiffen, and the nervous system becomes more pain-sensitive with immobility. Current guidance is to rest a day or two at most if the pain is severe, then return to gentle movement and ordinary activity as far as comfort allows. Walking is usually a good starting point.
                 </p>
                 <p class="text-gray-700 mb-4">
                     <strong>Myth two: a scan will tell me what is wrong.</strong> This one is more expensive. Disc bulges, degenerative changes and mild herniations are found routinely on MRI scans of people with <em>no back pain at all</em>, and they become steadily more common with age. Scanning simple back pain early therefore produces a report full of alarming words describing changes that were probably there last year and are not causing the symptoms. Patients then become convinced their spine is damaged, move less, and do worse. This is well documented, and it is why responsible clinicians resist scanning without an indication.
@@ -335,7 +336,7 @@
                     The large majority of patients with back pain, including many with a genuine disc herniation causing sciatica, recover without an operation. Herniated disc material often shrinks on its own over weeks to months. That is the reason conservative treatment is given a proper trial rather than being a delaying tactic.
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Stay active.</strong> Not bed rest. Gentle walking, ordinary activity within comfort, and avoiding long unbroken periods of sitting. This is one of the best-evidenced measures available.</li>
+                    <li><strong>Stay active.</strong> Not bed rest. Gentle walking, ordinary activity within comfort, and avoiding long unbroken periods of sitting. This is a well-evidenced measure.</li>
                     <li><strong>Structured physiotherapy.</strong> Core stability and gluteal strengthening, hamstring flexibility, posture correction and a graded return to activity. Our <a href="/specialties/physiotherapy-and-rehabilitation" class="text-secondary-600 hover:underline font-semibold">physiotherapy and rehabilitation team</a> handles the exercise programme, which matters more than any passive treatment.</li>
                     <li><strong>Pain relief, used to enable movement.</strong> Paracetamol, with short courses of anti-inflammatory medication where safe. Anti-inflammatories are not suitable for everyone, particularly those with kidney disease, ulcer history or on blood thinners, so ask before self-medicating. Specific medication for nerve pain may be added where nerve pain is confirmed.</li>
                     <li><strong>Heat or ice.</strong> Simple, cheap and genuinely helpful for muscle spasm. Use whichever gives you more relief.</li>
@@ -349,7 +350,7 @@
 
                 <h2 class="raj-h2"><i data-feather="git-merge" class="raj-h2-icon"></i> When Neuro-Spine Surgery Becomes the Right Conversation</h2>
                 <p class="text-gray-700 mb-4">
-                    Surgery is not a last resort in the sense of being reserved until everything is unbearable. It is a targeted solution to specific problems, and it works best when there is a clear structural cause matching clear symptoms.
+                    Surgery is not a last resort in the sense of being reserved until everything is unbearable. It is a targeted solution to specific problems, and it is most likely to help when there is a clear structural cause matching clear symptoms.
                 </p>
                 <p class="text-gray-700 mb-4">
                     <strong>Surgery is urgent for:</strong> cauda equina syndrome; spinal cord compression with neurological deficit; spinal infection causing neurological signs; an unstable fracture; and a tumour compressing the cord. These are managed as emergencies by our <a href="/specialties/neuro-spine-surgery" class="text-secondary-600 hover:underline font-semibold">neuro-spine surgery service</a>, with support from <a href="/specialties/critical-care" class="text-secondary-600 hover:underline font-semibold">critical care</a> where needed. Related conditions we treat are covered on our <a href="/spinal-cord-injury-treatment-in-ranchi" class="text-secondary-600 hover:underline font-semibold">spinal cord injury</a> and <a href="/spinal-cord-tumor-treatment-in-ranchi" class="text-secondary-600 hover:underline font-semibold">spinal cord tumour</a> pages.
@@ -401,7 +402,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Is bed rest good for back pain?</h3>
-                        <p class="text-gray-700">No. Prolonged bed rest was standard decades ago and has since been shown to slow recovery, because muscles weaken, joints stiffen and pain sensitivity rises. Rest a day or two at most if pain is severe, then return to gentle movement and normal activity as far as pain allows. Staying active within comfort is one of the best-evidenced treatments for simple back pain.</p>
+                        <p class="text-gray-700">No. Prolonged bed rest was standard decades ago and has since been shown to slow recovery, because muscles weaken, joints stiffen and pain sensitivity rises. Rest a day or two at most if pain is severe, then return to gentle movement and normal activity as far as pain allows. Staying active within comfort is a well-evidenced treatment for simple back pain.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">What conservative treatments are tried before surgery?</h3>
@@ -435,8 +436,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 shrink-0 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Neuro &amp; Spine Surgery Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Medically reviewed by our consultant neurosurgeons and spine specialists &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <strong class="text-gray-800">RAJ Hospital Team</strong>
+                        <p class="text-sm text-gray-500">For general health awareness only &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

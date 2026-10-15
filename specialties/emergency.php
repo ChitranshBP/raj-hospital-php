@@ -43,11 +43,6 @@ Emergency Medical Services in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -89,10 +84,10 @@ Emergency Medical Services in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best emergency hospital in Ranchi?",
+      "name": "Does Raj Hospital have an emergency department in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best emergency hospitals in Ranchi providing 24x7 emergency medical care."
+        "text": "Yes, Raj Hospital in Ranchi provides 24x7 emergency medical care."
       }
     },
     {
@@ -261,7 +256,7 @@ Emergency Medical Services in Jharkhand
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Emergency Medicine Department at Raj
                             Hospitals ensures immediate and effective care for all acute medical and trauma cases. Our
-                            experienced emergency consultants, trained paramedics, and ICUs on Wheels team guarantee
+                            experienced emergency consultants, trained paramedics, and ICUs on Wheels team aim to provide
                             lifesaving interventions within the golden hour.</p>
 
                         <!-- Why Choose Us Box -->
@@ -280,7 +275,7 @@ Emergency Medical Services in Jharkhand
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -574,57 +569,6 @@ Emergency Medical Services in Jharkhand
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Emergency department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="alert-circle" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Cardiac Emergency Saved</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Rajesh, 59</p>
-                    <p class="text-gray-700 mb-6">Immediate intervention started en route in ambulance and continued in
-                        ICU.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Discharged in stable condition.</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="alert-circle" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Rapid Trauma Response</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Sunil, 35</p>
-                    <p class="text-gray-700 mb-6">Swift emergency response after a road accident saved his life with
-                        timely surgery and ICU care.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Full recovery after rehabilitation.</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
@@ -749,6 +693,10 @@ Emergency Medical Services in Jharkhand
                             <input type="hidden" name="specialty" value="Emergency">
 
                             <!-- Submit Button -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-5 h-5"></i>

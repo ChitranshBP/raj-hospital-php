@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है। Ranchi के best gastroenterologists और neurologists की advice।">
+    <title>Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।">
     <meta name="keywords" content="gas ke dard ke lakshan, pet me gas, gas pain symptoms, gas problem, pet dard, abdominal pain, gastric problems, गैस के लक्षण, पेट में गैस">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/gas-ke-dard-ke-lakshan/">
@@ -43,7 +43,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Pet में <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> के क्या लक्षण होते हैं?",
+                "name": "Pet में Gas के क्या लक्षण होते हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Pet में Gas के लक्षणों में पेट में दर्द, फूलापन, पेट में ऐंठन, अक्सर गुड़रगुड़ी की आवाज, सांसों में बदबू, और छाती में जलन शामिल हैं। कुछ मामलों में कंधे और पीठ में भी दर्द हो सकता है।"
@@ -54,7 +54,7 @@
                 "name": "Gas का दर्द दिल की बीमारी से कैसे अलग है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Gas का दर्द आमतौर पर खाने के बाद या lying down के बाद बढ़ता है, जबकि दिल की बीमारी में दर्द exercise के साथ बढ़ता है और सांस लेने में दिक्कत, पसीना आना जैसे लक्षण भी होते हैं। अगर दर्द तेज हो और दिल की बीमारी का संदेह हो तो तुरंत doctor से मिलें।"
+                    "text": "Gas और दिल के दर्द में फर्क करना मुश्किल हो सकता है — heart attack आराम करते समय या खाने के बाद भी हो सकता है, खासकर जब सीने में दबाव हो और सांस लेने में दिक्कत, पसीना आना जैसे लक्षण भी होते हैं। अगर दर्द तेज हो और दिल की बीमारी का संदेह हो तो तुरंत doctor से मिलें।"
                 }
             },
             {
@@ -122,7 +122,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan"
+                "name": "Gas Ke Dard Ke Lakshan"
             }
         ]
     }
@@ -133,7 +133,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet Gas Symptoms in Hindi",
+        "name": "Gas Ke Dard Ke Lakshan - Pet Gas Symptoms in Hindi",
         "description": "Complete guide about gas pain symptoms, causes, home remedies, and when to seek medical help in Hindi",
         "url": "https://rajhospitals.com/blog/gas-ke-dard-ke-lakshan/",
         "author": {
@@ -165,7 +165,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet Gas ke Symptoms & Treatment",
+        "headline": "Gas Ke Dard Ke Lakshan - Pet Gas ke Symptoms & Treatment",
         "description": "Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है।",
         "author": {
             "@type": "Organization",
@@ -191,7 +191,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -226,7 +226,7 @@
             "name": "पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -281,6 +281,7 @@
             <div class="p-6 md:p-10 border-b-2 border-primary-500">
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Digestive Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms aur Treatment</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -457,7 +458,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">1. Ajwain (Carom Seeds)</h4>
-                        <p class="text-sm text-gray-600">एक चम्मच ajwain को warm water के साथ लें। यह gas को quickly relieve करता है।</p>
+                        <p class="text-sm text-gray-600">थोड़ी ajwain warm water के साथ लेने से कुछ लोगों को आराम मिल सकता है।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">2. Jeera Water</h4>
@@ -560,7 +561,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-primary-500 to-primary-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Gas Problems के लिए RAJ Hospital Ranchi में Appointment लें</h3>
-                    <p class="opacity-90 mb-4">हमारे expert gastroenterologists और neurologists आपकी comprehensive checkup करेंगे।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital में gastroenterology विभाग में जांच और सलाह उपलब्ध है।</p>
                     <div class="flex flex-wrap justify-center gap-4">
                         <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                         <a href="/doctor-profile.php" class="inline-block bg-primary-700 text-white font-bold px-6 py-2 rounded-lg hover:bg-primary-800 transition-colors">Meet Our Doctors</a>
@@ -577,7 +578,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Gas का दर्द दिल की बीमारी से कैसे अलग है?</h4>
-                        <p class="text-gray-700">Gas का दर्द आमतौर पर खाने के बाद या lying down के बाद बढ़ता है, जबकि दिल की बीमारी में दर्द exercise के साथ बढ़ता है और सांस लेने में दिक्कत, पसीना आना जैसे लक्षण भी होते हैं। अगर दर्द तेज हो और दिल की बीमारी का संदेह हो तो तुरंत <a href="/contact.php" class="text-primary-600 underline">doctor से मिलें</a>।</p>
+                        <p class="text-gray-700">Gas और दिल के दर्द में फर्क करना मुश्किल हो सकता है — heart attack आराम करते समय या खाने के बाद भी हो सकता है, खासकर जब सीने में दबाव हो और सांस लेने में दिक्कत, पसीना आना जैसे लक्षण भी होते हैं। अगर दर्द तेज हो और दिल की बीमारी का संदेह हो तो तुरंत <a href="/contact.php" class="text-primary-600 underline">doctor से मिलें</a>।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Pet की Gas से कैसे छुटकारा पाएं?</h4>
@@ -602,8 +603,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms &amp; Treatment पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है। Ranchi के best gastroenterologists और neurologists की advice।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms &amp; Treatment: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms &amp; Treatment शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में पाचन और सामान्य स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -646,7 +647,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -655,8 +656,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-500 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gastroenterologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
 

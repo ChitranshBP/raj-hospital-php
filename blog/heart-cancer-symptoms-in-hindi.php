@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>दिल का कैंसर के लक्षण - Heart <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | RAJ Hospital Ranchi</title>
-    <meta name="description" content="दिल का कैंसर (Heart Cancer) के लक्षण जानें। जानें दिल के कैंसर के शुरुआती और गंभीर लक्षण, कारण और बचाव के उपाय। Ranchi के best cardiology experts की advice।">
+    <title>दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi | RAJ Hospital Ranchi</title>
+    <meta name="description" content="दिल का कैंसर (Heart Cancer) के लक्षण जानें। जानें दिल के कैंसर के शुरुआती और गंभीर लक्षण, कारण और बचाव के उपाय। RAJ Hospital Ranchi से जानकारी।">
     <meta name="keywords" content="heart cancer, दिल का कैंसर, heart cancer symptoms in hindi, cardiac tumor, cardiac sarcoma, दिल का कैंसर के लक्षण, cardiology, ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/heart-cancer-symptoms-in-hindi/">
@@ -66,7 +66,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "दिल का कैंसर के लक्षण - Heart <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi",
+        "name": "दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi",
         "description": "दिल का कैंसर (Heart Cancer) के लक्षण, कारण, diagnosis और treatment options की complete guide।",
         "author": {
             "@type": "Organization",
@@ -81,7 +81,7 @@
         "dateModified": "2026-05-22",
         "about": {
             "@type": "MedicalCondition",
-            "name": "Heart Cancer (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Cardiac</a> Tumor)",
+            "name": "Heart Cancer (Cardiac Tumor)",
             "affectedBodySystem": "Cardiovascular System"
         },
         "medicalSpecialty": "Cardiology",
@@ -99,7 +99,7 @@
                 "name": "दिल का कैंसर क्या होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दिल का कैंसर (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Cardiac</a> <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a>) एक rare medical condition है जिसमें दिल में tumor बनता है। यह primary (अपने दिल से शुरू) या secondary (शरीर के दूसरे हिस्से से फैला) हो सकता है। Primary heart tumors बहुत rare हैं (सभी tumors में से 0.1% से कम)।"
+                    "text": "दिल का कैंसर (Cardiac Tumor) एक rare medical condition है जिसमें दिल में tumor बनता है। यह primary (अपने दिल से शुरू) या secondary (शरीर के दूसरे हिस्से से फैला) हो सकता है। Primary heart tumors बहुत rare हैं (सभी tumors में से 0.1% से कम)।"
                 }
             },
             {
@@ -161,7 +161,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "दिल का कैंसर के लक्षण - Heart <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -172,7 +172,7 @@
             "name": "क्या दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -196,7 +196,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -251,6 +251,7 @@
             <div class="p-6 md:p-10 border-b-2 border-purple-600">
                 <span class="inline-block bg-purple-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">दिल का कैंसर के लक्षण - Heart <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -287,7 +288,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital Ranchi में हमारी expert cardiology team <a href="/doctor-profile.php" class="text-purple-600 hover:underline font-semibold">neurology और cardiology दोनों conditions</a> का diagnosis और treatment करती है। हमारे specialists को <a href="/contact.php" class="text-purple-600 hover:underline font-semibold">contact करें</a> अधिक जानकारी के लिए।
+                    RAJ Hospital Ranchi में हमारी cardiology team <a href="/doctor-profile.php" class="text-purple-600 hover:underline font-semibold">neurology और cardiology दोनों conditions</a> का diagnosis और treatment करती है। हमारे specialists को <a href="/contact.php" class="text-purple-600 hover:underline font-semibold">contact करें</a> अधिक जानकारी के लिए।
                 </p>
 
                 <!-- Section 2: Types of Heart Cancer -->
@@ -308,7 +309,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-purple-600">
                         <h4 class="font-bold text-purple-600">3. Rhabdomyoma (बच्चों में Common)</h4>
-                        <p class="text-sm text-gray-600">यह benign tumor है जो आमतौर पर बच्चों और infants में पाया जाता है। यह अक्सर tuberculosis के साथ associated होता है और अपने आप ठीक हो सकता है।</p>
+                        <p class="text-sm text-gray-600">यह benign tumor है जो आमतौर पर बच्चों और infants में पाया जाता है। यह अक्सर tuberous sclerosis (एक genetic बीमारी) के साथ associated होता है और कई बार अपने आप छोटा हो सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-purple-600">
                         <h4 class="font-bold text-purple-600">4. Metastatic Heart Tumors</h4>
@@ -344,7 +345,7 @@
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">5. चक्कर आना (Dizziness)</h4>
-                        <p class="text-sm text-gray-600">चक्कर आना या lightheadedness दिल के कैंसर का एक और symptom है। यह तब होता है जब heart की pumping capacity कम हो जाती है और brain में sufficient blood नहीं पहुंच पाता। कुछ patients को <a href="/head-injury-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">head injury treatment</a> की जरूरत भी पड़ सकती है अगर वे gefahr करके gefahr जाएं।</p>
+                        <p class="text-sm text-gray-600">चक्कर आना या lightheadedness दिल के कैंसर का एक और symptom है। यह तब होता है जब heart की pumping capacity कम हो जाती है और brain में sufficient blood नहीं पहुंच पाता। कुछ patients को <a href="/head-injury-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">head injury treatment</a> की जरूरत भी पड़ सकती है अगर चक्कर आने से वे गिरकर चोटिल हो जाएं।</p>
                     </div>
                     <div class="raj-callout raj-callout-info">
                         <h4 class="font-bold text-purple-600">6. हाथ-पैरों में सूजन (Swelling in Hands and Feet)</h4>
@@ -437,7 +438,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    हमारी team <a href="/brain-tumor-treatment-in-ranchi.php" class="text-purple-600 hover:underline font-semibold">brain tumor treatment</a> और दिल के tumors दोनों में experienced है। RAJ Hospital Ranchi में latest diagnostic equipment available है।
+                    दिल के tumor की जांच और इलाज के लिए cardiologist और oncologist दोनों की सलाह ज़रूरी होती है।
                 </p>
 
                 <!-- Section 6: Treatment -->
@@ -462,7 +463,7 @@
                     </div>
                     <div class="bg-purple-50 p-4 rounded-lg">
                         <h4 class="font-bold text-purple-600 mb-2">Heart Transplant</h4>
-                        <p class="text-sm text-gray-600">Very rare और severe cases में, जब tumor extensively फैला हो, heart transplant एक option हो सकता है। हालांकि, यह complex procedure है और strict criteria apply होती हैं।</p>
+                        <p class="text-sm text-gray-600">Very rare cases में, जब tumor surgery से निकालना संभव न हो लेकिन शरीर में कहीं और न फैला हो, heart transplant पर विचार किया जा सकता है। हालांकि, यह complex procedure है और strict criteria apply होती हैं।</p>
                     </div>
                 </div>
 
@@ -490,7 +491,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-purple-600 to-purple-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">दिल से Related किसी भी समस्या में तुरंत मदद</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced cardiology और neurology team 24x7 available है। Advanced diagnostic facilities और latest treatment options के साथ हम आपकी सेहत का ध्यान रखते हैं।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में cardiology और neurology team से परामर्श उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-purple-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Contact Us Now</a>
                 </div>
 
@@ -529,8 +530,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">दिल का कैंसर (Heart Cancer) के लक्षण जानें। जानें दिल के कैंसर के शुरुआती और गंभीर लक्षण, कारण और बचाव के उपाय। Ranchi के best cardiology experts की advice।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">दिल का कैंसर (Heart Cancer) के लक्षण जानें। जानें दिल के कैंसर के शुरुआती और गंभीर लक्षण, कारण और बचाव के उपाय। RAJ Hospital Ranchi से जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -547,7 +548,7 @@
                         <li><a href="/blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Heart Attack Se Kaise Bachen: 15 Powerful Tips for a Healthy Heart</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दिल का दौरा लक्षण (Heart Attack Symptoms)</a></li>
                         <li><a href="/blog/brain-stroke-ke-lakshan.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Brain Stroke के लक्षण</a></li>
-                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Hospital for Paralysis Treatment in Ranchi</a></li>
+                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Paralysis Treatment in Ranchi</a></li>
                     </ul>
                 </section>
 
@@ -572,7 +573,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -581,8 +582,7 @@
                 <div class="flex items-center gap-4 bg-purple-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-purple-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Cardiologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
 

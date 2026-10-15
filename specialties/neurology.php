@@ -7,9 +7,9 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Neurologist in Ranchi | Top Neurology Hospital | Raj Hospital</title>
-    <meta name="description" content="Looking for the best neurologist in Ranchi? Raj Hospital is the best neuro hospital offering advanced brain and neurological care. Consult our expert neurologist today." />
-    <meta name="keywords" content="best neurologist in Ranchi, neurologist in Ranchi, top neurologist in Ranchi, Raj Hospital Ranchi, neurology hospital Ranchi" />
+    <title>Neurologist in Ranchi | Neurology Hospital | Raj Hospital</title>
+    <meta name="description" content="Looking for a neurologist in Ranchi? Raj Hospital offers advanced brain and neurological care. Consult our neurologist today." />
+    <meta name="keywords" content="neurologist in Ranchi, Raj Hospital Ranchi, neurology hospital Ranchi" />
     <meta name="robots" content="index, follow" />
 
     <meta name="geo.region" content="IN-JH" />
@@ -22,12 +22,7 @@
       "@context": "https://schema.org",
       "@type": "Hospital",
       "name": "Raj Hospital",
-      "url": "https://rajhospitals.com/",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.6",
-        "reviewCount": "380"
-      }
+      "url": "https://rajhospitals.com/"
     }
     </script>
 
@@ -80,7 +75,7 @@
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Neurology</h1>
-                    <p class="text-xl text-gray-200">Best Neurologist in Ranchi at Raj Hospital. Expert diagnosis and treatment for stroke, epilepsy, headache disorders, and all neurological conditions.</p>
+                    <p class="text-xl text-gray-200">Neurologist in Ranchi at Raj Hospital. Diagnosis and treatment for stroke, epilepsy, headache disorders, and other neurological conditions.</p>
                 </div>
             </div>
         </div>
@@ -92,8 +87,8 @@
             <div class="grid lg:grid-cols-3 gap-12">
                 <div class="lg:col-span-2">
                     <div class="fade-in">
-                        <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview - Best Neurology Hospital in Ranchi</h2>
-                        <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neurology at Raj Hospitals provides comprehensive care for brain and nervous system disorders. As the <strong>best neurology hospital in Ranchi</strong>, our expert neurologists utilize advanced diagnostic technologies to diagnose and treat a wide range of neurological conditions including stroke, epilepsy, movement disorders, neuro infections, and more.</p>
+                        <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview - Neurology Hospital in Ranchi</h2>
+                        <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Neurology at Raj Hospitals provides comprehensive care for brain and nervous system disorders. As the <strong>neurology department of Raj Hospitals in Ranchi</strong>, our expert neurologists utilize advanced diagnostic technologies to diagnose and treat a wide range of neurological conditions including stroke, epilepsy, movement disorders, neuro infections, and more.</p>
 
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
                             <h3 class="text-xl font-semibold text-gray-900 mb-4 flex items-center">
@@ -103,11 +98,11 @@
                             <ul class="space-y-3">
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Board-certified neurologists with advanced training</span>
+                                    <span class="text-gray-700">Qualified neurologists with advanced training</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and electrophysiology facilities</span>
+                                    <span class="text-gray-700">Diagnostic and electrophysiology facilities</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check" class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
@@ -139,7 +134,7 @@
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art electrophysiology labs</span>
+                                    <span class="text-gray-700">Electrophysiology labs</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -156,7 +151,7 @@
                 <div class="space-y-8 fade-in">
                     <div class="text-center mb-6">
                         <h3 class="text-2xl font-bold text-gray-900 mb-2">Meet Our Neurologist</h3>
-                        <p class="text-gray-600 font-medium">Top neurologist in Ranchi for all neurological conditions</p>
+                        <p class="text-gray-600 font-medium">Neurologist in Ranchi for neurological conditions</p>
                     </div>
                     <div class="flex flex-col gap-8 overflow-y-auto" style="max-height: 1000px; max-width: 340px; margin: 0 auto;">
 
@@ -335,55 +330,6 @@
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Neurology department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Stroke Recovery Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Vikash Kumar</p>
-                    <p class="text-gray-700 mb-6">Mr. Vikash was admitted with acute stroke symptoms. Our neurology team responded immediately with thrombolysis therapy. With dedicated rehabilitation and follow-up care, he regained significant motor function and returned to his daily activities.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Near complete recovery with independent mobility</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="activity" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Migraine Management Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Ms. Neha Kumari</p>
-                    <p class="text-gray-700 mb-6">Ms. Neha had been suffering from chronic migraines for years affecting her work and daily life. Our neurologist properly diagnosed her condition and started a comprehensive treatment plan including medication and lifestyle modifications.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Significant reduction in headache frequency and intensity</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
@@ -399,11 +345,11 @@
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Who is the best neurologist in Ranchi?</h3>
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Who is the neurologist at Raj Hospital, Ranchi?</h3>
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Raj Hospital has highly experienced neurologists providing exceptional care for all neurological conditions including stroke, epilepsy, and movement disorders.</p>
+                                <p>Raj Hospital has experienced neurologists providing care for neurological conditions including stroke, epilepsy, and movement disorders.</p>
                             </div>
                         </div>
 
@@ -431,6 +377,10 @@
                             <input type="tel" name="phone" required pattern="[0-9]{10}" placeholder="10-digit mobile number" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg">
                             <textarea name="message" required rows="4" placeholder="Your Question" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg"></textarea>
                             <input type="hidden" name="specialty" value="Neurology">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold">Submit Inquiry</button>
                         </form>
                     </div>

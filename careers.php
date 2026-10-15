@@ -111,7 +111,7 @@
                         <i data-feather="monitor" class="w-6 h-6 text-[#ea5234]"></i>
                     </div>
                     <h3 class="text-xl font-semibold text-gray-900 mb-3">Modern Facilities</h3>
-                    <p class="text-gray-700">Work with state-of-the-art medical equipment and technology in a well-maintained and comfortable environment.</p>
+                    <p class="text-gray-700">Work with modern medical equipment and technology in a well-maintained and comfortable environment.</p>
                 </div>
                  <!-- Benefit 3 -->
                 <div class="bg-gradient-to-br from-[#fef5f3] to-[#f0fbff] p-6 rounded-xl fade-in hover:shadow-lg transition-shadow delay-200">
@@ -245,9 +245,9 @@
                     </div>
 
                      <div class="flex items-start">
-                        <input type="checkbox" id="consent" required class="mt-1 mr-2 w-4 h-4 text-[#ea5234] focus:ring-[#ea5234] border-gray-300 rounded">
+                        <input type="checkbox" id="consent" name="privacy_consent" value="yes" required class="mt-1 mr-2 w-4 h-4 text-[#ea5234] focus:ring-[#ea5234] border-gray-300 rounded">
                         <label for="consent" class="text-sm text-gray-600 cursor-pointer">
-                            I consent to Raj Hospitals storing and processing my personal data for the purpose of this job application. *
+                            I agree that Raj Hospitals may use the details and CV I have submitted to assess this job application, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>. *
                         </label>
                     </div>
 

@@ -8,14 +8,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>What Causes Heart Attacks in Young People? Signs, Risk Factors & Prevention | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Why are heart attacks rising in young adults? Cardiologists at RAJ Hospital Ranchi explain the causes, warning signs and risk factors of heart attacks in people under 40 — plus a clear prevention plan.">
-    <meta name="keywords" content="what causes heart attacks in young people, heart attack in young adults, heart attack under 40, causes of heart attack in youth, heart attack risk factors young, SCAD, familial hypercholesterolemia, RAJ Hospital Ranchi, best hospital in Ranchi">
+    <meta name="description" content="Why are heart attacks rising in young adults? RAJ Hospital Ranchi explains the causes, warning signs and risk factors of heart attacks in people under 40 — plus a clear prevention plan.">
+    <meta name="keywords" content="what causes heart attacks in young people, heart attack in young adults, heart attack under 40, causes of heart attack in youth, heart attack risk factors young, SCAD, familial hypercholesterolemia, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/what-causes-heart-attacks-in-young-people/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="What Causes Heart Attacks in Young People? Signs, Risk Factors & Prevention">
-    <meta property="og:description" content="Cardiologist-reviewed guide on why heart attacks are rising in young adults — causes, warning signs and how to prevent them.">
+    <meta property="og:description" content="Guide on why heart attacks are rising in young adults — causes, warning signs and how to prevent them.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/what-causes-heart-attacks-in-young-people/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/what-causes-heart-attacks-in-young-people.png">
@@ -43,7 +43,7 @@
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "What Causes Heart Attacks in Young People? Signs, Risk Factors & Prevention",
-        "description": "Cardiologist-reviewed guide explaining why heart attacks are rising in young adults, the warning signs, and how to lower your risk.",
+        "description": "Guide explaining why heart attacks are rising in young adults, the warning signs, and how to lower your risk.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -76,7 +76,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "What Causes Heart Attacks in Young People?",
-        "description": "Doctor-reviewed guide on the causes, warning signs and risk factors of heart attacks in young adults, with a prevention plan.",
+        "description": "Guide on the causes, warning signs and risk factors of heart attacks in young adults, with a prevention plan.",
         "url": "https://rajhospitals.com/blog/what-causes-heart-attacks-in-young-people/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -99,10 +99,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Can a 25-year-old have a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?",
+                "name": "Can a 25-year-old have a heart attack?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes. While heart attacks are far more common after 45, they do occur in people in their 20s and 30s. Common causes in this age group include spontaneous coronary artery dissection (SCAD), inherited high cholesterol (familial hypercholesterolemia), cocaine or stimulant use, uncontrolled <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, smoking or vaping, and coronary artery spasm. Any young adult with chest pain, breathlessness or fainting should be evaluated at a cardiac unit such as RAJ Hospital Ranchi."
+                    "text": "Yes. While heart attacks are far more common after 45, they do occur in people in their 20s and 30s. Common causes in this age group include spontaneous coronary artery dissection (SCAD), inherited high cholesterol (familial hypercholesterolemia), cocaine or stimulant use, uncontrolled diabetes, smoking or vaping, and coronary artery spasm. Any young adult with chest pain, breathlessness or fainting should be evaluated at a cardiac unit such as RAJ Hospital Ranchi."
                 }
             },
             {
@@ -110,7 +110,7 @@
                 "name": "Why are heart attacks increasing in young Indians?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Cardiologists attribute the rise to a cluster of modern risk factors: sedentary desk jobs, high-<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> lifestyles, tobacco and vaping, ultra-processed and high-sugar diets, undiagnosed diabetes and hypertension, poor sleep, and a strong genetic predisposition to early coronary artery disease seen in South Asians. Many young patients have no idea they are at risk because they feel healthy and skip check-ups."
+                    "text": "Cardiologists attribute the rise to a cluster of modern risk factors: sedentary desk jobs, high-stress lifestyles, tobacco and vaping, ultra-processed and high-sugar diets, undiagnosed diabetes and hypertension, poor sleep, and a strong genetic predisposition to early coronary artery disease seen in South Asians. Many young patients have no idea they are at risk because they feel healthy and skip check-ups."
                 }
             },
             {
@@ -118,7 +118,7 @@
                 "name": "What are the warning signs of a heart attack in a young person?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Central chest pressure or tightness, pain spreading to the left arm, jaw, neck or back, cold sweat, sudden breathlessness, nausea, unusual fatigue and lightheadedness. In young adults symptoms are sometimes dismissed as <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a>, acidity, anxiety or muscle strain, which delays life-saving treatment. When in doubt, treat chest pain as cardiac and reach an emergency room immediately."
+                    "text": "Central chest pressure or tightness, pain spreading to the left arm, jaw, neck or back, cold sweat, sudden breathlessness, nausea, unusual fatigue and lightheadedness. In young adults symptoms are sometimes dismissed as gas, acidity, anxiety or muscle strain, which delays life-saving treatment. When in doubt, treat chest pain as cardiac and reach an emergency room immediately."
                 }
             },
             {
@@ -160,23 +160,24 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="/blog/assets/img/featured/what-causes-heart-attacks-in-young-people.png" alt="What Causes Heart Attacks in Young People - Cardiologist Guide, RAJ Hospital Ranchi" class="w-full h-full object-contain" onerror="this.onerror=null;this.src='/blog/assets/img/Copy-of-Raj-Hospitals.jpg';">
+                <img src="/blog/assets/img/featured/what-causes-heart-attacks-in-young-people.png" alt="What Causes Heart Attacks in Young People - Guide, RAJ Hospital Ranchi" class="w-full h-full object-contain" onerror="this.onerror=null;this.src='/blog/assets/img/Copy-of-Raj-Hospitals.jpg';">
             </div>
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">What Causes Heart Attacks in Young People? Signs, Risk Factors &amp; Prevention</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    A generation ago, a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> in someone under 40 was considered rare. Today, cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, see young professionals, gym-goers and even non-smokers arrive in the emergency room with a genuine myocardial infarction. So <strong>what causes heart attacks in young people?</strong> The answer is a mix of hidden genetics, modern lifestyle, and a handful of conditions unique to younger hearts — most of which are detectable and preventable if you know what to look for.
+                    A generation ago, a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> in someone under 40 was considered rare. Today, cardiologists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>, see young professionals, gym-goers and even non-smokers arrive in the emergency room with a genuine myocardial infarction. So <strong>what causes heart attacks in young people?</strong> The answer is a mix of hidden genetics, modern lifestyle, and a handful of conditions unique to younger hearts — most of which are detectable and preventable if you know what to look for.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -206,7 +207,7 @@
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="git-branch" class="raj-icon raj-icon-md raj-icon-secondary"></i> SCAD (Coronary Artery Dissection)</h3>
-                        <p class="raj-card-body">A sudden tear in a coronary artery wall — a leading cause of heart attack in young women, especially during or after pregnancy. It can strike people with no traditional risk factors at all.</p>
+                        <p class="raj-card-body">A sudden tear in a coronary artery wall — a major cause of heart attack in young women, especially during or after pregnancy. It can strike people with no traditional risk factors at all.</p>
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="dna" class="raj-icon raj-icon-md raj-icon-secondary"></i> Familial Hypercholesterolemia</h3>
@@ -285,7 +286,7 @@
 
                 <h2 class="raj-h2"><i data-feather="search" class="raj-h2-icon"></i> How Doctors Assess Heart Risk in Young Patients</h2>
                 <p class="text-gray-700 mb-4">
-                    You do not need to wait for symptoms to know where you stand. At RAJ Hospital, a young-heart risk assessment is quick and affordable, and typically includes:
+                    You do not need to wait for symptoms to know where you stand. A young-heart risk assessment typically includes:
                 </p>
                 <ol class="list-decimal list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Blood pressure and BMI/waist measurement</strong> — the simplest, most predictive screen.</li>
@@ -341,19 +342,19 @@
                 <!-- CTA -->
                 <div class="raj-cta">
                     <h3 class="text-xl font-bold text-white mb-2">Under 40 with a family history? Get a heart check-up.</h3>
-                    <p class="text-white/90 mb-4">RAJ Hospital Ranchi offers young-adult cardiac screening — BP, blood sugar, lipid profile, ECG and echo — plus 24×7 cardiac emergency care, all under one roof. Book a same-day cardiology consultation.</p>
+                    <p class="text-white/90 mb-4">RAJ Hospital Ranchi offers young-adult cardiac screening — BP, blood sugar, lipid profile, ECG and echo — plus 24×7 cardiac emergency care, all under one roof. Book a cardiology consultation.</p>
                     <a href="https://rajhospitals.com/contact.php" class="raj-cta-button">Book a Heart Check-up →</a>
                 </div>
 
                 <!-- Related Guides -->
                 <section class="mt-8 bg-white border border-gray-200 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — Related Health Guides</h2>
-                    <p class="text-gray-700 mb-4">Understand your heart risk better with these expert guides:</p>
+                    <p class="text-gray-700 mb-4">Understand your heart risk better with these guides:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital</a></li>
                         <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk &amp; Prevention</a></li>
                         <li><a href="/blog/can-depression-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Depression Cause a Heart Attack? — The Hidden Connection</a></li>
-                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Guide</a></li>
                         <li><a href="/blog/heart-attack-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Men — Early Warning Signs</a></li>
                         <li><a href="/blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Se Kaise Bachen — 15 Powerful Tips for a Healthy Heart</a></li>
                     </ul>
@@ -365,7 +366,7 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can a 25-year-old have a heart attack?</h3>
-                            <p class="text-gray-700">Yes. Though far less common than after 45, heart attacks do happen in the 20s and 30s — usually from SCAD, inherited high cholesterol, stimulant use, uncontrolled diabetes, smoking or vaping, or coronary spasm. Any young adult with chest pain, breathlessness or fainting should be checked promptly at a cardiac unit such as <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>.</p>
+                            <p class="text-gray-700">Yes. Though far less common than after 45, heart attacks do happen in the 20s and 30s — most often from early plaque build-up driven by smoking or vaping, diabetes and high (sometimes inherited) cholesterol; less common causes include SCAD, stimulant use and coronary spasm. Any young adult with chest pain, breathlessness or fainting should be checked promptly at a cardiac unit such as <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can a fit, non-smoking young person still have a heart attack?</h3>
@@ -386,8 +387,8 @@
                 <div class="raj-author-box">
                     <div class="raj-author-avatar">RH</div>
                     <div>
-                        <strong class="raj-author-name">Cardiology Team, RAJ Hospital</strong>
-                        <p class="raj-author-meta">Reviewed by Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <strong class="raj-author-name">RAJ Hospital Editorial Team</strong>
+                        <p class="raj-author-meta"><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 

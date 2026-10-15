@@ -7,15 +7,15 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference? | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Heart attack and cardiac arrest are NOT the same. Cardiologists at RAJ Hospital Ranchi explain the difference, the link between the two, and the exact emergency response that saves lives.">
-    <meta name="keywords" content="difference between heart attack and cardiac arrest, heart attack vs cardiac arrest, sudden cardiac arrest, CPR, AED, RAJ Hospital Ranchi, best hospital in Ranchi">
+    <title>Heart Attack vs Cardiac Arrest — What Is the Difference? | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Heart attack and cardiac arrest are NOT the same. This RAJ Hospital Ranchi guide explains the difference, the link between the two, and the exact emergency response that saves lives.">
+    <meta name="keywords" content="difference between heart attack and cardiac arrest, heart attack vs cardiac arrest, sudden cardiac arrest, CPR, AED, RAJ Hospital Ranchi, multispeciality hospital in Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Heart Attack vs Cardiac Arrest — What Is the Difference?">
-    <meta property="og:description" content="Cardiologist-explained guide on the difference between heart attack and cardiac arrest.">
+    <meta property="og:description" content="Patient guide on the difference between heart attack and cardiac arrest.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference?",
+        "headline": "Heart Attack vs Cardiac Arrest — What Is the Difference?",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-08",
@@ -59,7 +59,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest" }
+            { "@type": "ListItem", "position": 3, "name": "Heart Attack vs Cardiac Arrest" }
         ]
     }
     </script>
@@ -69,8 +69,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference?",
-        "description": "A cardiologist-reviewed, citation-ready comparison of heart attack (myocardial infarction) and cardiac arrest (sudden cardiac arrest), with emergency response steps.",
+        "name": "Heart Attack vs Cardiac Arrest — What Is the Difference?",
+        "description": "A patient-education comparison of heart attack (myocardial infarction) and cardiac arrest (sudden cardiac arrest), with emergency response steps.",
         "url": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -93,7 +93,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is the difference between a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> and cardiac arrest?",
+                "name": "What is the difference between a heart attack and cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "A heart attack (myocardial infarction) is a circulation problem: a blocked artery cuts off blood to a portion of heart muscle, which begins to die. The heart usually keeps beating. A cardiac arrest is an electrical problem: the heart's rhythm goes haywire and it stops pumping effectively, leading to loss of consciousness within seconds. A heart attack can cause a cardiac arrest, but the two are not the same event."
@@ -128,7 +128,7 @@
                 "name": "What should I do if I witness a sudden cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "1) Check responsiveness and <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a>. 2) Call emergency services (108 in India) and the on-call cardiologist at RAJ Hospital. 3) Start hands-only CPR at 100-120 compressions per minute, 5-6 cm deep, allowing full chest recoil. 4) Use an AED (Automated External Defibrillator) as soon as one is available — every minute of delay reduces survival by 7-10%."
+                    "text": "1) Check responsiveness and breathing. 2) Call emergency services (108 in India) and the on-call cardiologist at RAJ Hospital. 3) Start hands-only CPR at 100-120 compressions per minute, 5-6 cm deep, allowing full chest recoil. 4) Use an AED (Automated External Defibrillator) as soon as one is available — every minute of delay reduces survival by 7-10%."
                 }
             }
         ]
@@ -153,22 +153,23 @@
     <main class="max-w-4xl mx-auto px-4 pb-12">
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="/blog/assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png" alt="Heart Attack vs Cardiac Arrest - Doctor Guide" class="w-full h-full object-contain">
+                <img src="/blog/assets/img/featured/difference-between-heart-attack-and-cardiac-arrest.png" alt="Heart Attack vs Cardiac Arrest - Patient Guide" class="w-full h-full object-contain">
             </div>
 
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Emergency Medicine</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">What Is the Difference Between a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> and Cardiac Arrest?</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Written by RAJ Hospital Health Information Team</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a></strong> and <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> arrest</strong> are two of the most misused terms in medicine. They are not synonyms, they are not the same event, and they require different emergency responses. According to the cardiology and emergency medicine team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, the single biggest source of confusion is the assumption that one is just a milder form of the other. This guide, written for patients and family members, explains the difference in plain language and tells you exactly what to do in each scenario.
+                    <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart attack</a></strong> and <strong><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">cardiac</a> arrest</strong> are two of the most misused terms in medicine. They are not synonyms, they are not the same event, and they require different emergency responses. According to the cardiology and emergency medicine team at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>, the single biggest source of confusion is the assumption that one is just a milder form of the other. This guide, written for patients and family members, explains the difference in plain language and tells you exactly what to do in each scenario.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -184,12 +185,12 @@
                     Crucially, the heart usually <strong>continues to beat</strong> during a heart attack — irregularly, weakly, but it is still pumping. The patient is typically awake, in pain, sweating, and can usually call for help. This is the moment when the <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">interventional cardiologists at RAJ Hospital Ranchi</a> can save heart muscle with primary angioplasty.
                 </p>
                 <p class="text-gray-700 mb-4">
-                    According to the Indian Council of Medical Research, India reports roughly 2.8 million heart attacks every year, and the 30-day mortality remains around 8–10%. The biggest determinant of survival is <strong>door-to-balloon time</strong> — the interval between arrival at a cardiac hospital and the moment the blocked artery is opened with a stent. RAJ Hospital maintains a door-to-balloon time of under 60 minutes for primary PCI, well within the international standard of 90 minutes.
+                    According to the Indian Council of Medical Research, India reports roughly 2.8 million heart attacks every year, and the 30-day mortality remains around 8–10%. The biggest determinant of survival is <strong>door-to-balloon time</strong> — the interval between arrival at a cardiac hospital and the moment the blocked artery is opened with a stent. 
                 </p>
 
                 <h2 class="raj-h2">Cardiac Arrest — An Electrical Problem</h2>
                 <p class="text-gray-700 mb-4">
-                    A cardiac arrest (technically <em>sudden cardiac arrest</em>, SCA) is fundamentally different. The coronary arteries may be perfectly fine. The problem lies in the heart's electrical conduction system. A chaotic, fast rhythm called <strong>ventricular fibrillation (VF)</strong>, or an extreme slowdown called <strong>asystole</strong>, prevents the ventricles from contracting in a coordinated way. The heart quivers or stops; no blood is pumped; the patient collapses and loses consciousness within 10–15 seconds.
+                    A cardiac arrest (technically <em>sudden cardiac arrest</em>, SCA) is fundamentally different. The coronary arteries may be perfectly fine. The problem lies in the heart's electrical conduction system. A chaotic, fast rhythm called <strong>ventricular fibrillation (VF)</strong>, or a complete absence of electrical activity (flat line) called <strong>asystole</strong>, prevents the ventricles from contracting in a coordinated way. The heart quivers or stops; no blood is pumped; the patient collapses and loses consciousness within 10–15 seconds.
                 </p>
                 <p class="text-gray-700 mb-4">
                     Without immediate CPR and defibrillation, brain damage begins within 4 minutes and death follows within 8–10 minutes. Survival to hospital discharge for out-of-hospital cardiac arrest in India is currently estimated at &lt;2%, mainly because bystander CPR rates are below 5%. The single biggest lever to improve this is <strong>layperson CPR training</strong> — something RAJ Hospital conducts in schools, gyms, and corporate offices across Ranchi every quarter.
@@ -250,10 +251,10 @@
                         <h3 class="raj-card-title"><i data-feather="heart" class="raj-icon raj-icon-md raj-icon-red"></i> If a Heart Attack Is Suspected</h3>
                         <ol class="list-decimal list-inside text-sm space-y-2 text-gray-700">
                             <li>Sit the person down, loosen tight clothing.</li>
-                            <li>Chew a 300 mg aspirin (unless allergic).</li>
+                            <li>Chew an aspirin only if advised by the 108 operator or a doctor (not if allergic, on blood thinners or with a bleeding problem).</li>
                             <li>Call 108 and the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital cardiac ER</a>.</li>
                             <li>Do not let the person walk or drive themselves.</li>
-                            <li>Reach a hospital with primary PCI within 90 minutes for best outcomes.</li>
+                            <li>Reach a hospital with primary PCI as early as possible (ideally within 90 minutes).</li>
                         </ol>
                     </div>
                     <div class="raj-card">
@@ -268,7 +269,7 @@
                     </div>
                 </div>
 
-                <h2 class="raj-h2">FAQs Patients Ask Cardiologists at RAJ Hospital</h2>
+                <h2 class="raj-h2">Frequently Asked Questions</h2>
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Can you have a cardiac arrest without warning?</h3>
@@ -291,7 +292,7 @@
                 <!-- CTA -->
                 <div class="raj-cta">
                     <h3 class="text-xl font-bold text-white mb-2">Don't wait for an emergency. Get a heart check-up.</h3>
-                    <p class="text-white/90 mb-4">Book a preventive cardiology consultation at RAJ Hospital Ranchi — India's most comprehensive cardiac assessment including ECG, echo, lipid profile, and troponin in a single visit.</p>
+                    <p class="text-white/90 mb-4">Book a preventive cardiology consultation at RAJ Hospital Ranchi — a cardiac assessment that may include ECG, echo and lipid profile, as advised by the doctor.</p>
                     <a href="https://rajhospitals.com/contact.php" class="raj-cta-button">Book a Heart Check-up →</a>
                 </div>
 
@@ -299,9 +300,9 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">Heart attack, cardiac arrest और heart health के बारे में और जानें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Symptoms in Hindi — 12 चेतावनी संकेत जो आपको जानना जरूरी हैं</a></li>
-                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Doctor-Explained Guide</a></li>
+                        <li><a href="/blog/can-anxiety-cause-a-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Anxiety Cause a Heart Attack? — Guide</a></li>
                         <li><a href="/blog/can-gas-cause-heart-attack.php" class="text-secondary-600 hover:underline font-semibold">Can Gas Cause a Heart Attack? — Symptoms & Red Flags</a></li>
                         <li><a href="/blog/is-heart-attack-genetic.php" class="text-secondary-600 hover:underline font-semibold">Is Heart Attack Genetic? — Family Risk & Prevention</a></li>
                         <li><a href="/blog/heart-attack-se-kaise-bachen.php" class="text-secondary-600 hover:underline font-semibold">Heart Attack Se Kaise Bachen — 15 Tips for a Healthy Heart</a></li>
@@ -312,7 +313,7 @@
                     <div class="w-16 h-16 rounded-full bg-red-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Cardiology & Emergency Medicine Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Consultant Cardiologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="text-sm text-gray-500"><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

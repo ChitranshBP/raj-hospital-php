@@ -53,7 +53,7 @@
             "name": "क्या Can Allergies Cause Headaches? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Allergy Headache - Causes, Symptoms और Relief Guide जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "Can Allergies Cause Headaches? - Complete Guide | RAJ Hospital Ranchi",
-        "description": "Can allergies cause headaches? जानें allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> का connection, types, causes और treatment options। Complete guide by RAJ Hospital Ranchi।",
+        "description": "Can allergies cause headaches? जानें allergy headache का connection, types, causes और treatment options। Complete guide by RAJ Hospital Ranchi।",
         "url": "https://rajhospitals.com/blog/can-allergies-cause-headaches/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-allergies-cause-headaches.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-amber-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Allergy & Immunology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Can Allergies Cause Headaches? - Complete Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -337,7 +338,7 @@
                 <!-- Section 4: Treatment -->
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-amber-600 pb-2 mt-8 mb-4">Allergy Headache का इलाज</h2>
 
-                <h3 class="text-lg font-bold text-gray-800 mb-3">Medications</h3>
+                <h3 class="text-lg font-bold text-gray-800 mb-3">Medications (डॉक्टर या pharmacist की सलाह से ही लें)</h3>
                 <div class="grid grid-cols-2 gap-4 mb-6">
                     <div class="bg-amber-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600">Antihistamines</h4>
@@ -345,7 +346,7 @@
                     </div>
                     <div class="bg-amber-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600">Decongestants</h4>
-                        <p class="text-sm text-gray-600">Pseudoephedrine, Phenylephrine</p>
+                        <p class="text-sm text-gray-600">Pseudoephedrine, Phenylephrine (डॉक्टर की सलाह से ही; high BP, heart disease, pregnancy और बच्चों में सावधानी)</p>
                     </div>
                     <div class="bg-amber-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600">Nasal Steroids</h4>
@@ -383,7 +384,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600 mb-2">क्या food allergies से headache होती है?</h4>
-                        <p class="text-gray-700">हाँ, MSG, sulfites, tyramine और other food components headaches trigger कर सकते हैं।</p>
+                        <p class="text-gray-700">Food allergy से headache कम ही होता है; MSG, sulfites, tyramine जैसे food components कुछ लोगों में headache trigger कर सकते हैं (यह allergy नहीं, sensitivity है)।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-amber-600 mb-2">Allergy shots से headache कम होगी?</h4>
@@ -435,7 +436,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -453,8 +454,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-amber-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Allergy Specialist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

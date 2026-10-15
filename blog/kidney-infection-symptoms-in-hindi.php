@@ -103,7 +103,7 @@ $base_url = '../';
                 "name": "किडनी इन्फेक्शन गंभीर है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हाँ, किडनी इन्फेक्शन गंभीर हो सकता है अगर इलाज न हो। यह ब्लड पॉइजनिंग (सेप्सिस), किडनी को नुकसान, और दोहरी किडनी की समस्या कर सकता है। समय पर इलाज ज़रूरी है।"
+                    "text": "हाँ, किडनी इन्फेक्शन गंभीर हो सकता है अगर इलाज न हो। यह ब्लड पॉइजनिंग (सेप्सिस), किडनी को नुकसान, और किडनी में scarring (निशान) कर सकता है। समय पर इलाज ज़रूरी है।"
                 }
             },
             {
@@ -111,7 +111,7 @@ $base_url = '../';
                 "name": "किडनी इन्फेक्शन में क्या खाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "किडनी इन्फेक्शन में भरपूर पानी पिएं, Cranberry जूस पिएं (संक्रमण रोकता है), नमक कम करें, प्रोटीन युक्त खाना खाएं, और कैफीन/अल्कोहल से बचें।"
+                    "text": "किडनी इन्फेक्शन में भरपूर पानी पिएं, Cranberry उत्पाद कुछ लोगों में बार-बार होने वाले UTI का खतरा थोड़ा कम कर सकते हैं, पर ये इलाज नहीं हैं, नमक कम करें, प्रोटीन युक्त खाना खाएं, और कैफीन/अल्कोहल से बचें।"
                 }
             }
         ]
@@ -201,6 +201,7 @@ $base_url = '../';
             <h1 class="text-3xl md:text-4xl font-bold mb-4">
                 किडनी इन्फेक्शन के लक्षण और उपचार - कब अस्पताल जाएं?
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <div class="flex items-center text-sm text-white/80 space-x-4">
                 <span class="flex items-center">
                     <i data-feather="user" class="w-4 h-4 mr-1"></i>
@@ -247,7 +248,7 @@ $base_url = '../';
                 <li><strong>E. coli बैक्टीरिया</strong> - सबसे आम कारण, आंत से आता है</li>
                 <li><strong>मूत्रमार्ग संक्रमण (<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">UTI</a>)</strong> जो इलाज नहीं हुआ</li>
                 <li><strong>किडनी स्टोन</strong> - पथरी रुकावट पैदा करती है</li>
-                <li><strong>प्रेग्नेंसी</strong> - गर्भावस्था में यूरीन फ्लो प्रभावित होता है</li>
+                <li><strong>प्रेग्नेंसी</strong> - गर्भावस्था में यूरीन फ्लो प्रभावित होता है; गर्भवती महिलाओं को बुखार, कमर दर्द या पेशाब में जलन हो तो तुरंत अस्पताल जाना चाहिए</li>
                 <li><strong>डायबिटीज़</strong> - शुगर बैक्टीरिया के विकास को बढ़ावा देती है</li>
                 <li><strong>कमज़ोर इम्यून सिस्टम</strong></li>
             </ul>
@@ -386,7 +387,7 @@ $base_url = '../';
                 </div>
             </div>
 
-            <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">सामान्यतः इस्तेमाल होने वाली दवाइयाँ:</h3>
+            <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">एंटीबायोटिक का चुनाव urine culture रिपोर्ट, उम्र, pregnancy और किडनी की स्थिति देखकर डॉक्टर तय करते हैं - खुद से कोई एंटीबायोटिक शुरू न करें।</h3>
             <ul class="list-disc pl-6 mb-6 text-gray-700 space-y-2">
                 <li><strong>Ciprofloxacin</strong> - फ्लोरोक्विनोलोन एंटीबायोटिक</li>
                 <li><strong>Levofloxacin</strong> - श्वसन और मूत्र संक्रमण के लिए</li>
@@ -412,7 +413,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">भरपूर पानी पिएं</h4>
-                        <p class="text-gray-600 text-sm">रोज़ाना 8-10 गिलास पानी पिएं। यह बैक्टीरिया को बाहर निकालने में मदद करता है।</p>
+                        <p class="text-gray-600 text-sm">रोज़ाना 8-10 गिलास पानी पिएं (किडनी या हृदय की गंभीर बीमारी में डॉक्टर की बताई मात्रा ही लें)। यह बैक्टीरिया को बाहर निकालने में मदद करता है।</p>
                     </div>
                 </div>
 
@@ -422,7 +423,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">Cranberry जूस पिएं</h4>
-                        <p class="text-gray-600 text-sm">Cranberry में प्रोएंथोसायनिडिन होता है जो बैक्टीरिया को किडनी में चिपकने से रोकता है।</p>
+                        <p class="text-gray-600 text-sm">Cranberry में प्रोएंथोसायनिडिन होता है जो बैक्टीरिया को मूत्राशय की दीवार से चिपकने से कुछ हद तक रोक सकता है; यह एंटीबायोटिक का विकल्प नहीं है, और blood thinner (warfarin) या डायबिटीज़ वाले डॉक्टर से पूछें।</p>
                     </div>
                 </div>
 
@@ -454,7 +455,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">अभी अपॉइंटमेंट बुक करें</h3>
                         <p class="text-white/90">किडनी की समस्या होने पर विशेषज्ञ से मिलें</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>
@@ -531,7 +532,7 @@ $base_url = '../';
 
             <div class="bg-red-50 border border-red-200 rounded-lg p-4 mb-6">
                 <ul class="list-disc pl-5 text-gray-700 space-y-2">
-                    <li><strong>तेज़ बुखार</strong> (104°F से ज़्यादा) जो कम नहीं हो रहा</li>
+                    <li><strong>तेज़ बुखार</strong> (101°F या ज़्यादा), खासकर ठंड लगने या कमर दर्द के साथ</li>
                     <li><strong>भारी दर्द</strong> जो दवा से भी कम नहीं हो रहा</li>
                     <li><strong>मूत्र में खून या मवाद</strong></li>
                     <li><strong>उल्टी जो रुक नहीं रही</strong></li>
@@ -568,12 +569,12 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: किडनी इन्फेक्शन गंभीर है?</h4>
-                    <p class="text-gray-700 text-sm">हाँ, किडनी इन्फेक्शन गंभीर हो सकता है अगर इलाज न हो। यह ब्लड पॉइजनिंग (सेप्सिस), किडनी को नुकसान, और दोहरी किडनी की समस्या कर सकता है। समय पर इलाज ज़रूरी है।</p>
+                    <p class="text-gray-700 text-sm">हाँ, किडनी इन्फेक्शन गंभीर हो सकता है अगर इलाज न हो। यह ब्लड पॉइजनिंग (सेप्सिस), किडनी को नुकसान, और किडनी में scarring (निशान) कर सकता है। समय पर इलाज ज़रूरी है।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: किडनी इन्फेक्शन में क्या खाना चाहिए?</h4>
-                    <p class="text-gray-700 text-sm">किडनी इन्फेक्शन में भरपूर पानी पिएं, Cranberry जूस पिएं (संक्रमण रोकता है), नमक कम करें, प्रोटीन युक्त खाना खाएं, और कैफीन/अल्कोहल से बचें।</p>
+                    <p class="text-gray-700 text-sm">किडनी इन्फेक्शन में भरपूर पानी पिएं, Cranberry उत्पाद कुछ लोगों में बार-बार होने वाले UTI का खतरा थोड़ा कम कर सकते हैं, पर ये इलाज नहीं हैं, नमक कम करें, प्रोटीन युक्त खाना खाएं, और कैफीन/अल्कोहल से बचें।</p>
                 </div>
             </div>
 
@@ -585,7 +586,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital के नेफ्रोलॉजी विशेषज्ञ। गुर्दे की बीमारियों का प्रभावी इलाज। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital की health information team द्वारा तैयार सामान्य जानकारी। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

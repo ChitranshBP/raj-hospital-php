@@ -7,11 +7,11 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Multiple Sclerosis Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Multiple Sclerosis Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
     <meta name="description" content="Searching for Multiple Sclerosis treatment in Ranchi? Raj Hospital provides specialized neurology care, disease-modifying therapies, and neuro-rehabilitation for MS patients." />
-    <meta name="keywords" content="multiple sclerosis treatment in Ranchi, MS treatment Ranchi, neurologist for MS in Ranchi, autoimmune disease treatment Ranchi, best neurologist Ranchi" />
+    <meta name="keywords" content="multiple sclerosis treatment in Ranchi, MS treatment Ranchi, neurologist for MS in Ranchi, autoimmune disease treatment Ranchi, neurologist Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
     <link rel="canonical" href="https://rajhospitals.com/multiple-sclerosis-treatment-in-ranchi" />
@@ -68,7 +68,7 @@
           "name": "Can Multiple Sclerosis be cured?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Currently, there is clearly no definitive absolute cure for MS. However, existing modern disease-modifying therapies are profoundly effective at radically altering the disease course and preventing disabling symptoms."
+            "text": "Currently, there is clearly no definitive absolute cure for MS. However, disease-modifying therapies can reduce relapses and slow the build-up of disability, especially in relapsing forms of MS."
           }
         },
         {
@@ -76,7 +76,7 @@
           "name": "How is an acute MS relapse physically treated?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A typical relapse (or sudden flare-up) is frequently managed smoothly with a massive short course of high-dose intensive corticosteroids to abruptly reduce inflammation and rapidly accelerate natural recovery."
+            "text": "A significant relapse (flare-up) is often treated with a short course of high-dose corticosteroids, which can speed up recovery but do not change the long-term outcome; mild relapses may not need treatment. Your neurologist will decide what is appropriate."
           }
         },
         {
@@ -100,7 +100,7 @@
           "name": "Can I effectively exercise frequently with MS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Absolutely! Gentle heavily modified rigorous exercise comprehensively improves sheer strength, decreases disabling fatigue securely, and profoundly manages tight clinical nerve spasticity very favorably for long-term health."
+            "text": "Yes. Regular exercise suited to your ability, ideally planned with a physiotherapist, can improve strength and fitness, reduce fatigue and help manage spasticity."
           }
         }
 
@@ -173,8 +173,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Multiple Sclerosis Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Multiple Sclerosis Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -224,7 +224,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -242,7 +242,7 @@
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900">Lumbar Puncture (Spinal Tap)</h4>
-                                    <p class="text-gray-600">Fluid analysis to detect antibodies associated with MS.</p>
+                                    <p class="text-gray-600">Fluid analysis to look for oligoclonal bands, a marker of immune activity in the nervous system that supports an MS diagnosis.</p>
                                 </div>
                             </li>
 
@@ -287,6 +287,10 @@
                                 <input type="email" name="email" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all" placeholder="Email Address">
                             </div>
                             <input type="hidden" name="specialty" value="Multiple Sclerosis Treatment Inquiry">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200">
                                 Request Callback
                             </button>
@@ -304,8 +308,8 @@
                             </div>
                             <div class="p-5">
                                 <h3 class="text-lg font-bold text-gray-900 mb-1">Dr. Vivek Raj</h3>
-                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, MCh</p>
-                                <p class="text-secondary-600 text-sm mb-3">Neurology & Neurosurgery</p>
+                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, DNB</p>
+                                <p class="text-secondary-600 text-sm mb-3">Neurosurgery (Brain & Spine)</p>
                                 <a href="doctors/vivek-raj.php" class="block text-center w-full bg-primary-50 text-primary-600 py-2 rounded-lg border border-primary-200 hover:bg-primary-500 hover:text-white transition-colors font-medium text-sm">
                                     View Profile
                                 </a>
@@ -337,7 +341,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Currently, there is clearly no definitive absolute cure for MS. However, existing modern disease-modifying therapies are profoundly effective at radically altering the disease course and preventing disabling symptoms.</p>
+                                <p>Currently, there is clearly no definitive absolute cure for MS. However, disease-modifying therapies can reduce relapses and slow the build-up of disability, especially in relapsing forms of MS.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -346,7 +350,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>A typical relapse (or sudden flare-up) is frequently managed smoothly with a massive short course of high-dose intensive corticosteroids to abruptly reduce inflammation and rapidly accelerate natural recovery.</p>
+                                <p>A significant relapse (flare-up) is often treated with a short course of high-dose corticosteroids, which can speed up recovery but do not change the long-term outcome; mild relapses may not need treatment. Your neurologist will decide what is appropriate.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -373,7 +377,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Absolutely! Gentle heavily modified rigorous exercise comprehensively improves sheer strength, decreases disabling fatigue securely, and profoundly manages tight clinical nerve spasticity very favorably for long-term health.</p>
+                                <p>Yes. Regular exercise suited to your ability, ideally planned with a physiotherapist, can improve strength and fitness, reduce fatigue and help manage spasticity.</p>
                             </div>
                         </div>
 
@@ -430,6 +434,10 @@
                             <input type="hidden" name="specialty" value="Multiple Sclerosis Specialist Inquiry">
 
                             <!-- Submit Box -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-[#f97316] hover:bg-[#ea580c] text-white px-6 py-3.5 rounded-lg font-bold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-4 h-4"></i>

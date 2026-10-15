@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>गर्दन और सिर दर्द: कारण, लक्षण और इलाज - Complete Hindi Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists और orthopedists की advice।">
+    <meta name="description" content="गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।">
     <meta name="keywords" content="गर्दन दर्द, सिर दर्द, neck pain, headache, cervical pain, गर्दन का दर्द, सिरदर्द से छुटकारा, neck and head pain Hindi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi/">
@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "गर्दन और सिर दर्द: कारण, लक्षण और इलाज - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists और orthopedists की advice।",
+        "description": "गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।",
         "url": "https://rajhospitals.com/blog/back-head-pain-causes-treatment-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/back-head-pain-causes-treatment-hindi.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -213,6 +213,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> & Orthopedics</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">गर्दन और सिर दर्द: कारण, लक्षण और इलाज - Complete Hindi Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -258,8 +259,8 @@
                         <p class="text-sm text-gray-600">गर्दन की हड्डियों में wear and tear से यह समस्या होती है, खासकर 40-50 साल के बाद।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">4. गर्दन का रिकवerness (Herniated Disc)</h4>
-                        <p class="text-sm text-gray-600">गर्दन के बीच की चट्टानों (discs) में समस्या से नसों पर दबाव पड़ सकता है।</p>
+                        <h4 class="font-bold text-secondary-600">4. गर्दन की डिस्क खिसकना (Herniated Disc)</h4>
+                        <p class="text-sm text-gray-600">गर्दन की हड्डियों के बीच की गद्दियों (discs) में समस्या से नसों पर दबाव पड़ सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. मानसिक तनाव (<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a>)</h4>
@@ -290,7 +291,6 @@
                             <li>एक तरफ या दोनों तरफ दर्द</li>
                             <li>दर्द ज्यादातर गर्दन के पीछे</li>
                             <li>दर्द की तीव्रता धीरे-धीरे बढ़ना</li>
-                            <li>नज़रों में धुंधलापन</li>
                         </ul>
                     </div>
                 </div>
@@ -309,7 +309,7 @@
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> स्ट्रेचिंग एक्सरसाइज़</h4>
-                        <p class="text-sm text-gray-600">गर्दन की सरल स्ट्रेचिंग एक्सरसाइज़ करें। सिर को धीरे-धीरे आगे, पीछे, दाएं और बाएं घुमाएं।</p>
+                        <p class="text-sm text-gray-600">गर्दन की सरल स्ट्रेचिंग एक्सरसाइज़ करें। सिर को धीरे-धीरे आगे-पीछे और दाएं-बाएं झुकाएं; दर्द, चक्कर या हाथों में झनझनाहट हो तो रोकें और physiotherapist से सलाह लें।</p>
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> मालिश</h4>
@@ -336,7 +336,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको गर्दन और सिर दर्द की जांच की जरूरत है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में MRI, X-Ray, और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> experts available हैं।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में MRI, X-Ray, और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> विभाग उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -350,7 +350,7 @@
                         <li>हाथों या पैरों में सुन्नपन या कमज़ोरी हो</li>
                         <li>चक्कर आना या संतुलन बिगड़ना</li>
                         <li>दृष्टि में धुंधलापन या दोहरी दृष्टि</li>
-                        <li>बुखार के साथ गर्दन दर्द हो</li>
+                        <li>बुखार के साथ गर्दन में अकड़न हो, या अचानक बहुत तेज़ सिरदर्द हो — ऐसे में तुरंत Emergency जाएं</li>
                         <li>दर्द हफ्तों से ज्यादा समय से हो</li>
                         <li>बेहोशी जैसे लक्षण हों</li>
                     </ul>
@@ -409,8 +409,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">गर्दन और सिर दर्द: कारण, लक्षण और इलाज पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists और orthopedists की advice।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">गर्दन और सिर दर्द: कारण, लक्षण और इलाज पर ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">गर्दन और सिर दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। जानें कब डॉक्टर को दिखाना है। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। गर्दन और सिर दर्द: कारण, लक्षण और इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -423,7 +423,7 @@
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/sir-ke-piche-dard-hona/" class="text-secondary-600 hover:underline font-semibold">सिर के पीछे दर्द होना — कारण और उपचार (RAJ Hospital, Ranchi)</a></li>
                         <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: माइग्रेन के लक्षण - कारण, प्रकार और इलाज</a></li>
-                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Treatment Ranchi - Best Orthopedic Care</a></li>
+                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> Treatment Ranchi - Orthopedic Care</a></li>
                         <li><a href="/blog/fits-ka-ilaj.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Fits Ka Ilaj - Epilepsy Treatment in Hindi</a></li>
                         <li><a href="/blog/gas-se-peeth-dard-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi</a></li>
                         <li><a href="/blog/headaches-types-causes-treatment-solutions.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Headaches Types, Causes aur Treatment Solutions</a></li>
@@ -453,7 +453,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -462,8 +462,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Neurologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

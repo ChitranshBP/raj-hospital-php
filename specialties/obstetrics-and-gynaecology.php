@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Obstetrics & Gynaecology Hospital in Ranchi | Best Gynaecologist in Ranchi – Raj Hospital</title>
+    <title>Obstetrics & Gynaecology Hospital in Ranchi | Gynaecologist in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best obstetrics and gynaecology hospitals in Ranchi offering maternity care, pregnancy services and expert gynaecologists." />
+        content="Raj Hospital is an obstetrics and gynaecology hospital in Ranchi offering maternity care, pregnancy services and expert gynaecologists." />
 
     <meta name="robots" content="index, follow" />
 
@@ -44,11 +44,6 @@ Pregnancy Care Hospital in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -90,10 +85,10 @@ Pregnancy Care Hospital in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best obstetrics and gynaecology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer obstetrics and gynaecology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best obstetrics and gynaecology hospitals in Ranchi providing comprehensive women healthcare."
+        "text": "Yes, Raj Hospital in Ranchi provides comprehensive women's healthcare."
       }
     },
     {
@@ -248,7 +243,7 @@ Pregnancy Care Hospital in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Obstetrics & Gynaecology</h1>
-                    <p class="text-xl text-gray-200">Best Hospital in Ranchi for Pregnancy Delivery & Gynecology Care
+                    <p class="text-xl text-gray-200">Hospital in Ranchi for Pregnancy Delivery & Gynecology Care
                         with expert gynecologists for high-risk pregnancy and infertility.</p>
                 </div>
             </div>
@@ -268,7 +263,7 @@ Pregnancy Care Hospital in Jharkhand
                             From adolescence to menopause, we offer expert services in maternity care, high-risk
                             pregnancy management, infertility treatment, and minimally invasive gynaecological
                             surgeries. With a team of highly experienced gynaecologists and a patient-centric approach,
-                            we ensure the safest delivery experience and best health outcomes for mother and child.</p>
+                            we aim for a safe delivery experience and good health outcomes for mother and child.</p>
 
                         <!-- Why Choose Us Box -->
                         <div class="bg-primary-50 p-6 rounded-xl border border-primary-100 mb-8">
@@ -596,7 +591,7 @@ Pregnancy Care Hospital in Jharkhand
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">High Risk Pregnancy</h3>
-                        <p class="text-gray-600 mb-4">Specialized care for complicated pregnancies ensuring safety of
+                        <p class="text-gray-600 mb-4">Specialized care for complicated pregnancies focused on the safety of
                             both mother and baby.</p>
                     </div>
                 </div>
@@ -625,8 +620,8 @@ Pregnancy Care Hospital in Jharkhand
                             class="w-full h-full object-cover hover:scale-105 transition-transform duration-300">
                     </div>
                     <div class="p-6">
-                        <h3 class="text-xl font-semibold text-gray-900 mb-3">Normal & Painless Delivery</h3>
-                        <p class="text-gray-600 mb-4">Promoting natural birth with options for painless labour and
+                        <h3 class="text-xl font-semibold text-gray-900 mb-3">Normal Delivery & Labour Analgesia</h3>
+                        <p class="text-gray-600 mb-4">Promoting natural birth with options for labour pain relief and
                             epidural analgesia.</p>
                     </div>
                 </div>
@@ -709,57 +704,6 @@ Pregnancy Care Hospital in Jharkhand
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Joyful stories of new beginnings and restored health
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="heart" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">High-Risk Pregnancy Success</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mrs. Riya</p>
-                    <p class="text-gray-700 mb-6">"I had a complicated pregnancy with high BP. The doctors at Raj
-                        Hospitals took exceptional care of me and delivered my healthy baby girl safely."</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Safe delivery of a healthy baby.</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="heart" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Infertility Treatment Joy</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mrs. Anjali</p>
-                    <p class="text-gray-700 mb-6">"After years of trying, we consulted Dr. Sweta Lal. With her expert
-                        guidance and treatment, we are now proud parents of twins."</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Successful conception and delivery.</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
@@ -779,13 +723,13 @@ Pregnancy Care Hospital in Jharkhand
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Is painless delivery available at
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Is labour pain relief (epidural) available at
                                     Raj Hospitals?</h3>
                                 <i data-feather="plus"
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, we offer painless normal delivery options such as epidural analgesia for a
+                                <p>Yes, we offer labour pain relief options such as epidural analgesia for a
                                     comfortable birthing experience.</p>
                             </div>
                         </div>
@@ -888,6 +832,10 @@ Pregnancy Care Hospital in Jharkhand
                             <input type="hidden" name="specialty" value="Obstetrics & Gynaecology">
 
                             <!-- Submit Button -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-5 h-5"></i>

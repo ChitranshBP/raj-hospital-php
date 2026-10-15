@@ -139,7 +139,7 @@
                 "name": "How much calcium and vitamin D do adults need for bone health?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Most adults need roughly 1000 to 1200 mg of calcium daily, ideally from food such as milk, curd, paneer, ragi, sesame seeds, green leafy vegetables and small fish eaten with bones. Vitamin D is needed for calcium to be absorbed at all, and deficiency is extremely common in India despite the sunshine, because of indoor lifestyles, covering clothing and darker skin. Vitamin D requirements are individual, so dosing should follow a blood level rather than guesswork."
+                    "text": "Most adults need roughly 1000 to 1200 mg of calcium daily, ideally from food such as milk, curd, paneer, ragi, sesame seeds, green leafy vegetables and small fish eaten with bones. Vitamin D is needed for calcium to be absorbed efficiently, and deficiency is extremely common in India despite the sunshine, because of indoor lifestyles, covering clothing and darker skin. Vitamin D requirements are individual, so dosing should follow a blood level rather than guesswork."
                 }
             },
             {
@@ -196,9 +196,10 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-accent-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Orthopaedics · World Osteoporosis Day</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">World Osteoporosis Day: The Bone-Density Test Nobody Schedules After 50</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Orthopaedics Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Ranchi</span>
                 </div>
             </div>
 
@@ -218,7 +219,7 @@
                     Bone is not inert scaffolding. It is living tissue in constant turnover, with cells called osteoclasts removing old bone and osteoblasts laying down new bone. Through youth, building outpaces removal. Peak bone mass is reached around the late twenties. After that the two roughly balance for a couple of decades, and then removal starts to win.
                 </p>
                 <p class="text-gray-700 mb-4">
-                    In women, this tips sharply at menopause. Oestrogen restrains the bone-removing cells, and when it falls, they work unopposed. The years immediately around and after menopause see the steepest bone loss of a woman's life, and it happens with no sensation whatsoever, because <strong>bone tissue itself has no pain fibres inside it</strong>. Pain comes from the periosteum covering the bone, from muscle and from nerves, none of which are affected by thinning within. A bone can lose a third of its density and feel exactly like it did at thirty.
+                    In women, this tips sharply at menopause. Oestrogen restrains the bone-removing cells, and when it falls, they work unopposed. The years immediately around and after menopause see the steepest bone loss of a woman's life, and it happens with no sensation whatsoever, because <strong>the slow thinning inside bone does not trigger pain</strong>. Pain comes from the periosteum covering the bone, from muscle and from nerves, none of which are affected by thinning within. A bone can lose a third of its density and feel exactly like it did at thirty.
                 </p>
                 <p class="text-gray-700 mb-4">
                     What you might notice, if you are paying close attention over years, are indirect clues rather than symptoms:
@@ -362,7 +363,7 @@
                 <!-- CTA -->
                 <div class="bg-gradient-to-r from-accent-500 to-primary-600 rounded-xl p-6 md:p-8 my-8 shadow-md">
                     <h3 class="text-xl md:text-2xl font-bold text-white mb-2">Book the scan you have been meaning to book</h3>
-                    <p class="text-white/90 mb-5">Raj Hospitals, Bariatu Road, Ranchi offers bone density assessment with same-day reporting, plus calcium, vitamin D and thyroid blood work in one visit. Fifteen minutes now beats a hip fracture later.</p>
+                    <p class="text-white/90 mb-5">Raj Hospitals, Bariatu Road, Ranchi offers bone density assessment with same-day reporting, plus calcium, vitamin D and thyroid blood work in one visit. </p>
                     <div class="flex flex-wrap gap-3">
                         <a href="/find-a-doctor" class="inline-block bg-white text-primary-600 font-semibold px-5 py-3 rounded-lg hover:bg-gray-100 transition">Book a Bone Health Assessment &rarr;</a>
                         <a href="tel:+919771488888" class="inline-block bg-black/25 text-white font-semibold px-5 py-3 rounded-lg hover:bg-black/40 transition">Call +91 97714 88888</a>
@@ -389,7 +390,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">How much calcium and vitamin D do adults need for bone health?</h3>
-                        <p class="text-gray-700">Roughly 1000 to 1200 mg of calcium daily for most adults, ideally from milk, curd, paneer, ragi, sesame, green leafy vegetables and small fish eaten with bones. Vitamin D is needed for calcium to be absorbed at all, and deficiency is common in India despite the sunshine. Vitamin D dosing should follow a measured blood level rather than guesswork.</p>
+                        <p class="text-gray-700">Roughly 1000 to 1200 mg of calcium daily for most adults, ideally from milk, curd, paneer, ragi, sesame, green leafy vegetables and small fish eaten with bones. Vitamin D is needed for calcium to be absorbed efficiently, and deficiency is common in India despite the sunshine. Vitamin D dosing should follow a measured blood level rather than guesswork.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">What exercise actually strengthens bone?</h3>
@@ -427,7 +428,7 @@
                     <div class="w-16 h-16 shrink-0 rounded-full bg-accent-500 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Orthopaedics Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Medically reviewed by our consultant orthopaedic surgeons and physicians &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <p class="text-sm text-gray-500">General health information from Raj Hospitals Ranchi &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

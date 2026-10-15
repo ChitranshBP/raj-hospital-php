@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Best Eye Hospital in Ranchi – Raj Hospital</title>
+    <title>Eye Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best eye care hospitals in Ranchi offering advanced eye treatment, experienced ophthalmologists and modern eye care facilities." />
+        content="Raj Hospital is an eye care hospital in Ranchi offering advanced eye treatment, experienced ophthalmologists and modern eye care facilities." />
 
     <meta name="robots" content="index, follow" />
 
@@ -44,11 +44,6 @@ Eye Care Clinic in Jharkhand
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -90,10 +85,10 @@ Eye Care Clinic in Jharkhand
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best eye care hospital in Ranchi?",
+      "name": "Does Raj Hospital offer eye care in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best eye care hospitals in Ranchi offering advanced diagnosis and treatment for eye conditions."
+        "text": "Yes, Raj Hospital in Ranchi offers diagnosis and treatment for eye conditions."
       }
     },
     {
@@ -190,7 +185,7 @@ Eye Care Clinic in Jharkhand
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Eye Care</h1>
-                    <p class="text-xl text-gray-200">Best eye hospital in Ranchi offering advanced treatments for
+                    <p class="text-xl text-gray-200">Eye hospital in Ranchi offering advanced treatments for
                         cataract, LASIK, glaucoma, and comprehensive vision care</p>
                 </div>
             </div>
@@ -204,10 +199,10 @@ Eye Care Clinic in Jharkhand
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Eye Care Department at Raj Hospitals,
-                            Ranchi, is recognized as a leading center for comprehensive eye care in Jharkhand. Equipped
-                            with state-of-the-art clinical care and infrastructure, we offer a full spectrum of
+                            Ranchi, provides comprehensive eye care in Jharkhand. Equipped
+                            with modern clinical care and infrastructure, we offer a full spectrum of
                             diagnostic, medical, and surgical services for eye conditions. Our team of expert
-                            ophthalmologists and surgeons provides personalized treatment using the latest technologies
+                            ophthalmologists and surgeons provides personalized treatment using modern technologies
                             for LASIK (WaveFront & Standard), cataract surgery, glaucoma care, eye ultrasounds, cornea
                             and retina procedures, pediatric ophthalmology, and low vision aids.</p>
 
@@ -221,7 +216,7 @@ Eye Care Clinic in Jharkhand
                                         class="text-gray-700">Modern operation theatres for eye surgeries</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
-                                        class="text-gray-700">State-of-the-art diagnostic imaging (OCT,
+                                        class="text-gray-700">Modern diagnostic imaging (OCT,
                                         ultrasound)</span></li>
                                 <li class="flex items-start"><i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i><span
@@ -249,7 +244,7 @@ Eye Care Clinic in Jharkhand
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div><span
-                                        class="text-gray-700">State-of-the-art diagnostic imaging (OCT,
+                                        class="text-gray-700">Modern diagnostic imaging (OCT,
                                         ultrasound)</span>
                                 </div>
                             </div>
@@ -451,48 +446,6 @@ Eye Care Clinic in Jharkhand
         </div>
     </section>
 
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Real stories of healing and recovery from our Eye
-                    Care department</p>
-            </div>
-            <div class="grid md:grid-cols-2 gap-8">
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="eye" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Cataract Improved Within a Week</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Anus</p>
-                    <p class="text-gray-700 mb-6">Visited Raj Hospitals after years of redness in the eyes, found
-                        drastic improvement (almost 80%) in a week with the suggested medication and cataract treatment.
-                    </p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Significant recovery from chronic eye redness and improved vision</span></div>
-                    </div>
-                </div>
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center"><i
-                                data-feather="eye" class="w-5 h-5 text-primary-600"></i></div>
-                        <h3 class="text-xl font-semibold text-gray-900">Successful LASIK for Clear Vision</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: John</p>
-                    <p class="text-gray-700 mb-6">Opted for LASIK surgery at Raj Hospitals and experienced perfect
-                        vision without complications. Highly impressed by the expertise and care.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2"><i data-feather="check"
-                                class="w-5 h-5 text-green-600"></i><span class="font-medium text-green-800">Outcome:
-                                Successful LASIK surgery and excellent visual outcome</span></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="py-8 bg-white">
         <div class="max-w-7xl mx-auto px-4">
@@ -507,12 +460,12 @@ Eye Care Clinic in Jharkhand
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">What is the best treatment for
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">What are the treatment options for poor
                                     eyesight?</h3><i data-feather="plus"
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Laser vision surgery is a popular treatment for refractive errors. It can reduce or
+                                <p>Glasses and contact lenses are the usual first options; for suitable adults, laser vision surgery is a popular treatment for refractive errors. It can reduce or
                                     eliminate the need for glasses or contacts by reshaping the cornea for optimal
                                     focus.</p>
                             </div>
@@ -545,12 +498,12 @@ Eye Care Clinic in Jharkhand
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer"
                             onclick="toggleFaq(this)">
                             <div class="flex justify-between items-center">
-                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Which fruit is best for the eyes?
+                                <h3 class="text-lg font-semibold text-gray-900 mb-3">Which fruits are good for the eyes?
                                 </h3><i data-feather="plus"
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Fruits like oranges, papayas, and carrots rich in Vitamin A and C are beneficial for
+                                <p>Fruits like oranges and papayas, and vegetables like carrots, rich in Vitamin A and C are beneficial for
                                     eye health.</p>
                             </div>
                         </div>
@@ -582,6 +535,10 @@ Eye Care Clinic in Jharkhand
                                     class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
                                     placeholder="Describe your question or concern..."></textarea></div>
                             <input type="hidden" name="specialty" value="Eye Care">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2"><i
                                     data-feather="send" class="w-5 h-5"></i>Submit Inquiry</button>

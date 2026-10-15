@@ -7,14 +7,14 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital</title>
+    <title>Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Anxiety symptoms in men - recognize stress, anxiety attack symptoms, and mental health issues. Learn about high anxiety symptoms, signs of stress, and when to seek help. Complete Hindi/English guide.">
     <meta name="keywords" content="anxiety symptoms in men, stress symptoms in men, anxiety attack symptoms male, symptoms of stress in men, symptoms of anxiety in men, signs of stress in men, high anxiety symptoms">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/">
 
     <meta property="og:title" content="Anxiety Symptoms in Men | Stress & Mental Health Issues Signs">
-    <meta property="og:description" content="Learn about anxiety symptoms in men, stress symptoms, anxiety attack symptoms, and mental health issues. Complete guide by RAJ Hospital specialists.">
+    <meta property="og:description" content="Learn about anxiety symptoms in men, stress symptoms, anxiety attack symptoms, and mental health issues. Health awareness guide by RAJ Hospital.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या Anxiety Symptoms in Men | Stress & Mental Health Issues Signs दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital",
+        "headline": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital",
         "description": "Anxiety symptoms in men - recognize stress, anxiety attack symptoms, and mental health issues. Learn about high anxiety symptoms, signs of stress, and when to seek help. Complete Hindi/English guide.",
         "url": "https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital"
+                "name": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Mental Health</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Signs of Stress & Mental Health Issues</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -247,7 +248,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">Important Fact:</strong>
-                    <span class="text-gray-700"> According to mental health studies, 1 in 5 men experience anxiety or depression, but only a small percentage seek treatment. It's time to break the stigma.</span>
+                    <span class="text-gray-700"> Anxiety and depression are common in men, but many do not seek treatment. It's time to break the stigma.</span>
                 </div>
 
                 <!-- Section 2: Physical Symptoms -->
@@ -375,7 +376,7 @@
                     <li><strong>Panic attacks</strong> occurring frequently (more than once a week)</li>
                     <li><strong>Using alcohol or drugs</strong> to cope with anxiety</li>
                     <li><strong>Withdrawing from loved ones</strong> completely</li>
-                    <li><strong>Thoughts of self-harm</strong> or suicide</li>
+                    <li><strong>Thoughts of self-harm</strong> or suicide – seek help immediately (Tele-MANAS 14416, free 24x7 helpline, or 112 in an emergency)</li>
                     <li><strong>Unable to perform</strong> at work or daily responsibilities</li>
                     <li><strong>Sleep completely disrupted</strong> for extended periods</li>
                 </ul>
@@ -384,7 +385,7 @@
                 <h2 class="raj-h2">Treatment Options for Anxiety in Men</h2>
 
                 <p class="text-gray-700 mb-4">
-                    The good news is that <strong>anxiety is highly treatable</strong>. At RAJ Hospital, we offer comprehensive mental health services including:
+                    The good news is that <strong>anxiety is highly treatable</strong>. Treatment options may include:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -394,7 +395,7 @@
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700 mb-2"><i data-feather="activity" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Medication</h4>
-                        <p class="text-sm text-gray-600">Antidepressants and anti-anxiety medications can help manage symptoms effectively.</p>
+                        <p class="text-sm text-gray-600">Antidepressants or other medicines, prescribed and monitored by a psychiatrist, can help manage symptoms. Do not start or stop these medicines on your own.</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700 mb-2"><i data-feather="user" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Lifestyle Changes</h4>
@@ -409,7 +410,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need Help with Anxiety or Stress?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers confidential mental health consultation with experienced psychiatrists and counselors.</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers confidential mental health consultation.</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -446,7 +447,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">When should men seek help for anxiety?</h4>
-                        <p class="text-gray-700">Men should seek help when <strong>symptoms of anxiety</strong> persist for more than 2 weeks, interfere with daily life, cause panic attacks, lead to substance use, or include thoughts of self-harm.</p>
+                        <p class="text-gray-700">Men should seek help when <strong>symptoms of anxiety</strong> persist for more than 2 weeks, interfere with daily life, cause panic attacks or lead to substance use. If there are any thoughts of self-harm or suicide – seek help immediately (Tele-MANAS 14416, free 24x7 helpline, or 112 in an emergency), do not wait — seek help immediately: call Tele-MANAS 14416 (free, 24x7), dial 112 in an emergency, or go to the nearest hospital emergency.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Is anxiety treatable in men?</h4>
@@ -455,7 +456,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Anxiety Symptoms in Men | Stress &amp; Mental Health Issues Signs पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Anxiety Symptoms in Men | Stress &amp; Mental Health Issues Signs पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Anxiety symptoms in men - recognize stress, anxiety attack symptoms, and mental health issues. Learn about high anxiety symptoms, signs of stress, and when to seek help. Complete Hindi/English guide.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Anxiety Symptoms in Men | Stress &amp; Mental Health Issues Signs शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -498,7 +499,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -507,8 +508,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Psychiatrist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

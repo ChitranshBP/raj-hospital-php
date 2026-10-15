@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Joint Replacement Recovery: An Honest Week-by-Week Timeline">
-    <meta property="og:description" content="Not the sanitised brochure version. What week one actually feels like, when the walking aid goes, and what patients say surprised them.">
+    <meta property="og:description" content="Not the sanitised brochure version. What week one actually feels like, when the walking aid goes, and common surprises during recovery.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/knee-replacement-recovery-timeline/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/knee-replacement-recovery-timeline.jpg">
@@ -115,7 +115,7 @@
                 "name": "How painful is the first week after knee replacement?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The first week is the hardest part, and it is best described as demanding rather than unbearable. Modern practice uses multimodal pain control, combining regional nerve blocks given during surgery, scheduled oral medication and ice, so most patients report pain that is manageable enough to allow walking on day one. The genuinely unpleasant part is not resting pain but the effort of physiotherapy while the knee is swollen and stiff."
+                    "text": "The first week is the hardest part, and it is better described as demanding rather than unbearable. Modern practice uses multimodal pain control, combining regional nerve blocks given during surgery, scheduled oral medication and ice, so most patients report pain that is manageable enough to allow walking on day one. The genuinely unpleasant part is not resting pain but the effort of physiotherapy while the knee is swollen and stiff."
                 }
             },
             {
@@ -196,9 +196,10 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Orthopaedics &amp; Joint Replacement</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Joint Replacement Recovery: An Honest Week-by-Week Timeline</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Orthopaedics &amp; Joint Replacement Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Ranchi Editorial Team</span>
                 </div>
             </div>
 
@@ -210,7 +211,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-secondary-600">The honest summary:</strong>
-                    <span class="text-gray-700"> Week one is genuinely hard work. Weeks two to six are steady, unglamorous physiotherapy that determines your final result. By three months most people have forgotten they were ever worried. Hip replacement usually recovers a little faster than knee replacement in the first six weeks. Full settling, including the last of the swelling, takes up to a year. Everything below assumes a straightforward case managed by our <a href="/specialties/orthopaedics-and-joint-replacement" class="text-secondary-600 hover:underline font-semibold">orthopaedics and joint replacement team in Ranchi</a>.</span>
+                    <span class="text-gray-700"> Week one is genuinely hard work. Weeks two to six are steady, unglamorous physiotherapy that determines your final result. By three months many people are back to most daily activities, though recovery varies. Hip replacement usually recovers a little faster than knee replacement in the first six weeks. Full settling, including the last of the swelling, takes up to a year. Everything below assumes a straightforward case managed by our <a href="/specialties/orthopaedics-and-joint-replacement" class="text-secondary-600 hover:underline font-semibold">orthopaedics and joint replacement team in Ranchi</a>.</span>
                 </div>
 
                 <h2 class="raj-h2"><i data-feather="sunrise" class="raj-h2-icon"></i> Week 1: What Pain Control and Mobility Actually Look Like</h2>
@@ -291,9 +292,9 @@
                     <strong>The question every Indian patient asks:</strong> can I sit cross-legged and squat again? Be wary of anyone who answers this breezily. After a conventional total knee replacement, deep squatting, floor sitting and kneeling are generally discouraged, because they load the implant heavily and can shorten its life. Many patients regain enough bend to manage these occasionally, but they are not recommended as a daily habit. If floor-level living, Indian-style toilets or floor seating are unavoidable in your home, raise it <em>before</em> surgery. It genuinely affects planning, implant choice and the home modifications worth making in advance.
                 </p>
 
-                <h2 class="raj-h2"><i data-feather="message-square" class="raj-h2-icon"></i> What Patients Say Surprised Them, Honestly</h2>
+                <h2 class="raj-h2"><i data-feather="message-square" class="raj-h2-icon"></i> Common Experiences During Recovery</h2>
                 <p class="text-gray-700 mb-4">
-                    These are the things that come up in follow-up clinic again and again, and almost none of them appear in patient information leaflets.
+                    These are common experiences during recovery that are worth knowing in advance.
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>"Nobody told me I would be standing the same day."</strong> Most people expect a week of bed rest and are alarmed when asked to stand within hours. It is deliberate and it is safe.</li>
@@ -302,7 +303,7 @@
                     <li><strong>"The knee felt warm for months."</strong> Warmth and mild swelling around the joint can persist for six to twelve months. On its own, without fever or spreading redness, it is normal healing.</li>
                     <li><strong>"There is a numb patch on the outer side of the scar."</strong> Almost universal after knee replacement. Small skin nerves are unavoidably cut during the incision. It shrinks over time and is harmless.</li>
                     <li><strong>"It clicks."</strong> Occasional clicking or a soft clunk from a metal and plastic joint is expected and is not a sign of loosening.</li>
-                    <li><strong>"I wish I had done it four years earlier."</strong> The most common statement of all, and the reason this article exists. Waiting until walking is severely limited means starting rehabilitation with weaker muscles, which slows everything.</li>
+                    <li><strong>""</strong> The most common statement of all, and the reason this article exists. Waiting until walking is severely limited means starting rehabilitation with weaker muscles, which slows everything.</li>
                     <li><strong>"Sleep was the worst part."</strong> Disturbed sleep for the first few weeks affects mood and makes everything feel harder. Say so at follow-up, because it can be helped.</li>
                 </ul>
 
@@ -320,7 +321,7 @@
                     Surgery is usually <strong>deferred</strong> for the following, most of which are correctable rather than permanent barriers:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Any active infection</strong> anywhere in the body, including dental abscesses, skin infections and <a href="/blog/urine-infection-symptoms-in-men-in-hindi/" class="text-secondary-600 hover:underline font-semibold">urinary tract infections</a>. Bacteria can seed onto a new implant. Dental work is best completed before surgery.</li>
+                    <li><strong>Any active infection</strong> anywhere in the body, including dental abscesses, skin infections and <a href="/blog/urine-infection-symptoms-in-men-in-hindi/" class="text-secondary-600 hover:underline font-semibold">urinary tract infections</a>. Bacteria can seed onto a new implant. Dental work should ideally be completed before surgery.</li>
                     <li><strong>Poorly controlled diabetes.</strong> High blood sugar substantially raises infection and wound healing risk. Getting <a href="/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike/" class="text-secondary-600 hover:underline font-semibold">diabetes under proper control</a> first is one of the highest-value things a patient can do, and our <a href="/specialties/internal-medicine" class="text-secondary-600 hover:underline font-semibold">internal medicine team</a> works alongside the surgeons on this.</li>
                     <li><strong>Unstable heart or lung disease.</strong> Needs assessment and optimisation first. Anyone with cardiac history should read our guide on <a href="/blog/silent-heart-attack-symptoms/" class="text-secondary-600 hover:underline font-semibold">atypical cardiac symptoms</a> before any elective surgery.</li>
                     <li><strong>Current smoking.</strong> It measurably impairs wound healing and bone integration. Stopping several weeks before surgery genuinely changes outcomes.</li>
@@ -398,7 +399,7 @@
                     <div class="w-16 h-16 shrink-0 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Orthopaedics &amp; Joint Replacement Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Medically reviewed by our consultant orthopaedic surgeons &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <p class="text-sm text-gray-500"><a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

@@ -8,10 +8,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. A K Sinha – Internal Medicine in Ranchi</title>
-    <meta name="description" content="Dr. A K Sinha is a highly experienced Internal Medicine specialist at Raj Hospital Ranchi with 25+ years expertise in chronic diseases and metabolic disorders.">
-    <meta name="keywords" content="Dr. A K Sinha, Internal Medicine in Ranchi, Best Internal Medicine in Ranchi, Dr. A K Sinha Raj Hospital Ranchi, internal medicine doctor Ranchi">
+    <meta name="description" content="Dr. A K Sinha is an experienced Internal Medicine specialist at Raj Hospital Ranchi with 25+ years expertise in chronic diseases and metabolic disorders.">
+    <meta name="keywords" content="Dr. A K Sinha, Internal Medicine in Ranchi, Internal Medicine specialist in Ranchi, Dr. A K Sinha Raj Hospital Ranchi, internal medicine doctor Ranchi">
     <meta property="og:title" content="Dr. A K Sinha – Internal Medicine in Ranchi">
-    <meta property="og:description" content="Dr. A K Sinha is a highly experienced Internal Medicine specialist at Raj Hospital Ranchi with 25+ years expertise in chronic diseases and metabolic disorders.">
+    <meta property="og:description" content="Dr. A K Sinha is an experienced Internal Medicine specialist at Raj Hospital Ranchi with 25+ years expertise in chronic diseases and metabolic disorders.">
     <meta property="og:type" content="profile">
     <meta property="og:url" content="https://rajhospitals.com/doctors/ak-sinha">
     <meta property="og:site_name" content="Raj Hospitals, Ranchi">
@@ -80,7 +80,7 @@
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. A K Sinha",
-    "description": "Dr. A.K. Sinha is a highly experienced Internal Medicine specialist at Raj Hospital, Ranchi, with over 25 years of expertise. He provides expert diagnosis and treatment for chronic diseases, metabolic disorders, and comprehensive health management.",
+    "description": "Dr. A.K. Sinha is an experienced Internal Medicine specialist at Raj Hospital, Ranchi, with over 25 years of expertise. He provides diagnosis and treatment for chronic diseases, metabolic disorders, and comprehensive health management.",
     "medicalSpecialty": "Internal Medicine",
     "qualifications": "MBBS, MD (Medicine)",
     "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Internal Medicine - Dr. A K-Sinha.webp",
@@ -164,6 +164,10 @@
                             class="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none"
                             name="phone" placeholder="Enter 10-digit mobile number">
                     </div>
+                    <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                        <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                        <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                    </label>
                     <button type="submit"
                         class="w-full bg-primary-500 hover:bg-primary-600 text-white px-4 py-2.5 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2 text-sm">
                         <i data-feather="calendar" class="w-4 h-4"></i> Submit Request
@@ -274,6 +278,10 @@
                                     <input type="tel" name="phone" placeholder="Enter mobile number" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none">
                                     <input type="email" name="email" placeholder="Enter email" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none">
                                     <textarea rows="3" name="message" placeholder="Type your query" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none"></textarea>
+                                    <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                        <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                        <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                                    </label>
                                     <button type="submit" class="w-full bg-primary-500 text-white font-semibold px-4 py-2 rounded-lg hover:bg-primary-600 transition-colors shadow-sm">Submit</button>
                                 </form>
                             </div>

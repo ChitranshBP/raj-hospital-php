@@ -15,7 +15,7 @@
     <meta name="author" content="RAJ Hospital Ranchi">
 
     <meta property="og:title" content="पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms After 1 Year in Hindi">
-    <meta property="og:description" content="HIV infection के 1 साल बाद पुरुषों में दिखने वाले symptoms और उपचार options। Complete Hindi guide by RAJ Hospital experts।">
+    <meta property="og:description" content="HIV infection के 1 साल बाद पुरुषों में दिखने वाले symptoms और उपचार options। Complete Hindi guide by RAJ Hospital।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/hiv-symptoms-in-men-after-1-year/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/hiv-symptoms-in-men-after-1-year.png">
@@ -138,7 +138,7 @@
                 'name' => 'पुरुषों में HIV के 1 साल बाद skin symptoms क्या होते हैं?',
                 'acceptedAnswer' => [
                     '@type' => 'Answer',
-                    'text' => '1 साल बाद skin problems में rashes, fungal infections (oral thrush), herpes simplex, seborrheic dermatitis, और unexplained bruises/shots हो सकते हैं। Skin changes often immune system की weakness का sign होते हैं।'
+                    'text' => '1 साल बाद skin problems में rashes, fungal infections (oral thrush), herpes simplex, seborrheic dermatitis, और unexplained bruises हो सकते हैं। Skin changes often immune system की weakness का sign होते हैं।'
                 ]
             ],
             [
@@ -206,7 +206,7 @@
             "name": "इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -278,10 +278,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -342,6 +342,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-teal-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Infectious Diseases</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -372,7 +373,7 @@
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
-                        <h4 class="font-bold text-teal-600">Acute HIV Infection (0-6 months)</h4>
+                        <h4 class="font-bold text-teal-600">Acute HIV Infection (पहले 2-12 हफ्ते)</h4>
                         <p class="text-sm text-gray-600">Initial stage में flu-like symptoms, fever, rash, और fatigue हो सकती है। यह period infection के बाद 2-4 weeks में शुरू होता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
@@ -381,7 +382,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">Symptomatic HIV (1 साल बाद)</h4>
-                        <p class="text-sm text-gray-600">1 साल बाद अगर treatment नहीं हुई, तो symptoms more prominent होने लगते हैं। Immune system gradually weak होता है।</p>
+                        <p class="text-sm text-gray-600">ज़्यादातर लोगों में 1 साल पर कोई खास लक्षण नहीं होते, लेकिन virus immune system को धीरे-धीरे कमजोर करता रहता है। इसलिए लक्षणों का इंतज़ार किए बिना test करवाएं। Immune system gradually weak होता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">AIDS (Without Treatment)</h4>
@@ -434,7 +435,7 @@
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Testing कब करवानी चाहिए:</strong>
                     <ul class="text-gray-700 mt-2 space-y-1 list-disc list-inside">
-                        <li>Unprotected sexual contact के 3 months बाद</li>
+                        <li>Unprotected sexual contact के बाद (72 घंटे के अंदर हो तो तुरंत doctor/ICTC से PEP के बारे में पूछें; test 4-6 हफ्ते और फिर 3 महीने बाद करवाएं)</li>
                         <li>Sharing needles के exposure के बाद</li>
                         <li>HIV positive partner के साथ relationship में</li>
                         <li><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a> planning या pregnancy के दौरान</li>
@@ -466,7 +467,7 @@
                 </ul>
 
                 <p class="text-gray-700 mb-6">
-                    अगर आपको <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-teal-600 hover:underline"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a> या अन्य neurological problems के symptoms हों, तो यह HIV-related भी हो सकते हैं। RAJ Hospital में comprehensive neurological evaluation available है।
+                    अगर आपको <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-teal-600 hover:underline"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a></a> या अन्य neurological problems के symptoms हों (stroke के लक्षणों में तुरंत 108/emergency जाएं), तो यह HIV-related भी हो सकते हैं। RAJ Hospital में comprehensive neurological evaluation available है।
                 </p>
 
                 <!-- Section 5 -->
@@ -487,7 +488,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Mental Health</a> (मानसिक स्वास्थ्य)</h4>
-                        <p class="text-sm text-gray-600"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> और anxiety common हैं। समय पर mental health professional से support लें। हमारी team counseling में help कर सकती है।</p>
+                        <p class="text-sm text-gray-600"><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> और anxiety common हैं। समय पर mental health professional से support लें। खुद को नुकसान पहुंचाने के विचार आएं तो तुरंत Tele-MANAS helpline 14416 पर call करें या नज़दीकी emergency जाएं। हमारी team counseling में help कर सकती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-teal-600">
                         <h4 class="font-bold text-teal-600">Regular Monitoring (नियमित जांच)</h4>
@@ -498,7 +499,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-teal-600 to-teal-700 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको HIV Testing की जरूरत है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में confidential HIV testing, counseling, और complete treatment available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में confidential HIV testing, counseling और treatment guidance available है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-teal-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -524,7 +525,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">पुरुषों में HIV के 1 साल बाद skin symptoms क्या होते हैं?</h4>
-                        <p class="text-gray-700">1 साल बाद skin problems में rashes, fungal infections (oral thrush), herpes simplex, seborrheic dermatitis, और unexplained bruises/shots हो सकते हैं। Skin changes often immune system की weakness का sign होते हैं।</p>
+                        <p class="text-gray-700">1 साल बाद skin problems में rashes, fungal infections (oral thrush), herpes simplex, seborrheic dermatitis, और unexplained bruises हो सकते हैं। Skin changes often immune system की weakness का sign होते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-teal-600 mb-2">क्या HIV से पीड़ित पुरुषों में <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">mental health</a> issues होती हैं?</h4>
@@ -537,7 +538,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">पुरुषों में HIV के लक्षण 1 साल बाद: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">पुरुषों में HIV के लक्षण 1 साल बाद कैसे दिखते हैं। जानें HIV infection के 1 साल बाद कौन से symptoms appear होते हैं, कब testing करनी चाहिए, और treatment options। Complete Hindi guide।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। पुरुषों में HIV के लक्षण 1 साल बाद | HIV Symptoms in Men After 1 Year in Hindi - RAJ Hospital शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -580,7 +581,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">इन्फेक्शन और बुखार से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -589,8 +590,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-teal-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Physician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
 

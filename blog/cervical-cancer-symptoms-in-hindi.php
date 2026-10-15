@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>गर्भाशय ग्रीवा कैंसर के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="गर्भाशय ग्रीवा कैंसर (Cervical Cancer) के प्रमुख लक्षण, कारण और बचाव के उपाय जानें। Early detection के लिए जरूरी जानकारी। Ranchi के best gynecologists की advice।">
+    <meta name="description" content="गर्भाशय ग्रीवा कैंसर (Cervical Cancer) के प्रमुख लक्षण, कारण और बचाव के उपाय जानें। Early detection के लिए जरूरी जानकारी। समय पर जांच के लिए जरूरी जानकारी।">
     <meta name="keywords" content="cervical cancer, गर्भाशय ग्रीवा कैंसर, cervical cancer symptoms in hindi, gynecological cancer, women health ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/cervical-cancer-symptoms-in-hindi/">
@@ -53,7 +53,7 @@
             "name": "क्या गर्भाशय ग्रीवा कैंसर के लक्षण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Breast Cancer News - Latest Updates & Treatment जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "गर्भाशय ग्रीवा कैंसर के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "गर्भाशय ग्रीवा कैंसर (Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a>) के प्रमुख लक्षण, कारण और बचाव के उपाय जानें। Early detection के लिए जरूरी जानकारी। Ranchi के best gynecologists की advice।",
+        "description": "गर्भाशय ग्रीवा कैंसर (Cervical Cancer) के प्रमुख लक्षण, कारण और बचाव के उपाय जानें। Early detection के लिए जरूरी जानकारी। समय पर जांच के लिए जरूरी जानकारी।",
         "url": "https://rajhospitals.com/blog/cervical-cancer-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/cervical-cancer-symptoms-in-hindi.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Women's Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">गर्भाशय ग्रीवा कैंसर के लक्षण - Complete Hindi Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -227,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>गर्भाशय ग्रीवा कैंसर (Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a>)</strong> महिलाओं में होने वाला एक गंभीर रोग है जो गर्भाशय की ग्रीवा (cervix) में प्रारंभ होता है। यह विश्व में महिलाओं में चौथा सबसे आम कैंसर है। India में हर साल लाखों महिलाएं इससे प्रभावित होती हैं, लेकिन समय पर पहचान और उपचार से इसका सफलतापूर्वक इलाज संभव है।
+                    <strong>गर्भाशय ग्रीवा कैंसर (Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a>)</strong> महिलाओं में होने वाला एक गंभीर रोग है जो गर्भाशय की ग्रीवा (cervix) में प्रारंभ होता है। यह विश्व में महिलाओं में चौथा सबसे आम कैंसर है। India में हर साल लगभग सवा लाख महिलाओं में इसका निदान होता है, लेकिन समय पर पहचान और उपचार से इसका सफलतापूर्वक इलाज संभव है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -295,12 +296,12 @@
                     <div class="bg-green-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="droplet" class="raj-icon raj-icon-sm raj-icon-red" aria-hidden="true"></i></div>
                         <div class="font-bold text-green-700">HPV Vaccine</div>
-                        <p class="text-sm text-gray-600">9-26 वर्ष की महिलाओं को vaccine लगवाना चाहिए</p>
+                        <p class="text-sm text-gray-600">9-14 वर्ष की लड़कियों को (और डॉक्टर की सलाह से 26 वर्ष तक) vaccine लगवाना चाहिए</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg text-center">
                         <div class="text-3xl mb-2"><i data-feather="search" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i></div>
                         <div class="font-bold text-green-700">Pap Smear Test</div>
-                        <p class="text-sm text-gray-600">21 वर्ष से ऊपर हर 3 साल में जांच करवाएं</p>
+                        <p class="text-sm text-gray-600">उम्र और जांच के प्रकार के अनुसार डॉक्टर की सलाह से नियमित screening करवाएं (आम तौर पर 30 वर्ष के बाद हर 3–5 साल में)</p>
                     </div>
                 </div>
 
@@ -328,7 +329,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">क्या HPV Vaccine सुरक्षित है?</h4>
-                        <p class="text-gray-700">हां, HPV vaccine बहुत सुरक्षित है और cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> से बचाव में 90% से अधिक प्रभावी है।</p>
+                        <p class="text-gray-700">हां, HPV vaccine बहुत सुरक्षित है और cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> से बचाव में बहुत प्रभावी है, खासकर जब यह HPV संक्रमण से पहले (9–14 वर्ष की उम्र में) लगाया जाए।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> से बचाव कैसे करें?</h4>
@@ -337,8 +338,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">गर्भाशय ग्रीवा कैंसर के लक्षण पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">गर्भाशय ग्रीवा कैंसर (Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a>) के प्रमुख लक्षण, कारण और बचाव के उपाय जानें। Early detection के लिए जरूरी जानकारी। Ranchi के best gynecologists की advice।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">गर्भाशय ग्रीवा कैंसर के लक्षण: जरूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">गर्भाशय ग्रीवा कैंसर (Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a>) के प्रमुख लक्षण, कारण और बचाव के उपाय जानें। Early detection के लिए जरूरी जानकारी। समय पर जांच के लिए जरूरी जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। गर्भाशय ग्रीवा कैंसर के लक्षण शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -351,8 +352,8 @@
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/breast-cancer-news.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates &amp; Treatment</a></li>
                         <li><a href="/blog/breast-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Breast Cancer Symptoms in Hindi - जानें लक्षण</a></li>
-                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Maternity Hospital in Ranchi</a></li>
-                        <li><a href="/blog/pcos-treatment-in-ranchi-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors</a></li>
+                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Maternity Hospital in Ranchi</a></li>
+                        <li><a href="/blog/pcos-treatment-in-ranchi-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOS Treatment in Ranchi - Symptoms, Causes and Treatment</a></li>
                         <li><a href="/blog/pregnancy-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnancy Symptoms in Hindi - गर्भावस्था के लक्षण</a></li>
                         <li><a href="/blog/cervical-pain-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्दन में दर्द के लक्षण (Cervical Pain)</a></li>
                         <li><a href="/blog/hiv-symptoms-in-women-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: HIV Symptoms in Women in Hindi - महिलाओं में HIV के लक्षण</a></li>
@@ -380,7 +381,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -389,8 +390,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gynecologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

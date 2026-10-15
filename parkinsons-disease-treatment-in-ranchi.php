@@ -7,10 +7,10 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Parkinson's Disease Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Parkinson's Disease Treatment in Ranchi | Neurology Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Find advanced Parkinson's Disease treatment in Ranchi. Raj Hospital provides expert neurological care, medication management, and movement disorder therapies." />
+    <meta name="description" content="Find advanced Parkinson's Disease treatment in Ranchi. Raj Hospital provides neurological care, medication management, and movement disorder therapies." />
     <meta name="keywords" content="Parkinsons disease treatment in Ranchi, movement disorder specialist Ranchi, hand tremors treatment Ranchi, neurologist for Parkinson in Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
@@ -88,7 +88,7 @@
           "name": "Can diet help manage Parkinson's?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "While diet cannot cure Parkinson's, a heavily antioxidant-rich diet combined with strategically timing complex proteins around medication doses dramatically helps manage systemic symptoms and drug absorption."
+            "text": "Diet cannot cure Parkinson's, but a balanced, high-fibre diet with enough fluids helps constipation, and some people taking levodopa benefit from taking it 30 to 60 minutes before protein-rich meals because protein can reduce its absorption. Discuss diet changes with your neurologist."
           }
         },
         {
@@ -104,7 +104,7 @@
           "name": "How fast does Parkinson's Disease usually progress?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The rate of symptomatic progression heavily varies between distinct individuals. Strategic medication and early physical therapy intervention demonstrably delay the onset of severe motor symptoms."
+            "text": "The rate of symptomatic progression heavily varies between distinct individuals. Medicines control symptoms, and regular exercise and early physiotherapy help maintain mobility; no treatment has yet been proven to slow the underlying disease."
           }
         }
 
@@ -177,8 +177,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Parkinson's Disease Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Parkinson's Disease Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -232,7 +232,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -241,7 +241,7 @@
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900">Neurological Examination</h4>
-                                    <p class="text-gray-600">Comprehensive clinical assessment of movement, coordination, and reflexes by an expert neurologist.</p>
+                                    <p class="text-gray-600">Clinical assessment of movement, coordination, and reflexes by a neurologist.</p>
                                 </div>
                             </li>
                             <li class="flex">
@@ -299,6 +299,10 @@
                                 <input type="email" name="email" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all" placeholder="Email Address">
                             </div>
                             <input type="hidden" name="specialty" value="Parkinson's Disease Treatment Inquiry">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200">
                                 Request Callback
                             </button>
@@ -316,8 +320,8 @@
                             </div>
                             <div class="p-5">
                                 <h3 class="text-lg font-bold text-gray-900 mb-1">Dr. Vivek Raj</h3>
-                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, MCh</p>
-                                <p class="text-secondary-600 text-sm mb-3">Neurology & Neurosurgery</p>
+                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, DNB</p>
+                                <p class="text-secondary-600 text-sm mb-3">Neurosurgery (Brain & Spine)</p>
                                 <a href="doctors/vivek-raj.php" class="block text-center w-full bg-primary-50 text-primary-600 py-2 rounded-lg border border-primary-200 hover:bg-primary-500 hover:text-white transition-colors font-medium text-sm">
                                     View Profile
                                 </a>
@@ -367,7 +371,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>While diet cannot cure Parkinson's, a heavily antioxidant-rich diet combined with strategically timing complex proteins around medication doses dramatically helps manage systemic symptoms and drug absorption.</p>
+                                <p>Diet cannot cure Parkinson's, but a balanced, high-fibre diet with enough fluids helps constipation, and some people taking levodopa benefit from taking it 30 to 60 minutes before protein-rich meals because protein can reduce its absorption. Discuss diet changes with your neurologist.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -385,7 +389,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>The rate of symptomatic progression heavily varies between distinct individuals. Strategic medication and early physical therapy intervention demonstrably delay the onset of severe motor symptoms.</p>
+                                <p>The rate of symptomatic progression heavily varies between distinct individuals. Medicines control symptoms, and regular exercise and early physiotherapy help maintain mobility; no treatment has yet been proven to slow the underlying disease.</p>
                             </div>
                         </div>
 
@@ -442,6 +446,10 @@
                             <input type="hidden" name="specialty" value="Parkinson's Disease Specialist Inquiry">
 
                             <!-- Submit Box -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-[#f97316] hover:bg-[#ea580c] text-white px-6 py-3.5 rounded-lg font-bold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-4 h-4"></i>

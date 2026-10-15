@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- ================= META TAGS ================= -->
 
-    <title>Gastroenterology Hospital in Ranchi | Best Gastro Hospital in Ranchi – Raj Hospital</title>
+    <title>Gastroenterology Hospital in Ranchi | Gastro Hospital in Ranchi – Raj Hospital</title>
 
     <meta name="description"
-        content="Raj Hospital is one of the best gastroenterology hospitals in Ranchi offering advanced treatment for digestive, liver and gastrointestinal disorders." />
+        content="Raj Hospital is a gastroenterology hospital in Ranchi offering advanced treatment for digestive, liver and gastrointestinal disorders." />
 
     <meta name="robots" content="index, follow" />
 
@@ -44,11 +44,6 @@ Liver Specialist in Ranchi
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -90,10 +85,10 @@ Liver Specialist in Ranchi
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which is the best gastroenterology hospital in Ranchi?",
+      "name": "Does Raj Hospital offer gastroenterology services in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best gastroenterology hospitals in Ranchi providing advanced digestive and liver care."
+        "text": "Yes, Raj Hospital in Ranchi provides advanced digestive and liver care."
       }
     },
     {
@@ -248,7 +243,7 @@ Liver Specialist in Ranchi
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Gastroenterology & Endoscopy</h1>
-                    <p class="text-xl text-gray-200">Best gastroenterology care in Ranchi with advanced diagnostics,
+                    <p class="text-xl text-gray-200">Gastroenterology care in Ranchi with advanced diagnostics,
                         minimally invasive surgeries and expert gastroenterologists.</p>
                 </div>
             </div>
@@ -264,10 +259,10 @@ Liver Specialist in Ranchi
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Gastroenterology &
-                            Endoscopy at Raj Hospitals provides top medical services for digestive system disorders
+                            Endoscopy at Raj Hospitals provides medical services for digestive system disorders
                             including gastroenterology, hepatology, and gastrointestinal surgery. Our minimally invasive
                             procedures like laparoscopy and endoscopy offer faster recovery, fewer complications and
-                            less post-operative follow-up. We are among few centers offering scarless minimal access
+                            less post-operative follow-up. We offer minimal-scar access
                             surgery and advanced laparoscopic, biliary, pancreatic, and colorectal oncologic procedures.
                         </p>
 
@@ -287,7 +282,7 @@ Liver Specialist in Ranchi
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art diagnostic and treatment
+                                    <span class="text-gray-700">Modern diagnostic and treatment
                                         facilities</span>
                                 </li>
                                 <li class="flex items-start">
@@ -342,7 +337,7 @@ Liver Specialist in Ranchi
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art Imaging and Laboratory
+                                    <span class="text-gray-700">Modern Imaging and Laboratory
                                         Facilities</span>
                                 </div>
                             </div>
@@ -592,60 +587,6 @@ Liver Specialist in Ranchi
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Gastroenterology department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="droplet" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Successful Gallbladder Surgery Using Laparoscopy
-                        </h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Kumar, 48</p>
-                    <p class="text-gray-700 mb-6">Our expert surgeons performed a minimally invasive cholecystectomy on
-                        Mr. Kumar, who recovered quickly with minimal pain and was discharged within days.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Full recovery with no complications</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="droplet" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Effective Management of Inflammatory Bowel
-                            Disease</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Ms. Radhika, 34</p>
-                    <p class="text-gray-700 mb-6">Ms. Radhika was diagnosed with ulcerative colitis and achieved
-                        remission through personalized therapy including medications and lifestyle changes.</p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Sustained remission for over 2
-                                years</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     
     <!-- Informative Videos Section -->
@@ -737,7 +678,7 @@ Liver Specialist in Ranchi
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Yes, it is a safe and effective surgery with smaller incisions, faster recovery,
+                                <p>It is generally a safe and effective surgery with smaller incisions, faster recovery,
                                     fewer complications, and shorter hospital stays compared to open surgery.</p>
                             </div>
                         </div>
@@ -810,6 +751,10 @@ Liver Specialist in Ranchi
                             <input type="hidden" name="specialty" value="Gastroenterology & Endoscopy">
 
                             <!-- Submit Button -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-5 h-5"></i>

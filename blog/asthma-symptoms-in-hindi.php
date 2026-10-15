@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>दमा के लक्षण | <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi - Complete Guide | RAJ Hospital</title>
+    <title>दमा के लक्षण | Asthma Symptoms in Hindi - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="दमा (Asthma) के लक्षण पहचानें - सांस लेने में तकलीफ, घरघराहट, खांसी, छाती में भारीपन। जानें कब डॉक्टर को दिखाना है। RAJ Hospital Ranchi।">
 
     <!-- Canonical URL -->
@@ -38,7 +38,7 @@
                 "@type": "ListItem",
                 "position": 3,
                 "name": "दमा के लक्षण",
-                "item": "https://rajhospitals.com/blog/<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">asthma</a>-symptoms-in-hindi/"
+                "item": "https://rajhospitals.com/blog/asthma-symptoms-in-hindi/"
             }
         ]
     }
@@ -60,7 +60,7 @@
             },
             {
                 "@type": "Question",
-                "name": "दमा का दौरा (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Attack) कैसे पहचानें?",
+                "name": "दमा का दौरा (Asthma Attack) कैसे पहचानें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "दमा का दौरा पहचानें: अचानक सांस फूलना, छाती में घरघराहट, खांसी जो बढ़ती जाए, नाक बंद होना, और बात करने में कठिनाई। अगर होंठ या नाखून नीले पड़ जाएं तो यह गंभीर है और तुरंत medical help लें।"
@@ -95,7 +95,7 @@
                 "name": "दमा के मरीज को क्या खाना चाहिए और क्या नहीं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दमा के मरीजों को ताजे फल, सब्जियां, और omega-3 युक्त खाद्य पदार्थ खाने चाहिए। मसालेदार भोजन, processed food, और ठंडे पेय पदार्थों से बचना चाहिए। कुछ लोगों को eggs, peanuts, या seafood से एलर्जी हो सकती है।"
+                    "text": "दमा के मरीजों को ताजे फल, सब्जियां, और omega-3 युक्त खाद्य पदार्थ खाने चाहिए। जिन खाद्य पदार्थों या पेय से आपके लक्षण बढ़ते हों, उनसे बचें। कुछ लोगों को eggs, peanuts, या seafood से एलर्जी हो सकती है।"
                 }
             },
             {
@@ -115,7 +115,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "दमा के लक्षण - <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi",
+        "name": "दमा के लक्षण - Asthma Symptoms in Hindi",
         "description": "दमा (Asthma) के लक्षणों की विस्तृत जानकारी - पहचान, कारण, इलाज और बचाव",
         "url": "https://rajhospitals.com/blog/asthma-symptoms-in-hindi/",
         "author": {
@@ -418,7 +418,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "दमा के लक्षण | <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "दमा के लक्षण | Asthma Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -453,7 +453,7 @@
             "name": "सांस और फेफड़ों से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -508,6 +508,7 @@
     <header class="blog-header">
         <div class="container">
             <h1>दमा के लक्षण | <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi</h1>
+            <?php include __DIR__ . '/../components/medical-disclaimer.php'; ?>
             <div class="meta">
                 <span>Reading Time: 9 min</span> |
                 <span>By RAJ Hospital Team</span>
@@ -633,7 +634,7 @@
             </ul>
 
             <div class="highlight-box">
-                <strong>जानकारी:</strong> हर दमा के मरीज के लिए <strong>ट्रिगर अलग</strong> हो सकते हैं। अपने ट्रिगर पहचानना और उनसे बचना दमा नियंत्रण का सबसे अच्छा तरीका है।
+                <strong>जानकारी:</strong> हर दमा के मरीज के लिए <strong>ट्रिगर अलग</strong> हो सकते हैं। अपने ट्रिगर पहचानना और उनसे बचना, नियमित दवा के साथ, दमा नियंत्रण का एक महत्वपूर्ण हिस्सा है।
             </div>
 
             <!-- Section 5: Diagnosis -->
@@ -679,7 +680,7 @@
             </ul>
 
             <h3>3. इनहेलर का सही उपयोग</h3>
-            <p><strong>इनहेलर (inhaler)</strong> दमा इलाज का सबसे अच्छा और आसान तरीका है। लेकिन इसे <strong>सही तरीके से</strong> उपयोग करना जरूरी है:</p>
+            <p><strong>इनहेलर (inhaler)</strong> दमा इलाज का एक असरदार और आसान तरीका है। लेकिन इसे <strong>सही तरीके से</strong> उपयोग करना जरूरी है:</p>
             <ol>
                 <li>इनहेलर को अच्छी तरह <strong>shake करें</strong></li>
                 <li><strong>मुंह में</strong> मुखपत्र (mouthpiece) लगाएं</li>
@@ -751,13 +752,13 @@
             <ol>
                 <li><strong>शांत रहें</strong> और सीधे बैठें</li>
                 <li>अपनी <strong>reliever inhaler</strong> (salbutamol) use करें</li>
-                <li>2-4 पuffs के बाद <strong>4 मिनट</strong> इंतजार करें</li>
-                <li>अगर राहत नहीं मिलती तो <strong>4 पuffs और लें</strong></li>
-                <li>अगर फिर भी राहत नहीं - <strong>तुरंत डॉक्टर या Hospital जाएं</strong></li>
+                <li>डॉक्टर के बताए Asthma Action Plan के अनुसार puffs लेने के बाद <strong>4 मिनट</strong> इंतजार करें</li>
+                <li>अगर राहत नहीं मिलती तो <strong>Action Plan के अनुसार दोबारा dose लें</strong></li>
+                <li>अगर फिर भी राहत नहीं - <strong>तुरंत 108/112 पर ambulance बुलाएं या नज़दीकी Emergency जाएं</strong></li>
             </ol>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">दमा के लक्षण | Asthma Symptoms in Hindi पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">दमा के लक्षण | Asthma Symptoms in Hindi पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">दमा (Asthma) के लक्षण पहचानें - सांस लेने में तकलीफ, घरघराहट, खांसी, छाती में भारीपन। जानें कब डॉक्टर को दिखाना है। RAJ Hospital Ranchi।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। दमा के लक्षण | Asthma Symptoms in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में सांस और फेफड़ों से जुड़ी देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -776,8 +777,8 @@
                         <li><a href="/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Anxiety Symptoms in Men | Stress &amp; Mental Health Issues Signs</a></li>
                         <li><a href="/blog/back-head-pain-causes-treatment-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्दन और सिर दर्द: कारण, लक्षण और इलाज</a></li>
                         <li><a href="/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Green Tea on Empty Stomach - Benefits and Side Effects</a></li>
-                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Hospital for Paralysis Treatment in Ranchi</a></li>
-                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Indian Diet Plan for Diabetes Patients</a></li>
+                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Paralysis Treatment in Ranchi</a></li>
+                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Indian Diet Plan for Diabetes Patients</a></li>
                     </ul>
                 </section>
 
@@ -802,7 +803,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">सांस और फेफड़ों से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -812,15 +813,15 @@
                 <div style="width: 60px; height: 60px; border-radius: 50%; background: #2e7d32; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 1.5rem;">RH</div>
                 <div class="author-info">
                     <h4>RAJ Hospital Medical Team</h4>
-                    <p>Expert doctors और specialists की टीम द्वारा लिखित। Ranchi में 25+ years का अनुभव।</p>
+                    <p>RAJ Hospital द्वारा स्वास्थ्य जागरूकता के लिए प्रकाशित। </p>
                 </div>
             </div>
 
             <!-- CTA Section -->
             <div class="cta-section">
                 <h3>क्या आपको दमा की समस्या है?</h3>
-                <p>RAJ Hospital, Ranchi में हमारे experts आपकी मदद के लिए तैयार हैं। स्पायरोमेट्री और अन्य tests से दमा का सही निदान और इलाज।</p>
-                <a href="/contact.php">Book Free Appointment</a>
+                <p>RAJ Hospital, Ranchi में दमा की जांच (जैसे spirometry) और इलाज के लिए appointment लें।</p>
+                <a href="/contact.php">Book Appointment</a>
             </div>
 
             <!-- Internal Links Section -->
@@ -831,7 +832,7 @@
                     <li><a href="/movement-disorders-treatment-in-ranchi.php">Movement Disorders Treatment</a> - neurological conditions की जानकारी</li>
                     <li><a href="/head-injury-treatment-in-ranchi.php">Head Injury Treatment in Ranchi</a> - मस्तिष्क और श्वसन नियंत्रण</li>
                     <li><a href="/stroke-and-tia-treatment-in-ranchi.php">Stroke Treatment in Ranchi</a> - oxygen supply और emergency care</li>
-                    <li><a href="/doctor-profile.php">हमारे Doctors से मिलें</a> - RAJ Hospital के expert medical team</li>
+                    <li><a href="/doctor-profile.php">हमारे Doctors से मिलें</a> - RAJ Hospital की medical team</li>
                     <li><a href="/parkinsons-disease-treatment-in-ranchi.php">Parkinson's Disease Treatment</a> - fitness और breathing exercises</li>
                     <li><a href="/contact.php">RAJ Hospital Contact</a> - appointment और emergency services</li>
                 </ul>
@@ -868,7 +869,7 @@
 
                 <div class="faq-item">
                     <h3>6. दमा के मरीज को क्या खाना चाहिए और क्या नहीं?</h3>
-                    <p>दमा के मरीजों को <strong>ताजे फल, सब्जियां, और omega-3 युक्त खाद्य पदार्थ</strong> खाने चाहिए। मसालेदार भोजन, processed food, और ठंडे पेय पदार्थों से बचना चाहिए। कुछ लोगों को eggs, peanuts, या seafood से एलर्जी हो सकती है।</p>
+                    <p>दमा के मरीजों को <strong>ताजे फल, सब्जियां, और omega-3 युक्त खाद्य पदार्थ</strong> खाने चाहिए। जिन खाद्य पदार्थों या पेय से आपके लक्षण बढ़ते हों, उनसे बचें। कुछ लोगों को eggs, peanuts, या seafood से एलर्जी हो सकती है।</p>
                 </div>
 
                 <div class="faq-item">

@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Uric Acid Symptom in Hindi - यूरिक एसिड के लक्षण और इलाज | RAJ Hospital Ranchi</title>
-    <meta name="description" content="यूरिक एसिड के लक्षण (Uric Acid Symptom in Hindi) - गाउट, किडनी स्टोन, joint pain के कारण और इलाज। Uric acid कम करने के उपाय। Ranchi में best treatment।">
+    <meta name="description" content="यूरिक एसिड के लक्षण (Uric Acid Symptom in Hindi) - गाउट, किडनी स्टोन, joint pain के कारण और इलाज। Uric acid कम करने के उपाय। Ranchi में RAJ Hospital में जांच और इलाज।">
     <meta name="keywords" content="uric acid symptom in hindi, uric acid symptoms, यूरिक एसिड के लक्षण, uric acid treatment, यूरिक एसिड कम करने के उपाय, gout symptoms, गाउट, high uric acid">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/uric-acid-symptom-in-hindi/">
@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Uric Acid Symptom in Hindi - यूरिक एसिड के लक्षण",
-        "description": "यूरिक एसिड के लक्षण, कारण, और इलाज। Gout, kidney stones, और <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a>। RAJ Hospital Ranchi में expert treatment।",
+        "description": "यूरिक एसिड के लक्षण, कारण, और इलाज। Gout, kidney stones, और joint pain। RAJ Hospital Ranchi में जांच और इलाज।",
         "url": "https://rajhospitals.com/blog/uric-acid-symptom-in-hindi/",
         "author": {
             "@type": "Organization",
@@ -75,7 +75,7 @@
                 "name": "यूरिक एसिड (Uric Acid) क्या है और इसके क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Uric acid एक waste product है जो purines के breakdown से बनता है। Normal level 3.5-7.2 mg/dL होती है। High uric acid (hyperuricemia) के symptoms: जोड़ों में तेज दर्द (विशेषकर big toe), swelling, redness, joint stiffness, kidney stones, और fatigue।"
+                    "text": "Uric acid एक waste product है जो purines के breakdown से बनता है। Normal level पुरुषों में लगभग 3.4-7.0 mg/dL और महिलाओं में लगभग 2.4-6.0 mg/dL होता है। High uric acid (hyperuricemia) के symptoms: जोड़ों में तेज दर्द (विशेषकर big toe), swelling, redness, joint stiffness, kidney stones, और fatigue।"
                 }
             },
             {
@@ -83,7 +83,7 @@
                 "name": "यूरिक एसिड कैसे कम करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Uric acid कम करने के उपाय: 1) Purine-rich foods avoid करें (red meat, seafood, alcohol) 2) ज्यादा पानी पिएं 3) Vitamin C supplements लें 4) Regular exercise करें 5) Weight management 6) Doctor prescribed medicines (allopurinol, febuxostat) लें।"
+                    "text": "Uric acid कम करने के उपाय: 1) Purine-rich foods avoid करें (red meat, seafood, alcohol) 2) ज्यादा पानी पिएं 3) Doctor की सलाह से Vitamin C ले सकते हैं 4) Regular exercise करें 5) Weight management 6) Doctor prescribed medicines (allopurinol, febuxostat) लें।"
                 }
             },
             {
@@ -99,7 +99,7 @@
                 "name": "Gout (गाउट) क्या है और यह यूरिक एसिड से कैसे जुड़ा है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Gout एक inflammatory <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a> है जो high uric acid के कारण होती है। जब uric acid crystals joints में जमा होते हैं, तो तेज दर्द, swelling, और redness होती है। Big toe सबसे commonly affected होती है। यह attack-wise आती है और बहुत painful होती है।"
+                    "text": "Gout एक inflammatory arthritis है जो high uric acid के कारण होती है। जब uric acid crystals joints में जमा होते हैं, तो तेज दर्द, swelling, और redness होती है। Big toe सबसे commonly affected होती है। यह attack-wise आती है और बहुत painful होती है।"
                 }
             }
         ]
@@ -178,6 +178,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Rheumatology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Uric Acid Symptom in Hindi - यूरिक एसिड के लक्षण और इलाज</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -190,12 +191,12 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस blog post में हम <strong>uric acid symptom in hindi</strong> (यूरिक एसिड के लक्षण), कारण, और <a href="/blog/uric-acid-symptom-in-hindi/" class="text-primary-600 hover:underline font-semibold">uric acid कम करने के उपाय</a> के बारे में विस्तार से जानेंगे। RAJ Hospital Ranchi में इसका effective treatment available है।
+                    इस blog post में हम <strong>uric acid symptom in hindi</strong> (यूरिक एसिड के लक्षण), कारण, और <a href="/blog/uric-acid-symptom-in-hindi/" class="text-primary-600 hover:underline font-semibold">uric acid कम करने के उपाय</a> के बारे में विस्तार से जानेंगे। RAJ Hospital Ranchi में इसकी जांच और इलाज उपलब्ध है।
                 </p>
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">
                     <strong class="text-primary-600 text-lg">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> Uric acid का normal level 3.5-7.2 mg/dL होता है। अगर यह 7 mg/dL से ऊपर चला जाए, तो इसे hyperuricemia कहते हैं और इसे manage करना जरूरी है।</span>
+                    <span class="text-gray-700"> Uric acid का normal level आम तौर पर पुरुषों में लगभग 3.4-7.0 mg/dL और महिलाओं में लगभग 2.4-6.0 mg/dL होता है (lab के अनुसार थोड़ा अलग हो सकता है)। अगर यह 7 mg/dL से ऊपर चला जाए, तो इसे hyperuricemia कहते हैं और इसे manage करना जरूरी है।</span>
                 </div>
 
                 <h2 class="raj-h2-secondary">यूरिक एसिड क्या है और यह कैसे बनता है?</h2>
@@ -247,7 +248,7 @@
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-primary-600 mb-2">General Symptoms</h4>
+                        <h4 class="font-bold text-primary-600 mb-2">Associated Conditions (साथ में पाई जाने वाली समस्याएं)</h4>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Fatigue</li>
                             <li>Weakness</li>
@@ -270,7 +271,7 @@
                 <div class="space-y-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">1. Diet (High Purine Foods)</h4>
-                        <p class="text-sm text-gray-600">Red meat, organ meats (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>, kidney), seafood (fish, shellfish), और legumes (dal) high purine होते हैं। इनका ज्यादा consumption uric acid बढ़ाता है।</p>
+                        <p class="text-sm text-gray-600">Red meat, organ meats (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>, kidney), seafood (fish, shellfish) high purine होते हैं (dal जैसे plant sources का gout risk पर असर काफ़ी कम माना जाता है)। इनका ज्यादा consumption uric acid बढ़ाता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">2. Alcohol Consumption</h4>
@@ -334,7 +335,7 @@
                     <li><strong>Exercise करें</strong> - regular physical activity। लेकिन sudden, intense exercise से caution।</li>
                     <li><strong>Weight lose करें</strong> - अगर overweight हैं। Rapid weight loss से uric acid बढ़ सकता है, इसलिए gradual loss करें।</li>
                     <li><strong>Alcohol limit करें</strong> - especially beer।</li>
-                    <li><strong>Vitamin C लें</strong> - research shows Vitamin C uric acid excretion में help करता है।</li>
+                    <li><strong>Vitamin C लें</strong> - कुछ studies के अनुसार Vitamin C uric acid थोड़ा कम कर सकता है — supplement doctor की सलाह से ही लें।</li>
                 </ul>
 
                 <h2 class="raj-h2-secondary">यूरिक एसिड का इलाज (Treatment)</h2>
@@ -354,18 +355,17 @@
                             <li>Allopurinol</li>
                             <li>Febuxostat</li>
                             <li>Probenecid</li>
-                            <li>Lesinurad</li>
                         </ul>
                     </div>
                 </div>
 
                 <div class="raj-callout raj-callout-danger">
-                    <strong class="text-red-700">Doctor's Note:</strong>
+                    <strong class="text-red-700">ध्यान दें:</strong>
                     <span class="text-gray-700"> Medicines only doctor की prescription से लें। Self-medication से problems हो सकती हैं। RAJ Hospital Ranchi में uric acid की जांच और appropriate treatment available है।</span>
                 </div>
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">यूरिक एसिड का Expert इलाज</h3>
+                    <h3 class="text-xl font-bold mb-2">यूरिक एसिड की जांच और इलाज</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में uric acid test, gout treatment, और <a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">kidney stone</a> management available है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
@@ -387,13 +387,13 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">क्या चेरी खाने से uric acid कम होता है?</h4>
-                        <p class="text-gray-700">हां, research shows कि <strong>cherries uric acid level कम करने</strong> में helpful हैं। Cherries में anthocyanins होते हैं जो inflammation reduce करते हैं। Daily 1 cup cherries या cherry juice beneficial हो सकती है।</p>
+                        <p class="text-gray-700">कुछ studies के अनुसार <strong>cherries uric acid level कम करने</strong> में helpful हैं। Cherries में anthocyanins होते हैं जो inflammation reduce करते हैं। Daily 1 cup cherries या cherry juice beneficial हो सकती है।</p>
                     </div>
                 </div>
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Uric Acid Symptom in Hindi पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">यूरिक एसिड के लक्षण (Uric Acid Symptom in Hindi) - गाउट, किडनी स्टोन, <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> के कारण और इलाज। Ranchi में best treatment RAJ Hospital में।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Uric Acid Symptom in Hindi पर ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">यूरिक एसिड के लक्षण (Uric Acid Symptom in Hindi) - गाउट, किडनी स्टोन, <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> के कारण और इलाज। Ranchi में RAJ Hospital में जांच और इलाज उपलब्ध है।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए यूरिक एसिड एक common problem है। Proper diet, lifestyle changes, और medical treatment से इसे manage किया जा सकता है।</p>
                 </section>
 
@@ -409,8 +409,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Rheumatologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

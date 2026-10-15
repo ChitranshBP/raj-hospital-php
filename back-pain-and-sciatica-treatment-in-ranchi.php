@@ -7,10 +7,10 @@
     <link rel="icon" type="image/png" href="assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Back Pain & Sciatica Treatment in Ranchi | Top Specialists | Raj Hospital</title>
+    <title>Back Pain & Sciatica Treatment in Ranchi | Spine Care | Raj Hospital</title>
     
     <!-- ================= SEO META TAGS ================= -->
-    <meta name="description" content="Expert Back Pain and Sciatica treatment in Ranchi at Raj Hospital. We offer minimally invasive spine surgery, physiotherapy, and comprehensive pain management." />
+    <meta name="description" content="Back Pain and Sciatica treatment in Ranchi at Raj Hospital. We offer minimally invasive spine surgery, physiotherapy, and comprehensive pain management." />
     <meta name="keywords" content="back pain treatment in Ranchi, sciatica treatment Ranchi, slip disc surgery Ranchi, spine specialist Ranchi, spine surgery hospital in Ranchi" />
     <meta name="author" content="Raj Hospital" />
     <meta name="publisher" content="Raj Hospital" />
@@ -72,7 +72,7 @@
           "name": "What is the fastest way to relieve acute sciatica?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Acute sciatica requires immediate rest followed closely by specific clinical physiotherapy and targeted epidural steroid injections for massive inflammation control."
+            "text": "Most acute sciatica improves by staying gently active, with pain relief advised by your doctor and physiotherapy. Prolonged bed rest is not recommended. Epidural steroid injections are considered only for severe or persistent leg pain after specialist evaluation."
           }
         },
         {
@@ -169,8 +169,8 @@
         <div class="relative z-10 h-full flex items-center">
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
-                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Best Back Pain & Sciatica Treatment in Ranchi</h1>
-                    <p class="text-xl text-gray-200">State-of-the-art neurology, comprehensive care, and advanced interventions by leading specialists.</p>
+                    <h1 class="text-4xl lg:text-5xl font-bold mb-4">Back Pain & Sciatica Treatment in Ranchi</h1>
+                    <p class="text-xl text-gray-200">Neurological evaluation, treatment and rehabilitation at Raj Hospital, Ranchi.</p>
                 </div>
             </div>
         </div>
@@ -186,7 +186,7 @@
                     <div class="fade-in">
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview: Back Pain & Sciatica Treatment in Ranchi</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Back pain and Sciatica are incredibly common and can be intensely debilitating. Sciatica refers to pain that radiates along the path of the sciatic nerve, which branches from your lower back through your hips and down each leg. Raj Hospital hosts top spine specialists offering the <strong>best back pain and sciatica treatment in Ranchi</strong>.
+                            Back pain and Sciatica are incredibly common and can be intensely debilitating. Sciatica refers to pain that radiates along the path of the sciatic nerve, which branches from your lower back through your hips and down each leg. Raj Hospital's spine specialists offer <strong>back pain and sciatica treatment in Ranchi</strong>.
                         </p>
                     </div>
 
@@ -216,7 +216,7 @@
                     <div class="fade-in">
                         <h3 class="text-2xl font-bold text-gray-900 mb-6">Advanced Diagnostic Technologies</h3>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">
-                            Accurate diagnosis is crucial. We bring unparalleled precision to diagnosing neurological conditions using modern technologies.
+                            Accurate diagnosis is crucial. We use standard neurological tests and imaging to help reach an accurate diagnosis.
                         </p>
                         <ul class="space-y-4">
                             <li class="flex">
@@ -241,7 +241,7 @@
                             </div>
                             <div class="border border-gray-100 rounded-xl p-6 shadow-sm hover:shadow-md transition">
                                 <h4 class="text-xl font-bold text-primary-600 mb-3">Epidural Steroid Injections</h4>
-                                <p class="text-gray-600">Direct anti-inflammatory medication injected around the spinal nerve for immediate pain relief.</p>
+                                <p class="text-gray-600">Anti-inflammatory (steroid) medication injected near the irritated spinal nerve; it may give short-term relief in selected patients with persistent leg pain.</p>
                             </div>
 
                         </div>
@@ -266,6 +266,10 @@
                                 <input type="email" name="email" class="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all" placeholder="Email Address">
                             </div>
                             <input type="hidden" name="specialty" value="Back Pain & Sciatica Treatment Inquiry">
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200">
                                 Request Callback
                             </button>
@@ -283,8 +287,8 @@
                             </div>
                             <div class="p-5">
                                 <h3 class="text-lg font-bold text-gray-900 mb-1">Dr. Vivek Raj</h3>
-                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, MCh</p>
-                                <p class="text-secondary-600 text-sm mb-3">Neurology & Neurosurgery</p>
+                                <p class="text-primary-600 text-sm font-medium mb-1">MBBS, MS, DNB</p>
+                                <p class="text-secondary-600 text-sm mb-3">Neurosurgery (Brain & Spine)</p>
                                 <a href="doctors/vivek-raj.php" class="block text-center w-full bg-primary-50 text-primary-600 py-2 rounded-lg border border-primary-200 hover:bg-primary-500 hover:text-white transition-colors font-medium text-sm">
                                     View Profile
                                 </a>
@@ -325,7 +329,7 @@
                                 <i data-feather="plus" class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Acute sciatica requires immediate rest followed closely by specific clinical physiotherapy and targeted epidural steroid injections for massive inflammation control.</p>
+                                <p>Most acute sciatica improves by staying gently active, with pain relief advised by your doctor and physiotherapy. Prolonged bed rest is not recommended. Epidural steroid injections are considered only for severe or persistent leg pain after specialist evaluation.</p>
                             </div>
                         </div>
                         <div class="faq-item bg-gray-50 rounded-xl p-6 hover:shadow-md transition-shadow cursor-pointer" onclick="toggleFaq(this)">
@@ -409,6 +413,10 @@
                             <input type="hidden" name="specialty" value="Back Pain & Sciatica Specialist Inquiry">
 
                             <!-- Submit Box -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-[#f97316] hover:bg-[#ea580c] text-white px-6 py-3.5 rounded-lg font-bold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-4 h-4"></i>

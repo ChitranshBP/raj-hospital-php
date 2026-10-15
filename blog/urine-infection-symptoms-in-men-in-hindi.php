@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urine Infection</a> Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण | RAJ Hospital Ranchi</title>
+    <title>Urine Infection Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में मूत्र संक्रमण के लक्षण (Urine Infection Symptoms in Men) - UTI के कारण, लक्षण, इलाज और बचाव हिंदी में। UTI in men treatment।">
     <meta name="keywords" content="urine infection symptoms men, urinary tract infection, मूत्र संक्रमण, UTI in men, पेशाब में जलन, urinary infection treatment, पुरुषों में UTI">
     <meta name="robots" content="index, follow">
@@ -39,8 +39,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urine Infection</a> Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण",
-        "description": "पुरुषों में मूत्र संक्रमण (UTI) के लक्षण, कारण और इलाज। RAJ Hospital Ranchi में expert treatment।",
+        "name": "Urine Infection Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण",
+        "description": "पुरुषों में मूत्र संक्रमण (UTI) के लक्षण, कारण और इलाज। RAJ Hospital Ranchi में जांच और इलाज।",
         "url": "https://rajhospitals.com/blog/urine-infection-symptoms-in-men-in-hindi/",
         "author": {
             "@type": "Organization",
@@ -72,7 +72,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "पुरुषों में मूत्र संक्रमण (<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">UTI</a>) के क्या लक्षण हैं?",
+                "name": "पुरुषों में मूत्र संक्रमण (UTI) के क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "पुरुषों में UTI के लक्षण: पेशाब में जलन (dysuria), बार-बार पेशाब आना, तुरंत पेशाब की urgent feeling, पेशाब में खून, नीचे पेट में दर्द, fever और chills (अगर infection बढ़ गई हो)। Men में UTI women की तुलना में कम common है, लेकिन serious हो सकती है।"
@@ -83,7 +83,7 @@
                 "name": "पुरुषों में UTI क्यों होती है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "पुरुषों में UTI के कारण: 1) enlarged prostate (BPH) 2) kidney stones 3) improper hygiene 4) unprotected sexual activity 5) weak immune system 6) urinary catheter use 7) <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> 8) age (older men में ज्यादा common)।"
+                    "text": "पुरुषों में UTI के कारण: 1) enlarged prostate (BPH) 2) kidney stones 3) improper hygiene 4) unprotected sexual activity 5) weak immune system 6) urinary catheter use 7) diabetes 8) age (older men में ज्यादा common)।"
                 }
             },
             {
@@ -91,7 +91,7 @@
                 "name": "UTI का इलाज कैसे होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "UTI का इलाज primarily antibiotics से होता है। commonly used antibiotics: nitrofurantoin, trimethoprim-sulfamethoxazole, fluoroquinolones। treatment आमतौर पर 7-14 days की course होती है। severe cases में IV antibiotics भी दिए जा सकते हैं। Plenty of water पिएं।"
+                    "text": "UTI का इलाज primarily antibiotics से होता है। antibiotic का चुनाव doctor urine culture report और infection की जगह (bladder, prostate या kidney) के आधार पर करते हैं। treatment आमतौर पर 7-14 days की course होती है। severe cases में IV antibiotics भी दिए जा सकते हैं। Plenty of water पिएं।"
                 }
             },
             {
@@ -126,7 +126,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urine Infection</a> Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण | RAJ Hospital Ranchi"
+                "name": "Urine Infection Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -178,6 +178,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urine Infection</a> Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -230,7 +231,7 @@
                         <li>Chills और shivering</li>
                         <li>तेज lower back pain (kidney area)</li>
                         <li>Nausea और vomiting</li>
-                        <li>बड़े prostate से pain (perineal area)</li>
+                        <li>Prostate में infection (prostatitis) होने पर perineal area में दर्द</li>
                         <li>General weakness और fatigue</li>
                     </ul>
                     <p class="text-red-700 font-bold mt-2">यह symptoms हों तो immediately doctor से मिलें!</p>
@@ -292,8 +293,8 @@
                 <div class="bg-blue-50 p-4 rounded-lg mb-6">
                     <ul class="text-gray-700 space-y-2">
                         <li>Nitrofurantoin</li>
-                        <li>Trimethoprim-sulfamethoxazole (Bactrim)</li>
-                        <li>Fluoroquinolones (Ciprofloxacin, Levofloxacin)</li>
+                        <li>Trimethoprim-sulfamethoxazole (Co-trimoxazole)</li>
+                        <li>Fluoroquinolones (Ciprofloxacin, Levofloxacin) — India में E. coli में इनके प्रति resistance बहुत ज़्यादा है; doctor urine culture report देखकर ही antibiotic और उसकी अवधि तय करते हैं। खुद से antibiotic न लें।</li>
                         <li>Fosfomycin</li>
                     </ul>
                     <p class="text-gray-700 mt-2"><strong>नोट:</strong> दवाई पूरी course complete करें, भले ही symptoms better feel हों।</p>
@@ -333,8 +334,8 @@
                 </div>
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">UTI का Expert इलाज</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में UTI diagnosis और antibiotics treatment available है। complete urology services।</p>
+                    <h3 class="text-xl font-bold mb-2">UTI की जांच और इलाज</h3>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में UTI diagnosis और antibiotics treatment available है। urology services भी उपलब्ध हैं।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
 
@@ -356,8 +357,8 @@
                 </div>
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Urine Infection Symptoms in Men पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">पुरुषों में मूत्र संक्रमण (UTI) के लक्षण - कारण, इलाज और बचाव। Ranchi में best urology treatment RAJ Hospital में।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Urine Infection Symptoms in Men पर ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">पुरुषों में मूत्र संक्रमण (UTI) के लक्षण - कारण, इलाज और बचाव। Ranchi में RAJ Hospital में urology जांच और इलाज उपलब्ध है।</p>
                 </section>
 
                 <section class="mt-8 bg-white border border-gray-200 rounded-xl p-5">
@@ -371,8 +372,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Urologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

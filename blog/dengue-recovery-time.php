@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dengue Recovery Time: Why You Feel Exhausted After the Fever Goes | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Fever gone but still exhausted? Doctors in Ranchi explain real dengue recovery time, platelet recovery, post-dengue fatigue and the red flags to watch.">
+    <meta name="description" content="Fever gone but still exhausted? Learn the real dengue recovery time, platelet recovery, post-dengue fatigue and the red flags to watch.">
     <meta name="keywords" content="dengue recovery time, dengue fatigue after fever, dengue platelet count recovery, when to worry after dengue Ranchi, post dengue weakness, dengue treatment Ranchi, dengue warning signs">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
     <link rel="canonical" href="https://rajhospitals.com/blog/dengue-recovery-time/">
@@ -48,7 +48,7 @@
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "Dengue Recovery Time: Why You Feel Exhausted After the Fever Goes",
-        "description": "A physician-reviewed guide to dengue recovery time, the platelet count recovery curve, post-dengue fatigue and the warning signs that need urgent review.",
+        "description": "A guide to dengue recovery time, the platelet count recovery curve, post-dengue fatigue and the warning signs that need urgent review.",
         "image": ["https://rajhospitals.com/blog/assets/img/featured/dengue-recovery-time.jpg"],
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
@@ -196,9 +196,10 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Internal Medicine · Monsoon Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Fever Gone, Still Exhausted: What Dengue Recovery Actually Looks Like</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Internal Medicine Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Health Desk</span>
                 </div>
             </div>
 
@@ -422,8 +423,8 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 shrink-0 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Internal Medicine Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Medically reviewed by our consultant physicians &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <strong class="text-gray-800">Raj Hospitals Health Desk</strong>
+                        <p class="text-sm text-gray-500">For general awareness only — consult a doctor for personal advice &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

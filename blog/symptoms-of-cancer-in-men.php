@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
+    <title>Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
     <meta name="description" content="Symptoms of cancer in men: learn the early warning signs, common cancers affecting men (prostate, lung, colorectal, bladder, skin), screening recommendations, and prevention tips from RAJ Hospital Ranchi.">
     <meta name="keywords" content="symptoms of cancer in men, cancer symptoms men, prostate cancer signs, lung cancer symptoms, colorectal cancer warning signs, cancer screening men, early cancer detection, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> in men: at what point should a doctor be consulted?",
+            "name": "Symptoms of cancer in men: at what point should a doctor be consulted?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "If symptoms are persistent, recurring, gradually worsening, or include unexplained weight loss, persistent fatigue, a new lump, abnormal bleeding, difficulty swallowing, changes in bowel or bladder habits, skin changes, or no relief with home care, a doctor should be consulted. Timely evaluation helps identify the real cause and prevents complications."
@@ -77,7 +77,7 @@
             "name": "How can the risk of cancers in men be reduced?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Regular checkups, doctor-prescribed medicines, avoiding tobacco and excess alcohol, balanced meals, good sleep, doctor-approved exercise, and not ignoring new symptoms are the most effective steps. Prevention works best when even small warning signs are addressed early."
+                "text": "Regular checkups, doctor-prescribed medicines, avoiding tobacco and excess alcohol, balanced meals, good sleep, doctor-approved exercise, and not ignoring new symptoms are the most effective steps. Prevention works better when even small warning signs are addressed early."
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
+        "headline": "Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
         "description": "Early warning signs of cancer in men, common cancers, screening by age, and prevention tips.",
         "url": "https://rajhospitals.com/blog/symptoms-of-cancer-in-men/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/symptoms-of-cancer-in-men.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
+                "name": "Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Awareness</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -227,11 +228,11 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a></strong> is one of the leading causes of death in men worldwide, yet many cases are diagnosed late because early symptoms are subtle or mistaken for everyday health issues. Recognising the <strong>symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> in men</strong> early dramatically improves the chances of successful treatment and long-term recovery.
+                    <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a></strong> is one of the major causes of death in men worldwide, yet many cases are diagnosed late because early symptoms are subtle or mistaken for everyday health issues. Recognising the <strong>symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> in men</strong> early dramatically improves the chances of successful treatment and long-term recovery.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    In this guide, the medical team at <strong>RAJ Hospital Ranchi</strong> outlines the most common warning signs, the cancers that most often affect men, age-wise screening recommendations, and practical prevention tips. Use this article as an awareness tool and consult a doctor for personalised medical advice.
+                    In this guide, <strong>RAJ Hospital Ranchi</strong> outlines the most common warning signs, the cancers that most often affect men, age-wise screening recommendations, and practical prevention tips. Use this article as an awareness tool and consult a doctor for personalised medical advice.
                 </p>
 
                 <!-- Section 1: Why awareness matters -->
@@ -242,7 +243,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Raising <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> awareness</strong> in men encourages timely screening, prompt reporting of new symptoms, and adoption of protective lifestyle habits. Many cancers, when caught early, have survival rates well above 80-90 percent, which makes awareness a life-saving habit.
+                    Raising <strong><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> awareness</strong> in men encourages timely screening, prompt reporting of new symptoms, and adoption of protective lifestyle habits. Many cancers have much better outcomes when caught early, which makes awareness a life-saving habit.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -279,7 +280,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. Persistent Pain</h4>
-                        <p class="text-sm text-gray-600">Pain that does not improve with rest or medication, especially headaches, back pain, or bone pain, can be an early signal of brain, bone, or prostate cancer.</p>
+                        <p class="text-sm text-gray-600">Pain that does not improve with rest or medication, especially headaches, back pain, or bone pain, can sometimes be a sign of brain or bone cancer, or of a cancer (such as prostate cancer) that has spread to the bones.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">6. Changes in Bowel or Bladder Habits</h4>
@@ -314,7 +315,7 @@
                         <tbody class="border">
                             <tr class="border">
                                 <td class="px-4 py-2 font-semibold">Prostate</td>
-                                <td class="px-4 py-2">Difficulty urinating, weak stream, blood in urine, pelvic pain</td>
+                                <td class="px-4 py-2">Often no early symptoms; later: difficulty urinating, weak stream, blood in urine, pelvic or bone pain (urinary symptoms are more often due to benign prostate enlargement)</td>
                                 <td class="px-4 py-2">Age over 50, family history</td>
                             </tr>
                             <tr class="border bg-gray-50">
@@ -367,7 +368,7 @@
                     <div class="raj-callout-icon"><i data-feather="alert-triangle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></div>
                     <div class="raj-callout-body">
                         <strong>Family history changes the plan:</strong>
-                        <span> Men with a first-degree relative who had prostate, colorectal, or pancreatic cancer often need to start screening 10 years earlier than the general population.</span>
+                        <span> Men with a first-degree relative who had prostate or colorectal cancer may need to start screening earlier than the general population; the doctor will advise the right age.</span>
                     </div>
                 </div>
 
@@ -419,7 +420,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Need a Cancer Risk Assessment?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers comprehensive cancer screening packages, onco-consultations, and follow-up care under one roof.</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi offers cancer screening, oncology consultations and follow-up care.</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -429,7 +430,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">What is the most common cancer in men?</h4>
-                        <p class="text-gray-700">Prostate, lung, and colorectal cancers are the three most commonly diagnosed cancers in men worldwide, in that order.</p>
+                        <p class="text-gray-700">Worldwide, lung, prostate and colorectal cancers are among the most commonly diagnosed cancers in men. In India, mouth (oral) cancer and lung cancer are the most common cancers in men, largely linked to tobacco use.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">At what age should men start cancer screening?</h4>
@@ -451,7 +452,7 @@
 
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Doctor's Advice on Symptoms of Cancer in Men</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Guidance on Symptoms of Cancer in Men</h2>
                     <p class="text-gray-700 mb-4">Symptoms of cancer in men can vary widely, but persistent, recurring, or progressively worsening signs always deserve medical attention. A detailed history, physical examination, and targeted investigations help separate self-limiting causes from conditions that need treatment.</p>
                     <p class="text-gray-700 mb-4">For men in Ranchi and nearby areas, the most important step is to put symptoms in the right medical context. A new lump, unexplained weight loss, blood in urine or stool, persistent fatigue, or a non-healing sore may be linked to infection, inflammation, hormonal changes, lifestyle factors, chronic disease, or in some cases an early-stage cancer. Doctors use clinical evaluation, blood markers, imaging, and biopsies to decide on the next step.</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital emphasises early diagnosis, practical counselling, and timely referral when needed. If symptoms are frequent, severe, affecting daily life, or suddenly changing in pattern, consultation should not be delayed. Men with chronic conditions such as diabetes, high blood pressure, kidney or liver disease, and those on long-term medicines are at higher risk and need closer monitoring.</p>
@@ -493,7 +494,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">How can the risk of cancers in men be reduced?</h3>
-                        <p class="text-gray-700">Regular checkups, doctor-prescribed medicines, avoiding tobacco and excess alcohol, balanced meals, good sleep, doctor-approved exercise, and not ignoring new symptoms are the most effective steps. Prevention works best when even small warning signs are addressed early.</p>
+                        <p class="text-gray-700">Regular checkups, doctor-prescribed medicines, avoiding tobacco and excess alcohol, balanced meals, good sleep, doctor-approved exercise, and not ignoring new symptoms are the most effective steps. Prevention works better when even small warning signs are addressed early.</p>
                     </div>
                     </div>
                 </section>
@@ -503,8 +504,7 @@
                 <div class="raj-author-box">
                     <div class="raj-author-avatar">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Physician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

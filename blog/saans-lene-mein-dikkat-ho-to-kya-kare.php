@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saans Lene Mein Dikkat (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> Difficulty) - Kya Karein? | RAJ Hospital</title>
+    <title>Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? | RAJ Hospital</title>
     <meta name="description" content="Saans lene mein dikkat ho to kya karein, breathing problems ke causes aur ilaj के बारे में जानें। shortness of breath, dyspnea treatment और prevention tips।">
     <meta name="keywords" content="saans lene mein dikkat, breathing difficulty in hindi, shortness of breath, dyspnea treatment, saans ki problems">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Saans Lene Mein Dikkat (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> Difficulty) - Kya Karein? में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -77,7 +77,7 @@
             "name": "सांस और फेफड़ों से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Saans Lene Mein Dikkat (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> Difficulty) - Kya Karein? | RAJ Hospital",
+        "headline": "Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? | RAJ Hospital",
         "description": "Saans lene mein dikkat ho to kya karein, breathing problems ke causes aur ilaj के बारे में जानें। shortness of breath, dyspnea treatment और prevention tips।",
         "url": "https://rajhospitals.com/blog/saans-lene-mein-dikkat-ho-to-kya-kare",
         "image": "https://rajhospitals.com/blog/assets/img/featured/saans-lene-mein-dikkat-ho-to-kya-kare.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Saans Lene Mein Dikkat (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> Difficulty) - Kya Karein? | RAJ Hospital"
+                "name": "Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? | RAJ Hospital"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -212,6 +212,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Pulmonology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Saans Lene Mein Dikkat (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> Difficulty) - Kya Karein?</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -225,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    इस article में <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">pulmonology</a> experts <strong>saans लेने में दिक्कत</strong> के causes, symptoms, treatment options, और prevention tips के बारे में detail से बताएंगे।
+                    इस article में <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> के <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">pulmonology</a> experts <strong>saans लेने में दिक्कत</strong> के causes, symptoms, treatment options, और prevention tips के बारे में general जानकारी दी गई है।
                 </p>
 
                 <!-- Section 1: What is Dyspnea -->
@@ -399,7 +400,7 @@
                 </div>
 
                 <!-- Section 6: Home Remedies -->
-                <h2 class="raj-h2">Breathing Difficulty Ke Gharelu Upchar</h2>
+                <h2 class="raj-h2">Breathing Difficulty Ke Gharelu Upchar (sirf mild ya diagnosed cases mein; achanak ya tez saans phoolne par turant emergency care lein)</h2>
 
                 <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
@@ -416,7 +417,7 @@
 
                 <div class="raj-callout raj-callout-success">
                     <ul class="space-y-2 text-gray-700">
-                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quit Smoking:</strong> यह breathing problems का सबसे common cause है।</li>
+                        <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Quit Smoking:</strong> यह COPD और कई lung problems का एक बड़ा कारण है।</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Regular Exercise:</strong> Cardiovascular fitness improve करता है।</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Healthy Weight:</strong> Obesity breathing difficulty बढ़ाती है।</li>
                         <li class="flex items-start gap-2"><span class="text-green-600"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span> <strong>Avoid Pollutants:</strong> Dust, smoke, chemicals से बचें।</li>
@@ -427,7 +428,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Breathing Problems Ki Jaanch Ke Liye Contact Karein</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced pulmonologists available hain।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में pulmonologist se paramarsh uplabdh hai।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -441,11 +442,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya anemia breathing difficulty करती hai?</h4>
-                        <p class="text-gray-700">Haan, low hemoglobin oxygen carry करने की capacity kam kar deta hai, जिससे exertion पर breathing difficulty होती है। Iron supplements aur diet se treatment possible hai।</p>
+                        <p class="text-gray-700">Haan, low hemoglobin oxygen carry करने की capacity kam kar deta hai, जिससे exertion पर breathing difficulty होती है। Jaanch se anemia ka kaaran pata karke doctor ki salah se iron supplements aur diet se treatment possible hai।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
-                        <h4 class="font-bold text-secondary-600 mb-2">Ghar par BP machine se oxygen level check kar sakte hain?</h4>
-                        <p class="text-gray-700">Haan, pulse oximeter से SpO2 level check कर सकते hain। 94% se नीचे हो तो doctor consult करें।</p>
+                        <h4 class="font-bold text-secondary-600 mb-2">Ghar par oxygen level kaise check kar sakte hain?</h4>
+                        <p class="text-gray-700">Haan, pulse oximeter से SpO2 level check कर सकते hain। 94% se नीचे हो तो doctor consult करें; 92% या उससे कम हो, होंठ नीले हों या सांस बहुत फूल रही हो तो तुरंत emergency care लें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya exercise breathing capacity improve kar sakti hai?</h4>
@@ -501,7 +502,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">सांस और फेफड़ों से जुड़ी देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -510,8 +511,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Pulmonologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

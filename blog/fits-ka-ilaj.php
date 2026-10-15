@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fits Ka Ilaj - Epilepsy Treatment in Hindi | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Fits (मिरगी/अपस्मार) का इलाज कैसे होता है। Ranchi में best epilepsy treatment, दवाइयां, और नियंत्रण के उपाय। RAJ Hospital के expert neurologists द्वारा।">
+    <meta name="description" content="Fits (मिरगी/अपस्मार) का इलाज कैसे होता है। Ranchi में epilepsy treatment, दवाइयां, और नियंत्रण के उपाय। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।">
     <meta name="keywords" content="fits ka ilaj, epilepsy treatment, mirgi ilaj, apsmaar ilaj, seizure treatment ranchi, neurologist ranchi, brain specialist ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/fits-ka-ilaj/">
@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Fits Ka Ilaj - Epilepsy Treatment in Hindi",
-        "description": "Fits (मिरगी/अपस्मार) का इलाज, दवाइयां, कारण और नियंत्रण के उपाय। RAJ Hospital Ranchi में expert <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> treatment।",
+        "description": "Fits (मिरगी/अपस्मार) का इलाज, दवाइयां, कारण और नियंत्रण के उपाय। RAJ Hospital Ranchi में expert neurology treatment।",
         "url": "https://rajhospitals.com/blog/fits-ka-ilaj/",
         "author": {
             "@type": "Organization",
@@ -124,7 +124,7 @@
                 "name": "Fits (मिरगी) क्या है और इसके क्या कारण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Fits या मिरगी (Epilepsy) एक neurological disorder है जिसमें brain की nerve cells में अचानक विद्युतीय गतिविधि में अनियमितता आ जाती है, जिससे दौरे (seizures) आते हैं। कारणों में brain injury, infections, genetic factors, brain tumors, और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">stroke</a> शामिल हैं।"
+                    "text": "Fits या मिरगी (Epilepsy) एक neurological disorder है जिसमें brain की nerve cells में अचानक विद्युतीय गतिविधि में अनियमितता आ जाती है, जिससे दौरे (seizures) आते हैं। कारणों में brain injury, infections, genetic factors, brain tumors, और stroke शामिल हैं।"
                 }
             },
             {
@@ -132,7 +132,7 @@
                 "name": "Fits का इलाज कैसे होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Fits का main treatment antiepileptic drugs (AEDs) है। अधिकतर patients को दवाइयों से नियंत्रण मिल जाता है। कुछ गंभीर cases में surgery या VNS (Vagus Nerve Stimulation) therapy की जा सकती है। RAJ Hospital Ranchi में हमारे expert neurologists comprehensive treatment plan बनाते हैं।"
+                    "text": "Fits का main treatment antiepileptic drugs (AEDs) है। अधिकतर patients को दवाइयों से नियंत्रण मिल जाता है। कुछ गंभीर cases में surgery या VNS (Vagus Nerve Stimulation) therapy की जा सकती है। RAJ Hospital Ranchi में neurologist मरीज की स्थिति के अनुसार treatment plan बनाते हैं।"
                 }
             },
             {
@@ -164,7 +164,7 @@
                 "name": "Fits के patients को क्या खांचा चाहिए और क्या नहीं खाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Fits के patients को: 1) Alcohol और caffeine से बचें 2) नियमित meal patterns बनाएं 3) Green vegetables, fruits, और protein rich food खाएं 4) Enough water पिएं 5) Processed food और excessive <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a> से बचें 6) Doctor की सलाह पर keto diet कुछ cases में helpful हो सकती है।"
+                    "text": "Fits के patients को: 1) Alcohol और caffeine से बचें 2) नियमित meal patterns बनाएं 3) Green vegetables, fruits, और protein rich food खाएं 4) Enough water पिएं 5) Processed food और excessive sugar से बचें 6) Doctor की सलाह पर keto diet कुछ cases में helpful हो सकती है।"
                 }
             },
             {
@@ -172,7 +172,7 @@
                 "name": "Fits से पीड़ित मरीज़ों के लिए रोज़मर्रा की ज़िंदगी में क्या सावधानियां रखनी चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Fits patients को: 1) समय पर दवाइयां लें 2) नियमित sleep लें (sleep deprivation से seizures बढ़ सकते हैं) 3) तैराकी और ऊंचाई वाली जगहों से बचें 4) Driving से पहले doctor की permission लें 5) <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> management करें 6) नियमित checkups कराएं 7) Medical alert bracelet पहनें।"
+                    "text": "Fits patients को: 1) समय पर दवाइयां लें 2) नियमित sleep लें (sleep deprivation से seizures बढ़ सकते हैं) 3) तैराकी और ऊंचाई वाली जगहों से बचें 4) Driving से पहले doctor की permission लें 5) stress management करें 6) नियमित checkups कराएं 7) Medical alert bracelet पहनें।"
                 }
             }
         ]
@@ -221,7 +221,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -274,7 +274,8 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Fits Ka Ilaj - मिरगी/अपस्मार का complete इलाज़ और नियंत्रण</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Fits Ka Ilaj - मिरगी/अपस्मार का इलाज़ और नियंत्रण</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -288,7 +289,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital Ranchi में हमारी expert <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> team <strong>epilepsy treatment</strong> में specialized है। हमारे पास advanced diagnostic tools और latest treatment protocols उपलब्ध हैं। अगर आप या आपके किसी परिचित को fits की समस्या है, तो हमारे <a href="/doctor-profile.php" class="text-primary-600 hover:underline font-semibold">experienced neurologists</a> से ज़रूर मिलें।
+                    RAJ Hospital Ranchi में हमारी expert <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> team <strong>epilepsy treatment</strong> में specialized है।  अगर आप या आपके किसी परिचित को fits की समस्या है, तो हमारे <a href="/doctor-profile.php" class="text-primary-600 hover:underline font-semibold">experienced neurologists</a> से ज़रूर मिलें।
                 </p>
 
                 <div class="bg-blue-100 border-2 border-primary-600 p-4 rounded-lg mb-6">
@@ -304,7 +305,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    यह समझना ज़रूरी है कि <strong>fits एक बीमारी है, कोई curse या evil spirit नहीं</strong>। पुराने समय में लोग इसे अंधविश्वास से जोड़ते थे, लेकिन modern medicine में यह completely treatable है। अगर आपको या आपके परिवार में किसी को यह problem है, तो घबराएं नहीं - <a href="/epilepsy-and-seizures-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">proper medical treatment</a> से नियंत्रण मिल सकता है।
+                    यह समझना ज़रूरी है कि <strong>fits एक बीमारी है, कोई curse या evil spirit नहीं</strong>। पुराने समय में लोग इसे अंधविश्वास से जोड़ते थे, लेकिन modern medicine में ज़्यादातर मरीजों में दवाइयों से दौरे नियंत्रित किए जा सकते हैं, हालांकि कुछ मरीजों में दवाइयों के बावजूद दौरे आते रहते हैं। अगर आपको या आपके परिवार में किसी को यह problem है, तो घबराएं नहीं - <a href="/epilepsy-and-seizures-treatment-in-ranchi.php" class="text-primary-600 hover:underline font-semibold">proper medical treatment</a> से नियंत्रण मिल सकता है।
                 </p>
 
                 <!-- Section 2: Types -->
@@ -392,7 +393,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">1. EEG (Electroencephalogram)</h4>
-                        <p class="text-sm text-gray-600">Brain की electrical activity को measure करता है। यह diagnosis में most important test है। Seizure patterns identify करने में helpful है।</p>
+                        <p class="text-sm text-gray-600">Brain की electrical activity को measure करता है। यह diagnosis में एक महत्वपूर्ण test है, लेकिन normal EEG होने से epilepsy rule out नहीं होती। Seizure patterns identify करने में helpful है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">2. MRI (Magnetic Resonance Imaging)</h4>
@@ -457,7 +458,7 @@
                         <li>2. Patient को <strong>सुरक्षित जगह</strong> पर लिटाएं</li>
                         <li>3. <strong>Tight clothes</strong> ढीले करें</li>
                         <li>4. सिर के नीचे <strong>soft thing</strong> रखें</li>
-                        <li>5. चीज़ें दांतों में न डालें (ज़बान काटने का risk है)</li>
+                        <li>5. मुंह में चम्मच, उंगली या कपड़ा जैसी कोई चीज़ न डालें (इससे दांत टूटने या दम घुटने का खतरा होता है)</li>
                         <li>6. दौरे के दौरान <strong>पकड़कर रोकने</strong> की कोशिश न करें</li>
                         <li>7. Patient को <strong>करवट की position</strong> में रखें (ताकि vomit/ saliva बाहर आए)</li>
                     </ul>
@@ -530,7 +531,7 @@
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">Fits (Epilepsy) का Expert इलाज</h3>
+                    <h3 class="text-xl font-bold mb-2">Fits (Epilepsy) का इलाज</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में experienced neurologists द्वारा comprehensive epilepsy diagnosis और treatment उपलब्ध है। 24x7 emergency services भी available हैं।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
@@ -570,8 +571,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Fits Ka Ilaj - Epilepsy Treatment in Hindi पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Fits (मिरगी/अपस्मार) का इलाज कैसे होता है। Ranchi में best epilepsy treatment, दवाइयां, और नियंत्रण के उपाय। RAJ Hospital के expert neurologists द्वारा।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Fits Ka Ilaj - Epilepsy Treatment in Hindi: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Fits (मिरगी/अपस्मार) का इलाज कैसे होता है। Ranchi में epilepsy treatment, दवाइयां, और नियंत्रण के उपाय। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Fits Ka Ilaj - Epilepsy Treatment in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -587,7 +588,7 @@
                         <li><a href="/blog/migraine-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: माइग्रेन के लक्षण - कारण, प्रकार और इलाज</a></li>
                         <li><a href="/blog/gas-se-peeth-dard-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi</a></li>
                         <li><a href="/blog/headaches-types-causes-treatment-solutions.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Headaches Types, Causes aur Treatment Solutions</a></li>
-                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Best Orthopedic Care</a></li>
+                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Orthopedic Care</a></li>
                         <li><a href="/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Green Tea on Empty Stomach - Benefits and Side Effects</a></li>
                         <li><a href="/blog/physical-therapy-for-headaches-benefits-techniques-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Physical Therapy for Headaches - Benefits, Techniques and Treatment</a></li>
                     </ul>
@@ -614,7 +615,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -623,8 +624,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Neurologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Dr. Suraj Mani Bhattacharjee – Dental in Ranchi";
 $pageDescription = "Dr. Suraj Mani Bhattacharjee is an experienced Dental Surgeon at Raj Hospital, Ranchi with 10+ years expertise in dental implants & root canal. Book now.";
-$pageKeywords = "Dr. Suraj Mani Bhattacharjee, Dentist in Ranchi, Best Dental Surgeon Ranchi, dental implants Ranchi, Dr. Suraj Mani Raj Hospital";
+$pageKeywords = "Dr. Suraj Mani Bhattacharjee, Dentist in Ranchi, Dental Surgeon Ranchi, dental implants Ranchi, Dr. Suraj Mani Raj Hospital";
 $canonicalUrl = "https://rajhospitals.com/doctors/suraj-mani-bhattacharjee";
 $ogType = "profile";
 $base_url = "../";
@@ -78,7 +78,7 @@ include($base_url . 'header.php');
                         </div>
                         <div class="flex items-center gap-2">
                             <i data-feather="user-check" class="w-5 h-5 text-[#E31C23]"></i>
-                            <span>Verified Specialist</span>
+                            <span>RAJ Hospitals Doctor</span>
                         </div>
                     </div>
                     <button onclick="openBookingModal('Dr. Suraj Mani Bhattacharjee')"
@@ -105,8 +105,8 @@ include($base_url . 'header.php');
                         </h2>
                         <p class="text-gray-600 leading-relaxed text-lg">
                             Dr. Suraj Mani Bhattacharjee is an experienced dentist with over 10 years of expertise,
-                            having performed 5000+ root canal treatments and multiple mouth rehabilitations. He has
-                            served as clinical head in leading dental chains and worked as a cosmetic dentist for
+                            including root canal treatments and full-mouth rehabilitation. He has
+                            served as clinical head in dental chains and worked as a cosmetic dentist for
                             Mahavir International NGO.
                         </p>
                     </div>
@@ -122,8 +122,8 @@ include($base_url . 'header.php');
                             $expertise = [
                                 'Cosmetic Dentistry',
                                 'Implantology',
-                                'Laser Specialist',
-                                'Smile Designer',
+                                'Laser Dentistry',
+                                'Smile Design',
                                 'Dental Filling',
                                 'Root Canal Treatment (RCT)',
                                 'Crowns & Bridges',
@@ -262,6 +262,10 @@ include($base_url . 'header.php');
                     </div>
 
                     <!-- Modal Footer -->
+                    <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                        <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                        <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                    </label>
                     <div class="pt-4 sm:flex sm:flex-row-reverse border-t">
                         <button type="submit"
                             class="inline-flex w-full justify-center rounded-md bg-[#E31C23] px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-red-700 sm:ml-3 sm:w-auto transition-colors">

@@ -13,7 +13,7 @@ $base_url = '../';
     <meta name="author" content="RAJ Hospital Ranchi">
     <link rel="canonical" href="https://rajhospitals.com/blog/kya-dermatologist-baalon-ke-jhadne-ka-ilaj-kar-sakte-hain/">
     <meta property="og:title" content="क्या डर्मेटोलॉजिस्ट बालों के झड़ने का इलाज कर सकते हैं? | RAJ Hospital">
-    <meta property="og:description" content="विशेषज्ञ त्वचा रोग विशेषज्ञ से जानिए बाल झड़ने के कारण, उपचार और बचाव के उपाय।">
+    <meta property="og:description" content="जानिए बाल झड़ने के कारण, उपचार और बचाव के उपाय।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/kya-dermatologist-baalon-ke-jhadne-ka-ilaj-kar-sakte-hain/">
     <meta property="og:image" content="https://rajhospitals.com/images/og-default.jpg">
@@ -87,7 +87,7 @@ $base_url = '../';
                 "name": "PRP हेयर ट्रीटमेंट क्या है और यह कितना प्रभावी है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "PRP (प्लेटलेट रिच प्लाज़्मा) थेरेपी में खुद के खून से प्लेटलेट्स को अलग करके स्कैल्प में इंजेक्ट किया जाता है। यह बालों की वृद्धि को उत्तेजित करता है और 60-70% मामलों में प्रभावी पाया गया है।"
+                    "text": "PRP (प्लेटलेट रिच प्लाज़्मा) थेरेपी में खुद के खून से प्लेटलेट्स को अलग करके स्कैल्प में इंजेक्ट किया जाता है। यह बालों की वृद्धि को उत्तेजित करता है और कई मामलों में फायदेमंद पाया गया है।"
                 }
             },
             {
@@ -111,7 +111,7 @@ $base_url = '../';
                 "name": "महिलाओं में बाल झड़ने के कारण क्या हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "महिलाओं में बाल झड़ने के कारणों में हार्मोनल बदलाव (गर्भावस्था, मेनोपॉज़), <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a>/PCOS, आयरन की कमी, तनाव, और अत्यधिक हेयर स्टाइलिंग शामिल हैं।"
+                    "text": "महिलाओं में बाल झड़ने के कारणों में हार्मोनल बदलाव (गर्भावस्था, मेनोपॉज़), PCOD/PCOS, आयरन की कमी, तनाव, और अत्यधिक हेयर स्टाइलिंग शामिल हैं।"
                 }
             }
         ]
@@ -201,6 +201,7 @@ $base_url = '../';
             <h1 class="text-3xl md:text-4xl font-bold mb-4">
                 क्या डर्मेटोलॉजिस्ट बालों के झड़ने का इलाज कर सकते हैं?
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <div class="flex items-center text-sm text-white/80 space-x-4">
                 <span class="flex items-center">
                     <i data-feather="user" class="w-4 h-4 mr-1"></i>
@@ -311,9 +312,9 @@ $base_url = '../';
             </p>
             <ul class="list-disc pl-6 mb-4 text-gray-700 space-y-2">
                 <li>गैर-सर्जिकल उपचार</li>
-                <li>कोई गंभीर साइड इफेक्ट नहीं</li>
-                <li>60-70% मामलों में प्रभावी</li>
-                <li>आपके खुद के खून का उपयोग (एलर्जी का कोई खतरा नहीं)</li>
+                <li>साइड इफेक्ट आमतौर पर हल्के होते हैं (जैसे इंजेक्शन की जगह दर्द या सूजन); डॉक्टर से जोखिम ज़रूर समझें</li>
+                <li>कई मामलों में फायदेमंद</li>
+                <li>आपके खुद के खून का उपयोग (एलर्जी का खतरा बहुत कम)</li>
             </ul>
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">मेसोथेरेपी</h3>
@@ -323,7 +324,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">मिनॉक्सिडिल और फिनास्टराइड</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                <strong>मिनॉक्सिडिल</strong> एक टॉपिकल सॉल्यूशन है जो बालों की वृद्धि को उत्तेजित करता है और झड़ने को रोकता है। <strong>फिनास्टराइड</strong> एक ओरल दवा है जो DHT हार्मोन को कम करती है। ये दोनों FDA-अप्रूव्ड उपचार हैं।
+                <strong>मिनॉक्सिडिल</strong> एक टॉपिकल सॉल्यूशन है जो बालों की वृद्धि को उत्तेजित कर सकता है और झड़ना कम कर सकता है; इसे भी डॉक्टर की सलाह से ही इस्तेमाल करें। <strong>फिनास्टराइड</strong> एक ओरल दवा है जो DHT हार्मोन को कम करती है। ये दोनों FDA-अप्रूव्ड उपचार हैं।
             </p>
             <div class="bg-blue-50 border-l-4 border-hospital-blue p-4 rounded-r-lg mb-6">
                 <p class="text-gray-700 text-sm"><strong>नोट:</strong> फिनास्टराइड केवल पुरुषों के लिए है और इसे केवल डॉक्टर की सलाह पर ही लेना चाहिए।</p>
@@ -331,7 +332,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">हेयर ट्रांसप्लांट</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                जब दवाइयाँ और थेरेपी काम नहीं करतीं, तो हेयर ट्रांसप्लांट एक स्थायी समाधान है। इसमें बालों के घने क्षेत्र (आमतौर पर पीछे) से ग्राफ्ट्स लेकर गंजे क्षेत्र में लगाए जाते हैं।
+                जब दवाइयाँ और थेरेपी काम नहीं करतीं, तो हेयर ट्रांसप्लांट एक लंबे समय तक चलने वाला विकल्प हो सकता है। इसमें बालों के घने क्षेत्र (आमतौर पर पीछे) से ग्राफ्ट्स लेकर गंजे क्षेत्र में लगाए जाते हैं।
             </p>
             <p class="text-gray-700 mb-6 leading-relaxed">
                 <strong>भारत में हेयर ट्रांसप्लांट की अनुमानित लागत:</strong>
@@ -375,16 +376,16 @@ $base_url = '../';
                         <li>टेम्पल्स से शुरू होकर गंजापन (Male Pattern Baldness)</li>
                         <li>सिर के ऊपर का हिस्सा प्रभावित</li>
                         <li>पीछे के बाल सामान्यतः बचे रहते हैं</li>
-                        <li>60% पुरुषों को 50 साल तक प्रभावित</li>
+                        <li>50 साल की उम्र तक बड़ी संख्या में पुरुषों को प्रभावित</li>
                     </ul>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h4 class="font-bold text-gray-800 mb-2">महिलाओं में</h4>
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
                         <li>सिर के बीच का हिस्सा पतला हो जाता है (Female Pattern Baldness)</li>
-                        <li>पूरा सिर प्रभावित होता है</li>
+                        <li>सिर के ऊपरी हिस्से में बाल फैलकर पतले होते हैं, आगे की hairline आमतौर पर बची रहती है</li>
                         <li>गंजापन आमतौर पर नहीं होता</li>
-                        <li>40% महिलाओं को जीवन में कभी न कभी प्रभावित</li>
+                        <li>कई महिलाओं को जीवन में कभी न कभी प्रभावित</li>
                     </ul>
                 </div>
             </div>
@@ -472,7 +473,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">अभी अपॉइंटमेंट बुक करें</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में बालों के विशेषज्ञ डर्मेटोलॉजिस्ट से मिलें</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>
@@ -496,7 +497,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: PRP हेयर ट्रीटमेंट क्या है और यह कितना प्रभावी है?</h4>
-                    <p class="text-gray-700 text-sm">PRP (प्लेटलेट रिच प्लाज़्मा) थेरेपी में खुद के खून से प्लेटलेट्स को अलग करके स्कैल्प में इंजेक्ट किया जाता है। यह बालों की वृद्धि को उत्तेजित करता है और 60-70% मामलों में प्रभावी पाया गया है।</p>
+                    <p class="text-gray-700 text-sm">PRP (प्लेटलेट रिच प्लाज़्मा) थेरेपी में खुद के खून से प्लेटलेट्स को अलग करके स्कैल्प में इंजेक्ट किया जाता है। यह बालों की वृद्धि को उत्तेजित करता है और कई मामलों में फायदेमंद पाया गया है।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -523,7 +524,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital के त्वचा एवं बाल रोग विशेषज्ञ। हमारी टीम आपकी त्वचा और बालों की समस्याओं का प्रभावी इलाज करती है। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">यह लेख RAJ Hospital Ranchi द्वारा सामान्य स्वास्थ्य जानकारी के लिए तैयार किया गया है। व्यक्तिगत सलाह के लिए त्वचा रोग विशेषज्ञ (dermatologist) से मिलें। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

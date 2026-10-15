@@ -8,8 +8,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>माइग्रेन के लक्षण - कारण, प्रकार और इलाज | RAJ Hospital Ranchi</title>
-    <meta name="description" content="माइग्रेन के प्रमुख लक्षण, कारण और प्रभावी इलाज जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists की advice।">
-    <meta name="keywords" content="migraine symptoms, माइग्रेन, headache, migraine in Hindi, पक्षघात, माइग्रेन का इलाज, severe headache">
+    <meta name="description" content="माइग्रेन के प्रमुख लक्षण, कारण और प्रभावी इलाज जानें। जानें कब डॉक्टर को दिखाना है। ">
+    <meta name="keywords" content="migraine symptoms, माइग्रेन, headache, migraine in Hindi, अधकपारी, माइग्रेन का इलाज, severe headache">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/migraine-symptoms-in-hindi/">
 
@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,8 +90,8 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "माइग्रेन के लक्षण - कारण, प्रकार और इलाज | RAJ Hospital Ranchi",
-        "description": "माइग्रेन के प्रमुख लक्षण, कारण और प्रभावी इलाज जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists की advice।",
-        "url": "https://rajhospitals.com/blog/<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a>-symptoms-in-hindi/",
+        "description": "माइग्रेन के प्रमुख लक्षण, कारण और प्रभावी इलाज जानें। जानें कब डॉक्टर को दिखाना है। ",
+        "url": "https://rajhospitals.com/blog/migraine-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/migraine-symptoms-in-hindi.png",
         "author": {
             "@type": "Organization",
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -213,6 +213,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">माइग्रेन के लक्षण - कारण, प्रकार और इलाज</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -226,7 +227,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>माइग्रेन</strong> एक गंभीर प्रकार का सिरदर्द है जो hours से लेकर days तक रह सकता है। यह सिर के एक तरफ होता है और साथ में light sensitivity, sound sensitivity और nausea जैसे लक्षण हो सकते हैं। भारत में करोड़ों लोग माइग्रेन से प्रभावित हैं।
+                    <strong>माइग्रेन</strong> एक गंभीर प्रकार का सिरदर्द है जो hours से लेकर days तक रह सकता है। यह अक्सर सिर के एक तरफ होता है (कभी-कभी दोनों तरफ भी) और साथ में light sensitivity, sound sensitivity और nausea जैसे लक्षण हो सकते हैं। भारत में करोड़ों लोग माइग्रेन से प्रभावित हैं।
                 </p>
 
                 <!-- Section 1 -->
@@ -284,7 +285,7 @@
                         <p class="text-sm text-gray-600">तेज़ आवाज़ सुनने में परेशानी। शांत जगह पसंद करना।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">5. Aura (प्रोड्रोमल लक्षण)</h4>
+                        <h4 class="font-bold text-secondary-600">5. Aura (ऑरा)</h4>
                         <p class="text-sm text-gray-600">चमकते spots, दृष्टि में परिवर्तन, हाथों में सुन्नपन, बोलने में कठिनाई।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
@@ -298,7 +299,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>तनाव और चिंता:</strong> सबसे आम trigger। mental <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> से दर्द शुरू हो सकता है।</li>
-                    <li><strong>खान-पान:</strong> चॉकलेट, पनीर, processed foods, caffeine, alcohol।</li>
+                    <li><strong>खान-पान:</strong> चॉकलेट, पुराना (aged) cheese, processed foods, caffeine, alcohol (triggers हर व्यक्ति में अलग होते हैं)।</li>
                     <li><strong>Hormonal changes:</strong> महिलाओं में <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> के दौरान या pregnancy में।</li>
                     <li><strong>नींद:</strong> कम नींद या ज्यादा नींद, irregular sleep patterns।</li>
                     <li><strong>मौसम:</strong> गर्मी, humidity, तेज़ रोशनी या बदलता मौसम।</li>
@@ -312,11 +313,11 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">दवाइयाँ (Acute Treatment)</h4>
-                        <p class="text-sm text-gray-600">Pain killers, Triptans (Sumatriptan, Rizatriptan), anti-nausea दवाइयाँ।</p>
+                        <p class="text-sm text-gray-600">डॉक्टर की सलाह से: Pain killers, Triptans (जैसे Sumatriptan, Rizatriptan), anti-nausea दवाइयाँ। Triptans दिल की बीमारी, अनियंत्रित BP या hemiplegic migraine में नहीं दी जातीं, इसलिए खुद से न लें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">दवाइयाँ (Preventive)</h4>
-                        <p class="text-sm text-gray-600">Beta-blockers, Antidepressants, Anti-epileptics जो दर्द की frequency कम करती हैं।</p>
+                        <p class="text-sm text-gray-600">Beta-blockers, Antidepressants, Anti-epileptics जो दर्द की frequency कम करती हैं (केवल doctor के prescription पर)।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600">Lifestyle Changes</h4>
@@ -331,7 +332,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">माइग्रेन की जांच करवाएं</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> experts MRI और specialized migraine treatment available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> विभाग में consultation, MRI और migraine की जांच व इलाज उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -341,7 +342,7 @@
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700"><i data-feather="alert-triangle" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i> तुरंत डॉक्टर से मिलें अगर:</strong>
                     <ul class="list-disc list-inside space-y-1 text-gray-700 mt-2">
-                        <li>पहली बार सबसे तेज़ सिरदर्द हो जो पहले कभी नहीं हुआ</li>
+                        <li>अचानक, अब तक का सबसे तेज़ सिरदर्द हो (thunderclap) - तुरंत emergency में जाएं</li>
                         <li>दृष्टि में बदलाव, बोलने में कठिनाई, या शरीर में कमज़ोरी</li>
                         <li>गर्दन में अकड़न और बुखार के साथ सिरदर्द</li>
                         <li>दर्द हफ्तों से ज्यादा बार-बार हो रहा है</li>
@@ -373,8 +374,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">माइग्रेन के लक्षण - कारण, प्रकार और इलाज पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">माइग्रेन के प्रमुख लक्षण, कारण और प्रभावी इलाज जानें। जानें कब डॉक्टर को दिखाना है। Ranchi के best neurologists की advice।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">माइग्रेन के लक्षण - कारण, प्रकार और इलाज: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">माइग्रेन के प्रमुख लक्षण, कारण और प्रभावी इलाज जानें। जानें कब डॉक्टर को दिखाना है। </p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। माइग्रेन के लक्षण - कारण, प्रकार और इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -389,7 +390,7 @@
                         <li><a href="/blog/fits-ka-ilaj.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Fits Ka Ilaj - Epilepsy Treatment in Hindi</a></li>
                         <li><a href="/blog/headaches-types-causes-treatment-solutions.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Headaches Types, Causes aur Treatment Solutions</a></li>
                         <li><a href="/blog/difference-between-migraine-and-headache-key-differences-explained.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Migraine vs Headache - Key Differences Explained</a></li>
-                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Best Orthopedic Care</a></li>
+                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Orthopedic Care</a></li>
                         <li><a href="/blog/benefits-of-green-tea-on-an-empty-stomach-boost-your-health-with-these-powerful-effects.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Green Tea on Empty Stomach - Benefits and Side Effects</a></li>
                         <li><a href="/blog/bone-hydrogel-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Bone Hydrogel Treatment in Hindi</a></li>
                     </ul>
@@ -416,7 +417,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -425,8 +426,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Neurologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Pain Management</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Physical Therapy for Headaches - Effective Treatment Options</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -227,23 +228,23 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Physical therapy for headaches</strong> offers a safe, effective, and drug-free approach to managing and treating various types of headaches. At RAJ Hospital Ranchi, our experienced physical therapists use evidence-based techniques to provide lasting relief from chronic headaches.
+                    <strong>Physical therapy for headaches</strong> can be a safe, drug-free option for managing some types of headaches. At RAJ Hospital Ranchi, physiotherapists use evidence-based techniques that may help reduce chronic headaches.
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    If you suffer from <strong>frequent headaches</strong> that don't respond to medication, or want to avoid long-term drug use, physical therapy may be the solution you've been looking for.
+                    If you suffer from <strong>frequent headaches</strong> that don't respond to medication, first get evaluated by a doctor to rule out other causes (including medicine-overuse headache); physical therapy may then be part of your treatment plan.
                 </p>
 
                 <!-- Section 1: Why Physical Therapy -->
                 <h2 class="raj-h2">Why Choose Physical Therapy for Headaches?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Many headaches, especially <strong>tension-type</strong> and <strong>cervicogenic headaches</strong>, originate from musculoskeletal problems in the neck and upper back. Physical therapy addresses these root causes rather than just masking symptoms with medication.
+                    Many headaches, especially <strong>tension-type</strong> and <strong>cervicogenic headaches</strong>, originate from musculoskeletal problems in the neck and upper back. Physical therapy can address these musculoskeletal factors and may be used along with medicines prescribed by your doctor.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
-                    <strong class="text-blue-700">Research shows:</strong>
-                    <span class="text-gray-700"> Physical therapy is as effective as medication for tension-type headaches, with better long-term outcomes and fewer side effects.</span>
+                    <strong class="text-blue-700">Note:</strong>
+                    <span class="text-gray-700"> Physical therapy may help some people with tension-type headaches and can be used along with treatment advised by a doctor.</span>
                 </div>
 
                 <!-- Section 2: Who Benefits -->
@@ -332,27 +333,12 @@
                 <h2 class="raj-h2">Expected Results</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Most patients experience <strong>significant improvement</strong> within the first few sessions. Studies show:
+                    Some patients notice <strong>significant improvement</strong> over several sessions; results vary from person to person.
                 </p>
-
-                <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
-                    <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl font-bold text-green-600">50%</div>
-                        <div class="text-sm text-gray-600">Reduction in <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> frequency</div>
-                    </div>
-                    <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl font-bold text-green-600">60%</div>
-                        <div class="text-sm text-gray-600">Decrease in pain intensity</div>
-                    </div>
-                    <div class="bg-green-50 p-4 rounded-lg text-center">
-                        <div class="text-2xl font-bold text-green-600">80%</div>
-                        <div class="text-sm text-gray-600">Patient satisfaction rate</div>
-                    </div>
-                </div>
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">Get Relief from Chronic Headaches</h3>
+                    <h3 class="text-xl font-bold mb-2">Physical Therapy Consultation for Headaches</h3>
                     <p class="opacity-90 mb-4">Book a physical therapy consultation at RAJ Hospital Ranchi today.</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
@@ -371,12 +357,12 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Do I need a doctor's referral?</h4>
-                        <p class="text-gray-700">In most cases, you can directly book with our physical therapy department. However, some insurance plans may require a referral.</p>
+                        <p class="text-gray-700">For new, severe or changing headaches, please see a doctor first; for known tension-type or neck-related headaches you can book directly with our physiotherapy department. However, some insurance plans may require a referral.</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Physical Therapy for Headaches - Effective Treatment Options पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Physical Therapy for Headaches - Effective Treatment Options पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Physical Therapy for Headaches - Effective treatment options for tension headaches, migraines and cervicogenic headaches. Learn about PT techniques and benefits.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Physical Therapy for Headaches - Effective Treatment Options शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -420,7 +406,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -429,8 +415,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Physiotherapist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

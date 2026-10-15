@@ -208,9 +208,10 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Emergency &amp; Trauma Care</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">The First Ten Minutes in Our Emergency Room, Explained</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Emergency Medicine Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Ranchi Editorial Team</span>
                 </div>
             </div>
 
@@ -243,7 +244,7 @@
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="check-circle" class="raj-icon raj-icon-md raj-icon-green"></i> Green &mdash; stable</h3>
-                        <p class="text-sm text-gray-700">Needs care but can safely wait. Minor cuts, sprains, mild fever, most dressings. This is the category that waits longest and is also the category with the best prognosis.</p>
+                        <p class="text-sm text-gray-700">Needs care but can safely wait. Minor cuts, sprains, mild fever, most dressings. This is the category that waits longest and usually has a good prognosis.</p>
                     </div>
                 </div>
                 <p class="text-gray-700 mb-4 mt-4">
@@ -287,7 +288,7 @@
                     Two things change that arithmetic at Raj Hospitals. The first is a <strong>fleet of equipped ambulances</strong>, which matters more than most families realise. An ambulance is not a taxi with a siren. Oxygen, monitoring, intravenous access and initial treatment begin inside the vehicle, and the receiving team is briefed by phone before arrival, so the cardiology or trauma team can be standing ready rather than being summoned once the patient is on the trolley. The second is a <strong>helipad</strong>, which removes road time entirely for the small number of cases where road time is the difference between a survivable and an unsurvivable injury.
                 </p>
                 <p class="text-gray-700 mb-4">
-                    The practical takeaway for families outside the city: for a serious event, the nearest hospital is not automatically the right hospital. What matters is the nearest hospital with a catheterisation lab, a CT scanner, an operating theatre and an intensive care unit staffed at that hour. This is the same logic behind how we manage <a href="/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/" class="text-secondary-600 hover:underline font-semibold">stroke treatment in Ranchi</a>, where the treatment window is measured in hours and a wasted transfer can close it permanently.
+                    The practical takeaway for families outside the city: for a serious event, the nearest hospital is not automatically the right hospital - follow the advice of the 108/ambulance team, because an unstable patient may first need stabilisation at the nearest facility. What matters is the nearest hospital with a catheterisation lab, a CT scanner, an operating theatre and an intensive care unit staffed at that hour. This is the same logic behind how we manage <a href="/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/" class="text-secondary-600 hover:underline font-semibold">stroke treatment in Ranchi</a>, where the treatment window is measured in hours and a wasted transfer can close it permanently.
                 </p>
 
                 <h2 class="raj-h2"><i data-feather="help-circle" class="raj-h2-icon"></i> What Family Members Should Do (and Not Do) While Waiting</h2>
@@ -386,11 +387,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">What is the golden hour in trauma care?</h3>
-                        <p class="text-gray-700">It describes the period immediately after serious injury when controlling bleeding, securing the airway and restoring circulation have the greatest effect on survival. It is a principle rather than a strict countdown, and it explains why trauma patients from outside Ranchi are best moved directly to a hospital with surgical and intensive care capability rather than to the nearest facility first.</p>
+                        <p class="text-gray-700">It describes the period immediately after serious injury when controlling bleeding, securing the airway and restoring circulation have the greatest effect on survival. It is a principle rather than a strict countdown, and it explains why trauma patients from outside Ranchi should ideally be moved directly to a hospital with surgical and intensive care capability rather than to the nearest facility first.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">How many attendants can stay with the patient?</h3>
-                        <p class="text-gray-700">Usually one inside the treatment area, with the rest waiting outside. This is not obstruction. Emergency bays are narrow, resuscitation needs unobstructed access, and other patients have a right to privacy. The single attendant should be the person who knows the medical history best, not simply the most senior family member present.</p>
+                        <p class="text-gray-700">Usually one inside the treatment area, with the rest waiting outside. This is not obstruction. Emergency bays are narrow, resuscitation needs unobstructed access, and other patients have a right to privacy. The single attendant should be the person who knows the medical history most closely, not simply the most senior family member present.</p>
                     </div>
                 </div>
 
@@ -412,7 +413,7 @@
                     <div class="w-16 h-16 shrink-0 rounded-full bg-red-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Emergency Medicine Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Reviewed by our emergency and critical care consultants &middot; <a href="/contact" class="text-secondary-600 hover:underline">Contact &amp; directions</a></p>
+                        <p class="text-sm text-gray-500"><a href="/contact" class="text-secondary-600 hover:underline">Contact &amp; directions</a></p>
                     </div>
                 </div>
 

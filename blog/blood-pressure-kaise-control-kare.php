@@ -7,7 +7,7 @@ $base_url = '../';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="ब्लड प्रेशर कैसे कंट्रोल करें? - घरेलू उपाय और आयुर्वेदिक नुस्खे | RAJ Hospital Ranchi">
-    <meta name="description" content="High blood pressure control karne ke upay in Hindi. जानिए ब्लड प्रेशर को कंट्रोल में रखने के Natural तरीके, lifestyle changes, और best home remedies।">
+    <meta name="description" content="High blood pressure control karne ke upay in Hindi. जानिए ब्लड प्रेशर को कंट्रोल में रखने के Natural तरीके, lifestyle changes, और helpful home remedies।">
     <meta name="keywords" content="blood pressure control in hindi, high bp remedies, bp kam karne ke tarike, low blood pressure treatment, takniki seema, high bp tips">
     <meta name="robots" content="index, follow">
     <meta name="author" content="RAJ Hospital Ranchi">
@@ -39,7 +39,7 @@ $base_url = '../';
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "ब्लड प्रेशर कैसे कंट्रोल करें?",
-        "description": "High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> को कंट्रोल करने के घरेलू उपाय, lifestyle changes, diet और आयुर्वेदिक नुस्खे।",
+        "description": "High blood pressure को कंट्रोल करने के घरेलू उपाय, lifestyle changes, diet और आयुर्वेदिक नुस्खे।",
         "author": {
             "@type": "Organization",
             "name": "RAJ Hospital Ranchi"
@@ -71,7 +71,7 @@ $base_url = '../';
                 "name": "ब्लड प्रेशर कितना होना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "सामान्य ब्लड प्रेशर 120/80 mmHg होता है। 130/80 से ऊपर को high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> माना जाता है। 90/60 से नीचे low blood pressure है।"
+                    "text": "सामान्य ब्लड प्रेशर 120/80 mmHg से कम होता है। 130/80 या उससे ऊपर को high blood pressure माना जाता है। 90/60 से नीचे low blood pressure है।"
                 }
             },
             {
@@ -111,7 +111,7 @@ $base_url = '../';
                 "name": "तनाव और BP में क्या संबंध है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "तनाव BP बढ़ाता है क्योंकि <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> hormones adrenaline और cortisol released होते हैं। लंबे समय तक तनाव से chronic hypertension हो सकता है।"
+                    "text": "तनाव BP बढ़ाता है क्योंकि stress hormones adrenaline और cortisol released होते हैं। लंबे समय तक तनाव से chronic hypertension हो सकता है।"
                 }
             }
         ]
@@ -201,6 +201,7 @@ $base_url = '../';
             <h1 class="text-3xl md:text-4xl font-bold mb-4">
                 ब्लड प्रेशर कैसे कंट्रोल करें? - Complete Guide
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <div class="flex items-center text-sm text-white/80 space-x-4">
                 <span class="flex items-center">
                     <i data-feather="user" class="w-4 h-4 mr-1"></i>
@@ -299,7 +300,7 @@ $base_url = '../';
                 <div class="flex flex-col md:flex-row items-center justify-between">
                     <div>
                         <h3 class="text-xl font-bold mb-2">BP की जाँच करें</h3>
-                        <p class="text-white/90">RAJ Hospital Ranchi में FREE BP चेकअप</p>
+                        <p class="text-white/90">RAJ Hospital Ranchi में BP चेकअप करवाएं</p>
                     </div>
                     <a href="https://rajhospitals.com/contact" class="mt-4 md:mt-0 bg-white text-hospital-blue px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
                         अपॉइंटमेंट बुक करें
@@ -314,7 +315,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">a) व्यायाम करें (Exercise)</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                रोज़ाना <strong>30 मिनट का व्यायाम</strong> BP को 5-8 mmHg तक कम कर सकता है। सबसे अच्छे विकल्प:
+                रोज़ाना <strong>30 मिनट का व्यायाम</strong> BP को 5-8 mmHg तक कम कर सकता है। उपयोगी विकल्प:
             </p>
             <ul class="list-disc pl-6 mb-4 text-gray-700 space-y-2">
                 <li><strong>पैदल चलना</strong> - रोज़ाना 30 मिनट तेज़ कदम से</li>
@@ -356,7 +357,7 @@ $base_url = '../';
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">c) वज़न कम करें</h3>
             <p class="text-gray-700 mb-4 leading-relaxed">
-                मोटापा High BP का प्रमुख कारण है। हर <strong>1 किलो वज़न कम करने से BP 1 mmHg</strong> तक कम हो सकता है। पेट की चर्बी (belly fat) सबसे खतरनाक है - पुरुषों में 40 inch, महिलाओं में 35 inch से कम रखें।
+                मोटापा High BP का प्रमुख कारण है। हर <strong>1 किलो वज़न कम करने से BP 1 mmHg</strong> तक कम हो सकता है। पेट की चर्बी (belly fat) सबसे खतरनाक है - पुरुषों में 90 cm (लगभग 35 inch), महिलाओं में 80 cm (लगभग 31.5 inch) से कम रखें।
             </p>
 
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">d) तनाव कम करें</h3>
@@ -383,7 +384,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">लहसुन खाएं</h4>
-                        <p class="text-gray-600 text-sm">लहसुन में allicin होता है जो blood vessels को आराम देता है। रोज़ाना 1-2 कच्चे लहसुन की कलियाँ चबाकर खाएं।</p>
+                        <p class="text-gray-600 text-sm">लहसुन में allicin होता है जो blood vessels को आराम देता है। रोज़ाना 1-2 कच्चे लहसुन की कलियाँ खा सकते हैं (blood thinner दवा ले रहे हों तो पहले डॉक्टर से पूछें)।</p>
                     </div>
                 </div>
 
@@ -393,7 +394,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">नींबू पानी पिएं</h4>
-                        <p class="text-gray-600 text-sm">गर्म पानी में नींबू का रस मिलाकर पिएं। यह blood vessels को लचीला बनाता है। सुबह खाली पेट पिएं।</p>
+                        <p class="text-gray-600 text-sm">गर्म पानी में नींबू का रस मिलाकर पिएं। यह hydration में मदद कर सकता है, लेकिन यह BP की दवा का विकल्प नहीं है।</p>
                     </div>
                 </div>
 
@@ -403,7 +404,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">अजमोद का रस</h4>
-                        <p class="text-gray-600 text-sm">अजमोद (parsley) में पोटेशियम होता है जो BP कम करता है। दिन में एक बार अजमोद का रस पिएं।</p>
+                        <p class="text-gray-600 text-sm">अजमोद (parsley) में पोटेशियम होता है; इसे संतुलित आहार के हिस्से के रूप में ले सकते हैं।</p>
                     </div>
                 </div>
 
@@ -413,7 +414,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">हाइड्रेटेड रहें</h4>
-                        <p class="text-gray-600 text-sm">रोज़ाना 8-10 गिलास पानी पिएं। शरीर में पानी की कमी से blood vessels सिकुड़ जाते हैं और BP बढ़ता है।</p>
+                        <p class="text-gray-600 text-sm">पर्याप्त पानी पिएं; अगर heart failure या kidney रोग है तो पानी की मात्रा डॉक्टर से पूछें।</p>
                     </div>
                 </div>
 
@@ -423,7 +424,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">पोटेशियम युक्त खाना</h4>
-                        <p class="text-gray-600 text-sm">केला, अमरूद, संतरा, पालक, और टमाटर में पोटेशियम होता है जो sodium को balance करता है और BP कम करता है।</p>
+                        <p class="text-gray-600 text-sm">केला, अमरूद, संतरा, पालक, और टमाटर में पोटेशियम होता है जो sodium को balance करने में मदद करता है। Kidney रोग हो या BP की कुछ दवाएं (जैसे ACE inhibitor/ARB) ले रहे हों तो पोटेशियम बढ़ाने से पहले डॉक्टर से पूछें।</p>
                     </div>
                 </div>
 
@@ -445,7 +446,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">हृदय रोग विशेषज्ञ से मिलें</h3>
                         <p class="text-white/90">BP की जाँच और उपचार के लिए</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>
@@ -454,7 +455,7 @@ $base_url = '../';
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
                 <span class="w-8 h-8 bg-hospital-blue text-white rounded-full flex items-center justify-center text-sm mr-3">5</span>
-                आयुर्वेदिक नुस्खे BP कम करने के लिए
+                आयुर्वेदिक जड़ी-बूटियाँ: डॉक्टर की सलाह क्यों ज़रूरी है
             </h2>
             <p class="text-gray-700 mb-4 leading-relaxed">
                 आयुर्वेद में BP को <strong>Vyana Vata Dushti</strong> माना जाता है। ये घरेलू नुस्खे मदद कर सकते हैं:
@@ -463,15 +464,15 @@ $base_url = '../';
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-yellow-50 p-4 rounded-lg">
                     <h4 class="font-bold text-yellow-700 mb-2">अश्वगंधा (Ashwagandha)</h4>
-                    <p class="text-gray-600 text-sm">यह एक adaptogen है जो तनाव कम करता है। 1 चम्मच अश्वगंधा चूर्ण गर्म दूध में मिलाकर सोने से पहले पिएं।</p>
+                    <p class="text-gray-600 text-sm">यह एक adaptogen है जो तनाव कम करता है। इसे लेने से पहले डॉक्टर से सलाह लें, खासकर अगर आप BP, thyroid या sugar की दवा ले रहे हैं या गर्भवती हैं।</p>
                 </div>
                 <div class="bg-yellow-50 p-4 rounded-lg">
-                    <h4 class="font-bold text-yellow-700 mb-2">अरणी (Arjuna)</h4>
-                    <p class="text-gray-600 text-sm">अरणी की छाल हृदय को मज़बूत करती है। अरणी चूर्ण 3-5 ग्राम दूध में मिलाकर लें।</p>
+                    <h4 class="font-bold text-yellow-700 mb-2">अर्जुन (Arjuna)</h4>
+                    <p class="text-gray-600 text-sm">अर्जुन की छाल पारंपरिक रूप से हृदय स्वास्थ्य के लिए उपयोग होती है। इसे लेने से पहले डॉक्टर से सलाह लें।</p>
                 </div>
                 <div class="bg-yellow-50 p-4 rounded-lg">
                     <h4 class="font-bold text-yellow-700 mb-2">सर्पगंधा</h4>
-                    <p class="text-gray-600 text-sm">यह रक्तचाप को नियंत्रित करने में मदद करता है। टैबलेट या चूर्ण के रूप में लें।</p>
+                    <p class="text-gray-600 text-sm">इसके गंभीर side effects हो सकते हैं, इसलिए इसे केवल डॉक्टर की देखरेख में ही लें — खुद से शुरू न करें।</p>
                 </div>
                 <div class="bg-yellow-50 p-4 rounded-lg">
                     <h4 class="font-bold text-yellow-700 mb-2">त्रिफला</h4>
@@ -480,7 +481,7 @@ $base_url = '../';
             </div>
 
             <div class="raj-callout raj-callout-warning">
-                <p class="text-gray-700 text-sm"><strong>सावधानी:</strong> आयुर्वेदिक दवाइयाँ भी दवाइयों की तरह प्रभावशाली हैं। अपॉइंटमेंट लेने से पहले अपने डॉक्टर से ज़रूर पूछें, खासकर अगर आप पहले से दवाइयाँ ले रहे हैं।</p>
+                <p class="text-gray-700 text-sm"><strong>सावधानी:</strong> आयुर्वेदिक दवाइयाँ भी दवाइयों की तरह प्रभावशाली हैं। इन्हें लेने से पहले अपने डॉक्टर से ज़रूर पूछें, खासकर अगर आप पहले से दवाइयाँ ले रहे हैं।</p>
             </div>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -547,7 +548,7 @@ $base_url = '../';
             <div class="space-y-4 mb-8">
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: ब्लड प्रेशर कितना होना चाहिए?</h4>
-                    <p class="text-gray-700 text-sm">सामान्य ब्लड प्रेशर 120/80 mmHg होता है। 130/80 से ऊपर को high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> माना जाता है। 90/60 से नीचे low blood pressure है।</p>
+                    <p class="text-gray-700 text-sm">सामान्य ब्लड प्रेशर 120/80 mmHg से कम होता है। 130/80 या उससे ऊपर को high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> माना जाता है। 90/60 से नीचे low blood pressure है।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -584,7 +585,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital के कार्डियोलॉजिस्ट हृदय रोगों के निदान और उपचार में विशेषज्ञ हैं। BP की जाँच और management के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">यह लेख सामान्य स्वास्थ्य जानकारी के लिए है। BP की जाँच और management के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

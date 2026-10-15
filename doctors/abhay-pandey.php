@@ -12,8 +12,8 @@ $doctor = [
         'Orthopedic & Traumatology Physiotherapy',
         'Yoga Therapy',
         'Manual Therapy',
-        'Cardiology',
-        'Chest Related Issues'
+        'Cardiopulmonary Rehabilitation',
+        'Chest Physiotherapy'
     ],
     'education' => [
         [

@@ -8,13 +8,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं? | RAJ Hospital Ranchi</title>
-    <meta name="description" content="High BP (उच्च रक्तचाप) में क्या खाना चाहिए और क्या नहीं खाना चाहिए। जानें DASH diet, fruits, vegetables और foods जो BP control करने में मदद करते हैं। Ranchi के best neuro hospital से complete guide।">
+    <meta name="description" content="High BP (उच्च रक्तचाप) में क्या खाना चाहिए और क्या नहीं खाना चाहिए। जानें DASH diet, fruits, vegetables और foods जो BP control करने में मदद करते हैं। RAJ Hospital Ranchi से complete guide।">
     <meta name="keywords" content="high bp food, उच्च रक्तचाप में क्या खाएं, blood pressure diet, DASH diet Hindi, high blood pressure diet plan, low sodium foods, bp control diet">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/high-bp-me-kya-khaye/">
 
     <meta property="og:title" content="High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं?">
-    <meta property="og:description" content="High BP में क्या खाना चाहिए और क्या नहीं। DASH diet और best foods for blood pressure control in Hindi।">
+    <meta property="og:description" content="High BP में क्या खाना चाहिए और क्या नहीं। DASH diet और helpful foods for blood pressure control in Hindi।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/high-bp-me-kya-khaye/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/high-bp-me-kya-khaye.png">
@@ -24,7 +24,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं?",
-        "description": "Complete guide about what to eat and what to avoid in High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>. DASH diet, low sodium foods, and healthy eating tips in Hindi.",
+        "description": "Complete guide about what to eat and what to avoid in High Blood Pressure. DASH diet, low sodium foods, and healthy eating tips in Hindi.",
         "url": "https://rajhospitals.com/blog/high-bp-me-kya-khaye/",
         "author": {
             "@type": "Organization",
@@ -98,7 +98,7 @@
                 "name": "High BP में कौन से fruits खाने चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "High BP के लिए सबसे अच्छे fruits हैं - केला (पोटैशियम), संतरा, अंगूर, आम, और बेर। ये fruits <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> control करने में मदद करते हैं। रोज़ 2-3 servings fruits ज़रूर लें।"
+                    "text": "High BP में फायदेमंद fruits हैं - केला (पोटैशियम), संतरा, अंगूर, आम, और बेर। ये fruits blood pressure control करने में मदद करते हैं। रोज़ 2-3 servings fruits ज़रूर लें।"
                 }
             },
             {
@@ -106,7 +106,7 @@
                 "name": "High BP में नमक कितना खाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "High BP में daily नमक 1500mg से 2300mg (1/2 से 1 चम्मच) से कम होना चाहिए। Processed foods, pickles, papads, और chips से बचें जिनमें ज़्यादा sodium होती है।"
+                    "text": "High BP में daily sodium 1500-2300 mg से कम होना चाहिए, यानी कुल नमक लगभग 5 ग्राम (एक छोटा चम्मच) से कम। Processed foods, pickles, papads, और chips से बचें जिनमें ज़्यादा sodium होती है।"
                 }
             },
             {
@@ -122,7 +122,7 @@
                 "name": "High BP में कौन सी vegetables खानी चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "High BP के लिए best vegetables हैं - पालक, करेला, भिंडी, गाजर, बीट, ब्रोकली, और पत्ता गोभी। ये leafy greens पोटैशियम और magnesium से भरपूर हैं जो BP control करने में मदद करते हैं।"
+                    "text": "High BP में फायदेमंद vegetables हैं - पालक, करेला, भिंडी, गाजर, बीट, ब्रोकली, और पत्ता गोभी। ये leafy greens पोटैशियम और magnesium से भरपूर हैं जो BP control करने में मदद करते हैं।"
                 }
             },
             {
@@ -138,7 +138,7 @@
                 "name": "High BP control करने के लिए क्या drink करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "High BP control के लिए अच्छे drinks हैं - नारियल पानी, sugarcane juice, fresh fruit juices without <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a>, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।"
+                    "text": "High BP control के लिए अच्छे drinks हैं - नारियल पानी, fresh fruit juices without sugar, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।"
                 }
             }
         ]
@@ -179,7 +179,7 @@
             "name": "क्या High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए High BP (High Blood Pressure) Ke Gharelu Upchar जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -203,7 +203,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -258,6 +258,7 @@
             <div class="p-6 md:p-10 border-b-4 border-primary-500">
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Diet</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं?</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 12 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -291,7 +292,7 @@
                 </p>
 
                 <!-- DASH Diet Section -->
-                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">DASH Diet क्या है - Best Diet for High BP</h2>
+                <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">DASH Diet क्या है - High BP के लिए उपयोगी Diet</h2>
 
                 <p class="text-gray-700 mb-4">
                     <strong>DASH (Dietary Approaches to Stop <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Hypertension</a>)</strong> diet विशेष रूप से high BP patients के लिए design किया गया है। इस diet को follow करने से BP 8-14 mmHg तक कम हो सकता है।
@@ -320,7 +321,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">केला (Banana)</h4>
-                        <p class="text-sm text-gray-600">केला potassium का excellent source है। रोज़ 1-2 केले खाने से BP control होता है। Potassium sodium के effects को balance करता है।</p>
+                        <p class="text-sm text-gray-600">केला potassium का अच्छा source है और BP control में मदद कर सकता है। (Kidney की बीमारी हो या BP की कुछ दवाइयां ले रहे हों तो potassium वाले foods के बारे में पहले doctor से पूछें।) Potassium sodium के effects को balance करता है।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">संतरा और जामुन (Orange & Berries)</h4>
@@ -348,7 +349,7 @@
                     </div>
                     <div class="flex items-start gap-3">
                         <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
-                        <p class="text-gray-700"><strong>करेला (Bitter Gourd)</strong> - BP control करने में very effective। Juicing करके पी सकते हैं।</p>
+                        <p class="text-gray-700"><strong>करेला (Bitter Gourd)</strong> - fiber से भरपूर सब्ज़ी है, इसे सब्ज़ी के रूप में खाएं। (Diabetes की दवा लेते हैं तो करेला जूस doctor से पूछकर ही लें।)</p>
                     </div>
                     <div class="flex items-start gap-3">
                         <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
@@ -356,7 +357,7 @@
                     </div>
                     <div class="flex items-start gap-3">
                         <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
-                        <p class="text-gray-700"><strong>बीट (Beetroot)</strong> - Nitrates से भरपूर जो BP तुरंत कम करते हैं। Juice बनाकर पी सकते हैं।</p>
+                        <p class="text-gray-700"><strong>बीट (Beetroot)</strong> - Nitrates से भरपूर, जो BP को थोड़ा कम करने में मदद कर सकते हैं। Juice बनाकर पी सकते हैं।</p>
                     </div>
                     <div class="flex items-start gap-3">
                         <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i></span>
@@ -424,7 +425,7 @@
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Ghee और Butter</h4>
-                        <p class="text-sm text-gray-600">Trans fats से भरपूर, ये cholesterol बढ़ाते हैं और BP पर bad effect डालते हैं।</p>
+                        <p class="text-sm text-gray-600">Saturated fat से भरपूर; ये cholesterol बढ़ा सकते हैं, इसलिए सीमित मात्रा में लें।</p>
                     </div>
                     <div class="raj-callout raj-callout-danger">
                         <h4 class="font-bold text-red-600 mb-2">Cold Drinks और Soda</h4>
@@ -448,21 +449,21 @@
                         <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0">1</span>
                         <div>
                             <p class="font-bold text-gray-800">नारियल पानी (Coconut Water)</p>
-                            <p class="text-sm text-gray-600">Natural electrolytes और potassium से भरपूर। BP control करने में very effective।</p>
+                            <p class="text-sm text-gray-600">Natural electrolytes और potassium से भरपूर; BP control में मदद कर सकता है। (Kidney disease में पहले doctor से पूछें।)</p>
                         </div>
                     </div>
                     <div class="flex items-start gap-3 bg-green-50 p-4 rounded-lg">
                         <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0">2</span>
                         <div>
                             <p class="font-bold text-gray-800">बीटरूट जूस (Beetroot Juice)</p>
-                            <p class="text-sm text-gray-600">Nitrates से भरपूर जो BP तुरंत कम करते हैं। Morning में 1 glass पिएं।</p>
+                            <p class="text-sm text-gray-600">Nitrates से भरपूर, जो BP को थोड़ा कम करने में मदद कर सकते हैं। Morning में 1 glass पिएं।</p>
                         </div>
                     </div>
                     <div class="flex items-start gap-3 bg-green-50 p-4 rounded-lg">
                         <span class="bg-primary-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm flex-shrink-0">3</span>
                         <div>
                             <p class="font-bold text-gray-800">लेमन वाटर (Lemon Water)</p>
-                            <p class="text-sm text-gray-600">Vitamin C से भरपूर और natural detoxifier। Morning में पीना beneficial है।</p>
+                            <p class="text-sm text-gray-600">Vitamin C से भरपूर; बिना नमक और चीनी के पिएं। Morning में पीना beneficial है।</p>
                         </div>
                     </div>
                     <div class="flex items-start gap-3 bg-green-50 p-4 rounded-lg">
@@ -478,7 +479,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">High BP Diet के Additional Tips</h2>
 
                 <div class="raj-callout raj-callout-info">
-                    <h3 class="font-bold text-blue-700 mb-2">Dietitian की सलाह:</h3>
+                    <h3 class="font-bold text-blue-700 mb-2">ज़रूरी सुझाव:</h3>
                     <ul class="list-disc list-inside space-y-1 text-gray-700">
                         <li><strong>Portion control</strong> करें - ज़्यादा न खाएं</li>
                         <li><strong>Regular meals</strong> लें - skip न करें</li>
@@ -508,7 +509,7 @@
                 </ul>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital में हमारी <a href="/doctor-profile.php" class="text-primary-600 hover:underline">expert doctors team</a> BP management में specialized है। हम advanced diagnostic tests और personalized treatment plans provide करते हैं।
+                    RAJ Hospital में <a href="/doctor-profile.php" class="text-primary-600 hover:underline">doctors</a> से BP management के लिए सलाह ले सकते हैं।
                 </p>
 
                 <!-- Related Conditions -->
@@ -540,7 +541,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-primary-500 to-primary-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आप High BP से जूझ रहे हैं?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert neurologists और cardiologists high BP management में specialized हैं। अभी appointment book करें।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में neurologists और cardiologists से high BP के लिए सलाह लें। अभी appointment book करें।</p>
                     <div class="flex flex-wrap justify-center gap-4">
                         <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                         <a href="/doctor-profile.php" class="inline-block bg-primary-700 text-white font-bold px-6 py-2 rounded-lg hover:bg-primary-800 transition-colors">Meet Our Doctors</a>
@@ -557,11 +558,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: High BP में कौन से fruits खाने चाहिए?</h4>
-                        <p class="text-gray-700">A: High BP के लिए सबसे अच्छे fruits हैं - केला (पोटैशियम), संतरा, अंगूर, आम, और बेर। ये fruits blood pressure control करने में मदद करते हैं। रोज़ 2-3 servings fruits ज़रूर लें।</p>
+                        <p class="text-gray-700">A: High BP में फायदेमंद fruits हैं - केला (पोटैशियम), संतरा, अंगूर, आम, और बेर। ये fruits blood pressure control करने में मदद करते हैं। रोज़ 2-3 servings fruits ज़रूर लें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: High BP में नमक कितना खाना चाहिए?</h4>
-                        <p class="text-gray-700">A: High BP में daily नमक 1500mg से 2300mg (1/2 से 1 चम्मच) से कम होना चाहिए। Processed foods, pickles, papads, और chips से बचें जिनमें ज़्यादा sodium होती है।</p>
+                        <p class="text-gray-700">A: High BP में daily sodium 1500-2300 mg से कम होना चाहिए, यानी कुल नमक लगभग 5 ग्राम (एक छोटा चम्मच) से कम। Processed foods, pickles, papads, और chips से बचें जिनमें ज़्यादा sodium होती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: High BP में चाय-कॉफी पी सकते हैं?</h4>
@@ -569,7 +570,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: High BP में कौन सी vegetables खानी चाहिए?</h4>
-                        <p class="text-gray-700">A: High BP के लिए best vegetables हैं - पालक, करेला, भिंडी, गाजर, बीट, ब्रोकली, और पत्ता गोभी। ये leafy greens पोटैशियम और magnesium से भरपूर हैं जो BP control करने में मदद करते हैं।</p>
+                        <p class="text-gray-700">A: High BP में फायदेमंद vegetables हैं - पालक, करेला, भिंडी, गाजर, बीट, ब्रोकली, और पत्ता गोभी। ये leafy greens पोटैशियम और magnesium से भरपूर हैं जो BP control करने में मदद करते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: High BP में कौन से foods नहीं खाने चाहिए?</h4>
@@ -577,13 +578,13 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-600 mb-2">Q: High BP control करने के लिए क्या drink करना चाहिए?</h4>
-                        <p class="text-gray-700">A: High BP control के लिए अच्छे drinks हैं - नारियल पानी, sugarcane juice, fresh fruit juices without sugar, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।</p>
+                        <p class="text-gray-700">A: High BP control के लिए अच्छे drinks हैं - नारियल पानी, fresh fruit juices without sugar, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं? पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">High BP (उच्च रक्तचाप) में क्या खाना चाहिए और क्या नहीं खाना चाहिए। जानें DASH diet, fruits, vegetables और foods जो BP control करने में मदद करते हैं। Ranchi के best neuro hospital से complete guide।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं?: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">High BP (उच्च रक्तचाप) में क्या खाना चाहिए और क्या नहीं खाना चाहिए। जानें DASH diet, fruits, vegetables और foods जो BP control करने में मदद करते हैं। RAJ Hospital Ranchi से complete guide।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं? शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -597,7 +598,7 @@
                         <li><a href="/blog/remedies-for-high-bp.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High BP (High Blood Pressure) Ke Gharelu Upchar</a></li>
                         <li><a href="/blog/bp-high-hone-par-kya-kare.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: BP High होने पर क्या करें?</a></li>
                         <li><a href="/blog/high-blood-pressure-symptoms-in-men-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: High Blood Pressure Symptoms in Men in Hindi - पुरुषों में उच्च रक्तचाप के लक्षण</a></li>
-                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Hospital for Paralysis Treatment in Ranchi</a></li>
+                        <li><a href="/blog/best-hospital-for-paralysis-treatment-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Paralysis Treatment in Ranchi</a></li>
                         <li><a href="/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Anxiety Symptoms in Men | Stress &amp; Mental Health Issues Signs</a></li>
                         <li><a href="/blog/brain-stroke-ke-lakshan.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Brain Stroke के लक्षण</a></li>
                         <li><a href="/blog/heart-attack-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: दिल का दौरा लक्षण (Heart Attack Symptoms)</a></li>
@@ -625,7 +626,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -634,8 +635,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-500 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Neurologist & Cardiologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

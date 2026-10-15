@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi</title>
+    <title>PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi</title>
     <meta name="description" content="PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज जानें। PCOD vs PCOS अंतर, treatment options और lifestyle changes के बारे में विस्तृत जानकारी।">
     <meta name="keywords" content="PCOD symptoms in hindi, पीसीओडी के लक्षण, pcod symptoms, pcod treatment, women's health, hormonal imbalance, gynecological problems ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi",
+        "headline": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi",
         "description": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज जानें। PCOD vs PCOS अंतर, treatment options और lifestyle changes के बारे में विस्तृत जानकारी।",
         "url": "https://rajhospitals.com/blog/pcod-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pcod-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi"
+                "name": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Women's Health</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -227,7 +228,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> (पीसीओडी)</strong> या Polycystic Ovarian Disease महिलाओं में होने वाला एक आम hormonal disorder है। भारत में लगभग 1 out of 5 women इस समस्या से ग्रस्त हैं। यह बीमारी विशेषकर reproductive age की महिलाओं को प्रभावित करती है।
+                    <strong><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> (पीसीओडी)</strong> या Polycystic Ovarian Disease महिलाओं में होने वाला एक आम hormonal disorder है। भारत में बड़ी संख्या में महिलाएं इस समस्या से प्रभावित हैं। यह बीमारी विशेषकर reproductive age की महिलाओं को प्रभावित करती है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -264,7 +265,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">4. वजन बढ़ना</h4>
-                        <p class="text-sm text-gray-600">वजन घटाने में कठिनाई, विशेषकर कमर के आसपास। PCOD वाली 50-70% महिलाएं overweight हैं।</p>
+                        <p class="text-sm text-gray-600">वजन घटाने में कठिनाई, विशेषकर कमर के आसपास। PCOD वाली कई महिलाओं का वजन ज़्यादा होता है, हालांकि normal weight वाली महिलाओं को भी PCOD हो सकता है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">5. बाल झड़ना</h4>
@@ -290,7 +291,7 @@
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Genetics</strong> - family history of PCOD/PCOS</li>
-                    <li><strong>Insulin Resistance</strong> - 70% women में insulin resistance</li>
+                    <li><strong>Insulin Resistance</strong> - PCOD वाली कई महिलाओं में insulin resistance पाया जाता है</li>
                     <li><strong>Obesity</strong> - अधिक weight</li>
                     <li><strong>Sedentary Lifestyle</strong> - physical activity की कमी</li>
                     <li><strong>Poor Diet</strong> - high glycemic index foods</li>
@@ -326,14 +327,14 @@
                     <div class="bg-green-50 p-4 rounded-lg">
                         <div class="font-bold text-green-700 mb-2">Lifestyle Changes</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>5-10% weight loss से hormones restore</li>
+                            <li>5-10% weight loss से symptoms और ovulation में सुधार हो सकता है</li>
                             <li>Low glycemic diet</li>
                             <li>रोज़ाना 30 मिनट व्यायाम</li>
                             <li>पर्याप्त नींद (7-8 hours)</li>
                         </ul>
                     </div>
                     <div class="bg-blue-50 p-4 rounded-lg">
-                        <div class="font-bold text-blue-700 mb-2">Medical Treatment</div>
+                        <div class="font-bold text-blue-700 mb-2">Medical Treatment (केवल डॉक्टर की सलाह से)</div>
                         <ul class="text-sm text-gray-600 space-y-1">
                             <li>Birth control pills</li>
                             <li>Anti-androgens</li>
@@ -346,7 +347,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको PCOD की समस्या है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में complete PCOD/PCOS diagnosis और treatment available है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में PCOD/PCOS की जांच और इलाज के लिए gynaecologist से परामर्श उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -369,7 +370,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज जानें। PCOD vs PCOS अंतर, treatment options और lifestyle changes के बारे में विस्तृत जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -382,9 +383,9 @@
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOD Problems in Women - Symptoms, Causes and Health Effects</a></li>
-                        <li><a href="/blog/pcos-treatment-in-ranchi-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors</a></li>
+                        <li><a href="/blog/pcos-treatment-in-ranchi-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOS Treatment in Ranchi - Symptoms, Causes and Treatment</a></li>
                         <li><a href="/blog/thyroid-problems-in-women-symptoms-and-treatment.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Thyroid Problems in Women | Symptoms and Treatment in Hindi</a></li>
-                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Maternity Hospital in Ranchi</a></li>
+                        <li><a href="/blog/best-maternity-hospital-in-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Maternity Hospital in Ranchi</a></li>
                         <li><a href="/blog/breast-cancer-news.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Breast Cancer News - Latest Updates &amp; Treatment</a></li>
                         <li><a href="/blog/breast-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Breast Cancer Symptoms in Hindi - जानें लक्षण</a></li>
                         <li><a href="/blog/cervical-cancer-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्भाशय ग्रीवा कैंसर के लक्षण</a></li>
@@ -412,7 +413,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और शराब से पूरी तरह दूरी (गर्भावस्था में शराब की कोई भी मात्रा सुरक्षित नहीं), संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -421,8 +422,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gynecologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

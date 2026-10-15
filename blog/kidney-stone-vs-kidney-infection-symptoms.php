@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Kidney Stone or Kidney Infection? How Doctors Tell the Difference">
-    <meta property="og:description" content="The pain can feel identical at first. The fever pattern, urine appearance and pain rhythm usually give it away. A specialist guide from Raj Hospitals Ranchi.">
+    <meta property="og:description" content="The pain can feel identical at first. The fever pattern, urine appearance and pain rhythm usually give it away. A patient guide from Raj Hospitals Ranchi.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/kidney-stone-vs-kidney-infection-symptoms/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/kidney-stone-vs-kidney-infection-symptoms.jpg">
@@ -194,9 +194,10 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Nephrology · Urology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Kidney Stone or Kidney Infection? How Doctors Tell the Difference</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Nephrology &amp; Urology Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Raj Hospitals Ranchi Editorial Team</span>
                 </div>
             </div>
 
@@ -313,7 +314,7 @@
                     <li><strong>Mild cases</strong> in an otherwise healthy adult can be treated with oral antibiotics at home, with a clear review point if fever does not settle within 48 to 72 hours.</li>
                     <li><strong>Admission for intravenous antibiotics</strong> is standard for high fever, persistent vomiting, dehydration, pregnancy, diabetes, existing kidney impairment, a single kidney, or any suspicion of obstruction.</li>
                     <li><strong>The full course must be completed.</strong> A partially treated kidney infection recurs and can leave permanent scarring, which over years contributes to reduced kidney function and high blood pressure. This is a large part of why our <a href="/specialties/nephrology" class="text-secondary-600 hover:underline font-semibold">nephrology team in Ranchi</a> takes recurrent urinary infections seriously rather than treating each episode in isolation.</li>
-                    <li><strong>Recurrent infection needs a cause hunt.</strong> A stone, an anatomical abnormality, an enlarged prostate causing incomplete bladder emptying, or poorly controlled diabetes. Treating episodes without finding the reason guarantees the next episode. Our <a href="/specialties/urology" class="text-secondary-600 hover:underline font-semibold">urology department</a> handles this assessment.</li>
+                    <li><strong>Recurrent infection needs a cause hunt.</strong> A stone, an anatomical abnormality, an enlarged prostate causing incomplete bladder emptying, or poorly controlled diabetes. Treating episodes without finding the reason makes another episode more likely. Our <a href="/specialties/urology" class="text-secondary-600 hover:underline font-semibold">urology department</a> handles this assessment.</li>
                 </ul>
 
                 <p class="text-gray-700 mb-4">
@@ -414,7 +415,7 @@
                     <div class="w-16 h-16 shrink-0 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Nephrology &amp; Urology Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Medically reviewed by our consultant nephrologists and urologists &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <p class="text-sm text-gray-500"><a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

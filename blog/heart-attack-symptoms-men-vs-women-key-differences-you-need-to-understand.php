@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand | RAJ Hospital</title>
+    <title>Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand | RAJ Hospital</title>
     <meta name="description" content="Heart attack symptoms differ significantly between men and women. Learn the warning signs unique to each gender, when to seek emergency care, and how RAJ Hospital Ranchi provides 24/7 cardiac emergency treatment.">
     <meta name="keywords" content="heart attack symptoms men vs women, heart attack warning signs women, men heart attack symptoms, women heart attack symptoms, heart attack gender differences, heart attack in hindi, heart attack ke symptoms">
     <meta name="robots" content="index, follow">
@@ -27,7 +27,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand",
+        "name": "Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand",
         "description": "Comprehensive guide explaining how heart attack symptoms differ between men and women, with warning signs and emergency care information.",
         "url": "https://rajhospitals.com/blog/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand/",
         "inLanguage": "en",
@@ -69,7 +69,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms Men vs Women"
+                "name": "Heart Attack Symptoms Men vs Women"
             }
         ]
     }
@@ -82,7 +82,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Do <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> symptoms differ between men and women?",
+                "name": "Do heart attack symptoms differ between men and women?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Yes, heart attack symptoms can differ significantly between men and women. While both may experience chest pain, women are more likely to have subtle symptoms like fatigue, nausea, and back pain. Men typically experience more classic symptoms like chest pressure and arm pain. Understanding these differences is crucial for early detection and treatment."
@@ -93,7 +93,7 @@
                 "name": "What are the early warning signs of heart attack in men?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Early warning signs of heart attack in men include: chest pain or discomfort (pressure, squeezing, fullness), pain radiating to the left arm, neck, or jaw, shortness of breath, cold sweat, nausea, and lightheadedness. Men should seek immediate medical attention if experiencing these symptoms. Our experts at RAJ Hospital provide comprehensive heart attack treatment in Ranchi."
+                    "text": "Early warning signs of heart attack in men include: chest pain or discomfort (pressure, squeezing, fullness), pain radiating to the left arm, neck, or jaw, shortness of breath, cold sweat, nausea, and lightheadedness. Men should seek immediate medical attention if experiencing these symptoms. RAJ Hospital provides heart attack treatment in Ranchi."
                 }
             },
             {
@@ -101,7 +101,7 @@
                 "name": "What are the unique heart attack symptoms in women?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Women often experience atypical heart attack symptoms including unusual fatigue, sleep disturbances, indigestion, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a>, and pain in the back, shoulders, or upper abdomen. Many women dismiss these symptoms as stress or other conditions. Research shows women are less likely to seek immediate care, making awareness crucial for survival."
+                    "text": "Women often experience atypical heart attack symptoms including unusual fatigue, sleep disturbances, indigestion, anxiety, and pain in the back, shoulders, or upper abdomen. Many women dismiss these symptoms as stress or other conditions. Research shows women are less likely to seek immediate care, making awareness crucial for survival."
                 }
             },
             {
@@ -117,7 +117,7 @@
                 "name": "What is the difference in heart attack survival rates between men and women?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Studies show women have higher mortality rates after heart attacks partly because they often delay seeking treatment. Women are also less likely to receive timely interventions like angioplasty. At RAJ Hospital Ranchi, our 24/7 cardiac care ensures both men and women receive immediate, life-saving treatment. Early recognition and quick action can significantly improve survival rates for both genders."
+                    "text": "Studies show women have higher mortality rates after heart attacks partly because they often delay seeking treatment. Women are also less likely to receive timely interventions like angioplasty. At RAJ Hospital Ranchi, 24/7 emergency cardiac care is available for both men and women. Early recognition and quick action can significantly improve survival rates for both genders."
                 }
             },
             {
@@ -125,7 +125,7 @@
                 "name": "How can I reduce my risk of heart attack?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Reducing heart attack risk involves: maintaining a healthy weight, regular exercise (30 minutes daily), balanced diet low in saturated fats, quitting smoking, limiting alcohol, managing stress, and controlling conditions like <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> and high blood pressure. Regular cardiac check-ups are essential, especially after age 40. RAJ Hospital offers comprehensive heart health screening programs."
+                    "text": "Reducing heart attack risk involves: maintaining a healthy weight, regular exercise (30 minutes daily), balanced diet low in saturated fats, quitting smoking, limiting alcohol, managing stress, and controlling conditions like diabetes and high blood pressure. Regular cardiac check-ups are essential, especially after age 40. RAJ Hospital offers comprehensive heart health screening programs."
                 }
             },
             {
@@ -173,7 +173,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -184,7 +184,7 @@
             "name": "क्या Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Gas Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -208,7 +208,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -220,7 +220,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand | RAJ Hospital",
+        "headline": "Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand | RAJ Hospital",
         "description": "Heart attack symptoms differ significantly between men and women. Learn the warning signs unique to each gender, when to seek emergency care, and how RAJ Hospital Ranchi provides 24/7 cardiac emergency treatment.",
         "url": "https://rajhospitals.com/blog/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand",
         "image": "https://rajhospitals.com/blog/assets/img/featured/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand.png",
@@ -253,10 +253,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -291,6 +291,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 14 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -300,7 +301,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>Heart attacks</strong> (दिल का दौरा) are one of the leading causes of death worldwide, affecting both men and women. However, the symptoms and warning signs can vary significantly between genders. Understanding these differences is crucial for early detection and seeking immediate medical attention. At <a href="/index.php" class="text-primary-500 hover:underline">RAJ Hospital Ranchi</a>, our experienced <a href="/doctor-profile.php" class="text-primary-500 hover:underline">cardiology team</a> provides comprehensive <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> treatment and emergency care services 24/7.
+                    <strong>Heart attacks</strong> (दिल का दौरा) are one of the major causes of death worldwide, affecting both men and women. However, the symptoms and warning signs can vary significantly between genders. Understanding these differences is crucial for early detection and seeking immediate medical attention. At <a href="/index.php" class="text-primary-500 hover:underline">RAJ Hospital Ranchi</a>, our experienced <a href="/doctor-profile.php" class="text-primary-500 hover:underline">cardiology team</a> provides comprehensive <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> treatment and emergency care services 24/7.
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -356,7 +357,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">Classic Heart Attack Symptoms in Men</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Men are more likely to experience the <strong>"classic"</strong> heart attack symptoms that most people recognize. According to our cardiology specialists at RAJ Hospital, these symptoms should never be ignored:
+                    Men are more likely to experience the <strong>"classic"</strong> heart attack symptoms that most people recognize. These symptoms should never be ignored:
                 </p>
 
                 <div class="space-y-4 mb-6">
@@ -366,7 +367,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">2. Pain Radiating to Left Arm</h4>
-                        <p class="text-sm text-gray-600">Pain that spreads from the chest to the left arm, shoulder, elbow, wrist, or even the fingers is a classic warning sign. This occurs because the nerves that supply the heart and arm share the same pathways in the spinal cord. Our <a href="/doctor-profile.php" class="text-primary-500 hover:underline">cardiac specialists</a> recommend immediate evaluation for any such symptoms.</p>
+                        <p class="text-sm text-gray-600">Pain that spreads from the chest to the left arm, shoulder, elbow, wrist, or even the fingers is a classic warning sign. This occurs because the nerves that supply the heart and arm share the same pathways in the spinal cord. Any such symptoms need immediate medical evaluation.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">3. Jaw, Neck, and Back Pain</h4>
@@ -386,17 +387,17 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">Unique Heart Attack Symptoms in Women</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Women often experience <strong>atypical symptoms</strong> that are easily dismissed as other conditions. Studies show that women are <strong>50% more likely</strong> to experience these "silent" symptoms. Understanding these signs can save lives:
+                    Women often experience <strong>atypical symptoms</strong> that are easily dismissed as other conditions. Women are more likely than men to experience these subtle symptoms. Understanding these signs can save lives:
                 </p>
 
                 <div class="space-y-4 mb-6">
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">1. Extreme Fatigue and Weakness</h4>
-                        <p class="text-sm text-gray-600">Many women report feeling <strong>overwhelmingly tired</strong> weeks before a heart attack. This fatigue is different from normal tiredness - it occurs even after adequate rest and may interfere with daily activities. Our cardiac care team has seen many cases where this symptom was initially dismissed as stress or overwork.</p>
+                        <p class="text-sm text-gray-600">Many women report feeling <strong>overwhelmingly tired</strong> weeks before a heart attack. This fatigue is different from normal tiredness - it occurs even after adequate rest and may interfere with daily activities. </p>
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">2. Sleep Disturbances</h4>
-                        <p class="text-sm text-gray-600">Difficulty falling asleep, staying asleep, or waking up frequently during the night can be early warning signs. Many women report having strange dreams or vivid nightmares in the days preceding a heart attack.</p>
+                        <p class="text-sm text-gray-600">Difficulty falling asleep, staying asleep, or waking up frequently during the night can be early warning signs. </p>
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">3. Indigestion and Stomach Issues</h4>
@@ -408,7 +409,7 @@
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">5. Upper Back and Shoulder Pain</h4>
-                        <p class="text-sm text-gray-600">Pain between the shoulder blades or in the upper back is more common in women than chest pain. This can radiate to the jaw and neck, often mistaken for muscle strain. Learn more about <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline">back pain conditions</a> we treat at RAJ Hospital.</p>
+                        <p class="text-sm text-gray-600">Pain between the shoulder blades or in the upper back is more common in women than in men, although chest pain or discomfort is still the most common symptom in both. This can radiate to the jaw and neck, often mistaken for muscle strain. Learn more about <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline">back pain conditions</a> we treat at RAJ Hospital.</p>
                     </div>
                     <div class="bg-pink-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-500">6. Lightheadedness and Dizziness</h4>
@@ -418,7 +419,7 @@
 
                 <div class="raj-callout raj-callout-warning">
                     <strong class="text-yellow-700">Important:</strong>
-                    <span class="text-gray-700"> Research from the American Heart Association shows that 78% of women experience multiple subtle symptoms in the weeks before a heart attack, but only 30% seek medical help. Early recognition and immediate action are crucial for survival.</span>
+                    <span class="text-gray-700"> Studies have found that many women notice warning symptoms such as unusual fatigue or sleep problems in the weeks before a heart attack, yet many delay seeking help. Early recognition and immediate action are crucial for survival.</span>
                 </div>
 
                 <!-- Section 5: Why Symptoms Differ -->
@@ -451,7 +452,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-primary-500 pb-2 mt-8 mb-4">Silent Heart Attacks: What You Need to Know</h2>
 
                 <p class="text-gray-700 mb-4">
-                    A <strong>silent heart attack</strong> (also called silent ischemia) is a heart attack that occurs without obvious symptoms or with such mild symptoms that the person doesn't recognize it. These are more common in women, diabetics, and older adults.
+                    A <strong>silent heart attack</strong> (also called a silent myocardial infarction) is a heart attack that occurs without obvious symptoms or with such mild symptoms that the person doesn't recognize it. These are more common in women, diabetics, and older adults.
                 </p>
 
                 <p class="text-gray-700 mb-4">
@@ -490,7 +491,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    At RAJ Hospital Ranchi, our <strong>24/7 cardiac emergency department</strong> is equipped with the latest technology and staffed by experienced cardiologists and emergency physicians. We provide immediate diagnosis and treatment including thrombolysis, angioplasty, and other life-saving interventions.
+                    At RAJ Hospital Ranchi, our <strong>24/7 cardiac emergency department</strong> provides emergency cardiac care with cardiologists and emergency physicians. We provide immediate diagnosis and treatment including thrombolysis, angioplasty, and other life-saving interventions.
                 </p>
 
                 <!-- Section 8: Prevention -->
@@ -555,7 +556,7 @@
                     <p class="opacity-90 mb-4">RAJ Hospital offers 24/7 emergency cardiac care, diagnostic services, and treatment for heart conditions. Don't ignore warning signs - early action saves lives.</p>
                     <div class="flex flex-wrap justify-center gap-4">
                         <a href="/contact.php" class="inline-block bg-white text-primary-500 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
-                        <a href="tel:+91XXXXXXXXXX" class="inline-block border-2 border-white text-white font-bold px-6 py-2 rounded-lg hover:bg-white/10 transition-colors">Call Emergency</a>
+                        <a href="tel:+919771488888" class="inline-block border-2 border-white text-white font-bold px-6 py-2 rounded-lg hover:bg-white/10 transition-colors">Call Emergency</a>
                     </div>
                 </div>
 
@@ -569,7 +570,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">What are the early warning signs of heart attack in men?</h4>
-                        <p class="text-gray-700">Early warning signs of heart attack in men include: chest pain or discomfort (pressure, squeezing, fullness), pain radiating to the left arm, neck, or jaw, shortness of breath, cold sweat, nausea, and lightheadedness. Men should seek immediate medical attention if experiencing these symptoms. Our experts at RAJ Hospital provide comprehensive heart attack treatment in Ranchi.</p>
+                        <p class="text-gray-700">Early warning signs of heart attack in men include: chest pain or discomfort (pressure, squeezing, fullness), pain radiating to the left arm, neck, or jaw, shortness of breath, cold sweat, nausea, and lightheadedness. Men should seek immediate medical attention if experiencing these symptoms. RAJ Hospital provides heart attack treatment in Ranchi.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">What are the unique heart attack symptoms in women?</h4>
@@ -581,7 +582,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">What is the difference in heart attack survival rates between men and women?</h4>
-                        <p class="text-gray-700">Studies show women have higher mortality rates after heart attacks partly because they often delay seeking treatment. Women are also less likely to receive timely interventions like angioplasty. At RAJ Hospital Ranchi, our 24/7 cardiac care ensures both men and women receive immediate, life-saving treatment. Early recognition and quick action can significantly improve survival rates for both genders.</p>
+                        <p class="text-gray-700">Studies show women have higher mortality rates after heart attacks partly because they often delay seeking treatment. Women are also less likely to receive timely interventions like angioplasty. At RAJ Hospital Ranchi, 24/7 emergency cardiac care is available for both men and women. Early recognition and quick action can significantly improve survival rates for both genders.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary-500 mb-2">How can I reduce my risk of heart attack?</h4>
@@ -594,7 +595,7 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Heart Attack Symptoms in Men vs Women: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Heart attack symptoms differ significantly between men and women. Learn the warning signs unique to each gender, when to seek emergency care, and how RAJ Hospital Ranchi provides 24/7 cardiac emergency treatment.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -637,7 +638,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -646,8 +647,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-500 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Cardiology Department</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
 

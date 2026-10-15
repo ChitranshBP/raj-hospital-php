@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Diabetes ke lakshan aur upchar की complete जानकारी हिंदी में। मधुमेह के प्रकार, लक्षण, कारण, और control करने के तरीके जानें। Ranchi के best hospital में expert consultation।">
+    <title>Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Diabetes ke lakshan aur upchar की complete जानकारी हिंदी में। मधुमेह के प्रकार, लक्षण, कारण, और control करने के तरीके जानें। RAJ Hospital, Ranchi में consultation उपलब्ध।">
     <meta name="keywords" content="diabetes ke lakshan, मधुमेह के लक्षण, diabetes upchar, sugar rog symptoms, मधुमेह इलाज, diabetes treatment in hindi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike/">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Ways to Take Moringa for Managing Diabetes जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए diabetes में सही खान-पान और blood sugar monitoring जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,8 +89,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi",
-        "description": "Diabetes ke lakshan aur upchar की complete जानकारी हिंदी में। मधुमेह के प्रकार, लक्षण, कारण, और control करने के तरीके जानें। Ranchi के best hospital में expert consultation।",
+        "headline": "Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi",
+        "description": "Diabetes ke lakshan aur upchar की complete जानकारी हिंदी में। मधुमेह के प्रकार, लक्षण, कारण, और control करने के तरीके जानें। RAJ Hospital, Ranchi में consultation उपलब्ध।",
         "url": "https://rajhospitals.com/blog/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/diabetes-ke-lakshan-aur-upchar-control-karne-ke-tarike.png",
         "author": {
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi"
+                "name": "Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Care</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Ke Lakshan Aur Upchar - Control Karne Ke Tarike</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -303,7 +304,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">मोटापा और वजन</h4>
-                        <p class="text-sm text-gray-600">BMI 25 से अधिक होने पर मधुमेह का खतरा बढ़ जाता है। पेट की चर्बी विशेष रूप से खतरनाक है।</p>
+                        <p class="text-sm text-gray-600">BMI 23 से अधिक (भारतीयों के लिए) होने पर मधुमेह का खतरा बढ़ जाता है। पेट की चर्बी विशेष रूप से खतरनाक है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">जीवनशैली</h4>
@@ -350,7 +351,7 @@
                                 <td class="border border-gray-300 p-3">6.5% या अधिक</td>
                             </tr>
                             <tr>
-                                <td class="border border-gray-300 p-3 font-semibold">PPBS (भोजन के बाद)</td>
+                                <td class="border border-gray-300 p-3 font-semibold">OGTT (75g glucose के 2 घंटे बाद)</td>
                                 <td class="border border-gray-300 p-3">140 mg/dL से कम</td>
                                 <td class="border border-gray-300 p-3">140-199 mg/dL</td>
                                 <td class="border border-gray-300 p-3">200 mg/dL या अधिक</td>
@@ -368,7 +369,7 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">1. दवाइयां</h3>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>मेटफॉर्मिन (Metformin)</strong> - Type 2 मधुमेह में पहली पसंद की दवा</li>
+                    <li><strong>मेटफॉर्मिन (Metformin)</strong> - Type 2 मधुमेह में आमतौर पर पहली दवा (सभी दवाएं केवल डॉक्टर की सलाह और prescription से लें)</li>
                     <li><strong>इंसुलिन</strong> - Type 1 और गंभीर Type 2 में</li>
                     <li><strong>सल्फोनिलोयूरिया</strong> - इंसुलिन उत्पादन बढ़ाने में मदद</li>
                     <li><strong>DPP-4 इन्हिबिटर्स</strong> - ग्लूकोज नियंत्रण में सहायक</li>
@@ -443,14 +444,14 @@
                     </div>
                     <div class="bg-red-50 p-4 rounded-lg">
                         <h4 class="font-bold text-red-600 mb-2"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> पैरों की समस्याएं</h4>
-                        <p class="text-sm text-gray-600">डायबिटिक फुट अल्सर, इन्फेक्शन, और गैंगरीन से अंगूठा काटना पड़ सकता है।</p>
+                        <p class="text-sm text-gray-600">डायबिटिक फुट अल्सर, इन्फेक्शन, और गैंगरीन से पैर की उंगली, पंजा या पैर का हिस्सा काटना (amputation) पड़ सकता है।</p>
                     </div>
                 </div>
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Diabetes Checkup करवाएं - समय पर जांच बचाएं जान!</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में Diabetes Screening, HbA1c Test, और Expert Endocrinologist Consultation उपलब्ध है।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में Diabetes Screening, HbA1c Test, और Diabetes Consultation उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -468,7 +469,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">मधुमेह में क्या खाना चाहिए?</h4>
-                        <p class="text-gray-700">हरी सब्जियां, दाल, बाजरा, ओटमील, दलिया, बादाम, मछली, और चिकन पसंद करें। कठोर कार्बोहाइड्रेट की जगह जटिल कार्बोहाइड्रेट लें।</p>
+                        <p class="text-gray-700">हरी सब्जियां, दाल, बाजरा, ओटमील, दलिया, बादाम, मछली, और चिकन पसंद करें। सरल (refined) कार्बोहाइड्रेट की जगह जटिल कार्बोहाइड्रेट लें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Fasting में शुगर कितनी होनी चाहिए?</h4>
@@ -481,8 +482,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Diabetes ke lakshan aur upchar की complete जानकारी हिंदी में। मधुमेह के प्रकार, लक्षण, कारण, और control करने के तरीके जानें। Ranchi के best hospital में expert consultation।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार: जरूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Diabetes ke lakshan aur upchar की complete जानकारी हिंदी में। मधुमेह के प्रकार, लक्षण, कारण, और control करने के तरीके जानें। RAJ Hospital, Ranchi में consultation उपलब्ध।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -493,8 +494,8 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital के संबंधित स्वास्थ्य गाइड</h2>
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Ways to Take Moringa for Managing Diabetes</a></li>
-                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Indian Diet Plan for Diabetes Patients</a></li>
+                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Moringa and Diabetes — What We Know</a></li>
+                        <li><a href="/blog/best-indian-diet-plan-for-diabetes-patients.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Indian Diet Plan for Diabetes Patients</a></li>
                         <li><a href="/blog/diabetes-symptoms-men.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Diabetes Symptoms in Men - Warning Signs Every Man Should Know</a></li>
                         <li><a href="/blog/sugar-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Sugar Symptoms in Hindi - Diabetes Ke Lakshan</a></li>
                         <li><a href="/blog/pair-me-dard-kyu-hota-h.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: पैर में दर्द क्यों होता है? - सभी कारण और समाधान</a></li>
@@ -512,7 +513,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Diabetes Ke Lakshan Aur Upchar - मधुमेह के लक्षण और उपचार दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
-                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Best Ways to Take Moringa for Managing Diabetes जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
+                        <p class="text-gray-700">हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए diabetes में सही खान-पान और blood sugar monitoring जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डॉक्टर को कौन-कौन सी जानकारी बतानी चाहिए?</h3>
@@ -524,7 +525,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">डायबिटीज और मेटाबॉलिक स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -533,8 +534,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Endocrinologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

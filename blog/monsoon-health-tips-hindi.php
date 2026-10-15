@@ -111,7 +111,7 @@ $base_url = '../';
                 "name": "मानसून में इम्यूनिटी कैसे बढ़ाएं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "विटामिन C युक्त खाना खाएं जैसे संतरा, नींबू, आंवला। अजीर्ण (कच्चा) खाना, पर्याप्त नींद, हल्का व्यायाम, और तनाव कम करें। नियमित रूप से गर्म पानी पिएं।"
+                    "text": "विटामिन C युक्त खाना खाएं जैसे संतरा, नींबू, आंवला। अधपका/कच्चा खाना, पर्याप्त नींद, हल्का व्यायाम, और तनाव कम करें। नियमित रूप से गर्म पानी पिएं।"
                 }
             }
         ]
@@ -201,6 +201,7 @@ $base_url = '../';
             <h1 class="text-3xl md:text-4xl font-bold mb-4">
                 मानसून में स्वास्थ्य टिप्स - बीमारियों से कैसे बचें?
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <div class="flex items-center text-sm text-white/80 space-x-4">
                 <span class="flex items-center">
                     <i data-feather="user" class="w-4 h-4 mr-1"></i>
@@ -303,7 +304,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">मच्छर भगाने वाली क्रीम लगाएँ</h4>
-                        <p class="text-gray-600 text-sm">ODOMOS जैसी क्रीम त्वचा पर लगाएँ। बच्चों के लिए बच्चों वाली क्रीम का उपयोग करें।</p>
+                        <p class="text-gray-600 text-sm">मच्छर भगाने वाली (mosquito repellent) क्रीम त्वचा पर लगाएँ। छोटे बच्चों के लिए डॉक्टर से पूछकर ही repellent चुनें।</p>
                     </div>
                 </div>
 
@@ -323,7 +324,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">सीलिंग फैन का उपयोग करें</h4>
-                        <p class="text-gray-600 text-sm">मच्छर ठंडी हवा में नहीं उड़ सकते। सीलिंग फैन चलाने से मच्छर दूर रहते हैं।</p>
+                        <p class="text-gray-600 text-sm">पंखे की तेज़ हवा में मच्छरों को उड़ने और काटने में मुश्किल होती है, इसलिए सीलिंग फैन कुछ हद तक मदद करता है।</p>
                     </div>
                 </div>
             </div>
@@ -352,7 +353,7 @@ $base_url = '../';
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">पानी के नियम:</h3>
             <ul class="list-disc pl-6 mb-4 text-gray-700 space-y-2">
                 <li>हमेशा <strong>उबला हुआ या फिल्टर्ड पानी</strong> पिएं</li>
-                <li>बाहर से पानी पीने से बचें, भले ही पैक्ड हो</li>
+                <li>बाहर का खुला पानी पीने से बचें; ज़रूरत हो तो सील-बंद पैक्ड पानी लें</li>
                 <li>पानी का बर्तन हमेशा ढककर रखें</li>
                 <li>बर्फ के टुकड़े भी केवल शुद्ध पानी से बनाएँ</li>
                 <li>रोज़ाना पानी का बर्तन साफ करें</li>
@@ -422,7 +423,7 @@ $base_url = '../';
                         <i data-feather="sun" class="w-5 h-5 text-white"></i>
                     </div>
                     <div class="ml-4">
-                        <h4 class="font-semibold text-gray-800">अजीर्ण (कच्चा) खाना छोड़ दें</h4>
+                        <h4 class="font-semibold text-gray-800">अधपका/कच्चा खाना छोड़ दें</h4>
                         <p class="text-gray-600 text-sm">कच्चा भोजन कीटाणुओं का स्रोत हो सकता है। सब्ज़ियाँ और फल धोकर ही खाएं।</p>
                     </div>
                 </div>
@@ -433,7 +434,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">गर्म पानी पिएं</h4>
-                        <p class="text-gray-600 text-sm">ठंडे पानी की जगह गर्म पानी पिएं। यह पेट साफ रखता है और इन्फेक्शन नहीं होने देता।</p>
+                        <p class="text-gray-600 text-sm">उबला हुआ या गुनगुना पानी पिएं; पानी उबालने से उसके कीटाणु नष्ट होते हैं।</p>
                     </div>
                 </div>
 
@@ -483,7 +484,7 @@ $base_url = '../';
             </p>
 
             <div class="bg-red-50 border border-red-200 rounded-lg p-4 mb-6">
-                <h4 class="font-bold text-red-700 mb-3">डेंगी के चेतावनी संकेत:</h4>
+                <h4 class="font-bold text-red-700 mb-3">डेंगी के आम लक्षण:</h4>
                 <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
                     <li><strong>तेज़ बुखार</strong> (104°F तक)</li>
                     <li><strong>सिरदर्द</strong> विशेषकर आँखों के पीछे</li>
@@ -502,7 +503,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">डॉक्टर से मिलने का समय</h3>
                         <p class="text-white/90">बुखार, जोड़ों में दर्द, या चकत्ते दिखने पर तुरंत मिलें</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>
@@ -556,7 +557,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: मानसून में इम्यूनिटी कैसे बढ़ाएं?</h4>
-                    <p class="text-gray-700 text-sm">विटामिन C युक्त खाना खाएं जैसे संतरा, नींबू, आंवला। अजीर्ण (कच्चा) खाना, पर्याप्त नींद, हल्का व्यायाम, और तनाव कम करें। नियमित रूप से गर्म पानी पिएं।</p>
+                    <p class="text-gray-700 text-sm">विटामिन C युक्त खाना खाएं जैसे संतरा, नींबू, आंवला। अधपका/कच्चा खाना, पर्याप्त नींद, हल्का व्यायाम, और तनाव कम करें। नियमित रूप से गर्म पानी पिएं।</p>
                 </div>
             </div>
 
@@ -568,7 +569,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital के विशेषज्ञ डॉक्टर मानसून में स्वास्थ्य की देखभाल के बारे में जानकारी प्रदान करते हैं। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">यह लेख RAJ Hospital Ranchi द्वारा सामान्य स्वास्थ्य जागरूकता के लिए तैयार किया गया है। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

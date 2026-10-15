@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital</title>
+    <title>Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital</title>
     <meta name="description" content="Seene mein gas ka dard, pet se gas ke karan, symptoms aur treatment। Gas pain in chest ke liye home remedies aur prevention tips।">
     <meta name="keywords" content="seene me gas ka dard, gas pain in chest, pet se gas, bloating, gas problem in hindi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -77,7 +77,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital",
+        "headline": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital",
         "description": "Seene mein gas ka dard, pet se gas ke karan, symptoms aur treatment। Gas pain in chest ke liye home remedies aur prevention tips।",
         "url": "https://rajhospitals.com/blog/seene-me-gas-ka-dard",
         "image": "https://rajhospitals.com/blog/assets/img/featured/seene-me-gas-ka-dard.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital"
+                "name": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -212,6 +212,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Gastroenterology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein?</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -225,7 +226,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-6">
-                    <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी gastroenterology team <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> problems के diagnosis aur treatment में experienced है। यह guide <strong>seene me <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> ka dard</strong> के causes, symptoms, aur treatment options के बारे में detailed information provide करती है।
+                    <a href="/index.php" class="text-secondary-600 hover:underline">RAJ Hospital Ranchi</a> में हमारी gastroenterology team <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> problems के diagnosis aur treatment की सुविधा देती है। यह guide <strong>seene me <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> ka dard</strong> के causes, symptoms, aur treatment options के बारे में detailed information provide करती है।
                 </p>
 
                 <!-- Section 1: What is Gas Pain -->
@@ -305,7 +306,7 @@
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Sharp pain</strong> - Seene में अचानक तेज दर्द</li>
+                    <li><strong>Sharp pain</strong> - पेट या सीने के निचले हिस्से में चुभने जैसा दर्द (अचानक तेज सीने का दर्द emergency हो सकता है)</li>
                     <li><strong>Bloating</strong> - पेट में फैलाव aur भारीपन</li>
                     <li><strong>Burping</strong> - बार-बार डकार आना</li>
                     <li><strong>Flatulence</strong> - बहुत ज्यादा gas pass होना</li>
@@ -317,7 +318,7 @@
                 <h2 class="raj-h2">Kab Doctor Ke Paas Jaina Chahiye?</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Usually gas pain home treatment से ठीक हो जाती है, लेकिन कुछ symptoms serious हो सकती हैं:
+                    Usually gas pain home treatment से ठीक हो जाती है, लेकिन seene ke dard ko sirf gas maan lena risky hai। Chest pain ke saath pasina, saans phoolna, haath/jabde/peeth tak dard, ghabrahat ya chakkar ho to turant emergency care lein। Ye symptoms bhi serious ho sakte hain:
                 </p>
 
                 <div class="raj-callout raj-callout-danger">
@@ -338,11 +339,11 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Antacids</h4>
-                        <p class="text-sm text-gray-600">Acid reflux aur gas ke liye - Tums, Rolaids</p>
+                        <p class="text-sm text-gray-600">Acid reflux aur gas ke liye - doctor ya pharmacist ki salah se</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Simethicone</h4>
-                        <p class="text-sm text-gray-600">Gas bubbles को break करता है - Gas-X, Mylicon</p>
+                        <p class="text-sm text-gray-600">Gas bubbles को break करता है - doctor ya pharmacist ki salah se</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">Probiotics</h4>
@@ -403,7 +404,7 @@
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Gas Problems Ki Jaanch Ke Liye Contact Karein</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में expert gastroenterologists available hain।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में gastroenterologist se paramarsh uplabdh hai।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -413,7 +414,7 @@
                 <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya gas pain heart attack जैसी feel करती hai?</h4>
-                        <p class="text-gray-700">Haan, कभी-कभी gas pain chest में heart attack जैसी महसूस हो सकती है। Difference के लिए: gas pain usually sharp aur localized hota hai, burping ya position change se relief मिलती है। Heart pain spreading aur associated symptoms के साथ होता है।</p>
+                        <p class="text-gray-700">Haan, कभी-कभी gas pain chest में heart attack जैसी महसूस हो सकती है। Difference के लिए: Gas aur heart ke dard ko ghar par pakka alag pehchanna mumkin nahi hai. Heart attack ka dard bina faile bhi ho sakta hai, khaas kar diabetes, mahilaon aur buzurgon mein. Seene mein naya, tez ya pasine/saans phoolne ke saath dard ho to gas maankar intezaar na karein — turant 108/emergency care lein aur ECG karwayein।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya stress gas problem बढ़ाती hai?</h4>
@@ -451,7 +452,7 @@
                         <li><a href="/blog/joint-pain-in-winter.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain in Winter - कारण और उपाय</a></li>
                         <li><a href="/blog/can-a-toothache-cause-a-headache-causes-treatment-guide.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Toothache और Headache - कारण, Treatment और Prevention Guide</a></li>
                         <li><a href="/blog/back-head-pain-causes-treatment-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: गर्दन और सिर दर्द: कारण, लक्षण और इलाज</a></li>
-                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Best Orthopedic Care</a></li>
+                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Orthopedic Care</a></li>
                         <li><a href="/blog/gas-ke-dard-ke-lakshan.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms &amp; Treatment</a></li>
                     </ul>
                 </section>
@@ -477,7 +478,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -486,8 +487,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gastroenterologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

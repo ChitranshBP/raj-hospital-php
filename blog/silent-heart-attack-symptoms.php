@@ -8,14 +8,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Silent Heart Attack Symptoms Ranchi Families Miss | World Heart Day 2026 | RAJ Hospital</title>
-    <meta name="description" content="Most heart attacks do not look like the movies. Cardiologists in Ranchi explain silent heart attack symptoms in women, diabetics and older patients.">
+    <meta name="description" content="Most heart attacks do not look like the movies. A guide to silent heart attack symptoms in women, diabetics and older patients.">
     <meta name="keywords" content="silent heart attack symptoms, heart attack warning signs India, women heart attack symptoms, World Heart Day 2026, atypical heart attack, jaw pain heart attack, cardiology hospital Ranchi">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
     <link rel="canonical" href="https://rajhospitals.com/blog/silent-heart-attack-symptoms/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="The Heart Attack Warning Signs Ranchi Families Miss">
-    <meta property="og:description" content="Jaw pain, nausea and sudden exhaustion can be a heart attack. Cardiologist-reviewed guide to atypical and silent heart attack symptoms for World Heart Day 2026.">
+    <meta property="og:description" content="Jaw pain, nausea and sudden exhaustion can be a heart attack. Guide to atypical and silent heart attack symptoms for World Heart Day 2026.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/silent-heart-attack-symptoms/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/silent-heart-attack-symptoms.jpg">
@@ -23,7 +23,7 @@
     <meta property="og:locale" content="en_IN">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Silent Heart Attack Symptoms Families Miss">
-    <meta name="twitter:description" content="Only a minority of heart attacks present as the classic chest clutch. Here is what the rest look like.">
+    <meta name="twitter:description" content="Many heart attacks do not present as the classic chest clutch. Here is what the rest look like.">
     <meta name="twitter:image" content="https://rajhospitals.com/blog/assets/img/featured/silent-heart-attack-symptoms.jpg">
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -48,7 +48,7 @@
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "World Heart Day: The Heart Attack Warning Signs Ranchi Families Miss",
-        "description": "Cardiologist-reviewed guide to silent and atypical heart attack symptoms, why women and diabetic patients present differently, and what to do in the first minutes.",
+        "description": "Guide to silent and atypical heart attack symptoms, why women and diabetic patients present differently, and what to do in the first minutes.",
         "image": ["https://rajhospitals.com/blog/assets/img/featured/silent-heart-attack-symptoms.jpg"],
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
@@ -203,9 +203,10 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · World Heart Day 2026</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">World Heart Day: The Heart Attack Warning Signs Ranchi Families Miss</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Cardiology Team, Raj Hospitals Ranchi</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Health Content Team</span>
                 </div>
             </div>
 
@@ -318,7 +319,7 @@
                     <li><strong>Insurance and TPA processing runs in parallel</strong>, not before treatment. Our <a href="/corporate-tpa" class="text-secondary-600 hover:underline font-semibold">corporate and TPA desk</a> handles cashless approvals while the patient is already being treated. No family should ever delay bringing a patient in over paperwork.</li>
                 </ul>
                 <p class="text-gray-700 mb-4">
-                    For patients coming from outside Ranchi &mdash; from Hazaribagh, Ramgarh, Bokaro, Khunti, Lohardaga or further &mdash; our ambulance fleet and helipad exist for exactly this arithmetic. The nearest hospital is not always the right hospital when what you need is a catheterisation lab, and the transfer time is part of the total ischaemic time whether anyone counts it or not.
+                    For patients coming from outside Ranchi &mdash; from Hazaribagh, Ramgarh, Bokaro, Khunti, Lohardaga or further &mdash; our ambulance fleet and helipad exist for exactly this arithmetic. In a suspected heart attack, call 108 and go to the nearest hospital that can give emergency heart-attack treatment (clot-dissolving medicine or angioplasty); the emergency team will arrange transfer to a catheterisation lab if needed. Do not delay treatment to travel a long distance.
                 </p>
 
                 <h2 class="raj-h2"><i data-feather="check-square" class="raj-h2-icon"></i> A Family Checklist You Can Act On, Not Just Read</h2>
@@ -399,15 +400,14 @@
                         <li><a href="/blog/chest-pain-ka-ilaj/" class="text-secondary-600 hover:underline font-semibold">Chest pain ka ilaj &mdash; कारण, जांच और इलाज</a></li>
                         <li><a href="/specialties/cardiology" class="text-secondary-600 hover:underline font-semibold">Cardiology at Raj Hospitals Ranchi &mdash; angiography, angioplasty and cardiac care</a></li>
                         <li><a href="/doctors/rajesh-jha" class="text-secondary-600 hover:underline font-semibold">Dr. Rajesh Kumar Jha &mdash; Cardiology, Raj Hospitals Ranchi</a></li>
-                        <li><a href="/testimonials" class="text-secondary-600 hover:underline font-semibold">Patient experiences at Raj Hospitals</a></li>
                     </ul>
                 </section>
 
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 shrink-0 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Cardiology Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Medically reviewed by our consultant cardiologists &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <strong class="text-gray-800">RAJ Hospital Health Content Team</strong>
+                        <p class="text-sm text-gray-500"><a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

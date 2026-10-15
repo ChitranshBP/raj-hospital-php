@@ -53,7 +53,7 @@
             "name": "क्या Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Acidity ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "महिला स्वास्थ्य और हार्मोनल संतुलन से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण | RAJ Hospital Ranchi",
-        "description": "Period Late Hone Ke Karan in Hindi: पीरियड लेट होने के कारण क्या हैं? जानिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> delay होने के 15+ reasons, पीरियड miss होने के reasons और कब doctor से मिलना चाहिए।",
+        "description": "Period Late Hone Ke Karan in Hindi: पीरियड लेट होने के कारण क्या हैं? जानिए periods delay होने के 15+ reasons, पीरियड miss होने के reasons और कब doctor से मिलना चाहिए।",
         "url": "https://rajhospitals.com/blog/period-late-hone-ke-karan/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/period-late-hone-ke-karan.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Women's Health Guide</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 8 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -282,7 +283,7 @@
                     <div class="bg-white rounded-2xl shadow-lg p-6 mb-6 border-l-4 border-purple-500">
                         <h3 class="text-xl font-bold text-gray-800 mb-3">2. PCOS/PCOD (Polycystic Ovary Syndrome)</h3>
                         <p class="text-gray-700 mb-3">
-                            <strong>Periods delay reasons in Hindi</strong> में PCOS सबसे major कारण है। भारत में 1 में से 5 women को PCOS की problem होती है।
+                            <strong>Periods delay reasons in Hindi</strong> में PCOS एक आम कारण है। भारत में बड़ी संख्या में women को PCOS की problem होती है।
                         </p>
                         <div class="grid md:grid-cols-2 gap-4">
                             <div>
@@ -311,7 +312,7 @@
                     <div class="bg-white rounded-2xl shadow-lg p-6 mb-6 border-l-4 border-blue-500">
                         <h3 class="text-xl font-bold text-gray-800 mb-3">3. Stress और Anxiety (तनाव)</h3>
                         <p class="text-gray-700 mb-3">
-                            <strong>Period kyu late hota hai</strong> इसका सबसे common reason stress है। Modern lifestyle में stress एक major factor है।
+                            <strong>Period kyu late hota hai</strong> इसका एक common reason stress है। Modern lifestyle में stress एक major factor है।
                         </p>
                         <ul class="list-disc list-inside text-gray-600 space-y-1">
                             <li>Work pressure या exam stress</li>
@@ -445,7 +446,6 @@
                             <ul class="list-disc list-inside text-gray-600 space-y-2">
                                 <li><strong>Alcohol:</strong> Liver function प्रभावित</li>
                                 <li><strong>Jet Lag:</strong> Body clock disturbed</li>
-                                <li><strong>Climate Change:</strong> Extreme weather effects</li>
                                 <li><strong>Infection:</strong> Pelvic infections</li>
                             </ul>
                         </div>
@@ -501,7 +501,7 @@
                             <li>Heavy bleeding हो रही है</li>
                             <li>Severe pain के साथ periods</li>
                             <li>Fever और अत्यधिक pain</li>
-                            <li>Pregnancy test positive है</li>
+                            <li>Pregnancy test positive होने के साथ पेट में तेज़ दर्द, bleeding या चक्कर/बेहोशी (ectopic pregnancy का संकेत हो सकता है)</li>
                         </ul>
                     </div>
 
@@ -541,13 +541,13 @@
 
                     <div class="grid md:grid-cols-2 gap-6">
                         <div class="bg-white rounded-2xl shadow-lg p-6">
-                            <h3 class="text-xl font-bold text-green-600 mb-4"><i data-feather="home" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Home Remedies (घरेलू उपाय)</h3>
+                            <h3 class="text-xl font-bold text-green-600 mb-4"><i data-feather="home" class="raj-icon raj-icon-sm raj-icon-secondary" aria-hidden="true"></i> Home Remedies (घरेलू उपाय) - केवल सहायक, इलाज नहीं; पहले pregnancy test करें</h3>
                             <ul class="space-y-3">
                                 <li class="flex items-start gap-3">
                                     <span class="text-2xl"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-yellow" aria-hidden="true"></i></span>
                                     <div>
                                         <strong>Ginger Tea</strong>
-                                        <p class="text-gray-600 text-sm">Periods को regular करने में मदद करता है</p>
+                                        <p class="text-gray-600 text-sm">पेट की ऐंठन या bloating में कुछ आराम दे सकती है; periods regular करने का प्रमाण सीमित है</p>
                                     </div>
                                 </li>
                                 <li class="flex items-start gap-3">
@@ -561,7 +561,7 @@
                                     <span class="text-2xl"><i data-feather="circle" class="raj-icon raj-icon-md raj-icon-green" aria-hidden="true"></i></span>
                                     <div>
                                         <strong>Papaya</strong>
-                                        <p class="text-gray-600 text-sm">Uterus contraction stimulate करता है</p>
+                                        <p class="text-gray-600 text-sm">Periods लाने के लिए papaya या कोई घरेलू नुस्खा न अपनाएं - pregnancy की संभावना हो तो पहले pregnancy test करें</p>
                                     </div>
                                 </li>
                                 <li class="flex items-start gap-3">
@@ -630,7 +630,7 @@
                                 <h3 class="text-lg font-bold text-green-700 mb-3"><i data-feather="circle" class="raj-icon raj-icon-sm raj-icon-green" aria-hidden="true"></i> Diet Tips</h3>
                                 <ul class="list-disc list-inside text-green-700 space-y-2">
                                     <li>Iron-rich food खाएं (spinach, lentils)</li>
-                                    <li>Vitamin B complex लें</li>
+                                    <li>Vitamin B से भरपूर भोजन लें (supplement केवल डॉक्टर की सलाह से)</li>
                                     <li>Omega-3 fatty acids include करें</li>
                                     <li>Junk food कम करें</li>
                                     <li>Water intake बढ़ाएं</li>
@@ -690,7 +690,7 @@
 
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Period Late Hone Ke Karan in Hindi: पीरियड लेट होने के कारण क्या हैं? जानिए periods delay होने के 15+ reasons, पीरियड miss होने के reasons और कब doctor से मिलना चाहिए।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में महिला स्वास्थ्य और हार्मोनल संतुलन से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -731,7 +731,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला स्वास्थ्य और हार्मोनल संतुलन से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -740,8 +740,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Gynecologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

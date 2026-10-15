@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>-mein-kya-khaye-aur-kya-na-khaye/",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/diabetes-mein-kya-khaye-aur-kya-na-khaye/",
         "keywords": ["diabetes diet", "diabetic food list", "sugar patient diet", "diabetes control food"],
         "about": {
             "@type": "MedicalCondition",
@@ -79,7 +79,7 @@ $base_url = '../';
                 "name": "डायबिटीज़ में क्या नहीं खाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "डायबिटीज़ में चीनी, मीठी चाय, जूस, चॉकलेट, आइसक्रीम, सफेद ब्रेड, चावल की मैदा, बिस्किट, और तला हुआ खाना नहीं खाना चाहिए।"
+                    "text": "डायबिटीज़ में चीनी, मीठी चाय, जूस, चॉकलेट, आइसक्रीम, सफेद ब्रेड, मैदा, बिस्किट, और तला हुआ खाना नहीं खाना चाहिए।"
                 }
             },
             {
@@ -95,7 +95,7 @@ $base_url = '../';
                 "name": "डायबिटीज़ में फल खा सकते हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हाँ, कुछ फल खा सकते हैं। जामुन, आम की गूदा (संतरा नहीं), अमरूद, सेब, और नाशपाती Low GI हैं। केला, अंगूर, और आम का रस नहीं पीना चाहिए।"
+                    "text": "हाँ, कुछ फल खा सकते हैं। जामुन, अमरूद, संतरा, सेब, और नाशपाती Low GI हैं (सीमित मात्रा में)। केला, अंगूर, और आम का रस नहीं पीना चाहिए।"
                 }
             },
             {
@@ -163,7 +163,7 @@ $base_url = '../';
                 "@type": "ListItem",
                 "position": 3,
                 "name": "डायबिटीज़",
-                "item": "https://rajhospitals.com/blog?category=<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>"
+                "item": "https://rajhospitals.com/blog?category=diabetes"
             },
             {
                 "@type": "ListItem",
@@ -201,6 +201,7 @@ $base_url = '../';
             <h1 class="text-3xl md:text-4xl font-bold mb-4">
                 डायबिटीज़ में क्या खाएं और क्या न खाएं? - Complete Diet Guide
             </h1>
+            <?php include $base_url . 'components/medical-disclaimer.php'; ?>
             <div class="flex items-center text-sm text-white/80 space-x-4">
                 <span class="flex items-center">
                     <i data-feather="user" class="w-4 h-4 mr-1"></i>
@@ -264,13 +265,13 @@ $base_url = '../';
                 <a href="https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients/" class="text-hospital-blue hover:underline">डायबिटीज़ डाइट प्लान</a> के अनुसार ये खाना सुरक्षित है और शुगर कंट्रोल में मदद करता है:
             </p>
 
-            <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">हरी सब्ज़ियाँ (सबसे अच्छी):</h3>
+            <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">हरी सब्ज़ियाँ (फायदेमंद):</h3>
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-green-50 p-4 rounded-lg">
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
                         <li><strong>पालक (Spinach)</strong> - Iron और मैग्नीशियम से भरपूर</li>
                         <li><strong>भिंडी (Okra)</strong> - Low GI, फाइबर से भरपूर</li>
-                        <li><strong>करेला (Bitter Gourd)</strong> - शुगर कम करने में मददगार</li>
+                        <li><strong>करेला (Bitter Gourd)</strong> - Low calorie, फाइबर युक्त सब्ज़ी</li>
                         <li><strong>लौकी (Bottle Gourd)</strong> - हल्का और आसानी से पचता है</li>
                         <li><strong>तोरी (Tori)</strong> - Low calorie, high fiber</li>
                     </ul>
@@ -280,8 +281,8 @@ $base_url = '../';
                         <li><strong>बैंगन</strong> - एंटीऑक्सीडेंट से भरपूर</li>
                         <li><strong>फूल गोभी</strong> - विटामिन C का स्रोत</li>
                         <li><strong>ब्रोकली</strong> - सल्फोराफेन होता है</li>
-                        <li><strong>शक्करंद</strong> (Sweet Pumpkin) - सीमित मात्रा में</li>
-                        <li><strong>मेथी</strong> - शुगर कंट्रोल में प्रभावी</li>
+                        <li><strong>शकरकंद</strong> (Sweet Potato) - सीमित मात्रा में</li>
+                        <li><strong>मेथी</strong> - फाइबर से भरपूर (दवा का विकल्प नहीं)</li>
                     </ul>
                 </div>
             </div>
@@ -290,7 +291,7 @@ $base_url = '../';
             <div class="grid md:grid-cols-2 gap-4 mb-6">
                 <div class="bg-blue-50 p-4 rounded-lg">
                     <ul class="list-disc pl-5 text-gray-700 space-y-1 text-sm">
-                        <li><strong>मूंग दाल</strong> - सबसे अच्छी, Low GI</li>
+                        <li><strong>मूंग दाल</strong> - हल्की और Low GI</li>
                         <li><strong>मसूर दाल (Masur)</strong> - प्रोटीन और फाइबर</li>
                         <li><strong>चना दाल</strong> - ऊर्जा और पोषण</li>
                         <li><strong>उड़द दाल</strong> - सीमित मात्रा में</li>
@@ -309,10 +310,10 @@ $base_url = '../';
             <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">अनाज और कार्ब्स:</h3>
             <div class="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-6">
                 <ul class="list-disc pl-5 text-gray-700 space-y-2">
-                    <li><strong>ओट्स (Oats)</strong> - GI 55, सबसे अच्छा विकल्प</li>
+                    <li><strong>ओट्स (Oats)</strong> - GI 55, अच्छा विकल्प</li>
                     <li><strong>ब्राउन राइस</strong> - सफेद चावल से बेहतर</li>
                     <li><strong>मल्टीग्रेन रोटी</strong> - गेहूं + जौ + राजगिरा</li>
-                    <li><strong>बाजरा</strong> - राजमा, बज्रा इत्यादि</li>
+                    <li><strong>बाजरा, रागी</strong> - मोटे अनाज (millets)</li>
                     <li><strong>ज्वार और जौ</strong> - Low GI अनाज</li>
                 </ul>
             </div>
@@ -444,7 +445,7 @@ $base_url = '../';
             </div>
 
             <div class="raj-callout raj-callout-warning">
-                <p class="text-gray-700 text-sm"><strong>टिप:</strong> फल को छीलकर न खाएं - छिलके में फाइबर होता है जो शुगर को धीरे-धीरे छोड़ता है। दही के साथ न खाएं (दही में लैक्टोज होता है)।</p>
+                <p class="text-gray-700 text-sm"><strong>टिप:</strong> जिन फलों का छिलका खाया जा सकता है (जैसे सेब, नाशपाती, अमरूद) उन्हें छिलके सहित खाएं - छिलके में फाइबर होता है। फल का जूस बनाने के बजाय साबुत फल खाएं।</p>
             </div>
 
             <h2 class="text-2xl font-bold text-gray-800 mt-8 mb-4 flex items-center">
@@ -504,7 +505,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">पोषण विशेषज्ञ से सलाह लें</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में डायबिटीज़ डाइट प्लान</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>
@@ -539,7 +540,7 @@ $base_url = '../';
 
                 <div class="bg-purple-50 p-4 rounded-lg">
                     <h4 class="font-bold text-purple-700 mb-2">शाम 4-5 बजे - स्नैक्स</h4>
-                    <p class="text-gray-700 text-sm">हल्की हरी चाय + कुछ बादाम/काजू (10-15 ग्राम)। या बूंदी चिड़ड़ा (जो भाप में पकी हो)।</p>
+                    <p class="text-gray-700 text-sm">हल्की हरी चाय + कुछ बादाम/काजू (10-15 ग्राम)। या भुना चना / अंकुरित दाल (sprouts)।</p>
                 </div>
 
                 <div class="bg-red-50 p-4 rounded-lg">
@@ -560,7 +561,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">भरपूर पानी पिएं</h4>
-                        <p class="text-gray-600 text-sm">रोज़ाना 8-10 गिलास पानी पिएं। यह शुगर को कंट्रोल करने में मदद करता है।</p>
+                        <p class="text-gray-600 text-sm">पर्याप्त पानी पिएं (kidney या heart के मरीज डॉक्टर की सलाह के अनुसार ही मात्रा तय करें)।</p>
                     </div>
                 </div>
 
@@ -580,7 +581,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-semibold text-gray-800">चीनी की जगह मिठास</h4>
-                        <p class="text-gray-600 text-sm">चीनी की जगह Stevia या यार्ब शुगर इस्तेमाल करें (डॉक्टर से पूछें)।</p>
+                        <p class="text-gray-600 text-sm">चीनी की जगह Stevia जैसे sweetener सीमित मात्रा में इस्तेमाल करें (डॉक्टर से पूछें)।</p>
                     </div>
                 </div>
 
@@ -617,7 +618,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: डायबिटीज़ में क्या नहीं खाना चाहिए?</h4>
-                    <p class="text-gray-700 text-sm">डायबिटीज़ में चीनी, मीठी चाय, जूस, चॉकलेट, आइसक्रीम, सफेद ब्रेड, चावल की मैदा, बिस्किट, और तला हुआ खाना नहीं खाना चाहिए।</p>
+                    <p class="text-gray-700 text-sm">डायबिटीज़ में चीनी, मीठी चाय, जूस, चॉकलेट, आइसक्रीम, सफेद ब्रेड, मैदा, बिस्किट, और तला हुआ खाना नहीं खाना चाहिए।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -627,7 +628,7 @@ $base_url = '../';
 
                 <div class="bg-gray-50 rounded-lg p-4">
                     <h4 class="font-semibold text-gray-800 mb-2">Q: डायबिटीज़ में फल खा सकते हैं?</h4>
-                    <p class="text-gray-700 text-sm">हाँ, कुछ फल खा सकते हैं। जामुन, आम की गूदा (संतरा नहीं), अमरूद, सेब, और नाशपाती Low GI हैं। केला, अंगूर, और आम का रस नहीं पीना चाहिए।</p>
+                    <p class="text-gray-700 text-sm">हाँ, कुछ फल खा सकते हैं। जामुन, अमरूद, संतरा, सेब, और नाशपाती Low GI हैं (सीमित मात्रा में)। केला, अंगूर, और आम का रस नहीं पीना चाहिए।</p>
                 </div>
 
                 <div class="bg-gray-50 rounded-lg p-4">
@@ -649,7 +650,7 @@ $base_url = '../';
                     </div>
                     <div class="ml-4">
                         <h4 class="font-bold text-gray-800">लेखक: RAJ Hospital Ranchi</h4>
-                        <p class="text-gray-600 text-sm mt-1">RAJ Hospital के एंडोक्रिनोलॉजिस्ट और पोषण विशेषज्ञ। डायबिटीज़ की देखभाल में विशेषज्ञता। अपॉइंटमेंट के लिए संपर्क करें।</p>
+                        <p class="text-gray-600 text-sm mt-1">यह लेख सामान्य जानकारी के लिए RAJ Hospital Health Desk द्वारा तैयार किया गया है। व्यक्तिगत डाइट प्लान के लिए डॉक्टर या पोषण विशेषज्ञ से मिलें। अपॉइंटमेंट के लिए संपर्क करें।</p>
                     </div>
                 </div>
             </div>

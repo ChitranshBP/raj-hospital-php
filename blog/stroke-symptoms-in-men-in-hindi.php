@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital</title>
+    <title>Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital</title>
     <meta name="description" content="Stroke symptoms in men in Hindi - पहचानें, पहचानें और बचें। Early warning signs, FAST test, causes aur prevention tips। Time is brain - जानें कब emergency help लें।">
     <meta name="keywords" content="stroke symptoms in men, brain stroke in hindi, stroke warning signs, paralysis, heart attack symptoms male">
     <meta name="robots" content="index, follow">
@@ -42,10 +42,10 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
+                "text": "Stroke के किसी भी लक्षण (चेहरा टेढ़ा होना, हाथ-पैर में अचानक कमजोरी, बोलने में दिक्कत, अचानक तेज सिरदर्द या चक्कर) में appointment का इंतज़ार न करें — तुरंत 108 पर call करें और नज़दीकी stroke-ready hospital पहुंचें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital",
+        "headline": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital",
         "description": "Stroke symptoms in men in Hindi - पहचानें, पहचानें और बचें। Early warning signs, FAST test, causes aur prevention tips। Time is brain - जानें कब emergency help लें।",
         "url": "https://rajhospitals.com/blog/stroke-symptoms-in-men-in-hindi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/stroke-symptoms-in-men-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital"
+                "name": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -212,6 +212,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi - Warning Signs aur FAST Test</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -328,7 +329,7 @@
                 <h2 class="raj-h2">Men में Stroke Symptoms - Gender Differences</h2>
 
                 <p class="text-gray-700 mb-4">
-                    Research shows कि <strong>men और women में stroke symptoms</strong> कुछ different हो सकते हैं। Men में कुछ unique symptoms भी होती हैं:
+                    Research shows कि <strong>men और women में stroke symptoms</strong> कुछ different हो सकते हैं। Stroke के मुख्य symptoms men और women में ज़्यादातर एक जैसे होते हैं:
                 </p>
 
                 <div class="space-y-4 mb-6">
@@ -343,7 +344,7 @@
                         </ul>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
-                        <h4 class="font-bold text-secondary-600">Risk Factors Unique to Men</h4>
+                        <h4 class="font-bold text-secondary-600">Men में ज़्यादा देखे जाने वाले Risk Factors</h4>
                         <ul class="text-sm text-gray-600 space-y-1 mt-2">
                             <li>Higher alcohol consumption</li>
                             <li>Smoking history</li>
@@ -399,7 +400,7 @@
 
                 <div class="raj-callout raj-callout-danger">
                     <strong class="text-red-700">Important:</strong>
-                    <span class="text-gray-700"> TIA के बाद stroke का risk 10-15% बढ़ जाती है, especially पहले 48 hours में। अगर TIA symptoms हों तो भी immediately medical help लें।</span>
+                    <span class="text-gray-700"> TIA के बाद लगभग 10-15% लोगों को अगले 3 महीनों में stroke हो सकता है, और इनमें से कई पहले 48 hours में होते हैं। अगर TIA symptoms हों तो भी immediately medical help लें।</span>
                 </div>
 
                 <!-- Section 7: Treatment -->
@@ -429,7 +430,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    RAJ Hospital Ranchi में हमारी <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">stroke treatment team</a> 24/7 available है aur advanced treatment options provide करती है।
+                    RAJ Hospital Ranchi में हमारी <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-secondary-600 hover:underline">stroke treatment team</a> 24/7 available है।
                 </p>
 
                 <!-- CTA Box -->
@@ -457,7 +458,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya alcohol consumption stroke ka risk बढ़ाता hai?</h4>
-                        <p class="text-gray-700">Haan, heavy alcohol consumption BP increase करता है aur heart rhythm problems कर सकता है, जिससे stroke risk बढ़ता है। Moderate consumption (1-2 drinks/day) generally safe है।</p>
+                        <p class="text-gray-700">Haan, heavy alcohol consumption BP increase करता है aur heart rhythm problems कर सकता है, जिससे stroke risk बढ़ता है। Alcohol की कोई भी मात्रा पूरी तरह safe नहीं मानी जाती; बेहतर है कि न पिएं, और अगर पीते हैं तो बहुत कम मात्रा में और doctor की सलाह से।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Kya stress से stroke हो सकता hai?</h4>
@@ -493,7 +494,7 @@
                     <div class="space-y-4">
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs में डॉक्टर को कब दिखाना चाहिए?</h3>
-                        <p class="text-gray-700">अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
+                        <p class="text-gray-700">Stroke के किसी भी लक्षण (चेहरा टेढ़ा होना, हाथ-पैर में अचानक कमजोरी, बोलने में दिक्कत, अचानक तेज सिरदर्द या चक्कर) में appointment का इंतज़ार न करें — तुरंत 108 पर call करें और नज़दीकी stroke-ready hospital पहुंचें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">क्या Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?</h3>
@@ -509,7 +510,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -518,8 +519,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Neurologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

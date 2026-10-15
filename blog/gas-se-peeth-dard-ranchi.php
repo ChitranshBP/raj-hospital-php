@@ -7,14 +7,14 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Gas se peeth dard (back pain due to gas) ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein iski sabse behtreen treatment ke liye RAJ Hospital mein appointment lein. Peeth dard ka sahi ilaj kaise karein.">
+    <title>Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Gas se peeth dard (back pain due to gas) ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein iski jaanch aur ilaj ke liye RAJ Hospital mein appointment lein. Peeth dard ka sahi ilaj kaise karein.">
     <meta name="keywords" content="gas se peeth dard, peeth dard ka ilaj, gas pain back Hindi, back pain due to gas in Hindi, peeth dard ke karan, abdominal gas back pain treatment ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/gas-se-peeth-dard-ranchi/">
 
     <meta property="og:title" content="Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi">
-    <meta property="og:description" content="Gas se peeth dard ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein sabse behtreen treatment ke liye RAJ Hospital mein appointment karein.">
+    <meta property="og:description" content="Gas se peeth dard ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein jaanch aur ilaj ke liye RAJ Hospital mein appointment karein.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/gas-se-peeth-dard-ranchi/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/gas-se-peeth-dard-ranchi.png">
@@ -40,7 +40,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi",
+        "name": "Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi",
         "description": "Gas se peeth dard (back pain due to gas) ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein iski treatment ke liye RAJ Hospital.",
         "publisher": {
             "@type": "Organization",
@@ -72,7 +72,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard",
+                "name": "Gas Se Peeth Dard",
                 "item": "https://rajhospitals.com/blog/gas-se-peeth-dard-ranchi/"
             }
         ]
@@ -89,7 +89,7 @@
                 "name": "क्या गैस से पीठ दर्द हो सकता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हां, गैस से पीठ दर्द हो सकता है। पेट में जमा गैस पीठ की नसों पर दबाव डाल सकती है और पीठ के निचले हिस्से में दर्द का कारण बन सकती है। इसको पेट की गैस से होने वाला पीठ दर्द (abdominal <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> back pain) कहते हैं।"
+                    "text": "हां, गैस से पीठ दर्द हो सकता है। पेट में जमा गैस पीठ की नसों पर दबाव डाल सकती है और पीठ के निचले हिस्से में दर्द का कारण बन सकती है। इसको पेट की गैस से होने वाला पीठ दर्द (abdominal gas back pain) कहते हैं।"
                 }
             },
             {
@@ -113,7 +113,7 @@
                 "name": "गैस से पीठ दर्द का घरेलू इलाज क्या है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "गैस से पीठ दर्द का घरेलू इलाज में गर्म पानी पीना, हल्की सैर करना, अदरक की चाय पीना, पेट पर गर्म सेक लगाना, और पiped कोफ्रा जैसी दवाइयां शामिल हैं। लेकिन बार-बार यह दर्द होने पर डॉक्टर से जांच कराना जरूरी है।"
+                    "text": "गैस से पीठ दर्द का घरेलू इलाज में गर्म पानी पीना, हल्की सैर करना, अदरक की चाय पीना, पेट पर गर्म सेक लगाना, और डॉक्टर की सलाह से गैस की दवा शामिल हो सकती है। लेकिन बार-बार यह दर्द होने पर डॉक्टर से जांच कराना जरूरी है।"
                 }
             },
             {
@@ -121,7 +121,7 @@
                 "name": "कब डॉक्टर से मिलना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "अगर पीठ दर्द 1 सप्ताह से ज्यादा रहे, तेज बुखार हो, पैरों में कमजोरी हो, पेशाब में दिक्कत हो, या दर्द बहुत तेज हो, तो तुरंत डॉक्टर से मिलें। RAJ Hospital Ranchi में <a href='https://rajhospitals.com/back-pain-and-sciatica-treatment-in-ranchi.php'>back pain specialist</a> उपलब्ध हैं।"
+                    "text": "अगर पीठ दर्द 1 सप्ताह से ज्यादा रहे, तेज बुखार हो, पैरों में कमजोरी हो, पेशाब में दिक्कत हो, या दर्द बहुत तेज हो, तो तुरंत डॉक्टर से मिलें। RAJ Hospital Ranchi में back pain specialist उपलब्ध हैं।"
                 }
             },
             {
@@ -137,7 +137,7 @@
                 "name": "RAJ Hospital Ranchi में पीठ दर्द का इलाज कैसे होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "RAJ Hospital Ranchi में न्यूरोलॉजी विशेषज्ञ पीठ दर्द की पूरी जांच करते हैं। गैस से संबंधित पीठ दर्द के लिए दवा, डायट प्लान, और फिजियोथेरेपी दी जाती है। अगर पीठ दर्द का कारण गैस नहीं है, तो <a href='https://rajhospitals.com/spinal-cord-injury-treatment-in-ranchi.php'>spinal cord specialist</a> भी उपलब्ध हैं।"
+                    "text": "RAJ Hospital Ranchi में न्यूरोलॉजी विशेषज्ञ पीठ दर्द की पूरी जांच करते हैं। गैस से संबंधित पीठ दर्द के लिए दवा, डायट प्लान, और फिजियोथेरेपी दी जाती है। अगर पीठ दर्द का कारण गैस नहीं है, तो spinal cord specialist भी उपलब्ध हैं।"
                 }
             }
         ]
@@ -151,7 +151,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -186,7 +186,7 @@
             "name": "दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -198,8 +198,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi | RAJ Hospital Ranchi",
-        "description": "Gas se peeth dard (back pain due to gas) ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein iski sabse behtreen treatment ke liye RAJ Hospital mein appointment lein. Peeth dard ka sahi ilaj kaise karein.",
+        "headline": "Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi | RAJ Hospital Ranchi",
+        "description": "Gas se peeth dard (back pain due to gas) ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein iski jaanch aur ilaj ke liye RAJ Hospital mein appointment lein. Peeth dard ka sahi ilaj kaise karein.",
         "url": "https://rajhospitals.com/blog/gas-se-peeth-dard-ranchi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/gas-se-peeth-dard-ranchi.png",
         "author": {
@@ -270,6 +270,7 @@
             <div class="p-6 md:p-10">
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Problem</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 14 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -332,7 +333,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-500">
                         <h4 class="font-bold text-primary-600">6. नर्व कम्प्रेशन (Nerve Compression)</h4>
-                        <p class="text-sm text-gray-600">कुछ मामलों में, पेट की गैस से फैलाव इतना ज्यादा हो सकता है कि यह पीठ की रीढ़ की नसों पर दबाव डाले। <a href="/spinal-cord-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Spinal cord specialist</a> इसकी जांच कर सकते हैं।</p>
+                        <p class="text-sm text-gray-600">कुछ मामलों में,  <a href="/spinal-cord-injury-treatment-in-ranchi.php" class="text-primary-600 hover:underline">Spinal cord specialist</a> इसकी जांच कर सकते हैं।</p>
                     </div>
                 </div>
 
@@ -376,7 +377,7 @@
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> पैरों में कमजोरी या सुन्नपन हो</li>
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> पेशाब या शौच में दिक्कत हो</li>
                         <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> दर्द बहुत तेज हो और आराम न हो</li>
-                        <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> खून में दर्द हो या उल्टी हो</li>
+                        <li class="flex items-start gap-2"><span class="text-red-600 font-bold">!</span> मल में खून आए या लगातार उल्टी हो</li>
                     </ul>
                     <p class="mt-3 text-sm text-gray-600">ये लक्षण गंभीर समस्या की तरफ इशारा कर सकते हैं जिनके लिए <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-red-600 hover:underline">neurological assessment</a> जरूरी हो सकती है।</p>
                 </div>
@@ -407,11 +408,11 @@
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">5. लेनेटिव पोजीशन</h4>
-                        <p class="text-sm text-gray-600">पेट के बल लेटकर और घुटने छाती पर रखने से गैस निकलने में मदद मिलती है।</p>
+                        <p class="text-sm text-gray-600">पीठ के बल लेटकर घुटनों को छाती की ओर लाने (पवनमुक्तासन) से गैस निकलने में मदद मिल सकती है।</p>
                     </div>
                     <div class="raj-callout raj-callout-success">
                         <h4 class="font-bold text-green-700">6. गैस की दवाइयां</h4>
-                        <p class="text-sm text-gray-600">Piped kofrA जैसी ओवर-द-काउंटर दवाइयां गैस कम करने में मदद करती हैं। लेकिन बार-बार लेने से पहले डॉक्टर से पूछें।</p>
+                        <p class="text-sm text-gray-600">गैस की ओवर-द-काउंटर दवाइयां केवल डॉक्टर या फार्मासिस्ट की सलाह से लें। लेकिन बार-बार लेने से पहले डॉक्टर से पूछें।</p>
                     </div>
                 </div>
 
@@ -451,7 +452,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    RAJ Hospital में हम समझते हैं कि <strong>गैस से पीठ दर्द</strong> कितना परेशान करने वाला हो सकता है। हमारी टीम आपको न केवल तुरंत राहत दिलाती है, बल्कि भविष्य में इस समस्या से बचने के लिए भी मार्गदर्शन करती है। रांची में <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline font-semibold">best back pain treatment</a> के लिए आज ही अपॉइंटमेंट बुक करें।
+                    RAJ Hospital में हम समझते हैं कि <strong>गैस से पीठ दर्द</strong> कितना परेशान करने वाला हो सकता है। हमारी टीम इलाज के साथ भविष्य में इस समस्या से बचने के लिए भी मार्गदर्शन करती है। रांची में <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-primary-500 hover:underline font-semibold">back pain treatment</a> के लिए आज ही अपॉइंटमेंट बुक करें।
                 </p>
 
                 <!-- Section 8: When it's not just gas -->
@@ -477,13 +478,13 @@
                     <ul class="space-y-2 text-gray-700">
                         <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> गैस से पीठ दर्द आम है और अक्सर गंभीर नहीं होता</li>
                         <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> धीरे-धीरे खाना और गैस वाले पदार्थों से बचना इससे बचाव है</li>
-                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> घरेलू उपाय पहले आजमाएं, फिर डॉक्टर से मिलें</li>
+                        <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> हल्के दर्द में घरेलू उपाय आजमा सकते हैं, लेकिन तेज या अचानक दर्द, सीने में दर्द, पसीना, बुखार या पेशाब में दिक्कत हो तो तुरंत डॉक्टर से मिलें</li>
                         <li class="flex items-start gap-2"><i data-feather="check" class="raj-icon raj-icon-sm raj-icon-green mt-1" aria-hidden="true"></i> <strong>RAJ Hospital Ranchi</strong> में गैस और पीठ दर्द दोनों का इलाज उपलब्ध है</li>
                     </ul>
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    रांची में <strong>पीठ दर्द और गैस की समस्या</strong> के लिए सबसे अच्छा इलाज पाने के लिए <a href="/contact.php" class="text-primary-500 hover:underline font-semibold">RAJ Hospital Ranchi से संपर्क करें</a>। हमारे अनुभवी डॉक्टर आपकी मदद के लिए हमेशा तैयार हैं।
+                    रांची में <strong>पीठ दर्द और गैस की समस्या</strong> की जांच और इलाज के लिए <a href="/contact.php" class="text-primary-500 hover:underline font-semibold">RAJ Hospital Ranchi से संपर्क करें</a>। हमारे अनुभवी डॉक्टर आपकी मदद के लिए हमेशा तैयार हैं।
                 </p>
 
                 <p class="text-gray-700 mb-4">
@@ -492,8 +493,8 @@
             </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Gas se peeth dard (back pain due to gas) ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein iski sabse behtreen treatment ke liye RAJ Hospital mein appointment lein. Peeth dard ka sahi ilaj kaise karein.</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi: ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Gas se peeth dard (back pain due to gas) ke karan, lakshan aur ilaj ke baare mein jaane. Ranchi mein iski jaanch aur ilaj ke liye RAJ Hospital mein appointment lein. Peeth dard ka sahi ilaj kaise karein.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Gas Se Peeth Dard: Causes, Symptoms aur Treatment in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -510,7 +511,7 @@
                         <li><a href="/blog/subah-uthte-hi-pair-me-dard-kyon-hota-hai.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Subah Uthne Ke Baad Pair Mein Dard - Kyon Hota Hai?</a></li>
                         <li><a href="/blog/fits-ka-ilaj.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Fits Ka Ilaj - Epilepsy Treatment in Hindi</a></li>
                         <li><a href="/blog/joint-pain-in-winter.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain in Winter - कारण और उपाय</a></li>
-                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Best Orthopedic Care</a></li>
+                        <li><a href="/blog/joint-pain-treatment-ranchi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Joint Pain Treatment Ranchi - Orthopedic Care</a></li>
                         <li><a href="/blog/gas-ke-dard-ke-lakshan.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms &amp; Treatment</a></li>
                     </ul>
                 </section>
@@ -536,7 +537,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">दर्द, हड्डी, जोड़ और न्यूरोलॉजी से जुड़े लक्षण से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -553,7 +554,7 @@
                 </a>
                 <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
                     <h4 class="font-semibold text-primary-600 mb-1">Back Pain and Sciatica Treatment in Ranchi</h4>
-                    <p class="text-sm text-gray-600">पीठ दर्द और साइटिका के लिए Ranchi में सबसे अच्छा इलाज।</p>
+                    <p class="text-sm text-gray-600">पीठ दर्द और साइटिका का इलाज – RAJ Hospital, Ranchi।</p>
                 </a>
                 <a href="/stroke-and-tia-treatment-in-ranchi.php" class="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition">
                     <h4 class="font-semibold text-primary-600 mb-1">Stroke Treatment in Ranchi</h4>

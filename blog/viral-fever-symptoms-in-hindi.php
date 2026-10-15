@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Viral Fever Symptoms in Hindi - वायरल बुखार के लक्षण और इलाज | RAJ Hospital Ranchi</title>
-    <meta name="description" content="वायरल बुखार के लक्षण (Viral Fever Symptoms in Hindi) - बुखार आने के कारण, लक्षण, इलाज और बचाव। Viral vs Bacterial fever में अंतर। Ranchi में best treatment।">
+    <meta name="description" content="वायरल बुखार के लक्षण (Viral Fever Symptoms in Hindi) - बुखार आने के कारण, लक्षण, इलाज और बचाव। Viral vs Bacterial fever में अंतर। Ranchi में RAJ Hospital में जांच और इलाज।">
     <meta name="keywords" content="viral fever symptoms in hindi, viral fever, वायरल बुखार, viral fever treatment, viral infection, flu symptoms, बुखार का इलाज, viral fever in hindi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/viral-fever-symptoms-in-hindi/">
@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Viral Fever Symptoms in Hindi - वायरल बुखार के लक्षण",
-        "description": "वायरल बुखार के लक्षण, कारण, इलाज और बचाव। Viral vs Bacterial fever। RAJ Hospital Ranchi में expert treatment।",
+        "description": "वायरल बुखार के लक्षण, कारण, इलाज और बचाव। Viral vs Bacterial fever। RAJ Hospital Ranchi में जांच और इलाज।",
         "url": "https://rajhospitals.com/blog/viral-fever-symptoms-in-hindi/",
         "author": {
             "@type": "Organization",
@@ -75,7 +75,7 @@
                 "name": "वायरल बुखार (Viral Fever) क्या है और इसके क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "वायरल बुखार viruses के infection से होने वाला fever है। लक्षण: high fever (101-104°F), <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>, body aches, fatigue, sore throat, cough, runny nose, और weakness। यह आमतौर पर 3-7 दिन में ठीक हो जाता है।"
+                    "text": "वायरल बुखार viruses के infection से होने वाला fever है। लक्षण: high fever (101-104°F), headache, body aches, fatigue, sore throat, cough, runny nose, और weakness। यह आमतौर पर 3-7 दिन में ठीक हो जाता है।"
                 }
             },
             {
@@ -178,6 +178,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">General Medicine</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Viral Fever Symptoms in Hindi - वायरल बुखार के लक्षण, कारण और इलाज</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -244,7 +245,7 @@
                 <h2 class="raj-h2-secondary">Viral vs Bacterial Fever</h2>
 
                 <p class="text-gray-700 mb-4">
-                    यह पहचानना important है कि fever viral है या bacterial, क्योंकि treatment अलग होती है:
+                    यह पहचानना important है कि fever viral है या bacterial, क्योंकि treatment अलग होती है। लेकिन सिर्फ बुखार के तापमान या शुरुआत के तरीके से यह तय नहीं किया जा सकता — dengue और flu जैसे viral infections में भी अचानक तेज़ बुखार होता है; सही diagnosis के लिए doctor की जांच और blood tests ज़रूरी हैं। आम तौर पर देखे जाने वाले फर्क:
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -291,7 +292,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">3. Fever Management</h4>
-                        <p class="text-sm text-gray-600">Paracetamol (Acetaminophen) 500-1000mg हर 4-6 hours में ले सकते हैं। Ibuprofen भी helpful है। Aspirin children को न दें।</p>
+                        <p class="text-sm text-gray-600">बुखार के लिए doctor की सलाह से paracetamol ले सकते हैं — बच्चों में dose वज़न के अनुसार doctor ही तय करें और दिन की अधिकतम मात्रा से ज़्यादा न लें। Dengue का शक हो (monsoon, तेज़ बदन दर्द, rash) तो ibuprofen, aspirin या दूसरी painkillers खुद से न लें — इनसे bleeding का खतरा बढ़ सकता है। Aspirin बच्चों को कभी न दें।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-primary-600">
                         <h4 class="font-bold text-primary-600">4. Throat Relief</h4>
@@ -372,7 +373,7 @@
                 </div>
 
                 <div class="bg-gradient-to-r from-primary-600 to-primary-700 text-white p-6 rounded-xl text-center mb-8">
-                    <h3 class="text-xl font-bold mb-2">वायरल बुखार का Expert इलाज</h3>
+                    <h3 class="text-xl font-bold mb-2">वायरल बुखार की जांच और इलाज</h3>
                     <p class="opacity-90 mb-4">RAJ Hospital Ranchi में viral fever की diagnosis और supportive treatment available है। blood tests, flu test, और appropriate guidance।</p>
                     <a href="/contact.php" class="inline-block bg-white text-primary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">अपॉइंटमेंट बुक करें</a>
                 </div>
@@ -399,16 +400,15 @@
                 </div>
 
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Viral Fever Symptoms in Hindi पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">वायरल बुखार के लक्षण (Viral Fever Symptoms in Hindi) - कारण, लक्षण, इलाज और बचाव। Ranchi में best viral fever treatment RAJ Hospital में।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Viral Fever Symptoms in Hindi पर ज़रूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">वायरल बुखार के लक्षण (Viral Fever Symptoms in Hindi) - कारण, लक्षण, इलाज और बचाव। Ranchi में RAJ Hospital में viral fever की जांच और इलाज उपलब्ध है।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए viral fever एक common problem है। Proper rest, fluids, और symptomatic treatment से most cases home पर ही ठीक हो जाते हैं।</p>
                 </section>
 
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Physician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

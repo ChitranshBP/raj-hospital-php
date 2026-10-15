@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="../assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Plastic Surgery Hospital in Ranchi | Raj Hospitals</title>
+    <title>Plastic Surgery Hospital in Ranchi | Raj Hospitals</title>
     <meta name="description"
         content="Raj Hospital offers advanced aesthetic and reconstructive surgery in Ranchi with experienced plastic surgeons, modern facilities and safe surgical care." />
 
@@ -41,11 +41,6 @@ Plastic Surgeon in Ranchi
   "name": "Raj Hospital",
   "url": "https://rajhospitals.com/",
   "logo": "https://rajhospitals.com/images/logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.6",
-    "reviewCount": "380"
-  },
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Mahatma Gandhi Main Road",
@@ -87,10 +82,10 @@ Plastic Surgeon in Ranchi
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Which hospital is best for aesthetic and reconstructive surgery in Ranchi?",
+      "name": "Does Raj Hospital offer aesthetic and reconstructive surgery in Ranchi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Raj Hospital is one of the best hospitals in Ranchi for aesthetic and reconstructive surgery with experienced plastic surgeons."
+        "text": "Yes, Raj Hospital in Ranchi offers aesthetic and reconstructive surgery by experienced plastic surgeons."
       }
     },
     {
@@ -98,7 +93,7 @@ Plastic Surgeon in Ranchi
       "name": "Is cosmetic and reconstructive surgery safe at Raj Hospital?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, aesthetic and reconstructive surgeries at Raj Hospital are performed using advanced techniques with strict safety standards."
+        "text": "Aesthetic and reconstructive surgeries at Raj Hospital are performed by qualified plastic surgeons following standard safety protocols; like any surgery they carry some risks, which your surgeon will explain before treatment."
       }
     }
   ]
@@ -243,8 +238,8 @@ Plastic Surgeon in Ranchi
             <div class="max-w-7xl mx-auto px-4 w-full">
                 <div class="max-w-3xl text-white fade-in">
                     <h1 class="text-4xl lg:text-5xl font-bold mb-4">Aesthetic & Reconstructive Surgery</h1>
-                    <p class="text-xl text-gray-200">Best hospital for aesthetic & reconstructive surgery in Ranchi with
-                        expert plastic surgeons and cutting-edge technology</p>
+                    <p class="text-xl text-gray-200">Aesthetic & reconstructive surgery in Ranchi with
+                        experienced plastic surgeons and modern technology</p>
                 </div>
             </div>
         </div>
@@ -260,12 +255,12 @@ Plastic Surgeon in Ranchi
                         <h2 class="text-3xl font-bold text-gray-900 mb-6">Overview</h2>
                         <p class="text-lg text-gray-700 leading-relaxed mb-6">The Department of Aesthetic &
                             Reconstructive Surgery at Raj Hospitals, Ranchi, combines advanced cosmetic procedures with
-                            reconstructive expertise to deliver world-class care. Established by eminent plastic
+                            reconstructive expertise to deliver comprehensive care. Led by qualified plastic
                             surgeons, the department provides individualized treatments for scars, birth defects, facial
-                            reconstruction, and body reshaping. Using state-of-the-art technology and minimally invasive
+                            reconstruction, and body reshaping. Using modern technology and minimally invasive
                             techniques, our expert plastic and maxillofacial surgeons improve aesthetics, self-esteem,
                             and functional outcomes. Whether it is corrective surgery after trauma, congenital defect
-                            management, or cosmetic enhancement, Raj Hospitals ensures safe, precise, and
+                            management, or cosmetic enhancement, Raj Hospitals aims for safe, precise, and
                             natural-looking results.</p>
 
                         <!-- Why Choose Us Box -->
@@ -290,7 +285,7 @@ Plastic Surgeon in Ranchi
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">State-of-the-art operating theatres</span>
+                                    <span class="text-gray-700">Modern operating theatres</span>
                                 </li>
                                 <li class="flex items-start">
                                     <i data-feather="check"
@@ -300,7 +295,7 @@ Plastic Surgeon in Ranchi
                                 <li class="flex items-start">
                                     <i data-feather="check"
                                         class="w-5 h-5 text-primary-600 mt-1 mr-3 flex-shrink-0"></i>
-                                    <span class="text-gray-700">Affordable treatment packages for patients</span>
+                                    <span class="text-gray-700">Treatment packages available on consultation</span>
                                 </li>
                             </ul>
                         </div>
@@ -327,7 +322,7 @@ Plastic Surgeon in Ranchi
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                                 <div class="flex items-center space-x-3">
                                     <div class="w-2 h-2 bg-primary-500 rounded-full"></div>
-                                    <span class="text-gray-700">State-of-the-art operating theatres</span>
+                                    <span class="text-gray-700">Modern operating theatres</span>
                                 </div>
                             </div>
                             <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
@@ -447,7 +442,7 @@ Plastic Surgeon in Ranchi
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-semibold text-gray-900 mb-3">Wrinkle Filling</h3>
-                        <p class="text-gray-600 mb-4">Safe dermal fillers to reduce signs of aging and restore youthful
+                        <p class="text-gray-600 mb-4">Dermal fillers to soften wrinkles and restore lost volume for a refreshed
                             look.</p>
                     </div>
                 </div>
@@ -574,61 +569,6 @@ Plastic Surgeon in Ranchi
         </div>
     </section>
 
-    <!-- Patient Success Stories Section -->
-    <section class="py-8 bg-gradient-to-br from-primary-50 to-secondary-50">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="text-center mb-12 fade-in">
-                <h2 class="text-3xl font-bold text-gray-900 mb-4">Patient Success Stories</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-                    Real stories of healing and recovery from our Aesthetic & Reconstructive Surgery department
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Story 1 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="heart" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Scar Revision & Reconstructive Surgery</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mr. Gill</p>
-                    <p class="text-gray-700 mb-6">Raj Hospital provided me with the best reconstructive surgery
-                        experience. The scars I had were treated with great precision, and now I feel confident again.
-                    </p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Significant scar reduction and improved
-                                appearance</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Story 2 -->
-                <div class="bg-white p-8 rounded-xl shadow-md fade-in">
-                    <div class="flex items-center space-x-3 mb-4">
-                        <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center">
-                            <i data-feather="heart" class="w-5 h-5 text-primary-600"></i>
-                        </div>
-                        <h3 class="text-xl font-semibold text-gray-900">Facial Cosmetic Enhancement</h3>
-                    </div>
-                    <p class="text-gray-500 mb-4">Patient: Mrs. Kaur</p>
-                    <p class="text-gray-700 mb-6">I underwent facial rejuvenation at Raj Hospital. The doctors were
-                        supportive, and the results looked natural and safe. Truly one of the best facilities in Ranchi.
-                    </p>
-                    <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-                        <div class="flex items-center space-x-2">
-                            <i data-feather="check" class="w-5 h-5 text-green-600"></i>
-                            <span class="font-medium text-green-800">Outcome: Youthful look with natural aesthetic
-                                results</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- FAQs and Contact Form Section -->
     <section class="py-8 bg-white">
@@ -700,8 +640,8 @@ Plastic Surgeon in Ranchi
                                     class="text-2xl text-primary-500 flex-shrink-0 ml-4 faq-icon"></i>
                             </div>
                             <div class="faq-content text-gray-700 transition-all duration-300 overflow-hidden max-h-0">
-                                <p>Raj Hospitals provides affordable packages for cosmetic & reconstructive surgeries,
-                                    ensuring high-quality results at cost-effective pricing.</p>
+                                <p>The cost of cosmetic & reconstructive surgery at Raj Hospitals depends on the procedure and is shared
+                                    after an individual consultation.</p>
                             </div>
                         </div>
                     </div>
@@ -759,6 +699,10 @@ Plastic Surgeon in Ranchi
                             <input type="hidden" name="specialty" value="Aesthetic & Reconstructive Surgery">
 
                             <!-- Submit Button -->
+                            <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                            </label>
                             <button type="submit"
                                 class="w-full bg-primary-500 hover:bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2">
                                 <i data-feather="send" class="w-5 h-5"></i>

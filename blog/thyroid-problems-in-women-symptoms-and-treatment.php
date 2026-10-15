@@ -7,14 +7,14 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital</title>
+    <title>Thyroid Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital</title>
     <meta name="description" content="Thyroid problems in women symptoms and treatment in Hindi - जानें women में thyroid ke problems, symptoms, और latest treatment options। PCOS और pregnancy से connection।">
     <meta name="keywords" content="thyroid problems in women, thyroid ke problems women, thyroid symptoms women, thyroid treatment women, thyroid in hindi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment/">
 
     <meta property="og:title" content="Thyroid Problems in Women | Symptoms and Treatment">
-    <meta property="og:description" content="Thyroid problems in women symptoms and treatment in Hindi - Complete guide by RAJ Hospital specialists।">
+    <meta property="og:description" content="Thyroid problems in women symptoms and treatment in Hindi - Complete guide by RAJ Hospital।">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/thyroid-problems-in-women-symptoms-and-treatment.png">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Thyroid Problems in Women | Symptoms and Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या Thyroid Problems in Women | Symptoms and Treatment in Hindi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए PCOD Problems in Women - Symptoms, Causes and Health Effects जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,8 +89,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital",
-        "description": "Thyroid problems in women symptoms and treatment in Hindi - जानें women में thyroid ke problems, symptoms, और latest treatment options। <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOS</a> और pregnancy से connection।",
+        "headline": "Thyroid Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital",
+        "description": "Thyroid problems in women symptoms and treatment in Hindi - जानें women में thyroid ke problems, symptoms, और latest treatment options। PCOS और pregnancy से connection।",
         "url": "https://rajhospitals.com/blog/thyroid-problems-in-women-symptoms-and-treatment/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/thyroid-problems-in-women-symptoms-and-treatment.png",
         "author": {
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital"
+                "name": "Thyroid Problems in Women | Symptoms and Treatment in Hindi | RAJ Hospital"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -215,6 +215,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Endocrinology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Problems in Women | Symptoms and Treatment in Hindi</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -223,7 +224,7 @@
 
             <div class="p-6 md:p-10">
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> problems in women</strong> आज के समय में एक common health issue है। हर 8 women में से 1 को अपने life में कभी न कभी <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> disorder</strong> होता है। यह hormone imbalance से related एक serious condition है जो अगर untreated रहे तो कई health complications पैदा कर सकती है।
+                    <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> problems in women</strong> आज के समय में एक common health issue है। बहुत सी women को अपने life में कभी न कभी <strong><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> disorder</strong> होता है। यह hormone imbalance से related एक serious condition है जो अगर untreated रहे तो कई health complications पैदा कर सकती है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -238,7 +239,7 @@
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">महत्वपूर्ण:</strong>
-                    <span class="text-gray-700"> Women में thyroid disorders पुरुषों की तुलना में 5-8 गुना ज्यादा common हैं। Hormonal fluctuations (menstruation, pregnancy, menopause) इसका एक major reason है।</span>
+                    <span class="text-gray-700"> Women में thyroid disorders पुरुषों की तुलना में 5-8 गुना ज्यादा common हैं। इसका एक बड़ा कारण यह है कि autoimmune thyroid diseases (जैसे Hashimoto's और Graves' disease) women में ज़्यादा होती हैं; delivery के बाद (postpartum) भी thyroid problems हो सकती हैं।</span>
                 </div>
 
                 <h2 class="raj-h2">Women में Thyroid Problems के प्रकार</h2>
@@ -301,7 +302,7 @@
                 <h2 class="raj-h2">Thyroid और Pregnancy (गर्भावस्था में Thyroid)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Thyroid और pregnancy</strong> का close connection है। Untreated thyroid disorders से pregnancy में complications हो सकते हैं:
+                    <strong>Thyroid और pregnancy</strong> का close connection है। Pregnancy plan करते समय और pregnancy confirm होते ही TSH test कराएं; thyroid की दवा खुद से बंद न करें — pregnancy में dose अक्सर doctor बदलते हैं। Untreated thyroid disorders से pregnancy में complications हो सकते हैं:
                 </p>
 
                 <div class="raj-callout raj-callout-warning">
@@ -316,7 +317,7 @@
                 <h2 class="raj-h2">Thyroid और PCOS Connection</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Thyroid और PCOS</strong> (Polycystic Ovary Syndrome) में also connection पाया गया है। Studies show करती हैं कि PCOS women में hypothyroidism का risk ज्यादा होता है। Both conditions hormonal imbalance से related हैं और shared symptoms हो सकते हैं।
+                    <strong>Thyroid और PCOS</strong> (Polycystic Ovary Syndrome) में also connection पाया गया है। कुछ research के अनुसार PCOS वाली women में hypothyroidism (खासकर autoimmune thyroiditis) का risk ज्यादा हो सकता है। Both conditions hormonal imbalance से related हैं और shared symptoms हो सकते हैं।
                 </p>
 
                 <h2 class="raj-h2">Thyroid Treatment Options (इलाज)</h2>
@@ -328,7 +329,7 @@
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700"><i data-feather="zap" class="raj-icon raj-icon-sm raj-icon-yellow" aria-hidden="true"></i>️ Radioactive Iodine</h4>
-                        <p class="text-sm text-gray-600">Hyperthyroidism treatment में used। Thyroid cells को reduce करता है।</p>
+                        <p class="text-sm text-gray-600">Hyperthyroidism treatment में used। Thyroid cells को reduce करता है। Pregnancy और breastfeeding के दौरान radioactive iodine नहीं दिया जाता — pregnancy plan कर रही हैं तो doctor को ज़रूर बताएं।</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-700"><i data-feather="scissors" class="raj-icon raj-icon-sm raj-icon-gray" aria-hidden="true"></i> Surgery</h4>
@@ -342,7 +343,7 @@
 
                 <div class="bg-gradient-to-r from-secondary-600 to-blue-600 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">क्या आपको Thyroid की समस्या है?</h3>
-                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में complete thyroid profile testing और expert endocrinologists available हैं।</p>
+                    <p class="opacity-90 mb-4">RAJ Hospital Ranchi में thyroid profile testing और doctor consultation की सुविधा उपलब्ध है।</p>
                     <a href="/contact.php" class="inline-block bg-white text-secondary-600 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
                 </div>
 
@@ -366,14 +367,13 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Endocrinologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Thyroid Problems in Women | Symptoms and Treatment in Hindi पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Thyroid Problems in Women | Symptoms and Treatment in Hindi पर ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Thyroid problems in women symptoms and treatment in Hindi - जानें women में thyroid ke problems, symptoms, और latest treatment options। PCOS और pregnancy से connection।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Thyroid Problems in Women | Symptoms and Treatment in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -386,7 +386,7 @@
                     <p class="text-gray-700 mb-4">जुड़े हुए symptoms, risk factors, prevention और treatment options समझने के लिए ये गाइड भी पढ़ें:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
                         <li><a href="/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOD Problems in Women - Symptoms, Causes and Health Effects</a></li>
-                        <li><a href="/blog/pcos-treatment-in-ranchi-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOS Treatment in Ranchi - Symptoms, Causes and Best Doctors</a></li>
+                        <li><a href="/blog/pcos-treatment-in-ranchi-symptoms.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOS Treatment in Ranchi - Symptoms, Causes and Doctors</a></li>
                         <li><a href="/blog/pcod-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज</a></li>
                         <li><a href="/blog/hiv-symptoms-in-women-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: HIV Symptoms in Women in Hindi - महिलाओं में HIV के लक्षण</a></li>
                         <li><a href="/blog/pregnancy-ke-lakshan-kitne-din-me-dikhte-hain.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Pregnancy Ke Lakshan - Kitne Din Mein Dikhte Hain?</a></li>
@@ -416,7 +416,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">महिला, गर्भावस्था और शिशु स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>

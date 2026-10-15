@@ -108,7 +108,7 @@
                 "name": "कब ग्रीन टी नहीं पीनी चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a>, breastfeeding, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> disorders, heart problems, या caffeine sensitivity वाले लोगों को ग्रीन टी से बचना चाहिए। साथ ही, empty stomach पर ग्रीन टी नहीं पीनी चाहिए।"
+                    "text": "Pregnancy, breastfeeding, anxiety disorders, heart problems, या caffeine sensitivity वाले लोगों को ग्रीन टी से बचना चाहिए। साथ ही, empty stomach पर ग्रीन टी नहीं पीनी चाहिए।"
                 }
             },
             {
@@ -124,7 +124,7 @@
                 "name": "क्या ग्रीन टी heart के लिए फायदेमंद है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हां, regular ग्रीन टी consumption LDL cholesterol को reduce करता है, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> को regulate करता है, और heart disease का risk कम करता है। इसके antioxidants inflammation भी कम करते हैं।"
+                    "text": "हां, regular ग्रीन टी consumption LDL cholesterol को reduce करता है, blood pressure को regulate करता है, और heart disease का risk कम करता है। इसके antioxidants inflammation भी कम करते हैं।"
                 }
             }
         ]
@@ -171,7 +171,7 @@
             "name": "क्या ग्रीन टी के फायदे | Green Tea Benefits in Hindi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Brain Stroke के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -195,7 +195,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -250,6 +250,7 @@
             <div class="p-6 md:p-10 border-b-4 border-green-600">
                 <span class="inline-block bg-green-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Health & Nutrition</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">ग्रीन टी के फायदे | Green Tea Benefits in Hindi - Complete Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -259,7 +260,7 @@
             <div class="p-6 md:p-10">
                 <!-- Introduction -->
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    <strong>ग्रीन टी (Green Tea)</strong> दुनिया की सबसे लोकप्रिय और healthiest beverages में से एक है। चीन और जापान में सदियों से <strong>green tea ke fayde</strong> (ग्रीन टी के फायदे) जाने जाते हैं और आज यह पूरी दुनिया में health enthusiasts के बीच popular है। ग्रीन टी में powerful antioxidants, vitamins, और minerals होते हैं जो हमारे शरीर और दिमाग दोनों के लिए अद्भुत फायदे प्रदान करते हैं।
+                    <strong>ग्रीन टी (Green Tea)</strong> दुनिया के लोकप्रिय पेय पदार्थों में से एक है। चीन और जापान में सदियों से <strong>green tea ke fayde</strong> (ग्रीन टी के फायदे) जाने जाते हैं और आज यह पूरी दुनिया में health enthusiasts के बीच popular है। ग्रीन टी में powerful antioxidants, vitamins, और minerals होते हैं जो हमारे शरीर और दिमाग दोनों के लिए अद्भुत फायदे प्रदान करते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -276,11 +277,11 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-green-600 pb-2 mt-8 mb-4">ग्रीन टी क्या है? (What is Green Tea?)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Green Tea (ग्रीन टी)</strong> <em>Camellia sinensis</em> पौधे की पत्तियों से बनती है। इसे बनाने की process black tea से अलग है - ग्रीन टी में leaves को minimal processing दी जाती है जिससे इसके natural antioxidants और nutrients erhalten bleiben।
+                    <strong>Green Tea (ग्रीन टी)</strong> <em>Camellia sinensis</em> पौधे की पत्तियों से बनती है। इसे बनाने की process black tea से अलग है - ग्रीन टी में leaves को minimal processing दी जाती है जिससे इसके natural antioxidants और nutrients संरक्षित रहते हैं।
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="/doctor-profile.php" class="text-green-600 hover:underline font-semibold">RAJ Hospital के experts</a> के अनुसार, ग्रीन टी में EGCG (Epigallocatechin gallate) नामक एक powerful catechin होता है जो free radicals से लड़ने और cells को damage से बचाने में मदद करता है। यही कारण है कि ग्रीन टी को <strong>antioxidant powerhouse</strong> माना जाता है।
+                    <a href="/doctor-profile.php" class="text-green-600 hover:underline font-semibold">RAJ Hospital के experts</a> ग्रीन टी में EGCG (Epigallocatechin gallate) नामक एक powerful catechin होता है जो free radicals से लड़ने और cells को damage से बचाने में मदद करता है। यही कारण है कि ग्रीन टी को <strong>antioxidant powerhouse</strong> माना जाता है।
                 </p>
 
                 <!-- Section 2: Nutritional Content -->
@@ -317,19 +318,19 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> prevention</a> में भी ग्रीन टी के antioxidants महत्वपूर्ण भूमिका निभाते हैं। <a href="/neuropathy-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Neurological conditions</a> के treatment में भी nutrition एक crucial role play करता है।
+                    <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> prevention</a> में ग्रीन टी की भूमिका साबित नहीं है; BP, sugar और cholesterol control ज़्यादा ज़रूरी हैं। <a href="/neuropathy-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Neurological conditions</a> के treatment में भी nutrition एक crucial role play करता है।
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>Memory Improvement:</strong> L-theanine और caffeine का combination memory और reaction time को improve करता है</li>
                     <li><strong>Alertness:</strong> Caffeine brain waves को stimulate करके mental alertness बढ़ाता है</li>
-                    <li><strong>Parkinson's & Alzheimer's Prevention:</strong> EGCG इन diseases के risk को reduce कर सकता है</li>
+                    <li><strong>Parkinson's & Alzheimer's (शोध जारी):</strong> EGCG इन diseases के risk को reduce कर सकता है</li>
                     <li><strong><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Stress</a> Reduction:</strong> L-theanine <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> को कम करके calm feeling देता है</li>
                 </ul>
 
                 <div class="raj-callout raj-callout-info">
                     <strong class="text-blue-700">चिकित्सक की सलाह:</strong>
-                    <span class="text-gray-700"> <a href="/doctor-profile.php" class="text-blue-600 hover:underline">RAJ Hospital के neurologists</a> brain health के लिए balanced diet के साथ ग्रीन टी को daily routine में शामिल करने की सलाह देते हैं।</span>
+                    <span class="text-gray-700"> <a href="/doctor-profile.php" class="text-blue-600 hover:underline">RAJ Hospital के neurologists</a> </span>
                 </div>
 
                 <!-- Section 4: Heart Health -->
@@ -346,7 +347,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">2. <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Regulation</h4>
-                        <p class="text-sm text-gray-600">Grape seed extract और catechins blood vessels को relax करने में मदद करते हैं, जिससे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> normal रहती है।</p>
+                        <p class="text-sm text-gray-600">Catechins blood vessels को relax करने में थोड़ी मदद कर सकते हैं, जिससे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> normal रहती है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-green-600">
                         <h4 class="font-bold text-green-600">3. Anti-inflammatory Effects</h4>
@@ -362,7 +363,7 @@
                 </p>
 
                 <p class="text-gray-700 mb-4">
-                    Research के अनुसार, ग्रीन टी में मौजूद catechins और caffeine मिलकर thermogenesis (calorie burning process) को increase करते हैं। यह especially belly fat reduction में helpful है। हालांकि, यह <strong>magic weight loss solution</strong> नहीं है - यह balanced diet और <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-green-600 hover:underline">regular exercise</a> के साथ ही काम करती है।
+                    Research के अनुसार, ग्रीन टी में मौजूद catechins और caffeine मिलकर thermogenesis (calorie burning process) को increase करते हैं।  हालांकि, यह <strong>magic weight loss solution</strong> नहीं है - यह balanced diet और <a href="/back-pain-and-sciatica-treatment-in-ranchi.php" class="text-green-600 hover:underline">regular exercise</a> के साथ ही काम करती है।
                 </p>
 
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
@@ -378,7 +379,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">Diabetes Control</h4>
-                        <p class="text-sm text-gray-600">Insulin sensitivity improve करती है और blood sugar levels regulate करती है। Type 2 diabetes management में helpful है।</p>
+                        <p class="text-sm text-gray-600">कुछ studies में blood sugar पर हल्का असर देखा गया है, लेकिन यह diabetes की दवा या डॉक्टर की सलाह का विकल्प नहीं है।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">Anti-Aging</h4>
@@ -395,7 +396,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    <a href="/head-injury-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Head injury recovery</a> में भी good nutrition जरूरी है और ग्रीन टी इसमें सहायक हो सकती है। साथ ही, <a href="/movement-disorders-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">movement disorders</a> के patients के लिए भी healthy lifestyle habits important हैं।
+                    <a href="/head-injury-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">Head injury recovery</a>  साथ ही, <a href="/movement-disorders-treatment-in-ranchi.php" class="text-green-600 hover:underline font-semibold">movement disorders</a> के patients के लिए भी healthy lifestyle habits important हैं।
                 </p>
 
                 <!-- Section 7: How to Prepare -->
@@ -415,7 +416,7 @@
                 </div>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Best Time to Drink Green Tea:</strong>
+                    <strong>Green Tea पीने का सही समय:</strong>
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li>Morning - Energy boost के लिए</li>
@@ -446,7 +447,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-red-500">
                         <h4 class="font-bold text-red-600">Iron Absorption</h4>
-                        <p class="text-sm text-gray-600">Grape tea tannins iron absorption को interfere कर सकते हैं। Anemia के patients को meals के साथ नहीं पीनी चाहिए।</p>
+                        <p class="text-sm text-gray-600">Green tea के tannins/catechins iron absorption को कम कर सकते हैं। Anemia के patients को meals के साथ नहीं पीनी चाहिए।</p>
                     </div>
                 </div>
 
@@ -465,7 +466,7 @@
                 <h2 class="text-xl font-bold text-gray-800 border-b-2 border-green-600 pb-2 mt-8 mb-4">निष्कर्ष (Conclusion)</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>ग्रीन टी के फायदे (Green Tea Benefits)</strong> बहुत व्यापक और impressive हैं। Brain health से लेकर heart protection तक, weight management से immune system boost तक - यह एक true superfood है।
+                    <strong>ग्रीन टी के फायदे (Green Tea Benefits)</strong> बहुत व्यापक और impressive हैं। Brain health से लेकर heart protection तक, weight management से immune system boost तक - यह संतुलित आहार का एक हिस्सा हो सकती है।
                 </p>
 
                 <p class="text-gray-700 mb-6">
@@ -486,11 +487,11 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">क्या ग्रीन टी brain health के लिए फायदेमंद है?</h4>
-                        <p class="text-gray-700">हां, ग्रीन टी में मौजूद L-theanine और caffeine memory और concentration में improvement करते हैं। यह brain function को boost करता है और neurodegenerative diseases से बचाव कर सकता है। <a href="/doctor-profile.php" class="text-green-600 hover:underline">Expert neurologists</a> इसकी recommendation करते हैं।</p>
+                        <p class="text-gray-700">हां, ग्रीन टी में मौजूद L-theanine और caffeine memory और concentration में improvement करते हैं। यह brain function को boost करता है और neurodegenerative diseases से बचाव कर सकता है। <a href="/doctor-profile.php" class="text-green-600 hover:underline">Expert neurologists</a> </p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">ग्रीन टी और black tea में क्या अंतर है?</h4>
-                        <p class="text-gray-700">Green tea minimally processed होता है और इसमें ज्यादा antioxidants erhalten bleiben। Black tea fermented होता है और इसमें caffeine अधिक होती है। Green tea में EGCG जैसे powerful catechins अधिक होते हैं जो black tea में oxidation process में खो जाते हैं।</p>
+                        <p class="text-gray-700">Green tea minimally processed होता है और इसमें ज्यादा antioxidants संरक्षित रहते हैं। Black tea fermented होता है और इसमें caffeine अधिक होती है। Green tea में EGCG जैसे powerful catechins अधिक होते हैं जो black tea में oxidation process में खो जाते हैं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">क्या ग्रीन टी weight loss में मदद करती है?</h4>
@@ -506,12 +507,12 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-green-600 mb-2">क्या ग्रीन टी heart के लिए फायदेमंद है?</h4>
-                        <p class="text-gray-700">हां, regular ग्रीन टी consumption LDL cholesterol को reduce करता है, blood pressure को regulate करता है, और heart disease का risk कम करता है। इसके antioxidants inflammation भी कम करते हैं। <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline">Heart और stroke prevention</a> में यह helpful है।</p>
+                        <p class="text-gray-700">Regular ग्रीन टी, संतुलित आहार के साथ, LDL cholesterol पर हल्का असर डाल सकती है, लेकिन यह BP या heart disease के इलाज का विकल्प नहीं है। इसके antioxidants inflammation भी कम करते हैं। <a href="/stroke-and-tia-treatment-in-ranchi.php" class="text-green-600 hover:underline">Heart और stroke prevention</a> में यह helpful है।</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">ग्रीन टी के फायदे | Green Tea Benefits in Hindi पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">ग्रीन टी के फायदे | Green Tea Benefits in Hindi: ज़रूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Green Tea Benefits in Hindi - ग्रीन टी के फायदे, नुकसान, और सही तरीका। जानें कि ग्रीन टी brain health, heart, और नर्व सिस्टम के लिए कैसे फायदेमंद है।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। ग्रीन टी के फायदे | Green Tea Benefits in Hindi शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -554,7 +555,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -563,8 +564,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-green-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Neurologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

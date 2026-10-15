@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi) - पूरी जानकारी | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Dehydration (निर्जलीकरण) के लक्षण, कारण, और उपाय जानें। जानें कब डॉक्टर से मिलना है और घरेलू उपचार कैसे करें। Ranchi के best hospital की expert advice।">
+    <meta name="description" content="Dehydration (निर्जलीकरण) के लक्षण, कारण, और उपाय जानें। जानें कब डॉक्टर से मिलना है और घरेलू उपचार कैसे करें। RAJ Hospital, Ranchi की ओर से जानकारी।">
     <meta name="keywords" content="dehydration symptoms in hindi, निर्जलीकरण के लक्षण, dehydration treatment, पानी की कमी के लक्षण, dehydration causes">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/dehydration-symptoms-in-hindi/">
@@ -53,7 +53,7 @@
             "name": "क्या निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi) - पूरी जानकारी दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi) - पूरी जानकारी | RAJ Hospital Ranchi",
-        "description": "Dehydration (निर्जलीकरण) के लक्षण, कारण, और उपाय जानें। जानें कब डॉक्टर से मिलना है और घरेलू उपचार कैसे करें। Ranchi के best hospital की expert advice।",
+        "description": "Dehydration (निर्जलीकरण) के लक्षण, कारण, और उपाय जानें। जानें कब डॉक्टर से मिलना है और घरेलू उपचार कैसे करें। RAJ Hospital, Ranchi की ओर से जानकारी।",
         "url": "https://rajhospitals.com/blog/dehydration-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/dehydration-symptoms-in-hindi.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-secondary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Health Tips</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">निर्जलीकरण के लक्षण (Dehydration Symptoms) - Complete Hindi Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -294,7 +295,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-secondary-600">
                         <h4 class="font-bold text-secondary-600">6. दवाइयां</h4>
-                        <p class="text-sm text-gray-600">कुछ दवाइयां जैसे डायरेटिक्स (पेटू खोने वाली गोलियां), लैक्सेटिव्स, और कुछ ब्लड प्रेशर दवाइयां पानी की कमी कर सकती हैं।</p>
+                        <p class="text-sm text-gray-600">कुछ दवाइयां जैसे डायरेटिक्स (पेशाब बढ़ाने वाली गोलियां), लैक्सेटिव्स, और कुछ ब्लड प्रेशर दवाइयां पानी की कमी कर सकती हैं।</p>
                     </div>
                 </div>
 
@@ -322,8 +323,8 @@
                     <li><strong>थकान और सुस्ती</strong> - रोजमर्रा के काम करने में कठिनाई</li>
                     <li><strong>मांसपेशियों में ऐंठन</strong> - इलेक्ट्रोलाइट्स की कमी के कारण</li>
                     <li><strong>उल्टी और दस्त</strong> - गंभीर मामलों में</li>
-                    <li><strong>धुंधलापन</strong> - त्वचा का रंग उजला होना</li>
-                    <li><strong>आंखों का गिरना</strong> - बुजुर्गों में विशेष रूप से</li>
+                    
+                    <li><strong>आंखें अंदर धंसी हुई दिखना</strong> - बुजुर्गों में विशेष रूप से</li>
                 </ul>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">गंभीर निर्जलीकरण के लक्षण</h3>
@@ -332,7 +333,7 @@
                     <span class="text-gray-700"> अगर निम्न में से कोई भी लक्षण दिखे, तो तुरंत चिकित्सा सहायता लें।</span>
                 </div>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>बेहोशी या उन्माद</strong> - दिमागी कार्य में गिरावट</li>
+                    <li><strong>बेहोशी या भ्रम (confusion)</strong> - दिमागी कार्य में गिरावट</li>
                     <li><strong>बहुत कम या बिल्कुल नहीं मूत्र</strong> - गंभीर पानी की कमी</li>
                     <li><strong>तेज दिल की धड़कन</strong> - हृदय अधिक काम करने लगता है</li>
                     <li><strong>कम रक्तचाप</strong> - चक्कर और बेहोशी का खतरा</li>
@@ -351,7 +352,7 @@
                     <li><strong>डायपर नहीं भरना</strong> - 6-8 घंटे में एक भी गीला डायपर नहीं</li>
                     <li><strong>रोने पर आंसू नहीं आना</strong> - गंभीर निर्जलीकरण का संकेत</li>
                     <li><strong>सूखा मुंह और जीभ</strong> - पानी की कमी का स्पष्ट संकेत</li>
-                    <li><strong>उनियर ( sunken eyes)</strong> - आंखें सामान्य से अंदर दबी हुई दिखना</li>
+                    <li><strong>धंसी हुई आंखें (sunken eyes)</strong> - आंखें सामान्य से अंदर दबी हुई दिखना</li>
                     <li><strong>चिड़चिड़ापन और सुस्ती</strong> - ऊर्जा की कमी</li>
                 </ul>
 
@@ -388,9 +389,9 @@
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">घरेलू उपचार</h3>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
                     <li><strong>ORS (ओरल रिहाइड्रेशन साल्यूशन)</strong> - पानी, नमक, और चीनी का घोल सबसे प्रभावी उपाय है। एक लीटर पानी में आधा चम्मच नमक और 6 चम्मच चीनी मिलाएं।</li>
-                    <li><strong>भरपूर पानी पिएं</strong> - दिन में कम से कम 8-10 गिलास पानी पिएं।</li>
+                    <li><strong>भरपूर पानी पिएं</strong> - दिन में कम से कम 8-10 गिलास पानी पिएं (heart या kidney के मरीज डॉक्टर की सलाह के अनुसार ही पानी की मात्रा तय करें)।</li>
                     <li><strong>नारियल पानी</strong> - प्राकृतिक इलेक्ट्रोलाइट्स से भरपूर।</li>
-                    <li><strong>फलों का रस</strong> - संतरा, अंगूर का रस इलेक्ट्रोलाइट्स की भरपाई करते हैं।</li>
+                    <li><strong>फलों का रस</strong> - दस्त/उल्टी में ज्यादा मीठे जूस से बचें — इनसे दस्त बढ़ सकते हैं; ORS बेहतर विकल्प है।</li>
                     <li><strong>सूप और ब्रोथ</strong> - हल्के नमक युक्त सूप ठीक रहते हैं।</li>
                 </ul>
 
@@ -401,7 +402,7 @@
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">रोकथाम के उपाय</h3>
                 <div class="raj-callout raj-callout-success">
-                    <strong class="text-green-700">रोकथाम सबसे अच्छी चिकित्सा है!</strong>
+                    <strong class="text-green-700">रोकथाम बहुत जरूरी है!</strong>
                     <span class="text-gray-700"> नियमित रूप से पानी पिएं, गर्म मौसम में अधिक पानी पिएं, बीमारी में पानी की मात्रा बढ़ाएं, और शराब तथा कैफीन का सेवन सीमित करें।</span>
                 </div>
 
@@ -435,8 +436,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi) - पूरी जानकारी पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">Dehydration (निर्जलीकरण) के लक्षण, कारण, और उपाय जानें। जानें कब डॉक्टर से मिलना है और घरेलू उपचार कैसे करें। Ranchi के best hospital की expert advice।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi) - जरूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">Dehydration (निर्जलीकरण) के लक्षण, कारण, और उपाय जानें। जानें कब डॉक्टर से मिलना है और घरेलू उपचार कैसे करें। RAJ Hospital, Ranchi की ओर से जानकारी।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। निर्जलीकरण के लक्षण (Dehydration Symptoms in Hindi) - पूरी जानकारी शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में पाचन और सामान्य स्वास्थ्य से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -453,7 +454,7 @@
                         <li><a href="/blog/acidity-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi</a></li>
                         <li><a href="/blog/food-poisoning-symptoms-in-hindi.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi - RAJ Hospital</a></li>
                         <li><a href="/blog/haemoglobin-kya-hai.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Haemoglobin Kya Hai | हीमोग्लोबिन क्या है</a></li>
-                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Best Ways to Take Moringa for Managing <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></a></li>
+                        <li><a href="/blog/best-ways-to-take-moringa-for-managing-diabetes.php" class="text-secondary-600 hover:underline font-semibold">इस संबंधित गाइड को पढ़ें: Moringa and <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a></a></li>
                     </ul>
                 </section>
 
@@ -478,7 +479,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">पाचन और सामान्य स्वास्थ्य से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -487,8 +488,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Physician</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

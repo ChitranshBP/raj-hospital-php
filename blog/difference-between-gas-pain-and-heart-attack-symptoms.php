@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference | RAJ Hospital Ranchi</title>
+    <title>Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi</title>
     <meta name="description" content="Learn to differentiate between gas pain and heart attack symptoms. Understand key warning signs, when to seek emergency care, and how to identify serious cardiac events.">
     <meta name="keywords" content="gas pain vs heart attack, chest pain causes, heart attack symptoms, gas pain symptoms, chest discomfort diagnosis">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Gas Pain vs Heart Attack - How to Tell the Difference में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -77,7 +77,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference | RAJ Hospital Ranchi",
+        "headline": "Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi",
         "description": "Learn to differentiate between gas pain and heart attack symptoms. Understand key warning signs, when to seek emergency care, and how to identify serious cardiac events.",
         "url": "https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/difference-between-gas-pain-and-heart-attack-symptoms.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference | RAJ Hospital Ranchi"
+                "name": "Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-red-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Emergency Awareness</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4"><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -375,7 +376,7 @@
                     <strong>Gas Pain:</strong> May change with position, deep breathing, or belching. Movement doesn't typically make it worse.
                 </p>
                 <p class="text-gray-700 mb-6">
-                    <strong>Heart Attack Pain:</strong> Often worsens with physical activity and doesn't improve with position changes. Deep breathing might increase the pain.
+                    <strong>Heart Attack Pain:</strong> Often worsens with physical activity and doesn't improve with position changes. It usually does not change with breathing.
                 </p>
 
                 <h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Associated Symptoms</h3>
@@ -463,13 +464,13 @@
                 </div>
 
                 <p class="text-gray-700 mb-6">
-                    <strong>If you answered "yes" to two or more of these questions, call emergency services immediately.</strong> Don't wait to see if symptoms improve - time is muscle, and every minute counts in a heart attack.
+                    <strong>If you answered "yes" to any of these questions, call emergency services immediately.</strong> Don't wait to see if symptoms improve - time is muscle, and every minute counts in a heart attack.
                 </p>
 
                 <!-- CTA Box -->
                 <div class="bg-gradient-to-r from-red-500 to-orange-500 text-white p-6 rounded-xl text-center mb-8">
                     <h3 class="text-xl font-bold mb-2">Don't Take Chances with Chest Pain</h3>
-                    <p class="opacity-90 mb-4">If you're unsure whether your chest pain is gas or something more serious, get it checked. RAJ Hospital Ranchi offers 24/7 emergency cardiac care with state-of-the-art facilities.</p>
+                    <p class="opacity-90 mb-4">If you're unsure whether your chest pain is gas or something more serious, get it checked. RAJ Hospital Ranchi offers 24/7 emergency care.</p>
                     <a href="/contact.php" class="inline-block bg-white text-red-500 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Emergency Contact</a>
                 </div>
 
@@ -491,12 +492,12 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">What should I do while waiting for emergency services?</h4>
-                        <p class="text-gray-700">Sit or lie down in a comfortable position. If you're not allergic, chew an aspirin (325mg) - this can help if it's a heart attack by reducing blood clotting. Stay calm and try to breathe slowly. Don't eat or drink anything. Keep your phone nearby in case symptoms worsen.</p>
+                        <p class="text-gray-700">Sit or lie down in a comfortable position. Call 108 / emergency services and follow their instructions — they may advise chewing an aspirin if it is safe for you (do not take it if you are allergic, have a bleeding problem or already take blood thinners). Stay calm and try to breathe slowly. Don't eat or drink anything. Keep your phone nearby in case symptoms worsen.</p>
                     </div>
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">Gas Pain vs Heart Attack - How to Tell the Difference पर डॉक्टर की सलाह</h2>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">Gas Pain vs Heart Attack - How to Tell the Difference: जरूरी जानकारी</h2>
                     <p class="text-gray-700 mb-4">Learn to differentiate between gas pain and heart attack symptoms. Understand key warning signs, when to seek emergency care, and how to identify serious cardiac events.</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। Gas Pain vs Heart Attack - How to Tell the Difference शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
@@ -539,7 +540,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -548,8 +549,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Cardiologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

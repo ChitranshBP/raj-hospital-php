@@ -7,15 +7,15 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies &amp; Medical Treatments | RAJ Hospital Ranchi</title>
-    <meta name="description" content="How to cure a sinus headache fast — steam, saline rinse, hydration and proven home remedies, plus the medical treatments and warning signs doctors at RAJ Hospital Ranchi recommend you never ignore.">
+    <title>How to Relieve a Sinus Headache: Effective Home Remedies &amp; Medical Treatments | RAJ Hospital Ranchi</title>
+    <meta name="description" content="How to cure a sinus headache fast — steam, saline rinse, hydration and commonly used home remedies, plus the medical treatments and warning signs doctors at RAJ Hospital Ranchi recommend you never ignore.">
     <meta name="keywords" content="how to cure a sinus headache, sinus headache remedies, sinus headache treatment, sinus headache relief, sinus pressure headache, home remedies for sinus headache, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/how-to-cure-a-sinus-headache/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
-    <meta property="og:title" content="How to Cure a Sinus Headache: Home Remedies &amp; Medical Treatments">
-    <meta property="og:description" content="Doctor-reviewed guide to relieving a sinus headache — effective home remedies, medical options and when to see a doctor.">
+    <meta property="og:title" content="How to Relieve a Sinus Headache: Home Remedies &amp; Medical Treatments">
+    <meta property="og:description" content="Guide to relieving a sinus headache — home remedies, medical options and when to see a doctor.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/how-to-cure-a-sinus-headache/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/how-to-cure-a-sinus-headache.png">
@@ -42,8 +42,8 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies & Medical Treatments",
-        "description": "Doctor-reviewed guide to relieving a sinus headache with home remedies and medical treatment, plus warning signs.",
+        "headline": "How to Relieve a Sinus Headache: Effective Home Remedies & Medical Treatments",
+        "description": "Guide to relieving a sinus headache with home remedies and medical treatment, plus warning signs.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>" }
+            { "@type": "ListItem", "position": 3, "name": "How to Relieve a Sinus Headache" }
         ]
     }
     </script>
@@ -75,8 +75,8 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>",
-        "description": "Doctor-reviewed home remedies and medical treatments for sinus headaches, with guidance on when to see a doctor.",
+        "name": "How to Relieve a Sinus Headache",
+        "description": "Home remedies and medical treatments for sinus headaches, with guidance on when to see a doctor.",
         "url": "https://rajhospitals.com/blog/how-to-cure-a-sinus-headache/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -99,7 +99,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "How do I get rid of a sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> fast?",
+                "name": "How do I get rid of a sinus headache fast?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "For quick relief, inhale steam, use a saline nasal rinse to clear the sinuses, apply a warm compress over your cheeks and forehead, drink plenty of fluids, and rest in an upright, well-humidified room. An over-the-counter pain reliever and, for a few days only, a decongestant can help. If pain is severe or persists beyond about 7–10 days, or comes with high fever, see a doctor."
@@ -118,7 +118,7 @@
                 "name": "Is my headache a sinus headache or a migraine?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Sinus headaches usually come with a blocked or runny nose, thick nasal discharge, facial pressure and sometimes fever, following a cold or allergy. Migraines often bring throbbing one-sided pain, nausea, and sensitivity to light and sound, and can also cause a runny nose or watery eyes. Studies show most self-diagnosed 'sinus headaches' are actually migraines, so a doctor's assessment helps get the right treatment."
+                    "text": "Sinus headaches usually come with a blocked or runny nose, thick nasal discharge, facial pressure and sometimes fever, following a cold or allergy. Migraines often bring throbbing one-sided pain, nausea, and sensitivity to light and sound, and can also cause a runny nose or watery eyes. Many self-diagnosed 'sinus headaches' turn out to be migraines, so a doctor's assessment helps get the right treatment."
                 }
             },
             {
@@ -152,7 +152,7 @@
             <span class="mx-2">›</span>
             <a href="/blog/" class="hover:text-secondary-600">Blog</a>
             <span class="mx-2">›</span>
-            <span class="text-gray-700">How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></span>
+            <span class="text-gray-700">How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a></span>
         </nav>
     </div>
 
@@ -160,23 +160,24 @@
         <article class="bg-white rounded-xl shadow-md overflow-hidden">
             <!-- Featured Image -->
             <div class="aspect-[16/9] md:aspect-[21/9] w-full overflow-hidden bg-gray-50 flex items-center justify-center">
-                <img src="/blog/assets/img/featured/how-to-cure-a-sinus-headache.png" alt="How to Cure a Sinus Headache - Home Remedies and Medical Treatments, RAJ Hospital Ranchi" class="w-full h-full object-contain" onerror="this.onerror=null;this.src='/blog/assets/img/Copy-of-Raj-Hospitals.jpg';">
+                <img src="/blog/assets/img/featured/how-to-cure-a-sinus-headache.png" alt="How to Relieve a Sinus Headache - Home Remedies and Medical Treatments, RAJ Hospital Ranchi" class="w-full h-full object-contain" onerror="this.onerror=null;this.src='/blog/assets/img/Copy-of-Raj-Hospitals.jpg';">
             </div>
 
             <!-- Hero Header -->
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">ENT · <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a></span>
-                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">How to Cure a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies &amp; Medical Treatments</h1>
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies &amp; Medical Treatments</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by ENT &amp; <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> ENT &amp; <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    That heavy, throbbing pressure across your forehead and cheeks — worse when you bend down, often arriving with a stuffy nose after a cold — is the classic <strong>sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></strong>. The good news is that most sinus headaches respond well to simple home care. The important catch, say the ENT and <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> specialists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is that many headaches people call "sinus" are actually migraines — so getting the diagnosis right is half the cure. Here is exactly how to relieve a sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> at home, which medical treatments work, and the warning signs you should never ignore.
+                    That heavy, throbbing pressure across your forehead and cheeks — worse when you bend down, often arriving with a stuffy nose after a cold — is the classic <strong>sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></strong>. The good news is that most sinus headaches respond well to simple home care. The important catch, say the ENT and <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">neurology</a> specialists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>, is that many headaches people call "sinus" are actually migraines — so getting the diagnosis right is half the cure. Here is exactly how to relieve a sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> at home, which medical treatments work, and the warning signs you should never ignore.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
@@ -270,7 +271,7 @@
                     When home care isn't enough, doctors have effective, targeted options. At RAJ Hospital, treatment is matched to the true cause:
                 </p>
                 <ul class="list-disc list-inside space-y-2 text-gray-700 mb-6">
-                    <li><strong>Pain relievers</strong> — paracetamol or NSAIDs (like ibuprofen) for short-term pain, used as directed.</li>
+                    <li><strong>Pain relievers</strong> — paracetamol or NSAIDs (like ibuprofen) for short-term pain, as advised by a doctor or pharmacist (NSAIDs may not suit people with stomach ulcers, kidney disease, asthma or pregnancy).</li>
                     <li><strong>Nasal corticosteroid sprays</strong> — reduce sinus lining inflammation; first-line for allergy-related and recurrent sinusitis.</li>
                     <li><strong>Antihistamines</strong> — helpful when allergies are driving the congestion.</li>
                     <li><strong>Antibiotics</strong> — only for confirmed <em>bacterial</em> sinusitis; most sinus infections are viral and don't need them.</li>
@@ -278,7 +279,7 @@
                     <li><strong>ENT evaluation / imaging</strong> — for recurrent sinusitis, a deviated septum, nasal polyps or chronic cases, where a procedure may finally solve the problem.</li>
                 </ul>
                 <p class="text-gray-700 mb-4">
-                    The <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">ENT and neurology specialists at RAJ Hospital Ranchi</a> can quickly tell whether you're dealing with true sinusitis, allergies or migraine — and prescribe the treatment that actually works for your headache.
+                    The <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">ENT and neurology specialists at RAJ Hospital Ranchi</a> can assess whether you're dealing with sinusitis, allergies or migraine and advise suitable treatment.
                 </p>
 
                 <div class="raj-callout raj-callout-danger">
@@ -301,7 +302,7 @@
                 <!-- CTA -->
                 <div class="raj-cta">
                     <h3 class="text-xl font-bold text-white mb-2">Recurring sinus headaches? Find out the real cause.</h3>
-                    <p class="text-white/90 mb-4">RAJ Hospital Ranchi's ENT and neurology specialists diagnose whether your headache is sinus, allergy or migraine — and treat it correctly. Book a consultation for lasting relief.</p>
+                    <p class="text-white/90 mb-4">RAJ Hospital Ranchi's ENT and neurology specialists diagnose whether your headache is sinus, allergy or migraine — and treat it correctly. Book a consultation for assessment and treatment.</p>
                     <a href="https://rajhospitals.com/contact.php" class="raj-cta-button">Book an ENT Consultation →</a>
                 </div>
 
@@ -310,7 +311,7 @@
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — Related Headache Guides</h2>
                     <p class="text-gray-700 mb-4">Understand and treat your headaches better with these guides:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital in Ranchi</a></li>
                         <li><a href="/blog/headache-treatment-at-home.php" class="text-secondary-600 hover:underline font-semibold">Headache Treatment at Home — 10 Effective Remedies for Quick Relief</a></li>
                         <li><a href="/blog/headaches-types-causes-treatment-solutions.php" class="text-secondary-600 hover:underline font-semibold">Headaches — Types, Causes &amp; Treatment Solutions</a></li>
                         <li><a href="/blog/difference-between-migraine-and-headache-key-differences-explained.php" class="text-secondary-600 hover:underline font-semibold">Difference Between Migraine and Headache — Explained</a></li>
@@ -325,7 +326,7 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">How do I get rid of a sinus headache fast?</h3>
-                            <p class="text-gray-700">Inhale steam, do a saline nasal rinse, apply a warm compress, drink fluids and rest upright. A short course of an over-the-counter pain reliever or a decongestant (max 3 days for nasal sprays) can speed relief. If it's severe or lasting, get assessed at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>.</p>
+                            <p class="text-gray-700">Inhale steam, do a saline nasal rinse, apply a warm compress, drink fluids and rest upright. A short course of an over-the-counter pain reliever or a decongestant (max 3 days for nasal sprays), taken as advised by a doctor or pharmacist, can speed relief; check first if you are pregnant, have high blood pressure or heart disease, or for a child. If it's severe or lasting, get assessed at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, Ranchi</a>.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Are antibiotics needed for a sinus headache?</h3>
@@ -333,11 +334,11 @@
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Why does my sinus headache keep coming back?</h3>
-                            <p class="text-gray-700">Recurring "sinus" headaches are often actually migraines, or are driven by ongoing allergies, a deviated septum or nasal polyps. If yours keep returning, an ENT and neurology assessment at <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's OPD</a> can identify the true cause and give you a treatment that lasts.</p>
+                            <p class="text-gray-700">Recurring "sinus" headaches are often actually migraines, or are driven by ongoing allergies, a deviated septum or nasal polyps. If yours keep returning, an ENT and neurology assessment at <a href="https://rajhospitals.com/find-a-doctor.php" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital's OPD</a> can help identify the cause and plan suitable treatment.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Is steam inhalation safe for sinus headaches?</h3>
-                            <p class="text-gray-700">Yes, for most adults, when done carefully. Keep a safe distance from the hot water to avoid burns, limit sessions to 5–10 minutes, and supervise children closely. If steam makes you feel worse, stop and try saline rinses and warm compresses instead.</p>
+                            <p class="text-gray-700">Yes, for most adults, when done carefully. Keep a safe distance from the hot water to avoid burns, limit sessions to 5–10 minutes, and do not use bowls of hot water for steam inhalation in young children because of the scald risk. If steam makes you feel worse, stop and try saline rinses and warm compresses instead.</p>
                         </div>
                     </div>
                 </section>
@@ -347,7 +348,7 @@
                     <div class="raj-author-avatar">RH</div>
                     <div>
                         <strong class="raj-author-name">ENT &amp; Neurology Team, RAJ Hospital</strong>
-                        <p class="raj-author-meta">Reviewed by Consultant ENT Surgeon &amp; Neurologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="raj-author-meta"><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 

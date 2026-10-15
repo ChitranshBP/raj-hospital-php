@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide | RAJ Hospital Ranchi</title>
-    <meta name="description" content="सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब घरेलू उपाय काफी हैं। Heart और lungs की जांच।">
+    <meta name="description" content="सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब तुरंत emergency care जरूरी है। Heart और lungs की जांच।">
     <meta name="keywords" content="chest pain, सीने में दर्द, chest pain ka ilaj, heart pain, cardiac emergency, chest pain treatment in hindi, heart health ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/chest-pain-ka-ilaj/">
@@ -53,7 +53,7 @@
             "name": "क्या सीने में दर्द का इलाज (Chest Pain Treatment) दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Gas Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -77,7 +77,7 @@
             "name": "हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
+                "text": "नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।"
             }
         }
     ]
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब घरेलू उपाय काफी हैं। Heart और lungs की जांच।",
+        "description": "सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब तुरंत emergency care जरूरी है। Heart और lungs की जांच।",
         "url": "https://rajhospitals.com/blog/chest-pain-ka-ilaj/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/chest-pain-ka-ilaj.png",
         "author": {
@@ -149,10 +149,10 @@
         "name": "RAJ Hospital Ranchi",
         "url": "https://rajhospitals.com",
         "logo": "https://rajhospitals.com/assets/favicon/raj-favicon-.png",
-        "description": "RAJ Hospital Ranchi - Best multispecialty hospital in Ranchi providing quality healthcare services.",
+        "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
@@ -218,6 +218,7 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-red-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Cardiac</a> Emergency</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">सीने में दर्द का इलाज (Chest Pain Treatment) - Complete Hindi Guide</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
@@ -294,7 +295,7 @@
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <div class="font-bold text-blue-700 mb-2">हृदय दर्द का इलाज</div>
                         <ul class="text-sm text-gray-600 space-y-1">
-                            <li>Aspirin और blood thinners</li>
+                            <li>Aspirin और blood thinners (केवल डॉक्टर/emergency team की सलाह पर)</li>
                             <li>Angioplasty (stent placement)</li>
                             <li>Bypass surgery (गंभीर cases में)</li>
                             <li>Beta blockers और statins</li>
@@ -315,7 +316,7 @@
                 <h2 class="raj-h2">सीने दर्द से बचाव</h2>
 
                 <p class="text-gray-700 mb-4">
-                    <strong>Prevention</strong> heart attack और सीने दर्द से बचाव का सबसे अच्छा तरीका है। Regular exercise, health diet, smoking छोड़ना, और stress management इसमें मदद करते हैं।
+                    <strong>Prevention</strong> heart attack और सीने दर्द से बचाव का एक प्रभावी तरीका है। Regular exercise, health diet, smoking छोड़ना, और stress management इसमें मदद करते हैं।
                 </p>
 
                 <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
@@ -353,7 +354,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Home remedy से सीने दर्द ठीक हो सकता है?</h4>
-                        <p class="text-gray-700">हल्के दर्द के लिए कुछ home remedies उपयोगी हैं, लेकिन गंभीर या बार-बार दर्द के लिए doctor consultation जरूरी है।</p>
+                        <p class="text-gray-700">सीने के दर्द में पहले डॉक्टर से कारण की जांच जरूरी है; heart की समस्या rule out होने के बाद ही डॉक्टर की सलाह से कोई घरेलू उपाय अपनाएं।</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-secondary-600 mb-2">Stress से सीने दर्द हो सकता है?</h4>
@@ -362,8 +363,8 @@
                 </div>
                 <!-- RAJ SEO ENHANCEMENT START -->
                 <section class="mt-10 bg-blue-50 border border-blue-100 rounded-xl p-5">
-                    <h2 class="text-xl font-bold text-gray-800 mb-4">सीने में दर्द का इलाज (Chest Pain Treatment) पर डॉक्टर की सलाह</h2>
-                    <p class="text-gray-700 mb-4">सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब घरेलू उपाय काफी हैं। Heart और lungs की जांच।</p>
+                    <h2 class="text-xl font-bold text-gray-800 mb-4">सीने में दर्द का इलाज (Chest Pain Treatment): जरूरी जानकारी</h2>
+                    <p class="text-gray-700 mb-4">सीने में दर्द (Chest Pain) के कारण, लक्षण और इलाज जानें। जानें कब यह गंभीर है और कब तुरंत emergency care जरूरी है। Heart और lungs की जांच।</p>
                     <p class="text-gray-700 mb-4">रांची और आसपास के मरीजों के लिए सबसे जरूरी बात यह है कि लक्षणों को सही medical context में समझा जाए। सीने में दर्द का इलाज (Chest Pain Treatment) शुरुआत में सामान्य लग सकता है, लेकिन इसका कारण lifestyle, infection, hormone imbalance, पुरानी बीमारी, medicine side effect या किसी गंभीर condition से जुड़ा हो सकता है। सही history, physical examination और जरूरत के अनुसार जांच से डॉक्टर यह तय कर पाते हैं कि emergency care, दवा, lifestyle correction, observation या specialist consultation में से क्या जरूरी है।</p>
                     <p class="text-gray-700 mb-4">RAJ Hospital में हृदय और ब्लड प्रेशर की देखभाल से जुड़े मामलों में early diagnosis, practical counselling और timely referral पर ध्यान दिया जाता है। अगर लक्षण बार-बार आते हैं, तेज हैं, रोजमर्रा के काम को प्रभावित कर रहे हैं या अचानक pattern बदल रहा है, तो consultation delay नहीं करना चाहिए। बच्चों, बुजुर्गों, गर्भवती महिलाओं, diabetes, high BP या regular medicines लेने वाले मरीजों में यह और भी महत्वपूर्ण है।</p>
                     <p class="text-gray-700 mb-4">Doctor visit से पहले symptoms की timeline, triggers, ली गई medicines, पुराने reports और family history लिख लेना उपयोगी रहता है। इससे diagnosis बेहतर होता है और unnecessary delay कम होता है। अगर chest discomfort, सांस फूलना, एक तरफ कमजोरी, confusion, severe dehydration, uncontrolled fever, fainting या severe pain जैसे warning signs हों, तो appointment का इंतज़ार करने के बजाय emergency care लें।</p>
@@ -406,7 +407,7 @@
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                         <h3 class="font-bold text-gray-800 mb-2">हृदय और ब्लड प्रेशर की देखभाल से जुड़ा जोखिम कम कैसे करें?</h3>
-                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम सबसे अच्छी तब होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
+                        <p class="text-gray-700">नियमित जांच, डॉक्टर की बताई दवाएं, तंबाकू और ज्यादा शराब से दूरी, संतुलित भोजन, अच्छी नींद, डॉक्टर की सलाह के अनुसार exercise और नए लक्षणों को नज़रअंदाज़ न करना जरूरी है। रोकथाम तब ज़्यादा असरदार होती है जब छोटे warning signs पर भी समय पर सलाह ली जाए।</p>
                     </div>
                     </div>
                 </section>
@@ -415,8 +416,7 @@
                 <div class="flex items-center gap-4 bg-gray-50 p-4 rounded-lg mt-8">
                     <div class="w-16 h-16 rounded-full bg-secondary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
-                        <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Reviewed by Senior Cardiologist</p>
+                        <strong class="text-gray-800">RAJ Hospital Content Team</strong>
                     </div>
                 </div>
             </div>

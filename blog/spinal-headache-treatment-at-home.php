@@ -7,15 +7,15 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: Safe Ways to Relieve Pain Naturally | RAJ Hospital Ranchi</title>
-    <meta name="description" content="Spinal headache treatment at home — safe, doctor-recommended ways to relieve a post-dural-puncture headache with rest, fluids and caffeine, and the clear signs that mean you need an epidural blood patch. From RAJ Hospital Ranchi.">
+    <title>Spinal Headache Treatment at Home: Safe Ways to Relieve Pain Naturally | RAJ Hospital Ranchi</title>
+    <meta name="description" content="Spinal headache treatment at home — safe ways to relieve a post-dural-puncture headache with rest, fluids and caffeine, and the clear signs that mean you need an epidural blood patch. From RAJ Hospital Ranchi.">
     <meta name="keywords" content="spinal headache treatment at home, post dural puncture headache, spinal headache remedies, epidural headache relief, headache after spinal anesthesia, PDPH home treatment, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://rajhospitals.com/blog/spinal-headache-treatment-at-home/">
     <link rel="stylesheet" href="/blog/assets/css/blog-components.css">
 
     <meta property="og:title" content="Spinal Headache Treatment at Home: Safe Ways to Relieve Pain Naturally">
-    <meta property="og:description" content="Doctor-reviewed guide to easing a spinal (post-dural-puncture) headache at home — and knowing when you need medical treatment.">
+    <meta property="og:description" content="Guide to easing a spinal (post-dural-puncture) headache at home — and knowing when you need medical treatment.">
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://rajhospitals.com/blog/spinal-headache-treatment-at-home/">
     <meta property="og:image" content="https://rajhospitals.com/blog/assets/img/featured/spinal-headache-treatment-at-home.png">
@@ -42,8 +42,8 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: Safe Ways to Relieve Pain Naturally",
-        "description": "Doctor-reviewed guide to relieving a spinal (post-dural-puncture) headache at home, and knowing when medical treatment is needed.",
+        "headline": "Spinal Headache Treatment at Home: Safe Ways to Relieve Pain Naturally",
+        "description": "Guide to relieving a spinal (post-dural-puncture) headache at home, and knowing when medical treatment is needed.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
             "@type": "Organization",
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home" }
+            { "@type": "ListItem", "position": 3, "name": "Spinal Headache Treatment at Home" }
         ]
     }
     </script>
@@ -75,7 +75,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home",
+        "name": "Spinal Headache Treatment at Home",
         "description": "Safe home measures for a post-dural-puncture (spinal) headache, plus warning signs and when an epidural blood patch is needed.",
         "url": "https://rajhospitals.com/blog/spinal-headache-treatment-at-home/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -97,7 +97,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is a spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>?",
+                "name": "What is a spinal headache?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "A spinal headache, or post-dural-puncture headache (PDPH), is a headache that develops after a procedure that pierces the membrane around the spinal cord — such as spinal anesthesia, an epidural, or a lumbar puncture (spinal tap). It happens because spinal fluid leaks through the puncture, lowering the fluid pressure that cushions the brain. Its hallmark is that the pain is much worse when sitting or standing and improves when lying flat."
@@ -165,22 +165,23 @@
             <div class="p-6 md:p-10 border-b border-gray-100">
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> · Pain Management</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: Safe Ways to Relieve Pain Naturally</h1>
+                <?php include $base_url . 'components/medical-disclaimer.php'; ?>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
-                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Anesthesia &amp; <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
+                    <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Health Content Team<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> Team, RAJ Hospital</span>
                 </div>
             </div>
 
             <div class="p-6 md:p-10">
 
                 <p class="text-lg leading-relaxed text-gray-700 mb-6">
-                    A <strong>spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></strong> — properly called a post-dural-puncture <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> (PDPH) — is a distinctive, often intense headache that appears after a spinal anesthetic, an epidural, or a lumbar puncture. Its signature is unmistakable: the pain is far worse when you sit or stand, and eases dramatically when you lie flat. The reassuring news, say the anesthesia and neurology specialists at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a>, is that most spinal headaches settle on their own with a few simple, safe home measures. But it's equally important to know when home care is not enough — because an effective medical treatment exists.
+                    A <strong>spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a></strong> — properly called a post-dural-puncture <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> (PDPH) — is a distinctive, often intense headache that appears after a spinal anesthetic, an epidural, or a lumbar puncture. Its signature is unmistakable: the pain is far worse when you sit or stand, and eases dramatically when you lie flat. The reassuring news, for patients treated at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a>, is that most spinal headaches settle on their own with a few simple, safe home measures. But it's equally important to know when home care is not enough — because an effective medical treatment exists.
                 </p>
 
                 <div class="raj-callout raj-callout-info">
                     <i data-feather="info" class="raj-callout-icon"></i>
                     <div class="raj-callout-body">
-                        <strong>Quick Answer:</strong> Ease a spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> at home by <strong>lying flat, drinking plenty of fluids, and using caffeine</strong> (tea/coffee), with paracetamol for pain. Many resolve within a few days. But a spinal headache that is <strong>severe or lasts beyond 24–48 hours</strong> is best treated with an <strong>epidural blood patch</strong>, which usually relieves it within hours. Always tell the doctor or anesthetist who did your procedure. For persistent symptoms, contact the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">team at RAJ Hospital Ranchi</a>.
+                        <strong>Quick Answer:</strong> Ease a spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> at home by <strong>lying flat, drinking plenty of fluids, and using caffeine</strong> (tea/coffee), with paracetamol for pain. Many resolve within a few days. But a spinal headache that is <strong>severe or lasts beyond 24–48 hours</strong> is usually treated with an <strong>epidural blood patch</strong>, which usually relieves it within hours. Always tell the doctor or anesthetist who did your procedure. For persistent symptoms, contact the <a href="https://rajhospitals.com/contact.php" class="text-secondary-600 hover:underline font-semibold">team at RAJ Hospital Ranchi</a>.
                     </div>
                 </div>
 
@@ -201,7 +202,7 @@
 
                 <h2 class="raj-h2"><i data-feather="home" class="raj-h2-icon"></i> Safe Home Remedies for a Spinal Headache</h2>
                 <p class="text-gray-700 mb-4">
-                    These conservative measures make you more comfortable while the leak heals. They are supportive care — not a guaranteed cure — but for many people they're enough.
+                    These conservative measures make you more comfortable while the leak heals. They are supportive care — not a definitive treatment — but for many people they're enough.
                 </p>
                 <div class="raj-grid">
                     <div class="raj-card">
@@ -210,7 +211,7 @@
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="droplet" class="raj-icon raj-icon-md raj-icon-secondary"></i> Drink plenty of fluids</h3>
-                        <p class="raj-card-body">Staying well hydrated supports healthy spinal-fluid levels. Water, oral rehydration drinks and soups are all good — keep sipping steadily through the day.</p>
+                        <p class="raj-card-body">Staying hydrated is a common supportive measure, though it has not been shown to speed healing of the leak. Water, oral rehydration drinks and soups are all good — keep sipping steadily through the day.</p>
                     </div>
                     <div class="raj-card">
                         <h3 class="raj-card-title"><i data-feather="coffee" class="raj-icon raj-icon-md raj-icon-secondary"></i> Try caffeine</h3>
@@ -253,16 +254,16 @@
                 <!-- CTA -->
                 <div class="raj-cta">
                     <h3 class="text-xl font-bold text-white mb-2">Spinal headache not settling? Don't wait it out.</h3>
-                    <p class="text-white/90 mb-4">RAJ Hospital Ranchi's anesthesia and neurology specialists treat persistent spinal headaches, including epidural blood patch — with fast, lasting relief. Contact us if your headache is severe or lingering.</p>
+                    <p class="text-white/90 mb-4">RAJ Hospital Ranchi's anesthesia and neurology specialists treat persistent spinal headaches, including epidural blood patch when needed. Contact us if your headache is severe or lingering.</p>
                     <a href="https://rajhospitals.com/contact.php" class="raj-cta-button">Contact RAJ Hospital →</a>
                 </div>
 
                 <!-- Related Guides -->
                 <section class="mt-8 bg-white border border-gray-200 rounded-xl p-5">
                     <h2 class="text-xl font-bold text-gray-800 mb-4">RAJ Hospital — Related Headache Guides</h2>
-                    <p class="text-gray-700 mb-4">More expert guides on headaches and pain relief:</p>
+                    <p class="text-gray-700 mb-4">More guides on headaches and pain relief:</p>
                     <ul class="list-disc pl-6 space-y-2 text-gray-700">
-                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Best Multispeciality Hospital in Ranchi</a></li>
+                        <li><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi — Multispeciality Hospital</a></li>
                         <li><a href="/blog/headache-treatment-at-home.php" class="text-secondary-600 hover:underline font-semibold">Headache Treatment at Home — 10 Effective Remedies for Quick Relief</a></li>
                         <li><a href="/blog/headaches-types-causes-treatment-solutions.php" class="text-secondary-600 hover:underline font-semibold">Headaches — Types, Causes &amp; Treatment Solutions</a></li>
                         <li><a href="/blog/how-to-cure-a-sinus-headache.php" class="text-secondary-600 hover:underline font-semibold">How to Cure a Sinus Headache — Home Remedies &amp; Treatments</a></li>
@@ -277,7 +278,7 @@
                     <div class="space-y-4">
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Can a spinal headache go away on its own?</h3>
-                            <p class="text-gray-700">Often yes. Many spinal headaches improve within a few days to a week as the puncture seals, especially with lying flat, fluids and caffeine. But if it is severe or persists beyond 24–48 hours, don't just wait — an epidural blood patch at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital, the best hospital in Ranchi</a> can relieve it quickly.</p>
+                            <p class="text-gray-700">Often yes. Many spinal headaches improve within a few days to a week as the puncture seals, especially with lying flat, fluids and caffeine. But if it is severe or persists beyond 24–48 hours, don't just wait — an epidural blood patch at <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline font-semibold">RAJ Hospital Ranchi</a> can relieve it quickly.</p>
                         </div>
                         <div class="bg-gray-50 p-4 rounded-lg border border-gray-100">
                             <h3 class="font-bold text-gray-800 mb-2">Does lying flat really help a spinal headache?</h3>
@@ -298,8 +299,8 @@
                 <div class="raj-author-box">
                     <div class="raj-author-avatar">RH</div>
                     <div>
-                        <strong class="raj-author-name">Anesthesia &amp; Neurology Team, RAJ Hospital</strong>
-                        <p class="raj-author-meta">Reviewed by Consultant Anesthetist &amp; Neurologist · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <strong class="raj-author-name">RAJ Hospital Health Content Team</strong>
+                        <p class="raj-author-meta"><a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 

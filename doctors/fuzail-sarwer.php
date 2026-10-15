@@ -11,7 +11,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $page_title; ?></title>
     <meta name="description" content="Dr. Fuzail Sarwer is a Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 8+ years experience in ICU management. Book appointment now.">
-    <meta name="keywords" content="Dr. Fuzail Sarwer, Critical Care in Ranchi, Best Critical Care in Ranchi, Dr. Fuzail Sarwer Raj Hospital Ranchi, critical care doctor Ranchi">
+    <meta name="keywords" content="Dr. Fuzail Sarwer, Critical Care in Ranchi, Critical Care specialist in Ranchi, Dr. Fuzail Sarwer Raj Hospital Ranchi, critical care doctor Ranchi">
     <meta property="og:title" content="Dr. Fuzail Sarwer – Critical Care in Ranchi">
     <meta property="og:description" content="Dr. Fuzail Sarwer is a Critical Care & Anesthesiology specialist at Raj Hospital Ranchi with 8+ years experience in ICU management. Book appointment now.">
     <meta property="og:type" content="profile">
@@ -73,7 +73,7 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
     "@context": "https://schema.org",
     "@type": "Physician",
     "name": "Dr. Fuzail Sarwer",
-    "description": "Dr. Fuzail Sarwer is a skilled Critical Care and Anesthesiology specialist at Raj Hospital, Ranchi, with over 8 years of experience. He provides expert ICU management, pain relief procedures, and perioperative care for surgical patients.",
+    "description": "Dr. Fuzail Sarwer is a skilled Critical Care and Anesthesiology specialist at Raj Hospital, Ranchi, with over 8 years of experience. He provides ICU management, pain relief procedures, and perioperative care for surgical patients.",
     "medicalSpecialty": "Critical Care",
     "qualifications": "MBBS, MD (Anaesthesiology), PDCC (Cardiac Anaesthesia)",
     "image": "https://rajhospitals.com/assets/Raj-hospital-doctor-image/Raj-hospital-doctor-image/Dr. Fuzail-Sarwar.webp",
@@ -142,6 +142,10 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
                         <label class="block text-xs font-medium text-gray-700 mb-1">Phone Number <span class="text-red-500">*</span></label>
                         <input type="tel" required pattern="[0-9]{10}" class="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none" name="phone" placeholder="Enter 10-digit mobile number">
                     </div>
+                     <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                         <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                         <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                     </label>
                      <button type="submit" class="w-full bg-primary-500 hover:bg-primary-600 text-white px-4 py-2.5 rounded-lg font-semibold hover:shadow-lg transition-all duration-200 flex items-center justify-center gap-2 text-sm">
                         <i data-feather="calendar" class="w-4 h-4"></i> Submit Request
                     </button>
@@ -260,6 +264,10 @@ $page_title = 'Dr. Fuzail Sarwer – Critical Care in Ranchi';
                                     <input type="tel" name="phone" placeholder="Enter mobile number" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none">
                                     <input type="email" name="email" placeholder="Enter email" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none">
                                     <textarea rows="3" name="message" placeholder="Type your query" required class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 outline-none"></textarea>
+                                    <label class="flex items-start gap-2 text-xs text-gray-600 text-left">
+                                        <input type="checkbox" name="privacy_consent" value="yes" required class="mt-0.5 h-4 w-4 flex-none">
+                                        <span>I agree that Raj Hospitals may use the details I have entered, including any health information, to respond to this request, as described in the <a href="/privacy-policy.php" class="underline">Privacy Notice</a>.</span>
+                                    </label>
                                     <button type="submit" class="w-full bg-primary-500 text-white font-semibold px-4 py-2 rounded-lg hover:bg-primary-600 transition-colors shadow-sm">Submit</button>
                                 </form>
                             </div>
