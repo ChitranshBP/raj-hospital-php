@@ -179,7 +179,6 @@
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">General Medicine</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Viral Fever Symptoms in Hindi - वायरल बुखार के लक्षण, कारण और इलाज</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
-                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> May 23, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 11 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital Team</span>
                 </div>
@@ -409,7 +408,7 @@
                     <div class="w-16 h-16 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Dr. RAJ Hospital Medical Team</strong>
-                        <p class="text-sm text-gray-500">Last Updated: May 23, 2026 | Reviewed by Senior Physician</p>
+                        <p class="text-sm text-gray-500">Reviewed by Senior Physician</p>
                     </div>
                 </div>
             </div>

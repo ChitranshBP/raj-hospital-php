@@ -225,8 +225,6 @@
                 पेट के राइट साइड में दर्द एक common problem है जो किसी भी उम्र में हो सकती है। यह दर्द हल्का से लेकर बहुत तेज और unbearable तक हो सकता है। इस article में हम जानेंगे <strong>pet me right side dard hona ke karan</strong>, symptoms और <strong>gharelu upay</strong> के बारे में।
             </p>
             <div class="flex items-center gap-4 text-sm text-gray-500">
-                <span>Published: May 2026</span>
-                <span><i data-feather="circle" class="raj-icon raj-icon-xs raj-icon-gray" aria-hidden="true"></i></span>
                 <span>Reading Time: 8 min</span>
                 <span><i data-feather="circle" class="raj-icon raj-icon-xs raj-icon-gray" aria-hidden="true"></i></span>
                 <span>By RAJ Hospital</span>

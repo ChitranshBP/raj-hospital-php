@@ -112,7 +112,6 @@
                         <h2 class="text-2xl md:text-3xl font-bold text-gray-800">Latest Posts</h2>
                         <p class="text-sm text-gray-500 mt-1">Date-wise newest first — fresh insights from our specialists.</p>
                     </div>
-                    <span class="hidden md:inline-flex items-center gap-1 text-xs text-gray-400"><i data-feather="calendar" class="w-3 h-3"></i> Updated <?php echo date('F j, Y'); ?></span>
                 </div>
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <?php foreach ($latest_blogs_strip as $i_st => $lbs) {
@@ -128,10 +127,6 @@
                                 <div class="flex items-center gap-2 text-xs text-gray-500 mb-2">
                                     <span class="inline-flex items-center gap-1 bg-secondary-600 text-white px-2 py-0.5 rounded font-semibold">
                                         <i data-feather="clock" class="w-3 h-3"></i> NEW
-                                    </span>
-                                    <span class="inline-flex items-center gap-1">
-                                        <i data-feather="calendar" class="w-3 h-3"></i>
-                                        <?php echo htmlspecialchars($lbs['date']); ?>
                                     </span>
                                 </div>
                                 <h3 class="<?php echo $is_first_st ? 'text-xl md:text-2xl' : 'text-lg'; ?> font-bold text-gray-800 mb-2 group-hover:text-secondary-600 transition-colors leading-snug">
@@ -174,6 +169,41 @@
             }
 
             $blog_data = [
+                'hair-thinning-at-young-age' => [
+                    'title' => 'Why Is My Hair Thinning at a Young Age? Causes and Treatment Options',
+                    'excerpt' => 'Noticing thinning hair in your 20s? Learn the common causes of early hair thinning, the warning signs to watch for, and the treatment options that actually work.',
+                    'category' => 'Dermatology',
+                    'date' => 'October 15, 2026',
+                    'image' => 'assets/img/featured/hair-thinning-at-young-age.jpg'
+                ],
+                'excessive-hair-fall-causes-and-treatment' => [
+                    'title' => 'Why Am I Experiencing Excessive Hair Fall? Common Causes and Treatments',
+                    'excerpt' => 'Losing more hair than usual? Find out what counts as excessive hair fall, the most common causes behind it, and the treatments that help bring it under control.',
+                    'category' => 'Dermatology',
+                    'date' => 'October 15, 2026',
+                    'image' => 'assets/img/featured/excessive-hair-fall-causes-and-treatment.jpg'
+                ],
+                'can-stress-cause-hair-loss' => [
+                    'title' => 'Can Stress Cause Hair Loss? Symptoms, Causes, and Treatment Options',
+                    'excerpt' => 'Can stress really make your hair fall out? Learn how stress affects the hair growth cycle, the types of stress-related hair loss, and the treatments that help hair recover.',
+                    'category' => 'Dermatology',
+                    'date' => 'October 15, 2026',
+                    'image' => 'assets/img/featured/can-stress-cause-hair-loss.jpg'
+                ],
+                'receding-hairline-in-young-men' => [
+                    'title' => 'What Causes a Receding Hairline in Young Men? Early Signs and Treatment',
+                    'excerpt' => 'Is your hairline moving back in your 20s? Learn what causes a receding hairline in young men, how to tell it apart from a mature hairline, and the treatments that work best.',
+                    'category' => 'Dermatology',
+                    'date' => 'October 15, 2026',
+                    'image' => 'assets/img/featured/receding-hairline-in-young-men.jpg'
+                ],
+                'how-to-stop-hair-fall-naturally' => [
+                    'title' => 'How to Stop Hair Fall Naturally: Effective Hair Care Tips and Medical Treatments',
+                    'excerpt' => 'Want to reduce hair fall without harsh treatments? Discover proven natural hair care tips, diet changes, and home remedies, plus the medical treatments to consider.',
+                    'category' => 'Dermatology',
+                    'date' => 'October 15, 2026',
+                    'image' => 'assets/img/featured/how-to-stop-hair-fall-naturally.jpg'
+                ],
                 'hiv-symptoms-in-men-in-hindi' => [
                     'title' => 'पुरुषों में HIV के लक्षण | HIV Symptoms in Men in Hindi',
                     'excerpt' => 'पुरुषों में HIV के शुरुआती और प्रमुख लक्षण जानें। Complete Hindi guide में जानें कौन से warning signs हैं और कब test करना चाहिए।',
@@ -379,8 +409,7 @@
                             <a href="<?php echo $slug; ?>.php" class="hover:text-secondary-600 transition-colors"><?php echo htmlspecialchars($data['title']); ?></a>
                         </h3>
                         <p class="text-gray-600 text-sm mb-4 line-clamp-3"><?php echo htmlspecialchars($data['excerpt']); ?></p>
-                        <div class="flex items-center justify-between text-xs text-gray-400 pt-4 border-t border-gray-100">
-                            <span><i data-feather="calendar" class="w-4 h-4 inline mr-1"></i><?php echo htmlspecialchars($data['date']); ?></span>
+                        <div class="flex items-center justify-end text-xs text-gray-400 pt-4 border-t border-gray-100">
                             <a href="<?php echo $slug; ?>.php" class="text-accent-500 font-semibold hover:underline flex items-center gap-1">Read More <i data-feather="arrow-right" class="w-4 h-4"></i></a>
                         </div>
                     </div>

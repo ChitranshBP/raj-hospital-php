@@ -269,8 +269,6 @@
                 <strong>KFT test kya hota hai</strong> - यह एक important blood test है जो kidney की health check करने के लिए किया जाता है। इस article में हम जानेंगे <strong>kidney function test in hindi</strong> के बारे में पूरी जानकारी - test procedure, normal values, cost, और interpretation।
             </p>
             <div class="flex items-center gap-4 text-sm text-gray-500">
-                <span>Published: May 2026</span>
-                <span><i data-feather="circle" class="raj-icon raj-icon-xs raj-icon-gray" aria-hidden="true"></i></span>
                 <span>Reading Time: 10 min</span>
                 <span><i data-feather="circle" class="raj-icon raj-icon-xs raj-icon-gray" aria-hidden="true"></i></span>
                 <span>By RAJ Hospital</span>

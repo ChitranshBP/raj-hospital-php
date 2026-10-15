@@ -160,7 +160,6 @@
                 <span class="inline-block bg-emerald-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Genetics</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic? Family Risk, Inherited Causes & Prevention</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
-                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> June 12, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by Cardiology & Genetics Team, RAJ Hospital</span>
                 </div>
@@ -310,7 +309,7 @@
                     <div class="w-16 h-16 rounded-full bg-emerald-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Cardiology & Preventive Genetics Team, RAJ Hospital</strong>
-                        <p class="text-sm text-gray-500">Last Updated: June 12, 2026 · Reviewed by Senior Consultant Cardiologist & Genetic Counsellor · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="text-sm text-gray-500">Reviewed by Senior Consultant Cardiologist & Genetic Counsellor · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
             </div>

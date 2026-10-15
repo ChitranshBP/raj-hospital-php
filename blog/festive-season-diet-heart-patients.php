@@ -195,7 +195,6 @@
                 <span class="inline-block bg-primary-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Cardiology · Nutrition · Festive Season</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Festive-Season Sweets and Blood Pressure: A Realistic Guide, Not a Ban List</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
-                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> September 2, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Cardiology &amp; Dietetics Teams, Raj Hospitals Ranchi</span>
                 </div>
@@ -385,7 +384,7 @@
                     <div class="w-16 h-16 shrink-0 rounded-full bg-primary-600 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Cardiology &amp; Dietetics Teams, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Last updated: September 2, 2026 &middot; Medically reviewed by our consultant cardiologists and clinical dietitians &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <p class="text-sm text-gray-500">Medically reviewed by our consultant cardiologists and clinical dietitians &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

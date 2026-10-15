@@ -509,7 +509,6 @@
         <div class="container">
             <h1>दमा के लक्षण | <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi</h1>
             <div class="meta">
-                <span>Published: May 22, 2026</span> |
                 <span>Reading Time: 9 min</span> |
                 <span>By RAJ Hospital Team</span>
             </div>

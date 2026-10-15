@@ -197,7 +197,6 @@
                 <span class="inline-block bg-accent-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">Minimal Access Surgery · Gastroenterology</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">Gallbladder Pain After Meals: When It's Time for Minimally Invasive Surgery</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
-                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> September 2, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 10 min read</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> Reviewed by the Minimal Access Surgery Team, Raj Hospitals Ranchi</span>
                 </div>
@@ -407,7 +406,7 @@
                     <div class="w-16 h-16 shrink-0 rounded-full bg-accent-500 flex items-center justify-center text-white text-xl font-bold">RH</div>
                     <div>
                         <strong class="text-gray-800">Minimal Access Surgery Team, Raj Hospitals Ranchi</strong>
-                        <p class="text-sm text-gray-500">Last updated: September 2, 2026 &middot; Medically reviewed by our consultant laparoscopic surgeons &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
+                        <p class="text-sm text-gray-500">Medically reviewed by our consultant laparoscopic surgeons &middot; <a href="/about" class="text-secondary-600 hover:underline">About Raj Hospitals</a></p>
                     </div>
                 </div>
 

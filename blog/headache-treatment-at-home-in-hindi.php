@@ -169,7 +169,6 @@
                 <span class="inline-block bg-primary-500 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4"><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Neurology</a> · न्यूरोलॉजी</span>
                 <h1 class="text-2xl md:text-3xl font-bold text-gray-800 mb-4">सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)</h1>
                 <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
-                    <span class="flex items-center gap-1"><i data-feather="calendar" class="w-4 h-4"></i> 31 जुलाई, 2026</span>
                     <span class="flex items-center gap-1"><i data-feather="clock" class="w-4 h-4"></i> 9 मिनट पढ़ें</span>
                     <span class="flex items-center gap-1"><i data-feather="user" class="w-4 h-4"></i> RAJ Hospital की न्यूरोलॉजी टीम द्वारा समीक्षित</span>
                 </div>
@@ -319,7 +318,7 @@
                     <div class="raj-author-avatar">RH</div>
                     <div>
                         <strong class="raj-author-name">न्यूरोलॉजी टीम, RAJ Hospital</strong>
-                        <p class="raj-author-meta">अंतिम अपडेट: 31 जुलाई, 2026 · कंसल्टेंट न्यूरोलॉजिस्ट द्वारा समीक्षित · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
+                        <p class="raj-author-meta">कंसल्टेंट न्यूरोलॉजिस्ट द्वारा समीक्षित · <a href="https://rajhospitals.com/" class="text-secondary-600 hover:underline">rajhospitals.com</a></p>
                     </div>
                 </div>
 

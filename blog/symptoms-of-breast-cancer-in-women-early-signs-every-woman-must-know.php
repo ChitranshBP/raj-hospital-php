@@ -207,10 +207,6 @@ $base_url = '../';
                     RAJ Hospital
                 </span>
                 <span class="flex items-center">
-                    <i data-feather="calendar" class="w-4 h-4 mr-1"></i>
-                    23 मई, 2026
-                </span>
-                <span class="flex items-center">
                     <i data-feather="clock" class="w-4 h-4 mr-1"></i>
                     9 मिनट पठन
                 </span>
