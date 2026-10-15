@@ -99,10 +99,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Can a 25-year-old have a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?",
+                "name": "Can a 25-year-old have a heart attack?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes. While heart attacks are far more common after 45, they do occur in people in their 20s and 30s. Common causes in this age group include spontaneous coronary artery dissection (SCAD), inherited high cholesterol (familial hypercholesterolemia), cocaine or stimulant use, uncontrolled <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, smoking or vaping, and coronary artery spasm. Any young adult with chest pain, breathlessness or fainting should be evaluated at a cardiac unit such as RAJ Hospital Ranchi."
+                    "text": "Yes. While heart attacks are far more common after 45, they do occur in people in their 20s and 30s. Common causes in this age group include spontaneous coronary artery dissection (SCAD), inherited high cholesterol (familial hypercholesterolemia), cocaine or stimulant use, uncontrolled diabetes, smoking or vaping, and coronary artery spasm. Any young adult with chest pain, breathlessness or fainting should be evaluated at a cardiac unit such as RAJ Hospital Ranchi."
                 }
             },
             {
@@ -110,7 +110,7 @@
                 "name": "Why are heart attacks increasing in young Indians?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Cardiologists attribute the rise to a cluster of modern risk factors: sedentary desk jobs, high-<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> lifestyles, tobacco and vaping, ultra-processed and high-sugar diets, undiagnosed diabetes and hypertension, poor sleep, and a strong genetic predisposition to early coronary artery disease seen in South Asians. Many young patients have no idea they are at risk because they feel healthy and skip check-ups."
+                    "text": "Cardiologists attribute the rise to a cluster of modern risk factors: sedentary desk jobs, high-stress lifestyles, tobacco and vaping, ultra-processed and high-sugar diets, undiagnosed diabetes and hypertension, poor sleep, and a strong genetic predisposition to early coronary artery disease seen in South Asians. Many young patients have no idea they are at risk because they feel healthy and skip check-ups."
                 }
             },
             {
@@ -118,7 +118,7 @@
                 "name": "What are the warning signs of a heart attack in a young person?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Central chest pressure or tightness, pain spreading to the left arm, jaw, neck or back, cold sweat, sudden breathlessness, nausea, unusual fatigue and lightheadedness. In young adults symptoms are sometimes dismissed as <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a>, acidity, anxiety or muscle strain, which delays life-saving treatment. When in doubt, treat chest pain as cardiac and reach an emergency room immediately."
+                    "text": "Central chest pressure or tightness, pain spreading to the left arm, jaw, neck or back, cold sweat, sudden breathlessness, nausea, unusual fatigue and lightheadedness. In young adults symptoms are sometimes dismissed as gas, acidity, anxiety or muscle strain, which delays life-saving treatment. When in doubt, treat chest pain as cardiac and reach an emergency room immediately."
                 }
             },
             {

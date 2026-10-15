@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a> Treatment in Ranchi | RAJ Hospital</title>
+    <title>Paralysis Treatment in Ranchi | RAJ Hospital</title>
     <meta name="description" content="Ranchi में paralysis treatment के लिए सही hospital कैसे चुनें। Treatment options, rehabilitation और recovery के बारे में जानकारी। RAJ Hospital Ranchi में comprehensive stroke और paralysis care।">
     <meta name="keywords" content="right hospital for paralysis treatment ranchi, paralysis treatment, stroke treatment ranchi, neurologist ranchi, physiotherapy ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a> Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Paralysis Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a> Treatment in Ranchi | RAJ Hospital",
+        "headline": "Paralysis Treatment in Ranchi | RAJ Hospital",
         "description": "Ranchi में paralysis treatment के लिए सही hospital कैसे चुनें। Treatment options, rehabilitation और recovery के बारे में जानकारी। RAJ Hospital Ranchi में comprehensive stroke और paralysis care।",
         "url": "https://rajhospitals.com/blog/best-hospital-for-paralysis-treatment-in-ranchi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-hospital-for-paralysis-treatment-in-ranchi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Paralysis</a> Treatment in Ranchi | RAJ Hospital"
+                "name": "Paralysis Treatment in Ranchi | RAJ Hospital"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

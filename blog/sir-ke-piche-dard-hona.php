@@ -45,7 +45,7 @@
             "name": "सिर के पीछे दर्द होना क्यों होता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "सिर के पीछे दर्द (sir ke piche dard hona) कई कारणों से हो सकता है - गर्दन का दर्द, tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>, माइग्रेन, poor posture, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, आंखों की थकान, high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a>, या cervical spondylosis। सही कारण जानने के लिए डॉक्टर से जांच जरूरी है।"
+                "text": "सिर के पीछे दर्द (sir ke piche dard hona) कई कारणों से हो सकता है - गर्दन का दर्द, tension headache, माइग्रेन, poor posture, stress, आंखों की थकान, high blood pressure, या cervical spondylosis। सही कारण जानने के लिए डॉक्टर से जांच जरूरी है।"
             }
         },
         {
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "सिर के पीछे दर्द होना | Sir ke piche dard hona Causes & Treatment in Hindi",
-        "description": "सिर के पीछे दर्द होना (sir ke piche dard hona) के कारण जानें। गर्दन दर्द, माइग्रेन, tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> समेत अन्य कारण और उपाय। RAJ Hospital Ranchi से जानें।",
+        "description": "सिर के पीछे दर्द होना (sir ke piche dard hona) के कारण जानें। गर्दन दर्द, माइग्रेन, tension headache समेत अन्य कारण और उपाय। RAJ Hospital Ranchi से जानें।",
         "url": "https://rajhospitals.com/blog/sir-ke-piche-dard-hona/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/sir-ke-piche-dard-hona.png",
         "author": {
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

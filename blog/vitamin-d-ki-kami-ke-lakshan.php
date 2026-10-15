@@ -52,7 +52,7 @@ $base_url = '../';
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
         "mainEntityOfPage": "https://rajhospitals.com/blog/vitamin-d-ki-kami-ke-lakshan/",
-        "keywords": ["vitamin d deficiency", "vitamin d kami", "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">bone</a> health", "sun exposure"],
+        "keywords": ["vitamin d deficiency", "vitamin d kami", "bone health", "sun exposure"],
         "about": {
             "@type": "MedicalCondition",
             "name": "Vitamin D Deficiency",
@@ -95,7 +95,7 @@ $base_url = '../';
                 "name": "विटामिन D की कमी से कौन सी बीमारियाँ हो सकती हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteomalacia (वयस्कों में हड्डियों का नरम होना), कमज़ोर immunity, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a>, और <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> का खतरा बढ़ सकता है।"
+                    "text": "विटामिन D की कमी से osteoporosis (हड्डियों का पतला होना), rickets (बच्चों में), osteomalacia (वयस्कों में हड्डियों का नरम होना), कमज़ोर immunity, heart disease, और diabetes का खतरा बढ़ सकता है।"
                 }
             },
             {
@@ -504,7 +504,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">विटामिन D की जाँच करें</h3>
                         <p class="text-white/90">Simple blood test से पता चलेगा आपको कितना चाहिए</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
+    <title>Diabetes Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
     <meta name="description" content="Diabetes symptoms in men - recognize early warning signs like frequent urination, fatigue, weight loss, and sexual dysfunction. Guidance on managing diabetes.">
     <meta name="keywords" content="diabetes symptoms men, male diabetes warning signs, high blood sugar men, diabetes erectile dysfunction, male diabetes symptoms">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Diabetes Symptoms in Men - Warning Signs Every Man Should Know में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
+        "headline": "Diabetes Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
         "description": "Diabetes symptoms in men - recognize early warning signs like frequent urination, fatigue, weight loss, and sexual dysfunction. Guidance on managing diabetes.",
         "url": "https://rajhospitals.com/blog/diabetes-symptoms-men/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/diabetes-symptoms-men.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
+                "name": "Diabetes Symptoms in Men - Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

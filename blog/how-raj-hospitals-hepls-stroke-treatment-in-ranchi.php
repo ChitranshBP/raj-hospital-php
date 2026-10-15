@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How RAJ Hospitals Helps <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment in Ranchi | RAJ Hospital Ranchi</title>
+    <title>How RAJ Hospitals Helps Stroke Treatment in Ranchi | RAJ Hospital Ranchi</title>
     <meta name="description" content="How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। RAJ Hospital Ranchi में stroke care की जानकारी।">
     <meta name="keywords" content="stroke treatment ranchi, raj hospitals stroke, neurology ranchi, brain stroke treatment, stroke emergency ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "How RAJ Hospitals Helps <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "How RAJ Hospitals Helps Stroke Treatment in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। Stroke के किसी भी लक्षण में घरेलू उपाय न आजमाएं - तुरंत 108 call करें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या How RAJ Hospitals Helps Stroke Treatment in Ranchi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Gas Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "How RAJ Hospitals Helps <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment in Ranchi | RAJ Hospital Ranchi",
+        "headline": "How RAJ Hospitals Helps Stroke Treatment in Ranchi | RAJ Hospital Ranchi",
         "description": "How RAJ Hospitals helps stroke treatment in Ranchi - advanced stroke care, 24x7 emergency services, neurology experts, और rehabilitation facilities। RAJ Hospital Ranchi में stroke care की जानकारी।",
         "url": "https://rajhospitals.com/blog/how-raj-hospitals-hepls-stroke-treatment-in-ranchi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/how-raj-hospitals-hepls-stroke-treatment-in-ranchi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "How RAJ Hospitals Helps <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Treatment in Ranchi | RAJ Hospital Ranchi"
+                "name": "How RAJ Hospitals Helps Stroke Treatment in Ranchi | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

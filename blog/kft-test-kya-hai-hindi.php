@@ -61,7 +61,7 @@
             "name": "KFT Test Ki Tayaari Kaise Kare - KFT Test Preparation in Hindi",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "KFT test ke liye aam taur par fasting zaroori nahi hoti (agar saath mein sugar ya lipid test ho to lab/doctor fasting bata sakte hain)। आप सामान्य पानी पी सकते हैं। अगर आप कोई दवा ले रहे हैं (जैसे <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> की दवाएं) तो doctor से पूछें कि kya unhe continue karna चाहिए ya nahi। कुछ vitamins aur supplements ko test se pehle band karna pad sakta hai।"
+                "text": "KFT test ke liye aam taur par fasting zaroori nahi hoti (agar saath mein sugar ya lipid test ho to lab/doctor fasting bata sakte hain)। आप सामान्य पानी पी सकते हैं। अगर आप कोई दवा ले रहे हैं (जैसे blood pressure की दवाएं) तो doctor से पूछें कि kya unhe continue karna चाहिए ya nahi। कुछ vitamins aur supplements ko test se pehle band karna pad sakta hai।"
             }
         },
         {
@@ -69,7 +69,7 @@
             "name": "KFT Aur LFT Mein Kya Farak Hai - Difference Between KFT and LFT in Hindi",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "KFT (Kidney Function Test) kidney ki health check karta है जबकि LFT (<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Liver</a> Function Test) liver ki health assess karta hai। KFT में creatinine, BUN, GFR, aur electrolytes check hote hain। LFT में SGOT, SGPT, bilirubin, ALP, aur albumin check hota hai। Dono tests alag-alag organs की जांच के लिए kiye jate hain।"
+                "text": "KFT (Kidney Function Test) kidney ki health check karta है जबकि LFT (Liver Function Test) liver ki health assess karta hai। KFT में creatinine, BUN, GFR, aur electrolytes check hote hain। LFT में SGOT, SGPT, bilirubin, ALP, aur albumin check hota hai। Dono tests alag-alag organs की जांच के लिए kiye jate hain।"
             }
         },
         {
@@ -160,7 +160,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

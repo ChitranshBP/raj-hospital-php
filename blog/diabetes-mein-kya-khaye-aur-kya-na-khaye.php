@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-22",
         "dateModified": "2026-05-22",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>-mein-kya-khaye-aur-kya-na-khaye/",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/diabetes-mein-kya-khaye-aur-kya-na-khaye/",
         "keywords": ["diabetes diet", "diabetic food list", "sugar patient diet", "diabetes control food"],
         "about": {
             "@type": "MedicalCondition",
@@ -163,7 +163,7 @@ $base_url = '../';
                 "@type": "ListItem",
                 "position": 3,
                 "name": "डायबिटीज़",
-                "item": "https://rajhospitals.com/blog?category=<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>"
+                "item": "https://rajhospitals.com/blog?category=diabetes"
             },
             {
                 "@type": "ListItem",
@@ -509,7 +509,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">पोषण विशेषज्ञ से सलाह लें</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में डायबिटीज़ डाइट प्लान</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter Causes and Remedies - सर्दियों में जोड़ों में दर्द के कारण और उपाय | RAJ Hospital Ranchi</title>
+    <title>Joint Pain in Winter Causes and Remedies - सर्दियों में जोड़ों में दर्द के कारण और उपाय | RAJ Hospital Ranchi</title>
     <meta name="description" content="सर्दियों में जोड़ों में दर्द (Joint Pain in Winter) के कारण, लक्षण, घरेलू उपाय और बचाव के उपाय हिंदी में। जानें कब डॉक्टर से मिलना है। RAJ Hospital Ranchi में orthopedic consultation उपलब्ध।">
     <meta name="keywords" content="joint pain in winter, सर्दियों में जोड़ों में दर्द, joint pain causes, joint pain remedies, arthritis winter, osteoarthritis, गठिया का दर्द, जोड़ों में दर्द का इलाज, joint pain treatment ranchi">
     <meta name="robots" content="index, follow">
@@ -39,7 +39,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter Causes and Remedies - सर्दियों में जोड़ों में दर्द",
+        "name": "Joint Pain in Winter Causes and Remedies - सर्दियों में जोड़ों में दर्द",
         "description": "सर्दियों में जोड़ों में दर्द के कारण, लक्षण, घरेलू उपाय और बचाव के उपाय। RAJ Hospital Ranchi में orthopedic consultation।",
         "url": "https://rajhospitals.com/blog/joint-pain-in-winter-causes-remedies/",
         "author": {
@@ -85,7 +85,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter"
+                "name": "Joint Pain in Winter"
             }
         ]
     }
@@ -125,7 +125,7 @@
                 "name": "क्या exercise से जोड़ों का दर्द बढ़ सकता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "सही exercise से <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a> कम होता है, बढ़ता नहीं - बशर्ते सही technique और moderate intensity use करें। Low-impact exercises जैसे swimming, walking, और stretching बहुत helpful हैं। जो heavy weight training, running on hard surfaces, या high-impact activities से pain बढ़ सकता है। हमेशा gentle start करें और gradual increase करें।"
+                    "text": "सही exercise से joint pain कम होता है, बढ़ता नहीं - बशर्ते सही technique और moderate intensity use करें। Low-impact exercises जैसे swimming, walking, और stretching बहुत helpful हैं। जो heavy weight training, running on hard surfaces, या high-impact activities से pain बढ़ सकता है। हमेशा gentle start करें और gradual increase करें।"
                 }
             },
             {
@@ -133,7 +133,7 @@
                 "name": "जोड़ों के दर्द में क्या खाना चाहिए और क्या नहीं खाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "जोड़ों के दर्द में beneficial foods: Omega-3 (fish, walnuts, flaxseed), Vitamin D (sunlight, fortified foods), Calcium (dairy, leafy greens), Antioxidants (berries, green tea), Ginger और turmeric। Avoid करें: Processed foods, refined <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a>, excessive salt, saturated fats, और alcohol। ये inflammation बढ़ा सकते हैं।"
+                    "text": "जोड़ों के दर्द में beneficial foods: Omega-3 (fish, walnuts, flaxseed), Vitamin D (sunlight, fortified foods), Calcium (dairy, leafy greens), Antioxidants (berries, green tea), Ginger और turmeric। Avoid करें: Processed foods, refined sugar, excessive salt, saturated fats, और alcohol। ये inflammation बढ़ा सकते हैं।"
                 }
             },
             {

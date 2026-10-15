@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
+    <title>Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi</title>
     <meta name="description" content="Symptoms of cancer in men: learn the early warning signs, common cancers affecting men (prostate, lung, colorectal, bladder, skin), screening recommendations, and prevention tips from RAJ Hospital Ranchi.">
     <meta name="keywords" content="symptoms of cancer in men, cancer symptoms men, prostate cancer signs, lung cancer symptoms, colorectal cancer warning signs, cancer screening men, early cancer detection, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a> in men: at what point should a doctor be consulted?",
+            "name": "Symptoms of cancer in men: at what point should a doctor be consulted?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "If symptoms are persistent, recurring, gradually worsening, or include unexplained weight loss, persistent fatigue, a new lump, abnormal bleeding, difficulty swallowing, changes in bowel or bladder habits, skin changes, or no relief with home care, a doctor should be consulted. Timely evaluation helps identify the real cause and prevents complications."
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
+        "headline": "Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi",
         "description": "Early warning signs of cancer in men, common cancers, screening by age, and prevention tips.",
         "url": "https://rajhospitals.com/blog/symptoms-of-cancer-in-men/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/symptoms-of-cancer-in-men.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Symptoms of <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
+                "name": "Symptoms of Cancer in Men - Early Warning Signs Every Man Should Know | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

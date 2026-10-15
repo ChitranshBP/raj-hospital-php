@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "पैर में दर्द - कारण, घरेलू उपाय और इलाज | RAJ Hospital Ranchi",
-        "description": "पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a>, gout में अंतर। जानें कब डॉक्टर जाना है।",
+        "description": "पैर में दर्द के प्रमुख कारण, लक्षण और घरेलू उपाय जानें। Plantar fasciitis, arthritis, gout में अंतर। जानें कब डॉक्टर जाना है।",
         "url": "https://rajhospitals.com/blog/pair-me-dard-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pair-me-dard-in-hindi.png",
         "author": {
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Uric Acid Symptom in Hindi - यूरिक एसिड के लक्षण",
-        "description": "यूरिक एसिड के लक्षण, कारण, और इलाज। Gout, kidney stones, और <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">joint pain</a>। RAJ Hospital Ranchi में जांच और इलाज।",
+        "description": "यूरिक एसिड के लक्षण, कारण, और इलाज। Gout, kidney stones, और joint pain। RAJ Hospital Ranchi में जांच और इलाज।",
         "url": "https://rajhospitals.com/blog/uric-acid-symptom-in-hindi/",
         "author": {
             "@type": "Organization",
@@ -99,7 +99,7 @@
                 "name": "Gout (गाउट) क्या है और यह यूरिक एसिड से कैसे जुड़ा है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Gout एक inflammatory <a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">arthritis</a> है जो high uric acid के कारण होती है। जब uric acid crystals joints में जमा होते हैं, तो तेज दर्द, swelling, और redness होती है। Big toe सबसे commonly affected होती है। यह attack-wise आती है और बहुत painful होती है।"
+                    "text": "Gout एक inflammatory arthritis है जो high uric acid के कारण होती है। जब uric acid crystals joints में जमा होते हैं, तो तेज दर्द, swelling, और redness होती है। Big toe सबसे commonly affected होती है। यह attack-wise आती है और बहुत painful होती है।"
                 }
             }
         ]

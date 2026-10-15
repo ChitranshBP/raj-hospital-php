@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi</title>
+    <title>Allergy Headache - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Allergy Headache का complete guide - causes, symptoms और relief options। जानें कैसे allergies headache कराती हैं और कैसे relief पाएं।">
     <meta name="keywords" content="allergy headache, allergies cause headaches, causes symptoms relief, sinus headache, allergic headache treatment">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Allergy Headache - Causes, Symptoms और Relief Guide में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi",
+        "headline": "Allergy Headache - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi",
         "description": "Allergy Headache का complete guide - causes, symptoms और relief options। जानें कैसे allergies headache कराती हैं और कैसे relief पाएं।",
         "url": "https://rajhospitals.com/blog/can-allergies-cause-headaches-causes-symptoms-relief/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-allergies-cause-headaches-causes-symptoms-relief.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi"
+                "name": "Allergy Headache - Causes, Symptoms और Relief Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

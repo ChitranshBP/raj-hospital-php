@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: Safe Ways to Relieve Pain Naturally | RAJ Hospital Ranchi</title>
+    <title>Spinal Headache Treatment at Home: Safe Ways to Relieve Pain Naturally | RAJ Hospital Ranchi</title>
     <meta name="description" content="Spinal headache treatment at home — safe ways to relieve a post-dural-puncture headache with rest, fluids and caffeine, and the clear signs that mean you need an epidural blood patch. From RAJ Hospital Ranchi.">
     <meta name="keywords" content="spinal headache treatment at home, post dural puncture headache, spinal headache remedies, epidural headache relief, headache after spinal anesthesia, PDPH home treatment, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: Safe Ways to Relieve Pain Naturally",
+        "headline": "Spinal Headache Treatment at Home: Safe Ways to Relieve Pain Naturally",
         "description": "Guide to relieving a spinal (post-dural-puncture) headache at home, and knowing when medical treatment is needed.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home" }
+            { "@type": "ListItem", "position": 3, "name": "Spinal Headache Treatment at Home" }
         ]
     }
     </script>
@@ -75,7 +75,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home",
+        "name": "Spinal Headache Treatment at Home",
         "description": "Safe home measures for a post-dural-puncture (spinal) headache, plus warning signs and when an epidural blood patch is needed.",
         "url": "https://rajhospitals.com/blog/spinal-headache-treatment-at-home/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -97,7 +97,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is a spinal <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>?",
+                "name": "What is a spinal headache?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "A spinal headache, or post-dural-puncture headache (PDPH), is a headache that develops after a procedure that pierces the membrane around the spinal cord — such as spinal anesthesia, an epidural, or a lumbar puncture (spinal tap). It happens because spinal fluid leaks through the puncture, lowering the fluid pressure that cushions the brain. Its hallmark is that the pain is much worse when sitting or standing and improves when lying flat."

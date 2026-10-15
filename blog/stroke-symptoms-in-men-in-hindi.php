@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital</title>
+    <title>Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital</title>
     <meta name="description" content="Stroke symptoms in men in Hindi - पहचानें, पहचानें और बचें। Early warning signs, FAST test, causes aur prevention tips। Time is brain - जानें कब emergency help लें।">
     <meta name="keywords" content="stroke symptoms in men, brain stroke in hindi, stroke warning signs, paralysis, heart attack symptoms male">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Stroke के किसी भी लक्षण (चेहरा टेढ़ा होना, हाथ-पैर में अचानक कमजोरी, बोलने में दिक्कत, अचानक तेज सिरदर्द या चक्कर) में appointment का इंतज़ार न करें — तुरंत 108 पर call करें और नज़दीकी stroke-ready hospital पहुंचें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital",
+        "headline": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital",
         "description": "Stroke symptoms in men in Hindi - पहचानें, पहचानें और बचें। Early warning signs, FAST test, causes aur prevention tips। Time is brain - जानें कब emergency help लें।",
         "url": "https://rajhospitals.com/blog/stroke-symptoms-in-men-in-hindi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/stroke-symptoms-in-men-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital"
+                "name": "Stroke Symptoms in Men in Hindi | Lakshan aur Warning Signs | RAJ Hospital"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

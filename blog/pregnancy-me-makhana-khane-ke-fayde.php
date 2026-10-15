@@ -53,7 +53,7 @@
             "name": "क्या प्रेग्नेंसी में मखाना खाने के फायदे दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "प्रेग्नेंसी में मखाना खाने के फायदे - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "प्रेग्नेंसी में मखाना खाने के फायदे जानें। Makhana (Fox Nuts) <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> के दौरान क्यों beneficial है, nutrients और health benefits।",
+        "description": "प्रेग्नेंसी में मखाना खाने के फायदे जानें। Makhana (Fox Nuts) pregnancy के दौरान क्यों beneficial है, nutrients और health benefits।",
         "url": "https://rajhospitals.com/blog/pregnancy-me-makhana-khane-ke-fayde/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnancy-me-makhana-khane-ke-fayde.png",
         "author": {
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

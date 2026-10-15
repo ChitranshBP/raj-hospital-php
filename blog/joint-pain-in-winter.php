@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - कारण और उपाय | RAJ Hospital Ranchi</title>
+    <title>Joint Pain in Winter - कारण और उपाय | RAJ Hospital Ranchi</title>
     <meta name="description" content="Joint Pain in Winter - जानिए सर्दियों में joint pain के कारण, symptoms और घरेलू उपाय। Prevention और treatment tips। Complete Hindi guide।">
     <meta name="keywords" content="joint pain winter, winter joint pain, joint pain causes, joint pain remedies, arthritis winter">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - कारण और उपाय में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Joint Pain in Winter - कारण और उपाय में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - कारण और उपाय | RAJ Hospital Ranchi",
+        "headline": "Joint Pain in Winter - कारण और उपाय | RAJ Hospital Ranchi",
         "description": "Joint Pain in Winter - जानिए सर्दियों में joint pain के कारण, symptoms और घरेलू उपाय। Prevention और treatment tips। Complete Hindi guide।",
         "url": "https://rajhospitals.com/blog/joint-pain-in-winter/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/joint-pain-in-winter.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Joint Pain</a> in Winter - कारण और उपाय | RAJ Hospital Ranchi"
+                "name": "Joint Pain in Winter - कारण और उपाय | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

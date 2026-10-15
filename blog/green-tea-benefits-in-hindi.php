@@ -108,7 +108,7 @@
                 "name": "कब ग्रीन टी नहीं पीनी चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a>, breastfeeding, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a> disorders, heart problems, या caffeine sensitivity वाले लोगों को ग्रीन टी से बचना चाहिए। साथ ही, empty stomach पर ग्रीन टी नहीं पीनी चाहिए।"
+                    "text": "Pregnancy, breastfeeding, anxiety disorders, heart problems, या caffeine sensitivity वाले लोगों को ग्रीन टी से बचना चाहिए। साथ ही, empty stomach पर ग्रीन टी नहीं पीनी चाहिए।"
                 }
             },
             {
@@ -124,7 +124,7 @@
                 "name": "क्या ग्रीन टी heart के लिए फायदेमंद है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हां, regular ग्रीन टी consumption LDL cholesterol को reduce करता है, <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> को regulate करता है, और heart disease का risk कम करता है। इसके antioxidants inflammation भी कम करते हैं।"
+                    "text": "हां, regular ग्रीन टी consumption LDL cholesterol को reduce करता है, blood pressure को regulate करता है, और heart disease का risk कम करता है। इसके antioxidants inflammation भी कम करते हैं।"
                 }
             }
         ]
@@ -171,7 +171,7 @@
             "name": "क्या ग्रीन टी के फायदे | Green Tea Benefits in Hindi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Brain Stroke के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {

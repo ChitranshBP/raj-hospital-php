@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack? Patient Guide | RAJ Hospital Ranchi</title>
+    <title>Does Low Blood Pressure Cause a Heart Attack? Patient Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Does low blood pressure cause a heart attack? This RAJ Hospital Ranchi guide explains the link between hypotension, shock and heart attack — with hypotension symptoms, treatment and emergency signs.">
     <meta name="keywords" content="does low blood pressure cause heart attack, hypotension heart attack, low BP heart disease, cardiogenic shock, low blood pressure symptoms, RAJ Hospital Ranchi, multispeciality hospital in Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack? Patient Guide",
+        "headline": "Does Low Blood Pressure Cause a Heart Attack? Patient Guide",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-14",
@@ -59,7 +59,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack?" }
+            { "@type": "ListItem", "position": 3, "name": "Does Low Blood Pressure Cause a Heart Attack?" }
         ]
     }
     </script>
@@ -69,7 +69,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Does Low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a> Cause a Heart Attack?",
+        "name": "Does Low Blood Pressure Cause a Heart Attack?",
         "description": "Patient guide to hypotension and heart attack — chronic low BP, acute cardiogenic shock, symptoms, and emergency response.",
         "url": "https://rajhospitals.com/blog/does-low-blood-pressure-cause-a-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -93,7 +93,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Can low <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> cause a heart attack?",
+                "name": "Can low blood pressure cause a heart attack?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Chronic low blood pressure (hypotension) does not directly cause a heart attack, but a sudden, severe drop in blood pressure can be a sign that a heart attack is already happening — a state called cardiogenic shock. Chronic hypotension may also indicate an underlying problem (heart failure, valve disease, hormonal disorder) that increases cardiac risk over time. Cardiologists at RAJ Hospital Ranchi evaluate both scenarios."
@@ -112,7 +112,7 @@
                 "name": "What are the symptoms of dangerously low blood pressure?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Dizziness or lightheadedness on standing, fainting, blurred vision, nausea, cold and clammy skin, rapid shallow <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a>, fatigue, and difficulty concentrating. In heart attack patients, low BP is often accompanied by chest pain, sweating, and breathlessness — a combination that needs immediate ER care."
+                    "text": "Dizziness or lightheadedness on standing, fainting, blurred vision, nausea, cold and clammy skin, rapid shallow breathing, fatigue, and difficulty concentrating. In heart attack patients, low BP is often accompanied by chest pain, sweating, and breathlessness — a combination that needs immediate ER care."
                 }
             },
             {

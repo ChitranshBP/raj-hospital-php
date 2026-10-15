@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi</title>
+    <title>Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Toothache और Headache का complete guide - causes, treatment और prevention tips। जानें कब dentist से मिलना है और कब self-care काफी है।">
     <meta name="keywords" content="toothache headache, dental headache, tooth pain treatment, causes treatment guide, dental health">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Toothache और Headache - कारण, Treatment और Prevention Guide में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi",
+        "headline": "Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi",
         "description": "Toothache और Headache का complete guide - causes, treatment और prevention tips। जानें कब dentist से मिलना है और कब self-care काफी है।",
         "url": "https://rajhospitals.com/blog/can-a-toothache-cause-a-headache-causes-treatment-guide/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-a-toothache-cause-a-headache-causes-treatment-guide.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Toothache और <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi"
+                "name": "Toothache और Headache - कारण, Treatment और Prevention Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

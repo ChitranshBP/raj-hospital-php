@@ -459,7 +459,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">अभी अपॉइंटमेंट बुक करें</h3>
                         <p class="text-white/90">किडनी की समस्या होने पर विशेषज्ञ से मिलें</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>

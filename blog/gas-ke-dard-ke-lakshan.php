@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment | RAJ Hospital Ranchi</title>
+    <title>Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment | RAJ Hospital Ranchi</title>
     <meta name="description" content="Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है। RAJ Hospital Ranchi की स्वास्थ्य जानकारी।">
     <meta name="keywords" content="gas ke dard ke lakshan, pet me gas, gas pain symptoms, gas problem, pet dard, abdominal pain, gastric problems, गैस के लक्षण, पेट में गैस">
     <meta name="robots" content="index, follow">
@@ -43,7 +43,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Pet में <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> के क्या लक्षण होते हैं?",
+                "name": "Pet में Gas के क्या लक्षण होते हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Pet में Gas के लक्षणों में पेट में दर्द, फूलापन, पेट में ऐंठन, अक्सर गुड़रगुड़ी की आवाज, सांसों में बदबू, और छाती में जलन शामिल हैं। कुछ मामलों में कंधे और पीठ में भी दर्द हो सकता है।"
@@ -122,7 +122,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan"
+                "name": "Gas Ke Dard Ke Lakshan"
             }
         ]
     }
@@ -133,7 +133,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet Gas Symptoms in Hindi",
+        "name": "Gas Ke Dard Ke Lakshan - Pet Gas Symptoms in Hindi",
         "description": "Complete guide about gas pain symptoms, causes, home remedies, and when to seek medical help in Hindi",
         "url": "https://rajhospitals.com/blog/gas-ke-dard-ke-lakshan/",
         "author": {
@@ -165,7 +165,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet Gas ke Symptoms & Treatment",
+        "headline": "Gas Ke Dard Ke Lakshan - Pet Gas ke Symptoms & Treatment",
         "description": "Pet में Gas के लक्षण, कारण और घरेलू उपाय जानें। जानें कब Gas दर्द गंभीर हो सकता है।",
         "author": {
             "@type": "Organization",
@@ -191,7 +191,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Gas Ke Dard Ke Lakshan - Pet mein Gas ke Symptoms & Treatment में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"

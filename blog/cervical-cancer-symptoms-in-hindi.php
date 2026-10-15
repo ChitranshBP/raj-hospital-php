@@ -53,7 +53,7 @@
             "name": "क्या गर्भाशय ग्रीवा कैंसर के लक्षण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> News - Latest Updates & Treatment जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Breast Cancer News - Latest Updates & Treatment जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "गर्भाशय ग्रीवा कैंसर के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "गर्भाशय ग्रीवा कैंसर (Cervical <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a>) के प्रमुख लक्षण, कारण और बचाव के उपाय जानें। Early detection के लिए जरूरी जानकारी। समय पर जांच के लिए जरूरी जानकारी।",
+        "description": "गर्भाशय ग्रीवा कैंसर (Cervical Cancer) के प्रमुख लक्षण, कारण और बचाव के उपाय जानें। Early detection के लिए जरूरी जानकारी। समय पर जांच के लिए जरूरी जानकारी।",
         "url": "https://rajhospitals.com/blog/cervical-cancer-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/cervical-cancer-symptoms-in-hindi.png",
         "author": {
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

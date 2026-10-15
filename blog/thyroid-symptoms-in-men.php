@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi</title>
+    <title>Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में थायरॉइड के लक्षण (Thyroid Symptoms in Men) - हाइपोथायरायडिज्म और हाइपरथायरायडिज्म के लक्षण, कारण और इलाज। Thyroid in men treatment।">
     <meta name="keywords" content="thyroid symptoms in men, thyroid in men, हाइपोथायरायडिज्म, हाइपरथायरायडिज्म, thyroid treatment, थायरॉइड, thyroid problem men">
     <meta name="robots" content="index, follow">
@@ -39,7 +39,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण",
+        "name": "Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण",
         "description": "पुरुषों में थायरॉइड के लक्षण, हाइपोथायरायडिज्म और हाइपरथायरायडिज्म। RAJ Hospital Ranchi में जांच और इलाज।",
         "url": "https://rajhospitals.com/blog/thyroid-symptoms-in-men/",
         "author": {
@@ -72,10 +72,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "पुरुषों में थायरॉइड (<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a>) के क्या लक्षण हैं?",
+                "name": "पुरुषों में थायरॉइड (Thyroid) के क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Hypothyroidism (कम thyroid) के लक्षण: weight gain, fatigue, cold intolerance, constipation, dry skin, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a>। Hyperthyroidism (ज्यादा thyroid) के लक्षण: weight loss, rapid heartbeat, heat intolerance, anxiety, tremor, increased sweating। Men में specific symptoms में libido की कमी और erectile dysfunction भी शामिल है।"
+                    "text": "Hypothyroidism (कम thyroid) के लक्षण: weight gain, fatigue, cold intolerance, constipation, dry skin, depression। Hyperthyroidism (ज्यादा thyroid) के लक्षण: weight loss, rapid heartbeat, heat intolerance, anxiety, tremor, increased sweating। Men में specific symptoms में libido की कमी और erectile dysfunction भी शामिल है।"
                 }
             },
             {
@@ -118,7 +118,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Thyroid</a> Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi"
+                "name": "Thyroid Symptoms in Men - पुरुषों में थायरॉइड के लक्षण | RAJ Hospital Ranchi"
             }
         ]
     }

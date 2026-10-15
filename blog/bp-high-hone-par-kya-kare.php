@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "BP High होने पर क्या करें? - Complete Hindi Guide | RAJ Hospital Ranchi",
-        "description": "High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> (BP High) के कारण, लक्षण और उपाय जानें। जानें कब डॉक्टर को दिखाना है और कौन से lifestyle बदलाव मदद करते हैं। RAJ Hospital Ranchi की ओर से जानकारी।",
+        "description": "High blood pressure (BP High) के कारण, लक्षण और उपाय जानें। जानें कब डॉक्टर को दिखाना है और कौन से lifestyle बदलाव मदद करते हैं। RAJ Hospital Ranchi की ओर से जानकारी।",
         "url": "https://rajhospitals.com/blog/bp-high-hone-par-kya-kare/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/bp-high-hone-par-kya-kare.png",
         "author": {
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

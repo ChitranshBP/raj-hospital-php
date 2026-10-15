@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi - RAJ Hospital</title>
+    <title>खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital</title>
     <meta name="description" content="खाद्य विषाक्तता के लक्षण (Food Poisoning Symptoms in Hindi) जानें। उल्टी, दस्त, पेट दर्द के कारण, लक्षण, और घरेलू उपाय। RAJ Hospital Ranchi में विशेषज्ञ उपचार।">
     <meta name="keywords" content="खाद्य विषाक्तता के लक्षण, food poisoning symptoms in hindi, food poisoning Hindi, खाना विषाक्त, food infection in Hindi, उल्टी दस्त के लक्षण">
     <meta name="robots" content="index, follow">
@@ -38,7 +38,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi",
+        "headline": "खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi",
         "description": "खाद्य विषाक्तता के लक्षण, कारण, और घरेलू उपाय - Complete Hindi Guide",
         "author": {
             "@type": "Organization",
@@ -164,7 +164,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "खाद्य विषाक्तता के लक्षण | <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Food Poisoning</a> Symptoms in Hindi - RAJ Hospital में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "खाद्य विषाक्तता के लक्षण | Food Poisoning Symptoms in Hindi - RAJ Hospital में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"

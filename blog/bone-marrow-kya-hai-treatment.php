@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Haematology</title>
+    <title>Bone Marrow Treatment in Hindi | RAJ Hospital Ranchi - Haematology</title>
     <meta name="description" content="Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में haematology consultation।">
     <meta name="keywords" content="bone marrow treatment in hindi, bone marrow transplant, stem cell transplant, bone marrow donation, hematology">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Bone Marrow Treatment in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Haematology",
+        "headline": "Bone Marrow Treatment in Hindi | RAJ Hospital Ranchi - Haematology",
         "description": "Bone marrow kya hai, bone marrow treatment ka process, benefits, risks, aur cost के बारे में जानें। RAJ Hospital Ranchi में haematology consultation।",
         "url": "https://rajhospitals.com/blog/bone-marrow-kya-hai-treatment",
         "image": "https://rajhospitals.com/blog/assets/img/featured/bone-marrow-kya-hai-treatment.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/orthopaedics-and-joint-replacement.php" class="text-red-600 hover:underline font-semibold">Bone</a> Marrow Treatment in Hindi | RAJ Hospital Ranchi - Haematology"
+                "name": "Bone Marrow Treatment in Hindi | RAJ Hospital Ranchi - Haematology"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

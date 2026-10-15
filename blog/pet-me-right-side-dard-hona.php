@@ -45,7 +45,7 @@
             "name": "Pet me right side dard hona ka sabse common karan kya hai?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "पेट के right side में दर्द के कई कारण हो सकते हैं। सबसे common कारणों में gastritis, <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">gas</a> problem, constipation, appendix inflammation (appendicitis), gallbladder stones, kidney stones, और urinary tract infection शामिल हैं। दर्द की जगह (ऊपर या नीचे), its nature (sharp ya dull), और accompanying symptoms के आधार पर doctor सही diagnosis कर सकते हैं।"
+                "text": "पेट के right side में दर्द के कई कारण हो सकते हैं। सबसे common कारणों में gastritis, gas problem, constipation, appendix inflammation (appendicitis), gallbladder stones, kidney stones, और urinary tract infection शामिल हैं। दर्द की जगह (ऊपर या नीचे), its nature (sharp ya dull), और accompanying symptoms के आधार पर doctor सही diagnosis कर सकते हैं।"
             }
         },
         {
@@ -69,7 +69,7 @@
             "name": "Right side stomach pain female में कब ज्यादा common होता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Women में right side stomach pain के additional causes हो सकते हैं - ovarian cysts, ectopic <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>, endometriosis, और menstrual cramps। Pregnancy के दौरान right side pain को especially seriously लेना चाहिए और तुरंत doctor से contact करना चाहिए।"
+                "text": "Women में right side stomach pain के additional causes हो सकते हैं - ovarian cysts, ectopic pregnancy, endometriosis, और menstrual cramps। Pregnancy के दौरान right side pain को especially seriously लेना चाहिए और तुरंत doctor से contact करना चाहिए।"
             }
         },
         {
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

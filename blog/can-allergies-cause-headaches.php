@@ -53,7 +53,7 @@
             "name": "क्या Can Allergies Cause Headaches? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> - Causes, Symptoms और Relief Guide जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Allergy Headache - Causes, Symptoms और Relief Guide जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "Can Allergies Cause Headaches? - Complete Guide | RAJ Hospital Ranchi",
-        "description": "Can allergies cause headaches? जानें allergy <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> का connection, types, causes और treatment options। Complete guide by RAJ Hospital Ranchi।",
+        "description": "Can allergies cause headaches? जानें allergy headache का connection, types, causes और treatment options। Complete guide by RAJ Hospital Ranchi।",
         "url": "https://rajhospitals.com/blog/can-allergies-cause-headaches/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-allergies-cause-headaches.png",
         "author": {
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

@@ -38,7 +38,7 @@
         },
         "about": {
             "@type": "MedicalCondition",
-            "name": "गर्भावस्था (<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnancy</a>)",
+            "name": "गर्भावस्था (Pregnancy)",
             "category": "Women's Health"
         },
         "medicalSpecialty": "Obstetrics"
@@ -129,7 +129,7 @@
                 "name": "गर्भावस्था में कौन सी चीज़ें तनाव पैदा करती हैं और क्यों बचना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "गर्भावस्था में अत्यधिक तनाव बच्चे के विकास को प्रभावित कर सकता है। काम का अत्यधिक दबाव, विवाद, और नकारात्मक समाचार से बचें। ध्यान, योग और हल्के व्यायाम तनाव कम करने में मदद करते हैं। RAJ Hospital में <a href='../contact.php'>परामर्श</a> लें।"
+                    "text": "गर्भावस्था में अत्यधिक तनाव बच्चे के विकास को प्रभावित कर सकता है। काम का अत्यधिक दबाव, विवाद, और नकारात्मक समाचार से बचें। ध्यान, योग और हल्के व्यायाम तनाव कम करने में मदद करते हैं। RAJ Hospital में परामर्श लें।"
                 }
             }
         ]

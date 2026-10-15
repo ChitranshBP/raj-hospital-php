@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "लिवर इन्फेक्शन के लक्षण - कारण, निदान और इलाज | RAJ Hospital Ranchi",
         "description": "लिवर इन्फेक्शन के प्रमुख लक्षण, कारण और बचाव के उपाय जानें। जानें कब डॉक्टर को दिखाना है। ",
-        "url": "https://rajhospitals.com/blog/<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a>-infection-symptoms-in-hindi/",
+        "url": "https://rajhospitals.com/blog/liver-infection-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/liver-infection-symptoms-in-hindi.png",
         "author": {
             "@type": "Organization",
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

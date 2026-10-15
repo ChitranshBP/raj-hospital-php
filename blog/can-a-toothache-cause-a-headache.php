@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide | RAJ Hospital Ranchi</title>
+    <title>Can a Toothache Cause a Headache? - Complete Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Can a toothache cause a headache? जानें दांत दर्द और सिरदर्द का connection, causes, और treatment options। Complete guide - RAJ Hospital Ranchi।">
     <meta name="keywords" content="toothache headache, tooth pain, headache causes, dental health, tooth headache connection">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Can a Toothache Cause a Headache? में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide | RAJ Hospital Ranchi",
+        "headline": "Can a Toothache Cause a Headache? - Complete Guide | RAJ Hospital Ranchi",
         "description": "Can a toothache cause a headache? जानें दांत दर्द और सिरदर्द का connection, causes, और treatment options। Complete guide - RAJ Hospital Ranchi।",
         "url": "https://rajhospitals.com/blog/can-a-toothache-cause-a-headache/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/can-a-toothache-cause-a-headache.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Can a Toothache Cause a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>? - Complete Guide | RAJ Hospital Ranchi"
+                "name": "Can a Toothache Cause a Headache? - Complete Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

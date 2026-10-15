@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: 10 Effective Remedies for Quick Relief | RAJ Hospital Ranchi</title>
+    <title>Headache Treatment at Home: 10 Effective Remedies for Quick Relief | RAJ Hospital Ranchi</title>
     <meta name="description" content="Headache treatment at home — 10 practical remedies for fast, natural relief from tension headaches and migraines, plus the warning signs that mean you should see a doctor. From RAJ Hospital Ranchi.">
     <meta name="keywords" content="headache treatment at home, home remedies for headache, headache relief at home, natural headache remedies, how to cure headache at home, quick headache relief, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home: 10 Effective Remedies for Quick Relief",
+        "headline": "Headache Treatment at Home: 10 Effective Remedies for Quick Relief",
         "description": "Practical home remedies for fast, natural headache relief, with guidance on when to seek medical care.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home" }
+            { "@type": "ListItem", "position": 3, "name": "Headache Treatment at Home" }
         ]
     }
     </script>
@@ -75,7 +75,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home",
+        "name": "Headache Treatment at Home",
         "description": "Ten evidence-informed home remedies for headache relief, with clear guidance on warning signs and when to see a doctor.",
         "url": "https://rajhospitals.com/blog/headache-treatment-at-home/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -98,7 +98,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "How can I get rid of a <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> fast at home?",
+                "name": "How can I get rid of a headache fast at home?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Drink a glass or two of water, rest in a quiet dark room, apply a cold or warm compress to your head or neck, gently massage your temples, and try a small cup of caffeine if you are not caffeine-sensitive. Most tension headaches ease within an hour with these steps. An over-the-counter pain reliever can help occasional headaches when used as directed."
@@ -109,7 +109,7 @@
                 "name": "What is the most common cause of everyday headaches?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The most common type is the tension headache, usually caused by dehydration, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, poor posture, eye strain from screens, skipped meals, lack of sleep, or muscle tightness in the neck and shoulders. Migraines are the next most common and often have specific triggers such as certain foods, hormonal changes, bright light or missed sleep."
+                    "text": "The most common type is the tension headache, usually caused by dehydration, stress, poor posture, eye strain from screens, skipped meals, lack of sleep, or muscle tightness in the neck and shoulders. Migraines are the next most common and often have specific triggers such as certain foods, hormonal changes, bright light or missed sleep."
                 }
             },
             {

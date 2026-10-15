@@ -53,7 +53,7 @@
             "name": "High Pulse Rate (तेज धड़कन) कब होती है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Exercise, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, anxiety, caffeine, dehydration, fever, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> problems, या heart conditions से pulse rate बढ़ सकता है। Resting pulse rate 100 BPM से ज्यादा होना high pulse rate है और doctor consultation जरूरी है।"
+                "text": "Exercise, stress, anxiety, caffeine, dehydration, fever, thyroid problems, या heart conditions से pulse rate बढ़ सकता है। Resting pulse rate 100 BPM से ज्यादा होना high pulse rate है और doctor consultation जरूरी है।"
             }
         },
         {
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

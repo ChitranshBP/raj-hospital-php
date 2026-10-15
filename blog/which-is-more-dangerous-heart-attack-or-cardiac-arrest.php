@@ -8,7 +8,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest? | RAJ Hospital Ranchi</title>
+    <title>Which Is More Dangerous: Heart Attack or Cardiac Arrest? | RAJ Hospital Ranchi</title>
     <meta name="description" content="Which is more dangerous: heart attack or cardiac arrest? RAJ Hospital Ranchi explains the survival rates, time-criticality, and how to respond to each emergency.">
     <meta name="keywords" content="which is more dangerous heart attack or cardiac arrest, heart attack vs cardiac arrest survival, sudden cardiac arrest survival, CPR survival rate, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -43,7 +43,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest?\",
+        "headline": "Which Is More Dangerous: Heart Attack or Cardiac Arrest?",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-16",
@@ -60,7 +60,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest?" }
+            { "@type": "ListItem", "position": 3, "name": "Which Is More Dangerous: Heart Attack or Cardiac Arrest?" }
         ]
     }
     </script>
@@ -70,7 +70,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Which Is More Dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> or Cardiac Arrest?",
+        "name": "Which Is More Dangerous: Heart Attack or Cardiac Arrest?",
         "description": "A comparison of acute myocardial infarction and sudden cardiac arrest, with survival statistics and emergency response protocols.",
         "url": "https://rajhospitals.com/blog/which-is-more-dangerous-heart-attack-or-cardiac-arrest/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -93,7 +93,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Which is more dangerous: <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> or cardiac arrest?",
+                "name": "Which is more dangerous: heart attack or cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Cardiac arrest is the more immediately fatal event. Without CPR and defibrillation within 3-5 minutes, brain damage begins and survival drops by 7-10% per minute. A heart attack is also life-threatening but usually allows more time — modern primary angioplasty can save heart muscle and life if performed within 90-120 minutes."
@@ -128,7 +128,7 @@
                 "name": "How can you protect yourself from both?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Control the shared risk factors: stop smoking, keep LDL cholesterol low, manage blood pressure and <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a>, exercise 150 minutes a week, manage <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, learn CPR, and know your family history. "
+                    "text": "Control the shared risk factors: stop smoking, keep LDL cholesterol low, manage blood pressure and diabetes, exercise 150 minutes a week, manage stress, learn CPR, and know your family history. "
                 }
             }
         ]

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में | RAJ Hospital Ranchi</title>
+    <title>Kidney Stone Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में | RAJ Hospital Ranchi</title>
     <meta name="description" content="पथरी के लक्षण पुरुषों में (Kidney Stone Symptoms in Men) - पहचान, कारण, इलाज और बचाव के उपाय हिंदी में। RAJ Hospital Ranchi में kidney stone treatment उपलब्ध।">
     <meta name="keywords" content="kidney stone symptoms men, पथरी के लक्षण पुरुषों में, kidney stone treatment, पथरी का इलाज, kidney stone in hindi, renal stone, मूत्रपथरी">
     <meta name="robots" content="index, follow">
@@ -39,7 +39,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में",
+        "name": "Kidney Stone Symptoms in Men in Hindi - पथरी के लक्षण पुरुषों में",
         "description": "पथरी के लक्षण पुरुषों में, कारण, इलाज और बचाव के उपाय। RAJ Hospital Ranchi में kidney stone treatment।",
         "url": "https://rajhospitals.com/blog/kidney-stone-symptoms-in-men-in-hindi/",
         "author": {
@@ -85,7 +85,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Symptoms in Men"
+                "name": "Kidney Stone Symptoms in Men"
             }
         ]
     }
@@ -98,7 +98,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "पथरी (<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a>) क्या है और पुरुषों में इसके क्या लक्षण हैं?",
+                "name": "पथरी (Kidney Stone) क्या है और पुरुषों में इसके क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "पथरी एक solid mass है जो kidney में minerals और salts के crystallizing से बनती है। पुरुषों में लक्षणों में तेज पीठ दर्द (विशेषकर पसलियों के नीचे), पेशाब में दर्द जलन, blood in urine, बार-बार पेशाब, मतली और उल्टी शामिल हैं।"

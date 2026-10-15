@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference | RAJ Hospital Ranchi</title>
+    <title>Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi</title>
     <meta name="description" content="Learn to differentiate between gas pain and heart attack symptoms. Understand key warning signs, when to seek emergency care, and how to identify serious cardiac events.">
     <meta name="keywords" content="gas pain vs heart attack, chest pain causes, heart attack symptoms, gas pain symptoms, chest discomfort diagnosis">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Gas Pain vs Heart Attack - How to Tell the Difference में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference | RAJ Hospital Ranchi",
+        "headline": "Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi",
         "description": "Learn to differentiate between gas pain and heart attack symptoms. Understand key warning signs, when to seek emergency care, and how to identify serious cardiac events.",
         "url": "https://rajhospitals.com/blog/difference-between-gas-pain-and-heart-attack-symptoms/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/difference-between-gas-pain-and-heart-attack-symptoms.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> - How to Tell the Difference | RAJ Hospital Ranchi"
+                "name": "Gas Pain vs Heart Attack - How to Tell the Difference | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

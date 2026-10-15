@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand | RAJ Hospital</title>
+    <title>Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand | RAJ Hospital</title>
     <meta name="description" content="Heart attack symptoms differ significantly between men and women. Learn the warning signs unique to each gender, when to seek emergency care, and how RAJ Hospital Ranchi provides 24/7 cardiac emergency treatment.">
     <meta name="keywords" content="heart attack symptoms men vs women, heart attack warning signs women, men heart attack symptoms, women heart attack symptoms, heart attack gender differences, heart attack in hindi, heart attack ke symptoms">
     <meta name="robots" content="index, follow">
@@ -27,7 +27,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand",
+        "name": "Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand",
         "description": "Comprehensive guide explaining how heart attack symptoms differ between men and women, with warning signs and emergency care information.",
         "url": "https://rajhospitals.com/blog/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand/",
         "inLanguage": "en",
@@ -69,7 +69,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms Men vs Women"
+                "name": "Heart Attack Symptoms Men vs Women"
             }
         ]
     }
@@ -82,7 +82,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Do <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> symptoms differ between men and women?",
+                "name": "Do heart attack symptoms differ between men and women?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Yes, heart attack symptoms can differ significantly between men and women. While both may experience chest pain, women are more likely to have subtle symptoms like fatigue, nausea, and back pain. Men typically experience more classic symptoms like chest pressure and arm pain. Understanding these differences is crucial for early detection and treatment."
@@ -101,7 +101,7 @@
                 "name": "What are the unique heart attack symptoms in women?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Women often experience atypical heart attack symptoms including unusual fatigue, sleep disturbances, indigestion, <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">anxiety</a>, and pain in the back, shoulders, or upper abdomen. Many women dismiss these symptoms as stress or other conditions. Research shows women are less likely to seek immediate care, making awareness crucial for survival."
+                    "text": "Women often experience atypical heart attack symptoms including unusual fatigue, sleep disturbances, indigestion, anxiety, and pain in the back, shoulders, or upper abdomen. Many women dismiss these symptoms as stress or other conditions. Research shows women are less likely to seek immediate care, making awareness crucial for survival."
                 }
             },
             {
@@ -125,7 +125,7 @@
                 "name": "How can I reduce my risk of heart attack?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Reducing heart attack risk involves: maintaining a healthy weight, regular exercise (30 minutes daily), balanced diet low in saturated fats, quitting smoking, limiting alcohol, managing stress, and controlling conditions like <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> and high blood pressure. Regular cardiac check-ups are essential, especially after age 40. RAJ Hospital offers comprehensive heart health screening programs."
+                    "text": "Reducing heart attack risk involves: maintaining a healthy weight, regular exercise (30 minutes daily), balanced diet low in saturated fats, quitting smoking, limiting alcohol, managing stress, and controlling conditions like diabetes and high blood pressure. Regular cardiac check-ups are essential, especially after age 40. RAJ Hospital offers comprehensive heart health screening programs."
                 }
             },
             {
@@ -173,7 +173,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -184,7 +184,7 @@
             "name": "क्या Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Gas Pain vs Heart Attack - How to Tell the Difference जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -220,7 +220,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand | RAJ Hospital",
+        "headline": "Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand | RAJ Hospital",
         "description": "Heart attack symptoms differ significantly between men and women. Learn the warning signs unique to each gender, when to seek emergency care, and how RAJ Hospital Ranchi provides 24/7 cardiac emergency treatment.",
         "url": "https://rajhospitals.com/blog/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand",
         "image": "https://rajhospitals.com/blog/assets/img/featured/heart-attack-symptoms-men-vs-women-key-differences-you-need-to-understand.png",
@@ -557,7 +557,7 @@
                     <p class="opacity-90 mb-4">RAJ Hospital offers 24/7 emergency cardiac care, diagnostic services, and treatment for heart conditions. Don't ignore warning signs - early action saves lives.</p>
                     <div class="flex flex-wrap justify-center gap-4">
                         <a href="/contact.php" class="inline-block bg-white text-primary-500 font-bold px-6 py-2 rounded-lg hover:bg-gray-100 transition-colors">Book Appointment</a>
-                        <a href="tel:+91XXXXXXXXXX" class="inline-block border-2 border-white text-white font-bold px-6 py-2 rounded-lg hover:bg-white/10 transition-colors">Call Emergency</a>
+                        <a href="tel:+919771488888" class="inline-block border-2 border-white text-white font-bold px-6 py-2 rounded-lg hover:bg-white/10 transition-colors">Call Emergency</a>
                     </div>
                 </div>
 

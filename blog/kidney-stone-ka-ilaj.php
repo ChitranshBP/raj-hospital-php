@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi</title>
+    <title>Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi</title>
     <meta name="description" content="Kidney Stone Ka Ilaj - गुर्दे में पथरी का complete treatment। ESWL, laser treatment, और surgery options। Ranchi में kidney stone treatment की जानकारी।">
     <meta name="keywords" content="kidney stone ilaj, kidney stone treatment, पथरी का इलाज, gall stone treatment, kidney stone surgery">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Ka Ilaj - गुर्दे में पथरी का इलाज में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Acidity ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi",
+        "headline": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi",
         "description": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का complete treatment। ESWL, laser treatment, और surgery options। Ranchi में kidney stone treatment की जानकारी।",
         "url": "https://rajhospitals.com/blog/kidney-stone-ka-ilaj/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/kidney-stone-ka-ilaj.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Kidney Stone</a> Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi"
+                "name": "Kidney Stone Ka Ilaj - गुर्दे में पथरी का इलाज | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

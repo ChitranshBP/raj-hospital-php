@@ -40,7 +40,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Labour Pain Symptoms in Hindi - प्रसव पीड़ा के लक्षण",
-        "description": "प्रसव पीड़ा के लक्षण - प्रसव के संकेत, असली vs झूठी पीड़ा, कब hospital जाएं। RAJ Hospital Ranchi में <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">maternity</a> care।",
+        "description": "प्रसव पीड़ा के लक्षण - प्रसव के संकेत, असली vs झूठी पीड़ा, कब hospital जाएं। RAJ Hospital Ranchi में maternity care।",
         "url": "https://rajhospitals.com/blog/labour-pain-symptoms-in-hindi/",
         "author": {
             "@type": "Organization",
@@ -117,7 +117,7 @@
                 "name": "प्रसव के लिए कब hospital जाना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "इन संकेतों पर तुरंत hospital जाएं: 1) 5 मिनट के अंदर regular contractions 2) Amniotic fluid का टूटना 3) Heavy bleeding 4) बच्चे की movement में कमी 5) तेज दर्द जो unbearable है 6) blurred vision या severe <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>।"
+                    "text": "इन संकेतों पर तुरंत hospital जाएं: 1) 5 मिनट के अंदर regular contractions 2) Amniotic fluid का टूटना 3) Heavy bleeding 4) बच्चे की movement में कमी 5) तेज दर्द जो unbearable है 6) blurred vision या severe headache।"
                 }
             },
             {
@@ -125,7 +125,7 @@
                 "name": "प्रसव पीड़ा में दर्द कैसे manage करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "प्रसव में दर्द management: 1) <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> exercises (deep breathing, patterned breathing) 2) Position changes (walking, squatting, changing sides) 3) Massage और warmth 4) Labor tub या shower 5) Pain medications (doctor की सलाह से) 6) epidural anesthesia (अगर needed हो तो)।"
+                    "text": "प्रसव में दर्द management: 1) Breathing exercises (deep breathing, patterned breathing) 2) Position changes (walking, squatting, changing sides) 3) Massage और warmth 4) Labor tub या shower 5) Pain medications (doctor की सलाह से) 6) epidural anesthesia (अगर needed हो तो)।"
                 }
             },
             {
@@ -133,7 +133,7 @@
                 "name": "Normal delivery में कितना समय लगता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "First-time mothers में average labour duration: early labour 6-12 hours, active labour 4-8 hours, pushing 1-2 hours। Experienced mothers में यह कम हो सकता है। हर <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> अलग होती है। RAJ Hospital में continuous monitoring होती है।"
+                    "text": "First-time mothers में average labour duration: early labour 6-12 hours, active labour 4-8 hours, pushing 1-2 hours। Experienced mothers में यह कम हो सकता है। हर pregnancy अलग होती है। RAJ Hospital में continuous monitoring होती है।"
                 }
             }
         ]

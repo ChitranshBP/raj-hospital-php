@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>दमा के लक्षण | <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi - Complete Guide | RAJ Hospital</title>
+    <title>दमा के लक्षण | Asthma Symptoms in Hindi - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="दमा (Asthma) के लक्षण पहचानें - सांस लेने में तकलीफ, घरघराहट, खांसी, छाती में भारीपन। जानें कब डॉक्टर को दिखाना है। RAJ Hospital Ranchi।">
 
     <!-- Canonical URL -->
@@ -38,7 +38,7 @@
                 "@type": "ListItem",
                 "position": 3,
                 "name": "दमा के लक्षण",
-                "item": "https://rajhospitals.com/blog/<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">asthma</a>-symptoms-in-hindi/"
+                "item": "https://rajhospitals.com/blog/asthma-symptoms-in-hindi/"
             }
         ]
     }
@@ -60,7 +60,7 @@
             },
             {
                 "@type": "Question",
-                "name": "दमा का दौरा (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Attack) कैसे पहचानें?",
+                "name": "दमा का दौरा (Asthma Attack) कैसे पहचानें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "दमा का दौरा पहचानें: अचानक सांस फूलना, छाती में घरघराहट, खांसी जो बढ़ती जाए, नाक बंद होना, और बात करने में कठिनाई। अगर होंठ या नाखून नीले पड़ जाएं तो यह गंभीर है और तुरंत medical help लें।"
@@ -115,7 +115,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "दमा के लक्षण - <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi",
+        "name": "दमा के लक्षण - Asthma Symptoms in Hindi",
         "description": "दमा (Asthma) के लक्षणों की विस्तृत जानकारी - पहचान, कारण, इलाज और बचाव",
         "url": "https://rajhospitals.com/blog/asthma-symptoms-in-hindi/",
         "author": {
@@ -418,7 +418,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "दमा के लक्षण | <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Asthma</a> Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "दमा के लक्षण | Asthma Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital</title>
+    <title>Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Anxiety symptoms in men - recognize stress, anxiety attack symptoms, and mental health issues. Learn about high anxiety symptoms, signs of stress, and when to seek help. Complete Hindi/English guide.">
     <meta name="keywords" content="anxiety symptoms in men, stress symptoms in men, anxiety attack symptoms male, symptoms of stress in men, symptoms of anxiety in men, signs of stress in men, high anxiety symptoms">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -53,7 +53,7 @@
             "name": "क्या Anxiety Symptoms in Men | Stress & Mental Health Issues Signs दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men vs Women: Key Differences You Need to Understand जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Heart Attack Symptoms in Men vs Women: Key Differences You Need to Understand जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital",
+        "headline": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital",
         "description": "Anxiety symptoms in men - recognize stress, anxiety attack symptoms, and mental health issues. Learn about high anxiety symptoms, signs of stress, and when to seek help. Complete Hindi/English guide.",
         "url": "https://rajhospitals.com/blog/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/anxiety-symptoms-in-men-common-signs-of-stress-and-mental-health-issues.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital"
+                "name": "Anxiety Symptoms in Men | Stress & Mental Health Issues Signs - Complete Guide | RAJ Hospital"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

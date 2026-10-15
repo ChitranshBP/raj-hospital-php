@@ -24,7 +24,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "Headaches Types, Causes and Treatment Solutions - Complete Guide",
-        "description": "Comprehensive guide on <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> types including migraine, tension headache, cluster headache with causes, symptoms and treatment options.",
+        "description": "Comprehensive guide on headache types including migraine, tension headache, cluster headache with causes, symptoms and treatment options.",
         "url": "https://rajhospitals.com/blog/headaches-types-causes-treatment-solutions/",
         "author": {
             "@type": "Organization",
@@ -83,10 +83,10 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> ke kitne types hote hain?",
+                "name": "Headache ke kitne types hote hain?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Sabse common headache types hain: 1) Tension Headache - <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> aur muscle tension se hota hai, 2) Migraine - severe one-sided pain with nausea, 3) Cluster Headache - very painful, happens in groups, 4) Sinus Headache - sinus infection se, 5) rebound Headache - overmedication se, 6) Cervicogenic Headache - neck problem se. Har type ka alag treatment hota hai."
+                    "text": "Sabse common headache types hain: 1) Tension Headache - stress aur muscle tension se hota hai, 2) Migraine - severe one-sided pain with nausea, 3) Cluster Headache - very painful, happens in groups, 4) Sinus Headache - sinus infection se, 5) rebound Headache - overmedication se, 6) Cervicogenic Headache - neck problem se. Har type ka alag treatment hota hai."
                 }
             },
             {
@@ -102,12 +102,12 @@
                 "name": "Gharelu upay se headache kaise theek karein?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Home remedies for headache: 1) Rest in dark quiet room, 2) Cold or warm compress on forehead, 3) Gentle head massage, 4) Peppermint oil application on temples, 5) Ginger tea for nausea, 6) Stay hydrated, 7) Deep <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a> exercises, 8) Avoid screen time. Agar headache 3+ days tak ho ya worsen ho, toh doctor se milna chahiye."
+                    "text": "Home remedies for headache: 1) Rest in dark quiet room, 2) Cold or warm compress on forehead, 3) Gentle head massage, 4) Peppermint oil application on temples, 5) Ginger tea for nausea, 6) Stay hydrated, 7) Deep breathing exercises, 8) Avoid screen time. Agar headache 3+ days tak ho ya worsen ho, toh doctor se milna chahiye."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Kabhi kabhi headache <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> ka symptom toh nahi hai?",
+                "name": "Kabhi kabhi headache heart attack ka symptom toh nahi hai?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Headache usually heart attack ka symptom nahi hai, lekin kuch cases mein stroke (brain attack) ka warning sign ho sakta hai. Agar headache suddenly bahut severe ho, vision problems ho, body ek side paralized ho, speech problem ho, toh immediately emergency treatment lo. RAJ Hospital Ranchi mein stroke treatment available hai."

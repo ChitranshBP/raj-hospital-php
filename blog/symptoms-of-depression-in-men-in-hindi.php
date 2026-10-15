@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>पुरुषों में डिप्रेशन के लक्षण (Symptoms of <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi</title>
+    <title>पुरुषों में डिप्रेशन के लक्षण (Symptoms of Depression in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में डिप्रेशन के लक्षण, कारण, उपचार और बचाव के उपाय। पुरुषों में अवसाद अक्सर anger, fatigue और physical symptoms के रूप में दिखता है। RAJ Hospital Ranchi की पूरी गाइड।">
     <meta name="keywords" content="purusho me depression ke lakshan, male depression hindi, पुरुषों में डिप्रेशन, depression symptoms in men in hindi, mental health men hindi, male mental health, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "पुरुषों में डिप्रेशन के लक्षण (Symptoms of <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi",
+        "headline": "पुरुषों में डिप्रेशन के लक्षण (Symptoms of Depression in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi",
         "description": "पुरुषों में डिप्रेशन के लक्षण, कारण, उपचार और बचाव के उपाय।",
         "url": "https://rajhospitals.com/blog/symptoms-of-depression-in-men-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/symptoms-of-depression-in-men-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "पुरुषों में डिप्रेशन के लक्षण (Symptoms of <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi"
+                "name": "पुरुषों में डिप्रेशन के लक्षण (Symptoms of Depression in Men in Hindi) - Complete Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

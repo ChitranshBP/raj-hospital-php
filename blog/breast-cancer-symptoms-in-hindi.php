@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi</title>
+    <title>Breast Cancer Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="Breast Cancer Symptoms in Hindi - स्तन कैंसर के लक्षण, self-examination तरीका और prevention tips। Early detection से समय पर इलाज संभव होता है।">
     <meta name="keywords" content="breast cancer symptoms, breast cancer in hindi, स्तन कैंसर, लक्षण, oncology, ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Breast Cancer Symptoms in Hindi - जानें लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना जैसी स्थिति हो, तो बिना देर किए डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi",
+        "headline": "Breast Cancer Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi",
         "description": "Breast Cancer Symptoms in Hindi - स्तन कैंसर के लक्षण, self-examination तरीका और prevention tips। Early detection से समय पर इलाज संभव होता है।",
         "url": "https://rajhospitals.com/blog/breast-cancer-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/breast-cancer-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Breast Cancer</a> Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi"
+                "name": "Breast Cancer Symptoms in Hindi - जानें लक्षण | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

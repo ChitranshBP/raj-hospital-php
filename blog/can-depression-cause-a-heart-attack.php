@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Understanding the Hidden Connection | RAJ Hospital Ranchi</title>
+    <title>Can Depression Cause a Heart Attack? Understanding the Hidden Connection | RAJ Hospital Ranchi</title>
     <meta name="description" content="Can depression cause a heart attack? RAJ Hospital Ranchi explains the two-way link between depression and heart disease, the warning signs, and how treating your mind protects your heart.">
     <meta name="keywords" content="can depression cause a heart attack, depression and heart disease, depression heart attack link, mental health and heart, does depression cause heart problems, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>? Understanding the Hidden Connection",
+        "headline": "Can Depression Cause a Heart Attack? Understanding the Hidden Connection",
         "description": "Guide on the bidirectional link between depression and heart attack risk, with warning signs and prevention.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?" }
+            { "@type": "ListItem", "position": 3, "name": "Can Depression Cause a Heart Attack?" }
         ]
     }
     </script>
@@ -75,7 +75,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Depression</a> Cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a>?",
+        "name": "Can Depression Cause a Heart Attack?",
         "description": "Guide explaining the two-way relationship between depression and heart attack risk, including mechanisms and prevention.",
         "url": "https://rajhospitals.com/blog/can-depression-cause-a-heart-attack/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -99,7 +99,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">depression</a> directly cause a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a>?",
+                "name": "Can depression directly cause a heart attack?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Depression does not block a coronary artery in a single moment the way a clot does. Instead, it acts as a powerful long-term risk factor: chronic depression raises inflammation, stress hormones and blood pressure, makes platelets stickier, and drives unhealthy habits — together significantly increasing the risk of a heart attack over time. Research shows depression roughly doubles the risk of developing coronary heart disease and worsens outcomes in people who already have it."

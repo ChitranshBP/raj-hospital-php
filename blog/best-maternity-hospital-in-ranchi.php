@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi | RAJ Hospital - Women's Care</title>
+    <title>Best Maternity Hospital in Ranchi | RAJ Hospital - Women's Care</title>
     <meta name="description" content="Ranchi में सही maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।">
     <meta name="keywords" content="right maternity hospital ranchi, delivery hospital ranchi, pregnancy hospital ranchi, gynecologist ranchi, normal delivery ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Best Maternity Hospital in Ranchi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi | RAJ Hospital - Women's Care",
+        "headline": "Best Maternity Hospital in Ranchi | RAJ Hospital - Women's Care",
         "description": "Ranchi में सही maternity hospital कैसे चुनें। Normal delivery, C-section, NICU facilities, experienced gynecologists, और maternity care services के बारे में जानें।",
         "url": "https://rajhospitals.com/blog/best-maternity-hospital-in-ranchi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-maternity-hospital-in-ranchi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Best <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Maternity</a> Hospital in Ranchi | RAJ Hospital - Women's Care"
+                "name": "Best Maternity Hospital in Ranchi | RAJ Hospital - Women's Care"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

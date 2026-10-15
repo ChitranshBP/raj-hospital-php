@@ -111,7 +111,7 @@ $base_url = '../';
                 "name": "महिलाओं में बाल झड़ने के कारण क्या हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "महिलाओं में बाल झड़ने के कारणों में हार्मोनल बदलाव (गर्भावस्था, मेनोपॉज़), <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a>/PCOS, आयरन की कमी, तनाव, और अत्यधिक हेयर स्टाइलिंग शामिल हैं।"
+                    "text": "महिलाओं में बाल झड़ने के कारणों में हार्मोनल बदलाव (गर्भावस्था, मेनोपॉज़), PCOD/PCOS, आयरन की कमी, तनाव, और अत्यधिक हेयर स्टाइलिंग शामिल हैं।"
                 }
             }
         ]
@@ -477,7 +477,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">अभी अपॉइंटमेंट बुक करें</h3>
                         <p class="text-white/90">RAJ Hospital Ranchi में बालों के विशेषज्ञ डर्मेटोलॉजिस्ट से मिलें</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>

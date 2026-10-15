@@ -75,7 +75,7 @@
                 "name": "वायरल बुखार (Viral Fever) क्या है और इसके क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "वायरल बुखार viruses के infection से होने वाला fever है। लक्षण: high fever (101-104°F), <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a>, body aches, fatigue, sore throat, cough, runny nose, और weakness। यह आमतौर पर 3-7 दिन में ठीक हो जाता है।"
+                    "text": "वायरल बुखार viruses के infection से होने वाला fever है। लक्षण: high fever (101-104°F), headache, body aches, fatigue, sore throat, cough, runny nose, और weakness। यह आमतौर पर 3-7 दिन में ठीक हो जाता है।"
                 }
             },
             {

@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-23",
         "dateModified": "2026-05-23",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>-me-pair-me-sujan-in-hindi/",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/pregnancy-me-pair-me-sujan-in-hindi/",
         "keywords": ["pregnancy feet swelling", "pair me sujan", "anasarca pregnancy"],
         "about": {
             "@type": "MedicalCondition",
@@ -163,7 +163,7 @@ $base_url = '../';
                 "@type": "ListItem",
                 "position": 3,
                 "name": "गर्भावस्था",
-                "item": "https://rajhospitals.com/blog?category=<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a>"
+                "item": "https://rajhospitals.com/blog?category=pregnancy"
             },
             {
                 "@type": "ListItem",

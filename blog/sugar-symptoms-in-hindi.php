@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital</title>
+    <title>Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital</title>
     <meta name="description" content="Sugar symptoms in Hindi - diabetes ke early warning signs aur symptoms। High aur low blood sugar के symptoms, causes, prevention aur treatment।">
     <meta name="keywords" content="sugar symptoms in hindi, diabetes symptoms in hindi, high blood sugar symptoms, low blood sugar symptoms, sugar ki bimari">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital",
+        "headline": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital",
         "description": "Sugar symptoms in Hindi - diabetes ke early warning signs aur symptoms। High aur low blood sugar के symptoms, causes, prevention aur treatment।",
         "url": "https://rajhospitals.com/blog/sugar-symptoms-in-hindi",
         "image": "https://rajhospitals.com/blog/assets/img/featured/sugar-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Sugar</a> Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital"
+                "name": "Sugar Symptoms in Hindi - Diabetes Ke Lakshan | RAJ Hospital"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

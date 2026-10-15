@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital</title>
+    <title>Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital</title>
     <meta name="description" content="Seene mein gas ka dard, pet se gas ke karan, symptoms aur treatment। Gas pain in chest ke liye home remedies aur prevention tips।">
     <meta name="keywords" content="seene me gas ka dard, gas pain in chest, pet se gas, bloating, gas problem in hindi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital",
+        "headline": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital",
         "description": "Seene mein gas ka dard, pet se gas ke karan, symptoms aur treatment। Gas pain in chest ke liye home remedies aur prevention tips।",
         "url": "https://rajhospitals.com/blog/seene-me-gas-ka-dard",
         "image": "https://rajhospitals.com/blog/assets/img/featured/seene-me-gas-ka-dard.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Seene Mein <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Gas</a> Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital"
+                "name": "Seene Mein Gas Ka Dard - Pet Se Gas Se Kaise Karein? | RAJ Hospital"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

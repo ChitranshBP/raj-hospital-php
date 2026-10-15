@@ -24,7 +24,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं?",
-        "description": "Complete guide about what to eat and what to avoid in High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>. DASH diet, low sodium foods, and healthy eating tips in Hindi.",
+        "description": "Complete guide about what to eat and what to avoid in High Blood Pressure. DASH diet, low sodium foods, and healthy eating tips in Hindi.",
         "url": "https://rajhospitals.com/blog/high-bp-me-kya-khaye/",
         "author": {
             "@type": "Organization",
@@ -98,7 +98,7 @@
                 "name": "High BP में कौन से fruits खाने चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "High BP में फायदेमंद fruits हैं - केला (पोटैशियम), संतरा, अंगूर, आम, और बेर। ये fruits <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> control करने में मदद करते हैं। रोज़ 2-3 servings fruits ज़रूर लें।"
+                    "text": "High BP में फायदेमंद fruits हैं - केला (पोटैशियम), संतरा, अंगूर, आम, और बेर। ये fruits blood pressure control करने में मदद करते हैं। रोज़ 2-3 servings fruits ज़रूर लें।"
                 }
             },
             {
@@ -138,7 +138,7 @@
                 "name": "High BP control करने के लिए क्या drink करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "High BP control के लिए अच्छे drinks हैं - नारियल पानी, fresh fruit juices without <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">sugar</a>, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।"
+                    "text": "High BP control के लिए अच्छे drinks हैं - नारियल पानी, fresh fruit juices without sugar, buttermilk, और lemon water। दिन में 8-10 glasses water ज़रूर पिएं। Low-fat milk भी beneficial है।"
                 }
             }
         ]
@@ -179,7 +179,7 @@
             "name": "क्या High BP Me Kya Khaye - उच्च रक्तचाप में क्या खाएं? दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए High BP (High Blood Pressure) Ke Gharelu Upchar जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {

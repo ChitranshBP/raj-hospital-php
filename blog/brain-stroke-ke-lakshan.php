@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi</title>
+    <title>Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi</title>
     <meta name="description" content="Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। RAJ Hospital Ranchi की ओर से जानकारी।">
     <meta name="keywords" content="brain stroke, stroke symptoms, लक्षण, brain health, न्यूरोलॉजी, ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Brain Stroke के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। चेहरा टेढ़ा होना, हाथ-पैर में अचानक कमजोरी या बोलने में दिक्कत जैसे stroke के लक्षणों में घरेलू उपाय न आज़माएं — तुरंत 108 पर कॉल करें। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi",
+        "headline": "Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi",
         "description": "Brain Stroke के लक्षण, कारण और बचाव के उपाय जानें। जानें कब तुरंत medical help लें। RAJ Hospital Ranchi की ओर से जानकारी।",
         "url": "https://rajhospitals.com/blog/brain-stroke-ke-lakshan/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/brain-stroke-ke-lakshan.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Brain <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Stroke</a> के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi"
+                "name": "Brain Stroke के लक्षण - Complete Hindi Guide | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

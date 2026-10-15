@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar | RAJ Hospital Ranchi</title>
+    <title>High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi</title>
     <meta name="description" content="High BP ke gharelu upchar, blood pressure ko control karne ke tarike, yoga asanas, aur diet tips। Blood pressure natural remedies जानें।">
     <meta name="keywords" content="high bp remedies, high blood pressure home remedies, bp control tips, blood pressure natural treatment, high blood pressure diet">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "High BP (High Blood Pressure) Ke Gharelu Upchar में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar | RAJ Hospital Ranchi",
+        "headline": "High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi",
         "description": "High BP ke gharelu upchar, blood pressure ko control karne ke tarike, yoga asanas, aur diet tips। Blood pressure natural remedies जानें।",
         "url": "https://rajhospitals.com/blog/remedies-for-high-bp",
         "image": "https://rajhospitals.com/blog/assets/img/featured/remedies-for-high-bp.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "High BP (High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Blood Pressure</a>) Ke Gharelu Upchar | RAJ Hospital Ranchi"
+                "name": "High BP (High Blood Pressure) Ke Gharelu Upchar | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients | RAJ Hospital Ranchi</title>
+    <title>Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi</title>
     <meta name="description" content="Diabetes patients के लिए Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।">
     <meta name="keywords" content="indian diet plan for diabetes, diabetes diet in hindi, food for diabetes, diabetes meal plan, indian food for diabetics">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Indian Diet Plan for Diabetes Patients में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients | RAJ Hospital Ranchi",
+        "headline": "Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi",
         "description": "Diabetes patients के लिए Indian diet plan जानें। Traditional Indian foods, glycemic index, meal timing, और diabetes-friendly recipes के साथ स्वस्थ eating guide।",
         "url": "https://rajhospitals.com/blog/best-indian-diet-plan-for-diabetes-patients",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-indian-diet-plan-for-diabetes-patients.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Indian Diet Plan for <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> Patients | RAJ Hospital Ranchi"
+                "name": "Indian Diet Plan for Diabetes Patients | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

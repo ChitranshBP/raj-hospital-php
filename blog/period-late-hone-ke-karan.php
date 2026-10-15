@@ -53,7 +53,7 @@
             "name": "क्या Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">Acidity</a> ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Acidity ke Lakshan | Acidity Symptoms in Hindi जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {
@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "Period Late Hone Ke Karan - जानिए पीरियड लेट होने के सभी कारण | RAJ Hospital Ranchi",
-        "description": "Period Late Hone Ke Karan in Hindi: पीरियड लेट होने के कारण क्या हैं? जानिए <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> delay होने के 15+ reasons, पीरियड miss होने के reasons और कब doctor से मिलना चाहिए।",
+        "description": "Period Late Hone Ke Karan in Hindi: पीरियड लेट होने के कारण क्या हैं? जानिए periods delay होने के 15+ reasons, पीरियड miss होने के reasons और कब doctor से मिलना चाहिए।",
         "url": "https://rajhospitals.com/blog/period-late-hone-ke-karan/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/period-late-hone-ke-karan.png",
         "author": {
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference? | RAJ Hospital Ranchi</title>
+    <title>Heart Attack vs Cardiac Arrest — What Is the Difference? | RAJ Hospital Ranchi</title>
     <meta name="description" content="Heart attack and cardiac arrest are NOT the same. This RAJ Hospital Ranchi guide explains the difference, the link between the two, and the exact emergency response that saves lives.">
     <meta name="keywords" content="difference between heart attack and cardiac arrest, heart attack vs cardiac arrest, sudden cardiac arrest, CPR, AED, RAJ Hospital Ranchi, multispeciality hospital in Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference?",
+        "headline": "Heart Attack vs Cardiac Arrest — What Is the Difference?",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-08",
@@ -59,7 +59,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest" }
+            { "@type": "ListItem", "position": 3, "name": "Heart Attack vs Cardiac Arrest" }
         ]
     }
     </script>
@@ -69,7 +69,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> vs Cardiac Arrest — What Is the Difference?",
+        "name": "Heart Attack vs Cardiac Arrest — What Is the Difference?",
         "description": "A patient-education comparison of heart attack (myocardial infarction) and cardiac arrest (sudden cardiac arrest), with emergency response steps.",
         "url": "https://rajhospitals.com/blog/difference-between-heart-attack-and-cardiac-arrest/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -93,7 +93,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is the difference between a <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> and cardiac arrest?",
+                "name": "What is the difference between a heart attack and cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "A heart attack (myocardial infarction) is a circulation problem: a blocked artery cuts off blood to a portion of heart muscle, which begins to die. The heart usually keeps beating. A cardiac arrest is an electrical problem: the heart's rhythm goes haywire and it stops pumping effectively, leading to loss of consciousness within seconds. A heart attack can cause a cardiac arrest, but the two are not the same event."
@@ -128,7 +128,7 @@
                 "name": "What should I do if I witness a sudden cardiac arrest?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "1) Check responsiveness and <a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">breathing</a>. 2) Call emergency services (108 in India) and the on-call cardiologist at RAJ Hospital. 3) Start hands-only CPR at 100-120 compressions per minute, 5-6 cm deep, allowing full chest recoil. 4) Use an AED (Automated External Defibrillator) as soon as one is available — every minute of delay reduces survival by 7-10%."
+                    "text": "1) Check responsiveness and breathing. 2) Call emergency services (108 in India) and the on-call cardiologist at RAJ Hospital. 3) Start hands-only CPR at 100-120 compressions per minute, 5-6 cm deep, allowing full chest recoil. 4) Use an AED (Automated External Defibrillator) as soon as one is available — every minute of delay reduces survival by 7-10%."
                 }
             }
         ]

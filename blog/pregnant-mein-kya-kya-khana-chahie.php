@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi</title>
+    <title>Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi</title>
     <meta name="description" content="Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए? Complete pregnancy diet guide in Hindi। nutrients, foods to avoid, और meal planning tips।">
     <meta name="keywords" content="pregnant mein kya khaana chahiye, garbhwali ko kya khana chahiye, pregnancy diet in hindi, garbhavastha mein kya khana chahiye, pregnant diet plan, pregnancy nutrition">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi",
+        "headline": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi",
         "description": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए? Complete pregnancy diet guide in Hindi। nutrients, foods to avoid, और meal planning tips।",
         "url": "https://rajhospitals.com/blog/pregnant-mein-kya-kya-khana-chahie/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pregnant-mein-kya-kya-khana-chahie.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Pregnant</a> Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi"
+                "name": "Pregnant Mein Kya Khaana Chahiye - गर्भवती को क्या खाना चाहिए | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

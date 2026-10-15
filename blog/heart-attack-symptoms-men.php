@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण | RAJ Hospital Ranchi</title>
+    <title>Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में दिल के दौरे (Heart Attack) के लक्षण, कारण, और बचाव के उपाय हिंदी में। जानें कब तुरंत medical help लें। RAJ Hospital Ranchi में neurology और cardiology consultation।">
     <meta name="keywords" content="heart attack symptoms men, दिल के दौरे के लक्षण, पुरुषों में heart attack, heart attack in men hindi, heart attack warning signs, दिल की बीमारी के लक्षण, heart attack prevention">
     <meta name="robots" content="index, follow">
@@ -78,7 +78,7 @@
                 "name": "क्या मधुमेह वाले पुरुषों में दिल के दौरे का खतरा अधिक है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हां, मधुमेह वाले पुरुषों में दिल के दौरे का खतरा 2-4 गुना अधिक होता है। मधुमेह <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart disease</a> का एक प्रमुख जोखिम कारक है और इससे रक्त वाहिकाओं को नुकसान पहुंचता है। इसलिए मधुमेह नियंत्रित रखना बहुत जरूरी है।"
+                    "text": "हां, मधुमेह वाले पुरुषों में दिल के दौरे का खतरा 2-4 गुना अधिक होता है। मधुमेह heart disease का एक प्रमुख जोखिम कारक है और इससे रक्त वाहिकाओं को नुकसान पहुंचता है। इसलिए मधुमेह नियंत्रित रखना बहुत जरूरी है।"
                 }
             },
             {
@@ -86,7 +86,7 @@
                 "name": "दिल के दौरे से बचाव के लिए क्या करना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दिल के दौरे से बचाव के लिए नियमित व्यायाम करें, स्वस्थ आहार लें (फल, सब्जियां, पूरे अनाज), धूम्रपान छोड़ें, शराब सीमित करें, तनाव प्रबंधन करें, और नियमित health checkup कराएं। <a href='/blog/heart-attack-se-kaise-bachen/'>दिल के दौरे से बचाव के बारे में विस्तार से जानें</a>।"
+                    "text": "दिल के दौरे से बचाव के लिए नियमित व्यायाम करें, स्वस्थ आहार लें (फल, सब्जियां, पूरे अनाज), धूम्रपान छोड़ें, शराब सीमित करें, तनाव प्रबंधन करें, और नियमित health checkup कराएं। दिल के दौरे से बचाव के बारे में विस्तार से जानें।"
                 }
             },
             {
@@ -94,7 +94,7 @@
                 "name": "RAJ Hospital Ranchi में दिल की बीमारी का इलाज कैसे होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "RAJ Hospital Ranchi में दिल और नसों की बीमारियों का व्यापक इलाज उपलब्ध है। यहां cardiologists और neurologists से परामर्श उपलब्ध है। <a href='/contact.php'>अपॉइंटमेंट बुक करने के लिए संपर्क करें</a>।"
+                    "text": "RAJ Hospital Ranchi में दिल और नसों की बीमारियों का व्यापक इलाज उपलब्ध है। यहां cardiologists और neurologists से परामर्श उपलब्ध है। अपॉइंटमेंट बुक करने के लिए संपर्क करें।"
                 }
             }
         ]
@@ -106,7 +106,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण",
+        "name": "Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण",
         "description": "पुरुषों में दिल के दौरे (Heart Attack) के लक्षण, कारण, और बचाव के उपाय हिंदी में।",
         "url": "https://rajhospitals.com/blog/heart-attack-symptoms-men/",
         "author": {
@@ -153,7 +153,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men"
+                "name": "Heart Attack Symptoms in Men"
             }
         ]
     }
@@ -166,7 +166,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -177,7 +177,7 @@
             "name": "क्या Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Can <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">Anxiety</a> Cause a Heart Attack? जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Can Anxiety Cause a Heart Attack? जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {

@@ -90,7 +90,7 @@
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "headline": "Danger Level of SGPT and SGOT - When to Worry? | RAJ Hospital Ranchi",
-        "description": "Understand SGPT and SGOT danger levels, what values indicate <a href="/specialties/gastroenterology.php" class="text-red-600 hover:underline font-semibold">liver</a> damage, symptoms of high liver enzymes, and when to seek medical help. Guidance from RAJ Hospital, Ranchi.",
+        "description": "Understand SGPT and SGOT danger levels, what values indicate liver damage, symptoms of high liver enzymes, and when to seek medical help. Guidance from RAJ Hospital, Ranchi.",
         "url": "https://rajhospitals.com/blog/danger-level-of-sgpt-and-sgot/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/danger-level-of-sgpt-and-sgot.png",
         "author": {
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

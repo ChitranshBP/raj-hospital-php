@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies &amp; Medical Treatments | RAJ Hospital Ranchi</title>
+    <title>How to Relieve a Sinus Headache: Effective Home Remedies &amp; Medical Treatments | RAJ Hospital Ranchi</title>
     <meta name="description" content="How to cure a sinus headache fast — steam, saline rinse, hydration and commonly used home remedies, plus the medical treatments and warning signs doctors at RAJ Hospital Ranchi recommend you never ignore.">
     <meta name="keywords" content="how to cure a sinus headache, sinus headache remedies, sinus headache treatment, sinus headache relief, sinus pressure headache, home remedies for sinus headache, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>: Effective Home Remedies & Medical Treatments",
+        "headline": "How to Relieve a Sinus Headache: Effective Home Remedies & Medical Treatments",
         "description": "Guide to relieving a sinus headache with home remedies and medical treatment, plus warning signs.",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -65,7 +65,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>" }
+            { "@type": "ListItem", "position": 3, "name": "How to Relieve a Sinus Headache" }
         ]
     }
     </script>
@@ -75,7 +75,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "How to Relieve a Sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a>",
+        "name": "How to Relieve a Sinus Headache",
         "description": "Home remedies and medical treatments for sinus headaches, with guidance on when to see a doctor.",
         "url": "https://rajhospitals.com/blog/how-to-cure-a-sinus-headache/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -99,7 +99,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "How do I get rid of a sinus <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> fast?",
+                "name": "How do I get rid of a sinus headache fast?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "For quick relief, inhale steam, use a saline nasal rinse to clear the sinuses, apply a warm compress over your cheeks and forehead, drink plenty of fluids, and rest in an upright, well-humidified room. An over-the-counter pain reliever and, for a few days only, a decongestant can help. If pain is severe or persists beyond about 7–10 days, or comes with high fever, see a doctor."

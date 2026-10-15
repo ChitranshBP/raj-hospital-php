@@ -39,7 +39,7 @@ $base_url = '../';
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "ब्लड प्रेशर कैसे कंट्रोल करें?",
-        "description": "High <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> को कंट्रोल करने के घरेलू उपाय, lifestyle changes, diet और आयुर्वेदिक नुस्खे।",
+        "description": "High blood pressure को कंट्रोल करने के घरेलू उपाय, lifestyle changes, diet और आयुर्वेदिक नुस्खे।",
         "author": {
             "@type": "Organization",
             "name": "RAJ Hospital Ranchi"
@@ -71,7 +71,7 @@ $base_url = '../';
                 "name": "ब्लड प्रेशर कितना होना चाहिए?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "सामान्य ब्लड प्रेशर 120/80 mmHg से कम होता है। 130/80 या उससे ऊपर को high <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">blood pressure</a> माना जाता है। 90/60 से नीचे low blood pressure है।"
+                    "text": "सामान्य ब्लड प्रेशर 120/80 mmHg से कम होता है। 130/80 या उससे ऊपर को high blood pressure माना जाता है। 90/60 से नीचे low blood pressure है।"
                 }
             },
             {
@@ -111,7 +111,7 @@ $base_url = '../';
                 "name": "तनाव और BP में क्या संबंध है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "तनाव BP बढ़ाता है क्योंकि <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a> hormones adrenaline और cortisol released होते हैं। लंबे समय तक तनाव से chronic hypertension हो सकता है।"
+                    "text": "तनाव BP बढ़ाता है क्योंकि stress hormones adrenaline और cortisol released होते हैं। लंबे समय तक तनाव से chronic hypertension हो सकता है।"
                 }
             }
         ]
@@ -450,7 +450,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">हृदय रोग विशेषज्ञ से मिलें</h3>
                         <p class="text-white/90">BP की जाँच और उपचार के लिए</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>

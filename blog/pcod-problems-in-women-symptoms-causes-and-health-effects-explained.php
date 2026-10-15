@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi</title>
+    <title>PCOD Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi</title>
     <meta name="description" content="PCOD Problems in Women - Complete guide on symptoms, causes and health effects. Learn about PCOD vs PCOS, treatment options and lifestyle changes needed.">
     <meta name="keywords" content="PCOD, PCOS, PCOD problems in women, polycystic ovarian disease, hormonal imbalance, women's health ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "PCOD Problems in Women - Symptoms, Causes and Health Effects में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi",
+        "headline": "PCOD Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi",
         "description": "PCOD Problems in Women - Complete guide on symptoms, causes and health effects. Learn about PCOD vs PCOS, treatment options and lifestyle changes needed.",
         "url": "https://rajhospitals.com/blog/pcod-problems-in-women-symptoms-causes-and-health-effects-explained/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pcod-problems-in-women-symptoms-causes-and-health-effects-explained.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi"
+                "name": "PCOD Problems in Women - Symptoms, Causes and Health Effects | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

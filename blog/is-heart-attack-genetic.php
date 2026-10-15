@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic? Family Risk, Inherited Causes & Prevention | RAJ Hospital Ranchi</title>
+    <title>Is Heart Attack Genetic? Family Risk, Inherited Causes & Prevention | RAJ Hospital Ranchi</title>
     <meta name="description" content="Is heart attack genetic? RAJ Hospital Ranchi explains family risk, inherited conditions like FH and Lp(a), genetic testing, and how to protect yourself if heart disease runs in your family.">
     <meta name="keywords" content="is heart attack genetic, hereditary heart disease, family history heart attack, familial hypercholesterolemia, Lp(a), genetic testing heart, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic? Family Risk, Inherited Causes & Prevention",
+        "headline": "Is Heart Attack Genetic? Family Risk, Inherited Causes & Prevention",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
         "publisher": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "logo": { "@type": "ImageObject", "url": "https://rajhospitals.com/assets/favicon/raj-favicon-.png" } },
         "datePublished": "2026-06-12",
@@ -59,7 +59,7 @@
         "itemListElement": [
             { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rajhospitals.com/" },
             { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rajhospitals.com/blog/" },
-            { "@type": "ListItem", "position": 3, "name": "Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic?" }
+            { "@type": "ListItem", "position": 3, "name": "Is Heart Attack Genetic?" }
         ]
     }
     </script>
@@ -69,7 +69,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Genetic?",
+        "name": "Is Heart Attack Genetic?",
         "description": "A guide to genetic and familial risk of heart attack, including familial hypercholesterolemia, Lp(a), and prevention strategies.",
         "url": "https://rajhospitals.com/blog/is-heart-attack-genetic/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi" },
@@ -93,7 +93,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "Is <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">heart attack</a> genetic?",
+                "name": "Is heart attack genetic?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Heart attack itself is not inherited as a single gene, but the risk of having one is strongly influenced by genetics. Having a first-degree relative (parent, sibling) who had a heart attack before age 55 (men) or 65 (women) raises your own risk by 2-7 times. Some specific inherited conditions — familial hypercholesterolemia, elevated Lp(a), Long QT syndrome, hypertrophic cardiomyopathy — are directly genetic; FH and high Lp(a) raise early heart-attack risk, while Long QT and HCM mainly cause sudden cardiac arrest in young adults."
@@ -128,7 +128,7 @@
                 "name": "If my father had a heart attack at 50, what should I do?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Start preventive cardiology screening at age 30 — not 40. This includes a fasting lipid panel, Lp(a), hs-CRP, blood pressure, BMI, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">blood sugar</a> (HbA1c), ECG and a coronary calcium score (CT) at age 40. The cardiologists at RAJ Hospital Ranchi run a dedicated 'Family Heart Risk' clinic for exactly this scenario."
+                    "text": "Start preventive cardiology screening at age 30 — not 40. This includes a fasting lipid panel, Lp(a), hs-CRP, blood pressure, BMI, blood sugar (HbA1c), ECG and a coronary calcium score (CT) at age 40. The cardiologists at RAJ Hospital Ranchi run a dedicated 'Family Heart Risk' clinic for exactly this scenario."
                 }
             }
         ]

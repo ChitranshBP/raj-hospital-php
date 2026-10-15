@@ -51,7 +51,7 @@ $base_url = '../';
         },
         "datePublished": "2026-05-23",
         "dateModified": "2026-05-23",
-        "mainEntityOfPage": "https://rajhospitals.com/blog/symptoms-of-breast-<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a>-in-women-early-signs-every-woman-must-know/",
+        "mainEntityOfPage": "https://rajhospitals.com/blog/symptoms-of-breast-cancer-in-women-early-signs-every-woman-must-know/",
         "keywords": ["breast cancer symptoms", "breast cancer early signs", "mahilaon mein cancer"],
         "about": {
             "@type": "MedicalCondition",
@@ -87,7 +87,7 @@ $base_url = '../';
                 "name": "Self breast examination कैसे करें?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "हर महीने <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">periods</a> के 5-7 दिन बाद shower में या mirror के सामने खड़े होकर छाती की जाँच करें। गांठ, असमानता, या त्वचा में बदलाव देखें।"
+                    "text": "हर महीने periods के 5-7 दिन बाद shower में या mirror के सामने खड़े होकर छाती की जाँच करें। गांठ, असमानता, या त्वचा में बदलाव देखें।"
                 }
             },
             {
@@ -163,7 +163,7 @@ $base_url = '../';
                 "@type": "ListItem",
                 "position": 3,
                 "name": "कैंसर",
-                "item": "https://rajhospitals.com/blog?category=<a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">cancer</a>"
+                "item": "https://rajhospitals.com/blog?category=cancer"
             },
             {
                 "@type": "ListItem",

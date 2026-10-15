@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saans Lene Mein Dikkat (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> Difficulty) - Kya Karein? | RAJ Hospital</title>
+    <title>Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? | RAJ Hospital</title>
     <meta name="description" content="Saans lene mein dikkat ho to kya karein, breathing problems ke causes aur ilaj के बारे में जानें। shortness of breath, dyspnea treatment और prevention tips।">
     <meta name="keywords" content="saans lene mein dikkat, breathing difficulty in hindi, shortness of breath, dyspnea treatment, saans ki problems">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Saans Lene Mein Dikkat (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> Difficulty) - Kya Karein? में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Saans Lene Mein Dikkat (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> Difficulty) - Kya Karein? | RAJ Hospital",
+        "headline": "Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? | RAJ Hospital",
         "description": "Saans lene mein dikkat ho to kya karein, breathing problems ke causes aur ilaj के बारे में जानें। shortness of breath, dyspnea treatment और prevention tips।",
         "url": "https://rajhospitals.com/blog/saans-lene-mein-dikkat-ho-to-kya-kare",
         "image": "https://rajhospitals.com/blog/assets/img/featured/saans-lene-mein-dikkat-ho-to-kya-kare.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Saans Lene Mein Dikkat (<a href="/specialties/pulmonology.php" class="text-red-600 hover:underline font-semibold">Breathing</a> Difficulty) - Kya Karein? | RAJ Hospital"
+                "name": "Saans Lene Mein Dikkat (Breathing Difficulty) - Kya Karein? | RAJ Hospital"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

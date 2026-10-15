@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urine Infection</a> Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण | RAJ Hospital Ranchi</title>
+    <title>Urine Infection Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण | RAJ Hospital Ranchi</title>
     <meta name="description" content="पुरुषों में मूत्र संक्रमण के लक्षण (Urine Infection Symptoms in Men) - UTI के कारण, लक्षण, इलाज और बचाव हिंदी में। UTI in men treatment।">
     <meta name="keywords" content="urine infection symptoms men, urinary tract infection, मूत्र संक्रमण, UTI in men, पेशाब में जलन, urinary infection treatment, पुरुषों में UTI">
     <meta name="robots" content="index, follow">
@@ -39,7 +39,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urine Infection</a> Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण",
+        "name": "Urine Infection Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण",
         "description": "पुरुषों में मूत्र संक्रमण (UTI) के लक्षण, कारण और इलाज। RAJ Hospital Ranchi में जांच और इलाज।",
         "url": "https://rajhospitals.com/blog/urine-infection-symptoms-in-men-in-hindi/",
         "author": {
@@ -72,7 +72,7 @@
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "पुरुषों में मूत्र संक्रमण (<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">UTI</a>) के क्या लक्षण हैं?",
+                "name": "पुरुषों में मूत्र संक्रमण (UTI) के क्या लक्षण हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "पुरुषों में UTI के लक्षण: पेशाब में जलन (dysuria), बार-बार पेशाब आना, तुरंत पेशाब की urgent feeling, पेशाब में खून, नीचे पेट में दर्द, fever और chills (अगर infection बढ़ गई हो)। Men में UTI women की तुलना में कम common है, लेकिन serious हो सकती है।"
@@ -83,7 +83,7 @@
                 "name": "पुरुषों में UTI क्यों होती है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "पुरुषों में UTI के कारण: 1) enlarged prostate (BPH) 2) kidney stones 3) improper hygiene 4) unprotected sexual activity 5) weak immune system 6) urinary catheter use 7) <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">diabetes</a> 8) age (older men में ज्यादा common)।"
+                    "text": "पुरुषों में UTI के कारण: 1) enlarged prostate (BPH) 2) kidney stones 3) improper hygiene 4) unprotected sexual activity 5) weak immune system 6) urinary catheter use 7) diabetes 8) age (older men में ज्यादा common)।"
                 }
             },
             {
@@ -126,7 +126,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/urology.php" class="text-red-600 hover:underline font-semibold">Urine Infection</a> Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण | RAJ Hospital Ranchi"
+                "name": "Urine Infection Symptoms in Men in Hindi - पुरुषों में मूत्र संक्रमण के लक्षण | RAJ Hospital Ranchi"
             }
         ]
     }

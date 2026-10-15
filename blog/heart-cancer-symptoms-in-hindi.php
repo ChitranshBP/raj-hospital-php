@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>दिल का कैंसर के लक्षण - Heart <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | RAJ Hospital Ranchi</title>
+    <title>दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi | RAJ Hospital Ranchi</title>
     <meta name="description" content="दिल का कैंसर (Heart Cancer) के लक्षण जानें। जानें दिल के कैंसर के शुरुआती और गंभीर लक्षण, कारण और बचाव के उपाय। RAJ Hospital Ranchi से जानकारी।">
     <meta name="keywords" content="heart cancer, दिल का कैंसर, heart cancer symptoms in hindi, cardiac tumor, cardiac sarcoma, दिल का कैंसर के लक्षण, cardiology, ranchi">
     <meta name="robots" content="index, follow">
@@ -66,7 +66,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "दिल का कैंसर के लक्षण - Heart <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi",
+        "name": "दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi",
         "description": "दिल का कैंसर (Heart Cancer) के लक्षण, कारण, diagnosis और treatment options की complete guide।",
         "author": {
             "@type": "Organization",
@@ -81,7 +81,7 @@
         "dateModified": "2026-05-22",
         "about": {
             "@type": "MedicalCondition",
-            "name": "Heart Cancer (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Cardiac</a> Tumor)",
+            "name": "Heart Cancer (Cardiac Tumor)",
             "affectedBodySystem": "Cardiovascular System"
         },
         "medicalSpecialty": "Cardiology",
@@ -99,7 +99,7 @@
                 "name": "दिल का कैंसर क्या होता है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "दिल का कैंसर (<a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Cardiac</a> <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Tumor</a>) एक rare medical condition है जिसमें दिल में tumor बनता है। यह primary (अपने दिल से शुरू) या secondary (शरीर के दूसरे हिस्से से फैला) हो सकता है। Primary heart tumors बहुत rare हैं (सभी tumors में से 0.1% से कम)।"
+                    "text": "दिल का कैंसर (Cardiac Tumor) एक rare medical condition है जिसमें दिल में tumor बनता है। यह primary (अपने दिल से शुरू) या secondary (शरीर के दूसरे हिस्से से फैला) हो सकता है। Primary heart tumors बहुत rare हैं (सभी tumors में से 0.1% से कम)।"
                 }
             },
             {
@@ -161,7 +161,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "दिल का कैंसर के लक्षण - Heart <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -172,7 +172,7 @@
             "name": "क्या दिल का कैंसर के लक्षण - Heart Cancer Symptoms in Hindi दूसरी स्वास्थ्य समस्याओं से जुड़ा हो सकता है?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए <a href="/specialties/cardiology.php" class="text-red-600 hover:underline font-semibold">Heart Attack</a> Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
+                "text": "हां, कई लक्षण अलग-अलग बीमारियों में मिलते-जुलते हो सकते हैं। इसलिए Heart Attack Symptoms in Men - पुरुषों में दिल के दौरे के लक्षण जैसे संबंधित विषयों को समझना उपयोगी है। जरूरत के अनुसार डॉक्टर जांच, ब्लड टेस्ट, इमेजिंग, ईसीजी या विशेषज्ञ परामर्श की सलाह दे सकते हैं।"
             }
         },
         {

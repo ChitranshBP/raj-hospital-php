@@ -91,7 +91,7 @@
         "@type": "MedicalWebPage",
         "headline": "माइग्रेन के लक्षण - कारण, प्रकार और इलाज | RAJ Hospital Ranchi",
         "description": "माइग्रेन के प्रमुख लक्षण, कारण और प्रभावी इलाज जानें। जानें कब डॉक्टर को दिखाना है। ",
-        "url": "https://rajhospitals.com/blog/<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">migraine</a>-symptoms-in-hindi/",
+        "url": "https://rajhospitals.com/blog/migraine-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/migraine-symptoms-in-hindi.png",
         "author": {
             "@type": "Organization",
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

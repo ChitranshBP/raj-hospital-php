@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>सिरदर्द का घरेलू इलाज | <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi - तुरंत राहत के उपाय | RAJ Hospital Ranchi</title>
+    <title>सिरदर्द का घरेलू इलाज | Headache Treatment at Home in Hindi - तुरंत राहत के उपाय | RAJ Hospital Ranchi</title>
     <meta name="description" content="सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय जानें। पानी, आराम, सिकाई, मसाज और सही आदतों से headache में राहत पाएं। जानें कब डॉक्टर को दिखाना जरूरी है।">
     <meta name="keywords" content="headache treatment at home in hindi, सिरदर्द का घरेलू इलाज, sir dard ka gharelu ilaj, सिरदर्द के घरेलू उपाय, sir dard ka ilaj, माइग्रेन का घरेलू इलाज, तुरंत सिरदर्द से राहत, RAJ Hospital Ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)",
+        "headline": "सिरदर्द का घरेलू इलाज और तुरंत राहत के उपाय (Headache Treatment at Home in Hindi)",
         "description": "सिरदर्द का घरेलू इलाज और तुरंत राहत के 10 असरदार उपाय, कारण, और कब डॉक्टर को दिखाना चाहिए — हिंदी गाइड।",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
         "publisher": {
@@ -76,7 +76,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "name": "सिरदर्द का घरेलू इलाज (<a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">Headache</a> Treatment at Home in Hindi)",
+        "name": "सिरदर्द का घरेलू इलाज (Headache Treatment at Home in Hindi)",
         "description": "सिरदर्द के घरेलू उपाय, कारण और चेतावनी संकेत — हिंदी गाइड।",
         "url": "https://rajhospitals.com/blog/headache-treatment-at-home-in-hindi/",
         "author": { "@type": "Organization", "name": "RAJ Hospital Ranchi", "url": "https://rajhospitals.com" },
@@ -103,7 +103,7 @@
                 "name": "सिरदर्द का तुरंत घरेलू इलाज क्या है?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "तुरंत राहत के लिए एक-दो गिलास पानी पिएं, शांत और अंधेरे कमरे में आराम करें, माथे या गर्दन पर ठंडी या गर्म सिकाई करें, कनपटी (temple) की हल्की मालिश करें और गहरी सांस लें। ज्यादातर tension <a href="/specialties/neurology.php" class="text-red-600 hover:underline font-semibold">headache</a> इन उपायों से एक घंटे के भीतर ठीक हो जाते हैं। कभी-कभी डॉक्टर की सलाह से पैरासिटामोल जैसी दवा भी ली जा सकती है।"
+                    "text": "तुरंत राहत के लिए एक-दो गिलास पानी पिएं, शांत और अंधेरे कमरे में आराम करें, माथे या गर्दन पर ठंडी या गर्म सिकाई करें, कनपटी (temple) की हल्की मालिश करें और गहरी सांस लें। ज्यादातर tension headache इन उपायों से एक घंटे के भीतर ठीक हो जाते हैं। कभी-कभी डॉक्टर की सलाह से पैरासिटामोल जैसी दवा भी ली जा सकती है।"
                 }
             },
             {

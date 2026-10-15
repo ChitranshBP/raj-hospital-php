@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Moringa and <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> | RAJ Hospital</title>
+    <title>Moringa and Diabetes | RAJ Hospital</title>
     <meta name="description" content="Moringa for diabetes - evidence, सावधानियां और doctor से कब पूछें, जानें। Moringa powder, capsules और tea से जुड़ी जानकारी, research की सीमाएं और ज़रूरी सावधानियां।">
     <meta name="keywords" content="moringa diabetes, moringa for diabetes, moringa powder benefits, moringa dosage diabetes, drumstick leaves diabetes">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Moringa and <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Moringa and Diabetes में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Moringa and <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> | RAJ Hospital",
+        "headline": "Moringa and Diabetes | RAJ Hospital",
         "description": "Moringa for diabetes - evidence, सावधानियां और doctor से कब पूछें, जानें। Moringa powder, capsules और tea से जुड़ी जानकारी, research की सीमाएं और ज़रूरी सावधानियां।",
         "url": "https://rajhospitals.com/blog/best-ways-to-take-moringa-for-managing-diabetes",
         "image": "https://rajhospitals.com/blog/assets/img/featured/best-ways-to-take-moringa-for-managing-diabetes.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Moringa and <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">Diabetes</a> | RAJ Hospital"
+                "name": "Moringa and Diabetes | RAJ Hospital"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

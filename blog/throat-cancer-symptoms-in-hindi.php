@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital</title>
+    <title>Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital</title>
     <meta name="description" content="Throat cancer ke symptoms in Hindi जानें। गले के कैंसर के शुरुआती signs, causes, और treatment options। Early detection और prevention tips।">
     <meta name="keywords" content="throat cancer symptoms in hindi, gale ka cancer, galte ke cancer ke lakshan, throat cancer warning signs">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर आवाज़ बैठना, गले में खराश, निगलने में तकलीफ या गर्दन में गांठ 2-3 हफ्ते से ज़्यादा रहे, खांसी/थूक में खून आए, सांस लेने में परेशानी हो या बिना कारण वजन कम हो रहा हो, तो जल्द से जल्द ENT specialist से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital",
+        "headline": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital",
         "description": "Throat cancer ke symptoms in Hindi जानें। गले के कैंसर के शुरुआती signs, causes, और treatment options। Early detection और prevention tips।",
         "url": "https://rajhospitals.com/blog/throat-cancer-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/throat-cancer-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Throat <a href="/specialties/oncology-cancer-care.php" class="text-red-600 hover:underline font-semibold">Cancer</a> Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital"
+                "name": "Throat Cancer Symptoms in Hindi | गले के कैंसर के लक्षण - Complete Guide | RAJ Hospital"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]

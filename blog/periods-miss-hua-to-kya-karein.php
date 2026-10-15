@@ -39,7 +39,7 @@ $base_url = '../';
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
         "name": "पीरियड्स मिस हो गए तो क्या करें?",
-        "description": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">Periods</a> miss होने के कारण, pregnancy test, और कब डॉक्टर से मिलना चाहिए इसकी जानकारी।",
+        "description": "Periods miss होने के कारण, pregnancy test, और कब डॉक्टर से मिलना चाहिए इसकी जानकारी।",
         "author": {
             "@type": "Organization",
             "name": "RAJ Hospital Ranchi"
@@ -71,7 +71,7 @@ $base_url = '../';
                 "name": "पीरियड्स मिस होने के क्या कारण हो सकते हैं?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "पीरियड्स मिस होने के कारणों में <a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">pregnancy</a> सबसे आम है। इसके अलावा <a href="/specialties/psychiatry-and-mental-health.php" class="text-red-600 hover:underline font-semibold">stress</a>, PCOD/PCOS, <a href="/specialties/internal-medicine.php" class="text-red-600 hover:underline font-semibold">thyroid</a> problems, ज़्यादा वज़न या कम वज़न, और hormonal changes भी कारण हो सकते हैं।"
+                    "text": "पीरियड्स मिस होने के कारणों में pregnancy सबसे आम है। इसके अलावा stress, PCOD/PCOS, thyroid problems, ज़्यादा वज़न या कम वज़न, और hormonal changes भी कारण हो सकते हैं।"
                 }
             },
             {
@@ -383,7 +383,7 @@ $base_url = '../';
                         <h3 class="text-xl font-bold mb-2">RAJ Hospital में जाँच करें</h3>
                         <p class="text-white/90">Ultrasound, hormones test और specialist consultation</p>
                     </div>
-                    <a href="tel:+919876543210" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
+                    <a href="tel:+919771488888" class="mt-4 md:mt-0 bg-white text-hospital-green px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition flex items-center">
                         <i data-feather="phone" class="w-4 h-4 mr-2"></i>
                         कॉल करें
                     </a>

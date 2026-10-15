@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/favicon/raj-favicon-.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi</title>
+    <title>PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi</title>
     <meta name="description" content="PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज जानें। PCOD vs PCOS अंतर, treatment options और lifestyle changes के बारे में विस्तृत जानकारी।">
     <meta name="keywords" content="PCOD symptoms in hindi, पीसीओडी के लक्षण, pcod symptoms, pcod treatment, women's health, hormonal imbalance, gynecological problems ranchi">
     <meta name="robots" content="index, follow">
@@ -42,7 +42,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज में डॉक्टर को कब दिखाना चाहिए?",
+            "name": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज में डॉक्टर को कब दिखाना चाहिए?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "अगर लक्षण तेज हैं, बार-बार हो रहे हैं, धीरे-धीरे बढ़ रहे हैं, बुखार, सीने में दर्द, सांस लेने में परेशानी, बेहोशी, कमजोरी, अचानक वजन कम होना या घरेलू उपाय से आराम न मिलना जैसी स्थिति हो, तो डॉक्टर से जांच करानी चाहिए। समय पर जांच से असली कारण समझने और जटिलताओं से बचने में मदद मिलती है।"
@@ -89,7 +89,7 @@
     {
         "@context": "https://schema.org",
         "@type": "MedicalWebPage",
-        "headline": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi",
+        "headline": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi",
         "description": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज जानें। PCOD vs PCOS अंतर, treatment options और lifestyle changes के बारे में विस्तृत जानकारी।",
         "url": "https://rajhospitals.com/blog/pcod-symptoms-in-hindi/",
         "image": "https://rajhospitals.com/blog/assets/img/featured/pcod-symptoms-in-hindi.png",
@@ -135,7 +135,7 @@
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "<a href="/specialties/obstetrics-and-gynaecology.php" class="text-red-600 hover:underline font-semibold">PCOD</a> Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi"
+                "name": "PCOD Symptoms in Hindi - पीसीओडी के लक्षण, कारण और इलाज | RAJ Hospital Ranchi"
             }
         ]
     }
@@ -152,7 +152,7 @@
         "description": "RAJ Hospital Ranchi - Multispecialty hospital in Ranchi providing healthcare services.",
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-9771488888",
             "contactType": "customer service",
             "areaServed": "IN",
             "availableLanguage": ["Hindi", "English"]
