@@ -236,6 +236,10 @@
                         <span class="text-gray-700">•</span>
                         <a href="/biomedical-waste-reports.php"
                             class="text-gray-400 hover:text-orange-400 transition-colors">BMW Reports</a>
+                        <span class="text-gray-700">•</span>
+                        <a href="/privacy-policy.php#cookies"
+                            onclick="if (window.RajConsent) { window.RajConsent.open(); return false; }"
+                            class="text-gray-400 hover:text-orange-400 transition-colors">Cookie Settings</a>
                     </div>
                     <!-- <div class="text-gray-500 text-xs text-center mt-4 md:mt-0">
                         Made &amp; Designed by <a href="https://brandingpioneers.com/" target="_blank"
