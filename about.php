@@ -84,7 +84,7 @@
                       <div class="space-y-4 text-gray-600 leading-relaxed">
                         <p>Established in 1991, Raj Hospitals has been providing healthcare in Ranchi, Jharkhand for over three decades. What began as a vision to provide quality medical care to the people of Jharkhand has evolved into a multispeciality healthcare institution.</p>
                         <p>Our journey has been marked by continuous growth, innovation, and an unwavering commitment to patient care. From a modest beginning, we have expanded to become a 100+ bed super specialty hospital, equipped with modern technology and a team of qualified medical professionals.</p>
-                        <p>Today, Raj Hospitals serves not just Ranchi but patients from across Jharkhand and neighboring states. Our partnership with MAX Saket Delhi further strengthens our commitment to providing quality medical care.</p>
+                        <p>Today, Raj Hospitals serves not just Ranchi but patients from across Jharkhand and neighboring states.</p>
                       </div>
                 </div>
                 <div class="fade-in">
