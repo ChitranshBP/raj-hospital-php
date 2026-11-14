@@ -21,10 +21,10 @@ if (!isset($pageTitle)) {
 
 // Meta Description: compelling, 140-160 chars with CTA
 if (!isset($pageDescription)) {
-    $pageDescription = $doctorName . ' (' . $qualifications . ') is a ' . $specialty . ' specialist at Raj Hospital, Ranchi with ' . $experience . ' experience. Book appointment now.';
+    $pageDescription = $doctorName . ' (' . $qualifications . ') is a ' . $specialty . ' specialist at Raj Hospital, Ranchi' . ($experience ? ' with ' . $experience . ' experience' : '') . '. Book appointment now.';
     // Trim to 160 chars if needed
     if (strlen($pageDescription) > 160) {
-        $pageDescription = $doctorName . ' - ' . $specialty . ' at Raj Hospital, Ranchi. ' . $experience . ' experience. Consult now!';
+        $pageDescription = $doctorName . ' - ' . $specialty . ' at Raj Hospital, Ranchi.' . ($experience ? ' ' . $experience . ' experience.' : '') . ' Consult now!';
     }
 }
 
@@ -115,10 +115,12 @@ include($base_url . 'header.php');
                             </p>
 
                             <div class="flex flex-wrap justify-center md:justify-start gap-4 mb-6 text-gray-700">
+                                <?php if (!empty($doctor['experience'])): ?>
                                 <span class="flex items-center"><i data-feather="user"
                                         class="w-5 h-5 mr-2 text-gray-500"></i>
                                     <?php echo htmlspecialchars($doctor['experience']); ?> Experience
                                 </span>
+                                <?php endif; ?>
                                 <?php if (isset($doctor['regNo']) && $doctor['regNo']): ?>
                                     <span class="flex items-center"><i data-feather="hash"
                                             class="w-5 h-5 mr-2 text-gray-500"></i> Reg:

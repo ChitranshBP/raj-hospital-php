@@ -1659,6 +1659,7 @@ Private Hospital in Ranchi
                 { id: 'pradeep-prasad', name: 'Dr. Pradeep Prasad', qualifications: 'MBBS, MD (Biochemistry)', specialty: 'FNAC, Biopsy, Blood & Laboratory Investigations', experience: '10+ Years', image: 'assets/new-doctors-side/pradeep prasad.webp', profileUrl: 'doctors/pradeep-prasad.php' },
                 { id: 'ravi-shekhar-singh', name: 'Dr. Ravi Shekhar Singh', qualifications: 'MBBS, DCH', specialty: 'Pediatrics & Neonatology', experience: '10+ Years', image: 'assets/doc-dummy/male-dummy-raj.webp', profileUrl: 'doctors/ravi-shekhar-singh.php' },
                 { id: 'ashish-basant', name: 'Dr. Ashish Basant', qualifications: 'MBBS, MD', specialty: 'Pediatrics & Neonatology', experience: '8+ Years', image: 'assets/new-doctors-side/ashish basant.webp', profileUrl: 'doctors/ashish-basant.php' },
+                { id: 'ankita', name: 'Dr. Ankita', qualifications: 'MBBS, MS (General Surgery), MCh (Pediatric Surgery)', specialty: 'Pediatric Surgery', experience: '', image: 'assets/new-doctors-side/ankita.webp', profileUrl: 'doctors/ankita.php' },
 
 
             ];
